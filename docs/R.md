@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |789|[@rich-iannone](https://github.com/rich-iannone)/[**DiagrammeR**](https://github.com/rich-iannone/DiagrammeR)|Graph and network visualization using tabular data in R|[:arrow_upper_right:](http://rich-iannone.github.io/DiagrammeR/)|
-|464|[@jennybc](https://github.com/jennybc)/[**googlesheets**](https://github.com/jennybc/googlesheets)|Google Spreadsheets R API||
+|465|[@jennybc](https://github.com/jennybc)/[**googlesheets**](https://github.com/jennybc/googlesheets)|Google Spreadsheets R API||
 |221|[@jennybc](https://github.com/jennybc)/[**reprex**](https://github.com/jennybc/reprex)|Render bits of R code for sharing, e.g., on GitHub or StackOverflow.|[:arrow_upper_right:](http://jennybc.github.io/reprex/)|
 |159|[@jennybc](https://github.com/jennybc)/[**r-graph-catalog**](https://github.com/jennybc/r-graph-catalog)|All graphs in “Creating More Effective Graphs”, made with R package ggplot2.|[:arrow_upper_right:](http://shiny.stat.ubc.ca/r-graph-catalog/)|
-|141|[@jennybc](https://github.com/jennybc)/[**ggplot2-tutorial**](https://github.com/jennybc/ggplot2-tutorial)|Teaching materials for the R package ggplot2||
+|142|[@jennybc](https://github.com/jennybc)/[**ggplot2-tutorial**](https://github.com/jennybc/ggplot2-tutorial)|Teaching materials for the R package ggplot2||
 |119|[@rich-iannone](https://github.com/rich-iannone)/[**stationaRy**](https://github.com/rich-iannone/stationaRy)|Get hourly meteorological data from one of thousands of global stations||
 |100|[@jennybc](https://github.com/jennybc)/[**send-email-with-r**](https://github.com/jennybc/send-email-with-r)|How to send a bunch of email from R||
 |81|[@jennybc](https://github.com/jennybc)/[**gapminder**](https://github.com/jennybc/gapminder)|Excerpt from the Gapminder data, as an R data package and in plain text delimited form||
@@ -64,6 +64,7 @@
 |6|[@rich-iannone](https://github.com/rich-iannone)/[**GetOnBoard**](https://github.com/rich-iannone/GetOnBoard)|Get information onto Panic's Status Board iPad app using R.||
 |5|[@bcgov](https://github.com/bcgov)/[**protected-lands-an…**](https://github.com/bcgov/protected-lands-and-waters-analysis)|R scripts for summarising protected lands and waters in B.C.||
 |5|[@bcgov](https://github.com/bcgov)/[**rems**](https://github.com/bcgov/rems)|Access Data From British Columbia's Environmental Monitoring System in R||
+|5|[@danielmarcelino](https://github.com/danielmarcelino)/[**SoundexBR**](https://github.com/danielmarcelino/SoundexBR)|Soundex (Phonetic) Algorithm For Brazilian Portuguese||
 |5|[@gavinsimpson](https://github.com/gavinsimpson)/[**permute**](https://github.com/gavinsimpson/permute)|Restricted permutations||
 |5|[@mwpennell](https://github.com/mwpennell)/[**arbutus**](https://github.com/mwpennell/arbutus)|Assessing the adequacy of phylogenetic models of quantitative trait evolution||
 |5|[@oganm](https://github.com/oganm)/[**homologene**](https://github.com/oganm/homologene)|An r package that works as a wrapper to homologene||
@@ -71,7 +72,6 @@
 |5|[@rich-iannone](https://github.com/rich-iannone)/[**USAir**](https://github.com/rich-iannone/USAir)|US EPA air monitoring data for 1990–2015||
 |5|[@stevencarlislewalker](https://github.com/stevencarlislewalker)/[**lme4ord**](https://github.com/stevencarlislewalker/lme4ord)|Ecological mixed-effects ordination with lme4||
 |5|[@uken](https://github.com/uken)/[**testr**](https://github.com/uken/testr)|Analytics Testr||
-|4|[@danielmarcelino](https://github.com/danielmarcelino)/[**SoundexBR**](https://github.com/danielmarcelino/SoundexBR)|Soundex (Phonetic) Algorithm For Brazilian Portuguese||
 |4|[@jennybc](https://github.com/jennybc)/[**swcR_duke**](https://github.com/jennybc/swcR_duke)|R content from Duke Software Carpentry Workshop May 2013.||
 |4|[@jennybc](https://github.com/jennybc)/[**system-setup**](https://github.com/jennybc/system-setup)|Notes on how I set up my computer||
 |4|[@oganm](https://github.com/oganm)/[**brainCellTypeSpeci…**](https://github.com/oganm/brainCellTypeSpecificGenes)|code and data for the manuscript||

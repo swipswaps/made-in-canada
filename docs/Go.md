@@ -2,23 +2,23 @@
 |---|---|---|---|
 |6062|[@gizak](https://github.com/gizak)/[**termui**](https://github.com/gizak/termui)|Golang terminal dashboard||
 |3149|[@burke](https://github.com/burke)/[**zeus**](https://github.com/burke/zeus)|Boot any rails app in under a second.||
-|1607|[@travisjeffery](https://github.com/travisjeffery)/[**jocko**](https://github.com/travisjeffery/jocko)|Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install)|[:arrow_upper_right:](https://twitter.com/travisjeffery)|
+|1608|[@travisjeffery](https://github.com/travisjeffery)/[**jocko**](https://github.com/travisjeffery/jocko)|Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install)|[:arrow_upper_right:](https://twitter.com/travisjeffery)|
 |1403|[@maruel](https://github.com/maruel)/[**panicparse**](https://github.com/maruel/panicparse)|Crash your app in style (Golang)|[:arrow_upper_right:](https://maruel.net/post/pre-commit-go/#19)|
 |996|[@tj](https://github.com/tj)/[**mmake**](https://github.com/tj/mmake)|Modern Make ||
 |875|[@unrolled](https://github.com/unrolled)/[**render**](https://github.com/unrolled/render)|Go package for easily rendering JSON, XML, binary data, and HTML templates responses.||
 |835|[@s-rah](https://github.com/s-rah)/[**onionscan**](https://github.com/s-rah/onionscan)|OnionScan is a free and open source tool for investigating the Dark Web.|[:arrow_upper_right:](https://twitter.com/OnionScan)|
 |815|[@kisielk](https://github.com/kisielk)/[**errcheck**](https://github.com/kisielk/errcheck)|errcheck checks that you checked errors.||
-|664|[@unrolled](https://github.com/unrolled)/[**secure**](https://github.com/unrolled/secure)|HTTP middleware for Go that facilitates some quick security wins.||
+|667|[@unrolled](https://github.com/unrolled)/[**secure**](https://github.com/unrolled/secure)|HTTP middleware for Go that facilitates some quick security wins.||
 |596|[@kryptco](https://github.com/kryptco)/[**kr**](https://github.com/kryptco/kr)|kr \| SSH using a key stored in Kryptonite.|[:arrow_upper_right:](https://krypt.co)|
-|473|[@eapache](https://github.com/eapache)/[**go-resiliency**](https://github.com/eapache/go-resiliency)|Resiliency patterns for golang|[:arrow_upper_right:](https://godoc.org/github.com/eapache/go-resiliency)|
+|474|[@eapache](https://github.com/eapache)/[**go-resiliency**](https://github.com/eapache/go-resiliency)|Resiliency patterns for golang|[:arrow_upper_right:](https://godoc.org/github.com/eapache/go-resiliency)|
 |422|[@tj](https://github.com/tj)/[**robo**](https://github.com/tj/robo)|Simple Go / YAML-based task runner for the team.||
 |396|[@alfredxing](https://github.com/alfredxing)/[**calc**](https://github.com/alfredxing/calc)|A simple, fast command-line calculator written in Go||
 |363|[@tj](https://github.com/tj)/[**go-debug**](https://github.com/tj/go-debug)|Conditional debug logging for Golang libraries & applications||
-|355|[@akhenakh](https://github.com/akhenakh)/[**statgo**](https://github.com/akhenakh/statgo)|Access OS metrics from Golang,||
+|356|[@akhenakh](https://github.com/akhenakh)/[**statgo**](https://github.com/akhenakh/statgo)|Access OS metrics from Golang,||
 |331|[@tj](https://github.com/tj)/[**go-spin**](https://github.com/tj/go-spin)|Terminal spinner package for Golang||
 |311|[@eapache](https://github.com/eapache)/[**channels**](https://github.com/eapache/channels)|Golang channel helpers and special types|[:arrow_upper_right:](https://godoc.org/github.com/eapache/channels)|
 |302|[@tj](https://github.com/tj)/[**stack**](https://github.com/tj/stack)|Minimalist provisioning tool written in Go.||
-|267|[@thoughtworks](https://github.com/thoughtworks)/[**talisman**](https://github.com/thoughtworks/talisman)|By hooking into the pre-push hook provided by Git, Talisman validates the outgoing changeset for things that look suspicious - such as authorization tokens and private keys.|[:arrow_upper_right:](https://thoughtworks.github.io/talisman/)|
+|269|[@thoughtworks](https://github.com/thoughtworks)/[**talisman**](https://github.com/thoughtworks/talisman)|By hooking into the pre-push hook provided by Git, Talisman validates the outgoing changeset for things that look suspicious - such as authorization tokens and private keys.|[:arrow_upper_right:](https://thoughtworks.github.io/talisman/)|
 |261|[@monzo](https://github.com/monzo)/[**phosphor**](https://github.com/monzo/phosphor)|Distributed System Tracing in Go|[:arrow_upper_right:](https://phosphor.io)|
 |238|[@gorhill](https://github.com/gorhill)/[**cronexpr**](https://github.com/gorhill/cronexpr)|Cron expression parser in Go language (golang)||
 |217|[@wvanbergen](https://github.com/wvanbergen)/[**kafka**](https://github.com/wvanbergen/kafka)|Load-balancing, resuming Kafka consumer for go, backed by Zookeeper.||
@@ -42,7 +42,7 @@
 |112|[@maruel](https://github.com/maruel)/[**pre-commit-go**](https://github.com/maruel/pre-commit-go)|Toolkit for checks on a Go project before committing via pre-commit git hook. Includes coverage. Fast.||
 |105|[@aybabtme](https://github.com/aybabtme)/[**rgbterm**](https://github.com/aybabtme/rgbterm)|RGB colors for your terminal|[:arrow_upper_right:](http://godoc.org/github.com/aybabtme/rgbterm)|
 |103|[@st3fan](https://github.com/st3fan)/[**dovecot-xaps-daemo…**](https://github.com/st3fan/dovecot-xaps-daemon)|||
-|101|[@kisielk](https://github.com/kisielk)/[**sqlstruct**](https://github.com/kisielk/sqlstruct)|sqlstruct provides some convenience functions for using structs with go's database/sql package||
+|102|[@kisielk](https://github.com/kisielk)/[**sqlstruct**](https://github.com/kisielk/sqlstruct)|sqlstruct provides some convenience functions for using structs with go's database/sql package||
 |94|[@c2h5oh](https://github.com/c2h5oh)/[**hide**](https://github.com/c2h5oh/hide)|Obfuscating IDs made simple with modular multiplicative inverse||
 |87|[@tj](https://github.com/tj)/[**go-dropbox**](https://github.com/tj/go-dropbox)|Dropbox v2 client for Go.||
 |86|[@jasonish](https://github.com/jasonish)/[**evebox**](https://github.com/jasonish/evebox)|Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search|[:arrow_upper_right:](https://evebox.org/)|
@@ -226,6 +226,7 @@
 |6|[@mbogus](https://github.com/mbogus)/[**kube-amqp-autoscal…**](https://github.com/mbogus/kube-amqp-autoscale)|Dynamically scale kubernetes resources using the length of an AMQP queue (number of messages available for retrieval from the queue) to determine the load||
 |6|[@siebenmann](https://github.com/siebenmann)/[**ffox-remote**](https://github.com/siebenmann/ffox-remote)|Lightweight remote control for Unix Firefox||
 |6|[@soniakeys](https://github.com/soniakeys)/[**vlist**](https://github.com/soniakeys/vlist)|VList data structure||
+|6|[@st3fan](https://github.com/st3fan)/[**jsonfeed**](https://github.com/st3fan/jsonfeed)|Minimal JSON Feed Package for Go||
 |6|[@uken](https://github.com/uken)/[**knuckles**](https://github.com/uken/knuckles)|||
 |6|[@unrolled](https://github.com/unrolled)/[**tango**](https://github.com/unrolled/tango)|[Stale] Go web framework. I'd suggest something more idiomatic like https://github.com/codegangsta/negroni||
 |6|[@vhodges](https://github.com/vhodges)/[**flexstatus**](https://github.com/vhodges/flexstatus)|A Flexible Status Bar Tool||
@@ -242,7 +243,6 @@
 |5|[@portertech](https://github.com/portertech)/[**sensu-go**](https://github.com/portertech/sensu-go)|Playing with #golang||
 |5|[@soniakeys](https://github.com/soniakeys)/[**graph2**](https://github.com/soniakeys/graph2)|Experiments with graph algorithms||
 |5|[@soniakeys](https://github.com/soniakeys)/[**multiset**](https://github.com/soniakeys/multiset)|Map-based multisets||
-|5|[@st3fan](https://github.com/st3fan)/[**jsonfeed**](https://github.com/st3fan/jsonfeed)|Minimal JSON Feed Package for Go||
 |5|[@stewart](https://github.com/stewart)/[**http-server**](https://github.com/stewart/http-server)|A Very Simple™, pretty dang fast static-file HTTP Server in Go.||
 |5|[@tj](https://github.com/tj)/[**go-rle**](https://github.com/tj/go-rle)|Run-length encoding utils for Go||
 |5|[@tj](https://github.com/tj)/[**go-writer-stats**](https://github.com/tj/go-writer-stats)|Wrap an io.Writer for metrics.||

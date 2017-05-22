@@ -31,10 +31,10 @@
 |83|[@jasonish](https://github.com/jasonish)/[**libevent-examples**](https://github.com/jasonish/libevent-examples)|||
 |78|[@iH8sn0w](https://github.com/iH8sn0w)/[**iBoot32Patcher**](https://github.com/iH8sn0w/iBoot32Patcher)|A Universal 32-bit iBoot patcher for iPhone OS 2.0 --> iOS 10||
 |76|[@sebastien](https://github.com/sebastien)/[**k7**](https://github.com/sebastien/k7)|A standard library for the V8 JavaScript interpreter||
+|75|[@thestinger](https://github.com/thestinger)/[**linux-hardened**](https://github.com/thestinger/linux-hardened)|A supplement to upstream kernel hardening work by the Kernel Self Protection Project. Only tags have a stable history for now. Changes from PaX / grsecurity are marked as such, which is the case for most but not everything. IRC: irc.freenode.net ##linux-hardened||
 |74|[@pramsey](https://github.com/pramsey)/[**pgsql-ogr-fdw**](https://github.com/pramsey/pgsql-ogr-fdw)|PostgreSQL foreign data wrapper for OGR||
 |73|[@flar2](https://github.com/flar2)/[**ElementalX-N5**](https://github.com/flar2/ElementalX-N5)|ElementalX for Nexus 5|[:arrow_upper_right:](http://elementalx.org/devices/nexus-5/)|
 |73|[@jhawthorn](https://github.com/jhawthorn)/[**meh**](https://github.com/jhawthorn/meh)|:rice_scene: a simple, minimalist, super fast image viewer using raw XLib|[:arrow_upper_right:](http://www.johnhawthorn.com/meh/)|
-|73|[@thestinger](https://github.com/thestinger)/[**linux-hardened**](https://github.com/thestinger/linux-hardened)|A supplement to upstream kernel hardening work by the Kernel Self Protection Project. Only tags have a stable history for now. Changes from PaX / grsecurity are marked as such, which is the case for most but not everything. IRC: irc.freenode.net ##linux-hardened||
 |71|[@sparks](https://github.com/sparks)/[**rter**](https://github.com/sparks/rter)|Real-Time Emergency Response: A project for the Mozilla Ignite Challenge||
 |69|[@shannah](https://github.com/shannah)/[**Java-Objective-C-B…**](https://github.com/shannah/Java-Objective-C-Bridge)|A thin bridge that allows for two-way communication from Java to Objective-C.||
 |64|[@AerialX](https://github.com/AerialX)/[**openal-soft-androi…**](https://github.com/AerialX/openal-soft-android)|OpenAL Soft with Android support|[:arrow_upper_right:](http://kcat.strangesoft.net/openal.html)|
@@ -147,6 +147,7 @@
 |11|[@msantos](https://github.com/msantos)/[**alcove**](https://github.com/msantos/alcove)|Erlang system containers||
 |11|[@pacificclimate](https://github.com/pacificclimate)/[**Rudunits2**](https://github.com/pacificclimate/Rudunits2)|||
 |11|[@robbles](https://github.com/robbles)/[**xbee-driver**](https://github.com/robbles/xbee-driver)|Linux kernel driver that abstracts an Xbee2.5 PAN as a network interface|[:arrow_upper_right:](http://www.wiki.turkinnovations.com/index.php?title=Xbee_Driver)|
+|11|[@thoughtworks](https://github.com/thoughtworks)/[**GilgaMesh**](https://github.com/thoughtworks/GilgaMesh)|An open-source Bluetooth Low Energy self-healing mesh implementation for the nRF51/52 series.||
 |10|[@MechanisM](https://github.com/MechanisM)/[**Tofu**](https://github.com/MechanisM/Tofu)|(Yet another) C web framework||
 |10|[@bbc](https://github.com/bbc)/[**gst-curlhttpsrc**](https://github.com/bbc/gst-curlhttpsrc)|CURL-based URIHandler for GStreamer||
 |10|[@codebrainz](https://github.com/codebrainz)/[**motiondetector**](https://github.com/codebrainz/motiondetector)|GStreamer video motion detection plugin.||
@@ -154,7 +155,6 @@
 |10|[@kovyrin](https://github.com/kovyrin)/[**rpmbuild**](https://github.com/kovyrin/rpmbuild)|My Custom RPM Building Recipes||
 |10|[@sam-github](https://github.com/sam-github)/[**netfilter-lua**](https://github.com/sam-github/netfilter-lua)|lua bindings for netfilter (nfq for libnetfilter_queue and nfct for libnetfilter_conntrack)||
 |10|[@st3fan](https://github.com/st3fan)/[**ewm**](https://github.com/st3fan/ewm)|Emulated Woz Machine||
-|10|[@thoughtworks](https://github.com/thoughtworks)/[**GilgaMesh**](https://github.com/thoughtworks/GilgaMesh)|An open-source Bluetooth Low Energy self-healing mesh implementation for the nRF51/52 series.||
 |10|[@zsck](https://github.com/zsck)/[**C.-Game-of-Life**](https://github.com/zsck/C.-Game-of-Life)|An implementation of Conway's Game of Life written in C using SDL.||
 |9|[@AerialX](https://github.com/AerialX)/[**djmax-dongletools**](https://github.com/AerialX/djmax-dongletools)|DJMax Trilogy Save Data Manager||
 |9|[@AerialX](https://github.com/AerialX)/[**projectM-android**](https://github.com/AerialX/projectM-android)|OpenGL ES1 projectM|[:arrow_upper_right:](http://projectm.sourceforge.net/)|
@@ -185,6 +185,7 @@
 |8|[@yanick](https://github.com/yanick)/[**Term-Caca**](https://github.com/yanick/Term-Caca)|perl interface for libcaca (Colour AsCii Art library) |[:arrow_upper_right:](http://search.cpan.org/dist/Term-Caca)|
 |8|[@yushulx](https://github.com/yushulx)/[**opencv-python-webc…**](https://github.com/yushulx/opencv-python-webcam-barcode-reader)|||
 |7|[@Arvanaghi](https://github.com/Arvanaghi)/[**Windows-DLL-Inject…**](https://github.com/Arvanaghi/Windows-DLL-Injector)|A basic Windows DLL injector in C using CreateRemoteThread and LoadLibrary. Implemented for educational purposes.|[:arrow_upper_right:](https://twitter.com/arvanaghi)|
+|7|[@CopperheadOS](https://github.com/CopperheadOS)/[**kernel_google_marl…**](https://github.com/CopperheadOS/kernel_google_marlin)|||
 |7|[@CopperheadOS](https://github.com/CopperheadOS)/[**kernel_huawei_angl…**](https://github.com/CopperheadOS/kernel_huawei_angler)|||
 |7|[@OniDaito](https://github.com/OniDaito)/[**OpenGLCourse**](https://github.com/OniDaito/OpenGLCourse)|The OpenGL Course held at The London Hackspace||
 |7|[@OniDaito](https://github.com/OniDaito)/[**Seburo**](https://github.com/OniDaito/Seburo)|A Collection of cross-platform C++ Code for OpenGL and Graphics||
@@ -205,7 +206,6 @@
 |7|[@yhyuan](https://github.com/yhyuan)/[**TExaSware**](https://github.com/yhyuan/TExaSware)|||
 |7|[@zafarali](https://github.com/zafarali)/[**pebble-sleepyti.me…**](https://github.com/zafarali/pebble-sleepyti.me)|Sleepyti.me port for Pebble||
 |6|[@AndreLouisCaron](https://github.com/AndreLouisCaron)/[**cscgi**](https://github.com/AndreLouisCaron/cscgi)|Streaming parser for SCGI requests in C.||
-|6|[@CopperheadOS](https://github.com/CopperheadOS)/[**kernel_google_marl…**](https://github.com/CopperheadOS/kernel_google_marlin)|||
 |6|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_bionic**](https://github.com/CopperheadOS/platform_bionic)|||
 |6|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-COpenSSL**](https://github.com/PerfectlySoft/Perfect-COpenSSL)|C module OpenSSL import for Perfect.|[:arrow_upper_right:](https://www.perfect.org)|
 |6|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-Markdown**](https://github.com/PerfectlySoft/Perfect-Markdown)|A solution to convert markdown text into html presentation in Swift, based on GerHobbelt's "upskirt" project.||

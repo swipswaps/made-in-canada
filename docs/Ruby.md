@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|12925|[@Thibaut](https://github.com/Thibaut)/[**devdocs**](https://github.com/Thibaut/devdocs)|API Documentation Browser|[:arrow_upper_right:](http://devdocs.io)|
-|2605|[@cesarferreira](https://github.com/cesarferreira)/[**dryrun**](https://github.com/cesarferreira/dryrun)|:coffee: Try the demo project of any Android Library||
+|12927|[@Thibaut](https://github.com/Thibaut)/[**devdocs**](https://github.com/Thibaut/devdocs)|API Documentation Browser|[:arrow_upper_right:](http://devdocs.io)|
+|2606|[@cesarferreira](https://github.com/cesarferreira)/[**dryrun**](https://github.com/cesarferreira/dryrun)|:coffee: Try the demo project of any Android Library||
 |2369|[@travisjeffery](https://github.com/travisjeffery)/[**timecop**](https://github.com/travisjeffery/timecop)|A gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.||
 |2115|[@wvanbergen](https://github.com/wvanbergen)/[**request-log-analyz…**](https://github.com/wvanbergen/request-log-analyzer)|Create reports based on your log files. Supports Rails, Apache, MySQL, Delayed::Job, and other formats.|[:arrow_upper_right:](http://www.request-log-analyzer.com)|
 |2090|[@tobi](https://github.com/tobi)/[**delayed_job**](https://github.com/tobi/delayed_job)|Database backed asynchronous priority queue -- Extracted from Shopify |[:arrow_upper_right:](http://tobi.github.com/delayed_job)|
-|1920|[@macournoyer](https://github.com/macournoyer)/[**thin**](https://github.com/macournoyer/thin)|A very fast & simple Ruby web server|[:arrow_upper_right:](http://code.macournoyer.com/thin/)|
-|1726|[@kpumuk](https://github.com/kpumuk)/[**meta-tags**](https://github.com/kpumuk/meta-tags)|Search Engine Optimization (SEO) for Ruby on Rails applications.||
+|1921|[@macournoyer](https://github.com/macournoyer)/[**thin**](https://github.com/macournoyer/thin)|A very fast & simple Ruby web server|[:arrow_upper_right:](http://code.macournoyer.com/thin/)|
+|1728|[@kpumuk](https://github.com/kpumuk)/[**meta-tags**](https://github.com/kpumuk/meta-tags)|Search Engine Optimization (SEO) for Ruby on Rails applications.||
 |1631|[@remiprev](https://github.com/remiprev)/[**teamocil**](https://github.com/remiprev/teamocil)|There's no I in Teamocil. At least not where you think. Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.|[:arrow_upper_right:](http://teamocil.com)|
 |1616|[@eliotsykes](https://github.com/eliotsykes)/[**rspec-rails-exampl…**](https://github.com/eliotsykes/rspec-rails-examples)|RSpec cheatsheet & Rails app: Learn how to expertly test Rails apps from a model codebase||
 |1549|[@remiprev](https://github.com/remiprev)/[**her**](https://github.com/remiprev/her)|Her is an ORM (Object Relational Mapper) that maps REST resources to Ruby objects. It is designed to build applications that are powered by a RESTful API instead of a database.|[:arrow_upper_right:](http://her-rb.org)|
@@ -14,7 +14,7 @@
 |1262|[@louismullie](https://github.com/louismullie)/[**treat**](https://github.com/louismullie/treat)|Natural language processing framework for Ruby.||
 |1104|[@tj](https://github.com/tj)/[**commander**](https://github.com/tj/commander)|The complete solution for Ruby command-line executables|[:arrow_upper_right:](http://visionmedia.github.com/commander)|
 |959|[@mispy](https://github.com/mispy)/[**twitter_ebooks**](https://github.com/mispy/twitter_ebooks)|Better twitterbots for all your friends~||
-|858|[@tj](https://github.com/tj)/[**terminal-table**](https://github.com/tj/terminal-table)|Ruby ASCII Table Generator, simple and feature rich.||
+|863|[@tj](https://github.com/tj)/[**terminal-table**](https://github.com/tj/terminal-table)|Ruby ASCII Table Generator, simple and feature rich.||
 |839|[@diogob](https://github.com/diogob)/[**activerecord-postg…**](https://github.com/diogob/activerecord-postgres-hstore)|Goodbye serialize, hello hstore. Speed up hashes in the database.||
 |807|[@wvanbergen](https://github.com/wvanbergen)/[**chunky_png**](https://github.com/wvanbergen/chunky_png)|Read/write access to PNG images in pure Ruby.|[:arrow_upper_right:](http://chunkypng.com)|
 |720|[@tobi](https://github.com/tobi)/[**clarity**](https://github.com/tobi/clarity)|Web interface for the grep and tail -f unix tools. Useful for real-time log analysis. Remotely related to splunk||
@@ -35,7 +35,7 @@
 |436|[@dkubb](https://github.com/dkubb)/[**axiom**](https://github.com/dkubb/axiom)|Simplifies querying of structured data using relational algebra|[:arrow_upper_right:](https://github.com/dkubb/axiom)|
 |431|[@delano](https://github.com/delano)/[**redis-dump**](https://github.com/delano/redis-dump)|Backup and restore your Redis data to and from JSON. ALPHA WARNING!|[:arrow_upper_right:](http://delanotes.com/redis-dump/)|
 |418|[@cesarferreira](https://github.com/cesarferreira)/[**alfi**](https://github.com/cesarferreira/alfi)|Android Library Finder||
-|387|[@eliotsykes](https://github.com/eliotsykes)/[**real-world-rails**](https://github.com/eliotsykes/real-world-rails)|Real World Rails applications and their open source codebases for developers to learn from||
+|388|[@eliotsykes](https://github.com/eliotsykes)/[**real-world-rails**](https://github.com/eliotsykes/real-world-rails)|Real World Rails applications and their open source codebases for developers to learn from||
 |370|[@louismullie](https://github.com/louismullie)/[**stanford-core-nlp**](https://github.com/louismullie/stanford-core-nlp)|Ruby bindings to the Stanford Core NLP tools (English, French, German).||
 |356|[@thoughtworks](https://github.com/thoughtworks)/[**pacto**](https://github.com/thoughtworks/pacto)|Pacto settles disputes between JSON providers and consumers||
 |344|[@dkubb](https://github.com/dkubb)/[**adamantium**](https://github.com/dkubb/adamantium)|Create immutable objects||
@@ -54,7 +54,7 @@
 |222|[@cbbrowne](https://github.com/cbbrowne)/[**tpp**](https://github.com/cbbrowne/tpp)|Text Powerpoint|[:arrow_upper_right:](http://www.ngolde.de/tpp.html)|
 |219|[@StephenOTT](https://github.com/StephenOTT)/[**GitHub-Time-Tracki…**](https://github.com/StephenOTT/GitHub-Time-Tracking)|Use GitHub to Track Time and Budgets for your Development Projects(and really anything else you use GitHub for) - Ruby app that analyzes GitHub Issue Comments, Milestones, and Code Commit Messages for Time Tracking and Budget Tracking information||
 |215|[@dkubb](https://github.com/dkubb)/[**ice_nine**](https://github.com/dkubb/ice_nine)|Deep Freeze Ruby Objects||
-|209|[@eljojo](https://github.com/eljojo)/[**telegram_bot**](https://github.com/eljojo/telegram_bot)|A charismatic Ruby client for Telegram's Bot API||
+|210|[@eljojo](https://github.com/eljojo)/[**telegram_bot**](https://github.com/eljojo/telegram_bot)|A charismatic Ruby client for Telegram's Bot API||
 |196|[@diogob](https://github.com/diogob)/[**postgres-copy**](https://github.com/diogob/postgres-copy)|Simple PostgreSQL's COPY command support in ActiveRecord models||
 |190|[@dkubb](https://github.com/dkubb)/[**equalizer**](https://github.com/dkubb/equalizer)|Define equality, equivalency and hash methods automatically||
 |187|[@mirego](https://github.com/mirego)/[**gaffe**](https://github.com/mirego/gaffe)|:boom: Gaffe handles Rails error pages in a clean, simple way.|[:arrow_upper_right:](http://open.mirego.com)|
@@ -1059,6 +1059,7 @@
 |3|[@macournoyer](https://github.com/macournoyer)/[**meshu**](https://github.com/macournoyer/meshu)|MeshU presentation|[:arrow_upper_right:](http://www.meshconference.com/meshu/marc-andre-cournoyer.php)|
 |3|[@macournoyer](https://github.com/macournoyer)/[**mor7**](https://github.com/macournoyer/mor7)|My Montreal on Rails 7 presentation of Thin|[:arrow_upper_right:](http://www.montrealonrails.com/2008/01/22/announcing-mor-7-presenters-that-was-fast/)|
 |3|[@macournoyer](https://github.com/macournoyer)/[**mtlrb-jan12**](https://github.com/macournoyer/mtlrb-jan12)|Montreal.rb January 2012 presentation on creating an homoiconic programming language in < 150 LOC.||
+|3|[@mathieujobin](https://github.com/mathieujobin)/[**activerecord-mysql…**](https://github.com/mathieujobin/activerecord-mysql-uuid-column)|Real UUID column for ActiveRecord MySQL adapter||
 |3|[@mdeering](https://github.com/mdeering)/[**rails_templates**](https://github.com/mdeering/rails_templates)|Collection of my Rails templates used for generating common apps and prototypes||
 |3|[@meagar](https://github.com/meagar)/[**rails_appcache**](https://github.com/meagar/rails_appcache)|Simple helpers for using the appcache with Rails||
 |3|[@mhsjlw](https://github.com/mhsjlw)/[**thepiratebay**](https://github.com/mhsjlw/thepiratebay)|A simple interface to The Pirate Bay, that is, when it is up.||
@@ -1099,6 +1100,7 @@
 |3|[@singpolyma](https://github.com/singpolyma)/[**XNNTPD**](https://github.com/singpolyma/XNNTPD)|eXtensible NNTP Daemon||
 |3|[@singpolyma](https://github.com/singpolyma)/[**http-pool**](https://github.com/singpolyma/http-pool)|Apache-like pool of HTTP subprocesses||
 |3|[@singpolyma](https://github.com/singpolyma)/[**musearch**](https://github.com/singpolyma/musearch)|Search ALL the microblogs!|[:arrow_upper_right:](http://µsearch.singpolyma.net)|
+|3|[@singpolyma](https://github.com/singpolyma)/[**ripple-rails**](https://github.com/singpolyma/ripple-rails)|Rails integration for Ripple payment notifications.|[:arrow_upper_right:](https://rubygems.org/gems/ripple-rails)|
 |3|[@site-3](https://github.com/site-3)/[**site3.ca**](https://github.com/site-3/site3.ca)|Public website for Site 3 + some member management stuff|[:arrow_upper_right:](http://site3.ca)|
 |3|[@skim6281](https://github.com/skim6281)/[**Instapound**](https://github.com/skim6281/Instapound)|A picture sharing web app inspired by Instagram||
 |3|[@sleepycat](https://github.com/sleepycat)/[**bandcamp_api**](https://github.com/sleepycat/bandcamp_api)|Ruby library for interfacing with the BandCamp.com API||

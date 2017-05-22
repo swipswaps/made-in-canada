@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|10554|[@terryum](https://github.com/terryum)/[**awesome-deep-learn…**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
-|509|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
-|262|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
+|10557|[@terryum](https://github.com/terryum)/[**awesome-deep-learn…**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
+|510|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
+|263|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
 |188|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
 |168|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
 |88|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execu…**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
@@ -14,10 +14,10 @@
 |12|[@bmcfee](https://github.com/bmcfee)/[**laplacian_segmenta…**](https://github.com/bmcfee/laplacian_segmentation)|graph laplacian song segmentation||
 |12|[@bmcfee](https://github.com/bmcfee)/[**olda**](https://github.com/bmcfee/olda)|Music segmentation by ordinal linear discriminant analysis||
 |11|[@PhDP](https://github.com/PhDP)/[**ms_open_licenses**](https://github.com/PhDP/ms_open_licenses)|A defence of permissive licenses (CC0, CC-BY, BSD, MIT, ...) in science||
+|11|[@gaborbernat](https://github.com/gaborbernat)/[**ropi_jegyzet_latex…**](https://github.com/gaborbernat/ropi_jegyzet_latex)|Rendszeroptimizálás||
 |11|[@lyst](https://github.com/lyst)/[**lightfm-paper**](https://github.com/lyst/lightfm-paper)|||
 |11|[@rcompton](https://github.com/rcompton)/[**black-market-recom…**](https://github.com/rcompton/black-market-recommender-systems)|Code and paper||
 |10|[@PhDP](https://github.com/PhDP)/[**article_preprint**](https://github.com/PhDP/article_preprint)|An article on preprints in biology (published in PLOS Biology).||
-|10|[@gaborbernat](https://github.com/gaborbernat)/[**ropi_jegyzet_latex…**](https://github.com/gaborbernat/ropi_jegyzet_latex)|Rendszeroptimizálás||
 |10|[@gdevenyi](https://github.com/gdevenyi)/[**mcmaster.latex**](https://github.com/gdevenyi/mcmaster.latex)|LaTeX Template Satisfying McMaster Thesis Formatting Requirements||
 |8|[@qrwteyrutiyoup](https://github.com/qrwteyrutiyoup)/[**modelo-latex-uece**](https://github.com/qrwteyrutiyoup/modelo-latex-uece)|Modelo de monografia em LaTeX da Universidade Estadual do Ceará (UECE)||
 |8|[@seananderson](https://github.com/seananderson)/[**heavy-tails**](https://github.com/seananderson/heavy-tails)|Black-swan events in animal populations||

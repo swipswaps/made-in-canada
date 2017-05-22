@@ -2,10 +2,10 @@
 |---|---|---|---|
 |143|[@talentdeficit](https://github.com/talentdeficit)/[**exjsx**](https://github.com/talentdeficit/exjsx)|json for elixir||
 |134|[@jkakar](https://github.com/jkakar)/[**aws-elixir**](https://github.com/jkakar/aws-elixir)|AWS clients for Elixir||
+|112|[@joshnuss](https://github.com/joshnuss)/[**commerce_billing**](https://github.com/joshnuss/commerce_billing)|A payment processing library for Elixir||
 |111|[@jarednorman](https://github.com/jarednorman)/[**canada**](https://github.com/jarednorman/canada)|Easy permission definitions in Elixir apps!|[:arrow_upper_right:](https://github.com/jarednorman/canada)|
-|111|[@joshnuss](https://github.com/joshnuss)/[**commerce_billing**](https://github.com/joshnuss/commerce_billing)|A payment processing library for Elixir||
 |93|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
-|78|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Bringing algebras (functors, monads, traversables, &c) to Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
+|79|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Bringing algebras (functors, monads, traversables, &c) to Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
 |76|[@joshnuss](https://github.com/joshnuss)/[**design-patterns-in…**](https://github.com/joshnuss/design-patterns-in-elixir)|Common design patterns in Elixir||
 |61|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
 |56|[@joshnuss](https://github.com/joshnuss)/[**xml_builder**](https://github.com/joshnuss/xml_builder)|Elixir library for generating XML||

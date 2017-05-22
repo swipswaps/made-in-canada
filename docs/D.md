@@ -5,7 +5,7 @@
 |52|[@etcimon](https://github.com/etcimon)/[**botan**](https://github.com/etcimon/botan)|Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc.||
 |32|[@etcimon](https://github.com/etcimon)/[**memutils**](https://github.com/etcimon/memutils)|Overhead allocators, allocator-aware containers and lifetime management for D objects||
 |30|[@etcimon](https://github.com/etcimon)/[**libhttp2**](https://github.com/etcimon/libhttp2)|HTTP/2 library in D, translated from nghttp2||
-|12|[@gnunn1](https://github.com/gnunn1)/[**vgrep**](https://github.com/gnunn1/vgrep)|A grep graphical user interface written in D and GTK 3||
+|13|[@gnunn1](https://github.com/gnunn1)/[**vgrep**](https://github.com/gnunn1/vgrep)|A grep graphical user interface written in D and GTK 3||
 |12|[@trishume](https://github.com/trishume)/[**ddbus**](https://github.com/trishume/ddbus)|D library for interfacing with dbus||
 |10|[@etcimon](https://github.com/etcimon)/[**windows-headers**](https://github.com/etcimon/windows-headers)|windows.h for D projects||
 |6|[@OniDaito](https://github.com/OniDaito)/[**PythonCourse**](https://github.com/OniDaito/PythonCourse)|The Hackspace Python|[:arrow_upper_right:](http://www.section9.co.uk)|
