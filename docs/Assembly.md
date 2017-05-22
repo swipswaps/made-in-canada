@@ -1,5 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|37|[@IanSeyler](https://github.com/IanSeyler)/[**rustboot64**](https://github.com/IanSeyler/rustboot64)|A tiny 64 bit kernel written in Rust||
-|8|[@Apress](https://github.com/Apress)/[**modern-x86-assembl…**](https://github.com/Apress/modern-x86-assembly-language-programming)|Source code for 'Modern X86 Assembly Language Programming' by Daniel Kusswurm||
+|470|[@sim-](https://github.com/sim-)/[**tgy**](https://github.com/sim-/tgy)|tgy -- Open Source Firmware for ATmega-based Brushless ESCs|[:arrow_upper_right:](http://0x.ca/tgy/)|
+|62|[@programble](https://github.com/programble)/[**tetrasm**](https://github.com/programble/tetrasm)|Tetris for x86 in NASM||
+|53|[@chesterbr](https://github.com/chesterbr)/[**2048-2600**](https://github.com/chesterbr/2048-2600)|A port of the 2048 game to the Atari 2600 VCS||
+|41|[@mystor](https://github.com/mystor)/[**micro-coreutils**](https://github.com/mystor/micro-coreutils)|An implementation of the unix commands yes, cat, and echo in as few bytes of executable as possible||
+|23|[@cjauvin](https://github.com/cjauvin)/[**tetris-464**](https://github.com/cjauvin/tetris-464)|A stripped down Tetris clone for the C=64 (no points, no levels, no nothing, except the bare block falling, controlling and colliding mechanism), in about a KLOC of 6502 assembly.||
+|8|[@bzgeb](https://github.com/bzgeb)/[**pd-for-unity**](https://github.com/bzgeb/pd-for-unity)|A sample unity project with pure data embedded.  Currently iOS only. ||
+|7|[@shepheb](https://github.com/shepheb)/[**forth-arm**](https://github.com/shepheb/forth-arm)|Custom Forth implementation for ARMv6 (RasPi)||
+|3|[@shepheb](https://github.com/shepheb)/[**fcc**](https://github.com/shepheb/fcc)|Forth interpreter and compiler - a standard, portable, optimized Forth||
 
