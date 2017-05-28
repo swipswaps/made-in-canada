@@ -2,14 +2,14 @@
 |---|---|---|---|
 |577|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
 |351|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
-|270|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Imple…**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
-|77|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-pr…**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
-|76|[@castorini](https://github.com/castorini)/[**MP-CNN-Torch**](https://github.com/castorini/MP-CNN-Torch)|Multi-Perspective Convolutional Neural Networks for modeling textual similarity (He et al., EMNLP 2015)||
-|66|[@500px](https://github.com/500px)/[**500pxPublisher.lrp…**](https://github.com/500px/500pxPublisher.lrplugin)|Lightroom Plugin for publishing directly to 500px||
+|273|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Imple…**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
+|80|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-pr…**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
+|79|[@castorini](https://github.com/castorini)/[**MP-CNN-Torch**](https://github.com/castorini/MP-CNN-Torch)|Multi-Perspective Convolutional Neural Networks for modeling textual similarity (He et al., EMNLP 2015)||
+|65|[@500px](https://github.com/500px)/[**500pxPublisher.lrp…**](https://github.com/500px/500pxPublisher.lrplugin)|Lightroom Plugin for publishing directly to 500px||
 |46|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**torch-in-action**](https://github.com/nicholas-leonard/torch-in-action)|Code for the Torch in Action book||
 |37|[@karai17](https://github.com/karai17)/[**lapis-chan**](https://github.com/karai17/lapis-chan)|Image board software written in Lua using the Lapis web framework.|[:arrow_upper_right:](http://lapchan.moe)|
-|25|[@castorini](https://github.com/castorini)/[**NCE-CNN-Torch**](https://github.com/castorini/NCE-CNN-Torch)|Noise-Contrastive Estimation for Question Answering with Convolutional Neural Networks (Rao et al. CIKM 2016)||
-|24|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**torchx**](https://github.com/nicholas-leonard/torchx)|torch extensions||
+|27|[@castorini](https://github.com/castorini)/[**NCE-CNN-Torch**](https://github.com/castorini/NCE-CNN-Torch)|Noise-Contrastive Estimation for Question Answering with Convolutional Neural Networks (Rao et al. CIKM 2016)||
+|25|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**torchx**](https://github.com/nicholas-leonard/torchx)|torch extensions||
 |22|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**drmad**](https://github.com/nicholas-leonard/drmad)|Hyper-parameter Optimization with DrMAD and Hypero||
 |20|[@z3t0](https://github.com/z3t0)/[**zwm**](https://github.com/z3t0/zwm)|macOS window manager running on Hammerspoon||
 |18|[@slime73](https://github.com/slime73)/[**love-snippets**](https://github.com/slime73/love-snippets)|Snippets of Lua code useful in the LÖVE game framework.||

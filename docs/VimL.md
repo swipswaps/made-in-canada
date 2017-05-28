@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|236|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
-|178|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
+|243|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
+|179|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
 |126|[@bigfish](https://github.com/bigfish)/[**vim-js-context-col…**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |89|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|for when I quickly need a slightly better vim||
-|69|[@idbrii](https://github.com/idbrii)/[**AsyncCommand**](https://github.com/idbrii/AsyncCommand)|AsyncCommand allows you to execute shell commands without waiting for them  to complete. When the application terminates, its output can be loaded into  a vim buffer.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3431)|
+|68|[@idbrii](https://github.com/idbrii)/[**AsyncCommand**](https://github.com/idbrii/AsyncCommand)|AsyncCommand allows you to execute shell commands without waiting for them  to complete. When the application terminates, its output can be loaded into  a vim buffer.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3431)|
 |53|[@jperras](https://github.com/jperras)/[**vim-dotfiles**](https://github.com/jperras/vim-dotfiles)|Carefully crafted, curated and somewhat Python-oriented Vim development environment||
 |52|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
 |49|[@honza](https://github.com/honza)/[**dockerfile.vim**](https://github.com/honza/dockerfile.vim)|Syntax highlighting for Dockerfiles||
@@ -24,7 +24,7 @@
 |20|[@tommcdo](https://github.com/tommcdo)/[**vim-fugitive-blame…**](https://github.com/tommcdo/vim-fugitive-blame-ext)|Extend tpope/vim-fugitive to show commit message on statusline in :Gblame||
 |19|[@thayerwilliams](https://github.com/thayerwilliams)/[**vimbrant**](https://github.com/thayerwilliams/vimbrant)|A vibrantly dark dark colour scheme for Vim and other terminal applications||
 |18|[@svermeulen](https://github.com/svermeulen)/[**vim-NotableFt**](https://github.com/svermeulen/vim-NotableFt)|||
-|15|[@tommcdo](https://github.com/tommcdo)/[**vim-express**](https://github.com/tommcdo/vim-express)|Easily create custom Vim operators using expressions and substitutions||
+|18|[@tommcdo](https://github.com/tommcdo)/[**vim-express**](https://github.com/tommcdo/vim-express)|Easily create custom Vim operators using expressions and substitutions||
 |15|[@tommcdo](https://github.com/tommcdo)/[**vim-lister**](https://github.com/tommcdo/vim-lister)|A collection of commands for manipulating Vim's lists||
 |15|[@tristen](https://github.com/tristen)/[**superman**](https://github.com/tristen/superman)|:art: A dark theme for Vim||
 |14|[@tommcdo](https://github.com/tommcdo)/[**vim-kangaroo**](https://github.com/tommcdo/vim-kangaroo)|Vim plugin: Maintain a manually-defined jump stack||
@@ -41,13 +41,13 @@
 |9|[@pitr](https://github.com/pitr)/[**config_files**](https://github.com/pitr/config_files)|My config files (aka dotfiles)||
 |8|[@allenhwkim](https://github.com/allenhwkim)/[**nextfile.vim**](https://github.com/allenhwkim/nextfile.vim)|vim script to open related files||
 |7|[@fnichol](https://github.com/fnichol)/[**dotvim**](https://github.com/fnichol/dotvim)|vim configuration||
+|7|[@gregbell](https://github.com/gregbell)/[**dot-vim**](https://github.com/gregbell/dot-vim)|My .vimrc and .vim directory||
 |7|[@idbrii](https://github.com/idbrii)/[**vim-textconv**](https://github.com/idbrii/vim-textconv)|Easily apply text conversions. ||
 |7|[@programble](https://github.com/programble)/[**itchy.vim**](https://github.com/programble/itchy.vim)|Scratch buffers for Vim||
 |7|[@rafaelrosafu](https://github.com/rafaelrosafu)/[**vimfiles**](https://github.com/rafaelrosafu/vimfiles)|My vimfiles (noobie warning)||
 |7|[@thayerwilliams](https://github.com/thayerwilliams)/[**msi-dotfiles**](https://github.com/thayerwilliams/msi-dotfiles)|Archlinux dotfiles for my MSI Wind U120 netbook|[:arrow_upper_right:](http://cinderwick.ca)|
 |7|[@tommcdo](https://github.com/tommcdo)/[**vimfiles**](https://github.com/tommcdo/vimfiles)|A copy of my ~/.vim directory||
 |7|[@ujihisa](https://github.com/ujihisa)/[**neochat.vim**](https://github.com/ujihisa/neochat.vim)|a comprehensive pluggable chat Vim plugin||
-|6|[@gregbell](https://github.com/gregbell)/[**dot-vim**](https://github.com/gregbell/dot-vim)|My .vimrc and .vim directory||
 |6|[@ujihisa](https://github.com/ujihisa)/[**nclipper.vim**](https://github.com/ujihisa/nclipper.vim)|copy lines into clipboard with the line numbers||
 |6|[@ujihisa](https://github.com/ujihisa)/[**tabpagecolorscheme…**](https://github.com/ujihisa/tabpagecolorscheme)|Vim colorscheme on each tabs||
 |6|[@ujihisa](https://github.com/ujihisa)/[**unite-rake**](https://github.com/ujihisa/unite-rake)|A Unite.vim plugin to run tasks or to view descriptions easily, using rake command||

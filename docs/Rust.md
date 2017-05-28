@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |200|[@mystor](https://github.com/mystor)/[**rust-cpp**](https://github.com/mystor/rust-cpp)|Embed C++ directly inside your rust code!||
-|175|[@trishume](https://github.com/trishume)/[**syntect**](https://github.com/trishume/syntect)|Rust library for syntax highlighting using Sublime Text syntax definitions.|[:arrow_upper_right:](http://thume.ca/rustdoc/syntect/syntect/)|
+|177|[@trishume](https://github.com/trishume)/[**syntect**](https://github.com/trishume/syntect)|Rust library for syntax highlighting using Sublime Text syntax definitions.|[:arrow_upper_right:](http://thume.ca/rustdoc/syntect/syntect/)|
 |138|[@luqmana](https://github.com/luqmana)/[**rust-opencl**](https://github.com/luqmana/rust-opencl)|OpenCL bindings for Rust.||
 |113|[@thestinger](https://github.com/thestinger)/[**rust-core**](https://github.com/thestinger/rust-core)|a lightweight standard library for rust with freestanding support (deprecated in favour of libcore upstream)||
 |68|[@luqmana](https://github.com/luqmana)/[**rust-psp-hello**](https://github.com/luqmana/rust-psp-hello)|Simple Hello World in Rust to run on a PSP.||
@@ -9,7 +9,7 @@
 |40|[@zsck](https://github.com/zsck)/[**clink**](https://github.com/zsck/clink)|A developer assistance tool to help with refactoring and keeping related code up to date with changes||
 |32|[@thestinger](https://github.com/thestinger)/[**rust-gmp**](https://github.com/thestinger/rust-gmp)|gmp bindings for rust||
 |30|[@iKevinY](https://github.com/iKevinY)/[**blerp**](https://github.com/iKevinY/blerp)|xkcd #1692: Man Page|[:arrow_upper_right:](https://xkcd.com/1692/)|
-|23|[@mystor](https://github.com/mystor)/[**slag**](https://github.com/mystor/slag)|A whitespace-sensitive syntax for rust||
+|24|[@mystor](https://github.com/mystor)/[**slag**](https://github.com/mystor/slag)|A whitespace-sensitive syntax for rust||
 |19|[@abh1nav](https://github.com/abh1nav)/[**docker-rust**](https://github.com/abh1nav/docker-rust)|Docker client library written in Rust||
 |16|[@hsoft](https://github.com/hsoft)/[**civng**](https://github.com/hsoft/civng)|Civ 5 implementation in Rust with a text-based UI||
 |16|[@programble](https://github.com/programble)/[**inth-oauth2**](https://github.com/programble/inth-oauth2)|OAuth2 client for Rust|[:arrow_upper_right:](https://cmcenroe.me/inth-oauth2/inth_oauth2)|
@@ -31,11 +31,11 @@
 |4|[@gnuvince](https://github.com/gnuvince)/[**ppbert**](https://github.com/gnuvince/ppbert)|A simple pretty printer for Erlang's External Term Format||
 |4|[@jonalmeida](https://github.com/jonalmeida)/[**txtdb**](https://github.com/jonalmeida/txtdb)|(WIP) A simple database system written in Rust for storing data in text files||
 |4|[@lemire](https://github.com/lemire)/[**roaring_rust_bench…**](https://github.com/lemire/roaring_rust_benchmark)|Basic benchmark to compare different Roaring bitmap implementations in Rust||
+|4|[@nbigaouette](https://github.com/nbigaouette)/[**gitlab-api-rs**](https://github.com/nbigaouette/gitlab-api-rs)|Rust wrapper to the GitLab API.||
 |4|[@programble](https://github.com/programble)/[**ego-tree**](https://github.com/programble/ego-tree)|Vec-backed mutable tree|[:arrow_upper_right:](https://cmcenroe.me/ego-tree/ego_tree/)|
 |3|[@defcronyke](https://github.com/defcronyke)/[**blockchain-rust**](https://github.com/defcronyke/blockchain-rust)|The simplest type of blockchain.||
 |3|[@fnichol](https://github.com/fnichol)/[**features-rs**](https://github.com/fnichol/features-rs)|features - A Rust library for runtime feature toggles||
 |3|[@luqmana](https://github.com/luqmana)/[**gdax-client**](https://github.com/luqmana/gdax-client)|Rust client library for Coinbase Exchange (GDAX).||
-|3|[@nbigaouette](https://github.com/nbigaouette)/[**gitlab-api-rs**](https://github.com/nbigaouette/gitlab-api-rs)|Rust wrapper to the GitLab API.||
 |3|[@programble](https://github.com/programble)/[**xn--ls8h**](https://github.com/programble/xn--ls8h)|PILE OF POO||
 |3|[@stewart](https://github.com/stewart)/[**rff**](https://github.com/stewart/rff)|:microscope: rff: fuzzy finder||
 |3|[@thestinger](https://github.com/thestinger)/[**rust-magic**](https://github.com/thestinger/rust-magic)|libmagic bindings for Rust||

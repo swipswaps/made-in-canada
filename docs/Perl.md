@@ -2,14 +2,14 @@
 |---|---|---|---|
 |167|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
 |123|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
-|106|[@agilebits](https://github.com/agilebits)/[**onepassword-utilit…**](https://github.com/agilebits/onepassword-utilities)|Utilities for 1Password||
+|108|[@agilebits](https://github.com/agilebits)/[**onepassword-utilit…**](https://github.com/agilebits/onepassword-utilities)|Utilities for 1Password||
 |90|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
 |69|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
 |62|[@mlangill](https://github.com/mlangill)/[**microbiome_helper**](https://github.com/mlangill/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |51|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
 |38|[@yanick](https://github.com/yanick)/[**git-cpan-patch**](https://github.com/yanick/git-cpan-patch)|System to write patches against CPAN modules via Git||
 |28|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
-|24|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
+|26|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
 |24|[@sjackman](https://github.com/sjackman)/[**fastascripts**](https://github.com/sjackman/fastascripts)|Manipulate FASTA files||
 |21|[@hoytech](https://github.com/hoytech)/[**unliner**](https://github.com/hoytech/unliner)|Untangle your unix pipeline one-liners||
 |18|[@yanick](https://github.com/yanick)/[**Vim-X**](https://github.com/yanick/Vim-X)|Write Perl functions within Vim||
@@ -20,10 +20,10 @@
 |12|[@bcgsc](https://github.com/bcgsc)/[**mirna**](https://github.com/bcgsc/mirna)|microRNA profiling pipeline||
 |11|[@bricas](https://github.com/bricas)/[**statistics-r**](https://github.com/bricas/statistics-r)|Controls the R (R-project) interpreter through Perl|[:arrow_upper_right:](http://metacpan.org/release/Statistics-R/)|
 |11|[@hoytech](https://github.com/hoytech)/[**Session-Token**](https://github.com/hoytech/Session-Token)|Secure, efficient, simple random session token generation||
+|11|[@yanick](https://github.com/yanick)/[**cheatsheets**](https://github.com/yanick/cheatsheets)|My cheatsheets||
 |10|[@carlalexander](https://github.com/carlalexander)/[**macos-nginx-php**](https://github.com/carlalexander/macos-nginx-php)|[UNMAINTAINED] Nginx and PHP config for Mac OS X||
 |10|[@elecnix](https://github.com/elecnix)/[**nagios-postgresql**](https://github.com/elecnix/nagios-postgresql)|Fork of Tony Wasson's nagios plugins for PosgreSQL|[:arrow_upper_right:](http://pgfoundry.org/projects/nagiosplugins/)|
 |10|[@karenetheridge](https://github.com/karenetheridge)/[**Acme-LookOfDisappr…**](https://github.com/karenetheridge/Acme-LookOfDisapproval)|send warnings with ಠ_ಠ|[:arrow_upper_right:](https://metacpan.org/release/Acme-LookOfDisapproval)|
-|10|[@yanick](https://github.com/yanick)/[**cheatsheets**](https://github.com/yanick/cheatsheets)|My cheatsheets||
 |9|[@bsandrow](https://github.com/bsandrow)/[**hn-profile**](https://github.com/bsandrow/hn-profile)|Scraping profile info from news.ycombinator.com||
 |9|[@fnichol](https://github.com/fnichol)/[**dotfiles**](https://github.com/fnichol/dotfiles)|dotties naughty bodies. or maybe just dotfiles||
 |9|[@hoytech](https://github.com/hoytech)/[**Thrust**](https://github.com/hoytech/Thrust)|Perl language bindings for Thrust  https://github.com/breach/thrust||

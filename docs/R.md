@@ -1,25 +1,25 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|789|[@rich-iannone](https://github.com/rich-iannone)/[**DiagrammeR**](https://github.com/rich-iannone/DiagrammeR)|Graph and network visualization using tabular data in R|[:arrow_upper_right:](http://rich-iannone.github.io/DiagrammeR/)|
-|465|[@jennybc](https://github.com/jennybc)/[**googlesheets**](https://github.com/jennybc/googlesheets)|Google Spreadsheets R API||
+|792|[@rich-iannone](https://github.com/rich-iannone)/[**DiagrammeR**](https://github.com/rich-iannone/DiagrammeR)|Graph and network visualization using tabular data in R|[:arrow_upper_right:](http://rich-iannone.github.io/DiagrammeR/)|
+|466|[@jennybc](https://github.com/jennybc)/[**googlesheets**](https://github.com/jennybc/googlesheets)|Google Spreadsheets R API||
 |221|[@jennybc](https://github.com/jennybc)/[**reprex**](https://github.com/jennybc/reprex)|Render bits of R code for sharing, e.g., on GitHub or StackOverflow.|[:arrow_upper_right:](http://jennybc.github.io/reprex/)|
 |159|[@jennybc](https://github.com/jennybc)/[**r-graph-catalog**](https://github.com/jennybc/r-graph-catalog)|All graphs in “Creating More Effective Graphs”, made with R package ggplot2.|[:arrow_upper_right:](http://shiny.stat.ubc.ca/r-graph-catalog/)|
 |142|[@jennybc](https://github.com/jennybc)/[**ggplot2-tutorial**](https://github.com/jennybc/ggplot2-tutorial)|Teaching materials for the R package ggplot2||
 |119|[@rich-iannone](https://github.com/rich-iannone)/[**stationaRy**](https://github.com/rich-iannone/stationaRy)|Get hourly meteorological data from one of thousands of global stations||
-|100|[@jennybc](https://github.com/jennybc)/[**send-email-with-r**](https://github.com/jennybc/send-email-with-r)|How to send a bunch of email from R||
+|101|[@jennybc](https://github.com/jennybc)/[**send-email-with-r**](https://github.com/jennybc/send-email-with-r)|How to send a bunch of email from R||
 |81|[@jennybc](https://github.com/jennybc)/[**gapminder**](https://github.com/jennybc/gapminder)|Excerpt from the Gapminder data, as an R data package and in plain text delimited form||
 |65|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**WDI**](https://github.com/vincentarelbundock/WDI)|||
 |64|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**countrycode**](https://github.com/vincentarelbundock/countrycode)|R package: Convert country names and country codes. Assigns region descriptors.|[:arrow_upper_right:](http://cran.r-project.org/web/packages/countrycode/index.html)|
 |61|[@rich-iannone](https://github.com/rich-iannone)/[**UnidecodeR**](https://github.com/rich-iannone/UnidecodeR)|Replace Unicode characters with sensible US-ASCII equivalents||
-|48|[@ateucher](https://github.com/ateucher)/[**rmapshaper**](https://github.com/ateucher/rmapshaper)|An R wrapper for the mapshaper javascript library||
+|49|[@ateucher](https://github.com/ateucher)/[**rmapshaper**](https://github.com/ateucher/rmapshaper)|An R wrapper for the mapshaper javascript library||
 |48|[@dankelley](https://github.com/dankelley)/[**oce**](https://github.com/dankelley/oce)|R package for oceanographic processing|[:arrow_upper_right:](http://dankelley.github.com/oce/)|
 |46|[@rich-iannone](https://github.com/rich-iannone)/[**SplitR**](https://github.com/rich-iannone/SplitR)|Use the HYSPLIT model from inside R and do more with it||
 |43|[@seananderson](https://github.com/seananderson)/[**glmm-course**](https://github.com/seananderson/glmm-course)|2-day workshop on Generalized Linear Mixed-Effects Modeling in R||
 |39|[@luyongxu](https://github.com/luyongxu)/[**SignalPlot**](https://github.com/luyongxu/SignalPlot)|This repository contains code used for my blog.|[:arrow_upper_right:](http://www.signalplot.com)|
-|35|[@rich-iannone](https://github.com/rich-iannone)/[**pointblank**](https://github.com/rich-iannone/pointblank)|Validation of local and remote data tables||
+|36|[@rich-iannone](https://github.com/rich-iannone)/[**pointblank**](https://github.com/rich-iannone/pointblank)|Validation of local and remote data tables||
 |34|[@jennybc](https://github.com/jennybc)/[**githug**](https://github.com/jennybc/githug)|Interface to local and remote Git operations||
-|32|[@tpoisot](https://github.com/tpoisot)/[**digitize**](https://github.com/tpoisot/digitize)|A R package to extract data from scatterplots||
-|31|[@rich-iannone](https://github.com/rich-iannone)/[**PuffR**](https://github.com/rich-iannone/PuffR)|An integrated system for dispersion modelling with CALPUFF.||
+|33|[@rich-iannone](https://github.com/rich-iannone)/[**PuffR**](https://github.com/rich-iannone/PuffR)|An integrated system for dispersion modelling with CALPUFF.||
+|33|[@tpoisot](https://github.com/tpoisot)/[**digitize**](https://github.com/tpoisot/digitize)|A R package to extract data from scatterplots||
 |27|[@jennybc](https://github.com/jennybc)/[**repurrrsive**](https://github.com/jennybc/repurrrsive)|Recursive lists to use in teaching and examples||
 |25|[@gavinsimpson](https://github.com/gavinsimpson)/[**ggvegan**](https://github.com/gavinsimpson/ggvegan)|ggplot-based plots for vegan||
 |24|[@rinze](https://github.com/rinze)/[**spotify-moods**](https://github.com/rinze/spotify-moods)|A data analysis project involving the saddest and happiest songs available at Spotify||
@@ -52,6 +52,7 @@
 |8|[@mwpennell](https://github.com/mwpennell)/[**geiger-v2**](https://github.com/mwpennell/geiger-v2)|A suite of methods and models for studying evolutionary radiations||
 |7|[@bcgov](https://github.com/bcgov)/[**wqbc**](https://github.com/bcgov/wqbc)|An R package for water quality thresholds and index calculation for British Columbia||
 |7|[@jennybc](https://github.com/jennybc)/[**bingo**](https://github.com/jennybc/bingo)|Generate Bingo cards with R.|[:arrow_upper_right:](http://daattali.com/shiny/bingo/)|
+|7|[@jennybc](https://github.com/jennybc)/[**frogs**](https://github.com/jennybc/frogs)|Data from the Calaveras Jumping Frog Jubilee|[:arrow_upper_right:](http://www.frogtown.org/about)|
 |7|[@pacificclimate](https://github.com/pacificclimate)/[**ClimDown**](https://github.com/pacificclimate/ClimDown)|PCIC's Daily Climate Downscaling Library||
 |7|[@rich-iannone](https://github.com/rich-iannone)/[**MarineVessels**](https://github.com/rich-iannone/MarineVessels)|R dataset containing information on marine vessels.||
 |7|[@sjackman](https://github.com/sjackman)/[**homebrewr**](https://github.com/sjackman/homebrewr)|An R package to install software using Homebrew||

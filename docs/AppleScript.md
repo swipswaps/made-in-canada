@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|226|[@lemonmade](https://github.com/lemonmade)/[**templates**](https://github.com/lemonmade/templates)|Templates Applescript for OmniFocus.||
+|228|[@lemonmade](https://github.com/lemonmade)/[**templates**](https://github.com/lemonmade/templates)|Templates Applescript for OmniFocus.||
 |31|[@lemonmade](https://github.com/lemonmade)/[**support**](https://github.com/lemonmade/support)|Script to quickly access a support folder for a given OmniFocus project.||
 |18|[@lemonmade](https://github.com/lemonmade)/[**evernote-extractor…**](https://github.com/lemonmade/evernote-extractor)|Extracts images and PDF files from Evernote and gives them usable file names.||
 |17|[@lemonmade](https://github.com/lemonmade)/[**song-control**](https://github.com/lemonmade/song-control)|Alfred 2 Workflow that gives you control over the rating and playlist membership of the current iTunes track.||

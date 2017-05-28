@@ -2,7 +2,7 @@
 |---|---|---|---|
 |105|[@samuelcolvin](https://github.com/samuelcolvin)/[**JuliaByExample**](https://github.com/samuelcolvin/JuliaByExample)|Examples of Julia|[:arrow_upper_right:](https://juliabyexample.helpmanual.io/)|
 |47|[@una-dinosauria](https://github.com/una-dinosauria)/[**local-search-quant…**](https://github.com/una-dinosauria/local-search-quantization)|State-of-the-art method for large-scale ANN search as of Oct 2016. Presented at ECCV 16.||
-|23|[@jiahao](https://github.com/jiahao)/[**GSL.jl**](https://github.com/jiahao/GSL.jl)|Julia interface to the GNU Scientific Library (GSL)||
+|24|[@jiahao](https://github.com/jiahao)/[**GSL.jl**](https://github.com/jiahao/GSL.jl)|Julia interface to the GNU Scientific Library (GSL)||
 |18|[@jiahao](https://github.com/jiahao)/[**RandomMatrices.jl**](https://github.com/jiahao/RandomMatrices.jl)|Random matrices package for Julia||
 |16|[@eschnett](https://github.com/eschnett)/[**SIMD.jl**](https://github.com/eschnett/SIMD.jl)|Explicit SIMD vector operations for Julia||
 |12|[@eschnett](https://github.com/eschnett)/[**Persist.jl**](https://github.com/eschnett/Persist.jl)|Persistent jobs||

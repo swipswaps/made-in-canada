@@ -21,7 +21,7 @@ gulp.task('repo:save', ['validate'], () => {
  * Gets Japaneses repositories by `data/rankers.json`
  * gulp repo:ranker:save --token <token>
  */
-gulp.task('repo:ranker:save', ['validate'], () => {
+gulp.task('repo:save:ranker', ['validate'], () => {
 
   return getRepositories(true);
 });

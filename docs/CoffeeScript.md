@@ -1,20 +1,20 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1492|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.cx)|
-|969|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Beautification abstraction package for Atom editor|[:arrow_upper_right:](http://glavin001.github.io/atom-beautify/docs/code/)|
+|1493|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.cx)|
+|974|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Beautification abstraction package for Atom editor|[:arrow_upper_right:](http://glavin001.github.io/atom-beautify/docs/code/)|
 |230|[@EtienneLem](https://github.com/EtienneLem)/[**skeleton**](https://github.com/EtienneLem/skeleton)|Express 3.0 framework-less app structure generator|[:arrow_upper_right:](http://etiennelem.github.com/skeleton)|
 |214|[@axiomzen](https://github.com/axiomzen)/[**Alike**](https://github.com/axiomzen/Alike)|A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances||
 |187|[@raganwald](https://github.com/raganwald)/[**YouAreDaChef**](https://github.com/raganwald/YouAreDaChef)|Coffeescript/Javascript method combinations for Underscore projects||
 |184|[@benbria](https://github.com/benbria)/[**aliasify**](https://github.com/benbria/aliasify)|Rewrite require calls in browserify modules.||
 |182|[@raganwald](https://github.com/raganwald)/[**Katy**](https://github.com/raganwald/Katy)|CoffeeScript and JavaScript Combinators||
-|164|[@fw42](https://github.com/fw42)/[**honeymap**](https://github.com/fw42/honeymap)|Real-time websocket stream of GPS events on a fancy SVG world map|[:arrow_upper_right:](http://map.honeynet.org/)|
-|147|[@zaidka](https://github.com/zaidka)/[**genieacs**](https://github.com/zaidka/genieacs)|A fast and lightweight TR-069 auto configuration server (ACS).|[:arrow_upper_right:](https://genieacs.com)|
-|143|[@pcrawfor](https://github.com/pcrawfor)/[**iap_verifier**](https://github.com/pcrawfor/iap_verifier)|Node.js implementation of iOS In App Purchase receipt verification||
+|173|[@fw42](https://github.com/fw42)/[**honeymap**](https://github.com/fw42/honeymap)|Real-time websocket stream of GPS events on a fancy SVG world map|[:arrow_upper_right:](http://map.honeynet.org/)|
+|149|[@zaidka](https://github.com/zaidka)/[**genieacs**](https://github.com/zaidka/genieacs)|A fast and lightweight TR-069 auto configuration server (ACS).|[:arrow_upper_right:](https://genieacs.com)|
+|144|[@pcrawfor](https://github.com/pcrawfor)/[**iap_verifier**](https://github.com/pcrawfor/iap_verifier)|Node.js implementation of iOS In App Purchase receipt verification||
 |132|[@benbria](https://github.com/benbria)/[**coffee-coverage**](https://github.com/benbria/coffee-coverage)|Istanbul and JSCoverage-style instrumentation for CoffeeScript files.||
 |125|[@jescalan](https://github.com/jescalan)/[**accord**](https://github.com/jescalan/accord)|a unified interface for compiled languages and templates in javascript||
-|123|[@raganwald](https://github.com/raganwald)/[**method-combinators…**](https://github.com/raganwald/method-combinators)|||
-|119|[@adamhooper](https://github.com/adamhooper)/[**js-priority-queue**](https://github.com/adamhooper/js-priority-queue)|Priority queues in JavaScript||
-|98|[@mohebifar](https://github.com/mohebifar)/[**angular-persian**](https://github.com/mohebifar/angular-persian)|:earth_asia: Persian tools for angular.js||
+|122|[@raganwald](https://github.com/raganwald)/[**method-combinators…**](https://github.com/raganwald/method-combinators)|||
+|120|[@adamhooper](https://github.com/adamhooper)/[**js-priority-queue**](https://github.com/adamhooper/js-priority-queue)|Priority queues in JavaScript||
+|99|[@mohebifar](https://github.com/mohebifar)/[**angular-persian**](https://github.com/mohebifar/angular-persian)|:earth_asia: Persian tools for angular.js||
 |97|[@axiomzen](https://github.com/axiomzen)/[**Look-Alike**](https://github.com/axiomzen/Look-Alike)|A simple-yet-powerful KD-tree library for NodeJS, with support for lightning-fast k-Nearest Neighbour queries.||
 |91|[@EtienneLem](https://github.com/EtienneLem)/[**atom-rdio**](https://github.com/EtienneLem/atom-rdio)|Adds Rdio controls to Atom and displays the currently playing song in the status bar|[:arrow_upper_right:](https://atom.io/packages/Rdio)|
 |84|[@kmalakoff](https://github.com/kmalakoff)/[**mixin**](https://github.com/kmalakoff/mixin)|Mixin.js is the 'reuse more' Javascript nano-framework. Stay DRY...mixin!|[:arrow_upper_right:](http://braincode.tumblr.com/post/11026285083/mixin-js-the-javascript-nano-framework)|
@@ -54,12 +54,12 @@
 |12|[@AnthonyCalandra](https://github.com/AnthonyCalandra)/[**todo-list**](https://github.com/AnthonyCalandra/todo-list)|(THIS PACKAGE IS NO LONGER MAINTAINED.) A package for the Atom editor which keeps track of TODO, FIXME, etc. messages in code.||
 |12|[@RobLoach](https://github.com/RobLoach)/[**docpad-plugin-grun…**](https://github.com/RobLoach/docpad-plugin-grunt)|:boar: Run Grunt.js tasks when building with DocPad|[:arrow_upper_right:](http://gruntjs.com)|
 |12|[@adam-p](https://github.com/adam-p)/[**text-file-follower…**](https://github.com/adam-p/text-file-follower)|A Node.js module for getting each new last line of a text file as it appears. Think `tail -f`.||
+|12|[@jescalan](https://github.com/jescalan)/[**atom-fold-comments…**](https://github.com/jescalan/atom-fold-comments)|Quick toggling of all block comments in atom||
 |11|[@bbc](https://github.com/bbc)/[**radiophonics**](https://github.com/bbc/radiophonics)|The CoffeeScript source code for our Radiophonics Workshop Web Audio demos (http://webaudio.prototyping.bbc.co.uk)||
 |11|[@benbria](https://github.com/benbria)/[**node-lumberjack-pr…**](https://github.com/benbria/node-lumberjack-protocol)|Node.js implementation of the lumberjack protocol.||
 |11|[@darron](https://github.com/darron)/[**language-ejs**](https://github.com/darron/language-ejs)|EJS support for Atom.||
 |11|[@davemo](https://github.com/davemo)/[**react-battleplanne…**](https://github.com/davemo/react-battleplanner)|react + tbs-battle-planner||
 |11|[@interstateone](https://github.com/interstateone)/[**polygons**](https://github.com/interstateone/polygons)|Boolean operations for polygons in Raphaël.js||
-|11|[@jescalan](https://github.com/jescalan)/[**atom-fold-comments…**](https://github.com/jescalan/atom-fold-comments)|Quick toggling of all block comments in atom||
 |11|[@jescalan](https://github.com/jescalan)/[**machete**](https://github.com/jescalan/machete)|fast, beautiful slideshows in markdown|[:arrow_upper_right:](http://jenius.github.io/machete)|
 |11|[@kmalakoff](https://github.com/kmalakoff)/[**knockback-referenc…**](https://github.com/kmalakoff/knockback-reference-app)|Knockback.js Reference Application provides a sample architecure for a Knockback.js application including page routing, separation of Models/ViewModels/Views, and memory management.|[:arrow_upper_right:](http://kmalakoff.github.com/knockback-reference-app/)|
 |10|[@brianmhunt](https://github.com/brianmhunt)/[**SnailMailAddressPa…**](https://github.com/brianmhunt/SnailMailAddressParser)|A Javascript/Coffeescript library to parse address strings into their constituent elements ||
@@ -104,6 +104,7 @@
 |4|[@EtienneLem](https://github.com/EtienneLem)/[**opencode-css-anima…**](https://github.com/EtienneLem/opencode-css-animations)|OpenCode 5th edition: CSS Animations|[:arrow_upper_right:](http://etiennelem.github.com/opencode-css-animations)|
 |4|[@Zren](https://github.com/Zren)/[**atom-package-manag…**](https://github.com/Zren/atom-package-manager-commands)||[:arrow_upper_right:](https://atom.io/packages/package-manager-commands)|
 |4|[@adamhooper](https://github.com/adamhooper)/[**js-uglydb**](https://github.com/adamhooper/js-uglydb)|Pack large JSON objects into to small sizes by normalizing.||
+|4|[@aekeus](https://github.com/aekeus)/[**colint**](https://github.com/aekeus/colint)|Collective intelligence library||
 |4|[@axiomzen](https://github.com/axiomzen)/[**mongoose-compliant…**](https://github.com/axiomzen/mongoose-compliant-paranoia)|||
 |4|[@bencentra](https://github.com/bencentra)/[**hubot-giphy-gifme**](https://github.com/bencentra/hubot-giphy-gifme)|"gif me" command for Hubot, get random GIFs from Giphy!||
 |4|[@honza](https://github.com/honza)/[**photolab.coffee**](https://github.com/honza/photolab.coffee)|Photolab is a photo organizational and sorting tool.|[:arrow_upper_right:](https://github.com/honza/photolab.coffee)|
@@ -114,10 +115,10 @@
 |4|[@vizv](https://github.com/vizv)/[**dockerfile-editor**](https://github.com/vizv/dockerfile-editor)| Dockerfile Online Editor ||
 |3|[@Icehunter](https://github.com/Icehunter)/[**language-jsx**](https://github.com/Icehunter/language-jsx)|forked from yosuke-furukawa/language-jsx||
 |3|[@RobLoach](https://github.com/RobLoach)/[**language-drupal**](https://github.com/RobLoach/language-drupal)|Drupal syntax highlighting and snippets for Atom.io||
-|3|[@aekeus](https://github.com/aekeus)/[**colint**](https://github.com/aekeus/colint)|Collective intelligence library||
 |3|[@aekeus](https://github.com/aekeus)/[**erasmas**](https://github.com/aekeus/erasmas)|node.js / coffee-script based MUSH / MUD||
 |3|[@andrew8088](https://github.com/andrew8088)/[**nothing-coffee**](https://github.com/andrew8088/nothing-coffee)|An implementation of Tom Stuart's "nothing," in CoffeeScript.||
 |3|[@benbria](https://github.com/benbria)/[**rabbit-tracer**](https://github.com/benbria/rabbit-tracer)|RabbitMQ firehose display||
+|3|[@brentlintner](https://github.com/brentlintner)/[**mimus**](https://github.com/brentlintner/mimus)|A test runner agnostic stubbing library for Node.JS, supporting dependency injection and auto stubbing.|[:arrow_upper_right:](http://npmjs.org/mimus)|
 |3|[@brianleroux](https://github.com/brianleroux)/[**westcoastlogic.com…**](https://github.com/brianleroux/westcoastlogic.com)|personal site|[:arrow_upper_right:](http://brian.io)|
 |3|[@ericmuyser](https://github.com/ericmuyser)/[**proto-game**](https://github.com/ericmuyser/proto-game)|[UNMAINTAINED] Community-driven Google Protobuf game library.||
 |3|[@ericmuyser](https://github.com/ericmuyser)/[**proto-server**](https://github.com/ericmuyser/proto-server)|Community-driven Google Protobuf game server.||

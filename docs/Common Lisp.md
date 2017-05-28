@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|202|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
+|201|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
 |168|[@burtonsamograd](https://github.com/burtonsamograd)/[**sxc**](https://github.com/burtonsamograd/sxc)|sxc is an 'S-Expression C' transpiler for generating C code using macros written in Common Lisp||
 |71|[@hoytech](https://github.com/hoytech)/[**antiweb**](https://github.com/hoytech/antiweb)|Common Lisp web application server|[:arrow_upper_right:](http://hoytech.com/antiweb/)|
 |28|[@inaimathi](https://github.com/inaimathi)/[**cl-css**](https://github.com/inaimathi/cl-css)|Non-validating, inline CSS generator for Common Lisp||
@@ -17,10 +17,10 @@
 |6|[@inaimathi](https://github.com/inaimathi)/[**cl-congregate**](https://github.com/inaimathi/cl-congregate)|A service and protocol for coordinating recurring get-togethers between many humans||
 |6|[@mck-](https://github.com/mck-)/[**hunch**](https://github.com/mck-/hunch)|Boilerplate API-only server on Hunchentoot||
 |6|[@tokenrove](https://github.com/tokenrove)/[**imago**](https://github.com/tokenrove/imago)|image manipulation library for Common Lisp|[:arrow_upper_right:](http://common-lisp.net/project/imago)|
-|5|[@Hexstream](https://github.com/Hexstream)/[**cartesian-product-…**](https://github.com/Hexstream/cartesian-product-switch)|CARTESIAN-PRODUCT-SWITCH is a macro for choosing the appropriate form to execute according to the combined results of multiple tests. This is a straightforward and efficient alternative to the convoluted ad-hoc conditionals one might otherwise resort to.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/cartesian-product-switch/)|
 |5|[@inaimathi](https://github.com/inaimathi)/[**cl-kanren-trs**](https://github.com/inaimathi/cl-kanren-trs)|Fork of http://common-lisp.net/project/cl-kanren-trs/||
 |5|[@inaimathi](https://github.com/inaimathi)/[**clomments**](https://github.com/inaimathi/clomments)|A stab at a Free Software version of Disqus||
 |5|[@inaimathi](https://github.com/inaimathi)/[**test-utils**](https://github.com/inaimathi/test-utils)|Convenience functions and macros for testing Common Lisp applications via Prove and Quickcheck||
+|4|[@Hexstream](https://github.com/Hexstream)/[**cartesian-product-…**](https://github.com/Hexstream/cartesian-product-switch)|CARTESIAN-PRODUCT-SWITCH is a macro for choosing the appropriate form to execute according to the combined results of multiple tests. This is a straightforward and efficient alternative to the convoluted ad-hoc conditionals one might otherwise resort to.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/cartesian-product-switch/)|
 |4|[@Hexstream](https://github.com/Hexstream)/[**positional-lambda**](https://github.com/Hexstream/positional-lambda)|positional-lambda is a concise, intuitive and flexible syntax (macro) for trivial lambdas that eschews explicit (and often contextually-redundant) naming of parameter variables in favor of positional references, with support for a used or ignored &rest parameter and automatic declaration of ignored parameters when logical "gaps" are left in the positional references. Further convenience features are provided.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/positional-lambda/)|
 |4|[@abramhindle](https://github.com/abramhindle)/[**automata-dsl**](https://github.com/abramhindle/automata-dsl)|A common lisp based DSL to produce random automata games that you can diddle at to your hearts content.||
 |4|[@robmyers](https://github.com/robmyers)/[**art-social-graph**](https://github.com/robmyers/art-social-graph)|Screen scraping and processing relationships between art and artists from public data sources.||

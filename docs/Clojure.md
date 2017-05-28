@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|630|[@gf3](https://github.com/gf3)/[**secretary**](https://github.com/gf3/secretary)|A client-side router for ClojureScript.||
-|519|[@takeoutweight](https://github.com/takeoutweight)/[**clojure-scheme**](https://github.com/takeoutweight/clojure-scheme)|Clojure to Scheme to C to the bare metal.||
-|519|[@yogthos](https://github.com/yogthos)/[**Selmer**](https://github.com/yogthos/Selmer)|A fast, Django inspired template system in Clojure.||
+|631|[@gf3](https://github.com/gf3)/[**secretary**](https://github.com/gf3/secretary)|A client-side router for ClojureScript.||
+|523|[@yogthos](https://github.com/yogthos)/[**Selmer**](https://github.com/yogthos/Selmer)|A fast, Django inspired template system in Clojure.||
+|520|[@takeoutweight](https://github.com/takeoutweight)/[**clojure-scheme**](https://github.com/takeoutweight/clojure-scheme)|Clojure to Scheme to C to the bare metal.||
 |324|[@yogthos](https://github.com/yogthos)/[**markdown-clj**](https://github.com/yogthos/markdown-clj)|Markdown parser in Clojure||
 |213|[@yogthos](https://github.com/yogthos)/[**migratus**](https://github.com/yogthos/migratus)|MIGRATE ALL THE THINGS!||
 |154|[@yogthos](https://github.com/yogthos)/[**yuggoth**](https://github.com/yogthos/yuggoth)|my blog engine (no longer maintained)|[:arrow_upper_right:](http://yogthos.net)|
 |100|[@yogthos](https://github.com/yogthos)/[**instant-pdf**](https://github.com/yogthos/instant-pdf)|A reporting service which generates PDFs from JSON encoded text||
-|94|[@yogthos](https://github.com/yogthos)/[**memory-hole**](https://github.com/yogthos/memory-hole)|Memory Hole is a support issue organizer application||
+|95|[@yogthos](https://github.com/yogthos)/[**memory-hole**](https://github.com/yogthos/memory-hole)|Memory Hole is a support issue organizer application||
 |87|[@yogthos](https://github.com/yogthos)/[**json-html**](https://github.com/yogthos/json-html)|Provide EDN/JSON and get a DOM node with a human representation of the data||
 |59|[@adambard](https://github.com/adambard)/[**failjure**](https://github.com/adambard/failjure)|Monadic error utilities for general use in Clojure projects||
 |56|[@yogthos](https://github.com/yogthos)/[**json-to-pdf**](https://github.com/yogthos/json-to-pdf)|A Library for easily generating PDF documents given JSON markup||
@@ -23,10 +23,10 @@
 |21|[@yogthos](https://github.com/yogthos)/[**gif-to-html**](https://github.com/yogthos/gif-to-html)|converts GIFs to HTML animation||
 |19|[@takeoutweight](https://github.com/takeoutweight)/[**Clojure-CHR**](https://github.com/takeoutweight/Clojure-CHR)|Constraint Handling Rules in Clojure||
 |19|[@yogthos](https://github.com/yogthos)/[**asset-minifier**](https://github.com/yogthos/asset-minifier)|a library to minify CSS/Js resources||
+|17|[@honza](https://github.com/honza)/[**cljs-node**](https://github.com/honza/cljs-node)|A leiningen template for cljs scripts that target nodejs||
 |17|[@yogthos](https://github.com/yogthos)/[**clj-log**](https://github.com/yogthos/clj-log)|structural logging for Clojure||
 |16|[@takeoutweight](https://github.com/takeoutweight)/[**sergeant-lewis**](https://github.com/takeoutweight/sergeant-lewis)|Blue-Collar Static Analysis of Clojure Code||
 |16|[@yogthos](https://github.com/yogthos)/[**genetic-algorithm-…**](https://github.com/yogthos/genetic-algorithm-example)|Example of a simple GA using Clojure||
-|15|[@honza](https://github.com/honza)/[**cljs-node**](https://github.com/honza/cljs-node)|A leiningen template for cljs scripts that target nodejs||
 |15|[@ontodev](https://github.com/ontodev)/[**howl**](https://github.com/ontodev/howl)|HOWL: Humane OWL Format|[:arrow_upper_right:](http://try.humaneowl.com)|
 |15|[@yogthos](https://github.com/yogthos)/[**reagent-serverside…**](https://github.com/yogthos/reagent-serverside)|example of using Hiccup to generate Reagent elements server-side||
 |14|[@honza](https://github.com/honza)/[**jordan**](https://github.com/honza/jordan)|Clojure library for Compojure that allows you to specify which routes require the user to be logged in or to be an administrator|[:arrow_upper_right:](https://github.com/honza/jordan)|
