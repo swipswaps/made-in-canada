@@ -2,7 +2,7 @@
 |---|---|---|---|
 |200|[@mystor](https://github.com/mystor)/[**rust-cpp**](https://github.com/mystor/rust-cpp)|Embed C++ directly inside your rust code!||
 |177|[@trishume](https://github.com/trishume)/[**syntect**](https://github.com/trishume/syntect)|Rust library for syntax highlighting using Sublime Text syntax definitions.|[:arrow_upper_right:](http://thume.ca/rustdoc/syntect/syntect/)|
-|138|[@luqmana](https://github.com/luqmana)/[**rust-opencl**](https://github.com/luqmana/rust-opencl)|OpenCL bindings for Rust.||
+|139|[@luqmana](https://github.com/luqmana)/[**rust-opencl**](https://github.com/luqmana/rust-opencl)|OpenCL bindings for Rust.||
 |113|[@thestinger](https://github.com/thestinger)/[**rust-core**](https://github.com/thestinger/rust-core)|a lightweight standard library for rust with freestanding support (deprecated in favour of libcore upstream)||
 |68|[@luqmana](https://github.com/luqmana)/[**rust-psp-hello**](https://github.com/luqmana/rust-psp-hello)|Simple Hello World in Rust to run on a PSP.||
 |50|[@programble](https://github.com/programble)/[**scraper**](https://github.com/programble/scraper)|HTML parsing and querying with CSS selectors|[:arrow_upper_right:](https://cmcenroe.me/scraper/scraper)|
@@ -28,6 +28,7 @@
 |6|[@brettcannon](https://github.com/brettcannon)/[**riscv-harmony**](https://github.com/brettcannon/riscv-harmony)|A RISC-V ISA simulator written in Rust||
 |5|[@fnichol](https://github.com/fnichol)/[**names**](https://github.com/fnichol/names)|Random name generator for Rust||
 |5|[@gnuvince](https://github.com/gnuvince)/[**minilang-rs**](https://github.com/gnuvince/minilang-rs)|||
+|5|[@palfrey](https://github.com/palfrey)/[**potboiler**](https://github.com/palfrey/potboiler)|AP Event Sourcing system|[:arrow_upper_right:](http://www.lshift.net/blog/2016/10/31/potboiler/)|
 |4|[@gnuvince](https://github.com/gnuvince)/[**ppbert**](https://github.com/gnuvince/ppbert)|A simple pretty printer for Erlang's External Term Format||
 |4|[@jonalmeida](https://github.com/jonalmeida)/[**txtdb**](https://github.com/jonalmeida/txtdb)|(WIP) A simple database system written in Rust for storing data in text files||
 |4|[@lemire](https://github.com/lemire)/[**roaring_rust_bench…**](https://github.com/lemire/roaring_rust_benchmark)|Basic benchmark to compare different Roaring bitmap implementations in Rust||
@@ -36,6 +37,7 @@
 |3|[@defcronyke](https://github.com/defcronyke)/[**blockchain-rust**](https://github.com/defcronyke/blockchain-rust)|The simplest type of blockchain.||
 |3|[@fnichol](https://github.com/fnichol)/[**features-rs**](https://github.com/fnichol/features-rs)|features - A Rust library for runtime feature toggles||
 |3|[@luqmana](https://github.com/luqmana)/[**gdax-client**](https://github.com/luqmana/gdax-client)|Rust client library for Coinbase Exchange (GDAX).||
+|3|[@palfrey](https://github.com/palfrey)/[**dawn**](https://github.com/palfrey/dawn)|London buses search|[:arrow_upper_right:](http://www.lshift.net/blog/2016/07/14/dawn-mobile-bus-stops-display/)|
 |3|[@programble](https://github.com/programble)/[**xn--ls8h**](https://github.com/programble/xn--ls8h)|PILE OF POO||
 |3|[@stewart](https://github.com/stewart)/[**rff**](https://github.com/stewart/rff)|:microscope: rff: fuzzy finder||
 |3|[@thestinger](https://github.com/thestinger)/[**rust-magic**](https://github.com/thestinger/rust-magic)|libmagic bindings for Rust||

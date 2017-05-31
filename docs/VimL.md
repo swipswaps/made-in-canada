@@ -2,7 +2,7 @@
 |---|---|---|---|
 |243|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
 |179|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
-|126|[@bigfish](https://github.com/bigfish)/[**vim-js-context-col…**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
+|127|[@bigfish](https://github.com/bigfish)/[**vim-js-context-col…**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |89|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|for when I quickly need a slightly better vim||
 |68|[@idbrii](https://github.com/idbrii)/[**AsyncCommand**](https://github.com/idbrii/AsyncCommand)|AsyncCommand allows you to execute shell commands without waiting for them  to complete. When the application terminates, its output can be loaded into  a vim buffer.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3431)|
 |53|[@jperras](https://github.com/jperras)/[**vim-dotfiles**](https://github.com/jperras/vim-dotfiles)|Carefully crafted, curated and somewhat Python-oriented Vim development environment||
@@ -65,6 +65,7 @@
 |4|[@idbrii](https://github.com/idbrii)/[**vim-perforce**](https://github.com/idbrii/vim-perforce)|Control Perforce from vim|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=240)|
 |4|[@pangloss](https://github.com/pangloss)/[**vim-simplefold**](https://github.com/pangloss/vim-simplefold)|Fork of SimpleFold.vim by Mauricio Fernandez. Space-optimized, configurable code folding for vim.|[:arrow_upper_right:](http://eigenclass.org/hiki/simplefold)|
 |4|[@pushrax](https://github.com/pushrax)/[**kantan**](https://github.com/pushrax/kantan)|Simple 16-colour scheming||
+|4|[@staticsafe](https://github.com/staticsafe)/[**dotfiles**](https://github.com/staticsafe/dotfiles)|Contains my dotfiles||
 |4|[@tdryer](https://github.com/tdryer)/[**dotfiles**](https://github.com/tdryer/dotfiles)|tdryer's dotfiles||
 |4|[@travisjeffery](https://github.com/travisjeffery)/[**vim-auto-mkdir**](https://github.com/travisjeffery/vim-auto-mkdir)|vim: automatically mkdir when writing file in nonexistent directory|[:arrow_upper_right:](http://twitter.com/travisjeffery)|
 |4|[@travisjeffery](https://github.com/travisjeffery)/[**vim-colors**](https://github.com/travisjeffery/vim-colors)|good vim color themes i've hacked together||
