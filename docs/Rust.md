@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |200|[@mystor](https://github.com/mystor)/[**rust-cpp**](https://github.com/mystor/rust-cpp)|Embed C++ directly inside your rust code!||
-|177|[@trishume](https://github.com/trishume)/[**syntect**](https://github.com/trishume/syntect)|Rust library for syntax highlighting using Sublime Text syntax definitions.|[:arrow_upper_right:](http://thume.ca/rustdoc/syntect/syntect/)|
-|139|[@luqmana](https://github.com/luqmana)/[**rust-opencl**](https://github.com/luqmana/rust-opencl)|OpenCL bindings for Rust.||
+|178|[@trishume](https://github.com/trishume)/[**syntect**](https://github.com/trishume/syntect)|Rust library for syntax highlighting using Sublime Text syntax definitions.|[:arrow_upper_right:](http://thume.ca/rustdoc/syntect/syntect/)|
+|140|[@luqmana](https://github.com/luqmana)/[**rust-opencl**](https://github.com/luqmana/rust-opencl)|OpenCL bindings for Rust.||
 |113|[@thestinger](https://github.com/thestinger)/[**rust-core**](https://github.com/thestinger/rust-core)|a lightweight standard library for rust with freestanding support (deprecated in favour of libcore upstream)||
-|68|[@luqmana](https://github.com/luqmana)/[**rust-psp-hello**](https://github.com/luqmana/rust-psp-hello)|Simple Hello World in Rust to run on a PSP.||
+|67|[@luqmana](https://github.com/luqmana)/[**rust-psp-hello**](https://github.com/luqmana/rust-psp-hello)|Simple Hello World in Rust to run on a PSP.||
 |50|[@programble](https://github.com/programble)/[**scraper**](https://github.com/programble/scraper)|HTML parsing and querying with CSS selectors|[:arrow_upper_right:](https://cmcenroe.me/scraper/scraper)|
 |40|[@zsck](https://github.com/zsck)/[**clink**](https://github.com/zsck/clink)|A developer assistance tool to help with refactoring and keeping related code up to date with changes||
 |32|[@thestinger](https://github.com/thestinger)/[**rust-gmp**](https://github.com/thestinger/rust-gmp)|gmp bindings for rust||
@@ -26,7 +26,7 @@
 |7|[@kryptco](https://github.com/kryptco)/[**ssh-wire**](https://github.com/kryptco/ssh-wire)|||
 |7|[@luqmana](https://github.com/luqmana)/[**mcchat**](https://github.com/luqmana/mcchat)|Fake client to get chat messages from minecraft.||
 |6|[@brettcannon](https://github.com/brettcannon)/[**riscv-harmony**](https://github.com/brettcannon/riscv-harmony)|A RISC-V ISA simulator written in Rust||
-|5|[@fnichol](https://github.com/fnichol)/[**names**](https://github.com/fnichol/names)|Random name generator for Rust||
+|6|[@fnichol](https://github.com/fnichol)/[**names**](https://github.com/fnichol/names)|Random name generator for Rust||
 |5|[@gnuvince](https://github.com/gnuvince)/[**minilang-rs**](https://github.com/gnuvince/minilang-rs)|||
 |5|[@palfrey](https://github.com/palfrey)/[**potboiler**](https://github.com/palfrey/potboiler)|AP Event Sourcing system|[:arrow_upper_right:](http://www.lshift.net/blog/2016/10/31/potboiler/)|
 |4|[@gnuvince](https://github.com/gnuvince)/[**ppbert**](https://github.com/gnuvince/ppbert)|A simple pretty printer for Erlang's External Term Format||

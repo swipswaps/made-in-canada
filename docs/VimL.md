@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|243|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
+|244|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
 |179|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
 |127|[@bigfish](https://github.com/bigfish)/[**vim-js-context-col…**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |89|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|for when I quickly need a slightly better vim||
@@ -19,14 +19,14 @@
 |24|[@svermeulen](https://github.com/svermeulen)/[**vim-extended-ft**](https://github.com/svermeulen/vim-extended-ft)|||
 |22|[@gmarik](https://github.com/gmarik)/[**github-search.vim**](https://github.com/gmarik/github-search.vim)|search Github and clone repos with Vim|[:arrow_upper_right:](http://github.com/gmarik/github-search.vim)|
 |22|[@ujihisa](https://github.com/ujihisa)/[**unite-locate**](https://github.com/ujihisa/unite-locate)|||
+|21|[@joedf](https://github.com/joedf)/[**PlasticCodeWrap**](https://github.com/joedf/PlasticCodeWrap)|a theme ported to over 20 code editors!|[:arrow_upper_right:](http://joedf.github.io/plasticcodewrap)|
 |20|[@honza](https://github.com/honza)/[**writer.vim**](https://github.com/honza/writer.vim)|vim plugin for writing prose||
-|20|[@joedf](https://github.com/joedf)/[**PlasticCodeWrap**](https://github.com/joedf/PlasticCodeWrap)|a theme ported to over 20 code editors!|[:arrow_upper_right:](http://joedf.github.io/plasticcodewrap)|
 |20|[@tommcdo](https://github.com/tommcdo)/[**vim-fugitive-blame…**](https://github.com/tommcdo/vim-fugitive-blame-ext)|Extend tpope/vim-fugitive to show commit message on statusline in :Gblame||
 |19|[@thayerwilliams](https://github.com/thayerwilliams)/[**vimbrant**](https://github.com/thayerwilliams/vimbrant)|A vibrantly dark dark colour scheme for Vim and other terminal applications||
 |18|[@svermeulen](https://github.com/svermeulen)/[**vim-NotableFt**](https://github.com/svermeulen/vim-NotableFt)|||
 |18|[@tommcdo](https://github.com/tommcdo)/[**vim-express**](https://github.com/tommcdo/vim-express)|Easily create custom Vim operators using expressions and substitutions||
+|16|[@tristen](https://github.com/tristen)/[**superman**](https://github.com/tristen/superman)|:art: A dark theme for Vim||
 |15|[@tommcdo](https://github.com/tommcdo)/[**vim-lister**](https://github.com/tommcdo/vim-lister)|A collection of commands for manipulating Vim's lists||
-|15|[@tristen](https://github.com/tristen)/[**superman**](https://github.com/tristen/superman)|:art: A dark theme for Vim||
 |14|[@tommcdo](https://github.com/tommcdo)/[**vim-kangaroo**](https://github.com/tommcdo/vim-kangaroo)|Vim plugin: Maintain a manually-defined jump stack||
 |13|[@gmarik](https://github.com/gmarik)/[**sudo-gui.vim**](https://github.com/gmarik/sudo-gui.vim)|sudo GUI for a GUI vim|[:arrow_upper_right:](https://github.com/gmarik/sudo-gui.vim)|
 |13|[@travisjeffery](https://github.com/travisjeffery)/[**snipmate-snippets**](https://github.com/travisjeffery/snipmate-snippets)|my snippets that I use with snipmate||

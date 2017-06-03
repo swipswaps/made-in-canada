@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |631|[@gf3](https://github.com/gf3)/[**secretary**](https://github.com/gf3/secretary)|A client-side router for ClojureScript.||
-|524|[@yogthos](https://github.com/yogthos)/[**Selmer**](https://github.com/yogthos/Selmer)|A fast, Django inspired template system in Clojure.||
-|520|[@takeoutweight](https://github.com/takeoutweight)/[**clojure-scheme**](https://github.com/takeoutweight/clojure-scheme)|Clojure to Scheme to C to the bare metal.||
+|528|[@yogthos](https://github.com/yogthos)/[**Selmer**](https://github.com/yogthos/Selmer)|A fast, Django inspired template system in Clojure.||
+|521|[@takeoutweight](https://github.com/takeoutweight)/[**clojure-scheme**](https://github.com/takeoutweight/clojure-scheme)|Clojure to Scheme to C to the bare metal.||
 |324|[@yogthos](https://github.com/yogthos)/[**markdown-clj**](https://github.com/yogthos/markdown-clj)|Markdown parser in Clojure||
-|213|[@yogthos](https://github.com/yogthos)/[**migratus**](https://github.com/yogthos/migratus)|MIGRATE ALL THE THINGS!||
+|214|[@yogthos](https://github.com/yogthos)/[**migratus**](https://github.com/yogthos/migratus)|MIGRATE ALL THE THINGS!||
 |154|[@yogthos](https://github.com/yogthos)/[**yuggoth**](https://github.com/yogthos/yuggoth)|my blog engine (no longer maintained)|[:arrow_upper_right:](http://yogthos.net)|
 |100|[@yogthos](https://github.com/yogthos)/[**instant-pdf**](https://github.com/yogthos/instant-pdf)|A reporting service which generates PDFs from JSON encoded text||
 |96|[@yogthos](https://github.com/yogthos)/[**memory-hole**](https://github.com/yogthos/memory-hole)|Memory Hole is a support issue organizer application||
@@ -34,16 +34,16 @@
 |14|[@ontodev](https://github.com/ontodev)/[**edn-ld**](https://github.com/ontodev/edn-ld)|A simple linked data tool|[:arrow_upper_right:](http://try.edn-ld.com)|
 |12|[@eslachance](https://github.com/eslachance)/[**dithcord**](https://github.com/eslachance/dithcord)|A WIP Library for the Discord API, in Clojure||
 |12|[@ujihisa](https://github.com/ujihisa)/[**cloft**](https://github.com/ujihisa/cloft)|minecraft server mod for ujihisa||
+|12|[@yogthos](https://github.com/yogthos)/[**migratus-lein**](https://github.com/yogthos/migratus-lein)|||
 |11|[@takeoutweight](https://github.com/takeoutweight)/[**bidirectional**](https://github.com/takeoutweight/bidirectional)|Complete and Easy Bidirectional Typechecking for for Higher-Rank Polymorphism in Clojure||
-|11|[@yogthos](https://github.com/yogthos)/[**migratus-lein**](https://github.com/yogthos/migratus-lein)|||
 |11|[@yogthos](https://github.com/yogthos)/[**pulsar-example**](https://github.com/yogthos/pulsar-example)|||
 |11|[@yogthos](https://github.com/yogthos)/[**reagent-secretary-…**](https://github.com/yogthos/reagent-secretary-example)|||
 |10|[@adambard](https://github.com/adambard)/[**so-many-wordcounts…**](https://github.com/adambard/so-many-wordcounts)|||
 |10|[@yogthos](https://github.com/yogthos)/[**clojure-maven-exam…**](https://github.com/yogthos/clojure-maven-examples)|Some examples for building Clojure with the clojure-maven-plugin||
 |10|[@yogthos](https://github.com/yogthos)/[**components-example…**](https://github.com/yogthos/components-example)|example of creating reusable re-frame components||
+|9|[@adambard](https://github.com/adambard)/[**lein-kotlinc**](https://github.com/adambard/lein-kotlinc)|Compile kotlin files from Leiningen||
 |9|[@onaio](https://github.com/onaio)/[**hatti**](https://github.com/onaio/hatti)|It views data!||
 |9|[@yogthos](https://github.com/yogthos)/[**swagger-service**](https://github.com/yogthos/swagger-service)|swagger-service tutorial using Duct||
-|8|[@adambard](https://github.com/adambard)/[**lein-kotlinc**](https://github.com/adambard/lein-kotlinc)|Compile kotlin files from Leiningen||
 |8|[@yogthos](https://github.com/yogthos)/[**alpha-id**](https://github.com/yogthos/alpha-id)|creates a short alphanumeric ID from a numeric ID||
 |8|[@yogthos](https://github.com/yogthos)/[**pg-feed-demo**](https://github.com/yogthos/pg-feed-demo)|example application for push notifications from PostgreSQL||
 |8|[@yogthos](https://github.com/yogthos)/[**reagent-server-ren…**](https://github.com/yogthos/reagent-server-rendering)|An example using Nashorn to render Reagent on the server||
