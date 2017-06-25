@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |166|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
-|123|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
+|124|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
 |109|[@agilebits](https://github.com/agilebits)/[**onepassword-utilities**](https://github.com/agilebits/onepassword-utilities)|Utilities for 1Password||
 |90|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
-|84|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](http://www.metacpan.org/module/PerlPowerTools/)|
-|69|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
-|66|[@mlangill](https://github.com/mlangill)/[**microbiome_helper**](https://github.com/mlangill/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
+|86|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](http://www.metacpan.org/module/PerlPowerTools/)|
+|71|[@mlangill](https://github.com/mlangill)/[**microbiome_helper**](https://github.com/mlangill/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
+|70|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
 |52|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
 |38|[@yanick](https://github.com/yanick)/[**git-cpan-patch**](https://github.com/yanick/git-cpan-patch)|System to write patches against CPAN modules via Git||
 |32|[@briandfoy](https://github.com/briandfoy)/[**Learning-Perl-Sample-Files**](https://github.com/briandfoy/Learning-Perl-Sample-Files)|Extra files for use with Learning Perl|[:arrow_upper_right:](http://www.learning-perl.org/)|
@@ -31,9 +31,9 @@
 |10|[@briandfoy](https://github.com/briandfoy)/[**module-release**](https://github.com/briandfoy/module-release)|(Perl) Automate software releases|[:arrow_upper_right:](http://search.cpan.org/dist/Module-Release)|
 |10|[@briandfoy](https://github.com/briandfoy)/[**test-file**](https://github.com/briandfoy/test-file)|(Perl) Check file attributes|[:arrow_upper_right:](http://search.cpan.org/dist/Test-File)|
 |10|[@elecnix](https://github.com/elecnix)/[**nagios-postgresql**](https://github.com/elecnix/nagios-postgresql)|Fork of Tony Wasson's nagios plugins for PosgreSQL|[:arrow_upper_right:](http://pgfoundry.org/projects/nagiosplugins/)|
+|10|[@fnichol](https://github.com/fnichol)/[**dotfiles**](https://github.com/fnichol/dotfiles)|dotties naughty bodies. or maybe just dotfiles||
 |10|[@karenetheridge](https://github.com/karenetheridge)/[**Acme-LookOfDisapproval**](https://github.com/karenetheridge/Acme-LookOfDisapproval)|send warnings with ಠ_ಠ|[:arrow_upper_right:](https://metacpan.org/release/Acme-LookOfDisapproval)|
 |9|[@bsandrow](https://github.com/bsandrow)/[**hn-profile**](https://github.com/bsandrow/hn-profile)|Scraping profile info from news.ycombinator.com||
-|9|[@fnichol](https://github.com/fnichol)/[**dotfiles**](https://github.com/fnichol/dotfiles)|dotties naughty bodies. or maybe just dotfiles||
 |9|[@hoytech](https://github.com/hoytech)/[**Thrust**](https://github.com/hoytech/Thrust)|Perl language bindings for Thrust  https://github.com/breach/thrust||
 |9|[@hoytech](https://github.com/hoytech)/[**Valence-p5**](https://github.com/hoytech/Valence-p5)|Perl interface to valence/electron GUI toolkit||
 |9|[@s-rah](https://github.com/s-rah)/[**itsybitsy**](https://github.com/s-rah/itsybitsy)|The mini static site generator||
@@ -50,13 +50,14 @@
 |7|[@kpumuk](https://github.com/kpumuk)/[**mysqlsla-bdb**](https://github.com/kpumuk/mysqlsla-bdb)|MySQL Slow Logs Analyzer optimized to work with huge logs (use BerkeleyDB instead of perl hashes)|[:arrow_upper_right:](http://hackmysql.com/mysqlsla)|
 |7|[@sestaton](https://github.com/sestaton)/[**tephra**](https://github.com/sestaton/tephra)|A tool for discovering transposable elements and describing patterns of genome evolution||
 |6|[@0](https://github.com/0)/[**migraine**](https://github.com/0/migraine)|Transform boring monochrome bitmaps into dazzling monochrome graphics!||
+|6|[@bbidulock](https://github.com/bbidulock)/[**perlpanel**](https://github.com/bbidulock/perlpanel)|Panel for the X Desktop Environment (XDE) based on PerlPanel||
 |6|[@bob-carpenter](https://github.com/bob-carpenter)/[**java-arithcode**](https://github.com/bob-carpenter/java-arithcode)|A Java implementation of arithmetic coding and PPM compression.||
 |6|[@briandfoy](https://github.com/briandfoy)/[**app-module-lister**](https://github.com/briandfoy/app-module-lister)|(Perl) List all of the installed modules with just Perl5.004 code|[:arrow_upper_right:](http://search.cpan.org/dist/App-Module-Lister)|
 |6|[@briandfoy](https://github.com/briandfoy)/[**jobs.perl.org-jobs-counter**](https://github.com/briandfoy/jobs.perl.org-jobs-counter)|||
 |6|[@briandfoy](https://github.com/briandfoy)/[**module-extract-use**](https://github.com/briandfoy/module-extract-use)|Extract the modules a Perl file uses||
 |6|[@briandfoy](https://github.com/briandfoy)/[**net-mac-vendor**](https://github.com/briandfoy/net-mac-vendor)|look up the network interface vendor by MAC||
 |6|[@bricas](https://github.com/bricas)/[**dbix-class-indexed**](https://github.com/bricas/dbix-class-indexed)|Index data via external indexing facilities|[:arrow_upper_right:](http://search.cpan.org/dist/DBIx-Class-Indexed/)|
-|5|[@bbidulock](https://github.com/bbidulock)/[**perlpanel**](https://github.com/bbidulock/perlpanel)|Panel for the X Desktop Environment (XDE) based on PerlPanel||
+|6|[@sestaton](https://github.com/sestaton)/[**HMMER2GO**](https://github.com/sestaton/HMMER2GO)|Annotate DNA sequences for Gene Ontology terms||
 |5|[@briandfoy](https://github.com/briandfoy)/[**modulino-demo**](https://github.com/briandfoy/modulino-demo)|The Perl Modulino::Demo module||
 |5|[@briandfoy](https://github.com/briandfoy)/[**mycpan--app--dpan**](https://github.com/briandfoy/mycpan--app--dpan)|(Perl) Create a custom, private DarkPAN repository|[:arrow_upper_right:](http://search.cpan.org/dist/MyCPAN-App-DPAN)|
 |5|[@briandfoy](https://github.com/briandfoy)/[**perl-critic-policy-camel**](https://github.com/briandfoy/perl-critic-policy-camel)|Perl style recommendations from Programming Perl||
@@ -66,7 +67,6 @@
 |5|[@davepagurek](https://github.com/davepagurek)/[**Sari-Wallpaper**](https://github.com/davepagurek/Sari-Wallpaper)|A joke I'm playing on my sister where I remotely change her wallpaper to pictures of me.||
 |5|[@hoytech](https://github.com/hoytech)/[**AnyEvent-Task**](https://github.com/hoytech/AnyEvent-Task)|Client/server-based asynchronous worker pool||
 |5|[@obilodeau](https://github.com/obilodeau)/[**infosec-tools**](https://github.com/obilodeau/infosec-tools)|Various lame infosec tools that I decided not to keep to myself.||
-|5|[@sestaton](https://github.com/sestaton)/[**HMMER2GO**](https://github.com/sestaton/HMMER2GO)|Annotate DNA sequences for Gene Ontology terms||
 |5|[@yanick](https://github.com/yanick)/[**Catalyst-Plugin-Sitemap**](https://github.com/yanick/Catalyst-Plugin-Sitemap)|Add sitemap support for your Catalyst application||
 |5|[@yanick](https://github.com/yanick)/[**netpacket**](https://github.com/yanick/netpacket)|(Perl) |[:arrow_upper_right:](http://search.cpan.org/dist/NetPacket)|
 |5|[@yanick](https://github.com/yanick)/[**pod-manual**](https://github.com/yanick/pod-manual)|Aggregates several Perl PODs into a single manual||

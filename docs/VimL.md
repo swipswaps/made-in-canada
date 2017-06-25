@@ -1,15 +1,14 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|246|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
+|256|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
 |179|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
-|127|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
+|129|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |89|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|for when I quickly need a slightly better vim||
 |69|[@idbrii](https://github.com/idbrii)/[**AsyncCommand**](https://github.com/idbrii/AsyncCommand)|AsyncCommand allows you to execute shell commands without waiting for them  to complete. When the application terminates, its output can be loaded into  a vim buffer.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3431)|
-|53|[@jperras](https://github.com/jperras)/[**vim-dotfiles**](https://github.com/jperras/vim-dotfiles)|Carefully crafted, curated and somewhat Python-oriented Vim development environment||
-|52|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
-|49|[@honza](https://github.com/honza)/[**dockerfile.vim**](https://github.com/honza/dockerfile.vim)|Syntax highlighting for Dockerfiles||
+|51|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
+|48|[@honza](https://github.com/honza)/[**dockerfile.vim**](https://github.com/honza/dockerfile.vim)|Syntax highlighting for Dockerfiles||
 |41|[@ujihisa](https://github.com/ujihisa)/[**unite-colorscheme**](https://github.com/ujihisa/unite-colorscheme)|A unite.vim plugin||
-|38|[@ujihisa](https://github.com/ujihisa)/[**shadow.vim**](https://github.com/ujihisa/shadow.vim)|That's not the file. That's shadow.||
+|39|[@ujihisa](https://github.com/ujihisa)/[**shadow.vim**](https://github.com/ujihisa/shadow.vim)|That's not the file. That's shadow.||
 |37|[@ujihisa](https://github.com/ujihisa)/[**neoclojure.vim**](https://github.com/ujihisa/neoclojure.vim)|Clojure completion/unite-source Vim plugin, using vital.ProcessManager and Leiningen||
 |34|[@ujihisa](https://github.com/ujihisa)/[**repl.vim**](https://github.com/ujihisa/repl.vim)|irb, ghci, and anything else. in Vim.||
 |32|[@ujihisa](https://github.com/ujihisa)/[**vimshell-ssh**](https://github.com/ujihisa/vimshell-ssh)|the world first vimshell plugin that you can run "vim" command on ssh on vimshell||
@@ -51,8 +50,6 @@
 |6|[@ujihisa](https://github.com/ujihisa)/[**tabpagecolorscheme**](https://github.com/ujihisa/tabpagecolorscheme)|Vim colorscheme on each tabs||
 |6|[@ujihisa](https://github.com/ujihisa)/[**unite-rake**](https://github.com/ujihisa/unite-rake)|A Unite.vim plugin to run tasks or to view descriptions easily, using rake command||
 |5|[@gmarik](https://github.com/gmarik)/[**ingretu**](https://github.com/gmarik/ingretu)|a Vim GUI color scheme|[:arrow_upper_right:](http://github.com/gmarik/ingretu)|
-|5|[@idbrii](https://github.com/idbrii)/[**vim-sandydune**](https://github.com/idbrii/vim-sandydune)|A more colourful variant of the default desert colorscheme.||
-|5|[@iurimatias](https://github.com/iurimatias)/[**jump-tracker**](https://github.com/iurimatias/jump-tracker)|Vim plugin that tracks your cursor when it 'jumps'||
 |5|[@mrandrewandrade](https://github.com/mrandrewandrade)/[**dotfiles**](https://github.com/mrandrewandrade/dotfiles)|A gnarly system manager and portable dotfiles generator|[:arrow_upper_right:](http://mrandrewandrade.com/dotfiles)|
 |5|[@t6d](https://github.com/t6d)/[**dotfiles**](https://github.com/t6d/dotfiles)|My Shell Environment||
 |5|[@ujihisa](https://github.com/ujihisa)/[**correr**](https://github.com/ujihisa/correr)|correr.vim: run a command later||
@@ -61,6 +58,7 @@
 |4|[@bigfish](https://github.com/bigfish)/[**vim4js**](https://github.com/bigfish/vim4js)|Vim goodies for Javascript||
 |4|[@garyharan](https://github.com/garyharan)/[**vim-proto**](https://github.com/garyharan/vim-proto)|Protobuf syntax highlighting bundled for Vim||
 |4|[@idbrii](https://github.com/idbrii)/[**vim-perforce**](https://github.com/idbrii/vim-perforce)|Control Perforce from vim|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=240)|
+|4|[@iurimatias](https://github.com/iurimatias)/[**jump-tracker**](https://github.com/iurimatias/jump-tracker)|Vim plugin that tracks your cursor when it 'jumps'||
 |4|[@pangloss](https://github.com/pangloss)/[**vim-simplefold**](https://github.com/pangloss/vim-simplefold)|Fork of SimpleFold.vim by Mauricio Fernandez. Space-optimized, configurable code folding for vim.|[:arrow_upper_right:](http://eigenclass.org/hiki/simplefold)|
 |4|[@pushrax](https://github.com/pushrax)/[**kantan**](https://github.com/pushrax/kantan)|Simple 16-colour scheming||
 |4|[@staticsafe](https://github.com/staticsafe)/[**dotfiles**](https://github.com/staticsafe/dotfiles)|Contains my dotfiles||
