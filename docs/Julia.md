@@ -8,8 +8,8 @@
 |12|[@eschnett](https://github.com/eschnett)/[**Persist.jl**](https://github.com/eschnett/Persist.jl)|Persistent jobs||
 |9|[@eschnett](https://github.com/eschnett)/[**FunHPC.jl**](https://github.com/eschnett/FunHPC.jl)|Functional High-Performance Computing in Julia||
 |9|[@samuelcolvin](https://github.com/samuelcolvin)/[**JellyFish.jl**](https://github.com/samuelcolvin/JellyFish.jl)|approximate and phonetic matching of strings||
+|8|[@jfsantos](https://github.com/jfsantos)/[**AuditoryFilters.jl**](https://github.com/jfsantos/AuditoryFilters.jl)|Auditory filterbanks in Julia||
 |8|[@jiahao](https://github.com/jiahao)/[**SpecialMatrices.jl**](https://github.com/jiahao/SpecialMatrices.jl)|Julia package for working with special matrix types.||
-|7|[@jfsantos](https://github.com/jfsantos)/[**AuditoryFilters.jl**](https://github.com/jfsantos/AuditoryFilters.jl)|Auditory filterbanks in Julia||
 |4|[@eschnett](https://github.com/eschnett)/[**FastArrays.jl**](https://github.com/eschnett/FastArrays.jl)|Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed at compile time.|[:arrow_upper_right:](http://eschnett.github.io/FastArrays.jl/)|
 |4|[@jiahao](https://github.com/jiahao)/[**NetflixPrize.jl**](https://github.com/jiahao/NetflixPrize.jl)|Julia package for handling the Netflix Prize data set of 2006||
 |4|[@jiahao](https://github.com/jiahao)/[**Slackbot.jl**](https://github.com/jiahao/Slackbot.jl)|A Julia REPL that interacts with Slack.com's webhook integration||

@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|355|[@cvogt](https://github.com/cvogt)/[**cbt**](https://github.com/cvogt/cbt)|CBT - fun, fast, intuitive, compositional, statically checked builds written in Scala||
+|360|[@cvogt](https://github.com/cvogt)/[**cbt**](https://github.com/cvogt/cbt)|CBT - fun, fast, intuitive, compositional, statically checked builds written in Scala||
 |327|[@marconilanna](https://github.com/marconilanna)/[**REPLesent**](https://github.com/marconilanna/REPLesent)|A neat little tool to build presentations using the Scala REPL||
 |297|[@dcaoyuan](https://github.com/dcaoyuan)/[**chana**](https://github.com/dcaoyuan/chana)|Avro Data Store based on Akka||
-|285|[@mardambey](https://github.com/mardambey)/[**mypipe**](https://github.com/mardambey/mypipe)|MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka.||
-|248|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-socketio**](https://github.com/dcaoyuan/spray-socketio)|socket.io for spray||
-|223|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-websocket**](https://github.com/dcaoyuan/spray-websocket)|WebSocket for spray-can||
+|287|[@mardambey](https://github.com/mardambey)/[**mypipe**](https://github.com/mardambey/mypipe)|MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka.||
+|249|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-socketio**](https://github.com/dcaoyuan/spray-socketio)|socket.io for spray||
+|222|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-websocket**](https://github.com/dcaoyuan/spray-websocket)|WebSocket for spray-can||
 |121|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**ScalaKata**](https://github.com/MasseGuillaume/ScalaKata)|Moved|[:arrow_upper_right:](https://github.com/MasseGuillaume/ScalaKata2)|
 |113|[@dcaoyuan](https://github.com/dcaoyuan)/[**aiotrade**](https://github.com/dcaoyuan/aiotrade)|A Trading Platform|[:arrow_upper_right:](http://blogtrader.net)|
 |80|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**ScalaKata2**](https://github.com/MasseGuillaume/ScalaKata2)|Interactive Playground|[:arrow_upper_right:](http://scalakata.com)|
@@ -21,8 +21,8 @@
 |26|[@dcaoyuan](https://github.com/dcaoyuan)/[**avpath**](https://github.com/dcaoyuan/avpath)|XPath likeness for Avro||
 |25|[@cvogt](https://github.com/cvogt)/[**scala-extensions**](https://github.com/cvogt/scala-extensions)|Useful extensions for the Scala standard library|[:arrow_upper_right:](http://cvogt.org/scala-extensions/api/)|
 |25|[@knoldus](https://github.com/knoldus)/[**playing-reactjs.g8**](https://github.com/knoldus/playing-reactjs.g8)|This activator project describes a basic example to render UI using ReactJS with Play 2.4.x, Scala and Anorm. It also demonstrates the use of evolution in Play 2.4.x||
-|23|[@knoldus](https://github.com/knoldus)/[**activator-play-slick-app**](https://github.com/knoldus/activator-play-slick-app)|This is an activator project providing a seed for starting with Play & Slick, how to write unit test and how to use mocking for unit testing.||
 |23|[@tobyjsullivan](https://github.com/tobyjsullivan)/[**applicative-demo**](https://github.com/tobyjsullivan/applicative-demo)|Demo code for my talk at applicative conf. http://applicative.acm.org/speaker-TobySullivan.html||
+|22|[@knoldus](https://github.com/knoldus)/[**activator-play-slick-app**](https://github.com/knoldus/activator-play-slick-app)|This is an activator project providing a seed for starting with Play & Slick, how to write unit test and how to use mocking for unit testing.||
 |22|[@mardambey](https://github.com/mardambey)/[**spiffy**](https://github.com/mardambey/spiffy)|Spiffy is a minimalistic framework for building HTTP services and web applications making use of Akka and Scala DSLs with emphasis on scalability and agility.||
 |20|[@cvogt](https://github.com/cvogt)/[**migrations**](https://github.com/cvogt/migrations)|||
 |20|[@knoldus](https://github.com/knoldus)/[**real-time-stream-processing-engine**](https://github.com/knoldus/real-time-stream-processing-engine)|This is an example of real time stream processing using Spark Streaming, Kafka & Elasticsearch.||
@@ -37,9 +37,9 @@
 |15|[@knoldus](https://github.com/knoldus)/[**playing-slick-pg**](https://github.com/knoldus/playing-slick-pg)|Reactive Play application with Slick extensions for PostgreSQL||
 |14|[@cvogt](https://github.com/cvogt)/[**scala-cosmetics**](https://github.com/cvogt/scala-cosmetics)|Pretty printer for Scala type errors||
 |13|[@cvogt](https://github.com/cvogt)/[**slick-macros-old**](https://github.com/cvogt/slick-macros-old)|||
+|13|[@knoldus](https://github.com/knoldus)/[**Lambda-Arch-Spark**](https://github.com/knoldus/Lambda-Arch-Spark)|||
 |13|[@knoldus](https://github.com/knoldus)/[**activator-play-slick-angularjs.g8**](https://github.com/knoldus/activator-play-slick-angularjs.g8)|  This is an activator project providing a seed for starting with Play & Slick using AngularJS||
 |13|[@knoldus](https://github.com/knoldus)/[**akka-http-slick.g8**](https://github.com/knoldus/akka-http-slick.g8)| This is an activator project for providing a seed for starting with Akka-Http and Slick. ||
-|12|[@knoldus](https://github.com/knoldus)/[**Lambda-Arch-Spark**](https://github.com/knoldus/Lambda-Arch-Spark)|||
 |11|[@knoldus](https://github.com/knoldus)/[**slick-starting-on-the-right-foot.g8**](https://github.com/knoldus/slick-starting-on-the-right-foot.g8)|This is an activator project for showcasing best practices, writing unit test and providing a seed for starting with Slick.||
 |11|[@mardambey](https://github.com/mardambey)/[**guzzler**](https://github.com/mardambey/guzzler)|Stream MySQL binary logs and consume them with Scala actors (RabbitMQ, Kafka).||
 |10|[@cvogt](https://github.com/cvogt)/[**sbt-aws-lambda-example**](https://github.com/cvogt/sbt-aws-lambda-example)|||
@@ -86,9 +86,11 @@
 |4|[@mardambey](https://github.com/mardambey)/[**shrink**](https://github.com/mardambey/shrink)|A simple message relay system using Redis, Akka, and Scala.||
 |4|[@thoughtworks](https://github.com/thoughtworks)/[**sbteo**](https://github.com/thoughtworks/sbteo)|Compile server for sbt||
 |3|[@101dev](https://github.com/101dev)/[**play-slick-codegen-flyway-seed**](https://github.com/101dev/play-slick-codegen-flyway-seed)|An Activator template for Play Framework (using compile-time dependency injection), Slick (with codegen), and Flyway (for database migrations)||
+|3|[@ConnectedHomes](https://github.com/ConnectedHomes)/[**sqs-kafka-connect**](https://github.com/ConnectedHomes/sqs-kafka-connect)|Amazon SQS Source implementation for Kafka Connect||
 |3|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**sbt-multi-platforms**](https://github.com/MasseGuillaume/sbt-multi-platforms)|Scala.js + Scala-Native + jvm||
 |3|[@cvogt](https://github.com/cvogt)/[**scalacheck-extensions**](https://github.com/cvogt/scalacheck-extensions)||[:arrow_upper_right:](http://cvogt.org/scalacheck-extensions/api/)|
 |3|[@cvogt](https://github.com/cvogt)/[**siq**](https://github.com/cvogt/siq)|||
+|3|[@knoldus](https://github.com/knoldus)/[**atdd-scalatest-scala**](https://github.com/knoldus/atdd-scalatest-scala)|Acceptance Testing with ScalaTest||
 |3|[@knoldus](https://github.com/knoldus)/[**playing-gravatar.g8**](https://github.com/knoldus/playing-gravatar.g8)|This activator project describes a basic example to generate gravatar using email address with Play Framework||
 |3|[@knoldus](https://github.com/knoldus)/[**playing-multipartform**](https://github.com/knoldus/playing-multipartform)|A basic example to handle and test MultipartFormData request in Play Framework 2.3.8||
 |3|[@knoldus](https://github.com/knoldus)/[**spray-akka-starter**](https://github.com/knoldus/spray-akka-starter)|Template to get started with Spray and Akka||

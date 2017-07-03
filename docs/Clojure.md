@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|634|[@gf3](https://github.com/gf3)/[**secretary**](https://github.com/gf3/secretary)|A client-side router for ClojureScript.||
-|531|[@yogthos](https://github.com/yogthos)/[**Selmer**](https://github.com/yogthos/Selmer)|A fast, Django inspired template system in Clojure.||
-|523|[@takeoutweight](https://github.com/takeoutweight)/[**clojure-scheme**](https://github.com/takeoutweight/clojure-scheme)|Clojure to Scheme to C to the bare metal.||
-|328|[@yogthos](https://github.com/yogthos)/[**markdown-clj**](https://github.com/yogthos/markdown-clj)|Markdown parser in Clojure||
-|221|[@yogthos](https://github.com/yogthos)/[**migratus**](https://github.com/yogthos/migratus)|MIGRATE ALL THE THINGS!||
+|635|[@gf3](https://github.com/gf3)/[**secretary**](https://github.com/gf3/secretary)|A client-side router for ClojureScript.||
+|532|[@yogthos](https://github.com/yogthos)/[**Selmer**](https://github.com/yogthos/Selmer)|A fast, Django inspired template system in Clojure.||
+|524|[@takeoutweight](https://github.com/takeoutweight)/[**clojure-scheme**](https://github.com/takeoutweight/clojure-scheme)|Clojure to Scheme to C to the bare metal.||
+|329|[@yogthos](https://github.com/yogthos)/[**markdown-clj**](https://github.com/yogthos/markdown-clj)|Markdown parser in Clojure||
+|223|[@yogthos](https://github.com/yogthos)/[**migratus**](https://github.com/yogthos/migratus)|MIGRATE ALL THE THINGS!||
 |153|[@yogthos](https://github.com/yogthos)/[**yuggoth**](https://github.com/yogthos/yuggoth)|my blog engine (no longer maintained)|[:arrow_upper_right:](http://yogthos.net)|
+|106|[@yogthos](https://github.com/yogthos)/[**memory-hole**](https://github.com/yogthos/memory-hole)|Memory Hole is a support issue organizer application||
 |103|[@yogthos](https://github.com/yogthos)/[**instant-pdf**](https://github.com/yogthos/instant-pdf)|A reporting service which generates PDFs from JSON encoded text||
-|99|[@yogthos](https://github.com/yogthos)/[**memory-hole**](https://github.com/yogthos/memory-hole)|Memory Hole is a support issue organizer application||
 |89|[@yogthos](https://github.com/yogthos)/[**json-html**](https://github.com/yogthos/json-html)|Provide EDN/JSON and get a DOM node with a human representation of the data||
 |65|[@adambard](https://github.com/adambard)/[**failjure**](https://github.com/adambard/failjure)|Monadic error utilities for general use in Clojure projects||
 |57|[@yogthos](https://github.com/yogthos)/[**json-to-pdf**](https://github.com/yogthos/json-to-pdf)|A Library for easily generating PDF documents given JSON markup||
@@ -21,8 +21,8 @@
 |24|[@yogthos](https://github.com/yogthos)/[**cljs-eval-example**](https://github.com/yogthos/cljs-eval-example)|Example of using ClojureSript eval with Reagent||
 |24|[@yogthos](https://github.com/yogthos)/[**reagent-example**](https://github.com/yogthos/reagent-example)|||
 |21|[@yogthos](https://github.com/yogthos)/[**gif-to-html**](https://github.com/yogthos/gif-to-html)|converts GIFs to HTML animation||
+|20|[@yogthos](https://github.com/yogthos)/[**asset-minifier**](https://github.com/yogthos/asset-minifier)|a library to minify CSS/Js resources||
 |19|[@takeoutweight](https://github.com/takeoutweight)/[**Clojure-CHR**](https://github.com/takeoutweight/Clojure-CHR)|Constraint Handling Rules in Clojure||
-|19|[@yogthos](https://github.com/yogthos)/[**asset-minifier**](https://github.com/yogthos/asset-minifier)|a library to minify CSS/Js resources||
 |18|[@honza](https://github.com/honza)/[**cljs-node**](https://github.com/honza/cljs-node)|A leiningen template for cljs scripts that target nodejs||
 |18|[@yogthos](https://github.com/yogthos)/[**clj-log**](https://github.com/yogthos/clj-log)|structural logging for Clojure||
 |16|[@takeoutweight](https://github.com/takeoutweight)/[**sergeant-lewis**](https://github.com/takeoutweight/sergeant-lewis)|Blue-Collar Static Analysis of Clojure Code||
@@ -62,6 +62,7 @@
 |6|[@ontodev](https://github.com/ontodev)/[**excel**](https://github.com/ontodev/excel)|A thin Clojure wrapper around a small part of Apache POI for reading .xlsx files.||
 |6|[@stephanos](https://github.com/stephanos)/[**om-tutorial**](https://github.com/stephanos/om-tutorial)|Source code of the tutorial for Om||
 |6|[@yogthos](https://github.com/yogthos)/[**liberator-example**](https://github.com/yogthos/liberator-example)|Sample project for Liberator||
+|5|[@adambard](https://github.com/adambard)/[**example.clj**](https://github.com/adambard/example.clj)|A barebones example Clojure web project using Ring, Compojure and Clostache||
 |5|[@adambard](https://github.com/adambard)/[**fregeweb**](https://github.com/adambard/fregeweb)|Just some tests integrating Frege and Clojure (with Ring)||
 |5|[@adambard](https://github.com/adambard)/[**nurblizer-clj**](https://github.com/adambard/nurblizer-clj)|The nurblizer, Clojure style||
 |5|[@honza](https://github.com/honza)/[**bond**](https://github.com/honza/bond)|Bond - the spy agent||
@@ -72,7 +73,6 @@
 |5|[@practicalli](https://github.com/practicalli)/[**lighttable-koans**](https://github.com/practicalli/lighttable-koans)|Exercises to help you discover the Clojure syntax (mediations removed)||
 |4|[@Becojo](https://github.com/Becojo)/[**bloomf**](https://github.com/Becojo/bloomf)|Clojure BYOHF Bloom filter||
 |4|[@adambard](https://github.com/adambard)/[**buddy-test**](https://github.com/adambard/buddy-test)|An example implemention of auth using Buddy||
-|4|[@adambard](https://github.com/adambard)/[**example.clj**](https://github.com/adambard/example.clj)|A barebones example Clojure web project using Ring, Compojure and Clostache||
 |4|[@honza](https://github.com/honza)/[**email-parsing**](https://github.com/honza/email-parsing)|Email parsing in Clojure||
 |4|[@pangloss](https://github.com/pangloss)/[**system.check**](https://github.com/pangloss/system.check)|Test stateful systems using test.check||
 |4|[@ujihisa](https://github.com/ujihisa)/[**postgres-lingrbot**](https://github.com/ujihisa/postgres-lingrbot)|Use PostgreSQL from Lingr||
@@ -82,6 +82,7 @@
 |3|[@adambard](https://github.com/adambard)/[**schemongo**](https://github.com/adambard/schemongo)|The mongo schema library for clojure with the embarrassing name||
 |3|[@angelini](https://github.com/angelini)/[**whip**](https://github.com/angelini/whip)|||
 |3|[@burke](https://github.com/burke)/[**cljtemplate**](https://github.com/burke/cljtemplate)|A simple template project to compile clojure to a jarfile, using ant.||
+|3|[@errordeveloper](https://github.com/errordeveloper)/[**gatling-lein-template**](https://github.com/errordeveloper/gatling-lein-template)|Leiningen template for Gatling load-test framework||
 |3|[@eslachance](https://github.com/eslachance)/[**eviemg**](https://github.com/eslachance/eviemg)|Evie's Image Hosting System||
 |3|[@honza](https://github.com/honza)/[**ansel**](https://github.com/honza/ansel)|Ansel, the photo gallery|[:arrow_upper_right:](http://honza.ca/ansel/)|
 |3|[@honza](https://github.com/honza)/[**keylogger**](https://github.com/honza/keylogger)|keylogger output analyzer||

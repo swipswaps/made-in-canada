@@ -2,9 +2,9 @@
 |---|---|---|---|
 |145|[@talentdeficit](https://github.com/talentdeficit)/[**exjsx**](https://github.com/talentdeficit/exjsx)|json for elixir||
 |142|[@jkakar](https://github.com/jkakar)/[**aws-elixir**](https://github.com/jkakar/aws-elixir)|AWS clients for Elixir||
-|119|[@jarednorman](https://github.com/jarednorman)/[**canada**](https://github.com/jarednorman/canada)|Easy permission definitions in Elixir apps!|[:arrow_upper_right:](https://github.com/jarednorman/canada)|
-|115|[@joshnuss](https://github.com/joshnuss)/[**commerce_billing**](https://github.com/joshnuss/commerce_billing)|A payment processing library for Elixir||
-|99|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Bringing algebras (functors, monads, traversables, &c) to Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
+|123|[@jarednorman](https://github.com/jarednorman)/[**canada**](https://github.com/jarednorman/canada)|Easy permission definitions in Elixir apps!|[:arrow_upper_right:](https://github.com/jarednorman/canada)|
+|116|[@joshnuss](https://github.com/joshnuss)/[**commerce_billing**](https://github.com/joshnuss/commerce_billing)|A payment processing library for Elixir||
+|103|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Bringing algebras (functors, monads, traversables, &c) to Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
 |98|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
 |86|[@joshnuss](https://github.com/joshnuss)/[**design-patterns-in-elixir**](https://github.com/joshnuss/design-patterns-in-elixir)|Common design patterns in Elixir||
 |62|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
@@ -18,7 +18,7 @@
 |38|[@jarednorman](https://github.com/jarednorman)/[**plugsnag**](https://github.com/jarednorman/plugsnag)|A Bugsnag notifier for Elixir's plug||
 |37|[@jarednorman](https://github.com/jarednorman)/[**bugsnag-elixir**](https://github.com/jarednorman/bugsnag-elixir)|An Elixir interface to the Bugsnag API|[:arrow_upper_right:](https://hex.pm/packages/bugsnag)|
 |36|[@joshnuss](https://github.com/joshnuss)/[**elixir-ffi**](https://github.com/joshnuss/elixir-ffi)|Foreign Function Interface (FFI) for Elixir||
-|34|[@expede](https://github.com/expede)/[**algae**](https://github.com/expede/algae)|Bootstrapped algebraic data types for Elixir|[:arrow_upper_right:](https://hex.pm/packages/algae)|
+|35|[@expede](https://github.com/expede)/[**algae**](https://github.com/expede/algae)|Bootstrapped algebraic data types for Elixir|[:arrow_upper_right:](https://hex.pm/packages/algae)|
 |33|[@expede](https://github.com/expede)/[**type_class**](https://github.com/expede/type_class)|(Semi-)principled type classes for Elixir|[:arrow_upper_right:](https://hex.pm/packages/type_class)|
 |27|[@jkakar](https://github.com/jkakar)/[**aws-codegen**](https://github.com/jkakar/aws-codegen)|Code generator for AWS clients in Elixir.||
 |15|[@yrashk](https://github.com/yrashk)/[**properex**](https://github.com/yrashk/properex)|PropEr support for Elixir||
@@ -43,8 +43,8 @@
 |7|[@yrashk](https://github.com/yrashk)/[**somlos**](https://github.com/yrashk/somlos)|Application upgrades DSL||
 |6|[@harmon25](https://github.com/harmon25)/[**sonex**](https://github.com/harmon25/sonex)|Elixir Sonos Controller||
 |6|[@remiprev](https://github.com/remiprev)/[**plug_best**](https://github.com/remiprev/plug_best)|PlugBest parses HTTP “Accept-*” headers and returns the best match based on a list of values.|[:arrow_upper_right:](https://hex.pm/packages/plug_best)|
+|6|[@ttvd](https://github.com/ttvd)/[**elixir-xxhash**](https://github.com/ttvd/elixir-xxhash)|Pure Elixir implementation of xxHash.||
 |5|[@aforward](https://github.com/aforward)/[**sadbus**](https://github.com/aforward/sadbus)|A dumb message bus for sharing data between microservices in a relatively decoupled mechanism||
-|5|[@ttvd](https://github.com/ttvd)/[**elixir-xxhash**](https://github.com/ttvd/elixir-xxhash)|Pure Elixir implementation of xxHash.||
 |5|[@xymbol](https://github.com/xymbol)/[**otp-examples**](https://github.com/xymbol/otp-examples)|Code examples for the “OTP, Concurrency and Testing Strategies” talk, as presented in Montreal Elixir, April 12th, 2017.|[:arrow_upper_right:](https://speakerdeck.com/xymbol/otp-concurrency-and-testing-strategies)|
 |4|[@expede](https://github.com/expede)/[**inspector_gadget**](https://github.com/expede/inspector_gadget)|Helpers for debugging & inspecting code flow||
 |4|[@houshuang](https://github.com/houshuang)/[**plug_lti**](https://github.com/houshuang/plug_lti)|LTI Plug for Elixir||
@@ -60,6 +60,7 @@
 |3|[@mirego](https://github.com/mirego)/[**mirego-open-web**](https://github.com/mirego/mirego-open-web)|:earth_americas: Open Source @ Mirego (pods, gems and libraries for everyone to use!)|[:arrow_upper_right:](http://open.mirego.com)|
 |3|[@novabyte](https://github.com/novabyte)/[**pathway**](https://github.com/novabyte/pathway)|An Erlang/Elixir client library for the Trak.io REST API.|[:arrow_upper_right:](http://hexdocs.pm/pathway/)|
 |3|[@talentdeficit](https://github.com/talentdeficit)/[**posterize**](https://github.com/talentdeficit/posterize)|postgrex for erlang||
+|3|[@talentdeficit](https://github.com/talentdeficit)/[**rfc3339**](https://github.com/talentdeficit/rfc3339)|an erlang/elixir rfc3339 lib||
 |3|[@yrashk](https://github.com/yrashk)/[**elixir-extras**](https://github.com/yrashk/elixir-extras)|Elixir extras that didn't make it to Elixir itself for one or another reason||
 |3|[@yrashk](https://github.com/yrashk)/[**xonad**](https://github.com/yrashk/xonad)|(Functionless) Monad-style macros for Elixir [DISCLAIMER: I know nothing about monads, so what you'll find here may be offensive to those who do. Nuke or send a pull request!]||
 

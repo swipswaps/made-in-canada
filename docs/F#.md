@@ -9,7 +9,7 @@
 |6|[@tpetricek](https://github.com/tpetricek)/[**FSharp.Joinads**](https://github.com/tpetricek/FSharp.Joinads)|F# samples that use the "match!" extension (and related additions to computation expression syntax).||
 |6|[@tpetricek](https://github.com/tpetricek)/[**FSharp.SVG**](https://github.com/tpetricek/FSharp.SVG)|Domain specific language for composing SVG graphics||
 |6|[@tpetricek](https://github.com/tpetricek)/[**FunScript.Atom**](https://github.com/tpetricek/FunScript.Atom)|Prototype atom package created using FunScript||
-|5|[@tpetricek](https://github.com/tpetricek)/[**suave-fshome**](https://github.com/tpetricek/suave-fshome)|Suave demo building F# homepage||
+|6|[@tpetricek](https://github.com/tpetricek)/[**suave-fshome**](https://github.com/tpetricek/suave-fshome)|Suave demo building F# homepage||
 |4|[@tpetricek](https://github.com/tpetricek)/[**FSharp.FsIntelliSense**](https://github.com/tpetricek/FSharp.FsIntelliSense)|Command line tool for calling the F# compiler||
 |3|[@tpetricek](https://github.com/tpetricek)/[**Pollz**](https://github.com/tpetricek/Pollz)|||
 |3|[@tpetricek](https://github.com/tpetricek)/[**fable-tailcalls**](https://github.com/tpetricek/fable-tailcalls)|Fable plugin that rewrites recursive functions with tail-calls into loops||

@@ -17,12 +17,12 @@
 |5|[@supernovus](https://github.com/supernovus)/[**flower**](https://github.com/supernovus/flower)|XML Application Languages (including TAL/METAL) for Perl 6||
 |5|[@supernovus](https://github.com/supernovus)/[**perl6-psgi**](https://github.com/supernovus/perl6-psgi)|PSGI Helper Library for Perl 6||
 |5|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Twitter**](https://github.com/zoffixznet/perl6-Twitter)|Perl 6 module: Twitter API||
+|4|[@supernovus](https://github.com/supernovus)/[**perl6-db-model-easy**](https://github.com/supernovus/perl6-db-model-easy)|Build database models in Perl 6, easily.||
 |4|[@supernovus](https://github.com/supernovus)/[**template6**](https://github.com/supernovus/template6)|Template6: A TT-like template engine for Perl 6||
 |4|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Color**](https://github.com/zoffixznet/perl6-Color)|Perl 6 module for format conversion and math operations on colours||
 |4|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Pretty-Topic**](https://github.com/zoffixznet/perl6-Pretty-Topic)|Perl 6 module: alias $_ topical variable to something prettier||
 |3|[@briandfoy](https://github.com/briandfoy)/[**Perl6PowerTools**](https://github.com/briandfoy/Perl6PowerTools)|The Perl Power Tools, but in Perl 6||
 |3|[@briandfoy](https://github.com/briandfoy)/[**html-simplelinkextor**](https://github.com/briandfoy/html-simplelinkextor)|(Perl) Extract links from HTML|[:arrow_upper_right:](http://search.cpan.org/dist/HTML-SimpleLinkExtor)|
-|3|[@supernovus](https://github.com/supernovus)/[**perl6-db-model-easy**](https://github.com/supernovus/perl6-db-model-easy)|Build database models in Perl 6, easily.||
 |3|[@supernovus](https://github.com/supernovus)/[**perl6-http-status**](https://github.com/supernovus/perl6-http-status)|Get the text message associated with a given HTTP code||
 |3|[@supernovus](https://github.com/supernovus)/[**perl6-mime-types**](https://github.com/supernovus/perl6-mime-types)|Library for parsing mime.types files and querying the results.||
 |3|[@zoffixznet](https://github.com/zoffixznet)/[**Rele6sr**](https://github.com/zoffixznet/Rele6sr)|Rakudo Perl 6 Compiler Release Tool||

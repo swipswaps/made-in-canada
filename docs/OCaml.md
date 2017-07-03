@@ -6,7 +6,7 @@
 |7|[@adrianmcli](https://github.com/adrianmcli)/[**rehydrate-workshop**](https://github.com/adrianmcli/rehydrate-workshop)|A small collection of basic components built with Rehydrate 💧.||
 |7|[@tokenrove](https://github.com/tokenrove)/[**shred-for-satan**](https://github.com/tokenrove/shred-for-satan)|MIDI-driven metronome||
 |5|[@tokenrove](https://github.com/tokenrove)/[**tsdl-mixer**](https://github.com/tokenrove/tsdl-mixer)|SDL2_mixer bindings to go with Tsdl||
+|4|[@gnuvince](https://github.com/gnuvince)/[**ocaml-tiger**](https://github.com/gnuvince/ocaml-tiger)|||
 |4|[@tokenrove](https://github.com/tokenrove)/[**tsdl-ttf**](https://github.com/tokenrove/tsdl-ttf)|SDL2_ttf bindings for Ocaml with Tsdl||
-|3|[@gnuvince](https://github.com/gnuvince)/[**ocaml-tiger**](https://github.com/gnuvince/ocaml-tiger)|||
 |3|[@tokenrove](https://github.com/tokenrove)/[**zookicker**](https://github.com/tokenrove/zookicker)|#1GAM February backup plan||
 

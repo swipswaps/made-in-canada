@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |150|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
-|121|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
-|82|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
-|77|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgREST + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
+|123|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
+|83|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
+|79|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgREST + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
 |40|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
 |33|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm**](https://github.com/JoeyEremondi/haskelm)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
 |30|[@avieth](https://github.com/avieth)/[**Algebraic**](https://github.com/avieth/Algebraic)|Experiments on the construction of functions||
@@ -26,9 +26,9 @@
 |8|[@shepheb](https://github.com/shepheb)/[**go10c**](https://github.com/shepheb/go10c)|Compiler for a dialect of Go to DCPU-16 assembly||
 |7|[@avieth](https://github.com/avieth)/[**type-function**](https://github.com/avieth/type-function)|Type-level functional programming||
 |7|[@avieth](https://github.com/avieth)/[**type-lambda**](https://github.com/avieth/type-lambda)|First-class type-level functions||
-|7|[@diogob](https://github.com/diogob)/[**haskell-tools**](https://github.com/diogob/haskell-tools)|Website to view haskell projects from Github|[:arrow_upper_right:](http://haskelltools.com)|
 |7|[@singpolyma](https://github.com/singpolyma)/[**mustache2hs**](https://github.com/singpolyma/mustache2hs)|An attempt to compile Mustache templates to Haskell code||
 |7|[@tpetricek](https://github.com/tpetricek)/[**Haskell.Joinads**](https://github.com/tpetricek/Haskell.Joinads)|Haskell implementation of Joinads|[:arrow_upper_right:](http://www.cl.cam.ac.uk/~tp322/papers/docase.html)|
+|6|[@diogob](https://github.com/diogob)/[**haskell-tools**](https://github.com/diogob/haskell-tools)|Website to view haskell projects from Github|[:arrow_upper_right:](http://haskelltools.com)|
 |6|[@fosskers](https://github.com/fosskers)/[**nanq**](https://github.com/fosskers/nanq)|Haskell suite for determining what 級 (level) of the 漢字検定 (national Kanji exam) a given Kanji belongs to.||
 |6|[@fosskers](https://github.com/fosskers)/[**vectortiles**](https://github.com/fosskers/vectortiles)|A native Haskell codec for Mapbox Vector Tiles.||
 |6|[@pbevin](https://github.com/pbevin)/[**cardelli**](https://github.com/pbevin/cardelli)|Cardelli type inferencer translated to Javascript||
