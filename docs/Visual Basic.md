@@ -15,6 +15,7 @@
 |4|[@iH8sn0w](https://github.com/iH8sn0w)/[**Payload-Pwner**](https://github.com/iH8sn0w/Payload-Pwner)|A tool that decrypts iBoot and produces a pwn payload for 3.1.2.|[:arrow_upper_right:](http://ih8sn0w.com)|
 |4|[@iH8sn0w](https://github.com/iH8sn0w)/[**iDetector**](https://github.com/iH8sn0w/iDetector)|A simple tool that detects if your device is New Bootrom or Old Bootrom in DFU.|[:arrow_upper_right:](http://ih8sn0w.com)|
 |4|[@iH8sn0w](https://github.com/iH8sn0w)/[**iREB----sn0wbreeze-version**](https://github.com/iH8sn0w/iREB----sn0wbreeze-version)|iREB for sn0wbreeze integration|[:arrow_upper_right:](http://ih8sn0w.com)|
+|3|[@Lynxmotion](https://github.com/Lynxmotion)/[**Brat**](https://github.com/Lynxmotion/Brat)|Contains code available for the BRAT humanoid robot. |[:arrow_upper_right:](http://www.lynxmotion.com/c-85-bipeds.aspx)|
 |3|[@PFCKrutonium](https://github.com/PFCKrutonium)/[**XKCDViewer**](https://github.com/PFCKrutonium/XKCDViewer)|Allows you to view XKCD Comics without opening a Browser||
 |3|[@PFCKrutonium](https://github.com/PFCKrutonium)/[**Yggdrasil**](https://github.com/PFCKrutonium/Yggdrasil)|Simple Library for Authenticating against Mojang's Login server (Called Yggdrasil) in .Net||
 
