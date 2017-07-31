@@ -11,10 +11,10 @@
 |10|[@yracine](https://github.com/yracine)/[**DSC-Integration-with-Arduino-Mega-Shield-RS-232**](https://github.com/yracine/DSC-Integration-with-Arduino-Mega-Shield-RS-232)|DSC - Integration with SmartThings (RS232)||
 |7|[@eclipsesource](https://github.com/eclipsesource)/[**dockerizor**](https://github.com/eclipsesource/dockerizor)|Gradle plug-in to create a Docker image that includes an Eclipse Virgo container||
 |7|[@yracine](https://github.com/yracine)/[**keenhome.device-type**](https://github.com/yracine/keenhome.device-type)|Keen Home Smart Vents - device handler||
+|6|[@chaopeng](https://github.com/chaopeng)/[**grchaos**](https://github.com/chaopeng/grchaos)|application framework for hotswap||
 |6|[@dansmith65](https://github.com/dansmith65)/[**ooScriptMaster**](https://github.com/dansmith65/ooScriptMaster)|object oriented ScriptMaster|[:arrow_upper_right:](http://dansmith65.github.com/ooScriptMaster/groovydoc/)|
 |6|[@yracine](https://github.com/yracine)/[**customYaleLockWithGoodTimeout**](https://github.com/yracine/customYaleLockWithGoodTimeout)|Custom Yale Lock With good timeout to avoid wrong status at Smartthings hub||
 |6|[@yracine](https://github.com/yracine)/[**device-type.myautomatic**](https://github.com/yracine/device-type.myautomatic)|SmartThings - Automatic integration||
-|5|[@chaopeng](https://github.com/chaopeng)/[**grchaos**](https://github.com/chaopeng/grchaos)|application framework for hotswap||
 |4|[@anthonydahanne](https://github.com/anthonydahanne)/[**JenkinsHudsonScripts**](https://github.com/anthonydahanne/JenkinsHudsonScripts)|Collection of scripts to interact with Jenkins and Hudson remote APIs and Update Centers||
 |4|[@davidkiss](https://github.com/davidkiss)/[**grails-todo**](https://github.com/davidkiss/grails-todo)|Sample project on building a modern web application using Grails + Spring Security + Angular JS + Twitter Bootstrap.||
 |4|[@kellyrob99](https://github.com/kellyrob99)/[**running-groovy**](https://github.com/kellyrob99/running-groovy)|Examples of how to dynamically execute Groovy and Java code.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2009/11/21/different-flavors-of-embedded-groovy-in-java-apps-or-how-to-make-your-java-groovier/)|
