@@ -1,4 +1,4 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|4|[@cwensley](https://github.com/cwensley)/[**bitfonts**](https://github.com/cwensley/bitfonts)|Bit fonts for text mode art|[:arrow_upper_right:](http://picoe.ca/products/pablodraw)|
+|5|[@alexander-mead](https://github.com/alexander-mead)/[**HMcode**](https://github.com/alexander-mead/HMcode)|Source code for non-linear matter power spectrum prediction.||
 

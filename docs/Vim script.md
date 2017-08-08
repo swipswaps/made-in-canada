@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2335|[@pangloss](https://github.com/pangloss)/[**vim-javascript**](https://github.com/pangloss/vim-javascript)|Vastly improved Javascript indentation and syntax support in Vim.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4452)|
-|755|[@gf3](https://github.com/gf3)/[**dotfiles**](https://github.com/gf3/dotfiles)|config for neovim, tmux, molotov colourscheme, and more||
-|673|[@myusuf3](https://github.com/myusuf3)/[**numbers.vim**](https://github.com/myusuf3/numbers.vim)|numbers.vim is a vim plugin for better line numbers|[:arrow_upper_right:](http://myusuf3.github.com/numbers.vim/)|
+|2344|[@pangloss](https://github.com/pangloss)/[**vim-javascript**](https://github.com/pangloss/vim-javascript)|Vastly improved Javascript indentation and syntax support in Vim.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4452)|
+|756|[@gf3](https://github.com/gf3)/[**dotfiles**](https://github.com/gf3/dotfiles)|config for neovim, tmux, molotov colourscheme, and more||
+|672|[@myusuf3](https://github.com/myusuf3)/[**numbers.vim**](https://github.com/myusuf3/numbers.vim)|numbers.vim is a vim plugin for better line numbers|[:arrow_upper_right:](http://myusuf3.github.com/numbers.vim/)|
 |638|[@jpalardy](https://github.com/jpalardy)/[**vim-slime**](https://github.com/jpalardy/vim-slime)|A vim plugin to give you some slime. (Emacs)|[:arrow_upper_right:](http://technotales.wordpress.com/2007/10/03/like-slime-for-vim/)|
-|369|[@svermeulen](https://github.com/svermeulen)/[**vim-easyclip**](https://github.com/svermeulen/vim-easyclip)|Simplified clipboard functionality for Vim||
-|341|[@tommcdo](https://github.com/tommcdo)/[**vim-exchange**](https://github.com/tommcdo/vim-exchange)|Easy text exchange operator for Vim||
+|370|[@svermeulen](https://github.com/svermeulen)/[**vim-easyclip**](https://github.com/svermeulen/vim-easyclip)|Simplified clipboard functionality for Vim||
+|343|[@tommcdo](https://github.com/tommcdo)/[**vim-exchange**](https://github.com/tommcdo/vim-exchange)|Easy text exchange operator for Vim||
 |129|[@myusuf3](https://github.com/myusuf3)/[**dotfiles**](https://github.com/myusuf3/dotfiles)|myusuf3's dotfiles||
 |69|[@jpalardy](https://github.com/jpalardy)/[**dotfiles**](https://github.com/jpalardy/dotfiles)|My collection of config files (bash, vim, …)||
 |53|[@jperras](https://github.com/jperras)/[**vim-dotfiles**](https://github.com/jperras/vim-dotfiles)|Carefully crafted, curated and somewhat Python-oriented Vim development environment||
-|43|[@juliosueiras](https://github.com/juliosueiras)/[**vim-terraform-completion**](https://github.com/juliosueiras/vim-terraform-completion)|A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool||
+|44|[@juliosueiras](https://github.com/juliosueiras)/[**vim-terraform-completion**](https://github.com/juliosueiras/vim-terraform-completion)|A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool||
 |41|[@amacgregor](https://github.com/amacgregor)/[**dot-files**](https://github.com/amacgregor/dot-files)|Dotfiles repository||
 |41|[@ujihisa](https://github.com/ujihisa)/[**neco-look**](https://github.com/ujihisa/neco-look)|A neocomplcache plugin for English, using look command|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3440)|
 |39|[@ujihisa](https://github.com/ujihisa)/[**config**](https://github.com/ujihisa/config)|||
@@ -25,18 +25,21 @@
 |11|[@idbrii](https://github.com/idbrii)/[**vim-endoscope**](https://github.com/idbrii/vim-endoscope)|A single keystroke to end your scope. Like autoclose plugins, but less automatic.||
 |10|[@tylerball](https://github.com/tylerball)/[**dotfiles**](https://github.com/tylerball/dotfiles)|files with dots.||
 |8|[@jonathansick](https://github.com/jonathansick)/[**sickvim**](https://github.com/jonathansick/sickvim)|Jonathan Sick's Vim Setup|[:arrow_upper_right:](http://www.jonathansick.ca)|
+|8|[@martinda](https://github.com/martinda)/[**Jenkinsfile-vim-syntax**](https://github.com/martinda/Jenkinsfile-vim-syntax)|Jenkinsfile DSL vim syntax||
+|7|[@keithamus](https://github.com/keithamus)/[**dotfiles**](https://github.com/keithamus/dotfiles)|⚫ These are my dotfiles. There are many like it but these are mine.||
 |6|[@curtismchale](https://github.com/curtismchale)/[**WPTT-Vim-Config**](https://github.com/curtismchale/WPTT-Vim-Config)|My WordPress vim config||
 |6|[@idbrii](https://github.com/idbrii)/[**vim-searchsavvy**](https://github.com/idbrii/vim-searchsavvy)|Better search -- start searches, manipulate your queries, convert search to grep, and optimize your grep||
 |6|[@matthutchinson](https://github.com/matthutchinson)/[**workbench**](https://github.com/matthutchinson/workbench)|home folder, vim config and various other tools|[:arrow_upper_right:](http://matthutchinson.github.com/workbench/)|
 |5|[@idbrii](https://github.com/idbrii)/[**vim-sandydune**](https://github.com/idbrii/vim-sandydune)|A more colourful variant of the default desert colorscheme.||
 |5|[@kbaribeau](https://github.com/kbaribeau)/[**dotfiles**](https://github.com/kbaribeau/dotfiles)|~/.* files for my mac (git, autotest, etc.)||
-|5|[@martinda](https://github.com/martinda)/[**Jenkinsfile-vim-syntax**](https://github.com/martinda/Jenkinsfile-vim-syntax)|Jenkinsfile DSL vim syntax||
 |5|[@ruyadorno](https://github.com/ruyadorno)/[**dotfiles**](https://github.com/ruyadorno/dotfiles)|||
 |5|[@stewart](https://github.com/stewart)/[**dotfiles**](https://github.com/stewart/dotfiles)|.dotfiles||
 |4|[@brentlintner](https://github.com/brentlintner)/[**vim-settings**](https://github.com/brentlintner/vim-settings)|My current Vim/NeoVim setup||
 |4|[@svett](https://github.com/svett)/[**home-osx**](https://github.com/svett/home-osx)|OSX home directory||
 |3|[@arteymix](https://github.com/arteymix)/[**vimrc**](https://github.com/arteymix/vimrc)|Vim setup I use every day||
 |3|[@davidcornu](https://github.com/davidcornu)/[**dotfiles**](https://github.com/davidcornu/dotfiles)|My dotfiles||
+|3|[@horse-latitudes](https://github.com/horse-latitudes)/[**horse-vimfiles**](https://github.com/horse-latitudes/horse-vimfiles)|dotfiles & somesuch|[:arrow_upper_right:](https://github.com/horse-latitudes/horse-vimfiles.git)|
+|3|[@jarednorman](https://github.com/jarednorman)/[**dotfiles**](https://github.com/jarednorman/dotfiles)|my configuration||
 |3|[@jpcaissy](https://github.com/jpcaissy)/[**vimrc**](https://github.com/jpcaissy/vimrc)|||
 |3|[@kevinjalbert](https://github.com/kevinjalbert)/[**dotfiles**](https://github.com/kevinjalbert/dotfiles)|My dotfiles||
 |3|[@nbosco](https://github.com/nbosco)/[**vim2go**](https://github.com/nbosco/vim2go)|Vim starter kit, with mind blowing features. 👐🏽 Emacs can't stop us.|[:arrow_upper_right:](https://nbosco.github.io/vim2go/)|
