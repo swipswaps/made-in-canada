@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|11415|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
-|532|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
-|263|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
-|207|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
-|171|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
+|11465|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
+|534|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
+|262|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
+|206|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
+|172|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
 |98|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execushares**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
-|78|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
-|47|[@patmorin](https://github.com/patmorin)/[**arraylayout**](https://github.com/patmorin/arraylayout)|Experiments with array layouts for comparison-based searching|[:arrow_upper_right:](http://cglab.ca/~morin/misc/arraylayout-v2/)|
+|79|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
+|48|[@patmorin](https://github.com/patmorin)/[**arraylayout**](https://github.com/patmorin/arraylayout)|Experiments with array layouts for comparison-based searching|[:arrow_upper_right:](http://cglab.ca/~morin/misc/arraylayout-v2/)|
 |44|[@christhomson](https://github.com/christhomson)/[**lecture-notes**](https://github.com/christhomson/lecture-notes)|LaTeX notes for a few courses I've taken at the University of Waterloo.|[:arrow_upper_right:](http://cthomson.ca/notes)|
 |18|[@mcantelon](https://github.com/mcantelon)/[**fashion-quest**](https://github.com/mcantelon/fashion-quest)|Shoes-dependent, YAML-driven interactive fiction framework for fashion adventures|[:arrow_upper_right:](http://mcantelon.github.io/fashion-quest/)|
 |14|[@tpoisot](https://github.com/tpoisot)/[**ecobiblatex**](https://github.com/tpoisot/ecobiblatex)|Biblatex styles for ecology journals||
@@ -19,13 +19,13 @@
 |10|[@PhDP](https://github.com/PhDP)/[**article_preprint**](https://github.com/PhDP/article_preprint)|An article on preprints in biology (published in PLOS Biology).||
 |10|[@gaborbernat](https://github.com/gaborbernat)/[**ropi_jegyzet_latex**](https://github.com/gaborbernat/ropi_jegyzet_latex)|Rendszeroptimizálás||
 |10|[@gdevenyi](https://github.com/gdevenyi)/[**mcmaster.latex**](https://github.com/gdevenyi/mcmaster.latex)|LaTeX Template Satisfying McMaster Thesis Formatting Requirements||
+|9|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan**](https://github.com/gavinsimpson/esa-advanced-vegan)|Advanced Vegan Workshop for ESA||
 |8|[@Pomax](https://github.com/Pomax)/[**ucharclasses**](https://github.com/Pomax/ucharclasses)|A XeLaTeX package that lets you insert arbitrary code between characters from different unicode blocks||
+|8|[@peeterjoot](https://github.com/peeterjoot)/[**physicsplay**](https://github.com/peeterjoot/physicsplay)|Latex source for geometric algebra and physics notes.|[:arrow_upper_right:](http://peeterjoot.com/)|
 |8|[@qrwteyrutiyoup](https://github.com/qrwteyrutiyoup)/[**modelo-latex-uece**](https://github.com/qrwteyrutiyoup/modelo-latex-uece)|Modelo de monografia em LaTeX da Universidade Estadual do Ceará (UECE)||
 |8|[@seananderson](https://github.com/seananderson)/[**heavy-tails**](https://github.com/seananderson/heavy-tails)|Black-swan events in animal populations||
 |7|[@bmcfee](https://github.com/bmcfee)/[**playlist_recommender**](https://github.com/bmcfee/playlist_recommender)|Personalized generative playlist models||
 |7|[@ctn-archive](https://github.com/ctn-archive)/[**bekolay-jneurosci2014**](https://github.com/ctn-archive/bekolay-jneurosci2014)|Files related to "A spiking neural integrator model of the adaptive control of action by the medial prefrontal cortex"||
-|7|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan**](https://github.com/gavinsimpson/esa-advanced-vegan)|Advanced Vegan Workshop for ESA||
-|7|[@peeterjoot](https://github.com/peeterjoot)/[**physicsplay**](https://github.com/peeterjoot/physicsplay)|Latex source for geometric algebra and physics notes.|[:arrow_upper_right:](http://peeterjoot.com/)|
 |6|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan-2016**](https://github.com/gavinsimpson/esa-advanced-vegan-2016)|Advanced Vegan Workshop at ESA 2016||
 |5|[@MathML](https://github.com/MathML)/[**MathMLinHTML5**](https://github.com/MathML/MathMLinHTML5)|Draft for a detailed technical document to implement MathML in Web rendering engines.|[:arrow_upper_right:](http://www.mathml-association.org/MathMLinHTML5/)|
 |5|[@apetresc](https://github.com/apetresc)/[**Lecons-Sur-La-Theorie-Generale-Des-Surfaces**](https://github.com/apetresc/Lecons-Sur-La-Theorie-Generale-Des-Surfaces)|A collaborative effort to produce an English translation of Darboux's seminal 1887 text "Leçons Sur La Théorie Générale Des Surfaces Et Les Applications Géométriques Du Calcul Infinitésimal"||

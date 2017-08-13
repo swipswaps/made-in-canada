@@ -8,11 +8,11 @@
 |77|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |71|[@mlangill](https://github.com/mlangill)/[**microbiome_helper**](https://github.com/mlangill/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |70|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
-|57|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
-|38|[@yanick](https://github.com/yanick)/[**git-cpan-patch**](https://github.com/yanick/git-cpan-patch)|System to write patches against CPAN modules via Git||
+|58|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
+|39|[@yanick](https://github.com/yanick)/[**git-cpan-patch**](https://github.com/yanick/git-cpan-patch)|System to write patches against CPAN modules via Git||
 |35|[@moshen](https://github.com/moshen)/[**Image-Term256Color**](https://github.com/moshen/Image-Term256Color)|Display images in your 256 color terminal! (kinda) - superseded by https://github.com/moshen/gotermimg||
 |32|[@briandfoy](https://github.com/briandfoy)/[**Learning-Perl-Sample-Files**](https://github.com/briandfoy/Learning-Perl-Sample-Files)|Extra files for use with Learning Perl|[:arrow_upper_right:](http://www.learning-perl.org/)|
-|29|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
+|30|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
 |26|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
 |24|[@sjackman](https://github.com/sjackman)/[**fastascripts**](https://github.com/sjackman/fastascripts)|Manipulate FASTA files||
 |21|[@briandfoy](https://github.com/briandfoy)/[**cpan-script**](https://github.com/briandfoy/cpan-script)|(Perl) Interact with CPAN from the command line|[:arrow_upper_right:](http://search.cpan.org/dist/cpan-script)|
@@ -22,8 +22,8 @@
 |16|[@briandfoy](https://github.com/briandfoy)/[**git-github-creator**](https://github.com/briandfoy/git-github-creator)|(Perl) Create a Github repository for your Perl module|[:arrow_upper_right:](http://search.cpan.org/dist/github_creator)|
 |16|[@mlangill](https://github.com/mlangill)/[**MicrobeDB**](https://github.com/mlangill/MicrobeDB)|Provides a local database of in-house and published genomes for Bacteria and Archaea from NCBI||
 |15|[@briandfoy](https://github.com/briandfoy)/[**Unicode-Tussle**](https://github.com/briandfoy/Unicode-Tussle)|Tom( Christiansen)'s Unicode Scripts So Life is Easier|[:arrow_upper_right:](http://search.cpan.org/dist/Unicode-Tussle)|
+|14|[@bcgsc](https://github.com/bcgsc)/[**mirna**](https://github.com/bcgsc/mirna)|microRNA profiling pipeline||
 |14|[@sestaton](https://github.com/sestaton)/[**Transposome**](https://github.com/sestaton/Transposome)|A toolkit for annotation of transposable element families from unassembled sequence reads|[:arrow_upper_right:](http://sestaton.github.io/Transposome)|
-|13|[@bcgsc](https://github.com/bcgsc)/[**mirna**](https://github.com/bcgsc/mirna)|microRNA profiling pipeline||
 |13|[@yanick](https://github.com/yanick)/[**Perl-Achievements**](https://github.com/yanick/Perl-Achievements)|Write some perl, gather some badges of merit.||
 |12|[@carlalexander](https://github.com/carlalexander)/[**macos-nginx-php**](https://github.com/carlalexander/macos-nginx-php)|[UNMAINTAINED] Nginx and PHP config for Mac OS X||
 |12|[@northox](https://github.com/northox)/[**openbsd-apu2**](https://github.com/northox/openbsd-apu2)|Configuration files to setup PC Engines' APU2 as a WIFI router running OpenBSD||
@@ -87,6 +87,7 @@
 |4|[@bricas](https://github.com/bricas)/[**games-nes-emulator**](https://github.com/bricas/games-nes-emulator)|An object-oriented NES (6502) emulator|[:arrow_upper_right:](http://search.cpan.org/dist/Games-NES-Emulator)|
 |4|[@hoytech](https://github.com/hoytech)/[**Unicode-Truncate**](https://github.com/hoytech/Unicode-Truncate)|Unicode-aware efficient string truncation||
 |4|[@hoytech](https://github.com/hoytech)/[**Vcdiff**](https://github.com/hoytech/Vcdiff)|Vcdiff - diff and patch for binary data||
+|4|[@jandubois](https://github.com/jandubois)/[**win32-daemon**](https://github.com/jandubois/win32-daemon)|||
 |4|[@jandubois](https://github.com/jandubois)/[**win32-ole**](https://github.com/jandubois/win32-ole)|||
 |4|[@jts](https://github.com/jts)/[**sga-extra**](https://github.com/jts/sga-extra)|Extra tools and utilities for sga||
 |4|[@yanick](https://github.com/yanick)/[**Dancer-Template-Mason**](https://github.com/yanick/Dancer-Template-Mason)|Mason wrapper for Dancer||
@@ -129,7 +130,6 @@
 |3|[@hoytech](https://github.com/hoytech)/[**Log-Defer**](https://github.com/hoytech/Log-Defer)|Deferred logs and timers||
 |3|[@hoytech](https://github.com/hoytech)/[**String-Compare-ConstantTime**](https://github.com/hoytech/String-Compare-ConstantTime)|Timing side-channel protected string compare||
 |3|[@jandubois](https://github.com/jandubois)/[**popclipext**](https://github.com/jandubois/popclipext)|My PopClip Extensions||
-|3|[@jandubois](https://github.com/jandubois)/[**win32-daemon**](https://github.com/jandubois/win32-daemon)|||
 |3|[@jandubois](https://github.com/jandubois)/[**win32-eventlog**](https://github.com/jandubois/win32-eventlog)|||
 |3|[@orlandov](https://github.com/orlandov)/[**Legion-AWS-MapReduce**](https://github.com/orlandov/Legion-AWS-MapReduce)|Distributed blender rendering with Amazon Elastic MapReduce||
 |3|[@sestaton](https://github.com/sestaton)/[**Chloro**](https://github.com/sestaton/Chloro)|Automated chloroplast genome assembly||

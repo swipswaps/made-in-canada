@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |639|[@gf3](https://github.com/gf3)/[**secretary**](https://github.com/gf3/secretary)|A client-side router for ClojureScript.||
-|538|[@yogthos](https://github.com/yogthos)/[**Selmer**](https://github.com/yogthos/Selmer)|A fast, Django inspired template system in Clojure.||
+|540|[@yogthos](https://github.com/yogthos)/[**Selmer**](https://github.com/yogthos/Selmer)|A fast, Django inspired template system in Clojure.||
 |524|[@takeoutweight](https://github.com/takeoutweight)/[**clojure-scheme**](https://github.com/takeoutweight/clojure-scheme)|Clojure to Scheme to C to the bare metal.||
-|330|[@yogthos](https://github.com/yogthos)/[**markdown-clj**](https://github.com/yogthos/markdown-clj)|Markdown parser in Clojure||
+|332|[@yogthos](https://github.com/yogthos)/[**markdown-clj**](https://github.com/yogthos/markdown-clj)|Markdown parser in Clojure||
 |232|[@yogthos](https://github.com/yogthos)/[**migratus**](https://github.com/yogthos/migratus)|MIGRATE ALL THE THINGS!||
 |152|[@yogthos](https://github.com/yogthos)/[**yuggoth**](https://github.com/yogthos/yuggoth)|my blog engine (no longer maintained)|[:arrow_upper_right:](http://yogthos.net)|
-|116|[@yogthos](https://github.com/yogthos)/[**memory-hole**](https://github.com/yogthos/memory-hole)|Memory Hole is a support issue organizer application||
+|120|[@yogthos](https://github.com/yogthos)/[**memory-hole**](https://github.com/yogthos/memory-hole)|Memory Hole is a support issue organizer application||
 |103|[@yogthos](https://github.com/yogthos)/[**instant-pdf**](https://github.com/yogthos/instant-pdf)|A reporting service which generates PDFs from JSON encoded text||
-|91|[@yogthos](https://github.com/yogthos)/[**json-html**](https://github.com/yogthos/json-html)|Provide EDN/JSON and get a DOM node with a human representation of the data||
-|67|[@adambard](https://github.com/adambard)/[**failjure**](https://github.com/adambard/failjure)|Monadic error utilities for general use in Clojure projects||
+|92|[@yogthos](https://github.com/yogthos)/[**json-html**](https://github.com/yogthos/json-html)|Provide EDN/JSON and get a DOM node with a human representation of the data||
+|79|[@adambard](https://github.com/adambard)/[**failjure**](https://github.com/adambard/failjure)|Monadic error utilities for general use in Clojure projects||
 |57|[@yogthos](https://github.com/yogthos)/[**json-to-pdf**](https://github.com/yogthos/json-to-pdf)|A Library for easily generating PDF documents given JSON markup||
 |48|[@yogthos](https://github.com/yogthos)/[**compojure-template**](https://github.com/yogthos/compojure-template)|A Leiningen template for batteries included projects using Compojure.||
 |42|[@yogthos](https://github.com/yogthos)/[**config**](https://github.com/yogthos/config)|Library for managing environment variables in Clojure using EDN configuration files||
@@ -76,6 +76,7 @@
 |4|[@honza](https://github.com/honza)/[**email-parsing**](https://github.com/honza/email-parsing)|Email parsing in Clojure||
 |4|[@pangloss](https://github.com/pangloss)/[**system.check**](https://github.com/pangloss/system.check)|Test stateful systems using test.check||
 |4|[@ujihisa](https://github.com/ujihisa)/[**postgres-lingrbot**](https://github.com/ujihisa/postgres-lingrbot)|Use PostgreSQL from Lingr||
+|4|[@yogthos](https://github.com/yogthos)/[**prag-prog-re-frame-article**](https://github.com/yogthos/prag-prog-re-frame-article)|source code for the re-frame article||
 |4|[@yogthos](https://github.com/yogthos)/[**ring-http-cat-status**](https://github.com/yogthos/ring-http-cat-status)|Ring middleware for serving status images from https://http.cat/||
 |4|[@yogthos](https://github.com/yogthos)/[**selmer-java**](https://github.com/yogthos/selmer-java)|Java wrapper for Selmer||
 |3|[@adambard](https://github.com/adambard)/[**schemongo**](https://github.com/adambard/schemongo)|The mongo schema library for clojure with the embarrassing name||
@@ -91,6 +92,7 @@
 |3|[@m1hawkgsm](https://github.com/m1hawkgsm)/[**Quantilla**](https://github.com/m1hawkgsm/Quantilla)|Risk/Analytics Platform for Stevens Student Investment Management Fund||
 |3|[@onaio](https://github.com/onaio)/[**vega-viewer**](https://github.com/onaio/vega-viewer)|A collection of Om components for rendering Vega specifications||
 |3|[@palfrey](https://github.com/palfrey)/[**Clostridium**](https://github.com/palfrey/Clostridium)|Befunge interpreter in Clojure||
+|3|[@palfrey](https://github.com/palfrey)/[**clostridium**](https://github.com/palfrey/clostridium)|Befunge interpreter in Clojure|[:arrow_upper_right:](https://tevp.net/blog/2012/8/25/tdd-for-esoteric-programming-languages-using-cloju/)|
 |3|[@practicalli](https://github.com/practicalli)/[**clojure-webapps-example**](https://github.com/practicalli/clojure-webapps-example)|A Clojure project that accompanies clojure-webapps.practical.li||
 |3|[@ujihisa](https://github.com/ujihisa)/[**clojure-lingrbot**](https://github.com/ujihisa/clojure-lingrbot)||[:arrow_upper_right:](http://lingr.com/room/clojure)|
 |3|[@ujihisa](https://github.com/ujihisa)/[**dodgeball-bukkit-mod**](https://github.com/ujihisa/dodgeball-bukkit-mod)|a minecraft server mod (bukkit API)||

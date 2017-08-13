@@ -9,7 +9,7 @@
 |50|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
 |41|[@ujihisa](https://github.com/ujihisa)/[**unite-colorscheme**](https://github.com/ujihisa/unite-colorscheme)|A unite.vim plugin||
 |40|[@ujihisa](https://github.com/ujihisa)/[**shadow.vim**](https://github.com/ujihisa/shadow.vim)|That's not the file. That's shadow.||
-|37|[@ujihisa](https://github.com/ujihisa)/[**neoclojure.vim**](https://github.com/ujihisa/neoclojure.vim)|Clojure completion/unite-source Vim plugin, using vital.ProcessManager and Leiningen||
+|36|[@ujihisa](https://github.com/ujihisa)/[**neoclojure.vim**](https://github.com/ujihisa/neoclojure.vim)|Clojure completion/unite-source Vim plugin, using vital.ProcessManager and Leiningen||
 |35|[@ujihisa](https://github.com/ujihisa)/[**repl.vim**](https://github.com/ujihisa/repl.vim)|irb, ghci, and anything else. in Vim.||
 |32|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
 |32|[@ujihisa](https://github.com/ujihisa)/[**vimshell-ssh**](https://github.com/ujihisa/vimshell-ssh)|the world first vimshell plugin that you can run "vim" command on ssh on vimshell||
