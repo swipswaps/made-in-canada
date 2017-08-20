@@ -1,16 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2347|[@pangloss](https://github.com/pangloss)/[**vim-javascript**](https://github.com/pangloss/vim-javascript)|Vastly improved Javascript indentation and syntax support in Vim.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4452)|
-|756|[@gf3](https://github.com/gf3)/[**dotfiles**](https://github.com/gf3/dotfiles)|config for neovim, tmux, molotov colourscheme, and more||
+|2360|[@pangloss](https://github.com/pangloss)/[**vim-javascript**](https://github.com/pangloss/vim-javascript)|Vastly improved Javascript indentation and syntax support in Vim.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4452)|
+|757|[@gf3](https://github.com/gf3)/[**dotfiles**](https://github.com/gf3/dotfiles)|config for neovim, tmux, molotov colourscheme, and more||
 |672|[@myusuf3](https://github.com/myusuf3)/[**numbers.vim**](https://github.com/myusuf3/numbers.vim)|numbers.vim is a vim plugin for better line numbers|[:arrow_upper_right:](http://myusuf3.github.com/numbers.vim/)|
 |638|[@jpalardy](https://github.com/jpalardy)/[**vim-slime**](https://github.com/jpalardy/vim-slime)|A vim plugin to give you some slime. (Emacs)|[:arrow_upper_right:](http://technotales.wordpress.com/2007/10/03/like-slime-for-vim/)|
-|370|[@svermeulen](https://github.com/svermeulen)/[**vim-easyclip**](https://github.com/svermeulen/vim-easyclip)|Simplified clipboard functionality for Vim||
-|344|[@tommcdo](https://github.com/tommcdo)/[**vim-exchange**](https://github.com/tommcdo/vim-exchange)|Easy text exchange operator for Vim||
+|372|[@svermeulen](https://github.com/svermeulen)/[**vim-easyclip**](https://github.com/svermeulen/vim-easyclip)|Simplified clipboard functionality for Vim||
+|343|[@tommcdo](https://github.com/tommcdo)/[**vim-exchange**](https://github.com/tommcdo/vim-exchange)|Easy text exchange operator for Vim||
 |129|[@myusuf3](https://github.com/myusuf3)/[**dotfiles**](https://github.com/myusuf3/dotfiles)|myusuf3's dotfiles||
 |69|[@jpalardy](https://github.com/jpalardy)/[**dotfiles**](https://github.com/jpalardy/dotfiles)|My collection of config files (bash, vim, …)||
 |53|[@jperras](https://github.com/jperras)/[**vim-dotfiles**](https://github.com/jperras/vim-dotfiles)|Carefully crafted, curated and somewhat Python-oriented Vim development environment||
 |45|[@juliosueiras](https://github.com/juliosueiras)/[**vim-terraform-completion**](https://github.com/juliosueiras/vim-terraform-completion)|A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool||
-|42|[@amacgregor](https://github.com/amacgregor)/[**dot-files**](https://github.com/amacgregor/dot-files)|Dotfiles repository||
+|44|[@amacgregor](https://github.com/amacgregor)/[**dot-files**](https://github.com/amacgregor/dot-files)|Dotfiles repository||
 |39|[@ujihisa](https://github.com/ujihisa)/[**config**](https://github.com/ujihisa/config)|||
 |33|[@remiprev](https://github.com/remiprev)/[**dotfiles**](https://github.com/remiprev/dotfiles)|All my dotfiles (vim, zsh, tmux, etc.) in a single place||
 |26|[@robbles](https://github.com/robbles)/[**logstash.vim**](https://github.com/robbles/logstash.vim)|highlights logstash configuration files||
@@ -26,6 +26,7 @@
 |8|[@jonathansick](https://github.com/jonathansick)/[**sickvim**](https://github.com/jonathansick/sickvim)|Jonathan Sick's Vim Setup|[:arrow_upper_right:](http://www.jonathansick.ca)|
 |8|[@martinda](https://github.com/martinda)/[**Jenkinsfile-vim-syntax**](https://github.com/martinda/Jenkinsfile-vim-syntax)|Jenkinsfile DSL vim syntax||
 |7|[@keithamus](https://github.com/keithamus)/[**dotfiles**](https://github.com/keithamus/dotfiles)|⚫ These are my dotfiles. There are many like it but these are mine.||
+|7|[@tommcdo](https://github.com/tommcdo)/[**vimfiles**](https://github.com/tommcdo/vimfiles)|A copy of my ~/.vim directory||
 |6|[@curtismchale](https://github.com/curtismchale)/[**WPTT-Vim-Config**](https://github.com/curtismchale/WPTT-Vim-Config)|My WordPress vim config||
 |6|[@idbrii](https://github.com/idbrii)/[**vim-searchsavvy**](https://github.com/idbrii/vim-searchsavvy)|Better search -- start searches, manipulate your queries, convert search to grep, and optimize your grep||
 |6|[@matthutchinson](https://github.com/matthutchinson)/[**workbench**](https://github.com/matthutchinson/workbench)|home folder, vim config and various other tools|[:arrow_upper_right:](http://matthutchinson.github.com/workbench/)|

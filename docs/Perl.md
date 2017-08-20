@@ -2,10 +2,10 @@
 |---|---|---|---|
 |166|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
 |124|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
-|116|[@agilebits](https://github.com/agilebits)/[**onepassword-utilities**](https://github.com/agilebits/onepassword-utilities)|Utilities for 1Password||
+|120|[@agilebits](https://github.com/agilebits)/[**onepassword-utilities**](https://github.com/agilebits/onepassword-utilities)|Utilities for 1Password||
 |91|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
 |90|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](http://www.metacpan.org/module/PerlPowerTools/)|
-|77|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
+|79|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |71|[@mlangill](https://github.com/mlangill)/[**microbiome_helper**](https://github.com/mlangill/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |70|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
 |58|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
@@ -25,9 +25,9 @@
 |14|[@bcgsc](https://github.com/bcgsc)/[**mirna**](https://github.com/bcgsc/mirna)|microRNA profiling pipeline||
 |14|[@sestaton](https://github.com/sestaton)/[**Transposome**](https://github.com/sestaton/Transposome)|A toolkit for annotation of transposable element families from unassembled sequence reads|[:arrow_upper_right:](http://sestaton.github.io/Transposome)|
 |13|[@yanick](https://github.com/yanick)/[**Perl-Achievements**](https://github.com/yanick/Perl-Achievements)|Write some perl, gather some badges of merit.||
+|13|[@yanick](https://github.com/yanick)/[**cheatsheets**](https://github.com/yanick/cheatsheets)|My cheatsheets||
 |12|[@carlalexander](https://github.com/carlalexander)/[**macos-nginx-php**](https://github.com/carlalexander/macos-nginx-php)|[UNMAINTAINED] Nginx and PHP config for Mac OS X||
 |12|[@northox](https://github.com/northox)/[**openbsd-apu2**](https://github.com/northox/openbsd-apu2)|Configuration files to setup PC Engines' APU2 as a WIFI router running OpenBSD||
-|12|[@yanick](https://github.com/yanick)/[**cheatsheets**](https://github.com/yanick/cheatsheets)|My cheatsheets||
 |11|[@briandfoy](https://github.com/briandfoy)/[**mycpan-indexer**](https://github.com/briandfoy/mycpan-indexer)|(Perl) Index a Perl distribution|[:arrow_upper_right:](http://search.cpan.org/dist/MyCPAN-Indexer)|
 |11|[@bricas](https://github.com/bricas)/[**statistics-r**](https://github.com/bricas/statistics-r)|Controls the R (R-project) interpreter through Perl|[:arrow_upper_right:](http://metacpan.org/release/Statistics-R/)|
 |11|[@hoytech](https://github.com/hoytech)/[**Session-Token**](https://github.com/hoytech/Session-Token)|Secure, efficient, simple random session token generation||

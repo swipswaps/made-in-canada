@@ -1,28 +1,28 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|10329|[@tj](https://github.com/tj)/[**git-extras**](https://github.com/tj/git-extras)|GIT utilities -- repo summary, repl, changelog population, author commit percentages and more||
-|7370|[@tj](https://github.com/tj)/[**n**](https://github.com/tj/n)|Node version management||
-|1706|[@jimeh](https://github.com/jimeh)/[**git-aware-prompt**](https://github.com/jimeh/git-aware-prompt)|Display current Git branch name in your terminal prompt when in a Git working directory.||
-|1145|[@apenwarr](https://github.com/apenwarr)/[**git-subtree**](https://github.com/apenwarr/git-subtree)|An experimental alternative to the git-submodule command.  Merges and splits subtrees from your project into subprojects and back.||
+|10353|[@tj](https://github.com/tj)/[**git-extras**](https://github.com/tj/git-extras)|GIT utilities -- repo summary, repl, changelog population, author commit percentages and more||
+|7411|[@tj](https://github.com/tj)/[**n**](https://github.com/tj/n)|Node version management||
+|1716|[@jimeh](https://github.com/jimeh)/[**git-aware-prompt**](https://github.com/jimeh/git-aware-prompt)|Display current Git branch name in your terminal prompt when in a Git working directory.||
+|1148|[@apenwarr](https://github.com/apenwarr)/[**git-subtree**](https://github.com/apenwarr/git-subtree)|An experimental alternative to the git-submodule command.  Merges and splits subtrees from your project into subprojects and back.||
 |1105|[@paz-sh](https://github.com/paz-sh)/[**paz**](https://github.com/paz-sh/paz)|An open-source, in-house service platform with a PaaS-like workflow, built on Docker, CoreOS, Etcd and Fleet. This repository houses the documentation and installation scripts.|[:arrow_upper_right:](http://paz.sh)|
-|771|[@timsutton](https://github.com/timsutton)/[**osx-vm-templates**](https://github.com/timsutton/osx-vm-templates)|macOS templates for Packer and VeeWee.||
-|757|[@dsixda](https://github.com/dsixda)/[**Android-Kitchen**](https://github.com/dsixda/Android-Kitchen)|A text-based kitchen for Android ROM customization.  Uses shell scripts and works with Cygwin/OS X/Linux.|[:arrow_upper_right:](http://forum.xda-developers.com/showthread.php?t=633246)|
-|688|[@jimeh](https://github.com/jimeh)/[**tmuxifier**](https://github.com/jimeh/tmuxifier)|Tmuxify your Tmux. Powerful session, window & pane management for Tmux.||
+|773|[@timsutton](https://github.com/timsutton)/[**osx-vm-templates**](https://github.com/timsutton/osx-vm-templates)|macOS templates for Packer and VeeWee.||
+|755|[@dsixda](https://github.com/dsixda)/[**Android-Kitchen**](https://github.com/dsixda/Android-Kitchen)|A text-based kitchen for Android ROM customization.  Uses shell scripts and works with Cygwin/OS X/Linux.|[:arrow_upper_right:](http://forum.xda-developers.com/showthread.php?t=633246)|
+|689|[@jimeh](https://github.com/jimeh)/[**tmuxifier**](https://github.com/jimeh/tmuxifier)|Tmuxify your Tmux. Powerful session, window & pane management for Tmux.||
 |475|[@fnichol](https://github.com/fnichol)/[**dvm**](https://github.com/fnichol/dvm)|An on demand Docker virtual machine, thanks to Vagrant and boot2docker. Works great on Macs and other platforms that don't natively support the Docker daemon. Support VirtualBox, VMware, and Parallels.|[:arrow_upper_right:](http://fnichol.github.io/dvm)|
-|314|[@carlalexander](https://github.com/carlalexander)/[**debops-wordpress**](https://github.com/carlalexander/debops-wordpress)|Your superpowered WordPress server in three commands.||
-|296|[@snwh](https://github.com/snwh)/[**ubuntu-post-install**](https://github.com/snwh/ubuntu-post-install)|A set of post-installation shell scripts for Ubuntu||
+|316|[@carlalexander](https://github.com/carlalexander)/[**debops-wordpress**](https://github.com/carlalexander/debops-wordpress)|Your superpowered WordPress server in three commands.||
+|298|[@snwh](https://github.com/snwh)/[**ubuntu-post-install**](https://github.com/snwh/ubuntu-post-install)|A set of post-installation shell scripts for Ubuntu||
 |295|[@protocool](https://github.com/protocool)/[**ack-tmbundle**](https://github.com/protocool/ack-tmbundle)|"Ack in Project" TextMate bundle||
 |221|[@bartman](https://github.com/bartman)/[**git-wip**](https://github.com/bartman/git-wip)|help track git Work In Progress branches|[:arrow_upper_right:](http://www.jukie.net/~bart/blog/save-everything-with-git-wip)|
-|212|[@jpalardy](https://github.com/jpalardy)/[**warp**](https://github.com/jpalardy/warp)|A bash script to SSH from a list of hostnames.||
+|215|[@lesaff](https://github.com/lesaff)/[**serverpilot-letsencrypt**](https://github.com/lesaff/serverpilot-letsencrypt)|Bash script to generate and install Let's Encrypt certificate for your websites on your ServerPilot account (Free or Paid Plan)||
+|213|[@jpalardy](https://github.com/jpalardy)/[**warp**](https://github.com/jpalardy/warp)|A bash script to SSH from a list of hostnames.||
+|212|[@jimeh](https://github.com/jimeh)/[**tmux-themepack**](https://github.com/jimeh/tmux-themepack)|A pack of various Tmux themes.||
 |212|[@tj](https://github.com/tj)/[**mad**](https://github.com/tj/mad)|mad(1) is a markdown manual page viewer||
-|211|[@lesaff](https://github.com/lesaff)/[**serverpilot-letsencrypt**](https://github.com/lesaff/serverpilot-letsencrypt)|Bash script to generate and install Let's Encrypt certificate for your websites on your ServerPilot account (Free or Paid Plan)||
-|208|[@jimeh](https://github.com/jimeh)/[**tmux-themepack**](https://github.com/jimeh/tmux-themepack)|A pack of various Tmux themes.||
 |175|[@tj](https://github.com/tj)/[**bm**](https://github.com/tj/bm)|CLI bookmarks -- dropbox persisted bookmarks in your terminal - view screenshots in your browser||
 |145|[@nvk](https://github.com/nvk)/[**sketch-icons**](https://github.com/nvk/sketch-icons)|All kinds of icons||
-|125|[@gmarik](https://github.com/gmarik)/[**gist.sh**](https://github.com/gmarik/gist.sh)|Bash shell script for getting/posting code snippets (gists) from/to https://gist.github.com||
+|126|[@gmarik](https://github.com/gmarik)/[**gist.sh**](https://github.com/gmarik/gist.sh)|Bash shell script for getting/posting code snippets (gists) from/to https://gist.github.com||
 |123|[@tj](https://github.com/tj)/[**burl**](https://github.com/tj/burl)|better curl(1) through augmentation||
 |119|[@jimeh](https://github.com/jimeh)/[**docker-znc**](https://github.com/jimeh/docker-znc)|Run the ZNC IRC Bouncer in a Docker container.||
-|77|[@sinofool](https://github.com/sinofool)/[**build-libcurl-ios**](https://github.com/sinofool/build-libcurl-ios)|Build libcurl for iOS development, include armv7 armv7s arm64 i386 and x86_64 support.|[:arrow_upper_right:](http://sinofool.net/blog/archives/172)|
+|78|[@sinofool](https://github.com/sinofool)/[**build-libcurl-ios**](https://github.com/sinofool/build-libcurl-ios)|Build libcurl for iOS development, include armv7 armv7s arm64 i386 and x86_64 support.|[:arrow_upper_right:](http://sinofool.net/blog/archives/172)|
 |76|[@aspiers](https://github.com/aspiers)/[**opensuse-spotify-installer**](https://github.com/aspiers/opensuse-spotify-installer)|Automate installation of Spotify on openSUSE||
 |75|[@bsandrow](https://github.com/bsandrow)/[**tmux.sh**](https://github.com/bsandrow/tmux.sh)|A simple script to allow defaulting to grouped sessions||
 |75|[@fnando](https://github.com/fnando)/[**dotfiles**](https://github.com/fnando/dotfiles)|My dotfiles||
@@ -31,27 +31,27 @@
 |67|[@aspiers](https://github.com/aspiers)/[**shell-env**](https://github.com/aspiers/shell-env)|Adam's shell environment (bash/zsh) including a bunch of handy home-made utilities|[:arrow_upper_right:](http://adamspiers.org/computing/)|
 |64|[@andrina](https://github.com/andrina)/[**JNUC2013**](https://github.com/andrina/JNUC2013)|JNUC 2013 Scripts & Examples||
 |64|[@halfwit](https://github.com/halfwit)/[**dotfiles**](https://github.com/halfwit/dotfiles)|A small collection of configurations, fine tuned to meet my personal needs. You don't want this shit, it'll blow up your PC.||
+|61|[@codingtony](https://github.com/codingtony)/[**udev-monitor-hotplug**](https://github.com/codingtony/udev-monitor-hotplug)|Script that get triggered when monitors are plugged in or out in Linux||
 |61|[@gmarik](https://github.com/gmarik)/[**dotfiles**](https://github.com/gmarik/dotfiles)|my Vim, Bash, Ruby and other configuration files|[:arrow_upper_right:](http://gmarik.info/blog/2010/05/02/tracking-dotfiles-with-git)|
 |59|[@bargenson](https://github.com/bargenson)/[**docker-filebeat**](https://github.com/bargenson/docker-filebeat)|A docker image using the Docker API to collect and ship containers logs to Logstash||
-|58|[@codingtony](https://github.com/codingtony)/[**udev-monitor-hotplug**](https://github.com/codingtony/udev-monitor-hotplug)|Script that get triggered when monitors are plugged in or out in Linux||
 |58|[@danp](https://github.com/danp)/[**heroku-buildpack-runit**](https://github.com/danp/heroku-buildpack-runit)|Run multiple processes in a Heroku dyno, managed by runit||
 |58|[@errordeveloper](https://github.com/errordeveloper)/[**weave-demos**](https://github.com/errordeveloper/weave-demos)|Weave Demos|[:arrow_upper_right:](http://blog.weave.works/author/errordeveloper/)|
+|58|[@morgo](https://github.com/morgo)/[**mysql-compatibility-config**](https://github.com/morgo/mysql-compatibility-config)|Make MySQL behave more like newer (or older) releases||
 |57|[@fnichol](https://github.com/fnichol)/[**macosx-iterm2-settings**](https://github.com/fnichol/macosx-iterm2-settings)|My Mac OS X iTerm2 Settings.||
 |57|[@samuelcolvin](https://github.com/samuelcolvin)/[**nginx-pages**](https://github.com/samuelcolvin/nginx-pages)|static site server using nginx with auto deploy via scp||
-|56|[@morgo](https://github.com/morgo)/[**mysql-compatibility-config**](https://github.com/morgo/mysql-compatibility-config)|Make MySQL behave more like newer (or older) releases||
-|55|[@aspiers](https://github.com/aspiers)/[**git-config**](https://github.com/aspiers/git-config)|Adam's git shortcuts and environment.  Designed to be stowed to ~ using GNU Stow.||
+|56|[@aspiers](https://github.com/aspiers)/[**git-config**](https://github.com/aspiers/git-config)|Adam's git shortcuts and environment.  Designed to be stowed to ~ using GNU Stow.||
 |52|[@RobLoach](https://github.com/RobLoach)/[**Dockie**](https://github.com/RobLoach/Dockie)|:whale: Collection of Modern Development Environments for Docker|[:arrow_upper_right:](https://registry.hub.docker.com/repos/dockie/)|
 |51|[@cmer](https://github.com/cmer)/[**shoestrap**](https://github.com/cmer/shoestrap)|A simple alternative to Chef and Puppet to bootstrap *nix machines.||
 |48|[@stgraber](https://github.com/stgraber)/[**vpn-container**](https://github.com/stgraber/vpn-container)|A tool to start OpenVPN VPNs inside a minimal unprivileged container||
 |48|[@tj](https://github.com/tj)/[**hooks**](https://github.com/tj/hooks)|GIT hooks||
+|46|[@developwithpassion](https://github.com/developwithpassion)/[**devtools**](https://github.com/developwithpassion/devtools)|||
 |46|[@james2doyle](https://github.com/james2doyle)/[**git-website-workflow**](https://github.com/james2doyle/git-website-workflow)|a script that creates a git-capable website workflow|[:arrow_upper_right:](http://goo.gl/0L3E6)|
 |46|[@jpalardy](https://github.com/jpalardy)/[**Command-line-one-liner-challenges**](https://github.com/jpalardy/Command-line-one-liner-challenges)|A series of challenges for people who love command-line one-liners.||
 |46|[@orlandov](https://github.com/orlandov)/[**vimfluence**](https://github.com/orlandov/vimfluence)|Edit Confluence Wikis with Vim||
-|45|[@developwithpassion](https://github.com/developwithpassion)/[**devtools**](https://github.com/developwithpassion/devtools)|||
 |45|[@snwh](https://github.com/snwh)/[**fedora-post-install**](https://github.com/snwh/fedora-post-install)|A set of post-installation shell scripts for Fedora||
 |43|[@kpumuk](https://github.com/kpumuk)/[**dotfiles**](https://github.com/kpumuk/dotfiles)|Config files for bash, ruby, gem, etc used by Dmytro Shteflyuk & Alexey Kovyrin ||
 |43|[@trishume](https://github.com/trishume)/[**dotfiles**](https://github.com/trishume/dotfiles)|My dotfiles for Linux and Mac.||
-|41|[@fnichol](https://github.com/fnichol)/[**bashrc**](https://github.com/fnichol/bashrc)|cross platform bash configuration for system deployments||
+|42|[@fnichol](https://github.com/fnichol)/[**bashrc**](https://github.com/fnichol/bashrc)|cross platform bash configuration for system deployments||
 |37|[@b3ll](https://github.com/b3ll)/[**fan.cy**](https://github.com/b3ll/fan.cy)|Collection of useful helpers I've found / written that help make working with cycript a bit more awesome.||
 |37|[@lhunath](https://github.com/lhunath)/[**scripts**](https://github.com/lhunath/scripts)|A bunch of scripts for all sorts of purposes.||
 |36|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-Heroku-Buildpack**](https://github.com/PerfectlySoft/Perfect-Heroku-Buildpack)|Swift + Perfect Buildpack for Heroku||
@@ -61,18 +61,19 @@
 |34|[@lvivier](https://github.com/lvivier)/[**step-gh-pages**](https://github.com/lvivier/step-gh-pages)|deploy github pages with wercker||
 |33|[@willfarrell](https://github.com/willfarrell)/[**ievms**](https://github.com/willfarrell/ievms)|IE VMs for VMWare Fusion||
 |31|[@jimeh](https://github.com/jimeh)/[**stub.sh**](https://github.com/jimeh/stub.sh)|Helpers for bash script testing to stub/fake binaries and functions. Includes support for validating number of stub calls, and/or if stub has been called with specific arguments.||
+|31|[@sobotklp](https://github.com/sobotklp)/[**kubernetes-redis-cluster**](https://github.com/sobotklp/kubernetes-redis-cluster)|Redis Cluster on Kubernetes||
 |30|[@burke](https://github.com/burke)/[**dotfiles**](https://github.com/burke/dotfiles)|Collection of configuration stuff.||
-|30|[@sobotklp](https://github.com/sobotklp)/[**kubernetes-redis-cluster**](https://github.com/sobotklp/kubernetes-redis-cluster)|Redis Cluster on Kubernetes||
+|29|[@northox](https://github.com/northox)/[**2sshfp**](https://github.com/northox/2sshfp)|Build SSHFP DNS records - ecdsa & ed25519 support (sh)||
 |29|[@portertech](https://github.com/portertech)/[**graylog2-bootstrap**](https://github.com/portertech/graylog2-bootstrap)|Install graylog2-server & graylog2-web-interface|[:arrow_upper_right:](http://graylog2.org)|
 |28|[@coolacid](https://github.com/coolacid)/[**docker-snort**](https://github.com/coolacid/docker-snort)|Snort in a Docker Container||
 |28|[@jonathansick](https://github.com/jonathansick)/[**dotfiles**](https://github.com/jonathansick/dotfiles)|Jonathan Sick's dotfiles.||
-|28|[@northox](https://github.com/northox)/[**2sshfp**](https://github.com/northox/2sshfp)|Build SSHFP DNS records - ecdsa & ed25519 support (sh)||
 |27|[@ryanramage](https://github.com/ryanramage)/[**docker-build-run-push**](https://github.com/ryanramage/docker-build-run-push)|Build tag and push your project based on your package.json details||
 |26|[@allanjude](https://github.com/allanjude)/[**bhyveucl**](https://github.com/allanjude/bhyveucl)|Script for starting bhyve instances based on a libUCL config file||
 |26|[@deluan](https://github.com/deluan)/[**grails.sh**](https://github.com/deluan/grails.sh)|Bash script for selecting and calling the correct Grails version when you have more than one version installed||
 |26|[@fnichol](https://github.com/fnichol)/[**chef-bootstrap-repo**](https://github.com/fnichol/chef-bootstrap-repo)|||
 |26|[@joshuapinter](https://github.com/joshuapinter)/[**apphubdeploy**](https://github.com/joshuapinter/apphubdeploy)|Build and deploy to AppHub.io in one fell swoop.||
 |26|[@thestinger](https://github.com/thestinger)/[**hardening-wrapper**](https://github.com/thestinger/hardening-wrapper)|Wrapper scripts for building hardened executables by default (deprecated, replaced by standard Arch Linux toolchain changes)||
+|26|[@thestinger](https://github.com/thestinger)/[**hardening-wrapper-deprecated**](https://github.com/thestinger/hardening-wrapper-deprecated)|Wrapper scripts for building hardened executables by default (deprecated, replaced by standard Arch Linux toolchain changes)||
 |25|[@abh1nav](https://github.com/abh1nav)/[**docker-cassandra**](https://github.com/abh1nav/docker-cassandra)|Cassandra 2.1.3 as a docker container for quick dev deployments.|[:arrow_upper_right:](https://registry.hub.docker.com/u/abh1nav/cassandra/)|
 |25|[@dkubb](https://github.com/dkubb)/[**haskell-builder**](https://github.com/dkubb/haskell-builder)|A docker container for compiling statically linked binaries written in Haskell||
 |25|[@ferd](https://github.com/ferd)/[**erl_crashdump_analyzer**](https://github.com/ferd/erl_crashdump_analyzer)|shell script to analyze Erlang crash dumps and find some (generally) useful information.||
@@ -94,16 +95,16 @@
 |20|[@bacongobbler](https://github.com/bacongobbler)/[**dockerfiles**](https://github.com/bacongobbler/dockerfiles)|A list of common Dockerfiles|[:arrow_upper_right:](https://index.docker.io/u/bacongobbler/)|
 |20|[@honza](https://github.com/honza)/[**sheepskin**](https://github.com/honza/sheepskin)|Document authoring utility||
 |20|[@mohebifar](https://github.com/mohebifar)/[**php-jalali-extension**](https://github.com/mohebifar/php-jalali-extension)|A php extension for Jalali dates||
+|20|[@ryansch](https://github.com/ryansch)/[**docker-unifi-rpi**](https://github.com/ryansch/docker-unifi-rpi)|Unifi Controller for Raspberry Pi 2/3|[:arrow_upper_right:](https://hub.docker.com/r/ryansch/unifi-rpi/)|
 |20|[@snwh](https://github.com/snwh)/[**humanitary-icon-theme**](https://github.com/snwh/humanitary-icon-theme)|||
 |19|[@auchenberg](https://github.com/auchenberg)/[**dotdev**](https://github.com/auchenberg/dotdev)|zero config wildcard *.dev domains.|[:arrow_upper_right:](http://dev.sh)|
 |19|[@jasonish](https://github.com/jasonish)/[**docker-suricata-elk**](https://github.com/jasonish/docker-suricata-elk)|[ABANDONED] A Docker container running Suricata and the ELK stack.|[:arrow_upper_right:](https://github.com/jasonish/docker-suricata-elk)|
 |19|[@timsutton](https://github.com/timsutton)/[**DeployStudioDiffs**](https://github.com/timsutton/DeployStudioDiffs)|What changed?||
 |19|[@willfarrell](https://github.com/willfarrell)/[**alfred-debugger**](https://github.com/willfarrell/alfred-debugger)|A little script to help you write your Alfred Workflows.||
+|18|[@ashafaei](https://github.com/ashafaei)/[**pdf2pptx**](https://github.com/ashafaei/pdf2pptx)|Convert your (Beamer) PDF slides to (Powerpoint) PPTX||
 |18|[@darron](https://github.com/darron)/[**serf-docker-events**](https://github.com/darron/serf-docker-events)|Docker user events using the Serf orchestration framework.||
 |18|[@fnichol](https://github.com/fnichol)/[**devstack-vagrant-basebox**](https://github.com/fnichol/devstack-vagrant-basebox)|Vagrant Box Generator for OpenStack's DevStack|[:arrow_upper_right:](http://fnichol.github.io/devstack-vagrant-basebox)|
-|18|[@ryansch](https://github.com/ryansch)/[**docker-unifi-rpi**](https://github.com/ryansch/docker-unifi-rpi)|Unifi Controller for Raspberry Pi 2/3|[:arrow_upper_right:](https://hub.docker.com/r/ryansch/unifi-rpi/)|
 |18|[@ualbertalib](https://github.com/ualbertalib)/[**Developer-Handbook**](https://github.com/ualbertalib/Developer-Handbook)|Single source of documentation for the University of Alberta Libraries developers common tools and practices||
-|17|[@ashafaei](https://github.com/ashafaei)/[**pdf2pptx**](https://github.com/ashafaei/pdf2pptx)|Convert your (Beamer) PDF slides to (Powerpoint) PPTX||
 |17|[@darron](https://github.com/darron)/[**consul-vagrant**](https://github.com/darron/consul-vagrant)|An easy way to get a cluster of Consul boxes to play with.||
 |17|[@sinofool](https://github.com/sinofool)/[**build-openssl-ios**](https://github.com/sinofool/build-openssl-ios)|Build openssl for iOS development, include armv7 armv7s arm64 i386 and x86_64 support.|[:arrow_upper_right:](http://sinofool.net/blog/archives/172)|
 |16|[@AndrewHazelden](https://github.com/AndrewHazelden)/[**PLYmesher**](https://github.com/AndrewHazelden/PLYmesher)|PLYmesher is a collection of bash scripts and MeshLab .mlx filter scripts that are used to create possion based reconstructions of .PLY formatted point clouds.||
@@ -116,6 +117,7 @@
 |15|[@prurigro](https://github.com/prurigro)/[**darkcloud-tmuxconfig**](https://github.com/prurigro/darkcloud-tmuxconfig)|A tmux config that includes key mappings, bandwidth monitoring in the status line and a dark theme designed around the one used in darkcloud-vimconfig.||
 |15|[@tomhodgins](https://github.com/tomhodgins)/[**wordpresto**](https://github.com/tomhodgins/wordpresto)|Download, configure, and install Wordpress with one easy script||
 |14|[@cfriedt](https://github.com/cfriedt)/[**gnuradio-for-mac-without-macports**](https://github.com/cfriedt/gnuradio-for-mac-without-macports)|GNURadio bundled as an app for Mac OS X (does not require MacPorts)||
+|14|[@jimeh](https://github.com/jimeh)/[**zsh-peco-history**](https://github.com/jimeh/zsh-peco-history)|Search shell history with peco when pressing ctrl+r.||
 |14|[@jlord](https://github.com/jlord)/[**dotfiles**](https://github.com/jlord/dotfiles)|Stop losing them, me.||
 |14|[@mgrouchy](https://github.com/mgrouchy)/[**dotfiles**](https://github.com/mgrouchy/dotfiles)|my dotfiles||
 |14|[@oncletom](https://github.com/oncletom)/[**letsencrypt-alwaysdata**](https://github.com/oncletom/letsencrypt-alwaysdata)|Update your SSL certs on alwaysdata via their REST API||
@@ -124,7 +126,6 @@
 |13|[@cdrage](https://github.com/cdrage)/[**dockerfiles**](https://github.com/cdrage/dockerfiles)|🐳 Docker files||
 |13|[@codingtony](https://github.com/codingtony)/[**docker**](https://github.com/codingtony/docker)|Various Docker files||
 |13|[@iKevinY](https://github.com/iKevinY)/[**iKevinY.github.io**](https://github.com/iKevinY/iKevinY.github.io)|Repository for my Pelican-powered website.|[:arrow_upper_right:](http://kevinyap.ca)|
-|13|[@jimeh](https://github.com/jimeh)/[**zsh-peco-history**](https://github.com/jimeh/zsh-peco-history)|Search shell history with peco when pressing ctrl+r.||
 |13|[@thestinger](https://github.com/thestinger)/[**dotfiles**](https://github.com/thestinger/dotfiles)|configuration files and scripts||
 |13|[@tpoisot](https://github.com/tpoisot)/[**DataSharingPaper**](https://github.com/tpoisot/DataSharingPaper)|Paper on why ecologists should share their data||
 |12|[@acroca](https://github.com/acroca)/[**osrm-docker**](https://github.com/acroca/osrm-docker)|Docker meets OSRM||
@@ -145,6 +146,7 @@
 |11|[@timsutton](https://github.com/timsutton)/[**brewbus**](https://github.com/timsutton/brewbus)|Very simple Omnibus-style OS X installer packages from Homebrew.||
 |11|[@tj](https://github.com/tj)/[**ms.sh**](https://github.com/tj/ms.sh)|Bash string -> milliseconds & milliseconds -> string script||
 |11|[@willfarrell](https://github.com/willfarrell)/[**docker-autoheal**](https://github.com/willfarrell/docker-autoheal)|Monitor and restart unhealthy docker containers.||
+|10|[@bcgov](https://github.com/bcgov)/[**simple-R-shiny**](https://github.com/bcgov/simple-R-shiny)|Simple shiny app to test Shiny Server on openshift||
 |10|[@cbbrowne](https://github.com/cbbrowne)/[**pgcmp**](https://github.com/cbbrowne/pgcmp)|Tool for comparing Postgres database schemas||
 |10|[@dkubb](https://github.com/dkubb)/[**dockerfiles**](https://github.com/dkubb/dockerfiles)|A set of docker images I use for development||
 |10|[@freeatnet](https://github.com/freeatnet)/[**uoft-timetable-archive**](https://github.com/freeatnet/uoft-timetable-archive)|An archive of course timetable data for courses offered by the Faculty of Arts & Science at University of Toronto. Data is scraped daily (or as regularly as possible) from https://timetable.iit.artsci.utoronto.ca||
@@ -159,10 +161,8 @@
 |10|[@svrc-pivotal](https://github.com/svrc-pivotal)/[**killozap-cf**](https://github.com/svrc-pivotal/killozap-cf)|Nukes cloud foundry or diego etcd or consul clusters||
 |9|[@GhostBSD](https://github.com/GhostBSD)/[**ghostbsd-build**](https://github.com/GhostBSD/ghostbsd-build)|Tool to build GhostBSD image.||
 |9|[@RobLoach](https://github.com/RobLoach)/[**docker-google-appengine**](https://github.com/RobLoach/docker-google-appengine)|Google App Engine Docker container||
-|9|[@RyanNielson](https://github.com/RyanNielson)/[**wp-togetherjs**](https://github.com/RyanNielson/wp-togetherjs)|A Wordpress plugin to easily integrate Mozilla's TogetherJS realtime collaboration service||
 |9|[@andrewshawcare](https://github.com/andrewshawcare)/[**docker-ecosystem-gocd**](https://github.com/andrewshawcare/docker-ecosystem-gocd)|A gocd deployment with docker-compose-enabled agents and some sample projects||
 |9|[@bacongobbler](https://github.com/bacongobbler)/[**heroku-buildpack-jekyll**](https://github.com/bacongobbler/heroku-buildpack-jekyll)|buildpack for deploying Jekyll sites||
-|9|[@bcgov](https://github.com/bcgov)/[**simple-R-shiny**](https://github.com/bcgov/simple-R-shiny)|Simple shiny app to test Shiny Server on openshift||
 |9|[@danp](https://github.com/danp)/[**heroku-buildpack-ruby-minimal**](https://github.com/danp/heroku-buildpack-ruby-minimal)|A minimal Heroku buildpack for ruby||
 |9|[@hpssjellis](https://github.com/hpssjellis)/[**bash-android-cloud9**](https://github.com/hpssjellis/bash-android-cloud9)|using bash to automate the Android-SDK install specific to cloud9 and then create a debug Hello-Worled App and Access webpage||
 |9|[@redhat-cip](https://github.com/redhat-cip)/[**openstack-yaml-infra**](https://github.com/redhat-cip/openstack-yaml-infra)|Deploy Spinal Stack in a flexible way, supporting multiple scenarios||
@@ -171,6 +171,7 @@
 |8|[@Icehunter](https://github.com/Icehunter)/[**homebrew-mongodb**](https://github.com/Icehunter/homebrew-mongodb)|mongdb setup scripts with a replica set||
 |8|[@OnionIoT](https://github.com/OnionIoT)/[**onion-ubus**](https://github.com/OnionIoT/onion-ubus)|Collection of Onion ubus tools||
 |8|[@RobLoach](https://github.com/RobLoach)/[**docker-pa11y**](https://github.com/RobLoach/docker-pa11y)|pa11y Docker Container||
+|8|[@RyanNielson](https://github.com/RyanNielson)/[**wp-togetherjs**](https://github.com/RyanNielson/wp-togetherjs)|A Wordpress plugin to easily integrate Mozilla's TogetherJS realtime collaboration service||
 |8|[@andrew8088](https://github.com/andrew8088)/[**dotfiles**](https://github.com/andrew8088/dotfiles)|My Dotfiles||
 |8|[@bryanlarsen](https://github.com/bryanlarsen)/[**docker-plugin-kv-consul**](https://github.com/bryanlarsen/docker-plugin-kv-consul)|Set consul keys on container start||
 |8|[@carlalexander](https://github.com/carlalexander)/[**wordpress-unit-test-demo**](https://github.com/carlalexander/wordpress-unit-test-demo)|Demonstrates how to build unit tests with WordPress|[:arrow_upper_right:](https://carlalexander.ca/introduction-wordpress-unit-testing/)|
@@ -187,6 +188,7 @@
 |7|[@abh1nav](https://github.com/abh1nav)/[**docker-opscenter**](https://github.com/abh1nav/docker-opscenter)|DataStax OpsCenter 5.0.0 as a docker container for quick dev deployments.||
 |7|[@azohra](https://github.com/azohra)/[**docker-allure**](https://github.com/azohra/docker-allure)|Run Allure via Docker with minimal bloat thanks to Alpine Linux||
 |7|[@bacongobbler](https://github.com/bacongobbler)/[**helm-whatup**](https://github.com/bacongobbler/helm-whatup)|A Helm plugin to help users determine if there's an update available for their installed charts.||
+|7|[@bcgsc](https://github.com/bcgsc)/[**kollector**](https://github.com/bcgsc/kollector)|de novo targeted gene assembly||
 |7|[@clothbot](https://github.com/clothbot)/[**dxflib**](https://github.com/clothbot/dxflib)|For GPL Use of RibbonSoft.com's dxflib - http://www.ribbonsoft.com/en/what-is-dxflib||
 |7|[@gabrielgrant](https://github.com/gabrielgrant)/[**fapt**](https://github.com/gabrielgrant/fapt)|The Fake APT. Install packages using the Advanced Packaging Tool (APT) without root access.||
 |7|[@halfwit](https://github.com/halfwit)/[**todo**](https://github.com/halfwit/todo)|dmenu based todo scripts||
@@ -202,7 +204,6 @@
 |7|[@vizv](https://github.com/vizv)/[**Viz-Parallel-Magic**](https://github.com/vizv/Viz-Parallel-Magic)|Viz Parallel Magic - A X11 Dockerization Magic!||
 |7|[@yoanisgil](https://github.com/yoanisgil)/[**tyk_quickstart**](https://github.com/yoanisgil/tyk_quickstart)|||
 |6|[@andrew8088](https://github.com/andrew8088)/[**jazz**](https://github.com/andrew8088/jazz)|A simple script that makes using the Jasmine testing framework in a standalone project a little simpler.||
-|6|[@bcgsc](https://github.com/bcgsc)/[**kollector**](https://github.com/bcgsc/kollector)|de novo targeted gene assembly||
 |6|[@bigsnarfdude](https://github.com/bigsnarfdude)/[**bsides_vancouver_2013**](https://github.com/bigsnarfdude/bsides_vancouver_2013)|collection of ipython notebooks and volatility 2.3 and volatility 3.0TP2 and live memory analysis ||
 |6|[@cmer](https://github.com/cmer)/[**shoestrap-example**](https://github.com/cmer/shoestrap-example)|A simple Bash framework to bootstrap *nix machines without the headaches||
 |6|[@curtismchale](https://github.com/curtismchale)/[**Post-Tags-and-Categories-for-Pages**](https://github.com/curtismchale/Post-Tags-and-Categories-for-Pages)|Adds post tags and categories to your WordPress pages.|[:arrow_upper_right:](http://curtismchale.ca/post-tags-and-categories-for-pages)|
@@ -222,6 +223,7 @@
 |6|[@timsutton](https://github.com/timsutton)/[**jss-vagrant**](https://github.com/timsutton/jss-vagrant)|Simple Vagrant environment for bootstrapping a Casper JSS.||
 |5|[@Sakurina](https://github.com/Sakurina)/[**datenshi**](https://github.com/Sakurina/datenshi)|yet another ridiculous static site generator||
 |5|[@alexdunae](https://github.com/alexdunae)/[**monit2twilio**](https://github.com/alexdunae/monit2twilio)|A simple script to send Monit alerts to you via SMS with Twilio.||
+|5|[@aminb](https://github.com/aminb)/[**usb-lock**](https://github.com/aminb/usb-lock)|Simple udev based scripts for [un]locking the screen using a USB drive||
 |5|[@andrina](https://github.com/andrina)/[**Casper-Stuff**](https://github.com/andrina/Casper-Stuff)|A variety of scripts used as extension attributes and scripts in policies||
 |5|[@archf](https://github.com/archf)/[**firetables**](https://github.com/archf/firetables)|nftable statefull firewall||
 |5|[@bbc](https://github.com/bbc)/[**bbc-reith-lectures-sphinx-evaluation**](https://github.com/bbc/bbc-reith-lectures-sphinx-evaluation)|Evaluation script for CMU Sphinx3 on the BBC Reith Lectures||
@@ -259,7 +261,6 @@
 |4|[@abh1nav](https://github.com/abh1nav)/[**docker-kibana**](https://github.com/abh1nav/docker-kibana)|DevDB Kibana - quickly visualize Elasticsearch data||
 |4|[@abh1nav](https://github.com/abh1nav)/[**docker-riak**](https://github.com/abh1nav/docker-riak)|DevDB Riak - docker image for development||
 |4|[@abourget](https://github.com/abourget)/[**asterisk-docker**](https://github.com/abourget/asterisk-docker)|Dockerfile for Asterisk 13||
-|4|[@aminb](https://github.com/aminb)/[**usb-lock**](https://github.com/aminb/usb-lock)|Simple udev based scripts for [un]locking the screen using a USB drive||
 |4|[@andrewshawcare](https://github.com/andrewshawcare)/[**gocd-docker**](https://github.com/andrewshawcare/gocd-docker)|A dockerized implementation of gocd using using docker-enabled agents||
 |4|[@aspiers](https://github.com/aspiers)/[**SUSE-dist**](https://github.com/aspiers/SUSE-dist)|SUSE-specific utilities and miscellany||
 |4|[@aspiers](https://github.com/aspiers)/[**ssh-config**](https://github.com/aspiers/ssh-config)|Adam's openssh public config and helper scripts||
@@ -267,6 +268,7 @@
 |4|[@darron](https://github.com/darron)/[**packer-ubuntu-13.0.4-docker**](https://github.com/darron/packer-ubuntu-13.0.4-docker)|Packer template to build Ubuntu / Docker.||
 |4|[@dmix](https://github.com/dmix)/[**night_watchman**](https://github.com/dmix/night_watchman)|A security-focused OpenVPN client||
 |4|[@ds0nt](https://github.com/ds0nt)/[**metamaps-docker**](https://github.com/ds0nt/metamaps-docker)|Metamaps Dockerized||
+|4|[@eclipsesource](https://github.com/eclipsesource)/[**static-node-build**](https://github.com/eclipsesource/static-node-build)|Builds node.js as a static archive for J2V8||
 |4|[@errordeveloper](https://github.com/errordeveloper)/[**t8s**](https://github.com/errordeveloper/t8s)|minimal test/dev tools for hacking on Kubernetes code (Using Docker for Mac, Docker Machine etc)||
 |4|[@fmarier](https://github.com/fmarier)/[**domain-check**](https://github.com/fmarier/domain-check)|||
 |4|[@fw42](https://github.com/fw42)/[**sshluks**](https://github.com/fw42/sshluks)|LUKS crypto containers over SSHFS on untrusted remote storage||
@@ -315,15 +317,17 @@
 |3|[@bcokert](https://github.com/bcokert)/[**scaling-with-docker-example**](https://github.com/bcokert/scaling-with-docker-example)|The example code for my scaling with docker blog post||
 |3|[@bryanlarsen](https://github.com/bryanlarsen)/[**docker-graphite-master**](https://github.com/bryanlarsen/docker-graphite-master)|Docker build for Graphite 0.10||
 |3|[@bsandrow](https://github.com/bsandrow)/[**_why-spool**](https://github.com/bsandrow/_why-spool)|Scripting for grabbing _why's PCL files||
+|3|[@cbbrowne](https://github.com/cbbrowne)/[**ledgersql**](https://github.com/cbbrowne/ledgersql)|Integration of Ledger with PostgreSQL||
 |3|[@ckdarby](https://github.com/ckdarby)/[**slack-git-pull**](https://github.com/ckdarby/slack-git-pull)|Slack Notifications Using A Git Pull Hook||
 |3|[@codingtony](https://github.com/codingtony)/[**dr-elephant-docker**](https://github.com/codingtony/dr-elephant-docker)|Docker files for Linkedin's Dr. Elephant https://github.com/linkedin/dr-elephant||
 |3|[@dd00f](https://github.com/dd00f)/[**ibm-b2b-monitoring**](https://github.com/dd00f/ibm-b2b-monitoring)|Tools to monitor IBM B2B products||
 |3|[@dmix](https://github.com/dmix)/[**pinboard.zsh**](https://github.com/dmix/pinboard.zsh)|Save to Pinboard via ZSH script w/ Qutebrowser userscript support||
 |3|[@ds0nt](https://github.com/ds0nt)/[**forky-tools**](https://github.com/ds0nt/forky-tools)|Services and Tools for Building, Deploying, and Running Forky|[:arrow_upper_right:](http://forky.io)|
-|3|[@eclipsesource](https://github.com/eclipsesource)/[**static-node-build**](https://github.com/eclipsesource/static-node-build)|Builds node.js as a static archive for J2V8||
 |3|[@eftakhairul](https://github.com/eftakhairul)/[**precise64**](https://github.com/eftakhairul/precise64)|A standard Ubuntu 12.04 LTS 64-bit box. It has Apache, Mysql, PHP5  pre-installed|[:arrow_upper_right:](https://atlas.hashicorp.com/eftakhairul/boxes/precise64)|
 |3|[@emilyhorsman](https://github.com/emilyhorsman)/[**dotfiles**](https://github.com/emilyhorsman/dotfiles)|stuff|[:arrow_upper_right:](https://emilyhorsman.com)|
 |3|[@geoffryan](https://github.com/geoffryan)/[**classroom-util**](https://github.com/geoffryan/classroom-util)|Utility scripts for Github Classroom||
+|3|[@halfwit](https://github.com/halfwit)/[**dsearch**](https://github.com/halfwit/dsearch)|dmenu based websearch frontend||
+|3|[@halfwit](https://github.com/halfwit)/[**hwwm**](https://github.com/halfwit/hwwm)|Set of scripts around wmutils/wmgroup/watom that form my window manager||
 |3|[@hardBox](https://github.com/hardBox)/[**sec_priv_tools**](https://github.com/hardBox/sec_priv_tools)|ubuntu privacy & security setup tools||
 |3|[@hessammehr](https://github.com/hessammehr)/[**meepmpb-highlight**](https://github.com/hessammehr/meepmpb-highlight)|Syntax highlighting for Meep and MPB in gedit||
 |3|[@hpssjellis](https://github.com/hpssjellis)/[**my-tensorflow-magenta-online**](https://github.com/hpssjellis/my-tensorflow-magenta-online)|An option for windows users and others to install and use Google's Magenta Music Artificial Intelligence Software online using Cloud9. Only catch is that you need to pay cloud9 for the extra data needed||
@@ -348,6 +352,7 @@
 |3|[@redhat-cip](https://github.com/redhat-cip)/[**ansible-spinalstack**](https://github.com/redhat-cip/ansible-spinalstack)|An ansible spinalstack||
 |3|[@redhat-cip](https://github.com/redhat-cip)/[**dci-dev-env**](https://github.com/redhat-cip/dci-dev-env)|Dci development environment||
 |3|[@rileyjshaw](https://github.com/rileyjshaw)/[**.supermac**](https://github.com/rileyjshaw/.supermac)|:computer: A collection of dotfiles that I use + some scripts to keep 'em in sync||
+|3|[@rileyjshaw](https://github.com/rileyjshaw)/[**domains**](https://github.com/rileyjshaw/domains)|:telescope: Search for emoji domains and short domains.||
 |3|[@ruyadorno](https://github.com/ruyadorno)/[**eslintme**](https://github.com/ruyadorno/eslintme)|The fastest way to eslint a single file||
 |3|[@simark](https://github.com/simark)/[**sss**](https://github.com/simark/sss)|Screenshot + upload script||
 |3|[@snwh](https://github.com/snwh)/[**solus-post-install**](https://github.com/snwh/solus-post-install)|A set of post-installation shell scripts for Solus||

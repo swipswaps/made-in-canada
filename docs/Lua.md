@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|625|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
-|353|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
-|291|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
-|106|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
+|624|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
+|352|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
+|293|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
+|108|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
 |85|[@castorini](https://github.com/castorini)/[**MP-CNN-Torch**](https://github.com/castorini/MP-CNN-Torch)|Multi-Perspective Convolutional Neural Networks for modeling textual similarity (He et al., EMNLP 2015)||
 |66|[@500px](https://github.com/500px)/[**500pxPublisher.lrplugin**](https://github.com/500px/500pxPublisher.lrplugin)|Lightroom Plugin for publishing directly to 500px||
-|64|[@forhappy](https://github.com/forhappy)/[**zklua**](https://github.com/forhappy/zklua)|Lua binding of apache zookeeper.||
+|65|[@forhappy](https://github.com/forhappy)/[**zklua**](https://github.com/forhappy/zklua)|Lua binding of apache zookeeper.||
 |47|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**torch-in-action**](https://github.com/nicholas-leonard/torch-in-action)|Code for the Torch in Action book||
 |38|[@karai17](https://github.com/karai17)/[**lapis-chan**](https://github.com/karai17/lapis-chan)|Image board software written in Lua using the Lapis web framework.|[:arrow_upper_right:](http://lapchan.moe)|
 |33|[@castorini](https://github.com/castorini)/[**NCE-CNN-Torch**](https://github.com/castorini/NCE-CNN-Torch)|Noise-Contrastive Estimation for Question Answering with Convolutional Neural Networks (Rao et al. CIKM 2016)||
@@ -24,9 +24,9 @@
 |10|[@james2doyle](https://github.com/james2doyle)/[**Lico**](https://github.com/james2doyle/Lico)|Lico is Pico re-written using Luvit for Lua||
 |9|[@sam-github](https://github.com/sam-github)/[**lunit**](https://github.com/sam-github/lunit)|unit testing for lua||
 |8|[@bartman](https://github.com/bartman)/[**wmii-lua**](https://github.com/bartman/wmii-lua)|Wmii extended with lua scripts|[:arrow_upper_right:](http://www.jukie.net/~bart/blog/tag/wmiirc-lua)|
+|7|[@coolacid](https://github.com/coolacid)/[**ComputerCraft**](https://github.com/coolacid/ComputerCraft)|Scripts Related to Minecraft ComputerCraft||
 |7|[@karai17](https://github.com/karai17)/[**lua-winged-edge**](https://github.com/karai17/lua-winged-edge)|Winged Edge Data Structure in Lua||
 |6|[@ashleydavies](https://github.com/ashleydavies)/[**EGS**](https://github.com/ashleydavies/EGS)|||
-|6|[@coolacid](https://github.com/coolacid)/[**ComputerCraft**](https://github.com/coolacid/ComputerCraft)|Scripts Related to Minecraft ComputerCraft||
 |6|[@travisjeffery](https://github.com/travisjeffery)/[**awesome-wm**](https://github.com/travisjeffery/awesome-wm)|My configuration of the awesome window manager.||
 |5|[@dvdfu](https://github.com/dvdfu)/[**packer**](https://github.com/dvdfu/packer)|Texture atlases for Lua using Love2D||
 |5|[@karai17](https://github.com/karai17)/[**Peep**](https://github.com/karai17/Peep)|View the contents of variables in LÖVE||

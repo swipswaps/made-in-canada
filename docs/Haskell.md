@@ -3,9 +3,9 @@
 |150|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
 |123|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
 |83|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
-|81|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgREST + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
+|82|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgREST + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
 |40|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
-|33|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm**](https://github.com/JoeyEremondi/haskelm)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
+|34|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm**](https://github.com/JoeyEremondi/haskelm)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
 |30|[@avieth](https://github.com/avieth)/[**Algebraic**](https://github.com/avieth/Algebraic)|Experiments on the construction of functions||
 |27|[@thayerwilliams](https://github.com/thayerwilliams)/[**msi-xmonad**](https://github.com/thayerwilliams/msi-xmonad)|xmonad.hs (Xmonad >= 0.9) and related config files for my MSI Wind netbook|[:arrow_upper_right:](http://cinderwick.ca)|
 |20|[@singpolyma](https://github.com/singpolyma)/[**unexceptionalio**](https://github.com/singpolyma/unexceptionalio)|IO without any non-error, synchronous exceptions|[:arrow_upper_right:](http://hackage.haskell.org/package/unexceptionalio)|
@@ -31,6 +31,7 @@
 |6|[@diogob](https://github.com/diogob)/[**haskell-tools**](https://github.com/diogob/haskell-tools)|Website to view haskell projects from Github|[:arrow_upper_right:](http://haskelltools.com)|
 |6|[@fosskers](https://github.com/fosskers)/[**nanq**](https://github.com/fosskers/nanq)|Haskell suite for determining what 級 (level) of the 漢字検定 (national Kanji exam) a given Kanji belongs to.||
 |6|[@fosskers](https://github.com/fosskers)/[**vectortiles**](https://github.com/fosskers/vectortiles)|A native Haskell codec for Mapbox Vector Tiles.||
+|6|[@nitrix](https://github.com/nitrix)/[**ni**](https://github.com/nitrix/ni)|Ni programming language||
 |6|[@pbevin](https://github.com/pbevin)/[**cardelli**](https://github.com/pbevin/cardelli)|Cardelli type inferencer translated to Javascript||
 |5|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**elm-build-lib**](https://github.com/JoeyEremondi/elm-build-lib)|A library for compiling Elm to JavaScript from within Haskell||
 |5|[@avieth](https://github.com/avieth)/[**reactive-dom**](https://github.com/avieth/reactive-dom)|Haskell web user interfaces over reactive-banana and ghcjs-dom||
@@ -42,6 +43,8 @@
 |4|[@singpolyma](https://github.com/singpolyma)/[**plivo-haskell**](https://github.com/singpolyma/plivo-haskell)|Plivo API wrapper for Haskell||
 |4|[@singpolyma](https://github.com/singpolyma)/[**route-generator**](https://github.com/singpolyma/route-generator)|Utility to generate routes for use with yesod-routes|[:arrow_upper_right:](http://hackage.haskell.org/package/route-generator)|
 |3|[@avieth](https://github.com/avieth)/[**PullRequestNagger**](https://github.com/avieth/PullRequestNagger)|Nag your peers about outstanding pull requests||
+|3|[@fosskers](https://github.com/fosskers)/[**mapalgebra**](https://github.com/fosskers/mapalgebra)|Map Algebra types and common operations in Haskell.||
+|3|[@fosskers](https://github.com/fosskers)/[**streaming-osm**](https://github.com/fosskers/streaming-osm)|A hand-written streaming byte parser for OpenStreetMap Protobuf data.||
 |3|[@inaimathi](https://github.com/inaimathi)/[**goget**](https://github.com/inaimathi/goget)|Basic haskell shopping list web-app for learning purposes||
 |3|[@singpolyma](https://github.com/singpolyma)/[**cheogram**](https://github.com/singpolyma/cheogram)|Groupchat for everyone|[:arrow_upper_right:](https://cheogram.com)|
 |3|[@singpolyma](https://github.com/singpolyma)/[**simple-form-haskell**](https://github.com/singpolyma/simple-form-haskell)|||
