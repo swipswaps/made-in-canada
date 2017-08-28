@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|258|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
+|259|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
 |180|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
-|129|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
+|130|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |89|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|:rocket: Quickly init a slightly better Vim.||
 |70|[@idbrii](https://github.com/idbrii)/[**AsyncCommand**](https://github.com/idbrii/AsyncCommand)|AsyncCommand allows you to execute shell commands without waiting for them  to complete. When the application terminates, its output can be loaded into  a vim buffer.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3431)|
 |50|[@honza](https://github.com/honza)/[**dockerfile.vim**](https://github.com/honza/dockerfile.vim)|Syntax highlighting for Dockerfiles||
@@ -14,8 +14,8 @@
 |33|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
 |32|[@ujihisa](https://github.com/ujihisa)/[**vimshell-ssh**](https://github.com/ujihisa/vimshell-ssh)|the world first vimshell plugin that you can run "vim" command on ssh on vimshell||
 |31|[@tommcdo](https://github.com/tommcdo)/[**vim-ninja-feet**](https://github.com/tommcdo/vim-ninja-feet)|Strike from the cursor to either end of a text object||
-|24|[@pangloss](https://github.com/pangloss)/[**vim-erlang**](https://github.com/pangloss/vim-erlang)|This repo has been superseded by the one at http://github.com/oscarh/vimerl which is maintained by the original author. Move along, nothing more to see here!||
 |24|[@svermeulen](https://github.com/svermeulen)/[**vim-extended-ft**](https://github.com/svermeulen/vim-extended-ft)|||
+|23|[@pangloss](https://github.com/pangloss)/[**vim-erlang**](https://github.com/pangloss/vim-erlang)|This repo has been superseded by the one at http://github.com/oscarh/vimerl which is maintained by the original author. Move along, nothing more to see here!||
 |22|[@gmarik](https://github.com/gmarik)/[**github-search.vim**](https://github.com/gmarik/github-search.vim)|search Github and clone repos with Vim|[:arrow_upper_right:](http://github.com/gmarik/github-search.vim)|
 |22|[@joedf](https://github.com/joedf)/[**PlasticCodeWrap**](https://github.com/joedf/PlasticCodeWrap)|a theme ported to over 20 code editors!|[:arrow_upper_right:](http://joedf.github.io/plasticcodewrap)|
 |22|[@tommcdo](https://github.com/tommcdo)/[**vim-fugitive-blame-ext**](https://github.com/tommcdo/vim-fugitive-blame-ext)|Extend tpope/vim-fugitive to show commit message on statusline in :Gblame||

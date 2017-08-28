@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|11527|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
-|536|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
-|262|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
-|206|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
+|11600|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
+|541|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
+|264|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
+|208|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
 |172|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
 |100|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execushares**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
 |79|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
@@ -11,11 +11,11 @@
 |44|[@christhomson](https://github.com/christhomson)/[**lecture-notes**](https://github.com/christhomson/lecture-notes)|LaTeX notes for a few courses I've taken at the University of Waterloo.|[:arrow_upper_right:](http://cthomson.ca/notes)|
 |18|[@mcantelon](https://github.com/mcantelon)/[**fashion-quest**](https://github.com/mcantelon/fashion-quest)|Shoes-dependent, YAML-driven interactive fiction framework for fashion adventures|[:arrow_upper_right:](http://mcantelon.github.io/fashion-quest/)|
 |14|[@tpoisot](https://github.com/tpoisot)/[**ecobiblatex**](https://github.com/tpoisot/ecobiblatex)|Biblatex styles for ecology journals||
+|13|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan**](https://github.com/gavinsimpson/esa-advanced-vegan)|Advanced Vegan Workshop for ESA||
 |12|[@bmcfee](https://github.com/bmcfee)/[**laplacian_segmentation**](https://github.com/bmcfee/laplacian_segmentation)|graph laplacian song segmentation||
 |12|[@bmcfee](https://github.com/bmcfee)/[**olda**](https://github.com/bmcfee/olda)|Music segmentation by ordinal linear discriminant analysis||
 |12|[@lyst](https://github.com/lyst)/[**lightfm-paper**](https://github.com/lyst/lightfm-paper)|||
 |11|[@PhDP](https://github.com/PhDP)/[**ms_open_licenses**](https://github.com/PhDP/ms_open_licenses)|A defence of permissive licenses (CC0, CC-BY, BSD, MIT, ...) in science||
-|11|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan**](https://github.com/gavinsimpson/esa-advanced-vegan)|Advanced Vegan Workshop for ESA||
 |11|[@rcompton](https://github.com/rcompton)/[**black-market-recommender-systems**](https://github.com/rcompton/black-market-recommender-systems)|Code and paper||
 |10|[@PhDP](https://github.com/PhDP)/[**article_preprint**](https://github.com/PhDP/article_preprint)|An article on preprints in biology (published in PLOS Biology).||
 |10|[@gaborbernat](https://github.com/gaborbernat)/[**ropi_jegyzet_latex**](https://github.com/gaborbernat/ropi_jegyzet_latex)|Rendszeroptimizálás||

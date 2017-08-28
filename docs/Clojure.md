@@ -1,14 +1,14 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|638|[@gf3](https://github.com/gf3)/[**secretary**](https://github.com/gf3/secretary)|A client-side router for ClojureScript.||
+|640|[@gf3](https://github.com/gf3)/[**secretary**](https://github.com/gf3/secretary)|A client-side router for ClojureScript.||
 |540|[@yogthos](https://github.com/yogthos)/[**Selmer**](https://github.com/yogthos/Selmer)|A fast, Django inspired template system in Clojure.||
 |525|[@takeoutweight](https://github.com/takeoutweight)/[**clojure-scheme**](https://github.com/takeoutweight/clojure-scheme)|Clojure to Scheme to C to the bare metal.||
-|333|[@yogthos](https://github.com/yogthos)/[**markdown-clj**](https://github.com/yogthos/markdown-clj)|Markdown parser in Clojure||
-|237|[@yogthos](https://github.com/yogthos)/[**migratus**](https://github.com/yogthos/migratus)|MIGRATE ALL THE THINGS!||
+|334|[@yogthos](https://github.com/yogthos)/[**markdown-clj**](https://github.com/yogthos/markdown-clj)|Markdown parser in Clojure||
+|239|[@yogthos](https://github.com/yogthos)/[**migratus**](https://github.com/yogthos/migratus)|MIGRATE ALL THE THINGS!||
 |152|[@yogthos](https://github.com/yogthos)/[**yuggoth**](https://github.com/yogthos/yuggoth)|my blog engine (no longer maintained)|[:arrow_upper_right:](http://yogthos.net)|
 |121|[@yogthos](https://github.com/yogthos)/[**memory-hole**](https://github.com/yogthos/memory-hole)|Memory Hole is a support issue organizer application||
 |103|[@yogthos](https://github.com/yogthos)/[**instant-pdf**](https://github.com/yogthos/instant-pdf)|A reporting service which generates PDFs from JSON encoded text||
-|94|[@yogthos](https://github.com/yogthos)/[**json-html**](https://github.com/yogthos/json-html)|Provide EDN/JSON and get a DOM node with a human representation of the data||
+|96|[@yogthos](https://github.com/yogthos)/[**json-html**](https://github.com/yogthos/json-html)|Provide EDN/JSON and get a DOM node with a human representation of the data||
 |81|[@adambard](https://github.com/adambard)/[**failjure**](https://github.com/adambard/failjure)|Monadic error utilities for general use in Clojure projects||
 |58|[@yogthos](https://github.com/yogthos)/[**json-to-pdf**](https://github.com/yogthos/json-to-pdf)|A Library for easily generating PDF documents given JSON markup||
 |48|[@yogthos](https://github.com/yogthos)/[**compojure-template**](https://github.com/yogthos/compojure-template)|A Leiningen template for batteries included projects using Compojure.||
@@ -42,8 +42,8 @@
 |11|[@yogthos](https://github.com/yogthos)/[**reagent-secretary-example**](https://github.com/yogthos/reagent-secretary-example)|||
 |10|[@onaio](https://github.com/onaio)/[**hatti**](https://github.com/onaio/hatti)|It views data!||
 |10|[@yogthos](https://github.com/yogthos)/[**clojure-maven-examples**](https://github.com/yogthos/clojure-maven-examples)|Some examples for building Clojure with the clojure-maven-plugin||
+|10|[@yogthos](https://github.com/yogthos)/[**pg-feed-demo**](https://github.com/yogthos/pg-feed-demo)|example application for push notifications from PostgreSQL||
 |9|[@adambard](https://github.com/adambard)/[**lein-kotlinc**](https://github.com/adambard/lein-kotlinc)|Compile kotlin files from Leiningen||
-|9|[@yogthos](https://github.com/yogthos)/[**pg-feed-demo**](https://github.com/yogthos/pg-feed-demo)|example application for push notifications from PostgreSQL||
 |9|[@yogthos](https://github.com/yogthos)/[**swagger-service**](https://github.com/yogthos/swagger-service)|swagger-service tutorial using Duct||
 |8|[@yogthos](https://github.com/yogthos)/[**alpha-id**](https://github.com/yogthos/alpha-id)|creates a short alphanumeric ID from a numeric ID||
 |8|[@yogthos](https://github.com/yogthos)/[**reagent-server-rendering**](https://github.com/yogthos/reagent-server-rendering)|An example using Nashorn to render Reagent on the server||
@@ -76,6 +76,7 @@
 |4|[@adambard](https://github.com/adambard)/[**buddy-test**](https://github.com/adambard/buddy-test)|An example implemention of auth using Buddy||
 |4|[@honza](https://github.com/honza)/[**email-parsing**](https://github.com/honza/email-parsing)|Email parsing in Clojure||
 |4|[@pangloss](https://github.com/pangloss)/[**system.check**](https://github.com/pangloss/system.check)|Test stateful systems using test.check||
+|4|[@practicalli](https://github.com/practicalli)/[**clojure-webapps-example**](https://github.com/practicalli/clojure-webapps-example)|A Clojure project that accompanies clojure-webapps.practical.li||
 |4|[@ujihisa](https://github.com/ujihisa)/[**postgres-lingrbot**](https://github.com/ujihisa/postgres-lingrbot)|Use PostgreSQL from Lingr||
 |4|[@yogthos](https://github.com/yogthos)/[**ring-http-cat-status**](https://github.com/yogthos/ring-http-cat-status)|Ring middleware for serving status images from https://http.cat/||
 |4|[@yogthos](https://github.com/yogthos)/[**selmer-java**](https://github.com/yogthos/selmer-java)|Java wrapper for Selmer||
@@ -93,7 +94,6 @@
 |3|[@onaio](https://github.com/onaio)/[**vega-viewer**](https://github.com/onaio/vega-viewer)|A collection of Om components for rendering Vega specifications||
 |3|[@palfrey](https://github.com/palfrey)/[**Clostridium**](https://github.com/palfrey/Clostridium)|Befunge interpreter in Clojure||
 |3|[@palfrey](https://github.com/palfrey)/[**clostridium**](https://github.com/palfrey/clostridium)|Befunge interpreter in Clojure|[:arrow_upper_right:](https://tevp.net/blog/2012/8/25/tdd-for-esoteric-programming-languages-using-cloju/)|
-|3|[@practicalli](https://github.com/practicalli)/[**clojure-webapps-example**](https://github.com/practicalli/clojure-webapps-example)|A Clojure project that accompanies clojure-webapps.practical.li||
 |3|[@ujihisa](https://github.com/ujihisa)/[**clojure-lingrbot**](https://github.com/ujihisa/clojure-lingrbot)||[:arrow_upper_right:](http://lingr.com/room/clojure)|
 |3|[@ujihisa](https://github.com/ujihisa)/[**dodgeball-bukkit-mod**](https://github.com/ujihisa/dodgeball-bukkit-mod)|a minecraft server mod (bukkit API)||
 |3|[@ujihisa](https://github.com/ujihisa)/[**gpl3p-lein-template**](https://github.com/ujihisa/gpl3p-lein-template)|gpl3p/lein-template||

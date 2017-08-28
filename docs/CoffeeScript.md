@@ -1,20 +1,20 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |1494|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.cx)|
-|1052|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Beautification abstraction package for Atom editor|[:arrow_upper_right:](http://glavin001.github.io/atom-beautify/docs/code/)|
-|422|[@keithamus](https://github.com/keithamus)/[**parallelshell**](https://github.com/keithamus/parallelshell)|Run multiple shell commands in parallel||
-|397|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls|[:arrow_upper_right:](https://echoplex.us)|
+|1059|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Beautification abstraction package for Atom editor|[:arrow_upper_right:](http://glavin001.github.io/atom-beautify/docs/code/)|
+|425|[@keithamus](https://github.com/keithamus)/[**parallelshell**](https://github.com/keithamus/parallelshell)|Run multiple shell commands in parallel||
+|396|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls|[:arrow_upper_right:](https://echoplex.us)|
 |230|[@EtienneLem](https://github.com/EtienneLem)/[**skeleton**](https://github.com/EtienneLem/skeleton)|Express 3.0 framework-less app structure generator|[:arrow_upper_right:](http://etiennelem.github.com/skeleton)|
 |217|[@axiomzen](https://github.com/axiomzen)/[**Alike**](https://github.com/axiomzen/Alike)|A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances||
 |188|[@raganwald](https://github.com/raganwald)/[**YouAreDaChef**](https://github.com/raganwald/YouAreDaChef)|Coffeescript/Javascript method combinations for Underscore projects||
 |187|[@benbria](https://github.com/benbria)/[**aliasify**](https://github.com/benbria/aliasify)|Rewrite require calls in browserify modules.||
 |183|[@fw42](https://github.com/fw42)/[**honeymap**](https://github.com/fw42/honeymap)|Real-time websocket stream of GPS events on a fancy SVG world map|[:arrow_upper_right:](http://map.honeynet.org/)|
 |180|[@raganwald](https://github.com/raganwald)/[**Katy**](https://github.com/raganwald/Katy)|CoffeeScript and JavaScript Combinators||
-|167|[@zaidka](https://github.com/zaidka)/[**genieacs**](https://github.com/zaidka/genieacs)|A fast and lightweight TR-069 Auto Configuration Server (ACS)|[:arrow_upper_right:](https://genieacs.com)|
+|169|[@zaidka](https://github.com/zaidka)/[**genieacs**](https://github.com/zaidka/genieacs)|A fast and lightweight TR-069 Auto Configuration Server (ACS)|[:arrow_upper_right:](https://genieacs.com)|
 |147|[@pcrawfor](https://github.com/pcrawfor)/[**iap_verifier**](https://github.com/pcrawfor/iap_verifier)|Node.js implementation of iOS In App Purchase receipt verification||
 |134|[@benbria](https://github.com/benbria)/[**coffee-coverage**](https://github.com/benbria/coffee-coverage)|Istanbul and JSCoverage-style instrumentation for CoffeeScript files.||
 |130|[@jescalan](https://github.com/jescalan)/[**accord**](https://github.com/jescalan/accord)|a unified interface for compiled languages and templates in javascript||
-|124|[@adamhooper](https://github.com/adamhooper)/[**js-priority-queue**](https://github.com/adamhooper/js-priority-queue)|Priority queues in JavaScript||
+|125|[@adamhooper](https://github.com/adamhooper)/[**js-priority-queue**](https://github.com/adamhooper/js-priority-queue)|Priority queues in JavaScript||
 |122|[@raganwald](https://github.com/raganwald)/[**method-combinators**](https://github.com/raganwald/method-combinators)|||
 |100|[@axiomzen](https://github.com/axiomzen)/[**Look-Alike**](https://github.com/axiomzen/Look-Alike)|A simple-yet-powerful KD-tree library for NodeJS, with support for lightning-fast k-Nearest Neighbour queries.||
 |99|[@mohebifar](https://github.com/mohebifar)/[**angular-persian**](https://github.com/mohebifar/angular-persian)|:earth_asia: Persian tools for angular.js||
@@ -54,9 +54,9 @@
 |16|[@kmalakoff](https://github.com/kmalakoff)/[**easy-bake**](https://github.com/kmalakoff/easy-bake)|EasyBake enables CoffeeScript/JavaScript file-based configuration for your CoffeeScript library management needs (coffee compiling, compression, joining CoffeeScript + JavaScript files, headless testing for QUnit/Jasmine/NodeUnit, client/server version testing, etc).||
 |14|[@fictorial](https://github.com/fictorial)/[**chat-server**](https://github.com/fictorial/chat-server)|A multi-user chat TCP/IP server. Everyone has a chat server and this one is mine.||
 |13|[@RobLoach](https://github.com/RobLoach)/[**docpad-plugin-grunt**](https://github.com/RobLoach/docpad-plugin-grunt)|:boar: Run Grunt.js tasks when building with DocPad|[:arrow_upper_right:](http://gruntjs.com)|
+|13|[@jescalan](https://github.com/jescalan)/[**atom-fold-comments**](https://github.com/jescalan/atom-fold-comments)|Quick toggling of all block comments in atom||
 |13|[@radekstepan](https://github.com/radekstepan)/[**intermine-lists-client**](https://github.com/radekstepan/intermine-lists-client)|A client side app maintaining InterMine Lists offering folder/tag organization and live searches.||
 |12|[@adam-p](https://github.com/adam-p)/[**text-file-follower**](https://github.com/adam-p/text-file-follower)|A Node.js module for getting each new last line of a text file as it appears. Think `tail -f`.||
-|12|[@jescalan](https://github.com/jescalan)/[**atom-fold-comments**](https://github.com/jescalan/atom-fold-comments)|Quick toggling of all block comments in atom||
 |11|[@AnthonyCalandra](https://github.com/AnthonyCalandra)/[**todo-list**](https://github.com/AnthonyCalandra/todo-list)|(THIS PACKAGE IS NO LONGER MAINTAINED.) A package for the Atom editor which keeps track of TODO, FIXME, etc. messages in code.||
 |11|[@benbria](https://github.com/benbria)/[**node-lumberjack-protocol**](https://github.com/benbria/node-lumberjack-protocol)|Node.js implementation of the lumberjack protocol.||
 |11|[@darron](https://github.com/darron)/[**language-ejs**](https://github.com/darron/language-ejs)|EJS support for Atom.||
@@ -116,7 +116,6 @@
 |4|[@sibartlett](https://github.com/sibartlett)/[**atom-clippy**](https://github.com/sibartlett/atom-clippy)|Clippy for your Atom.|[:arrow_upper_right:](https://atom.io/packages/clippy)|
 |4|[@stewart](https://github.com/stewart)/[**weather**](https://github.com/stewart/weather)|Basic weather app using HTML5 Geolocation|[:arrow_upper_right:](http://weather.andrew-stewart.ca/)|
 |4|[@travisjeffery](https://github.com/travisjeffery)/[**hal**](https://github.com/travisjeffery/hal)|Campfire bot.||
-|4|[@vizv](https://github.com/vizv)/[**dockerfile-editor**](https://github.com/vizv/dockerfile-editor)| Dockerfile Online Editor ||
 |3|[@Icehunter](https://github.com/Icehunter)/[**language-jsx**](https://github.com/Icehunter/language-jsx)|forked from yosuke-furukawa/language-jsx||
 |3|[@RobLoach](https://github.com/RobLoach)/[**language-drupal**](https://github.com/RobLoach/language-drupal)|Drupal syntax highlighting and snippets for Atom.io||
 |3|[@aekeus](https://github.com/aekeus)/[**erasmas**](https://github.com/aekeus/erasmas)|node.js / coffee-script based MUSH / MUD||
@@ -141,4 +140,5 @@
 |3|[@stephanos](https://github.com/stephanos)/[**screeny**](https://github.com/stephanos/screeny)|Heroku-hosted screenshot server||
 |3|[@unframework](https://github.com/unframework)/[**eltrn**](https://github.com/unframework/eltrn)|WebAudio sampler/sequencer interface|[:arrow_upper_right:](http://unframework.github.io/eltrn/)|
 |3|[@unframework](https://github.com/unframework)/[**satchel-game**](https://github.com/unframework/satchel-game)|HTML5 sample game using Angular.JS||
+|3|[@vizv](https://github.com/vizv)/[**dockerfile-editor**](https://github.com/vizv/dockerfile-editor)| Dockerfile Online Editor ||
 

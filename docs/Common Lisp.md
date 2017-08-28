@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |209|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
-|173|[@burtonsamograd](https://github.com/burtonsamograd)/[**sxc**](https://github.com/burtonsamograd/sxc)|sxc is an 'S-Expression C' transpiler for generating C code using macros written in Common Lisp||
+|174|[@burtonsamograd](https://github.com/burtonsamograd)/[**sxc**](https://github.com/burtonsamograd/sxc)|sxc is an 'S-Expression C' transpiler for generating C code using macros written in Common Lisp||
 |71|[@hoytech](https://github.com/hoytech)/[**antiweb**](https://github.com/hoytech/antiweb)|Common Lisp web application server|[:arrow_upper_right:](http://hoytech.com/antiweb/)|
 |30|[@inaimathi](https://github.com/inaimathi)/[**cl-css**](https://github.com/inaimathi/cl-css)|Non-validating, inline CSS generator for Common Lisp||
 |26|[@mck-](https://github.com/mck-)/[**oneliner**](https://github.com/mck-/oneliner)|Extracts a one-liner from a piece of text.||

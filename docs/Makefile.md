@@ -8,14 +8,14 @@
 |27|[@sjackman](https://github.com/sjackman)/[**lambdar**](https://github.com/sjackman/lambdar)|ƛR: Run R on AWS Lambda|[:arrow_upper_right:](http://lambdar.sjackman.ca/?e=stem(rnorm(100)))|
 |23|[@jasonish](https://github.com/jasonish)/[**docker-snort**](https://github.com/jasonish/docker-snort)|A ready to run Snort and PulledPork docker image.||
 |21|[@pramsey](https://github.com/pramsey)/[**pgsql-addressing-dictionary**](https://github.com/pramsey/pgsql-addressing-dictionary)|TSearch dictionaries for addresses ||
-|18|[@sjackman](https://github.com/sjackman)/[**docker-bio**](https://github.com/sjackman/docker-bio)|Docker images of bioinformatics software||
+|19|[@sjackman](https://github.com/sjackman)/[**docker-bio**](https://github.com/sjackman/docker-bio)|Docker images of bioinformatics software||
 |18|[@tj](https://github.com/tj)/[**make**](https://github.com/tj/make)|Makefiles||
-|15|[@sjackman](https://github.com/sjackman)/[**makefile-example**](https://github.com/sjackman/makefile-example)|An example of a data analysis pipeline using Make|[:arrow_upper_right:](http://sjackman.ca/makefile-example/)|
+|16|[@sjackman](https://github.com/sjackman)/[**makefile-example**](https://github.com/sjackman/makefile-example)|An example of a data analysis pipeline using Make|[:arrow_upper_right:](http://sjackman.ca/makefile-example/)|
 |13|[@sjackman](https://github.com/sjackman)/[**docker-linuxbrew**](https://github.com/sjackman/docker-linuxbrew)|Docker images of Linuxbrew|[:arrow_upper_right:](https://github.com/Homebrew/linuxbrew/wiki/Docker)|
 |12|[@ssokolow](https://github.com/ssokolow)/[**rust-cli-boilerplate**](https://github.com/ssokolow/rust-cli-boilerplate)|Rust project boilerplate for CLI applications||
 |11|[@sjackman](https://github.com/sjackman)/[**assembly-graph**](https://github.com/sjackman/assembly-graph)|Compare assembly graph file formats||
+|11|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_osprey**](https://github.com/sultanqasim/android_device_motorola_osprey)|Device tree for 2015 Moto G (osprey)||
 |10|[@RobLoach](https://github.com/RobLoach)/[**composer.deb**](https://github.com/RobLoach/composer.deb)|Build a Debian package to install and use Composer.|[:arrow_upper_right:](http://getcomposer.org)|
-|10|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_osprey**](https://github.com/sultanqasim/android_device_motorola_osprey)|Device tree for 2015 Moto G (osprey)||
 |9|[@bcgsc](https://github.com/bcgsc)/[**tigmint**](https://github.com/bcgsc/tigmint)|⛓ Correct misassemblies using linked reads|[:arrow_upper_right:](https://bcgsc.github.io/tigmint/)|
 |9|[@sjourdan](https://github.com/sjourdan)/[**ffmpeg-docker**](https://github.com/sjourdan/ffmpeg-docker)|FFmpeg on Alpine Docker Image||
 |7|[@seananderson](https://github.com/seananderson)/[**ggplot2-FISH554**](https://github.com/seananderson/ggplot2-FISH554)|Course notes and exercises on ggplot2 for the FISH554 class at the University of Washington||
@@ -28,6 +28,7 @@
 |4|[@Bus-Data-NYC](https://github.com/Bus-Data-NYC)/[**nyc-bus-stats**](https://github.com/Bus-Data-NYC/nyc-bus-stats)|||
 |4|[@bcgsc](https://github.com/bcgsc)/[**abyss-2.0-giab**](https://github.com/bcgsc/abyss-2.0-giab)|:baby_bottle: Assemble the Genome in a Bottle sequencing data|[:arrow_upper_right:](http://dx.doi.org/10.1101/068338)|
 |4|[@oncletom](https://github.com/oncletom)/[**coursera-ml**](https://github.com/oncletom/coursera-ml)|Setup to evolve through the Machine Learning course.||
+|3|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_system_sepolicy**](https://github.com/CopperheadOS/platform_system_sepolicy)|||
 |3|[@arteymix](https://github.com/arteymix)/[**kohana-makefile**](https://github.com/arteymix/kohana-makefile)|Automate common boring tasks related to the Kohana framework||
 |3|[@karnauskas](https://github.com/karnauskas)/[**openwrt-mdns-repeater**](https://github.com/karnauskas/openwrt-mdns-repeater)|mdns-repeater build for OpenWrt||
 |3|[@rillian](https://github.com/rillian)/[**afl-ffmpeg-opus**](https://github.com/rillian/afl-ffmpeg-opus)|Fuzzing script for ffmpeg's opus decoder||

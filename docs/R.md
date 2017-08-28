@@ -1,22 +1,22 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|841|[@rich-iannone](https://github.com/rich-iannone)/[**DiagrammeR**](https://github.com/rich-iannone/DiagrammeR)|Graph and network visualization using tabular data in R|[:arrow_upper_right:](http://rich-iannone.github.io/DiagrammeR/)|
-|494|[@jennybc](https://github.com/jennybc)/[**googlesheets**](https://github.com/jennybc/googlesheets)|Google Spreadsheets R API||
+|846|[@rich-iannone](https://github.com/rich-iannone)/[**DiagrammeR**](https://github.com/rich-iannone/DiagrammeR)|Graph and network visualization using tabular data in R|[:arrow_upper_right:](http://rich-iannone.github.io/DiagrammeR/)|
+|503|[@jennybc](https://github.com/jennybc)/[**googlesheets**](https://github.com/jennybc/googlesheets)|Google Spreadsheets R API||
 |221|[@jennybc](https://github.com/jennybc)/[**reprex**](https://github.com/jennybc/reprex)|Render bits of R code for sharing, e.g., on GitHub or StackOverflow.|[:arrow_upper_right:](http://jennybc.github.io/reprex/)|
-|162|[@jennybc](https://github.com/jennybc)/[**r-graph-catalog**](https://github.com/jennybc/r-graph-catalog)|All graphs in “Creating More Effective Graphs”, made with R package ggplot2.|[:arrow_upper_right:](http://shiny.stat.ubc.ca/r-graph-catalog/)|
+|163|[@jennybc](https://github.com/jennybc)/[**r-graph-catalog**](https://github.com/jennybc/r-graph-catalog)|All graphs in “Creating More Effective Graphs”, made with R package ggplot2.|[:arrow_upper_right:](http://shiny.stat.ubc.ca/r-graph-catalog/)|
 |144|[@jennybc](https://github.com/jennybc)/[**ggplot2-tutorial**](https://github.com/jennybc/ggplot2-tutorial)|Teaching materials for the R package ggplot2||
 |121|[@rich-iannone](https://github.com/rich-iannone)/[**stationaRy**](https://github.com/rich-iannone/stationaRy)|Get hourly meteorological data from one of thousands of global stations||
-|104|[@jennybc](https://github.com/jennybc)/[**send-email-with-r**](https://github.com/jennybc/send-email-with-r)|How to send a bunch of email from R||
+|105|[@jennybc](https://github.com/jennybc)/[**send-email-with-r**](https://github.com/jennybc/send-email-with-r)|How to send a bunch of email from R||
 |86|[@jennybc](https://github.com/jennybc)/[**gapminder**](https://github.com/jennybc/gapminder)|Excerpt from the Gapminder data, as an R data package and in plain text delimited form||
 |75|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**countrycode**](https://github.com/vincentarelbundock/countrycode)|R package: Convert country names and country codes. Assigns region descriptors.|[:arrow_upper_right:](http://cran.r-project.org/web/packages/countrycode/index.html)|
 |67|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**WDI**](https://github.com/vincentarelbundock/WDI)|||
 |61|[@rich-iannone](https://github.com/rich-iannone)/[**UnidecodeR**](https://github.com/rich-iannone/UnidecodeR)|Replace Unicode characters with sensible US-ASCII equivalents||
+|61|[@rich-iannone](https://github.com/rich-iannone)/[**blastula**](https://github.com/rich-iannone/blastula)|Easily send great-looking HTML email messages from R||
 |54|[@ateucher](https://github.com/ateucher)/[**rmapshaper**](https://github.com/ateucher/rmapshaper)|An R wrapper for the mapshaper javascript library||
 |48|[@dankelley](https://github.com/dankelley)/[**oce**](https://github.com/dankelley/oce)|R package for oceanographic processing|[:arrow_upper_right:](http://dankelley.github.com/oce/)|
 |46|[@rich-iannone](https://github.com/rich-iannone)/[**SplitR**](https://github.com/rich-iannone/SplitR)|Use the HYSPLIT model from inside R and do more with it||
 |45|[@seananderson](https://github.com/seananderson)/[**glmm-course**](https://github.com/seananderson/glmm-course)|2-day workshop on Generalized Linear Mixed-Effects Modeling in R||
-|43|[@rich-iannone](https://github.com/rich-iannone)/[**blastula**](https://github.com/rich-iannone/blastula)|Easily send great-looking HTML email messages from R||
-|41|[@luyongxu](https://github.com/luyongxu)/[**SignalPlot**](https://github.com/luyongxu/SignalPlot)|This repository contains code used for my blog.|[:arrow_upper_right:](http://www.signalplot.com)|
+|42|[@luyongxu](https://github.com/luyongxu)/[**SignalPlot**](https://github.com/luyongxu/SignalPlot)|This repository contains code used for my blog.|[:arrow_upper_right:](http://www.signalplot.com)|
 |38|[@rich-iannone](https://github.com/rich-iannone)/[**pointblank**](https://github.com/rich-iannone/pointblank)|Validation of local and remote data tables||
 |35|[@jennybc](https://github.com/jennybc)/[**githug**](https://github.com/jennybc/githug)|Interface to local and remote Git operations||
 |34|[@tpoisot](https://github.com/tpoisot)/[**digitize**](https://github.com/tpoisot/digitize)|A R package to extract data from scatterplots||
@@ -24,8 +24,8 @@
 |32|[@jennybc](https://github.com/jennybc)/[**repurrrsive**](https://github.com/jennybc/repurrrsive)|Recursive lists to use in teaching and examples||
 |32|[@psolymos](https://github.com/psolymos)/[**intrval**](https://github.com/psolymos/intrval)|Relational Operators for Intervals||
 |29|[@gavinsimpson](https://github.com/gavinsimpson)/[**ggvegan**](https://github.com/gavinsimpson/ggvegan)|ggplot-based plots for vegan||
-|24|[@psolymos](https://github.com/psolymos)/[**pbapply**](https://github.com/psolymos/pbapply)|Adding progress bar to '*apply' functions in R||
-|24|[@rinze](https://github.com/rinze)/[**spotify-moods**](https://github.com/rinze/spotify-moods)|A data analysis project involving the saddest and happiest songs available at Spotify||
+|25|[@psolymos](https://github.com/psolymos)/[**pbapply**](https://github.com/psolymos/pbapply)|Adding progress bar to '*apply' functions in R||
+|25|[@rinze](https://github.com/rinze)/[**spotify-moods**](https://github.com/rinze/spotify-moods)|A data analysis project involving the saddest and happiest songs available at Spotify||
 |23|[@bcgov](https://github.com/bcgov)/[**bcmaps**](https://github.com/bcgov/bcmaps)|An R package of map layers for British Columbia||
 |22|[@jennybc](https://github.com/jennybc)/[**lego-rstats**](https://github.com/jennybc/lego-rstats)|Photos that depict R data structures and operations via Lego||
 |21|[@rich-iannone](https://github.com/rich-iannone)/[**ChemicalCompounds**](https://github.com/rich-iannone/ChemicalCompounds)|R dataset containing information on 71,453 chemical compounds.||
@@ -93,6 +93,7 @@
 |4|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**countryyear**](https://github.com/vincentarelbundock/countryyear)|country-year version of the countrycode package for R||
 |3|[@AlexiaJM](https://github.com/AlexiaJM)/[**LEGIT**](https://github.com/AlexiaJM/LEGIT)|An R package for the Latent Environmental & Genetic InTeraction (LEGIT) model||
 |3|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**gpuClassifieR**](https://github.com/IshmaelBelghazi/gpuClassifieR)|CUDA and C linear classifier for R||
+|3|[@MySportsFeeds](https://github.com/MySportsFeeds)/[**mysportsfeeds-r**](https://github.com/MySportsFeeds/mysportsfeeds-r)|R wrapper functions for the MySportsFeeds Sports Data API|[:arrow_upper_right:](https://www.mysportsfeeds.com)|
 |3|[@ateucher](https://github.com/ateucher)/[**DataAnalysis**](https://github.com/ateucher/DataAnalysis)|Course work for the Coursera MOOC on data analysis by Jeff Leek. Jan 22-Mar 16 2012.||
 |3|[@bcgov](https://github.com/bcgov)/[**WES-engagement-states**](https://github.com/bcgov/WES-engagement-states)|Work Environment Survey employee engagement states||
 |3|[@bcgov](https://github.com/bcgov)/[**bc-population-indicator**](https://github.com/bcgov/bc-population-indicator)|R scripts for an indicator on trends in B.C.'s population size & distribution for Environmental Reporting BC||
