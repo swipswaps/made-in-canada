@@ -12,9 +12,9 @@
 |8|[@jiahao](https://github.com/jiahao)/[**SpecialMatrices.jl**](https://github.com/jiahao/SpecialMatrices.jl)|Julia package for working with special matrix types.||
 |6|[@jiahao](https://github.com/jiahao)/[**Slackbot.jl**](https://github.com/jiahao/Slackbot.jl)|A Julia REPL that interacts with Slack.com's webhook integration||
 |4|[@eschnett](https://github.com/eschnett)/[**FastArrays.jl**](https://github.com/eschnett/FastArrays.jl)|Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed at compile time.|[:arrow_upper_right:](http://eschnett.github.io/FastArrays.jl/)|
-|4|[@jiahao](https://github.com/jiahao)/[**NetflixPrize.jl**](https://github.com/jiahao/NetflixPrize.jl)|Julia package for handling the Netflix Prize data set of 2006||
 |4|[@pzion](https://github.com/pzion)/[**LibBSON.jl**](https://github.com/pzion/LibBSON.jl)|libbson bindings for the Julia programming language||
 |3|[@eschnett](https://github.com/eschnett)/[**ValueSymbols.jl**](https://github.com/eschnett/ValueSymbols.jl)|Provide a pointerfree wrapper for Julia Symbols||
 |3|[@eschnett](https://github.com/eschnett)/[**Vecmathlib.jl**](https://github.com/eschnett/Vecmathlib.jl)|Vectorizable elemental math functions for Julia||
+|3|[@jiahao](https://github.com/jiahao)/[**NetflixPrize.jl**](https://github.com/jiahao/NetflixPrize.jl)|Julia package for handling the Netflix Prize data set of 2006||
 |3|[@tpoisot](https://github.com/tpoisot)/[**Viridis.jl**](https://github.com/tpoisot/Viridis.jl)|Viridis (et al.) palettes for Julia||
 

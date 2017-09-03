@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|333|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|A lovingly handcrafted free, open source cross platform game engine.|[:arrow_upper_right:](https://luxeengine.com)|
+|334|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|A lovingly handcrafted free, open source cross platform game engine.|[:arrow_upper_right:](https://luxeengine.com)|
 |35|[@Ohmnivore](https://github.com/Ohmnivore)/[**SkullRush**](https://github.com/Ohmnivore/SkullRush)|2D online multiplayer shooter written in Haxe|[:arrow_upper_right:](http://ohmnivore.github.io)|
 |30|[@ashes999](https://github.com/ashes999)/[**butterfly**](https://github.com/ashes999/butterfly)|Haxe generator for simple, static blogs.||
 |28|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-glm**](https://github.com/FuzzyWuzzie/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
@@ -15,9 +15,9 @@
 |11|[@Ohmnivore](https://github.com/Ohmnivore)/[**FlxShell**](https://github.com/Ohmnivore/FlxShell)|An abstracted Linux environment for HaxeFlixel - a file system in tandem with a shell.||
 |10|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxeSightLights**](https://github.com/FuzzyWuzzie/LuxeSightLights)|Luxe implementation of Sight & Light by the wonderfully talented Nicky Case||
 |10|[@Ohmnivore](https://github.com/Ohmnivore)/[**ChopChopScript**](https://github.com/Ohmnivore/ChopChopScript)|Fast scripting language for Haxe (very basic, made to run fast and nothing else)||
-|10|[@Ohmnivore](https://github.com/Ohmnivore)/[**ChopEngine**](https://github.com/Ohmnivore/ChopEngine)|A Haxe cross-platform 3D game engine built on top of Snow||
 |10|[@fserb](https://github.com/fserb)/[**vault**](https://github.com/fserb/vault)|Vault game development library|[:arrow_upper_right:](http://fserb.com/vault)|
 |9|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**headbutt**](https://github.com/FuzzyWuzzie/headbutt)|A GJK and EPA collision engine made with pure Haxe.||
+|9|[@Ohmnivore](https://github.com/Ohmnivore)/[**ChopEngine**](https://github.com/Ohmnivore/ChopEngine)|A Haxe cross-platform 3D game engine built on top of Snow||
 |9|[@Ohmnivore](https://github.com/Ohmnivore)/[**HxCLAP**](https://github.com/Ohmnivore/HxCLAP)|Haxe port of CLAP, a command line argument parser||
 |9|[@underscorediscovery](https://github.com/underscorediscovery)/[**cassowary-hx**](https://github.com/underscorediscovery/cassowary-hx)|A direct port of cassowary.js to Haxe||
 |8|[@Ohmnivore](https://github.com/Ohmnivore)/[**ClientSidePredictionAndServerReconciliation**](https://github.com/Ohmnivore/ClientSidePredictionAndServerReconciliation)|Haxe port of http://www.gabrielgambetta.com/fpm_live.html||

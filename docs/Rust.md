@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |212|[@mystor](https://github.com/mystor)/[**rust-cpp**](https://github.com/mystor/rust-cpp)|Embed C++ directly inside your rust code!||
-|198|[@trishume](https://github.com/trishume)/[**syntect**](https://github.com/trishume/syntect)|Rust library for syntax highlighting using Sublime Text syntax definitions.|[:arrow_upper_right:](http://thume.ca/rustdoc/syntect/syntect/)|
+|199|[@trishume](https://github.com/trishume)/[**syntect**](https://github.com/trishume/syntect)|Rust library for syntax highlighting using Sublime Text syntax definitions.|[:arrow_upper_right:](http://thume.ca/rustdoc/syntect/syntect/)|
 |143|[@luqmana](https://github.com/luqmana)/[**rust-opencl**](https://github.com/luqmana/rust-opencl)|OpenCL bindings for Rust.||
 |114|[@thestinger](https://github.com/thestinger)/[**rust-core**](https://github.com/thestinger/rust-core)|a lightweight standard library for rust with freestanding support (deprecated in favour of libcore upstream)||
 |67|[@luqmana](https://github.com/luqmana)/[**rust-psp-hello**](https://github.com/luqmana/rust-psp-hello)|Simple Hello World in Rust to run on a PSP.||
@@ -38,6 +38,7 @@
 |4|[@mystor](https://github.com/mystor)/[**literalext**](https://github.com/mystor/literalext)|A helper crate for interpreting proc-macro `Literal` values||
 |4|[@nbigaouette](https://github.com/nbigaouette)/[**gitlab-api-rs**](https://github.com/nbigaouette/gitlab-api-rs)|Rust wrapper to the GitLab API.||
 |4|[@programble](https://github.com/programble)/[**ego-tree**](https://github.com/programble/ego-tree)|Vec-backed mutable tree|[:arrow_upper_right:](https://cmcenroe.me/ego-tree/ego_tree/)|
+|4|[@trishume](https://github.com/trishume)/[**seqalign_pathing**](https://github.com/trishume/seqalign_pathing)|Rust implementation of sequence alignment / Levenshtein distance by A* acceleration of the DP algorithm||
 |3|[@chasinglogic](https://github.com/chasinglogic)/[**cargo-mod**](https://github.com/chasinglogic/cargo-mod)|A cargo sub command for generating modules.||
 |3|[@chasinglogic](https://github.com/chasinglogic)/[**fnd**](https://github.com/chasinglogic/fnd)|A simpler way to find files in the terminal.||
 |3|[@defcronyke](https://github.com/defcronyke)/[**blockchain-rust**](https://github.com/defcronyke/blockchain-rust)|The simplest type of blockchain.||
@@ -47,5 +48,4 @@
 |3|[@programble](https://github.com/programble)/[**viola**](https://github.com/programble/viola)|A gap buffer implementation that wants to one day be a Vi-like editor||
 |3|[@stewart](https://github.com/stewart)/[**rff**](https://github.com/stewart/rff)|:microscope: rff: fuzzy finder||
 |3|[@thestinger](https://github.com/thestinger)/[**rust-magic**](https://github.com/thestinger/rust-magic)|libmagic bindings for Rust||
-|3|[@trishume](https://github.com/trishume)/[**seqalign_pathing**](https://github.com/trishume/seqalign_pathing)|Rust implementation of sequence alignment / Levenshtein distance by A* acceleration of the DP algorithm||
 

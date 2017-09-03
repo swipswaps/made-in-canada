@@ -1,6 +1,5 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|20|[@supernovus](https://github.com/supernovus)/[**perl6-web**](https://github.com/supernovus/perl6-web)|A collection of libraries for making Web Apps in Perl 6||
 |15|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Acme-Anguish**](https://github.com/zoffixznet/perl6-Acme-Anguish)|Perl 6 module: interpreter for Anguish programming language||
 |12|[@supernovus](https://github.com/supernovus)/[**perl6-http-client**](https://github.com/supernovus/perl6-http-client)|Build HTTP Clients easily with Perl 6||
 |10|[@supernovus](https://github.com/supernovus)/[**PSpec**](https://github.com/supernovus/PSpec)|An RSpec-like BDD test framework for Perl 6.|[:arrow_upper_right:](http://huri.net/articles/2010/01/pspec.html)|
