@@ -18,4 +18,5 @@
 |3|[@Lynxmotion](https://github.com/Lynxmotion)/[**Brat**](https://github.com/Lynxmotion/Brat)|Contains code available for the BRAT humanoid robot. |[:arrow_upper_right:](http://www.lynxmotion.com/c-85-bipeds.aspx)|
 |3|[@PFCKrutonium](https://github.com/PFCKrutonium)/[**XKCDViewer**](https://github.com/PFCKrutonium/XKCDViewer)|Allows you to view XKCD Comics without opening a Browser||
 |3|[@PFCKrutonium](https://github.com/PFCKrutonium)/[**Yggdrasil**](https://github.com/PFCKrutonium/Yggdrasil)|Simple Library for Authenticating against Mojang's Login server (Called Yggdrasil) in .Net||
+|3|[@Prooffreader](https://github.com/Prooffreader)/[**Excel**](https://github.com/Prooffreader/Excel)|Microsoft Excel Macro/VBA projects||
 

@@ -19,7 +19,7 @@
 |22|[@joedf](https://github.com/joedf)/[**PlasticCodeWrap**](https://github.com/joedf/PlasticCodeWrap)|a theme ported to over 20 code editors!|[:arrow_upper_right:](http://joedf.github.io/plasticcodewrap)|
 |22|[@tommcdo](https://github.com/tommcdo)/[**vim-fugitive-blame-ext**](https://github.com/tommcdo/vim-fugitive-blame-ext)|Extend tpope/vim-fugitive to show commit message on statusline in :Gblame||
 |22|[@ujihisa](https://github.com/ujihisa)/[**unite-locate**](https://github.com/ujihisa/unite-locate)|||
-|20|[@honza](https://github.com/honza)/[**writer.vim**](https://github.com/honza/writer.vim)|vim plugin for writing prose||
+|21|[@honza](https://github.com/honza)/[**writer.vim**](https://github.com/honza/writer.vim)|vim plugin for writing prose||
 |19|[@thayerwilliams](https://github.com/thayerwilliams)/[**vimbrant**](https://github.com/thayerwilliams/vimbrant)|A vibrantly dark dark colour scheme for Vim and other terminal applications||
 |18|[@tommcdo](https://github.com/tommcdo)/[**vim-express**](https://github.com/tommcdo/vim-express)|Easily create custom Vim operators using expressions and substitutions||
 |16|[@tristen](https://github.com/tristen)/[**superman**](https://github.com/tristen/superman)|:art: A dark theme for Vim||
@@ -85,6 +85,7 @@
 |3|[@idbrii](https://github.com/idbrii)/[**vim-ack**](https://github.com/idbrii/vim-ack)|An Ack plugin for Vim that depends on AsyncCommand||
 |3|[@idbrii](https://github.com/idbrii)/[**vim-man**](https://github.com/idbrii/vim-man)|Display man pages in vim||
 |3|[@mdeering](https://github.com/mdeering)/[**homefiles**](https://github.com/mdeering/homefiles)|My Linux setup||
+|3|[@sgraham](https://github.com/sgraham)/[**sgraham**](https://github.com/sgraham/sgraham)|Scott Graham's config files|[:arrow_upper_right:](http://blog.learnr.org/)|
 |3|[@tommcdo](https://github.com/tommcdo)/[**vim-nowchangethat**](https://github.com/tommcdo/vim-nowchangethat)|Repeat Vim's change operator on a new motion||
 |3|[@travisjeffery](https://github.com/travisjeffery)/[**vim-testee**](https://github.com/travisjeffery/vim-testee)|super duper testing plugin/extension for Vim||
 |3|[@ujihisa](https://github.com/ujihisa)/[**keeprun.vim**](https://github.com/ujihisa/keeprun.vim)|! This project is abandoned since I made patch to make quickrun.vim keep running !||

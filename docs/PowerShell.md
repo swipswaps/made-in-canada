@@ -1,16 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|328|[@lazywinadmin](https://github.com/lazywinadmin)/[**PowerShell**](https://github.com/lazywinadmin/PowerShell)|PowerShell functions and scripts (SCCM, SCSM, AD, Exchange, O365, ...)|[:arrow_upper_right:](http://lazywinadmin.com)|
-|55|[@lazywinadmin](https://github.com/lazywinadmin)/[**LazyWinAdmin_GUI**](https://github.com/lazywinadmin/LazyWinAdmin_GUI)|PowerShell Script that generates a GUI/WinForms loaded with tons of functions|[:arrow_upper_right:](http://lazywinadmin.github.io/LazyWinAdmin_GUI/)|
+|332|[@lazywinadmin](https://github.com/lazywinadmin)/[**PowerShell**](https://github.com/lazywinadmin/PowerShell)|PowerShell functions and scripts (SCCM, SCSM, AD, Exchange, O365, ...)|[:arrow_upper_right:](http://lazywinadmin.com)|
+|57|[@lazywinadmin](https://github.com/lazywinadmin)/[**LazyWinAdmin_GUI**](https://github.com/lazywinadmin/LazyWinAdmin_GUI)|PowerShell Script that generates a GUI/WinForms loaded with tons of functions|[:arrow_upper_right:](http://lazywinadmin.github.io/LazyWinAdmin_GUI/)|
 |46|[@dlwyatt](https://github.com/dlwyatt)/[**ProtectedData**](https://github.com/dlwyatt/ProtectedData)|PowerShell Module for securely encrypting and sharing secret data such as passwords.||
-|42|[@lazywinadmin](https://github.com/lazywinadmin)/[**AdsiPS**](https://github.com/lazywinadmin/AdsiPS)|PowerShell module to interact with Active Directory using ADSI and the System.DirectoryServices namespace (.NET Framework)|[:arrow_upper_right:](http://www.lazywinadmin.com)|
-|41|[@lazywinadmin](https://github.com/lazywinadmin)/[**Monitor-ADGroupMembership**](https://github.com/lazywinadmin/Monitor-ADGroupMembership)|PowerShell script to monitor Active Directory groups and send an email when someone is changing the membership||
-|35|[@dlwyatt](https://github.com/dlwyatt)/[**PolicyFileEditor**](https://github.com/dlwyatt/PolicyFileEditor)|PowerShell functions and DSC resource wrappers around the TJX.PolFileEditor.PolFile .NET class.||
+|43|[@lazywinadmin](https://github.com/lazywinadmin)/[**AdsiPS**](https://github.com/lazywinadmin/AdsiPS)|PowerShell module to interact with Active Directory using ADSI and the System.DirectoryServices namespace (.NET Framework)|[:arrow_upper_right:](http://www.lazywinadmin.com)|
+|42|[@lazywinadmin](https://github.com/lazywinadmin)/[**Monitor-ADGroupMembership**](https://github.com/lazywinadmin/Monitor-ADGroupMembership)|PowerShell script to monitor Active Directory groups and send an email when someone is changing the membership||
+|37|[@dlwyatt](https://github.com/dlwyatt)/[**PolicyFileEditor**](https://github.com/dlwyatt/PolicyFileEditor)|PowerShell functions and DSC resource wrappers around the TJX.PolFileEditor.PolFile .NET class.||
 |31|[@dlwyatt](https://github.com/dlwyatt)/[**PowershellProfiler**](https://github.com/dlwyatt/PowershellProfiler)|||
-|20|[@Arvanaghi](https://github.com/Arvanaghi)/[**SessionGopher-Arvanaghi**](https://github.com/Arvanaghi/SessionGopher-Arvanaghi)|SessionGopher is a PowerShell tool that uses WMI to extract saved session information for remote access tools such as WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop. It can be run remotely or locally.|[:arrow_upper_right:](https://arvanaghi.com)|
+|20|[@Arvanaghi](https://github.com/Arvanaghi)/[**SessionGopher-Arvanaghi**](https://github.com/Arvanaghi/SessionGopher-Arvanaghi)|SessionGopher is a PowerShell tool that uses WMI to extract saved session information for remote access tools such as WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop. It can be run remotely or locally.|[:arrow_upper_right:](https://twitter.com/arvanaghi)|
 |19|[@lazywinadmin](https://github.com/lazywinadmin)/[**WinFormPS**](https://github.com/lazywinadmin/WinFormPS)|PowerShell functions for Windows Forms controls|[:arrow_upper_right:](http://www.lazywinadmin.com)|
+|16|[@lazywinadmin](https://github.com/lazywinadmin)/[**LazyTS**](https://github.com/lazywinadmin/LazyTS)|PowerShell Script (GUI) to manage Terminal Sessions|[:arrow_upper_right:](http://lazywinadmin.com)|
 |14|[@AmrEldib](https://github.com/AmrEldib)/[**WindowsContextMenuCustomizations**](https://github.com/AmrEldib/WindowsContextMenuCustomizations)|Registry entries to modify Windows context menu||
-|14|[@lazywinadmin](https://github.com/lazywinadmin)/[**LazyTS**](https://github.com/lazywinadmin/LazyTS)|PowerShell Script (GUI) to manage Terminal Sessions|[:arrow_upper_right:](http://lazywinadmin.com)|
 |13|[@lazywinadmin](https://github.com/lazywinadmin)/[**MVP**](https://github.com/lazywinadmin/MVP)|PowerShell Module to interact with the Microsoft MVP API||
 |10|[@jlouros](https://github.com/jlouros)/[**PowerShell-toolbox**](https://github.com/jlouros/PowerShell-toolbox)|my collection of PowerShell scripts||
 |9|[@TechWhispererCA](https://github.com/TechWhispererCA)/[**disable-smb1-powershell**](https://github.com/TechWhispererCA/disable-smb1-powershell)|Disabling the SMB1 Protocol with PowerShell||
@@ -22,10 +22,11 @@
 |7|[@lazywinadmin](https://github.com/lazywinadmin)/[**ScriptingGames2014Winter**](https://github.com/lazywinadmin/ScriptingGames2014Winter)|PowerShell Scripting Games 2014 (Winter)||
 |4|[@dlwyatt](https://github.com/dlwyatt)/[**RefactoringPowerShellWithPester**](https://github.com/dlwyatt/RefactoringPowerShellWithPester)|Demonstration of using Pester to aid in refactoring an old script||
 |4|[@dlwyatt](https://github.com/dlwyatt)/[**WinFormsExampleUpdates**](https://github.com/dlwyatt/WinFormsExampleUpdates)|Updates to make TechNet PowerShell Windows Forms examples compatible with PowerShell 3.0 and later||
+|4|[@lazywinadmin](https://github.com/lazywinadmin)/[**PowerShellGUI**](https://github.com/lazywinadmin/PowerShellGUI)|PowerShell scripts that generate Graphical User Interface (GUI)||
+|3|[@Adoxio](https://github.com/Adoxio)/[**Adoxio.Dynamics.DevOps**](https://github.com/Adoxio/Adoxio.Dynamics.DevOps)|A PowerShell module for performing Dynamics 365 DevOps activities.||
 |3|[@DonSchenck](https://github.com/DonSchenck)/[**PoshRack**](https://github.com/DonSchenck/PoshRack)|An opinionated PowerShell client for the Rackspace cloud.||
 |3|[@JamesKovacs](https://github.com/JamesKovacs)/[**scripts**](https://github.com/JamesKovacs/scripts)|PowerShell Scripts|[:arrow_upper_right:](http://jameskovacs.com)|
 |3|[@lazywinadmin](https://github.com/lazywinadmin)/[**CiresonPortalPS**](https://github.com/lazywinadmin/CiresonPortalPS)|PowerShell module to interact with the Cireson Portal API||
 |3|[@lazywinadmin](https://github.com/lazywinadmin)/[**CountriesPS**](https://github.com/lazywinadmin/CountriesPS)|CountriesPS is a module to retrieve data about Countries using the https://restcountries.eu/ REST API||
-|3|[@lazywinadmin](https://github.com/lazywinadmin)/[**PowerShellGUI**](https://github.com/lazywinadmin/PowerShellGUI)|PowerShell scripts that generate Graphical User Interface (GUI)||
 |3|[@lazywinadmin](https://github.com/lazywinadmin)/[**WPFPS**](https://github.com/lazywinadmin/WPFPS)|PowerShell module to interact with Windows Presentation Foundation (or WPF) controls.||
 
