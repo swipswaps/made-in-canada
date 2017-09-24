@@ -3,7 +3,7 @@
 > A list of cool projects in Canada. (This repo is inspired by [@IonicaBizau/made-in](https://github.com/IonicaBizau/made-in))
 
  
-## Top 10 Developers (2017/09/23)
+## Top 10 Developers out of 6437 (2017/09/24)
 |Rank|Name|:star2:|
 |---|---|---|
 |1|[tj](https://github.com/tj)|84942|
@@ -17,7 +17,7 @@
 |9|[Thibaut](https://github.com/Thibaut)|14276|
 |10|[mrmrs](https://github.com/mrmrs)|13467|
 
--> [Top 1000 Developers](https://github.com/suguru03/made-in-canada/blob/master/docs/rankers.md)
+-> [Top 1000/ Developers out of 6437](https://github.com/suguru03/made-in-canada/blob/master/docs/rankers.md)
  
 ## Languages
 |Rank|Language|:star2:|Number of Repositories|
