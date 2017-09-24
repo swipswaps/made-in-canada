@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|392|[@addyosmani](https://github.com/addyosmani)/[**critical-path-css-demo**](https://github.com/addyosmani/critical-path-css-demo)|Above-the-fold CSS generation + inlining using Critical & Gulp||
+|395|[@addyosmani](https://github.com/addyosmani)/[**critical-path-css-demo**](https://github.com/addyosmani/critical-path-css-demo)|Above-the-fold CSS generation + inlining using Critical & Gulp||
 |51|[@tomhodgins](https://github.com/tomhodgins)/[**liveeditor**](https://github.com/tomhodgins/liveeditor)|A simple live HTML, CSS, and JavaScript scratchpad in your browser|[:arrow_upper_right:](http://staticresource.com/editor)|
 |24|[@ianrose](https://github.com/ianrose)/[**typesettings-site**](https://github.com/ianrose/typesettings-site)|Source for the Typesettings website||
 |14|[@adambard](https://github.com/adambard)/[**learnxinyminutes-site**](https://github.com/adambard/learnxinyminutes-site)|||

@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|58|[@iH8sn0w](https://github.com/iH8sn0w)/[**sn0wbreeze**](https://github.com/iH8sn0w/sn0wbreeze)|A Windows .NET GUI Wrapper for xpwn.|[:arrow_upper_right:](http://ih8sn0w.com)|
+|59|[@iH8sn0w](https://github.com/iH8sn0w)/[**sn0wbreeze**](https://github.com/iH8sn0w/sn0wbreeze)|A Windows .NET GUI Wrapper for xpwn.|[:arrow_upper_right:](http://ih8sn0w.com)|
 |29|[@PFCKrutonium](https://github.com/PFCKrutonium)/[**OpenRCT2Launcher**](https://github.com/PFCKrutonium/OpenRCT2Launcher)|An Open Source Launcher & Updater for OpenRCT2||
 |23|[@PFCKrutonium](https://github.com/PFCKrutonium)/[**SkypeAdvertRemover**](https://github.com/PFCKrutonium/SkypeAdvertRemover)|Removes all those pesky advertisements from Skype||
 |13|[@retailcoder](https://github.com/retailcoder)/[**VBTools**](https://github.com/retailcoder/VBTools)|A handful class modules for VB6/VBA||
