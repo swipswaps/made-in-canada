@@ -17,6 +17,7 @@
 |5|[@dansmith65](https://github.com/dansmith65)/[**ooScriptMaster**](https://github.com/dansmith65/ooScriptMaster)|object oriented ScriptMaster|[:arrow_upper_right:](http://dansmith65.github.com/ooScriptMaster/groovydoc/)|
 |4|[@anthonydahanne](https://github.com/anthonydahanne)/[**JenkinsHudsonScripts**](https://github.com/anthonydahanne/JenkinsHudsonScripts)|Collection of scripts to interact with Jenkins and Hudson remote APIs and Update Centers||
 |4|[@davidkiss](https://github.com/davidkiss)/[**grails-todo**](https://github.com/davidkiss/grails-todo)|Sample project on building a modern web application using Grails + Spring Security + Angular JS + Twitter Bootstrap.||
+|4|[@kellyrob99](https://github.com/kellyrob99)/[**groovy-http**](https://github.com/kellyrob99/groovy-http)|||
 |4|[@kellyrob99](https://github.com/kellyrob99)/[**running-groovy**](https://github.com/kellyrob99/running-groovy)|Examples of how to dynamically execute Groovy and Java code.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2009/11/21/different-flavors-of-embedded-groovy-in-java-apps-or-how-to-make-your-java-groovier/)|
 |4|[@mbarnathan](https://github.com/mbarnathan)/[**Synchronized-Dimming**](https://github.com/mbarnathan/Synchronized-Dimming)|Allows many SmartThings dimmers to act as one.||
 |3|[@DavidYKay](https://github.com/DavidYKay)/[**gradle-jenkins-example**](https://github.com/DavidYKay/gradle-jenkins-example)|Example of putting Gradle and Jenkins together for Android||
@@ -26,6 +27,5 @@
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**JFreeChart-POI-Groovy**](https://github.com/kellyrob99/JFreeChart-POI-Groovy)|Using JFreeChart and Apache POI in Groovy||
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**gradleAntImport**](https://github.com/kellyrob99/gradleAntImport)|Examples of how to import Ant builds into a Gradle project|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2011/09/18/using-gradle-to-bootstrap-your-legacy-ant-builds/)|
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**groovy-google-collections**](https://github.com/kellyrob99/groovy-google-collections)|A comparison of Groovy, Java and Google-Collections for brevity and fluency.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/05/15/achieving-groovy-like-fluency-in-java-with-google-collections/)|
-|3|[@kellyrob99](https://github.com/kellyrob99)/[**groovy-http**](https://github.com/kellyrob99/groovy-http)|||
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**stackoverflow-api-grails**](https://github.com/kellyrob99/stackoverflow-api-grails)|A demo of the StackExchange APIs|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/06/02/a-grails-app-demoing-the-stackexchange-api/)|
 
