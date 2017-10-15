@@ -8,4 +8,5 @@
 |4|[@briandfoy](https://github.com/briandfoy)/[**perl6-PrettyDump**](https://github.com/briandfoy/perl6-PrettyDump)|Format a Perl 6 data structure for human inspection||
 |3|[@briandfoy](https://github.com/briandfoy)/[**perl6-chemistry-elements**](https://github.com/briandfoy/perl6-chemistry-elements)|Perl 6 extension for working with the Periodic Table of Elements||
 |3|[@supernovus](https://github.com/supernovus)/[**perl6-http-status**](https://github.com/supernovus/perl6-http-status)|Get the text message associated with a given HTTP code||
+|3|[@supernovus](https://github.com/supernovus)/[**perl6-timezone**](https://github.com/supernovus/perl6-timezone)|DateTime::TimeZone (Perl 6)||
 

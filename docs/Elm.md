@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|98|[@ktonon](https://github.com/ktonon)/[**elm-serverless**](https://github.com/ktonon/elm-serverless)|Deploy an elm HTTP API to AWS Lambda using serverless||
-|53|[@jadpole](https://github.com/jadpole)/[**jadpole.github.io**](https://github.com/jadpole/jadpole.github.io)||[:arrow_upper_right:](https://jadpole.github.io)|
+|100|[@ktonon](https://github.com/ktonon)/[**elm-serverless**](https://github.com/ktonon/elm-serverless)|Deploy an elm HTTP API to AWS Lambda using serverless||
+|52|[@jadpole](https://github.com/jadpole)/[**jadpole.github.io**](https://github.com/jadpole/jadpole.github.io)||[:arrow_upper_right:](https://jadpole.github.io)|
 |12|[@ktonon](https://github.com/ktonon)/[**elm-serverless-demo**](https://github.com/ktonon/elm-serverless-demo)|elm-serverless demo for latest release||
 |11|[@diogob](https://github.com/diogob)/[**elm-workshop**](https://github.com/diogob/elm-workshop)|Elm + PostgREST workshop, building a simple database query user interface.||
 |11|[@fosskers](https://github.com/fosskers)/[**elm-touch**](https://github.com/fosskers/elm-touch)|Extended Touch library for Elm. ||
@@ -11,4 +11,5 @@
 |3|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**ElmObjParser**](https://github.com/JoeyEremondi/ElmObjParser)|OBJ parsing and rendering tools for Elm||
 |3|[@dat2](https://github.com/dat2)/[**elm-tile-game**](https://github.com/dat2/elm-tile-game)|A tile game written in elm||
 |3|[@ktonon](https://github.com/ktonon)/[**elm-crypto**](https://github.com/ktonon/elm-crypto)|Cryptography with HMAC and SHA-2|[:arrow_upper_right:](http://package.elm-lang.org/packages/ktonon/elm-crypto/latest)|
+|3|[@ktonon](https://github.com/ktonon)/[**elm-jsonwebtoken**](https://github.com/ktonon/elm-jsonwebtoken)|JSON Web Token encoder and decoder||
 
