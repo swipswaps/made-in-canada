@@ -6,7 +6,7 @@
 |11|[@joedf](https://github.com/joedf)/[**MCode4GCC**](https://github.com/joedf/MCode4GCC)|MCode4GCC is an MCode generator using the GCC Compiler.||
 |7|[@joedf](https://github.com/joedf)/[**AEI.ahk**](https://github.com/joedf/AEI.ahk)|AutoHotkey Environment Information|[:arrow_upper_right:](http://ahkscript.org/boards/viewtopic.php?f=6&t=5825)|
 |5|[@dansmith65](https://github.com/dansmith65)/[**FileMaker-Automation**](https://github.com/dansmith65/FileMaker-Automation)|Automate tasks in FileMaker Pro||
-|4|[@joedf](https://github.com/joedf)/[**ahk_LoaderBar**](https://github.com/joedf/ahk_LoaderBar)|Cool Gradient progress bar class by joedf (using CreateDIB by SKAN)||
+|5|[@joedf](https://github.com/joedf)/[**ahk_LoaderBar**](https://github.com/joedf/ahk_LoaderBar)|Cool Gradient progress bar class by joedf (using CreateDIB by SKAN)||
 |3|[@agbell](https://github.com/agbell)/[**TECK**](https://github.com/agbell/TECK)|truly ergonomic keyboard customizations||
 |3|[@dansmith65](https://github.com/dansmith65)/[**AutoHotkey_LPortable**](https://github.com/dansmith65/AutoHotkey_LPortable)|AutoHotkey_L in PortableApps.com format|[:arrow_upper_right:](http://portableapps.com/node/32170)|
 |3|[@dfcreative](https://github.com/dfcreative)/[**typographic-hotkeys**](https://github.com/dfcreative/typographic-hotkeys)|Anyhotkey™ script that extends keyboard with typographic keys.||
