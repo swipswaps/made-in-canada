@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|105|[@yracine](https://github.com/yracine)/[**device-type.myecobee**](https://github.com/yracine/device-type.myecobee)|SmartThings-ecobee integration||
-|61|[@f2prateek](https://github.com/f2prateek)/[**gradle-android-javafmt-plugin**](https://github.com/f2prateek/gradle-android-javafmt-plugin)|||
+|106|[@yracine](https://github.com/yracine)/[**device-type.myecobee**](https://github.com/yracine/device-type.myecobee)|SmartThings-ecobee integration||
+|63|[@f2prateek](https://github.com/f2prateek)/[**gradle-android-javafmt-plugin**](https://github.com/f2prateek/gradle-android-javafmt-plugin)|||
 |40|[@f2prateek](https://github.com/f2prateek)/[**android-checkstyle-plugin**](https://github.com/f2prateek/android-checkstyle-plugin)|Configures the checkstyle plugin for Android projects||
 |27|[@kellyrob99](https://github.com/kellyrob99)/[**Jenkins-api-tour**](https://github.com/kellyrob99/Jenkins-api-tour)|Code demonstrating how to interact with the API layer of a Jenkins/Hudson build server.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2011/03/27/hooking-into-the-jenkinshudson-api/)|
 |19|[@mbarnathan](https://github.com/mbarnathan)/[**SmartWink**](https://github.com/mbarnathan/SmartWink)|Lutron support in SmartThings using a rooted Wink hub as a bridge||
 |14|[@kellyrob99](https://github.com/kellyrob99)/[**gradle-jslint-plugin**](https://github.com/kellyrob99/gradle-jslint-plugin)|A Gradle custom Plugin that allows running JSLint static analysis against JavaScipt code. A blog article accompanies this source code to explain its intent and implementation.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2011/04/03/a-groovygradle-jslint-plugin/)|
 |13|[@yracine](https://github.com/yracine)/[**device-type.myneurio**](https://github.com/yracine/device-type.myneurio)|SmartThings-Neurio integration||
+|11|[@chaopeng](https://github.com/chaopeng)/[**grchaos**](https://github.com/chaopeng/grchaos)|application framework for hotswap||
 |11|[@kellyrob99](https://github.com/kellyrob99)/[**catcha-breaker**](https://github.com/kellyrob99/catcha-breaker)|Groovy port of a python example on how to break weak captcha using tesseract-ocr|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/03/14/breaking-weak-captcha-in-slightly-more-than-26-lines-of-groovy-code/)|
 |11|[@yracine](https://github.com/yracine)/[**DSC-Integration-with-Arduino-Mega-Shield-RS-232**](https://github.com/yracine/DSC-Integration-with-Arduino-Mega-Shield-RS-232)|DSC - Integration with SmartThings (RS232)||
-|10|[@chaopeng](https://github.com/chaopeng)/[**grchaos**](https://github.com/chaopeng/grchaos)|application framework for hotswap||
 |8|[@yracine](https://github.com/yracine)/[**keenhome.device-type**](https://github.com/yracine/keenhome.device-type)|Keen Home Smart Vents - device handler||
 |7|[@eclipsesource](https://github.com/eclipsesource)/[**dockerizor**](https://github.com/eclipsesource/dockerizor)|Gradle plug-in to create a Docker image that includes an Eclipse Virgo container||
 |7|[@yracine](https://github.com/yracine)/[**device-type.myautomatic**](https://github.com/yracine/device-type.myautomatic)|SmartThings - Automatic integration||
@@ -23,6 +23,7 @@
 |3|[@DavidYKay](https://github.com/DavidYKay)/[**gradle-jenkins-example**](https://github.com/DavidYKay/gradle-jenkins-example)|Example of putting Gradle and Jenkins together for Android||
 |3|[@NickQiZhu](https://github.com/NickQiZhu)/[**Griffon-Validation-Plugin**](https://github.com/NickQiZhu/Griffon-Validation-Plugin)|Validation plugin for Griffin framework|[:arrow_upper_right:](http://griffon.codehaus.org/Validation+Plugin)|
 |3|[@codetojoy](https://github.com/codetojoy)/[**easter_eggs_for_groovy**](https://github.com/codetojoy/easter_eggs_for_groovy)|Basic examples for Groovy. Usage of 'egg' here is SSCCE: http://sscce.org||
+|3|[@codetojoy](https://github.com/codetojoy)/[**talk_maritimedevcon_groovy**](https://github.com/codetojoy/talk_maritimedevcon_groovy)|Demo code for talk at Maritime DevCon 2016.||
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**Groovy-Testing-Presentation**](https://github.com/kellyrob99/Groovy-Testing-Presentation)|A test Griffon application for delivering a slideshow style presentation using the slideware plugin|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/02/11/a-one-day-griffon-applicationpresentation/)|
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**JFreeChart-POI-Groovy**](https://github.com/kellyrob99/JFreeChart-POI-Groovy)|Using JFreeChart and Apache POI in Groovy||
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**gradleAntImport**](https://github.com/kellyrob99/gradleAntImport)|Examples of how to import Ant builds into a Gradle project|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2011/09/18/using-gradle-to-bootstrap-your-legacy-ant-builds/)|

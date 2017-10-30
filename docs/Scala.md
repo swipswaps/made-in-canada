@@ -3,28 +3,28 @@
 |382|[@cvogt](https://github.com/cvogt)/[**cbt**](https://github.com/cvogt/cbt)|CBT - fun, fast, intuitive, compositional, statically checked builds written in Scala||
 |336|[@marconilanna](https://github.com/marconilanna)/[**REPLesent**](https://github.com/marconilanna/REPLesent)|A neat little tool to build presentations using the Scala REPL||
 |303|[@dcaoyuan](https://github.com/dcaoyuan)/[**chana**](https://github.com/dcaoyuan/chana)|Avro Data Store based on Akka||
-|300|[@mardambey](https://github.com/mardambey)/[**mypipe**](https://github.com/mardambey/mypipe)|MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka.||
+|301|[@mardambey](https://github.com/mardambey)/[**mypipe**](https://github.com/mardambey/mypipe)|MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka.||
 |252|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-socketio**](https://github.com/dcaoyuan/spray-socketio)|socket.io for spray||
 |225|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-websocket**](https://github.com/dcaoyuan/spray-websocket)|WebSocket for spray-can||
 |120|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**ScalaKata**](https://github.com/MasseGuillaume/ScalaKata)|Moved|[:arrow_upper_right:](https://github.com/MasseGuillaume/ScalaKata2)|
 |116|[@dcaoyuan](https://github.com/dcaoyuan)/[**aiotrade**](https://github.com/dcaoyuan/aiotrade)|A Trading Platform|[:arrow_upper_right:](http://blogtrader.net)|
-|83|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**ScalaKata2**](https://github.com/MasseGuillaume/ScalaKata2)|Interactive Playground|[:arrow_upper_right:](http://scalakata.com)|
+|84|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**ScalaKata2**](https://github.com/MasseGuillaume/ScalaKata2)|Interactive Playground|[:arrow_upper_right:](http://scalakata.com)|
 |81|[@cvogt](https://github.com/cvogt)/[**compossible**](https://github.com/cvogt/compossible)|Scala Records: Extensible records and type-indexed maps|[:arrow_upper_right:](https://www.youtube.com/watch?v=pA2js-TV1Ck)|
-|69|[@PaytmLabs](https://github.com/PaytmLabs)/[**akka-batteries**](https://github.com/PaytmLabs/akka-batteries)|Utilities for Akka cluster in production||
+|71|[@PaytmLabs](https://github.com/PaytmLabs)/[**akka-batteries**](https://github.com/PaytmLabs/akka-batteries)|Utilities for Akka cluster in production||
 |47|[@knoldus](https://github.com/knoldus)/[**Play-Spark-Scala**](https://github.com/knoldus/Play-Spark-Scala)|||
 |45|[@knoldus](https://github.com/knoldus)/[**playing-microservices.g8**](https://github.com/knoldus/playing-microservices.g8)|This activator project describes Microservice architecture design using Play 2.4.x and Scala||
 |36|[@eclipsesource](https://github.com/eclipsesource)/[**play-json-schema-validator**](https://github.com/eclipsesource/play-json-schema-validator)|JSON Schema Validation with Play JSON||
 |35|[@knoldus](https://github.com/knoldus)/[**ScalaJs_Weather_Report**](https://github.com/knoldus/ScalaJs_Weather_Report)|Weather Information System- Get the mood of your city on one click using Scala.js.||
 |33|[@rocketraman](https://github.com/rocketraman)/[**activator-akka-scala-guice**](https://github.com/rocketraman/activator-akka-scala-guice)|Typesafe Activator demo for Akka, Scala, Guice||
-|30|[@knoldus](https://github.com/knoldus)/[**playing-reactive-mongo.g8**](https://github.com/knoldus/playing-reactive-mongo.g8)|This activator project describes a classic CRUD application in Play 2.4.x with ReactiveMongo||
-|29|[@tobyjsullivan](https://github.com/tobyjsullivan)/[**applicative-demo**](https://github.com/tobyjsullivan/applicative-demo)|Demo code for my talk at applicative conf. http://applicative.acm.org/speaker-TobySullivan.html||
+|30|[@tobyjsullivan](https://github.com/tobyjsullivan)/[**applicative-demo**](https://github.com/tobyjsullivan/applicative-demo)|Demo code for my talk at applicative conf. http://applicative.acm.org/speaker-TobySullivan.html||
+|29|[@knoldus](https://github.com/knoldus)/[**playing-reactive-mongo.g8**](https://github.com/knoldus/playing-reactive-mongo.g8)|This activator project describes a classic CRUD application in Play 2.4.x with ReactiveMongo||
 |28|[@cvogt](https://github.com/cvogt)/[**scala-extensions**](https://github.com/cvogt/scala-extensions)|Useful extensions for the Scala standard library|[:arrow_upper_right:](http://cvogt.org/scala-extensions/api/)|
 |28|[@cvogt](https://github.com/cvogt)/[**slick-presentation**](https://github.com/cvogt/slick-presentation)|||
 |27|[@dcaoyuan](https://github.com/dcaoyuan)/[**avpath**](https://github.com/dcaoyuan/avpath)|XPath likeness for Avro||
 |26|[@cvogt](https://github.com/cvogt)/[**flow-comprehensions**](https://github.com/cvogt/flow-comprehensions)|Work in progress: Simpler and more powerful alternative to Scala's built-in for-comprehension syntax||
 |26|[@knoldus](https://github.com/knoldus)/[**activator-play-slick-app**](https://github.com/knoldus/activator-play-slick-app)|This is an activator project providing a seed for starting with Play & Slick, how to write unit test and how to use mocking for unit testing.||
 |25|[@knoldus](https://github.com/knoldus)/[**playing-reactjs.g8**](https://github.com/knoldus/playing-reactjs.g8)|This activator project describes a basic example to render UI using ReactJS with Play 2.4.x, Scala and Anorm. It also demonstrates the use of evolution in Play 2.4.x||
-|24|[@knoldus](https://github.com/knoldus)/[**real-time-stream-processing-engine**](https://github.com/knoldus/real-time-stream-processing-engine)|This is an example of real time stream processing using Spark Streaming, Kafka & Elasticsearch.||
+|25|[@knoldus](https://github.com/knoldus)/[**real-time-stream-processing-engine**](https://github.com/knoldus/real-time-stream-processing-engine)|This is an example of real time stream processing using Spark Streaming, Kafka & Elasticsearch.||
 |22|[@mardambey](https://github.com/mardambey)/[**spiffy**](https://github.com/mardambey/spiffy)|Spiffy is a minimalistic framework for building HTTP services and web applications making use of Akka and Scala DSLs with emphasis on scalability and agility.||
 |21|[@knoldus](https://github.com/knoldus)/[**Lambda-Arch-Spark**](https://github.com/knoldus/Lambda-Arch-Spark)|||
 |20|[@cvogt](https://github.com/cvogt)/[**migrations**](https://github.com/cvogt/migrations)|||
@@ -74,6 +74,7 @@
 |5|[@edadma](https://github.com/edadma)/[**funl**](https://github.com/edadma/funl)|a functional dynamically typed scripting language||
 |5|[@francois](https://github.com/francois)/[**streaming-state-machine**](https://github.com/francois/streaming-state-machine)|This code refers to a blog post I made about using Scala case classes to implement states within a state machine|[:arrow_upper_right:](http://blog.teksol.info/2012/02/29/scala-case-classes-and-state-machines-using-akka-actors.html)|
 |5|[@knoldus](https://github.com/knoldus)/[**akka-roller**](https://github.com/knoldus/akka-roller)|Akka Training Project||
+|5|[@knoldus](https://github.com/knoldus)/[**atdd-cucumber-scala**](https://github.com/knoldus/atdd-cucumber-scala)|Small example of ATDD wth Cucumber and Scala||
 |5|[@knoldus](https://github.com/knoldus)/[**sicp**](https://github.com/knoldus/sicp)|Exercises of SICP solved with Scala||
 |5|[@marconilanna](https://github.com/marconilanna)/[**snippets**](https://github.com/marconilanna/snippets)|Catalogue of routinely required small units of boilerplate code||
 |5|[@marconilanna](https://github.com/marconilanna)/[**talks**](https://github.com/marconilanna/talks)|Slides and code for my public talks and presentations||
@@ -82,7 +83,7 @@
 |4|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**Scala-DNS**](https://github.com/MasseGuillaume/Scala-DNS)|Domain Name System||
 |4|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**multi-platforms-javalibs**](https://github.com/MasseGuillaume/multi-platforms-javalibs)|||
 |4|[@dcaoyuan](https://github.com/dcaoyuan)/[**chana-mq**](https://github.com/dcaoyuan/chana-mq)|MQ on Akka||
-|4|[@knoldus](https://github.com/knoldus)/[**atdd-cucumber-scala**](https://github.com/knoldus/atdd-cucumber-scala)|Small example of ATDD wth Cucumber and Scala||
+|4|[@knoldus](https://github.com/knoldus)/[**atdd-scalatest-scala**](https://github.com/knoldus/atdd-scalatest-scala)|Acceptance Testing with ScalaTest||
 |4|[@knoldus](https://github.com/knoldus)/[**knol-spray-auth**](https://github.com/knoldus/knol-spray-auth)|||
 |4|[@knoldus](https://github.com/knoldus)/[**scala-solr-akkahttp.g8**](https://github.com/knoldus/scala-solr-akkahttp.g8)|||
 |4|[@knoldus](https://github.com/knoldus)/[**simple-akka-http-websocket-example.g8**](https://github.com/knoldus/simple-akka-http-websocket-example.g8)|A simple example of Websockets Server with akka-http ||
@@ -96,7 +97,6 @@
 |3|[@cvogt](https://github.com/cvogt)/[**scalacheck-extensions**](https://github.com/cvogt/scalacheck-extensions)||[:arrow_upper_right:](http://cvogt.org/scalacheck-extensions/api/)|
 |3|[@cvogt](https://github.com/cvogt)/[**siq**](https://github.com/cvogt/siq)|||
 |3|[@edadma](https://github.com/edadma)/[**scala-markdown**](https://github.com/edadma/scala-markdown)|Scala Github Flavored Markdown Processor||
-|3|[@knoldus](https://github.com/knoldus)/[**atdd-scalatest-scala**](https://github.com/knoldus/atdd-scalatest-scala)|Acceptance Testing with ScalaTest||
 |3|[@knoldus](https://github.com/knoldus)/[**lagom-spike**](https://github.com/knoldus/lagom-spike)|||
 |3|[@knoldus](https://github.com/knoldus)/[**load-external-scala-file**](https://github.com/knoldus/load-external-scala-file)|This application will teach how to compile and load an external scala file in a scala apllication||
 |3|[@knoldus](https://github.com/knoldus)/[**playing-gravatar.g8**](https://github.com/knoldus/playing-gravatar.g8)|This activator project describes a basic example to generate gravatar using email address with Play Framework||
