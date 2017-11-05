@@ -1,16 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2471|[@pangloss](https://github.com/pangloss)/[**vim-javascript**](https://github.com/pangloss/vim-javascript)|Vastly improved Javascript indentation and syntax support in Vim.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4452)|
-|771|[@gf3](https://github.com/gf3)/[**dotfiles**](https://github.com/gf3/dotfiles)|config for neovim, tmux, molotov colourscheme, and more||
+|2476|[@pangloss](https://github.com/pangloss)/[**vim-javascript**](https://github.com/pangloss/vim-javascript)|Vastly improved Javascript indentation and syntax support in Vim.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4452)|
+|772|[@gf3](https://github.com/gf3)/[**dotfiles**](https://github.com/gf3/dotfiles)|config for neovim, tmux, molotov colourscheme, and more||
 |679|[@myusuf3](https://github.com/myusuf3)/[**numbers.vim**](https://github.com/myusuf3/numbers.vim)|numbers.vim is a vim plugin for better line numbers|[:arrow_upper_right:](http://myusuf3.github.com/numbers.vim/)|
-|651|[@jpalardy](https://github.com/jpalardy)/[**vim-slime**](https://github.com/jpalardy/vim-slime)|A vim plugin to give you some slime. (Emacs)|[:arrow_upper_right:](http://technotales.wordpress.com/2007/10/03/like-slime-for-vim/)|
-|390|[@svermeulen](https://github.com/svermeulen)/[**vim-easyclip**](https://github.com/svermeulen/vim-easyclip)|Simplified clipboard functionality for Vim||
-|358|[@tommcdo](https://github.com/tommcdo)/[**vim-exchange**](https://github.com/tommcdo/vim-exchange)|Easy text exchange operator for Vim||
-|277|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
+|654|[@jpalardy](https://github.com/jpalardy)/[**vim-slime**](https://github.com/jpalardy/vim-slime)|A vim plugin to give you some slime. (Emacs)|[:arrow_upper_right:](http://technotales.wordpress.com/2007/10/03/like-slime-for-vim/)|
+|393|[@svermeulen](https://github.com/svermeulen)/[**vim-easyclip**](https://github.com/svermeulen/vim-easyclip)|Simplified clipboard functionality for Vim||
+|360|[@tommcdo](https://github.com/tommcdo)/[**vim-exchange**](https://github.com/tommcdo/vim-exchange)|Easy text exchange operator for Vim||
+|278|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
 |129|[@myusuf3](https://github.com/myusuf3)/[**dotfiles**](https://github.com/myusuf3/dotfiles)|myusuf3's dotfiles||
 |70|[@idbrii](https://github.com/idbrii)/[**AsyncCommand**](https://github.com/idbrii/AsyncCommand)|AsyncCommand allows you to execute shell commands without waiting for them  to complete. When the application terminates, its output can be loaded into  a vim buffer.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3431)|
 |69|[@jpalardy](https://github.com/jpalardy)/[**dotfiles**](https://github.com/jpalardy/dotfiles)|My collection of config files (bash, vim, …)||
-|65|[@amacgregor](https://github.com/amacgregor)/[**dot-files**](https://github.com/amacgregor/dot-files)|Dotfiles repository||
+|68|[@amacgregor](https://github.com/amacgregor)/[**dot-files**](https://github.com/amacgregor/dot-files)|Dotfiles repository||
 |53|[@jperras](https://github.com/jperras)/[**vim-dotfiles**](https://github.com/jperras/vim-dotfiles)|Carefully crafted, curated and somewhat Python-oriented Vim development environment||
 |51|[@juliosueiras](https://github.com/juliosueiras)/[**vim-terraform-completion**](https://github.com/juliosueiras/vim-terraform-completion)|A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool||
 |39|[@ujihisa](https://github.com/ujihisa)/[**config**](https://github.com/ujihisa/config)|||
@@ -42,6 +42,7 @@
 |4|[@brentlintner](https://github.com/brentlintner)/[**vim-settings**](https://github.com/brentlintner/vim-settings)|My current Vim/NeoVim setup||
 |4|[@horse-latitudes](https://github.com/horse-latitudes)/[**horse-vimfiles**](https://github.com/horse-latitudes/horse-vimfiles)|dotfiles & somesuch|[:arrow_upper_right:](https://github.com/horse-latitudes/horse-vimfiles.git)|
 |4|[@kevinjalbert](https://github.com/kevinjalbert)/[**dotfiles**](https://github.com/kevinjalbert/dotfiles)|My dotfiles||
+|4|[@ujihisa](https://github.com/ujihisa)/[**ft-cmake**](https://github.com/ujihisa/ft-cmake)|indent/cmake.vim and syntax/cmake.vim exist, but no dict/cmake.txt exist yet. This is it.||
 |3|[@arteymix](https://github.com/arteymix)/[**vimrc**](https://github.com/arteymix/vimrc)|Vim setup I use every day||
 |3|[@davidcornu](https://github.com/davidcornu)/[**dotfiles**](https://github.com/davidcornu/dotfiles)|My dotfiles||
 |3|[@dmix](https://github.com/dmix)/[**elvish.vim**](https://github.com/dmix/elvish.vim)|Vim plugin for the Elvish unix shell with syntax highlighting||
@@ -49,11 +50,10 @@
 |3|[@jarednorman](https://github.com/jarednorman)/[**dotfiles**](https://github.com/jarednorman/dotfiles)|my configuration||
 |3|[@jpcaissy](https://github.com/jpcaissy)/[**vimrc**](https://github.com/jpcaissy/vimrc)|||
 |3|[@mdeering](https://github.com/mdeering)/[**homefiles**](https://github.com/mdeering/homefiles)|My Linux setup||
-|3|[@nbosco](https://github.com/nbosco)/[**vim2go**](https://github.com/nbosco/vim2go)|Vim starter kit, with mind blowing features. 👐🏽 Emacs can't stop us.|[:arrow_upper_right:](https://nbosco.github.io/vim2go/)|
+|3|[@nbosco](https://github.com/nbosco)/[**vim2go**](https://github.com/nbosco/vim2go)|Vim starter pack, with mind blowing features. Yes. Vim is better than Emacs 👐🏽 |[:arrow_upper_right:](https://nbosco.github.io/vim2go/)|
 |3|[@pseudomuto](https://github.com/pseudomuto)/[**dotfiles**](https://github.com/pseudomuto/dotfiles)|You know...dotfiles and such||
 |3|[@qrwteyrutiyoup](https://github.com/qrwteyrutiyoup)/[**dotfiles**](https://github.com/qrwteyrutiyoup/dotfiles)|Infamous dotfiles repository - everyone seems to have one these days...||
 |3|[@robbles](https://github.com/robbles)/[**dotfiles**](https://github.com/robbles/dotfiles)|my config files. for survival in harsh climates and other computers.||
 |3|[@rosshamish](https://github.com/rosshamish)/[**dotfiles**](https://github.com/rosshamish/dotfiles)|mac os system setup||
 |3|[@sjackman](https://github.com/sjackman)/[**dotfiles**](https://github.com/sjackman/dotfiles)|~/.*|[:arrow_upper_right:](http://dotfiles.github.io/)|
-|3|[@ujihisa](https://github.com/ujihisa)/[**ft-cmake**](https://github.com/ujihisa/ft-cmake)|indent/cmake.vim and syntax/cmake.vim exist, but no dict/cmake.txt exist yet. This is it.||
 

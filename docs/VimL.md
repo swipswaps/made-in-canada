@@ -3,7 +3,7 @@
 |183|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
 |134|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |88|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|:rocket: Quickly init a slightly better Vim.||
-|50|[@honza](https://github.com/honza)/[**dockerfile.vim**](https://github.com/honza/dockerfile.vim)|Syntax highlighting for Dockerfiles||
+|51|[@honza](https://github.com/honza)/[**dockerfile.vim**](https://github.com/honza/dockerfile.vim)|Syntax highlighting for Dockerfiles||
 |50|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
 |41|[@ujihisa](https://github.com/ujihisa)/[**unite-colorscheme**](https://github.com/ujihisa/unite-colorscheme)|A unite.vim plugin||
 |40|[@ujihisa](https://github.com/ujihisa)/[**shadow.vim**](https://github.com/ujihisa/shadow.vim)|That's not the file. That's shadow.||
@@ -21,8 +21,8 @@
 |18|[@tommcdo](https://github.com/tommcdo)/[**vim-express**](https://github.com/tommcdo/vim-express)|Easily create custom Vim operators using expressions and substitutions||
 |16|[@tristen](https://github.com/tristen)/[**superman**](https://github.com/tristen/superman)|:art: A dark theme for Vim||
 |15|[@tommcdo](https://github.com/tommcdo)/[**vim-kangaroo**](https://github.com/tommcdo/vim-kangaroo)|Vim plugin: Maintain a manually-defined jump stack||
+|14|[@gmarik](https://github.com/gmarik)/[**sudo-gui.vim**](https://github.com/gmarik/sudo-gui.vim)|sudo GUI for a GUI vim|[:arrow_upper_right:](https://github.com/gmarik/sudo-gui.vim)|
 |14|[@tommcdo](https://github.com/tommcdo)/[**vim-lister**](https://github.com/tommcdo/vim-lister)|A collection of commands for manipulating Vim's lists||
-|13|[@gmarik](https://github.com/gmarik)/[**sudo-gui.vim**](https://github.com/gmarik/sudo-gui.vim)|sudo GUI for a GUI vim|[:arrow_upper_right:](https://github.com/gmarik/sudo-gui.vim)|
 |13|[@moshen](https://github.com/moshen)/[**vimconfig**](https://github.com/moshen/vimconfig)|My vim configuration...||
 |13|[@travisjeffery](https://github.com/travisjeffery)/[**snipmate-snippets**](https://github.com/travisjeffery/snipmate-snippets)|my snippets that I use with snipmate||
 |13|[@ujihisa](https://github.com/ujihisa)/[**unite-haskellimport**](https://github.com/ujihisa/unite-haskellimport)|:Unite haskellimport||
@@ -43,12 +43,13 @@
 |7|[@rafaelrosafu](https://github.com/rafaelrosafu)/[**vimfiles**](https://github.com/rafaelrosafu/vimfiles)|My vimfiles (noobie warning)||
 |7|[@ujihisa](https://github.com/ujihisa)/[**neochat.vim**](https://github.com/ujihisa/neochat.vim)|a comprehensive pluggable chat Vim plugin||
 |6|[@billkeys](https://github.com/billkeys)/[**Documentation**](https://github.com/billkeys/Documentation)|||
+|6|[@gmarik](https://github.com/gmarik)/[**ingretu**](https://github.com/gmarik/ingretu)|a Vim GUI color scheme|[:arrow_upper_right:](http://github.com/gmarik/ingretu)|
 |6|[@ujihisa](https://github.com/ujihisa)/[**nclipper.vim**](https://github.com/ujihisa/nclipper.vim)|copy lines into clipboard with the line numbers||
 |6|[@ujihisa](https://github.com/ujihisa)/[**tabpagecolorscheme**](https://github.com/ujihisa/tabpagecolorscheme)|Vim colorscheme on each tabs||
 |6|[@ujihisa](https://github.com/ujihisa)/[**unite-rake**](https://github.com/ujihisa/unite-rake)|A Unite.vim plugin to run tasks or to view descriptions easily, using rake command||
-|5|[@gmarik](https://github.com/gmarik)/[**ingretu**](https://github.com/gmarik/ingretu)|a Vim GUI color scheme|[:arrow_upper_right:](http://github.com/gmarik/ingretu)|
 |5|[@mrandrewandrade](https://github.com/mrandrewandrade)/[**dotfiles**](https://github.com/mrandrewandrade/dotfiles)|A gnarly system manager and portable dotfiles generator|[:arrow_upper_right:](http://mrandrewandrade.com/dotfiles)|
 |5|[@t6d](https://github.com/t6d)/[**dotfiles**](https://github.com/t6d/dotfiles)|My Shell Environment||
+|5|[@tdryer](https://github.com/tdryer)/[**dotfiles**](https://github.com/tdryer/dotfiles)|tdryer's dotfiles||
 |5|[@ujihisa](https://github.com/ujihisa)/[**correr**](https://github.com/ujihisa/correr)|correr.vim: run a command later||
 |5|[@ujihisa](https://github.com/ujihisa)/[**unite-launch**](https://github.com/ujihisa/unite-launch)|powered by quickrun||
 |4|[@bigfish](https://github.com/bigfish)/[**vim4js**](https://github.com/bigfish/vim4js)|Vim goodies for Javascript||
@@ -59,7 +60,6 @@
 |4|[@pangloss](https://github.com/pangloss)/[**vim-simplefold**](https://github.com/pangloss/vim-simplefold)|Fork of SimpleFold.vim by Mauricio Fernandez. Space-optimized, configurable code folding for vim.|[:arrow_upper_right:](http://eigenclass.org/hiki/simplefold)|
 |4|[@pushrax](https://github.com/pushrax)/[**kantan**](https://github.com/pushrax/kantan)|Simple 16-colour scheming||
 |4|[@staticsafe](https://github.com/staticsafe)/[**dotfiles**](https://github.com/staticsafe/dotfiles)|Contains my dotfiles||
-|4|[@tdryer](https://github.com/tdryer)/[**dotfiles**](https://github.com/tdryer/dotfiles)|tdryer's dotfiles||
 |4|[@travisjeffery](https://github.com/travisjeffery)/[**vim-auto-mkdir**](https://github.com/travisjeffery/vim-auto-mkdir)|vim: automatically mkdir when writing file in nonexistent directory|[:arrow_upper_right:](http://twitter.com/travisjeffery)|
 |4|[@travisjeffery](https://github.com/travisjeffery)/[**vim-colors**](https://github.com/travisjeffery/vim-colors)|good vim color themes i've hacked together||
 |4|[@travisjeffery](https://github.com/travisjeffery)/[**vim-gotosymbol**](https://github.com/travisjeffery/vim-gotosymbol)|Go to Symbol for Vim with Tagslist.||
@@ -74,8 +74,10 @@
 |3|[@bigfish](https://github.com/bigfish)/[**myvim**](https://github.com/bigfish/myvim)|my vim runtime ||
 |3|[@bigfish](https://github.com/bigfish)/[**vim-jshint**](https://github.com/bigfish/vim-jshint)|vim plugin to run jshint on filesave and show errors||
 |3|[@blakehilscher](https://github.com/blakehilscher)/[**dotfiles**](https://github.com/blakehilscher/dotfiles)|dotfiles||
+|3|[@colindecarlo](https://github.com/colindecarlo)/[**dot-files**](https://github.com/colindecarlo/dot-files)|My dot files||
 |3|[@dimitriwalters](https://github.com/dimitriwalters)/[**dotfiles**](https://github.com/dimitriwalters/dotfiles)|Current .vimrc and .vim||
 |3|[@gmarik](https://github.com/gmarik)/[**hlmatch.vim**](https://github.com/gmarik/hlmatch.vim)|opinionated Vim highlighting utils.||
+|3|[@gmarik](https://github.com/gmarik)/[**ide-popup.vim**](https://github.com/gmarik/ide-popup.vim)|Make popup behave like IDE popup|[:arrow_upper_right:](http://vim.wikia.com/wiki/Make_Vim_completion_popup_menu_work_just_like_in_an_IDE)|
 |3|[@gtanner](https://github.com/gtanner)/[**tinyhippos.vimrc**](https://github.com/gtanner/tinyhippos.vimrc)|.vim settings for working @ tinyhippos||
 |3|[@idbrii](https://github.com/idbrii)/[**powerline-sanity**](https://github.com/idbrii/powerline-sanity)|A saner set of themes for vim-powerline||
 |3|[@idbrii](https://github.com/idbrii)/[**vim-ack**](https://github.com/idbrii/vim-ack)|An Ack plugin for Vim that depends on AsyncCommand||
