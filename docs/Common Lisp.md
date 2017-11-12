@@ -12,7 +12,7 @@
 |15|[@burtonsamograd](https://github.com/burtonsamograd)/[**rsa**](https://github.com/burtonsamograd/rsa)|The RSA Encryption Algorithm written in Common Lisp||
 |13|[@inaimathi](https://github.com/inaimathi)/[**house**](https://github.com/inaimathi/house)|Minimal asynchronous CL web server||
 |12|[@inaimathi](https://github.com/inaimathi)/[**fact-base**](https://github.com/inaimathi/fact-base)|Implementation of fact bases for Common Lisp||
-|9|[@tokenrove](https://github.com/tokenrove)/[**series**](https://github.com/tokenrove/series)|unofficial mirror of git://git.code.sf.net/p/series/series (Richard C. Waters' SERIES package for Common Lisp)|[:arrow_upper_right:](http://series.sourceforge.net/)|
+|10|[@tokenrove](https://github.com/tokenrove)/[**series**](https://github.com/tokenrove/series)|unofficial mirror of git://git.code.sf.net/p/series/series (Richard C. Waters' SERIES package for Common Lisp)|[:arrow_upper_right:](http://series.sourceforge.net/)|
 |7|[@atgreen](https://github.com/atgreen)/[**wrapilator**](https://github.com/atgreen/wrapilator)|Wraps verilator output in Common Lisp for testing digital logic in Lisp||
 |7|[@burtonsamograd](https://github.com/burtonsamograd)/[**autograph**](https://github.com/burtonsamograd/autograph)|Autograph is a CSS generation language that uses s-expressions for styling rules and allows for the use of variables and functions written in Common Lisp.||
 |6|[@inaimathi](https://github.com/inaimathi)/[**cl-congregate**](https://github.com/inaimathi/cl-congregate)|A service and protocol for coordinating recurring get-togethers between many humans||
@@ -33,4 +33,5 @@
 |3|[@inaimathi](https://github.com/inaimathi)/[**cl-web-dev**](https://github.com/inaimathi/cl-web-dev)|Minor utilities for web development in Common Lisp||
 |3|[@inaimathi](https://github.com/inaimathi)/[**deal**](https://github.com/inaimathi/deal)|A simple playtesting/prototyping tool for physical card games||
 |3|[@sgraham](https://github.com/sgraham)/[**worksheets**](https://github.com/sgraham/worksheets)|||
+|3|[@tokenrove](https://github.com/tokenrove)/[**m68k-assembler**](https://github.com/tokenrove/m68k-assembler)|A simple, mostly-DevPAC-compatible assembler for the Motorola 68k series of proccessors.||
 
