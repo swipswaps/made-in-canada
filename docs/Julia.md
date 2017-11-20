@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|113|[@samuelcolvin](https://github.com/samuelcolvin)/[**JuliaByExample**](https://github.com/samuelcolvin/JuliaByExample)|Examples of Julia|[:arrow_upper_right:](https://juliabyexample.helpmanual.io/)|
+|114|[@samuelcolvin](https://github.com/samuelcolvin)/[**JuliaByExample**](https://github.com/samuelcolvin/JuliaByExample)|Examples of Julia|[:arrow_upper_right:](https://juliabyexample.helpmanual.io/)|
 |48|[@una-dinosauria](https://github.com/una-dinosauria)/[**local-search-quantization**](https://github.com/una-dinosauria/local-search-quantization)|State-of-the-art method for large-scale ANN search as of Oct 2016. Presented at ECCV 16.||
 |24|[@jiahao](https://github.com/jiahao)/[**GSL.jl**](https://github.com/jiahao/GSL.jl)|Julia interface to the GNU Scientific Library (GSL)||
 |20|[@eschnett](https://github.com/eschnett)/[**SIMD.jl**](https://github.com/eschnett/SIMD.jl)|Explicit SIMD vector operations for Julia||
@@ -15,6 +15,7 @@
 |4|[@eschnett](https://github.com/eschnett)/[**FastArrays.jl**](https://github.com/eschnett/FastArrays.jl)|Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed at compile time.|[:arrow_upper_right:](http://eschnett.github.io/FastArrays.jl/)|
 |3|[@eschnett](https://github.com/eschnett)/[**ValueSymbols.jl**](https://github.com/eschnett/ValueSymbols.jl)|Provide a pointerfree wrapper for Julia Symbols||
 |3|[@eschnett](https://github.com/eschnett)/[**Vecmathlib.jl**](https://github.com/eschnett/Vecmathlib.jl)|Vectorizable elemental math functions for Julia||
+|3|[@jiahao](https://github.com/jiahao)/[**BigFinance.jl**](https://github.com/jiahao/BigFinance.jl)|Analysis of high frequency quantitative data in Julia||
 |3|[@jiahao](https://github.com/jiahao)/[**NetflixPrize.jl**](https://github.com/jiahao/NetflixPrize.jl)|Julia package for handling the Netflix Prize data set of 2006||
 |3|[@tpoisot](https://github.com/tpoisot)/[**Viridis.jl**](https://github.com/tpoisot/Viridis.jl)|Viridis (et al.) palettes for Julia||
 
