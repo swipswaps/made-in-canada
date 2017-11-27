@@ -10,6 +10,6 @@
 |12|[@lemonmade](https://github.com/lemonmade)/[**save-as-PDF**](https://github.com/lemonmade/save-as-PDF)|Automatically saves selected Word and PowerPoint files as PDF.||
 |9|[@lemonmade](https://github.com/lemonmade)/[**mail-complete**](https://github.com/lemonmade/mail-complete)|Automatically complete "Waiting For" OmniFocus tasks from senders of selected Mail.app messages.||
 |7|[@lemonmade](https://github.com/lemonmade)/[**naming**](https://github.com/lemonmade/naming)|Quickly find and replace through OmniFocus item name and notes.||
-|3|[@Cottser](https://github.com/Cottser)/[**chrome-applescripts**](https://github.com/Cottser/chrome-applescripts)|My AppleScripts for Google Chrome||
+|4|[@Cottser](https://github.com/Cottser)/[**chrome-applescripts**](https://github.com/Cottser/chrome-applescripts)|My AppleScripts for Google Chrome||
 |3|[@pketh](https://github.com/pketh)/[**open-in-chocolat**](https://github.com/pketh/open-in-chocolat)|Open files and folders directly in Chocolat from the Finder||
 
