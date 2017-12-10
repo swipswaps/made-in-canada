@@ -6,6 +6,7 @@
 |10|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-IRC-Client**](https://github.com/zoffixznet/perl6-IRC-Client)|Perl 6 module for building IRC (Internet Relay Chat) clients||
 |9|[@supernovus](https://github.com/supernovus)/[**exemel**](https://github.com/supernovus/exemel)|An Object-Oriented XML Library for Perl 6||
 |8|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-WWW**](https://github.com/zoffixznet/perl6-WWW)|No-nonsense simple HTTPS client with JSON decoder||
+|6|[@supernovus](https://github.com/supernovus)/[**perl6-fastcgi**](https://github.com/supernovus/perl6-fastcgi)|FastCGI application library for Perl 6||
 |6|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Color**](https://github.com/zoffixznet/perl6-Color)|Perl 6 module for format conversion and math operations on colours||
 |5|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Twitter**](https://github.com/zoffixznet/perl6-Twitter)|Perl 6 module: Twitter API||
 |4|[@briandfoy](https://github.com/briandfoy)/[**perl6-PrettyDump**](https://github.com/briandfoy/perl6-PrettyDump)|Format a Perl 6 data structure for human inspection||
