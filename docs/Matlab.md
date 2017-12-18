@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
+|36|[@Elyorcv](https://github.com/Elyorcv)/[**SAE**](https://github.com/Elyorcv/SAE)|Semantic Autoencoder for Zero-shot Learning (Spotlight), CVPR 2017|[:arrow_upper_right:](https://elyorcv.github.io/projects/sae)|
 |35|[@bmcfee](https://github.com/bmcfee)/[**mlr**](https://github.com/bmcfee/mlr)|Metric Learning to Rank||
-|33|[@Elyorcv](https://github.com/Elyorcv)/[**SAE**](https://github.com/Elyorcv/SAE)|Semantic Autoencoder for Zero-shot Learning (Spotlight), CVPR 2017|[:arrow_upper_right:](https://elyorcv.github.io/projects/sae)|
 |20|[@PhDP](https://github.com/PhDP)/[**mlbop**](https://github.com/PhDP/mlbop)|Matlab code for S. Theodoridis' "Machine Learning: A Bayesian and Optimization Perspective" (2015).||
 |18|[@MIT-LCP](https://github.com/MIT-LCP)/[**critical-data-book**](https://github.com/MIT-LCP/critical-data-book)|Code repository for the critical data book||
+|16|[@ashafaei](https://github.com/ashafaei)/[**ubc3v**](https://github.com/ashafaei/ubc3v)|The Matlab toolkit for UBC 3 View Dataset.|[:arrow_upper_right:](http://www.cs.ubc.ca/~shafaei/homepage/projects/crv16.php)|
 |16|[@rayryeng](https://github.com/rayryeng)/[**equi2cubic**](https://github.com/rayryeng/equi2cubic)|MATLAB script that converts equirectangular images into six cube faces||
-|14|[@ashafaei](https://github.com/ashafaei)/[**ubc3v**](https://github.com/ashafaei/ubc3v)|The Matlab toolkit for UBC 3 View Dataset.|[:arrow_upper_right:](http://www.cs.ubc.ca/~shafaei/homepage/projects/crv16.php)|
 |11|[@dengwirda](https://github.com/dengwirda)/[**mesh2d**](https://github.com/dengwirda/mesh2d)|MESH2D is a MATLAB-based Delaunay mesh generator for two-dimensional geometries.||
 |11|[@sunghbae](https://github.com/sunghbae)/[**dcgan-matconvnet**](https://github.com/sunghbae/dcgan-matconvnet)|Deep Convolutional Generative Adversarial Network (DCGAN) implementation on MatConvNet (compliant to any MCN version)||
 |10|[@terryum](https://github.com/terryum)/[**Athletic_Movement_Detection**](https://github.com/terryum/Athletic_Movement_Detection)|The source codes for the paper, "An unsupervised approach to detecting and isolating athletic movements", EMBC2016||
@@ -19,4 +19,5 @@
 |5|[@ustunb](https://github.com/ustunb)/[**slim-matlab**](https://github.com/ustunb/slim-matlab)|Optimized scoring systems for classification problems in MATLAB||
 |4|[@MIT-LCP](https://github.com/MIT-LCP)/[**PhysioNetChallengePublic**](https://github.com/MIT-LCP/PhysioNetChallengePublic)|Public Software for the PhysioNet/CinC Challenge Series||
 |4|[@dengwirda](https://github.com/dengwirda)/[**aabb-tree**](https://github.com/dengwirda/aabb-tree)|A d-dimensional aabb-tree implementation for MATLAB.||
+|3|[@compsust](https://github.com/compsust)/[**ALIP_NILM**](https://github.com/compsust/ALIP_NILM)|An aided linear integer programming (ALIP) non-intrusive load monitoring (NILM) algorithm.||
 

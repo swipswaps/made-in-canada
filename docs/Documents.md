@@ -1,44 +1,46 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|5704|[@alexpate](https://github.com/alexpate)/[**awesome-design-systems**](https://github.com/alexpate/awesome-design-systems)|💅🏻 ⚒ A collection of awesome design systems||
-|4022|[@AnthonyCalandra](https://github.com/AnthonyCalandra)/[**modern-cpp-features**](https://github.com/AnthonyCalandra/modern-cpp-features)|A cheatsheet of modern C++ language and library features.||
-|3521|[@addyosmani](https://github.com/addyosmani)/[**es6-tools**](https://github.com/addyosmani/es6-tools)|An aggregation of tooling for using ES6 today||
-|2360|[@addyosmani](https://github.com/addyosmani)/[**es6-equivalents-in-es5**](https://github.com/addyosmani/es6-equivalents-in-es5)|WIP - ES6 Equivalents In ES5||
+|5731|[@alexpate](https://github.com/alexpate)/[**awesome-design-systems**](https://github.com/alexpate/awesome-design-systems)|💅🏻 ⚒ A collection of awesome design systems||
+|4066|[@AnthonyCalandra](https://github.com/AnthonyCalandra)/[**modern-cpp-features**](https://github.com/AnthonyCalandra/modern-cpp-features)|A cheatsheet of modern C++ language and library features.||
+|3525|[@addyosmani](https://github.com/addyosmani)/[**es6-tools**](https://github.com/addyosmani/es6-tools)|An aggregation of tooling for using ES6 today||
+|2364|[@addyosmani](https://github.com/addyosmani)/[**es6-equivalents-in-es5**](https://github.com/addyosmani/es6-equivalents-in-es5)|WIP - ES6 Equivalents In ES5||
 |1756|[@thedaviddias](https://github.com/thedaviddias)/[**Resources-Front-End-Beginner**](https://github.com/thedaviddias/Resources-Front-End-Beginner)|💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)||
-|1634|[@RyanNielson](https://github.com/RyanNielson)/[**awesome-unity**](https://github.com/RyanNielson/awesome-unity)|A curated list of awesome Unity assets, resources, and more.||
+|1649|[@RyanNielson](https://github.com/RyanNielson)/[**awesome-unity**](https://github.com/RyanNielson/awesome-unity)|A curated list of awesome Unity assets, resources, and more.||
 |1522|[@willfarrell](https://github.com/willfarrell)/[**alfred-workflows**](https://github.com/willfarrell/alfred-workflows)|Alfred Workflows for Developers||
-|1489|[@HappenApps](https://github.com/HappenApps)/[**Quiver**](https://github.com/HappenApps/Quiver)|Quiver documentation and issue tracker||
+|1497|[@HappenApps](https://github.com/HappenApps)/[**Quiver**](https://github.com/HappenApps/Quiver)|Quiver documentation and issue tracker||
 |1370|[@impressivewebs](https://github.com/impressivewebs)/[**HTML9-Responsive-Boilerstrap-js**](https://github.com/impressivewebs/HTML9-Responsive-Boilerstrap-js)|HTML9 Responsive Boilerstrap JS||
-|912|[@addyosmani](https://github.com/addyosmani)/[**critical-path-css-tools**](https://github.com/addyosmani/critical-path-css-tools)|Tools to prioritize above-the-fold (critical-path) CSS||
+|916|[@addyosmani](https://github.com/addyosmani)/[**critical-path-css-tools**](https://github.com/addyosmani/critical-path-css-tools)|Tools to prioritize above-the-fold (critical-path) CSS||
 |860|[@nvk](https://github.com/nvk)/[**sketch-ios**](https://github.com/nvk/sketch-ios)|iOS Sketch.app Templates||
 |850|[@impressivewebs](https://github.com/impressivewebs)/[**frontend-feeds**](https://github.com/impressivewebs/frontend-feeds)|An up to date list of RSS feeds for front-end developers.||
 |801|[@websemantics](https://github.com/websemantics)/[**awesome-ant-design**](https://github.com/websemantics/awesome-ant-design)|A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date|[:arrow_upper_right:](http://ant.design/)|
 |750|[@raganwald](https://github.com/raganwald)/[**presentations**](https://github.com/raganwald/presentations)|Conference Talks and Proposals||
-|746|[@500px](https://github.com/500px)/[**api-documentation**](https://github.com/500px/api-documentation)|This is the 500px API documentation. ||
+|748|[@500px](https://github.com/500px)/[**api-documentation**](https://github.com/500px/api-documentation)|This is the 500px API documentation. ||
 |687|[@guillaume-chevalier](https://github.com/guillaume-chevalier)/[**Awesome-Deep-Learning-Resources**](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)|Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully.||
 |680|[@tvaneerd](https://github.com/tvaneerd)/[**cpp17_in_TTs**](https://github.com/tvaneerd/cpp17_in_TTs)|Descriptions of C++17 features, presented mostly in "Tony Tables" (hey, the name wasn't my idea)||
 |605|[@lukechesser](https://github.com/lukechesser)/[**Popular-UIs**](https://github.com/lukechesser/Popular-UIs)|PSDs of Popular Web UIs reproduced for educational purposes.|[:arrow_upper_right:](http://lukechesser.github.io/Popular-UIs/)|
 |479|[@ESWAT](https://github.com/ESWAT)/[**john-carmack-plan-archive**](https://github.com/ESWAT/john-carmack-plan-archive)|Collection of John Carmack’s .plan files.||
-|381|[@biojs](https://github.com/biojs)/[**biojs**](https://github.com/biojs/biojs)|A library of JavaScript components to represent biological data||
+|382|[@biojs](https://github.com/biojs)/[**biojs**](https://github.com/biojs/biojs)|A library of JavaScript components to represent biological data||
 |324|[@yogthos](https://github.com/yogthos)/[**clojure-error-message-catalog**](https://github.com/yogthos/clojure-error-message-catalog)|a catalog of common Clojure errors and their meaning||
 |321|[@phillipadsmith](https://github.com/phillipadsmith)/[**awesome-github**](https://github.com/phillipadsmith/awesome-github)|A curated list of GitHub's awesomeness||
 |246|[@yvoyer](https://github.com/yvoyer)/[**phpspec-cheat-sheet**](https://github.com/yvoyer/phpspec-cheat-sheet)|A cheat sheet for phpspec||
 |240|[@jimpick](https://github.com/jimpick)/[**twitterfon**](https://github.com/jimpick/twitterfon)|git-svn mirror of upstream TwitterFon|[:arrow_upper_right:](http://naan.net/svn/trunk/TwitterFon/)|
 |218|[@willfarrell](https://github.com/willfarrell)/[**alfred-dash-workflow**](https://github.com/willfarrell/alfred-dash-workflow)|[Depreciated] Documentation Lookup||
 |213|[@addyosmani](https://github.com/addyosmani)/[**sublime-build-systems**](https://github.com/addyosmani/sublime-build-systems)|Sublime Text build systems||
+|210|[@abhineet123](https://github.com/abhineet123)/[**Deep-Learning-for-Tracking-and-Detection**](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)|Collection of papers and other resources for object tracking and detection using deep learning||
 |202|[@surrealroad](https://github.com/surrealroad)/[**alfred-reminders**](https://github.com/surrealroad/alfred-reminders)|Manages reminders in Reminders.app||
-|201|[@abhineet123](https://github.com/abhineet123)/[**Deep-Learning-for-Tracking-and-Detection**](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)|Collection of papers and other resources for object tracking and detection using deep learning||
 |196|[@jlord](https://github.com/jlord)/[**hello-world**](https://github.com/jlord/hello-world)|:wave: :earth_africa: This is an idea||
 |186|[@addyosmani](https://github.com/addyosmani)/[**storage-on-the-web**](https://github.com/addyosmani/storage-on-the-web)|🗃 Comparing storage options for the open web in 2016||
 |186|[@mrmrs](https://github.com/mrmrs)/[**awesome-system-fonts**](https://github.com/mrmrs/awesome-system-fonts)|An awesome list of websites that use system fonts||
 |184|[@mrmrs](https://github.com/mrmrs)/[**styleguide-checklist**](https://github.com/mrmrs/styleguide-checklist)|||
 |180|[@expede](https://github.com/expede)/[**awesome-relay**](https://github.com/expede/awesome-relay)|Awesome resources for Relay||
 |175|[@splorp](https://github.com/splorp)/[**wordpress-comment-blacklist**](https://github.com/splorp/wordpress-comment-blacklist)|A simple solution for WordPress comment spam.||
+|173|[@byrichardpowell](https://github.com/byrichardpowell)/[**CSS-Style**](https://github.com/byrichardpowell/CSS-Style)|How to write CSS that scales||
 |167|[@forhappy](https://github.com/forhappy)/[**awesome-lua**](https://github.com/forhappy/awesome-lua)|A curated list of awesome Lua frameworks, libraries and software.||
+|166|[@dgryski](https://github.com/dgryski)/[**go-perfbook**](https://github.com/dgryski/go-perfbook)|Thoughts on Go performance optimization||
 |164|[@brentvatne](https://github.com/brentvatne)/[**hard-react-native-problems**](https://github.com/brentvatne/hard-react-native-problems)|I don't pay attention this, you may be more interested in https://github.com/lelandrichardson/react-native-future||
 |160|[@lyst](https://github.com/lyst)/[**MakingLyst**](https://github.com/lyst/MakingLyst)|A peek into the tech and design at Lyst|[:arrow_upper_right:](https://making.lyst.com/)|
 |157|[@websemantics](https://github.com/websemantics)/[**awesome-semantic-ui**](https://github.com/websemantics/awesome-semantic-ui)|A curated list of Semantic-UI resources and related projects|[:arrow_upper_right:](http://semantic-ui.com)|
-|137|[@brandonwamboldt](https://github.com/brandonwamboldt)/[**sublime-nginx**](https://github.com/brandonwamboldt/sublime-nginx)|Improved syntax support for Nginx configuration files||
+|138|[@brandonwamboldt](https://github.com/brandonwamboldt)/[**sublime-nginx**](https://github.com/brandonwamboldt/sublime-nginx)|Improved syntax support for Nginx configuration files||
 |134|[@myusuf3](https://github.com/myusuf3)/[**rainman**](https://github.com/myusuf3/rainman)|tool for better understanding other people's code and letting others understand yours.||
 |132|[@rkrx](https://github.com/rkrx)/[**php-contracts**](https://github.com/rkrx/php-contracts)|A curated list of mature interfaces to build components on||
 |114|[@fnando](https://github.com/fnando)/[**uptime_checker**](https://github.com/fnando/uptime_checker)|Check if your sites are online for $7/mo.||
@@ -50,6 +52,7 @@
 |86|[@nvk](https://github.com/nvk)/[**sketch-web**](https://github.com/nvk/sketch-web)|Web UIs||
 |83|[@tj](https://github.com/tj)/[**make-lint**](https://github.com/tj/make-lint)|lint makefile target with sane defaults using eslint||
 |81|[@aarongough](https://github.com/aarongough)/[**koi**](https://github.com/aarongough/koi)|A small programming language designed to teach the basics of language implementation.||
+|80|[@dgryski](https://github.com/dgryski)/[**interesting-papers**](https://github.com/dgryski/interesting-papers)|Interesting papers I'd like to implement (or at least have implementations of)||
 |78|[@addyosmani](https://github.com/addyosmani)/[**x-imager**](https://github.com/addyosmani/x-imager)|Responsive images using Imager.js and Polymer||
 |76|[@jiahao](https://github.com/jiahao)/[**backus-dijkstra-letters-1979**](https://github.com/jiahao/backus-dijkstra-letters-1979)|Images and text transcripts of the correspondence between John Backus and Edsger Dijkstra, 1978-1979. Ref: https://medium.com/@acidflask/this-guys-arrogance-takes-your-breath-away-5b903624ca5f#.j6x6ppjc8 https://news.ycombinator.com/item?id=11796557||
 |74|[@jennybc](https://github.com/jennybc)/[**here_here**](https://github.com/jennybc/here_here)|I love the here package. Here's why.||
@@ -73,7 +76,7 @@
 |45|[@mrmrs](https://github.com/mrmrs)/[**component-api-talk**](https://github.com/mrmrs/component-api-talk)|First draft of a talk I gave recently that I'm trying to turn into a blog post|[:arrow_upper_right:](https://examples-jchwaftrgo.now.sh/)|
 |44|[@coolacid](https://github.com/coolacid)/[**GettingStartedWithELK**](https://github.com/coolacid/GettingStartedWithELK)|Getting Started with ELK||
 |44|[@popnfresh234](https://github.com/popnfresh234)/[**udacity_android_resources**](https://github.com/popnfresh234/udacity_android_resources)|||
-|42|[@AndreLouisCaron](https://github.com/AndreLouisCaron)/[**a-tale-of-event-loops**](https://github.com/AndreLouisCaron/a-tale-of-event-loops)|Notes describing my understanding of how modern Python event loops work||
+|43|[@AndreLouisCaron](https://github.com/AndreLouisCaron)/[**a-tale-of-event-loops**](https://github.com/AndreLouisCaron/a-tale-of-event-loops)|Notes describing my understanding of how modern Python event loops work||
 |42|[@gf3](https://github.com/gf3)/[**haml.mode**](https://github.com/gf3/haml.mode)|HAML syntax definition for Coda & SubEthaEdit||
 |42|[@johnboxall](https://github.com/johnboxall)/[**django_webhooks**](https://github.com/johnboxall/django_webhooks)|Django WebHooks makes it easy to integrate WebHooks into your Django Project.||
 |41|[@Jonesy](https://github.com/Jonesy)/[**Safari-Clone**](https://github.com/Jonesy/Safari-Clone)|A clone of the Safari Mac browser made entirely of CSS.|[:arrow_upper_right:](http://general-metrics.com/Safari)|
@@ -81,12 +84,13 @@
 |41|[@addyosmani](https://github.com/addyosmani)/[**backbone-aura**](https://github.com/addyosmani/backbone-aura)|Backbone Aura||
 |41|[@jescalan](https://github.com/jescalan)/[**gps**](https://github.com/jescalan/gps)|:car: A reasonable way to write css||
 |41|[@redhat-cip](https://github.com/redhat-cip)/[**software-factory**](https://github.com/redhat-cip/software-factory)|The ready to use Continuous Integration platform|[:arrow_upper_right:](http://softwarefactory-project.io)|
+|40|[@davidmurray](https://github.com/davidmurray)/[**Sublime-Logos**](https://github.com/davidmurray/Sublime-Logos)|Logos syntax highlighter for Sublime Text.||
 |39|[@Cykey](https://github.com/Cykey)/[**Sublime-Logos**](https://github.com/Cykey/Sublime-Logos)|Logos syntax highlighter for Sublime Text.||
 |39|[@bbc](https://github.com/bbc)/[**notes-on-perf-testing**](https://github.com/bbc/notes-on-perf-testing)|An open-source book on system performance testing||
 |39|[@derekallard](https://github.com/derekallard)/[**LESSCSS-Vendor-Prefixes**](https://github.com/derekallard/LESSCSS-Vendor-Prefixes)|LESSCSS mixins file of vendor prefixes for CSS3||
 |39|[@rileyjshaw](https://github.com/rileyjshaw)/[**git-cheatsheet**](https://github.com/rileyjshaw/git-cheatsheet)|:bookmark_tabs: Just some simple recipes||
+|38|[@DeBraid](https://github.com/DeBraid)/[**medicine**](https://github.com/DeBraid/medicine)|Guide to healthy living with plant-based diet.||
 |38|[@jonathansick](https://github.com/jonathansick)/[**awesome-astronomy**](https://github.com/jonathansick/awesome-astronomy)|A list of awesome astronomy projects||
-|37|[@DeBraid](https://github.com/DeBraid)/[**medicine**](https://github.com/DeBraid/medicine)|||
 |37|[@adrianmcli](https://github.com/adrianmcli)/[**omg-counters**](https://github.com/adrianmcli/omg-counters)|😍 Increment decrement counters using various frontend frameworks.||
 |37|[@jennybc](https://github.com/jennybc)/[**2015-06-28_r-summit-talk**](https://github.com/jennybc/2015-06-28_r-summit-talk)|Talk at R Summit and Workshop about using R Markdown and GitHub in your workflow||
 |36|[@eliotsykes](https://github.com/eliotsykes)/[**monitorstxt**](https://github.com/eliotsykes/monitorstxt)|monitors.txt - lazy web app monitoring, see http://monitorstxt.org and http://monitorstxt.org/monitors.txt||
@@ -151,15 +155,16 @@
 |20|[@seananderson](https://github.com/seananderson)/[**bst**](https://github.com/seananderson/bst)|BibTeX style files for ecology journals||
 |20|[@ustwo](https://github.com/ustwo)/[**objective-c-style-guide**](https://github.com/ustwo/objective-c-style-guide)|The ustwo Objective-C style guide||
 |19|[@ChrisAdderley](https://github.com/ChrisAdderley)/[**CommunityTechTree**](https://github.com/ChrisAdderley/CommunityTechTree)|Community tech tree for KSP||
+|19|[@EQuimper](https://github.com/EQuimper)/[**VSC-React-Native-React-Redux-Snippets**](https://github.com/EQuimper/VSC-React-Native-React-Redux-Snippets)|Snippets for React and React-Native with a bit of Redux for es6/es7 user.|[:arrow_upper_right:](https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux)|
 |19|[@adam-p](https://github.com/adam-p)/[**s3-file-list-page**](https://github.com/adam-p/s3-file-list-page)|List files in directories of S3-hosted websites||
+|19|[@bojand](https://github.com/bojand)/[**awesome-grpc**](https://github.com/bojand/awesome-grpc)|A curated list of useful resources for gRPC||
 |19|[@iurimatias](https://github.com/iurimatias)/[**etherquake**](https://github.com/iurimatias/etherquake)|Implementation of Quake 3 rendering engine in the Ethereum blockchain||
 |19|[@jennybc](https://github.com/jennybc)/[**sanesheets**](https://github.com/jennybc/sanesheets)|A rant about spreadsheets.||
 |19|[@ontario-digital](https://github.com/ontario-digital)/[**Digital-Service-Standard**](https://github.com/ontario-digital/Digital-Service-Standard)|||
 |19|[@underscorediscovery](https://github.com/underscorediscovery)/[**db-pico**](https://github.com/underscorediscovery/db-pico)|db-pico \| a cartridge for pico-8||
 |18|[@DenisCarriere](https://github.com/DenisCarriere)/[**postgis**](https://github.com/DenisCarriere/postgis)|:book: PostGIS - Geo Cookbook||
-|18|[@EQuimper](https://github.com/EQuimper)/[**VSC-React-Native-React-Redux-Snippets**](https://github.com/EQuimper/VSC-React-Native-React-Redux-Snippets)|Snippets for React and React-Native with a bit of Redux for es6/es7 user.|[:arrow_upper_right:](https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux)|
+|18|[@MySportsFeeds](https://github.com/MySportsFeeds)/[**mysportsfeeds-api**](https://github.com/MySportsFeeds/mysportsfeeds-api)|Feature requests for the MySportsFeeds Sports Data API.||
 |18|[@biojs](https://github.com/biojs)/[**biojs3**](https://github.com/biojs/biojs3)|Draft of BioJS 3: Web components||
-|18|[@bojand](https://github.com/bojand)/[**awesome-grpc**](https://github.com/bojand/awesome-grpc)|A curated list of useful resources for gRPC||
 |18|[@davidbgk](https://github.com/davidbgk)/[**open-source-template**](https://github.com/davidbgk/open-source-template)|A README template to encourage open-source contributions||
 |18|[@jimeh](https://github.com/jimeh)/[**common-flow**](https://github.com/jimeh/common-flow)|An attempt to gather a sensible selection of the most common usage patterns of git into a single and concise specification.|[:arrow_upper_right:](https://commonflow.org/)|
 |18|[@kashike](https://github.com/kashike)/[**migration**](https://github.com/kashike/migration)|||
@@ -169,7 +174,6 @@
 |18|[@ujihisa](https://github.com/ujihisa)/[**vimkaigi2010**](https://github.com/ujihisa/vimkaigi2010)|Watch it. You'll be a committer soon later.||
 |18|[@vgturtle127](https://github.com/vgturtle127)/[**N64-PD-ROMS**](https://github.com/vgturtle127/N64-PD-ROMS)|A repository of public domain ROMs for the Nintendo 64||
 |18|[@wrender](https://github.com/wrender)/[**docker-compose-lamp**](https://github.com/wrender/docker-compose-lamp)|A simple set of dockers for running a local Drupal or WordPress LAMP||
-|17|[@MySportsFeeds](https://github.com/MySportsFeeds)/[**mysportsfeeds-api**](https://github.com/MySportsFeeds/mysportsfeeds-api)|Feature requests for the MySportsFeeds Sports Data API.||
 |17|[@aretecode](https://github.com/aretecode)/[**emoji-commits**](https://github.com/aretecode/emoji-commits)|a more extensive general rule of thumb helpful emoji list for commit messages helpful for copy pasting & searching||
 |17|[@dansmith65](https://github.com/dansmith65)/[**FileMaker-JSON-Functions**](https://github.com/dansmith65/FileMaker-JSON-Functions)|A set of recursive FileMaker custom functions that can create and read JSON.||
 |17|[@dashed](https://github.com/dashed)/[**javascript-seed-project**](https://github.com/dashed/javascript-seed-project)|Seed project for JavaScript based apps. Just clone and code.||
@@ -179,6 +183,7 @@
 |17|[@snwh](https://github.com/snwh)/[**ubuntu-mobile-icons**](https://github.com/snwh/ubuntu-mobile-icons)|These are Ubuntu mobile app icons, not: |[:arrow_upper_right:](https://github.com/snwh/suru-icon-theme)|
 |16|[@AndrewHazelden](https://github.com/AndrewHazelden)/[**More-TextWrangler-and-BBEdit-Color-Schemes**](https://github.com/AndrewHazelden/More-TextWrangler-and-BBEdit-Color-Schemes)|This is Andrew Hazelden's Collection of TextWrangler and BBEdit Color Schemes||
 |16|[@CaptainCodeman](https://github.com/CaptainCodeman)/[**mongo-aws-vpc**](https://github.com/CaptainCodeman/mongo-aws-vpc)|Cloud Formation templates for AWS Virtual Private Cloud with MongoDB||
+|16|[@Krutonium](https://github.com/Krutonium)/[**OpenRCT2-OpenScenarios**](https://github.com/Krutonium/OpenRCT2-OpenScenarios)|Replacement Scenarios for OpenRCT2||
 |16|[@addyosmani](https://github.com/addyosmani)/[**aura**](https://github.com/addyosmani/aura)|A scalable, event-driven JavaScript architecture for developing widget-based applications. Works with Backbone.js and other frameworks.||
 |16|[@aminb](https://github.com/aminb)/[**rust-for-c**](https://github.com/aminb/rust-for-c)|"Rust for C++ Programmers" GitBook|[:arrow_upper_right:](https://www.gitbook.com/book/aminb/rust-for-c)|
 |16|[@jennybc](https://github.com/jennybc)/[**operation-chromebook**](https://github.com/jennybc/operation-chromebook)|Setup notes for the Bryan family Chromebooks||
@@ -194,6 +199,7 @@
 |15|[@wycks](https://github.com/wycks)/[**SublimeText-WordPress-Autocomplete**](https://github.com/wycks/SublimeText-WordPress-Autocomplete)|This adds autocomplete for WordPress functions, hooks and constants for Sublime Text 2||
 |15|[@yogthos](https://github.com/yogthos)/[**cheatsheets**](https://github.com/yogthos/cheatsheets)|||
 |14|[@DeBraid](https://github.com/DeBraid)/[**tech-notes**](https://github.com/DeBraid/tech-notes)|Collection of Blogs, Links and Papers on Tech||
+|14|[@KleinYuan](https://github.com/KleinYuan)/[**caffe2-yolo**](https://github.com/KleinYuan/caffe2-yolo)|Bridging caffe2 with yolo, esp on mobile devices||
 |14|[@Pomax](https://github.com/Pomax)/[**photoshop-paths-to-SVG**](https://github.com/Pomax/photoshop-paths-to-SVG)|This is a photoshop "jsx" script that turns all paths in the active document into a single SVG file for use in something else.||
 |14|[@alfredxing](https://github.com/alfredxing)/[**one**](https://github.com/alfredxing/one)|One Light Atom theme, ported to Sublime Text||
 |14|[@bartman](https://github.com/bartman)/[**dot-files**](https://github.com/bartman/dot-files)|track dot-files in $HOME/etc directory||
@@ -258,6 +264,7 @@
 |10|[@alway5dotcom](https://github.com/alway5dotcom)/[**ParseAlternativesServices**](https://github.com/alway5dotcom/ParseAlternativesServices)|Parse Alternative back-end services for developer|[:arrow_upper_right:](http://mhuy.xyz)|
 |10|[@bbc](https://github.com/bbc)/[**device-discovery-pairing**](https://github.com/bbc/device-discovery-pairing)|Analysis and background research on discovery and pairing for the MediaScape project||
 |10|[@bbc](https://github.com/bbc)/[**hive-ci**](https://github.com/bbc/hive-ci)|Scalable device-based automation|[:arrow_upper_right:](http://bbc.github.io/hive-ci)|
+|10|[@codyd51](https://github.com/codyd51)/[**Velox-API**](https://github.com/codyd51/Velox-API)|API for third party Velox extensions||
 |10|[@darron](https://github.com/darron)/[**language-chef**](https://github.com/darron/language-chef)|Chef support for Atom.||
 |10|[@iH8sn0w](https://github.com/iH8sn0w)/[**AutoSHSH**](https://github.com/iH8sn0w/AutoSHSH)|A GUI to umbrella that automatically extracts the ECID from Recovery Mode and fetches SHSH blobs.|[:arrow_upper_right:](http://ih8sn0w.com)|
 |10|[@iamamused](https://github.com/iamamused)/[**github-wiki-print**](https://github.com/iamamused/github-wiki-print)|Browser extension to make GitHub wiki pages printable.|[:arrow_upper_right:](http://jeffreysambells,com)|
@@ -274,12 +281,14 @@
 |10|[@yoanisgil](https://github.com/yoanisgil)/[**docker-elasticsearch-cluster**](https://github.com/yoanisgil/docker-elasticsearch-cluster)|||
 |9|[@ChrisAdderley](https://github.com/ChrisAdderley)/[**StationPartsExpansion**](https://github.com/ChrisAdderley/StationPartsExpansion)|||
 |9|[@ChrisCates](https://github.com/ChrisCates)/[**general.notes**](https://github.com/ChrisCates/general.notes)|General Notes for Beginner Programmers to get started.||
+|9|[@CopperheadOS](https://github.com/CopperheadOS)/[**chromium_patches**](https://github.com/CopperheadOS/chromium_patches)|||
 |9|[@addyosmani](https://github.com/addyosmani)/[**yo-offline**](https://github.com/addyosmani/yo-offline)|An installer pack for Yeoman and our dependencies. For use at workshops.||
 |9|[@alexcp](https://github.com/alexcp)/[**csgo-training-config**](https://github.com/alexcp/csgo-training-config)|Config to train your entry-fragging on most csgo maps||
 |9|[@arafalov](https://github.com/arafalov)/[**Javadoc-IFramed**](https://github.com/arafalov/Javadoc-IFramed)|Using Java 8 JavaDoc and generate more SEO-ready JavaDocs for small-medium projects||
 |9|[@atgreen](https://github.com/atgreen)/[**idm-satellite-openshift-demo**](https://github.com/atgreen/idm-satellite-openshift-demo)|Notes on installing and configuring an OpenShift Container Platform in a disconnected environment with IdM and Satellite 6||
 |9|[@danielharan](https://github.com/danielharan)/[**canadian-postal-code-to-electoral-districts**](https://github.com/danielharan/canadian-postal-code-to-electoral-districts)|||
 |9|[@diogob](https://github.com/diogob)/[**git-tutorial**](https://github.com/diogob/git-tutorial)|Dummy project to work with git||
+|9|[@errordeveloper](https://github.com/errordeveloper)/[**prom-nodejs-demo**](https://github.com/errordeveloper/prom-nodejs-demo)|A Practical guide to Prometheus & Kubernetes for JavaScript Developers||
 |9|[@feeley](https://github.com/feeley)/[**gambit-in-emacs-in-the-browser**](https://github.com/feeley/gambit-in-emacs-in-the-browser)|Gambit Scheme interpreter running in emacs in the browser||
 |9|[@ferd](https://github.com/ferd)/[**my-finger**](https://github.com/ferd/my-finger)|Just waiting for pull requests||
 |9|[@flekschas](https://github.com/flekschas)/[**simple-world-map**](https://github.com/flekschas/simple-world-map)|A simple SVG world map using ISO 3166-1 annotations||
@@ -305,7 +314,6 @@
 |9|[@williamjturkel](https://github.com/williamjturkel)/[**Mathematica**](https://github.com/williamjturkel/Mathematica)|Mathematica Notebooks|[:arrow_upper_right:](http://williamjturkel.net/category/mathematica)|
 |9|[@williamjturkel](https://github.com/williamjturkel)/[**Max6**](https://github.com/williamjturkel/Max6)|Max 6 (plus MSP, Jitter and Gen) patches|[:arrow_upper_right:](http://williamjturkel.net/code/#max)|
 |8|[@ChrisAdderley](https://github.com/ChrisAdderley)/[**NearFutureSpacecraft**](https://github.com/ChrisAdderley/NearFutureSpacecraft)|Spacecraft Parts for Kerbal Space Program||
-|8|[@CopperheadOS](https://github.com/CopperheadOS)/[**chromium_patches**](https://github.com/CopperheadOS/chromium_patches)|||
 |8|[@Deon](https://github.com/Deon)/[**CourseNotes**](https://github.com/Deon/CourseNotes)|Course notes for UW Software Engineering.||
 |8|[@FortAwesome](https://github.com/FortAwesome)/[**phoenix-app**](https://github.com/FortAwesome/phoenix-app)|Base Docker container for our Phoenix framework-based apps||
 |8|[@OnionIoT](https://github.com/OnionIoT)/[**Fritzing-Models**](https://github.com/OnionIoT/Fritzing-Models)|Fritzing models for Onion hardware||
@@ -314,7 +322,7 @@
 |8|[@cviebrock](https://github.com/cviebrock)/[**php-qrencode**](https://github.com/cviebrock/php-qrencode)|PHP qrencode extension, using libqrencode||
 |8|[@dav-m85](https://github.com/dav-m85)/[**confoo-mtl-2017-decks**](https://github.com/dav-m85/confoo-mtl-2017-decks)|List all speaker decks from ConFoo MTL 2017||
 |8|[@dcaoyuan](https://github.com/dcaoyuan)/[**mblogs**](https://github.com/dcaoyuan/mblogs)|||
-|8|[@errordeveloper](https://github.com/errordeveloper)/[**prom-nodejs-demo**](https://github.com/errordeveloper/prom-nodejs-demo)|A Practical guide to Prometheus & Kubernetes for JavaScript Developers||
+|8|[@eddyerburgh](https://github.com/eddyerburgh)/[**developer-to-engineer**](https://github.com/eddyerburgh/developer-to-engineer)|👷 A reading list to help transform you from a developer to an engineer||
 |8|[@ghqc](https://github.com/ghqc)/[**readme**](https://github.com/ghqc/readme)|Bot GitHub pour suivre les utilisateurs du Québec|[:arrow_upper_right:](https://github.com/ghqc/readme/blob/master/readme.md)|
 |8|[@jlord](https://github.com/jlord)/[**edu-on-github**](https://github.com/jlord/edu-on-github)|Examples and resources for using GitHub as a tool for educators||
 |8|[@jodastephen](https://github.com/jodastephen)/[**jpms-module-names**](https://github.com/jodastephen/jpms-module-names)|Module names for Java 9 JPMS||
@@ -374,6 +382,7 @@
 |6|[@ChrisAdderley](https://github.com/ChrisAdderley)/[**CryoEngines**](https://github.com/ChrisAdderley/CryoEngines)|Cryogenically fuelled engines for Kerbal Space Program||
 |6|[@DeBraid](https://github.com/DeBraid)/[**bitcoin-notes**](https://github.com/DeBraid/bitcoin-notes)|Collection of posts on core bitcoin concepts and major themes||
 |6|[@JamesKovacs](https://github.com/JamesKovacs)/[**zsh_completions_mongodb**](https://github.com/JamesKovacs/zsh_completions_mongodb)|ZSH completion files for MongoDB||
+|6|[@PresearchOfficial](https://github.com/PresearchOfficial)/[**PRE-Token**](https://github.com/PresearchOfficial/PRE-Token)|Presearch Ethereum Token||
 |6|[@RangerMauve](https://github.com/RangerMauve)/[**PNG2SVG**](https://github.com/RangerMauve/PNG2SVG)|NPM module to convert PNG files to blocky SVG images to be used with retro sprites.||
 |6|[@RangerMauve](https://github.com/RangerMauve)/[**kate-jade-highlighting**](https://github.com/RangerMauve/kate-jade-highlighting)|Gives the Kate editor some basic syntax highlighting for the Pug (formerly jade) templating language.||
 |6|[@Redth](https://github.com/Redth)/[**MonoTouch.ImageGallery**](https://github.com/Redth/MonoTouch.ImageGallery)|Image Gallery View Controller||
@@ -422,8 +431,11 @@
 |6|[@vazquez](https://github.com/vazquez)/[**goals**](https://github.com/vazquez/goals)|This repo contains my goals so I can track their progress better.||
 |6|[@wbuchwalter](https://github.com/wbuchwalter)/[**ethereum-kubernetes-cluster**](https://github.com/wbuchwalter/ethereum-kubernetes-cluster)|Spin up an Ethereum network on Kubernetes||
 |6|[@wrender](https://github.com/wrender)/[**centos-docker-lamp**](https://github.com/wrender/centos-docker-lamp)|A CentOS 7 Docker LAMP suitable for local development.||
+|5|[@32teeth](https://github.com/32teeth)/[**GameBoyDuinoPocket**](https://github.com/32teeth/GameBoyDuinoPocket)|Arduino Based GameBoy Pocket PCB, SCH and LAyout||
 |5|[@AppleBetas](https://github.com/AppleBetas)/[**Terminal**](https://github.com/AppleBetas/Terminal)|My macOS Terminal theme||
 |5|[@ChrisAdderley](https://github.com/ChrisAdderley)/[**KerbalAtomics**](https://github.com/ChrisAdderley/KerbalAtomics)|Nuclear propulsion systems for Kerbal Space Program||
+|5|[@KleinYuan](https://github.com/KleinYuan)/[**tx2-flash**](https://github.com/KleinYuan/tx2-flash)|Guidance to flash JetPack to NVIDIA TX2 with Mac through a VirtualBox (VM)||
+|5|[@Krutonium](https://github.com/Krutonium)/[**UnifL_ADB_USB_Project**](https://github.com/Krutonium/UnifL_ADB_USB_Project)|A universal ADB Driver for Android from http://www.leshcatlabs.net/||
 |5|[@Nerdylicious](https://github.com/Nerdylicious)/[**How_To_Fix_Ubuntu_Compatibility_On_Intel_Z97_Build**](https://github.com/Nerdylicious/How_To_Fix_Ubuntu_Compatibility_On_Intel_Z97_Build)|A tutorial on how to fix Ubuntu hardware compatibility issues on an Intel Z97 computer build.||
 |5|[@PFCKrutonium](https://github.com/PFCKrutonium)/[**UnifL_ADB_USB_Project**](https://github.com/PFCKrutonium/UnifL_ADB_USB_Project)|A universal ADB Driver for Android from http://www.leshcatlabs.net/||
 |5|[@Pathoschild](https://github.com/Pathoschild)/[**Stardew.ModBuildConfig**](https://github.com/Pathoschild/Stardew.ModBuildConfig)|MSBuild configuration for a crossplatform Stardew Valley mod using SMAPI.||
@@ -448,7 +460,9 @@
 |5|[@cjcliffe](https://github.com/cjcliffe)/[**CubicVR.js-LandscapeEditor**](https://github.com/cjcliffe/CubicVR.js-LandscapeEditor)|Editor and importer of CubicVR.js compatible landscape objects||
 |5|[@cjcliffe](https://github.com/cjcliffe)/[**FOTN**](https://github.com/cjcliffe/FOTN)|Flight Of The Navigator|[:arrow_upper_right:](https://demos.mozilla.org/)|
 |5|[@clothbot](https://github.com/clothbot)/[**OSHW**](https://github.com/clothbot/OSHW)|Open Source Hardware||
+|5|[@commongroundnl](https://github.com/commongroundnl)/[**projectideas**](https://github.com/commongroundnl/projectideas)|List of project ideas for group coding at Common Ground Coworking ||
 |5|[@dansmith65](https://github.com/dansmith65)/[**FileMaker-Notepad-plus-plus**](https://github.com/dansmith65/FileMaker-Notepad-plus-plus)|FileMaker calculation syntax highlighting for Notpad++||
+|5|[@developit](https://github.com/developit)/[**backers**](https://github.com/developit/backers)|❤️ The people and companies who make this possible.|[:arrow_upper_right:](https://www.patreon.com/developit)|
 |5|[@developit](https://github.com/developit)/[**esbench**](https://github.com/developit/esbench)|ESBench Feedback (future public repo)|[:arrow_upper_right:](http://esbench.com)|
 |5|[@dsixda](https://github.com/dsixda)/[**PSP-Memory-Game**](https://github.com/dsixda/PSP-Memory-Game)|The first memory card game written for the PSP, originally released in 2005.  Written in Lua and works on custom firmwares.|[:arrow_upper_right:](http://www.qj.net/psp/homebrew-games/psp-memory-game-11-now-running-on-slims.html)|
 |5|[@gtranchedone](https://github.com/gtranchedone)/[**XcodeThemes**](https://github.com/gtranchedone/XcodeThemes)|Custom Fonts & Colors palette for Xcode's editor.||
@@ -499,16 +513,18 @@
 |5|[@varju](https://github.com/varju)/[**RemindMeLater**](https://github.com/varju/RemindMeLater)|iOS tweak that adds a snooze button to calendar alerts|[:arrow_upper_right:](http://www.varju.ca/alex/apps/remindmelater/)|
 |5|[@websemantics](https://github.com/websemantics)/[**awesome-quantum-computing**](https://github.com/websemantics/awesome-quantum-computing)|A curated list of Quantum Computing resources, articles, programming languages and projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about this mind-boggling subject that we all can keep up-to-date.||
 |5|[@zhuzhuor](https://github.com/zhuzhuor)/[**crx-downloader**](https://github.com/zhuzhuor/crx-downloader)|[DEPRECATED] A simple tool for downloading a Google Chrome extension's crx file without installing the extension first||
-|4|[@32teeth](https://github.com/32teeth)/[**GameBoyDuinoPocket**](https://github.com/32teeth/GameBoyDuinoPocket)|Arduino Based GameBoy Pocket PCB, SCH and LAyout||
+|4|[@AliceYuan](https://github.com/AliceYuan)/[**DroidConDemo**](https://github.com/AliceYuan/DroidConDemo)|Demo App for uk.droidcon.com||
 |4|[@AmrEldib](https://github.com/AmrEldib)/[**DevDiary**](https://github.com/AmrEldib/DevDiary)|Collection of small daily problems and how I solved them||
 |4|[@AndreLouisCaron](https://github.com/AndreLouisCaron)/[**git-archive-all.bat**](https://github.com/AndreLouisCaron/git-archive-all.bat)|Windows version of git-archive-all||
 |4|[@AnthonyCalandra](https://github.com/AnthonyCalandra)/[**modern-c-features**](https://github.com/AnthonyCalandra/modern-c-features)|A cheatsheet of modern C language and library features.||
+|4|[@DecodeMTL](https://github.com/DecodeMTL)/[**job-sites**](https://github.com/DecodeMTL/job-sites)|Top job search sites from around the web.||
 |4|[@Glavin001](https://github.com/Glavin001)/[**node-kickass**](https://github.com/Glavin001/node-kickass)|Query for torrents at Kickass.to with Node.js.|[:arrow_upper_right:](https://www.npmjs.com/package/node-kickass)|
 |4|[@Pistos](https://github.com/Pistos)/[**Rally-Task-Board**](https://github.com/Pistos/Rally-Task-Board)|A fork of the original Rally Task Board, with some new features||
 |4|[@Redth](https://github.com/Redth)/[**ZxingSharp.Mobile**](https://github.com/Redth/ZxingSharp.Mobile)|Renamed to ZXing.Net.Mobile||
 |4|[@ShMcK](https://github.com/ShMcK)/[**modular-redux-style-guide**](https://github.com/ShMcK/modular-redux-style-guide)|A guide to writing Redux applications that can be composed into modules.||
 |4|[@TechRetreat](https://github.com/TechRetreat)/[**learnathon**](https://github.com/TechRetreat/learnathon)|Learnathon lesson plans||
 |4|[@TimFletcher](https://github.com/TimFletcher)/[**django_jquery_formsets**](https://github.com/TimFletcher/django_jquery_formsets)|A jQuery plugin to allow users to dynamically add and remove formset elements in Django||
+|4|[@adgear](https://github.com/adgear)/[**team**](https://github.com/adgear/team)|AdGear Team Profiles||
 |4|[@adrianbj](https://github.com/adrianbj)/[**AutoContent**](https://github.com/adrianbj/AutoContent)|ProcessWire module for automatic generation of content when a field is blank||
 |4|[@adrianbj](https://github.com/adrianbj)/[**DynamicDescriptionNotes**](https://github.com/adrianbj/DynamicDescriptionNotes)|ProcessWire for using PW variables in Description and Note fields.||
 |4|[@ahmadnassri](https://github.com/ahmadnassri)/[**awesome-incubators**](https://github.com/ahmadnassri/awesome-incubators)|A curated list of startup incubators around the globe.||
@@ -525,6 +541,7 @@
 |4|[@berke](https://github.com/berke)/[**redditwatcher**](https://github.com/berke/redditwatcher)|Redditwatcher is an Ocaml program that follows the evolution of the scores of stories appearing on Reddit|[:arrow_upper_right:](http://lambda-diode.com/software/ocaml/redditwatcher)|
 |4|[@breuleux](https://github.com/breuleux)/[**engage**](https://github.com/breuleux/engage)|Incremental build system||
 |4|[@briandfoy](https://github.com/briandfoy)/[**ypath**](https://github.com/briandfoy/ypath)|A stupid little script to extract values from a YAML file||
+|4|[@byrichardpowell](https://github.com/byrichardpowell)/[**canvas-letters**](https://github.com/byrichardpowell/canvas-letters)|Anti Aliased Letters for HTML5 Canvas||
 |4|[@caitp](https://github.com/caitp)/[**boredtropolis**](https://github.com/caitp/boredtropolis)|...where dreams... come true.........................................||
 |4|[@chfoo](https://github.com/chfoo)/[**blender-vhs-filter**](https://github.com/chfoo/blender-vhs-filter)|VHS filter node for Blender||
 |4|[@danielharan](https://github.com/danielharan)/[**twitterjobbot**](https://github.com/danielharan/twitterjobbot)|Sends direct messages to twitter users, based on their preferences||
@@ -599,9 +616,10 @@
 |4|[@walkah](https://github.com/walkah)/[**salmon-php**](https://github.com/walkah/salmon-php)|An implementation of the salmon protocol in PHP||
 |4|[@wvanbergen](https://github.com/wvanbergen)/[**blogposts**](https://github.com/wvanbergen/blogposts)|Staging area for my blogposts|[:arrow_upper_right:](http://www.shopify.com/technology)|
 |4|[@yorkulibraries](https://github.com/yorkulibraries)/[**yudl-islandora-forms**](https://github.com/yorkulibraries/yudl-islandora-forms)|Custom YUDL forms models for use with the Islandora XML Forms module||
+|3|[@ChenSunMac](https://github.com/ChenSunMac)/[**C-Shell-Toturial-CSC209**](https://github.com/ChenSunMac/C-Shell-Toturial-CSC209)|Practical Programming Toturial||
 |3|[@ChrisAdderley](https://github.com/ChrisAdderley)/[**NearFutureLaunchVehicles**](https://github.com/ChrisAdderley/NearFutureLaunchVehicles)|||
 |3|[@ChrisAdderley](https://github.com/ChrisAdderley)/[**NearFutureProps**](https://github.com/ChrisAdderley/NearFutureProps)|IVA Props set for Kerbal Space Program||
-|3|[@DecodeMTL](https://github.com/DecodeMTL)/[**job-sites**](https://github.com/DecodeMTL/job-sites)|Top job search sites from around the web.||
+|3|[@DigitalState](https://github.com/DigitalState)/[**Guide**](https://github.com/DigitalState/Guide)|The DigitalState User Guide||
 |3|[@EQuimper](https://github.com/EQuimper)/[**VSC-React-Native-React-Redux-Snippets-Version-Standard**](https://github.com/EQuimper/VSC-React-Native-React-Redux-Snippets-Version-Standard)|Visual Studio Code snippets for React, React-Native and Redux using the standard style|[:arrow_upper_right:](https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux-snippets-for-es6-es7-version-standard)|
 |3|[@ESWAT](https://github.com/ESWAT)/[**augmented-reaction.itermcolors**](https://github.com/ESWAT/augmented-reaction.itermcolors)|Colours for iTerm, inspired by the video game Vanquish.||
 |3|[@Elbullazul](https://github.com/Elbullazul)/[**Longhorn-Icon-theme**](https://github.com/Elbullazul/Longhorn-Icon-theme)|The Longhorn Icon theme for Linux repository||
@@ -609,6 +627,7 @@
 |3|[@Icehunter](https://github.com/Icehunter)/[**vscode-turbo-javascript**](https://github.com/Icehunter/vscode-turbo-javascript)|||
 |3|[@JamesKovacs](https://github.com/JamesKovacs)/[**GitFundamentals**](https://github.com/JamesKovacs/GitFundamentals)|Sample repository for the GitFundamentals course||
 |3|[@KevinHock](https://github.com/KevinHock)/[**rtdpyt**](https://github.com/KevinHock/rtdpyt)|||
+|3|[@Kinglilrowrow](https://github.com/Kinglilrowrow)/[**PopcornTimeTV-NEW**](https://github.com/Kinglilrowrow/PopcornTimeTV-NEW)|Rewritten iOS and tvOS popcorntime client (coming soon)||
 |3|[@MChorfa](https://github.com/MChorfa)/[**978-Grid-System**](https://github.com/MChorfa/978-Grid-System)|This repository contains a collection of design templates and code to quickly get you up and running  with the 978 (and companion) grid systems.|[:arrow_upper_right:](http://978.gs)|
 |3|[@MaryBethBaker](https://github.com/MaryBethBaker)/[**gc_wxt_discovery_tool**](https://github.com/MaryBethBaker/gc_wxt_discovery_tool)|Parser for locating and reporting on use of wxt in the .gc.ca||
 |3|[@NickQiZhu](https://github.com/NickQiZhu)/[**nickqizhu.github.com**](https://github.com/NickQiZhu/nickqizhu.github.com)|||
@@ -646,13 +665,16 @@
 |3|[@bchhun](https://github.com/bchhun)/[**django-buildout**](https://github.com/bchhun/django-buildout)|My own django buildout||
 |3|[@benwatts](https://github.com/benwatts)/[**payment-icons**](https://github.com/benwatts/payment-icons)|A bunch of little credit card payment icons||
 |3|[@berke](https://github.com/berke)/[**xsetxmap**](https://github.com/berke/xsetxmap)|An unfunctorized and Sexplib-aware version of the Ocaml Set and Map modules. |[:arrow_upper_right:](http://lambda-diode.com/software/ocaml/xsetxmap)|
+|3|[@bomsy](https://github.com/bomsy)/[**dragdrop**](https://github.com/bomsy/dragdrop)|A small javascript dragdrop library that handles drag n drop  and let you focus on implementation details||
 |3|[@botanicus](https://github.com/botanicus)/[**rango-examples**](https://github.com/botanicus/rango-examples)|Example Rango projects.|[:arrow_upper_right:](http://botanicus.github.com/rango)|
 |3|[@briandfoy](https://github.com/briandfoy)/[**Perl-Bibliography**](https://github.com/briandfoy/Perl-Bibliography)|A guide to the Perl books we think you should read||
 |3|[@brianleroux](https://github.com/brianleroux)/[**phonegap-build-barcode-example**](https://github.com/brianleroux/phonegap-build-barcode-example)|||
+|3|[@brompwnie](https://github.com/brompwnie)/[**DroidConLondon2017**](https://github.com/brompwnie/DroidConLondon2017)|Slides From My DroidCon London 2017 Talk||
 |3|[@bryanlarsen](https://github.com/bryanlarsen)/[**agility-gitorial-patches**](https://github.com/bryanlarsen/agility-gitorial-patches)|The quilt/stgit patch series used to create agility-gitorial.    Hobo 1.3 is at https://github.com/Hobo/agility-gitorial-patches.||
 |3|[@bsandrow](https://github.com/bsandrow)/[**utils**](https://github.com/bsandrow/utils)|small utility scripts that others have created (most don't have a 'proper' webpage)||
 |3|[@cadorn](https://github.com/cadorn)/[**firephp-demos**](https://github.com/cadorn/firephp-demos)|||
 |3|[@cadorn](https://github.com/cadorn)/[**firephp-dotcloud**](https://github.com/cadorn/firephp-dotcloud)|||
+|3|[@castorini](https://github.com/castorini)/[**honk-models**](https://github.com/castorini/honk-models)|Pre-trained models for Honk||
 |3|[@cdelahousse](https://github.com/cdelahousse)/[**Autocorrect-AutoHotKey**](https://github.com/cdelahousse/Autocorrect-AutoHotKey)|My changes to the autocorrect script||
 |3|[@cjcliffe](https://github.com/cjcliffe)/[**Cubic-Slider**](https://github.com/cjcliffe/Cubic-Slider)|CubicVR.js WebGL presentation kit with advanced 3D model display and feedback support.||
 |3|[@cjcliffe](https://github.com/cjcliffe)/[**math**](https://github.com/cjcliffe/math)|A math library for JavaScript||
@@ -664,6 +686,7 @@
 |3|[@davemo](https://github.com/davemo)/[**saskatoon-website**](https://github.com/davemo/saskatoon-website)|A collection of documents relating to the City of Saskatoon website redesign project||
 |3|[@dohliam](https://github.com/dohliam)/[**asciidoc-kate**](https://github.com/dohliam/asciidoc-kate)|AsciiDoc/AsciiDoctor syntax highlighting plugin for Kate editor/KatePart||
 |3|[@dudleystorey](https://github.com/dudleystorey)/[**burnsbox**](https://github.com/dudleystorey/burnsbox)|Simple browser multimedia presentation app. Currently Chrome only.||
+|3|[@eddyerburgh](https://github.com/eddyerburgh)/[**vue-test-utils-proposal**](https://github.com/eddyerburgh/vue-test-utils-proposal)|Proposed API for vue test utils||
 |3|[@edward](https://github.com/edward)/[**nginx-gentoo-ebuild**](https://github.com/edward/nginx-gentoo-ebuild)|A Gentoo overlay hosting nginx ebuilds that come with plugins||
 |3|[@elecnix](https://github.com/elecnix)/[**gnu-qif**](https://github.com/elecnix/gnu-qif)|QIF generation library||
 |3|[@elecnix](https://github.com/elecnix)/[**jmf**](https://github.com/elecnix/jmf)|Java Media Framework API|[:arrow_upper_right:](http://java.sun.com/javase/technologies/desktop/media/jmf/)|

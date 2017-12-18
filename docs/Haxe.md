@@ -19,13 +19,13 @@
 |9|[@Ohmnivore](https://github.com/Ohmnivore)/[**ChopChopScript**](https://github.com/Ohmnivore/ChopChopScript)|Fast scripting language for Haxe (very basic, made to run fast and nothing else)||
 |9|[@Ohmnivore](https://github.com/Ohmnivore)/[**HxCLAP**](https://github.com/Ohmnivore/HxCLAP)|Haxe port of CLAP, a command line argument parser||
 |9|[@underscorediscovery](https://github.com/underscorediscovery)/[**cassowary-hx**](https://github.com/underscorediscovery/cassowary-hx)|A direct port of cassowary.js to Haxe||
+|8|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-gltf**](https://github.com/FuzzyWuzzie/haxe-gltf)|A Haxe library for reading (and eventually, writing) GLTF files.||
 |8|[@Ohmnivore](https://github.com/Ohmnivore)/[**ChopEngine**](https://github.com/Ohmnivore/ChopEngine)|A Haxe cross-platform 3D game engine built on top of Snow||
 |8|[@Ohmnivore](https://github.com/Ohmnivore)/[**ClientSidePredictionAndServerReconciliation**](https://github.com/Ohmnivore/ClientSidePredictionAndServerReconciliation)|Haxe port of http://www.gabrielgambetta.com/fpm_live.html||
 |8|[@underscorediscovery](https://github.com/underscorediscovery)/[**arguable**](https://github.com/underscorediscovery/arguable)|A simple `--argument value` parsing library for Haxe.||
 |8|[@underscorediscovery](https://github.com/underscorediscovery)/[**hxtypedarray**](https://github.com/underscorediscovery/hxtypedarray)|TypedArray implementation for haxe ||
 |8|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe-assetpacker**](https://github.com/underscorediscovery/luxe-assetpacker)|An asset packing tool for luxe and haxe projects||
 |7|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxeLights**](https://github.com/FuzzyWuzzie/LuxeLights)|A simple demo showing how to use render textures and shaders to create a _very basic_ 2D lighting effect (no shadows, no light "clipping").||
-|7|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-gltf**](https://github.com/FuzzyWuzzie/haxe-gltf)|A Haxe library for reading (and eventually, writing) GLTF files.||
 |6|[@Ohmnivore](https://github.com/Ohmnivore)/[**TileSetter**](https://github.com/Ohmnivore/TileSetter)|UI application for editing tile properties for tilesets||
 |6|[@underscorediscovery](https://github.com/underscorediscovery)/[**hxpromise**](https://github.com/underscorediscovery/hxpromise)|hxpromise||
 |5|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**FeatherRock**](https://github.com/FuzzyWuzzie/FeatherRock)|My LD32 entry!||

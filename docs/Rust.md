@@ -8,11 +8,11 @@
 |72|[@programble](https://github.com/programble)/[**scraper**](https://github.com/programble/scraper)|HTML parsing and querying with CSS selectors|[:arrow_upper_right:](https://cmcenroe.me/scraper/scraper)|
 |67|[@luqmana](https://github.com/luqmana)/[**rust-psp-hello**](https://github.com/luqmana/rust-psp-hello)|Simple Hello World in Rust to run on a PSP.||
 |39|[@zsck](https://github.com/zsck)/[**clink**](https://github.com/zsck/clink)|A developer assistance tool to help with refactoring and keeping related code up to date with changes||
-|35|[@MitMaro](https://github.com/MitMaro)/[**git-interactive-rebase-tool**](https://github.com/MitMaro/git-interactive-rebase-tool)|Full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.|[:arrow_upper_right:](http://gitrebasetool.mitmaro.ca/)|
+|36|[@MitMaro](https://github.com/MitMaro)/[**git-interactive-rebase-tool**](https://github.com/MitMaro/git-interactive-rebase-tool)|Full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.|[:arrow_upper_right:](http://gitrebasetool.mitmaro.ca/)|
 |34|[@iKevinY](https://github.com/iKevinY)/[**blerp**](https://github.com/iKevinY/blerp)|xkcd #1692: Man Page|[:arrow_upper_right:](https://xkcd.com/1692/)|
 |32|[@thestinger](https://github.com/thestinger)/[**rust-gmp**](https://github.com/thestinger/rust-gmp)|gmp bindings for rust||
 |28|[@mystor](https://github.com/mystor)/[**slag**](https://github.com/mystor/slag)|A whitespace-sensitive syntax for rust||
-|20|[@abh1nav](https://github.com/abh1nav)/[**docker-rust**](https://github.com/abh1nav/docker-rust)|Docker client library written in Rust||
+|21|[@abh1nav](https://github.com/abh1nav)/[**docker-rust**](https://github.com/abh1nav/docker-rust)|Docker client library written in Rust||
 |19|[@programble](https://github.com/programble)/[**inth-oauth2**](https://github.com/programble/inth-oauth2)|OAuth2 client for Rust|[:arrow_upper_right:](https://docs.rs/crate/inth-oauth2)|
 |16|[@hsoft](https://github.com/hsoft)/[**civng**](https://github.com/hsoft/civng)|Civ 5 implementation in Rust with a text-based UI||
 |14|[@luqmana](https://github.com/luqmana)/[**gdax-client**](https://github.com/luqmana/gdax-client)|Rust client library for Coinbase Exchange (GDAX).||
@@ -32,6 +32,7 @@
 |7|[@jonalmeida](https://github.com/jonalmeida)/[**algorithms.rs**](https://github.com/jonalmeida/algorithms.rs)|Classic algorithms and data structures implemented in Rust.||
 |7|[@kryptco](https://github.com/kryptco)/[**ssh-wire**](https://github.com/kryptco/ssh-wire)|||
 |7|[@luqmana](https://github.com/luqmana)/[**mcchat**](https://github.com/luqmana/mcchat)|Fake client to get chat messages from minecraft.||
+|6|[@46bit](https://github.com/46bit)/[**tilewater**](https://github.com/46bit/tilewater)|Miniature city simulator.||
 |6|[@tokenrove](https://github.com/tokenrove)/[**fixie-trie**](https://github.com/tokenrove/fixie-trie)|Compact tries for fixed-width keys||
 |5|[@gnuvince](https://github.com/gnuvince)/[**minilang-rs**](https://github.com/gnuvince/minilang-rs)|||
 |5|[@gnuvince](https://github.com/gnuvince)/[**ppbert**](https://github.com/gnuvince/ppbert)|A simple pretty printer for Erlang's External Term Format||

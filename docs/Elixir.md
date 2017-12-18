@@ -7,13 +7,14 @@
 |134|[@joshnuss](https://github.com/joshnuss)/[**commerce_billing**](https://github.com/joshnuss/commerce_billing)|A payment processing library for Elixir||
 |131|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
 |129|[@joshnuss](https://github.com/joshnuss)/[**design-patterns-in-elixir**](https://github.com/joshnuss/design-patterns-in-elixir)|Common design patterns in Elixir||
+|108|[@GesJeremie](https://github.com/GesJeremie)/[**faker-elixir**](https://github.com/GesJeremie/faker-elixir)|:droplet: FakerElixir generates fake data for you. |[:arrow_upper_right:](https://hexdocs.pm/faker_elixir_octopus/FakerElixir.html)|
 |97|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
 |73|[@expede](https://github.com/expede)/[**algae**](https://github.com/expede/algae)|Bootstrapped algebraic data types for Elixir|[:arrow_upper_right:](https://hex.pm/packages/algae)|
 |64|[@joshnuss](https://github.com/joshnuss)/[**xml_builder**](https://github.com/joshnuss/xml_builder)|Elixir library for generating XML||
 |57|[@matehat](https://github.com/matehat)/[**cqex**](https://github.com/matehat/cqex)|Idiomatic Cassandra client for Elixir||
 |57|[@yrashk](https://github.com/yrashk)/[**relex**](https://github.com/yrashk/relex)|Erlang/Elixir Release Assembler||
 |51|[@joshnuss](https://github.com/joshnuss)/[**phoenix-billing-demo**](https://github.com/joshnuss/phoenix-billing-demo)|A demo of using commerce_billing with phoenix||
-|47|[@a115](https://github.com/a115)/[**exmatrix**](https://github.com/a115/exmatrix)|Elixir library implementing a parallel matrix multiplication algorithm and other utilities for working with matrices. Used for benchmarking computationally intensive concurrent code. |[:arrow_upper_right:](http://a115.co.uk/)|
+|48|[@a115](https://github.com/a115)/[**exmatrix**](https://github.com/a115/exmatrix)|Elixir library implementing a parallel matrix multiplication algorithm and other utilities for working with matrices. Used for benchmarking computationally intensive concurrent code. |[:arrow_upper_right:](http://a115.co.uk/)|
 |46|[@expede](https://github.com/expede)/[**type_class**](https://github.com/expede/type_class)|(Semi-)principled type classes for Elixir|[:arrow_upper_right:](https://hex.pm/packages/type_class)|
 |44|[@ChrisYammine](https://github.com/ChrisYammine)/[**ex_trello**](https://github.com/ChrisYammine/ex_trello)|An Elixir library for interfacing with the Trello API||
 |44|[@jarednorman](https://github.com/jarednorman)/[**plugsnag**](https://github.com/jarednorman/plugsnag)|A Bugsnag notifier for Elixir's plug||
@@ -44,6 +45,7 @@
 |7|[@aforward](https://github.com/aforward)/[**elixir_nats**](https://github.com/aforward/elixir_nats)|Elixir client for NATS, the cloud native messaging system. https://nats.io||
 |7|[@ttvd](https://github.com/ttvd)/[**elixir-xxhash**](https://github.com/ttvd/elixir-xxhash)|Pure Elixir implementation of xxHash.||
 |7|[@yrashk](https://github.com/yrashk)/[**somlos**](https://github.com/yrashk/somlos)|Application upgrades DSL||
+|6|[@barodeur](https://github.com/barodeur)/[**culdechouette**](https://github.com/barodeur/culdechouette)|Cul de Chouette online game from Kaamelott tv show||
 |6|[@harmon25](https://github.com/harmon25)/[**sonex**](https://github.com/harmon25/sonex)|Elixir Sonos Controller||
 |5|[@aforward](https://github.com/aforward)/[**sadbus**](https://github.com/aforward/sadbus)|A dumb message bus for sharing data between microservices in a relatively decoupled mechanism||
 |5|[@expede](https://github.com/expede)/[**inspector_gadget**](https://github.com/expede/inspector_gadget)|Helpers for debugging & inspecting code flow||
@@ -56,6 +58,8 @@
 |4|[@yrashk](https://github.com/yrashk)/[**eflow**](https://github.com/yrashk/eflow)|Flow machines||
 |4|[@yrashk](https://github.com/yrashk)/[**xup**](https://github.com/yrashk/xup)|Erlang supervision trees for Elixir||
 |3|[@ChrisYammine](https://github.com/ChrisYammine)/[**ex_zenhub**](https://github.com/ChrisYammine/ex_zenhub)|Unofficial Elixir client for the ZenHub API(https://github.com/ZenHubIO/API)||
+|3|[@EQuimper](https://github.com/EQuimper)/[**demo-youtube-clone-react-phoenix**](https://github.com/EQuimper/demo-youtube-clone-react-phoenix)|||
+|3|[@GesJeremie](https://github.com/GesJeremie)/[**babysitting**](https://github.com/GesJeremie/babysitting)|:baby_bottle: Find your next babysitter|[:arrow_upper_right:](https://www.babysittinglondon.com/)|
 |3|[@aforward](https://github.com/aforward)/[**gen_template_api_client**](https://github.com/aforward/gen_template_api_client)|A template for building API clients to 3rd party REST applications||
 |3|[@azohra](https://github.com/azohra)/[**elir**](https://github.com/azohra/elir)|running RSpec tests, from Elixir (prototype made for the Ruby Open Source Testing Code Hackathon 2017-09-22)||
 |3|[@harmon25](https://github.com/harmon25)/[**elixir_udp_server**](https://github.com/harmon25/elixir_udp_server)|Simple elixir supervised UDP Server||

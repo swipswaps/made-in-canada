@@ -8,11 +8,12 @@
 |369|[@tommcdo](https://github.com/tommcdo)/[**vim-exchange**](https://github.com/tommcdo/vim-exchange)|Easy text exchange operator for Vim||
 |281|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
 |129|[@myusuf3](https://github.com/myusuf3)/[**dotfiles**](https://github.com/myusuf3/dotfiles)|myusuf3's dotfiles||
-|77|[@amacgregor](https://github.com/amacgregor)/[**dot-files**](https://github.com/amacgregor/dot-files)|Dotfiles repository||
+|78|[@amacgregor](https://github.com/amacgregor)/[**dot-files**](https://github.com/amacgregor/dot-files)|Dotfiles repository||
 |69|[@idbrii](https://github.com/idbrii)/[**AsyncCommand**](https://github.com/idbrii/AsyncCommand)|AsyncCommand allows you to execute shell commands without waiting for them  to complete. When the application terminates, its output can be loaded into  a vim buffer.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3431)|
 |69|[@jpalardy](https://github.com/jpalardy)/[**dotfiles**](https://github.com/jpalardy/dotfiles)|My collection of config files (bash, vim, …)||
 |54|[@juliosueiras](https://github.com/juliosueiras)/[**vim-terraform-completion**](https://github.com/juliosueiras/vim-terraform-completion)|A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool||
 |53|[@jperras](https://github.com/jperras)/[**vim-dotfiles**](https://github.com/jperras/vim-dotfiles)|Carefully crafted, curated and somewhat Python-oriented Vim development environment||
+|44|[@MilesCranmer](https://github.com/MilesCranmer)/[**gso**](https://github.com/MilesCranmer/gso)|🏃  Automatic programming in Vim. Works by copy-pasting Stack Overflow answers.||
 |39|[@ujihisa](https://github.com/ujihisa)/[**config**](https://github.com/ujihisa/config)|||
 |36|[@ujihisa](https://github.com/ujihisa)/[**repl.vim**](https://github.com/ujihisa/repl.vim)|irb, ghci, and anything else. in Vim.||
 |35|[@remiprev](https://github.com/remiprev)/[**dotfiles**](https://github.com/remiprev/dotfiles)|All my dotfiles (vim, zsh, tmux, etc.) in a single place||
@@ -24,7 +25,7 @@
 |18|[@svermeulen](https://github.com/svermeulen)/[**vim-NotableFt**](https://github.com/svermeulen/vim-NotableFt)|||
 |17|[@martinda](https://github.com/martinda)/[**Jenkinsfile-vim-syntax**](https://github.com/martinda/Jenkinsfile-vim-syntax)|Jenkinsfile DSL vim syntax||
 |16|[@prurigro](https://github.com/prurigro)/[**darkcloud-vimconfig**](https://github.com/prurigro/darkcloud-vimconfig)|A Vim distribution with sane, modern defaults, a custom theme, and a collection of tightly integrated and configured development-oriented plugins||
-|15|[@ababaian](https://github.com/ababaian)/[**bioSyntax**](https://github.com/ababaian/bioSyntax)|Syntax highlighting for computational biology|[:arrow_upper_right:](http://bioSyntax.org)|
+|14|[@ababaian](https://github.com/ababaian)/[**bioSyntax**](https://github.com/ababaian/bioSyntax)|Syntax highlighting for computational biology|[:arrow_upper_right:](http://bioSyntax.org)|
 |14|[@moshen](https://github.com/moshen)/[**vimconfig**](https://github.com/moshen/vimconfig)|My vim configuration...||
 |14|[@travisjeffery](https://github.com/travisjeffery)/[**dotfiles**](https://github.com/travisjeffery/dotfiles)|@travisjeffery's dotfiles. vim, zsh, tmux||
 |13|[@yanick](https://github.com/yanick)/[**environment**](https://github.com/yanick/environment)|environment stuff I use on my different boxen/projects||

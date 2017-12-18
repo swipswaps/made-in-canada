@@ -8,8 +8,8 @@
 |8|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-WWW**](https://github.com/zoffixznet/perl6-WWW)|No-nonsense simple HTTPS client with JSON decoder||
 |6|[@supernovus](https://github.com/supernovus)/[**perl6-fastcgi**](https://github.com/supernovus/perl6-fastcgi)|FastCGI application library for Perl 6||
 |6|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Color**](https://github.com/zoffixznet/perl6-Color)|Perl 6 module for format conversion and math operations on colours||
+|5|[@briandfoy](https://github.com/briandfoy)/[**perl6-PrettyDump**](https://github.com/briandfoy/perl6-PrettyDump)|Format a Perl 6 data structure for human inspection||
 |5|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Twitter**](https://github.com/zoffixznet/perl6-Twitter)|Perl 6 module: Twitter API||
-|4|[@briandfoy](https://github.com/briandfoy)/[**perl6-PrettyDump**](https://github.com/briandfoy/perl6-PrettyDump)|Format a Perl 6 data structure for human inspection||
 |3|[@briandfoy](https://github.com/briandfoy)/[**perl6-chemistry-elements**](https://github.com/briandfoy/perl6-chemistry-elements)|Perl 6 extension for working with the Periodic Table of Elements||
 |3|[@supernovus](https://github.com/supernovus)/[**perl6-http-status**](https://github.com/supernovus/perl6-http-status)|Get the text message associated with a given HTTP code||
 |3|[@supernovus](https://github.com/supernovus)/[**perl6-timezone**](https://github.com/supernovus/perl6-timezone)|DateTime::TimeZone (Perl 6)||

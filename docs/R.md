@@ -12,8 +12,8 @@
 |75|[@rich-iannone](https://github.com/rich-iannone)/[**blastula**](https://github.com/rich-iannone/blastula)|Easily send great-looking HTML email messages from R||
 |67|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**WDI**](https://github.com/vincentarelbundock/WDI)|||
 |65|[@rich-iannone](https://github.com/rich-iannone)/[**pointblank**](https://github.com/rich-iannone/pointblank)|Validation of local and remote data tables||
+|61|[@ateucher](https://github.com/ateucher)/[**rmapshaper**](https://github.com/ateucher/rmapshaper)|An R wrapper for the mapshaper javascript library||
 |61|[@rich-iannone](https://github.com/rich-iannone)/[**UnidecodeR**](https://github.com/rich-iannone/UnidecodeR)|Replace Unicode characters with sensible US-ASCII equivalents||
-|60|[@ateucher](https://github.com/ateucher)/[**rmapshaper**](https://github.com/ateucher/rmapshaper)|An R wrapper for the mapshaper javascript library||
 |56|[@luyongxu](https://github.com/luyongxu)/[**SignalPlot**](https://github.com/luyongxu/SignalPlot)|This repository contains code used for my blog.|[:arrow_upper_right:](http://www.signalplot.com)|
 |54|[@seananderson](https://github.com/seananderson)/[**glmm-course**](https://github.com/seananderson/glmm-course)|2-day workshop on regression, mixed-effects models, and GLMMs in R||
 |49|[@dankelley](https://github.com/dankelley)/[**oce**](https://github.com/dankelley/oce)|R package for oceanographic processing|[:arrow_upper_right:](http://dankelley.github.com/oce/)|
@@ -60,6 +60,7 @@
 |8|[@gavinsimpson](https://github.com/gavinsimpson)/[**analogue**](https://github.com/gavinsimpson/analogue)|Analogue and weighted averaging methods for palaeoecology||
 |8|[@hpiwowar](https://github.com/hpiwowar)/[**citation11k**](https://github.com/hpiwowar/citation11k)|Analysis of citation rates across 11,603 articles: data available vs data not avail|[:arrow_upper_right:](http://researchremix.wordpress.com)|
 |8|[@jennybc](https://github.com/jennybc)/[**frogs**](https://github.com/jennybc/frogs)|Data from the Calaveras Jumping Frog Jubilee|[:arrow_upper_right:](http://www.frogtown.org/about)|
+|7|[@MySportsFeeds](https://github.com/MySportsFeeds)/[**mysportsfeeds-r**](https://github.com/MySportsFeeds/mysportsfeeds-r)|R wrapper functions for the MySportsFeeds Sports Data API|[:arrow_upper_right:](https://www.mysportsfeeds.com)|
 |7|[@bcgov](https://github.com/bcgov)/[**bcgovr**](https://github.com/bcgov/bcgovr)|An R package to support development of R-based projects & packages following bcgov open source policies||
 |7|[@bcgov](https://github.com/bcgov)/[**rems**](https://github.com/bcgov/rems)|An R package to access data from British Columbia's Environmental Monitoring System||
 |7|[@gavinsimpson](https://github.com/gavinsimpson)/[**permute**](https://github.com/gavinsimpson/permute)|Restricted permutations||
@@ -68,7 +69,6 @@
 |7|[@sjackman](https://github.com/sjackman)/[**homebrewr**](https://github.com/sjackman/homebrewr)|An R package to install software using Homebrew||
 |7|[@sjp](https://github.com/sjp)/[**gridSVG**](https://github.com/sjp/gridSVG)|Do not use this version of gridSVG as it is out of date. The version on CRAN is newer and development occurs on R-Forge.|[:arrow_upper_right:](https://r-forge.r-project.org/projects/gridsvg/)|
 |7|[@stevencarlislewalker](https://github.com/stevencarlislewalker)/[**lme4ord**](https://github.com/stevencarlislewalker/lme4ord)|Ecological mixed-effects ordination with lme4||
-|6|[@MySportsFeeds](https://github.com/MySportsFeeds)/[**mysportsfeeds-r**](https://github.com/MySportsFeeds/mysportsfeeds-r)|R wrapper functions for the MySportsFeeds Sports Data API|[:arrow_upper_right:](https://www.mysportsfeeds.com)|
 |6|[@ateucher](https://github.com/ateucher)/[**crd_rare_bird_bot**](https://github.com/ateucher/crd_rare_bird_bot)|||
 |6|[@gavinsimpson](https://github.com/gavinsimpson)/[**random_code**](https://github.com/gavinsimpson/random_code)|Random bits of code for my blog|[:arrow_upper_right:](http://www.fromthebottomoftheheap.net)|
 |6|[@jennybc](https://github.com/jennybc)/[**bioinformatics.ca-swc-r**](https://github.com/jennybc/bioinformatics.ca-swc-r)|Software Carpentry Bootcamp for bioinformatics.ca 2014-05-12||
@@ -79,6 +79,7 @@
 |6|[@rich-iannone](https://github.com/rich-iannone)/[**GetOnBoard**](https://github.com/rich-iannone/GetOnBoard)|Get information onto Panic's Status Board iPad app using R.||
 |6|[@rich-iannone](https://github.com/rich-iannone)/[**NPRI**](https://github.com/rich-iannone/NPRI)|R dataset containing National Pollutant Release Inventory (NPRI) records for Canada, 1993–2012.||
 |6|[@rich-iannone](https://github.com/rich-iannone)/[**USAir**](https://github.com/rich-iannone/USAir)|US EPA air monitoring data for 1990–2015||
+|5|[@bcgov](https://github.com/bcgov)/[**envreportutils**](https://github.com/bcgov/envreportutils)|An R package with ggplot2 themes & other functions related to Environmental Reporting BC work flows||
 |5|[@bcgov](https://github.com/bcgov)/[**protected-lands-and-waters-analysis**](https://github.com/bcgov/protected-lands-and-waters-analysis)|R scripts for summarising protected lands and waters in B.C.||
 |5|[@danielmarcelino](https://github.com/danielmarcelino)/[**SoundexBR**](https://github.com/danielmarcelino/SoundexBR)|Soundex (Phonetic) Algorithm For Brazilian Portuguese||
 |5|[@gavinsimpson](https://github.com/gavinsimpson)/[**canadaHCD**](https://github.com/gavinsimpson/canadaHCD)|Access Canadian Historical Climate Data from R||
@@ -89,7 +90,6 @@
 |5|[@uken](https://github.com/uken)/[**testr**](https://github.com/uken/testr)|Analytics Testr||
 |5|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**countryyear**](https://github.com/vincentarelbundock/countryyear)|country-year version of the countrycode package for R||
 |4|[@bcgov](https://github.com/bcgov)/[**bc-population-indicator**](https://github.com/bcgov/bc-population-indicator)|R scripts for an indicator on trends in B.C.'s population size & distribution for Environmental Reporting BC||
-|4|[@bcgov](https://github.com/bcgov)/[**envreportutils**](https://github.com/bcgov/envreportutils)|An R package with ggplot2 themes & other functions related to Environmental Reporting BC work flows||
 |4|[@bcgov](https://github.com/bcgov)/[**rcaaqs**](https://github.com/bcgov/rcaaqs)|An R package to facilitate the calculation of air quality metrics according to Canadian Ambient Air Quality Standards||
 |4|[@bcgov](https://github.com/bcgov)/[**tidyhydat**](https://github.com/bcgov/tidyhydat)|An R package to import Canadian hydrometric data and make it tidy||
 |4|[@bcgov](https://github.com/bcgov)/[**water-quality-analysis-northeastbc**](https://github.com/bcgov/water-quality-analysis-northeastbc)|Water quality characterization of 69 watersheds in Northeast B.C. ||

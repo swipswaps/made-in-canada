@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |13510|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
-|105|[@burtonsamograd](https://github.com/burtonsamograd)/[**emacs-jit**](https://github.com/burtonsamograd/emacs-jit)|Emacs with an Emacs Lisp JIT (Just In Time) compiler using libjit.||
+|106|[@burtonsamograd](https://github.com/burtonsamograd)/[**emacs-jit**](https://github.com/burtonsamograd/emacs-jit)|Emacs with an Emacs Lisp JIT (Just In Time) compiler using libjit.||
 |94|[@syl20bnr](https://github.com/syl20bnr)/[**evil-escape**](https://github.com/syl20bnr/evil-escape)|Customizable key sequence to escape from insert state and everything else in Emacs.||
 |69|[@atgreen](https://github.com/atgreen)/[**paperless**](https://github.com/atgreen/paperless)|Emacs assisted PDF document filing||
 |67|[@aspiers](https://github.com/aspiers)/[**smooth-scrolling**](https://github.com/aspiers/smooth-scrolling)|Emacs smooth scrolling package||
@@ -36,4 +36,5 @@
 |3|[@aminb](https://github.com/aminb)/[**dotfiles**](https://github.com/aminb/dotfiles)|My dotfiles||
 |3|[@aspiers](https://github.com/aspiers)/[**vc-osc**](https://github.com/aspiers/vc-osc)|osc backend for emacs vc mode||
 |3|[@aspiers](https://github.com/aspiers)/[**worg**](https://github.com/aspiers/worg)|user documentation of orgmode for emacs|[:arrow_upper_right:](http://orgmode.org/worg/)|
+|3|[@christopher-dG](https://github.com/christopher-dG)/[**dotfiles**](https://github.com/christopher-dG/dotfiles)|Linux configs and such||
 

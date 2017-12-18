@@ -4,7 +4,7 @@
 |574|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
 |277|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
 |230|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
-|178|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
+|180|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
 |120|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execushares**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
 |84|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
 |50|[@patmorin](https://github.com/patmorin)/[**arraylayout**](https://github.com/patmorin/arraylayout)|Experiments with array layouts for comparison-based searching|[:arrow_upper_right:](http://cglab.ca/~morin/misc/arraylayout-v2/)|

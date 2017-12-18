@@ -1,7 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
+|211|[@dgryski](https://github.com/dgryski)/[**vim-godef**](https://github.com/dgryski/vim-godef)|vim plugin providing godef support||
 |183|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
-|134|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
+|137|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |88|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|:rocket: Quickly init a slightly better Vim.||
 |51|[@honza](https://github.com/honza)/[**dockerfile.vim**](https://github.com/honza/dockerfile.vim)|Syntax highlighting for Dockerfiles||
 |50|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||

@@ -7,7 +7,7 @@
 |19|[@mbarnathan](https://github.com/mbarnathan)/[**SmartWink**](https://github.com/mbarnathan/SmartWink)|Lutron support in SmartThings using a rooted Wink hub as a bridge||
 |14|[@kellyrob99](https://github.com/kellyrob99)/[**gradle-jslint-plugin**](https://github.com/kellyrob99/gradle-jslint-plugin)|A Gradle custom Plugin that allows running JSLint static analysis against JavaScipt code. A blog article accompanies this source code to explain its intent and implementation.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2011/04/03/a-groovygradle-jslint-plugin/)|
 |13|[@yracine](https://github.com/yracine)/[**device-type.myneurio**](https://github.com/yracine/device-type.myneurio)|SmartThings-Neurio integration||
-|11|[@chaopeng](https://github.com/chaopeng)/[**grchaos**](https://github.com/chaopeng/grchaos)|application framework for hotswap||
+|12|[@chaopeng](https://github.com/chaopeng)/[**grchaos**](https://github.com/chaopeng/grchaos)|application framework for hotswap||
 |11|[@kellyrob99](https://github.com/kellyrob99)/[**catcha-breaker**](https://github.com/kellyrob99/catcha-breaker)|Groovy port of a python example on how to break weak captcha using tesseract-ocr|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/03/14/breaking-weak-captcha-in-slightly-more-than-26-lines-of-groovy-code/)|
 |11|[@yracine](https://github.com/yracine)/[**DSC-Integration-with-Arduino-Mega-Shield-RS-232**](https://github.com/yracine/DSC-Integration-with-Arduino-Mega-Shield-RS-232)|DSC - Integration with SmartThings (RS232)||
 |9|[@yracine](https://github.com/yracine)/[**keenhome.device-type**](https://github.com/yracine/keenhome.device-type)|Keen Home Smart Vents - device handler||
@@ -17,12 +17,12 @@
 |5|[@dansmith65](https://github.com/dansmith65)/[**ooScriptMaster**](https://github.com/dansmith65/ooScriptMaster)|object oriented ScriptMaster|[:arrow_upper_right:](http://dansmith65.github.com/ooScriptMaster/groovydoc/)|
 |5|[@mbarnathan](https://github.com/mbarnathan)/[**Synchronized-Dimming**](https://github.com/mbarnathan/Synchronized-Dimming)|Allows many SmartThings dimmers to act as one.||
 |4|[@anthonydahanne](https://github.com/anthonydahanne)/[**JenkinsHudsonScripts**](https://github.com/anthonydahanne/JenkinsHudsonScripts)|Collection of scripts to interact with Jenkins and Hudson remote APIs and Update Centers||
+|4|[@codetojoy](https://github.com/codetojoy)/[**easter_eggs_for_groovy**](https://github.com/codetojoy/easter_eggs_for_groovy)|Basic examples for Groovy. Usage of 'egg' here is SSCCE: http://sscce.org||
 |4|[@davidkiss](https://github.com/davidkiss)/[**grails-todo**](https://github.com/davidkiss/grails-todo)|Sample project on building a modern web application using Grails + Spring Security + Angular JS + Twitter Bootstrap.||
 |4|[@kellyrob99](https://github.com/kellyrob99)/[**groovy-http**](https://github.com/kellyrob99/groovy-http)|||
 |4|[@kellyrob99](https://github.com/kellyrob99)/[**running-groovy**](https://github.com/kellyrob99/running-groovy)|Examples of how to dynamically execute Groovy and Java code.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2009/11/21/different-flavors-of-embedded-groovy-in-java-apps-or-how-to-make-your-java-groovier/)|
 |3|[@DavidYKay](https://github.com/DavidYKay)/[**gradle-jenkins-example**](https://github.com/DavidYKay/gradle-jenkins-example)|Example of putting Gradle and Jenkins together for Android||
 |3|[@NickQiZhu](https://github.com/NickQiZhu)/[**Griffon-Validation-Plugin**](https://github.com/NickQiZhu/Griffon-Validation-Plugin)|Validation plugin for Griffin framework|[:arrow_upper_right:](http://griffon.codehaus.org/Validation+Plugin)|
-|3|[@codetojoy](https://github.com/codetojoy)/[**easter_eggs_for_groovy**](https://github.com/codetojoy/easter_eggs_for_groovy)|Basic examples for Groovy. Usage of 'egg' here is SSCCE: http://sscce.org||
 |3|[@codetojoy](https://github.com/codetojoy)/[**talk_maritimedevcon_groovy**](https://github.com/codetojoy/talk_maritimedevcon_groovy)|Demo code for talk at Maritime DevCon 2016.||
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**Groovy-Testing-Presentation**](https://github.com/kellyrob99/Groovy-Testing-Presentation)|A test Griffon application for delivering a slideshow style presentation using the slideware plugin|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/02/11/a-one-day-griffon-applicationpresentation/)|
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**JFreeChart-POI-Groovy**](https://github.com/kellyrob99/JFreeChart-POI-Groovy)|Using JFreeChart and Apache POI in Groovy||
