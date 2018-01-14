@@ -5,6 +5,7 @@
 |12|[@supernovus](https://github.com/supernovus)/[**perl6-http-easy**](https://github.com/supernovus/perl6-http-easy)|Make HTTP servers (with PSGI support) easily with Perl 6||
 |10|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-IRC-Client**](https://github.com/zoffixznet/perl6-IRC-Client)|Perl 6 module for building IRC (Internet Relay Chat) clients||
 |9|[@supernovus](https://github.com/supernovus)/[**exemel**](https://github.com/supernovus/exemel)|An Object-Oriented XML Library for Perl 6||
+|8|[@briandfoy](https://github.com/briandfoy)/[**LearningPerl6_Downloads**](https://github.com/briandfoy/LearningPerl6_Downloads)|The downloads for LearningPerl6.com, here as a backup||
 |8|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-WWW**](https://github.com/zoffixznet/perl6-WWW)|No-nonsense simple HTTPS client with JSON decoder||
 |6|[@supernovus](https://github.com/supernovus)/[**perl6-fastcgi**](https://github.com/supernovus/perl6-fastcgi)|FastCGI application library for Perl 6||
 |6|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Color**](https://github.com/zoffixznet/perl6-Color)|Perl 6 module for format conversion and math operations on colours||
@@ -13,4 +14,5 @@
 |3|[@briandfoy](https://github.com/briandfoy)/[**perl6-chemistry-elements**](https://github.com/briandfoy/perl6-chemistry-elements)|Perl 6 extension for working with the Periodic Table of Elements||
 |3|[@supernovus](https://github.com/supernovus)/[**perl6-http-status**](https://github.com/supernovus/perl6-http-status)|Get the text message associated with a given HTTP code||
 |3|[@supernovus](https://github.com/supernovus)/[**perl6-timezone**](https://github.com/supernovus/perl6-timezone)|DateTime::TimeZone (Perl 6)||
+|3|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Testo**](https://github.com/zoffixznet/perl6-Testo)|Perl 6 Testing Done Right||
 

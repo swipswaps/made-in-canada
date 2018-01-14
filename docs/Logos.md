@@ -19,6 +19,7 @@
 |4|[@codyd51](https://github.com/codyd51)/[**Hue**](https://github.com/codyd51/Hue)|Gradually shift your iPhone's text color throughout the day||
 |4|[@codyd51](https://github.com/codyd51)/[**TapTheAt**](https://github.com/codyd51/TapTheAt)|Hold the '@' key to quickly enter your email||
 |3|[@Cykey](https://github.com/Cykey)/[**Uninstall-Application-Size**](https://github.com/Cykey/Uninstall-Application-Size)|Shows an application's size when prompting to uninstall||
+|3|[@ca13ra1](https://github.com/ca13ra1)/[**CCTButtonActions**](https://github.com/ca13ra1/CCTButtonActions)|Control center 3D Touch shortcuts.||
 |3|[@ca13ra1](https://github.com/ca13ra1)/[**MessageTypingIndicators**](https://github.com/ca13ra1/MessageTypingIndicators)|enable/disable typing indicators for iMessages.||
 |3|[@ca13ra1](https://github.com/ca13ra1)/[**NoLockShots**](https://github.com/ca13ra1/NoLockShots)|No screenshots on lockscreen.||
 |3|[@ca13ra1](https://github.com/ca13ra1)/[**ProximityLock**](https://github.com/ca13ra1/ProximityLock)|Lock device using proximity sensor.||
