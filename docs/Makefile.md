@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|318|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
+|319|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
 |99|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/composer/composer/)|
 |49|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
 |36|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_build**](https://github.com/CopperheadOS/platform_build)|||
@@ -26,11 +26,11 @@
 |6|[@gpaterno](https://github.com/gpaterno)/[**openstack_explained**](https://github.com/gpaterno/openstack_explained)|OpenStack Explained e-book - An humanitarian initiative||
 |6|[@kaustavha](https://github.com/kaustavha)/[**luvit-docs**](https://github.com/kaustavha/luvit-docs)|Documentation for the luvit api||
 |5|[@datacratic](https://github.com/datacratic)/[**platform-deps**](https://github.com/datacratic/platform-deps)|Container repo for Datacratic platform dependencies to be installed per-user||
+|5|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_harpia**](https://github.com/sultanqasim/android_device_motorola_harpia)|TWRP device tree for Moto G Play||
 |5|[@tj](https://github.com/tj)/[**foo**](https://github.com/tj/foo)|||
 |4|[@Bus-Data-NYC](https://github.com/Bus-Data-NYC)/[**nyc-bus-stats**](https://github.com/Bus-Data-NYC/nyc-bus-stats)|||
 |4|[@rillian](https://github.com/rillian)/[**afl-ffmpeg-opus**](https://github.com/rillian/afl-ffmpeg-opus)|Fuzzing script for ffmpeg's opus decoder||
 |4|[@rosshamish](https://github.com/rosshamish)/[**goodcatan**](https://github.com/rosshamish/goodcatan)|tries not to play bad catan||
-|4|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_harpia**](https://github.com/sultanqasim/android_device_motorola_harpia)|TWRP device tree for Moto G Play||
 |3|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_system_sepolicy**](https://github.com/CopperheadOS/platform_system_sepolicy)|||
 |3|[@KleinYuan](https://github.com/KleinYuan)/[**train-crfasrnn**](https://github.com/KleinYuan/train-crfasrnn)|Detailed guide to help you understand how to train CRF as RNN||
 |3|[@arteymix](https://github.com/arteymix)/[**kohana-makefile**](https://github.com/arteymix/kohana-makefile)|Automate common boring tasks related to the Kohana framework||

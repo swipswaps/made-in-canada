@@ -1,18 +1,18 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|13856|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**Probabilistic-Programming-and-Bayesian-Methods-for-Hackers**](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)|aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  |[:arrow_upper_right:](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)|
-|1186|[@guillaume-chevalier](https://github.com/guillaume-chevalier)/[**LSTM-Human-Activity-Recognition**](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition)|Human activity recognition using TensorFlow on smartphone sensors dataset and an LSTM RNN. Classifying the type of movement amongst six categories (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).||
-|961|[@Kulbear](https://github.com/Kulbear)/[**deep-learning-coursera**](https://github.com/Kulbear/deep-learning-coursera)|Deep Learning Specialization by Andrew Ng on Coursera.||
-|551|[@lmcinnes](https://github.com/lmcinnes)/[**umap**](https://github.com/lmcinnes/umap)|Uniform Manifold Approximation and Projection||
-|317|[@priya-dwivedi](https://github.com/priya-dwivedi)/[**Deep-Learning**](https://github.com/priya-dwivedi/Deep-Learning)|||
-|278|[@rcompton](https://github.com/rcompton)/[**ml_cheat_sheet**](https://github.com/rcompton/ml_cheat_sheet)|My notes and superstitions about common machine learning algorithms||
-|257|[@MIT-LCP](https://github.com/MIT-LCP)/[**mimic-code**](https://github.com/MIT-LCP/mimic-code)|MIMIC Code Repository: Code shared by the research community for the MIMIC-III database|[:arrow_upper_right:](https://mimic.physionet.org)|
+|13896|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**Probabilistic-Programming-and-Bayesian-Methods-for-Hackers**](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)|aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  |[:arrow_upper_right:](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)|
+|1203|[@guillaume-chevalier](https://github.com/guillaume-chevalier)/[**LSTM-Human-Activity-Recognition**](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition)|Human activity recognition using TensorFlow on smartphone sensors dataset and an LSTM RNN. Classifying the type of movement amongst six categories (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).||
+|999|[@Kulbear](https://github.com/Kulbear)/[**deep-learning-coursera**](https://github.com/Kulbear/deep-learning-coursera)|Deep Learning Specialization by Andrew Ng on Coursera.||
+|558|[@lmcinnes](https://github.com/lmcinnes)/[**umap**](https://github.com/lmcinnes/umap)|Uniform Manifold Approximation and Projection||
+|333|[@priya-dwivedi](https://github.com/priya-dwivedi)/[**Deep-Learning**](https://github.com/priya-dwivedi/Deep-Learning)|||
+|279|[@rcompton](https://github.com/rcompton)/[**ml_cheat_sheet**](https://github.com/rcompton/ml_cheat_sheet)|My notes and superstitions about common machine learning algorithms||
+|260|[@MIT-LCP](https://github.com/MIT-LCP)/[**mimic-code**](https://github.com/MIT-LCP/mimic-code)|MIMIC Code Repository: Code shared by the research community for the MIMIC-III database|[:arrow_upper_right:](https://mimic.physionet.org)|
 |232|[@kracwarlock](https://github.com/kracwarlock)/[**action-recognition-visual-attention**](https://github.com/kracwarlock/action-recognition-visual-attention)|Action recognition using soft attention based deep recurrent neural networks|[:arrow_upper_right:](http://www.cs.toronto.edu/~shikhar/projects/action-recognition-attention)|
-|216|[@lexfridman](https://github.com/lexfridman)/[**deepcars**](https://github.com/lexfridman/deepcars)|||
-|209|[@guillaume-chevalier](https://github.com/guillaume-chevalier)/[**seq2seq-signal-prediction**](https://github.com/guillaume-chevalier/seq2seq-signal-prediction)|Signal prediction with a Sequence-to-Sequence (seq2seq) Recurrent Neural Network (RNN) model in TensorFlow||
-|181|[@terryum](https://github.com/terryum)/[**TensorFlow_Exercises**](https://github.com/terryum/TensorFlow_Exercises)|The codes I made while I practiced various TensorFlow examples||
+|225|[@lexfridman](https://github.com/lexfridman)/[**deepcars**](https://github.com/lexfridman/deepcars)|||
+|212|[@guillaume-chevalier](https://github.com/guillaume-chevalier)/[**seq2seq-signal-prediction**](https://github.com/guillaume-chevalier/seq2seq-signal-prediction)|Signal prediction with a Sequence-to-Sequence (seq2seq) Recurrent Neural Network (RNN) model in TensorFlow||
+|183|[@terryum](https://github.com/terryum)/[**TensorFlow_Exercises**](https://github.com/terryum/TensorFlow_Exercises)|The codes I made while I practiced various TensorFlow examples||
+|112|[@Kulbear](https://github.com/Kulbear)/[**deep-learning-nano-foundation**](https://github.com/Kulbear/deep-learning-nano-foundation)|Udacity's Deep Learning Nano Foundation program.||
 |109|[@Prooffreader](https://github.com/Prooffreader)/[**election_2016_data**](https://github.com/Prooffreader/election_2016_data)|Scraped data from the 2016 U.S. Election (President, Senate, House, Governor) and primaries, ballot measures and exit polls||
-|108|[@Kulbear](https://github.com/Kulbear)/[**deep-learning-nano-foundation**](https://github.com/Kulbear/deep-learning-nano-foundation)|Udacity's Deep Learning Nano Foundation program.||
 |92|[@jfsantos](https://github.com/jfsantos)/[**keras-tutorial**](https://github.com/jfsantos/keras-tutorial)|Tutorial teaching the basics of Keras and some deep learning concepts||
 |79|[@tpoisot](https://github.com/tpoisot)/[**ScientificComputingForTheRestOfUs**](https://github.com/tpoisot/ScientificComputingForTheRestOfUs)|Introduction to Scientific Computing  🦊||
 |56|[@nickhould](https://github.com/nickhould)/[**craft-beers-dataset**](https://github.com/nickhould/craft-beers-dataset)|Craft Beers & Data Science - Data Analysis of a Craft Beer Dataset|[:arrow_upper_right:](http://www.jeannicholashould.com)|
@@ -20,32 +20,32 @@
 |47|[@priya-dwivedi](https://github.com/priya-dwivedi)/[**CarND**](https://github.com/priya-dwivedi/CarND)|||
 |44|[@thoughtworks](https://github.com/thoughtworks)/[**dadoware**](https://github.com/thoughtworks/dadoware)|Brazilian-Portuguese word list and instructions booklet for Diceware||
 |41|[@samuelcolvin](https://github.com/samuelcolvin)/[**Bokeh.jl**](https://github.com/samuelcolvin/Bokeh.jl)|Bokeh Bindings for Julia||
+|37|[@Kulbear](https://github.com/Kulbear)/[**stock-prediction**](https://github.com/Kulbear/stock-prediction)|Stock price prediction with recurrent neural network. The data is from the Chinese stock.||
 |36|[@bigsnarfdude](https://github.com/bigsnarfdude)/[**SELU_Keras_Tutorial**](https://github.com/bigsnarfdude/SELU_Keras_Tutorial)|Keras based Tutorials and implementations for "Self-normalizing networks" - new activation function SELU||
-|34|[@Kulbear](https://github.com/Kulbear)/[**stock-prediction**](https://github.com/Kulbear/stock-prediction)|Stock price prediction with recurrent neural network. The data is from the Chinese stock.||
-|34|[@jts](https://github.com/jts)/[**nanocorrect**](https://github.com/jts/nanocorrect)|Experimental pipeline for correcting nanopore reads||
+|35|[@jts](https://github.com/jts)/[**nanocorrect**](https://github.com/jts/nanocorrect)|Experimental pipeline for correcting nanopore reads||
+|32|[@nickhould](https://github.com/nickhould)/[**tidy-data-python**](https://github.com/nickhould/tidy-data-python)|Tidy Data in Python Jupyter Notebook|[:arrow_upper_right:](http://www.jeannicholashould.com/tidy-data-in-python.html)|
 |31|[@hadim](https://github.com/hadim)/[**pygraphml**](https://github.com/hadim/pygraphml)|Small library to parse GraphML file in Python|[:arrow_upper_right:](http://hadim.github.io/pygraphml/)|
-|31|[@nickhould](https://github.com/nickhould)/[**tidy-data-python**](https://github.com/nickhould/tidy-data-python)|Tidy Data in Python Jupyter Notebook|[:arrow_upper_right:](http://www.jeannicholashould.com/tidy-data-in-python.html)|
 |26|[@jiahao](https://github.com/jiahao)/[**ijulia-notebooks**](https://github.com/jiahao/ijulia-notebooks)|My IJulia notebooks||
 |26|[@mgbellemare](https://github.com/mgbellemare)/[**SkipCTS**](https://github.com/mgbellemare/SkipCTS)|Skip Context Tree Switching - Reference Implementation||
 |21|[@Currie32](https://github.com/Currie32)/[**Spell-Checker**](https://github.com/Currie32/Spell-Checker)|A seq2seq model that can correct spelling mistakes.||
 |18|[@WilsonWangTHU](https://github.com/WilsonWangTHU)/[**clothesDetection**](https://github.com/WilsonWangTHU/clothesDetection)|This repository is not updated anymore due to its confidentiality. Further information please contact http://personal.ie.cuhk.edu.hk/~lz013/|[:arrow_upper_right:](http://personal.ie.cuhk.edu.hk/~lz013/)|
+|17|[@MIT-LCP](https://github.com/MIT-LCP)/[**eicu-code**](https://github.com/MIT-LCP/eicu-code)|Code shared by the research community for the eICU Collaborative Research Database |[:arrow_upper_right:](http://eicu-crd.mit.edu/)|
 |17|[@lmcinnes](https://github.com/lmcinnes)/[**subreddit_mapping**](https://github.com/lmcinnes/subreddit_mapping)|Notebooks and data associated to constructing and exploring a map of subreddits.||
-|16|[@MIT-LCP](https://github.com/MIT-LCP)/[**eicu-code**](https://github.com/MIT-LCP/eicu-code)|Code shared by the research community for the eICU Collaborative Research Database |[:arrow_upper_right:](http://eicu-crd.mit.edu/)|
-|15|[@Elyorcv](https://github.com/Elyorcv)/[**zsl-deep-learning**](https://github.com/Elyorcv/zsl-deep-learning)|Zero-shot learning experiments by deep learning.||
-|15|[@MIT-LCP](https://github.com/MIT-LCP)/[**mimic-workshop**](https://github.com/MIT-LCP/mimic-workshop)|Introduction to MIMIC-III, the Critical Care Database||
+|16|[@Elyorcv](https://github.com/Elyorcv)/[**zsl-deep-learning**](https://github.com/Elyorcv/zsl-deep-learning)|Zero-shot learning experiments by deep learning.||
+|16|[@MIT-LCP](https://github.com/MIT-LCP)/[**mimic-workshop**](https://github.com/MIT-LCP/mimic-workshop)|Introduction to MIMIC-III, the Critical Care Database||
 |15|[@MarcelloLins](https://github.com/MarcelloLins)/[**Algorithms-Done-Right**](https://github.com/MarcelloLins/Algorithms-Done-Right)|||
 |14|[@bmcfee](https://github.com/bmcfee)/[**ismir2017_chords**](https://github.com/bmcfee/ismir2017_chords)|ISMIR 2017: structured training for large vocab chord recognition||
 |13|[@MIT-LCP](https://github.com/MIT-LCP)/[**mimic-iii-paper**](https://github.com/MIT-LCP/mimic-iii-paper)|Repository for the paper describing MIMIC-III|[:arrow_upper_right:](http://www.nature.com/articles/sdata201635)|
 |13|[@UBC-MDS](https://github.com/UBC-MDS)/[**public**](https://github.com/UBC-MDS/public)|Public documents for the Master of Data Science program at the University of British Columbia||
+|13|[@bmcfee](https://github.com/bmcfee)/[**olda**](https://github.com/bmcfee/olda)|Music segmentation by ordinal linear discriminant analysis||
 |13|[@mycarta](https://github.com/mycarta)/[**predict**](https://github.com/mycarta/predict)|||
-|12|[@bmcfee](https://github.com/bmcfee)/[**olda**](https://github.com/bmcfee/olda)|Music segmentation by ordinal linear discriminant analysis||
 |12|[@hpssjellis](https://github.com/hpssjellis)/[**fourth-tensorflow**](https://github.com/hpssjellis/fourth-tensorflow)|Forth attempt at making tensorflow easier for windows users||
 |12|[@mycarta](https://github.com/mycarta)/[**sketch2model**](https://github.com/mycarta/sketch2model)||[:arrow_upper_right:](http://sketch2model.com/)|
 |10|[@rcompton](https://github.com/rcompton)/[**ryancompton.net**](https://github.com/rcompton/ryancompton.net)|My website, done in Jekyll||
+|10|[@uwoseis](https://github.com/uwoseis)/[**zephyr**](https://github.com/uwoseis/zephyr)|Open-source seismic waveform modelling and inversion code written in Python|[:arrow_upper_right:](https://zephyr.space)|
 |9|[@guillaume-chevalier](https://github.com/guillaume-chevalier)/[**python-caffe-custom-cifar-100-conv-net**](https://github.com/guillaume-chevalier/python-caffe-custom-cifar-100-conv-net)|Custom convolutional neural network on cifar-100 dataset for image classification. Images and their labels are processed to HDF5 data format for use in Caffe. ||
 |9|[@ixkael](https://github.com/ixkael)/[**Prob-tools**](https://github.com/ixkael/Prob-tools)|||
 |9|[@kwinkunks](https://github.com/kwinkunks)/[**notebooks**](https://github.com/kwinkunks/notebooks)|IPython Notebooks||
-|9|[@uwoseis](https://github.com/uwoseis)/[**zephyr**](https://github.com/uwoseis/zephyr)|Open-source seismic waveform modelling and inversion code written in Python|[:arrow_upper_right:](https://zephyr.space)|
 |8|[@jiahao](https://github.com/jiahao)/[**ijulia-notebooks-assorted**](https://github.com/jiahao/ijulia-notebooks-assorted)|Assorted IJulia notebooks in various stages of usefulness for public consumption.||
 |8|[@zafarali](https://github.com/zafarali)/[**sentiment.datalogue**](https://github.com/zafarali/sentiment.datalogue)|Sentiment analysis challenge for Datalogue recruiting|[:arrow_upper_right:](https://datalogue.github.io/recruiting/)|
 |7|[@CNuge](https://github.com/CNuge)/[**kaggle_code**](https://github.com/CNuge/kaggle_code)|A repository for some of the code I use in kaggle data science/ machine learning tasks.||

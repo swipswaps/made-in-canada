@@ -1,6 +1,5 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|212|[@dgryski](https://github.com/dgryski)/[**vim-godef**](https://github.com/dgryski/vim-godef)|vim plugin providing godef support||
 |184|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
 |137|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |88|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|:rocket: Quickly init a slightly better Vim.||

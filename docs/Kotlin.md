@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|303|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatMagician**](https://github.com/Gh0u1L5/WechatMagician)|WechatMagician is a Xposed module written in Kotlin, that can prevent Wechat from recalling messages, deleting moments or comments.|[:arrow_upper_right:](http://repo.xposed.info/module/com.gh0u1l5.wechatmagician)|
+|322|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatMagician**](https://github.com/Gh0u1L5/WechatMagician)|WechatMagician is a Xposed module written in Kotlin, that can prevent Wechat from recalling messages, deleting moments or comments.|[:arrow_upper_right:](http://repo.xposed.info/module/com.gh0u1l5.wechatmagician)|
 |50|[@f2prateek](https://github.com/f2prateek)/[**android-bee**](https://github.com/f2prateek/android-bee)||[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.f2prateek.bee)|
+|48|[@AllanWang](https://github.com/AllanWang)/[**KAU**](https://github.com/AllanWang/KAU)|An extensive collection of Kotlin Android Utils|[:arrow_upper_right:](https://allanwang.github.io/KAU/)|
 |47|[@rock3r](https://github.com/rock3r)/[**uplift**](https://github.com/rock3r/uplift)|A playground for elevation on Android||
-|46|[@AllanWang](https://github.com/AllanWang)/[**KAU**](https://github.com/AllanWang/KAU)|An extensive collection of Kotlin Android Utils|[:arrow_upper_right:](https://allanwang.github.io/KAU/)|
 |42|[@AllanWang](https://github.com/AllanWang)/[**Frost-for-Facebook**](https://github.com/AllanWang/Frost-for-Facebook)|An extensive and functional third party app for Facebook|[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.pitchedapps.frost)|
 |26|[@cesarferreira](https://github.com/cesarferreira)/[**kotlin-pluralizer**](https://github.com/cesarferreira/kotlin-pluralizer)|:sunny: Kotlin extension to pluralize and singularize strings||
 |24|[@rock3r](https://github.com/rock3r)/[**elevation-tester**](https://github.com/rock3r/elevation-tester)|A playground for elevation on Android||

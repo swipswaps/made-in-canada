@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|13370|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
-|580|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
-|278|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
-|233|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
+|13445|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
+|583|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
+|279|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
+|234|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
 |181|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
-|122|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execushares**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
+|124|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execushares**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
 |84|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
 |51|[@patmorin](https://github.com/patmorin)/[**arraylayout**](https://github.com/patmorin/arraylayout)|Experiments with array layouts for comparison-based searching|[:arrow_upper_right:](http://cglab.ca/~morin/misc/arraylayout-v2/)|
 |44|[@christhomson](https://github.com/christhomson)/[**lecture-notes**](https://github.com/christhomson/lecture-notes)|LaTeX notes for a few courses I've taken at the University of Waterloo.|[:arrow_upper_right:](http://cthomson.ca/notes)|

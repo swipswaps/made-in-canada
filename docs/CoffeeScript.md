@@ -1,14 +1,14 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |1488|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
-|1163|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Beautification abstraction package for Atom editor|[:arrow_upper_right:](https://twitter.com/unibeautify)|
+|1169|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Beautification abstraction package for Atom editor|[:arrow_upper_right:](https://twitter.com/unibeautify)|
 |427|[@keithamus](https://github.com/keithamus)/[**parallelshell**](https://github.com/keithamus/parallelshell)|Run multiple shell commands in parallel||
 |397|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls|[:arrow_upper_right:](https://echoplex.us)|
 |231|[@EtienneLem](https://github.com/EtienneLem)/[**skeleton**](https://github.com/EtienneLem/skeleton)|Express 3.0 framework-less app structure generator|[:arrow_upper_right:](http://etiennelem.github.com/skeleton)|
 |216|[@axiomzen](https://github.com/axiomzen)/[**Alike**](https://github.com/axiomzen/Alike)|A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances||
-|189|[@benbria](https://github.com/benbria)/[**aliasify**](https://github.com/benbria/aliasify)|Rewrite require calls in browserify modules.||
+|190|[@benbria](https://github.com/benbria)/[**aliasify**](https://github.com/benbria/aliasify)|Rewrite require calls in browserify modules.||
 |189|[@raganwald](https://github.com/raganwald)/[**YouAreDaChef**](https://github.com/raganwald/YouAreDaChef)|Coffeescript/Javascript method combinations for Underscore projects||
-|187|[@fw42](https://github.com/fw42)/[**honeymap**](https://github.com/fw42/honeymap)|Real-time websocket stream of GPS events on a fancy SVG world map|[:arrow_upper_right:](http://map.honeynet.org/)|
+|188|[@fw42](https://github.com/fw42)/[**honeymap**](https://github.com/fw42/honeymap)|Real-time websocket stream of GPS events on a fancy SVG world map|[:arrow_upper_right:](http://map.honeynet.org/)|
 |185|[@zaidka](https://github.com/zaidka)/[**genieacs**](https://github.com/zaidka/genieacs)|A fast and lightweight TR-069 Auto Configuration Server (ACS)|[:arrow_upper_right:](https://genieacs.com)|
 |180|[@raganwald](https://github.com/raganwald)/[**Katy**](https://github.com/raganwald/Katy)|CoffeeScript and JavaScript Combinators||
 |150|[@pcrawfor](https://github.com/pcrawfor)/[**iap_verifier**](https://github.com/pcrawfor/iap_verifier)|Node.js implementation of iOS In App Purchase receipt verification||
@@ -19,7 +19,7 @@
 |101|[@axiomzen](https://github.com/axiomzen)/[**Look-Alike**](https://github.com/axiomzen/Look-Alike)|A simple-yet-powerful KD-tree library for NodeJS, with support for lightning-fast k-Nearest Neighbour queries.||
 |98|[@mohebifar](https://github.com/mohebifar)/[**angular-persian**](https://github.com/mohebifar/angular-persian)|:earth_asia: Persian tools for angular.js||
 |92|[@jaicab](https://github.com/jaicab)/[**Paraxify.js**](https://github.com/jaicab/Paraxify.js)|Progressive enhancement on parallax inspired by Spotify's|[:arrow_upper_right:](http://jaicab.com/Paraxify.js/)|
-|90|[@EtienneLem](https://github.com/EtienneLem)/[**atom-rdio**](https://github.com/EtienneLem/atom-rdio)|Adds Rdio controls to Atom and displays the currently playing song in the status bar|[:arrow_upper_right:](https://atom.io/packages/Rdio)|
+|89|[@EtienneLem](https://github.com/EtienneLem)/[**atom-rdio**](https://github.com/EtienneLem/atom-rdio)|Adds Rdio controls to Atom and displays the currently playing song in the status bar|[:arrow_upper_right:](https://atom.io/packages/Rdio)|
 |84|[@kmalakoff](https://github.com/kmalakoff)/[**mixin**](https://github.com/kmalakoff/mixin)|Mixin.js is the 'reuse more' Javascript nano-framework. Stay DRY...mixin!|[:arrow_upper_right:](http://braincode.tumblr.com/post/11026285083/mixin-js-the-javascript-nano-framework)|
 |80|[@ssokolow](https://github.com/ssokolow)/[**itad_importer**](https://github.com/ssokolow/itad_importer)|A userscript helper for importing game collections into IsThereAnyDeal.com|[:arrow_upper_right:](https://greasyfork.org/en/scripts/13887-isthereanydeal-com-collection-importer)|
 |78|[@brianmhunt](https://github.com/brianmhunt)/[**casper-chai**](https://github.com/brianmhunt/casper-chai)|Extends Chai with assertions for the CasperJS/PhantomJS headless browser.||
@@ -37,14 +37,14 @@
 |32|[@raganwald](https://github.com/raganwald)/[**cafeaulife**](https://github.com/raganwald/cafeaulife)|Gosper’s HashLife in CoffeeScript|[:arrow_upper_right:](http://recursiveuniver.se)|
 |32|[@srsgores](https://github.com/srsgores)/[**generator-joomla-component**](https://github.com/srsgores/generator-joomla-component)|yeoman generator for joomla components||
 |31|[@dpo](https://github.com/dpo)/[**atom-python-debugger**](https://github.com/dpo/atom-python-debugger)|IDE-like Python debugger for Atom||
-|26|[@HappenApps](https://github.com/HappenApps)/[**quiver2html**](https://github.com/HappenApps/quiver2html)|A utility to convert a Quiver notebook or note to HTML.||
+|27|[@HappenApps](https://github.com/HappenApps)/[**quiver2html**](https://github.com/HappenApps/quiver2html)|A utility to convert a Quiver notebook or note to HTML.||
 |25|[@Glavin001](https://github.com/Glavin001)/[**atom-gitter**](https://github.com/Glavin001/atom-gitter)|(UNMAINTAINED) :calling: Gitter chat integration with Atom.io|[:arrow_upper_right:](https://atom.io/packages/gitter)|
 |25|[@mispy](https://github.com/mispy)/[**heart**](https://github.com/mispy/heart)|A very silly Valentine's Day HTML5 experiment :)|[:arrow_upper_right:](http://heart.mispy.me/)|
 |24|[@benbria](https://github.com/benbria)/[**dashing-client**](https://github.com/benbria/dashing-client)|Client for sending data to Dashing from node.js||
 |24|[@wa0x6e](https://github.com/wa0x6e)/[**dashing-resque**](https://github.com/wa0x6e/dashing-resque)|Resque dashing widget to monitor resque jobs, queues and worker activities.||
+|23|[@benbria](https://github.com/benbria)/[**node-bunyan-lumberjack**](https://github.com/benbria/node-bunyan-lumberjack)|Send bunyan logs to logstash using the lumberjack protocol.||
 |23|[@radekstepan](https://github.com/radekstepan)/[**ukraine**](https://github.com/radekstepan/ukraine)|Node.js PaaS based on Haibu||
 |22|[@axiomzen](https://github.com/axiomzen)/[**zenbase-angular**](https://github.com/axiomzen/zenbase-angular)|Opinionated gulp-angular-coffee-stylus-jade boilerplate||
-|22|[@benbria](https://github.com/benbria)/[**node-bunyan-lumberjack**](https://github.com/benbria/node-bunyan-lumberjack)|Send bunyan logs to logstash using the lumberjack protocol.||
 |22|[@kmalakoff](https://github.com/kmalakoff)/[**backbone-articulation**](https://github.com/kmalakoff/backbone-articulation)|Add custom attribute serialization and deserialization to your Backbone.Models.|[:arrow_upper_right:](http://braincode.tumblr.com/post/10682432555/introducing-backbone-articulation)|
 |20|[@adamhooper](https://github.com/adamhooper)/[**js-sorted-set**](https://github.com/adamhooper/js-sorted-set)|Sorted set data structures in JavaScript||
 |18|[@EtienneLem](https://github.com/EtienneLem)/[**commandz**](https://github.com/EtienneLem/commandz)|⌘Z adds commands history support to your web app|[:arrow_upper_right:](http://etiennelem.github.io/commandz)|
@@ -99,6 +99,7 @@
 |6|[@rileyjshaw](https://github.com/rileyjshaw)/[**2p-snake**](https://github.com/rileyjshaw/2p-snake)|:snake: Snake for 2 players on the same keyboard! Saucy.||
 |6|[@travisjeffery](https://github.com/travisjeffery)/[**hubot-socket.io**](https://github.com/travisjeffery/hubot-socket.io)|Socket IO adapter for Hubot.||
 |5|[@Glavin001](https://github.com/Glavin001)/[**atom-coffeescript-preview**](https://github.com/Glavin001/atom-coffeescript-preview)|DEPRECATED: Preview what your CoffeeScript will look like as JavaScript|[:arrow_upper_right:](https://atom.io/packages/coffeescript-preview)|
+|5|[@bencentra](https://github.com/bencentra)/[**hubot-giphy-gifme**](https://github.com/bencentra/hubot-giphy-gifme)|"gif me" command for Hubot, get random GIFs from Giphy!||
 |5|[@briannesbitt](https://github.com/briannesbitt)/[**QuicksortMicrobenchmark**](https://github.com/briannesbitt/QuicksortMicrobenchmark)|I wrote a blog post about benchmarking the quicksort sorting algorithm in several languages.|[:arrow_upper_right:](http://nesbot.com/2012/2/8/a-quick-microbenchmark)|
 |5|[@ddaws](https://github.com/ddaws)/[**atom-makro**](https://github.com/ddaws/atom-makro)|Quickly access and execute you Makefile targets.||
 |5|[@dougmoscrop](https://github.com/dougmoscrop)/[**angularjs-templates-brunch**](https://github.com/dougmoscrop/angularjs-templates-brunch)|Compile templates in to an AngularJS module as a Brunch plugin||
@@ -112,7 +113,6 @@
 |4|[@adamhooper](https://github.com/adamhooper)/[**js-uglydb**](https://github.com/adamhooper/js-uglydb)|Pack large JSON objects into to small sizes by normalizing.||
 |4|[@aekeus](https://github.com/aekeus)/[**colint**](https://github.com/aekeus/colint)|Collective intelligence library||
 |4|[@axiomzen](https://github.com/axiomzen)/[**mongoose-compliant-paranoia**](https://github.com/axiomzen/mongoose-compliant-paranoia)|||
-|4|[@bencentra](https://github.com/bencentra)/[**hubot-giphy-gifme**](https://github.com/bencentra/hubot-giphy-gifme)|"gif me" command for Hubot, get random GIFs from Giphy!||
 |4|[@fictorial](https://github.com/fictorial)/[**trie**](https://github.com/fictorial/trie)|a trie implementation in CoffeeScript||
 |4|[@honza](https://github.com/honza)/[**photolab.coffee**](https://github.com/honza/photolab.coffee)|Photolab is a photo organizational and sorting tool.|[:arrow_upper_right:](https://github.com/honza/photolab.coffee)|
 |4|[@radekstepan](https://github.com/radekstepan)/[**ldjson-to-couchdb**](https://github.com/radekstepan/ldjson-to-couchdb)|Pipe STDIN in LDJSON format to CouchDB||
@@ -147,4 +147,5 @@
 |3|[@unframework](https://github.com/unframework)/[**eltrn**](https://github.com/unframework/eltrn)|WebAudio sampler/sequencer interface|[:arrow_upper_right:](http://unframework.github.io/eltrn/)|
 |3|[@unframework](https://github.com/unframework)/[**satchel-game**](https://github.com/unframework/satchel-game)|HTML5 sample game using Angular.JS||
 |3|[@vizv](https://github.com/vizv)/[**dockerfile-editor**](https://github.com/vizv/dockerfile-editor)| Dockerfile Online Editor ||
+|3|[@walkah](https://github.com/walkah)/[**fritz**](https://github.com/walkah/fritz)|my personal robot||
 

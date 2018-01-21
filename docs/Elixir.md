@@ -1,22 +1,22 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|283|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
-|166|[@jkakar](https://github.com/jkakar)/[**aws-elixir**](https://github.com/jkakar/aws-elixir)|AWS clients for Elixir||
-|153|[@jarednorman](https://github.com/jarednorman)/[**canada**](https://github.com/jarednorman/canada)|Easy permission definitions in Elixir apps!|[:arrow_upper_right:](https://github.com/jarednorman/canada)|
+|288|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
+|165|[@jkakar](https://github.com/jkakar)/[**aws-elixir**](https://github.com/jkakar/aws-elixir)|AWS clients for Elixir||
+|155|[@jarednorman](https://github.com/jarednorman)/[**canada**](https://github.com/jarednorman/canada)|Easy permission definitions in Elixir apps!|[:arrow_upper_right:](https://github.com/jarednorman/canada)|
 |148|[@talentdeficit](https://github.com/talentdeficit)/[**exjsx**](https://github.com/talentdeficit/exjsx)|json for elixir||
-|139|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
+|142|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
 |136|[@joshnuss](https://github.com/joshnuss)/[**commerce_billing**](https://github.com/joshnuss/commerce_billing)|A payment processing library for Elixir||
 |134|[@joshnuss](https://github.com/joshnuss)/[**design-patterns-in-elixir**](https://github.com/joshnuss/design-patterns-in-elixir)|Common design patterns in Elixir||
 |111|[@GesJeremie](https://github.com/GesJeremie)/[**faker-elixir**](https://github.com/GesJeremie/faker-elixir)|:droplet: FakerElixir generates fake data for you. |[:arrow_upper_right:](https://hexdocs.pm/faker_elixir_octopus/FakerElixir.html)|
-|103|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
-|79|[@expede](https://github.com/expede)/[**algae**](https://github.com/expede/algae)|Bootstrapped algebraic data types for Elixir|[:arrow_upper_right:](https://hex.pm/packages/algae)|
-|68|[@joshnuss](https://github.com/joshnuss)/[**xml_builder**](https://github.com/joshnuss/xml_builder)|Elixir library for generating XML||
+|104|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
+|80|[@expede](https://github.com/expede)/[**algae**](https://github.com/expede/algae)|Bootstrapped algebraic data types for Elixir|[:arrow_upper_right:](https://hex.pm/packages/algae)|
+|69|[@joshnuss](https://github.com/joshnuss)/[**xml_builder**](https://github.com/joshnuss/xml_builder)|Elixir library for generating XML||
 |58|[@matehat](https://github.com/matehat)/[**cqex**](https://github.com/matehat/cqex)|Idiomatic Cassandra client for Elixir||
 |57|[@yrashk](https://github.com/yrashk)/[**relex**](https://github.com/yrashk/relex)|Erlang/Elixir Release Assembler||
-|51|[@expede](https://github.com/expede)/[**type_class**](https://github.com/expede/type_class)|(Semi-)principled type classes for Elixir|[:arrow_upper_right:](https://hex.pm/packages/type_class)|
+|52|[@expede](https://github.com/expede)/[**type_class**](https://github.com/expede/type_class)|(Semi-)principled type classes for Elixir|[:arrow_upper_right:](https://hex.pm/packages/type_class)|
 |51|[@joshnuss](https://github.com/joshnuss)/[**phoenix-billing-demo**](https://github.com/joshnuss/phoenix-billing-demo)|A demo of using commerce_billing with phoenix||
 |49|[@a115](https://github.com/a115)/[**exmatrix**](https://github.com/a115/exmatrix)|Elixir library implementing a parallel matrix multiplication algorithm and other utilities for working with matrices. Used for benchmarking computationally intensive concurrent code. |[:arrow_upper_right:](http://a115.co.uk/)|
-|44|[@ChrisYammine](https://github.com/ChrisYammine)/[**ex_trello**](https://github.com/ChrisYammine/ex_trello)|An Elixir library for interfacing with the Trello API||
+|45|[@ChrisYammine](https://github.com/ChrisYammine)/[**ex_trello**](https://github.com/ChrisYammine/ex_trello)|An Elixir library for interfacing with the Trello API||
 |44|[@jarednorman](https://github.com/jarednorman)/[**plugsnag**](https://github.com/jarednorman/plugsnag)|A Bugsnag notifier for Elixir's plug||
 |43|[@yrashk](https://github.com/yrashk)/[**genx**](https://github.com/yrashk/genx)|Elixir-style library for most important OTP functionality||
 |41|[@jarednorman](https://github.com/jarednorman)/[**bugsnag-elixir**](https://github.com/jarednorman/bugsnag-elixir)|An Elixir interface to the Bugsnag API|[:arrow_upper_right:](https://hex.pm/packages/bugsnag)|
@@ -31,10 +31,10 @@
 |12|[@yrashk](https://github.com/yrashk)/[**exmsgpack**](https://github.com/yrashk/exmsgpack)|MessagePack for Elixir||
 |12|[@yrashk](https://github.com/yrashk)/[**exreloader**](https://github.com/yrashk/exreloader)|Automatic module reloader for Elixir||
 |11|[@yrashk](https://github.com/yrashk)/[**exconfig**](https://github.com/yrashk/exconfig)|Configuration library for Elixir||
-|11|[@yrashk](https://github.com/yrashk)/[**exn**](https://github.com/yrashk/exn)|Elixir Notation||
+|10|[@remiprev](https://github.com/remiprev)/[**plug_letsencrypt**](https://github.com/remiprev/plug_letsencrypt)|PlugLetsEncrypt responds to Let’s Encrypt domain verification requests.||
 |10|[@simonprev](https://github.com/simonprev)/[**solage**](https://github.com/simonprev/solage)|Basic tools to implement a JSON API with awesome features taken from the jsonapi.org spec||
+|10|[@yrashk](https://github.com/yrashk)/[**exn**](https://github.com/yrashk/exn)|Elixir Notation||
 |9|[@aforward](https://github.com/aforward)/[**ar2ecto**](https://github.com/aforward/ar2ecto)|Migrate your active record migrations to ecto compatible migrations||
-|9|[@remiprev](https://github.com/remiprev)/[**plug_letsencrypt**](https://github.com/remiprev/plug_letsencrypt)|PlugLetsEncrypt responds to Let’s Encrypt domain verification requests.||
 |9|[@yrashk](https://github.com/yrashk)/[**cage**](https://github.com/yrashk/cage)|Rack-inspired HTTP stack handling library for Elixir||
 |9|[@yrashk](https://github.com/yrashk)/[**exrecord**](https://github.com/yrashk/exrecord)|A tiny library to facilitate record upgrades in Elixir||
 |8|[@aforward](https://github.com/aforward)/[**version_tasks**](https://github.com/aforward/version_tasks)|elixir mix task to automate the incrementation of your project||

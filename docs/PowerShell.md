@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|401|[@lazywinadmin](https://github.com/lazywinadmin)/[**PowerShell**](https://github.com/lazywinadmin/PowerShell)|PowerShell functions and scripts (SCCM, SCSM, AD, Exchange, O365, ...)|[:arrow_upper_right:](http://lazywinadmin.com)|
-|70|[@lazywinadmin](https://github.com/lazywinadmin)/[**LazyWinAdmin_GUI**](https://github.com/lazywinadmin/LazyWinAdmin_GUI)|PowerShell Script that generates a GUI/WinForms loaded with tons of functions|[:arrow_upper_right:](http://lazywinadmin.github.io/LazyWinAdmin_GUI/)|
-|51|[@lazywinadmin](https://github.com/lazywinadmin)/[**AdsiPS**](https://github.com/lazywinadmin/AdsiPS)|PowerShell module to interact with Active Directory using ADSI and the System.DirectoryServices namespace (.NET Framework)|[:arrow_upper_right:](http://www.lazywinadmin.com)|
+|404|[@lazywinadmin](https://github.com/lazywinadmin)/[**PowerShell**](https://github.com/lazywinadmin/PowerShell)|PowerShell functions and scripts (SCCM, SCSM, AD, Exchange, O365, ...)|[:arrow_upper_right:](http://lazywinadmin.com)|
+|71|[@lazywinadmin](https://github.com/lazywinadmin)/[**LazyWinAdmin_GUI**](https://github.com/lazywinadmin/LazyWinAdmin_GUI)|PowerShell Script that generates a GUI/WinForms loaded with tons of functions|[:arrow_upper_right:](http://lazywinadmin.github.io/LazyWinAdmin_GUI/)|
+|52|[@lazywinadmin](https://github.com/lazywinadmin)/[**AdsiPS**](https://github.com/lazywinadmin/AdsiPS)|PowerShell module to interact with Active Directory using ADSI and the System.DirectoryServices namespace (.NET Framework)|[:arrow_upper_right:](http://www.lazywinadmin.com)|
 |50|[@lazywinadmin](https://github.com/lazywinadmin)/[**Monitor-ADGroupMembership**](https://github.com/lazywinadmin/Monitor-ADGroupMembership)|PowerShell script to monitor Active Directory groups and send an email when someone is changing the membership||
 |49|[@dlwyatt](https://github.com/dlwyatt)/[**ProtectedData**](https://github.com/dlwyatt/ProtectedData)|PowerShell Module for securely encrypting and sharing secret data such as passwords.||
 |47|[@dlwyatt](https://github.com/dlwyatt)/[**PolicyFileEditor**](https://github.com/dlwyatt/PolicyFileEditor)|PowerShell functions and DSC resource wrappers around the TJX.PolFileEditor.PolFile .NET class.||
@@ -15,7 +15,7 @@
 |19|[@lazywinadmin](https://github.com/lazywinadmin)/[**MVP**](https://github.com/lazywinadmin/MVP)|PowerShell Module to interact with the Microsoft MVP API||
 |17|[@jlouros](https://github.com/jlouros)/[**PowerShell-toolbox**](https://github.com/jlouros/PowerShell-toolbox)|my collection of PowerShell scripts||
 |14|[@atrauzzi](https://github.com/atrauzzi)/[**laravel-drydock**](https://github.com/atrauzzi/laravel-drydock)|A premade, easy to use local development setup to be used for authoring Laravel applications||
-|12|[@BCSharp](https://github.com/BCSharp)/[**PSCondaEnvs**](https://github.com/BCSharp/PSCondaEnvs)|Implementation of Conda's activate/deactivate functions in Powershell.||
+|13|[@BCSharp](https://github.com/BCSharp)/[**PSCondaEnvs**](https://github.com/BCSharp/PSCondaEnvs)|Implementation of Conda's activate/deactivate functions in Powershell.||
 |12|[@TechWhispererCA](https://github.com/TechWhispererCA)/[**disable-smb1-powershell**](https://github.com/TechWhispererCA/disable-smb1-powershell)|Disabling the SMB1 Protocol with PowerShell||
 |9|[@lazywinadmin](https://github.com/lazywinadmin)/[**NetBackupPS**](https://github.com/lazywinadmin/NetBackupPS)|PowerShell module for Symantec NetBackup||
 |8|[@dcomartin](https://github.com/dcomartin)/[**Cake.Demo**](https://github.com/dcomartin/Cake.Demo)|Cake (C# Make) Demo|[:arrow_upper_right:](http://codeopinion.com/)|
