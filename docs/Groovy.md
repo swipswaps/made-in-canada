@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|112|[@yracine](https://github.com/yracine)/[**device-type.myecobee**](https://github.com/yracine/device-type.myecobee)|SmartThings-ecobee integration||
+|113|[@yracine](https://github.com/yracine)/[**device-type.myecobee**](https://github.com/yracine/device-type.myecobee)|SmartThings-ecobee integration||
 |62|[@f2prateek](https://github.com/f2prateek)/[**gradle-android-javafmt-plugin**](https://github.com/f2prateek/gradle-android-javafmt-plugin)|||
 |40|[@f2prateek](https://github.com/f2prateek)/[**android-checkstyle-plugin**](https://github.com/f2prateek/android-checkstyle-plugin)|Configures the checkstyle plugin for Android projects||
 |27|[@kellyrob99](https://github.com/kellyrob99)/[**Jenkins-api-tour**](https://github.com/kellyrob99/Jenkins-api-tour)|Code demonstrating how to interact with the API layer of a Jenkins/Hudson build server.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2011/03/27/hooking-into-the-jenkinshudson-api/)|
@@ -18,12 +18,12 @@
 |5|[@mbarnathan](https://github.com/mbarnathan)/[**Synchronized-Dimming**](https://github.com/mbarnathan/Synchronized-Dimming)|Allows many SmartThings dimmers to act as one.||
 |4|[@anthonydahanne](https://github.com/anthonydahanne)/[**JenkinsHudsonScripts**](https://github.com/anthonydahanne/JenkinsHudsonScripts)|Collection of scripts to interact with Jenkins and Hudson remote APIs and Update Centers||
 |4|[@codetojoy](https://github.com/codetojoy)/[**easter_eggs_for_groovy**](https://github.com/codetojoy/easter_eggs_for_groovy)|Basic examples for Groovy. Usage of 'egg' here is SSCCE: http://sscce.org||
+|4|[@codetojoy](https://github.com/codetojoy)/[**talk_maritimedevcon_groovy**](https://github.com/codetojoy/talk_maritimedevcon_groovy)|Demo code for talk at Maritime DevCon 2016.||
 |4|[@davidkiss](https://github.com/davidkiss)/[**grails-todo**](https://github.com/davidkiss/grails-todo)|Sample project on building a modern web application using Grails + Spring Security + Angular JS + Twitter Bootstrap.||
 |4|[@kellyrob99](https://github.com/kellyrob99)/[**groovy-http**](https://github.com/kellyrob99/groovy-http)|||
 |4|[@kellyrob99](https://github.com/kellyrob99)/[**running-groovy**](https://github.com/kellyrob99/running-groovy)|Examples of how to dynamically execute Groovy and Java code.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2009/11/21/different-flavors-of-embedded-groovy-in-java-apps-or-how-to-make-your-java-groovier/)|
 |3|[@DavidYKay](https://github.com/DavidYKay)/[**gradle-jenkins-example**](https://github.com/DavidYKay/gradle-jenkins-example)|Example of putting Gradle and Jenkins together for Android||
 |3|[@NickQiZhu](https://github.com/NickQiZhu)/[**Griffon-Validation-Plugin**](https://github.com/NickQiZhu/Griffon-Validation-Plugin)|Validation plugin for Griffin framework|[:arrow_upper_right:](http://griffon.codehaus.org/Validation+Plugin)|
-|3|[@codetojoy](https://github.com/codetojoy)/[**talk_maritimedevcon_groovy**](https://github.com/codetojoy/talk_maritimedevcon_groovy)|Demo code for talk at Maritime DevCon 2016.||
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**Groovy-Testing-Presentation**](https://github.com/kellyrob99/Groovy-Testing-Presentation)|A test Griffon application for delivering a slideshow style presentation using the slideware plugin|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/02/11/a-one-day-griffon-applicationpresentation/)|
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**JFreeChart-POI-Groovy**](https://github.com/kellyrob99/JFreeChart-POI-Groovy)|Using JFreeChart and Apache POI in Groovy||
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**gradleAntImport**](https://github.com/kellyrob99/gradleAntImport)|Examples of how to import Ant builds into a Gradle project|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2011/09/18/using-gradle-to-bootstrap-your-legacy-ant-builds/)|

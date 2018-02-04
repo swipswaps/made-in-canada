@@ -15,4 +15,5 @@
 |3|[@supernovus](https://github.com/supernovus)/[**perl6-http-status**](https://github.com/supernovus/perl6-http-status)|Get the text message associated with a given HTTP code||
 |3|[@supernovus](https://github.com/supernovus)/[**perl6-timezone**](https://github.com/supernovus/perl6-timezone)|DateTime::TimeZone (Perl 6)||
 |3|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Testo**](https://github.com/zoffixznet/perl6-Testo)|Perl 6 Testing Done Right||
+|3|[@zoffixznet](https://github.com/zoffixznet)/[**z**](https://github.com/zoffixznet/z)|Helper script for Rakudo Perl 6 core development||
 

@@ -3,7 +3,7 @@
 |203|[@b3ll](https://github.com/b3ll)/[**Ignition**](https://github.com/b3ll/Ignition)|Runs the CarPlay UI directly on top of SpringBoard on an iOS device, no need for a car!||
 |48|[@b3ll](https://github.com/b3ll)/[**MessageBox**](https://github.com/b3ll/MessageBox)|Break Facebook's Chat Heads out of the iOS Sandbox!||
 |32|[@b3ll](https://github.com/b3ll)/[**Spectral**](https://github.com/b3ll/Spectral)|Make the iOS lockscreen proper with blurred album artwork!||
-|15|[@ca13ra1](https://github.com/ca13ra1)/[**CCRecord**](https://github.com/ca13ra1/CCRecord)|Screen recording accessible from CC.||
+|14|[@ca13ra1](https://github.com/ca13ra1)/[**CCRecord**](https://github.com/ca13ra1/CCRecord)|Screen recording accessible from CC.||
 |13|[@AppleBetas](https://github.com/AppleBetas)/[**Melody**](https://github.com/AppleBetas/Melody)|Restore the iOS 9 Music app on iOS 10.|[:arrow_upper_right:](https://repo.applebetas.co/depiction/co.dynastic.ios.tweak.melody/)|
 |12|[@codyd51](https://github.com/codyd51)/[**Promposal**](https://github.com/codyd51/Promposal)|Ask your SO to prom like a true nerd||
 |10|[@codyd51](https://github.com/codyd51)/[**TokeTime**](https://github.com/codyd51/TokeTime)|Overlays Snoop Dogg on your wallpaper at 4:20 AM/PM||
@@ -16,6 +16,7 @@
 |5|[@codyd51](https://github.com/codyd51)/[**SwipeFolder**](https://github.com/codyd51/SwipeFolder)|Swipe up/down on a folder to open it||
 |4|[@b3ll](https://github.com/b3ll)/[**GottaCatchMALL**](https://github.com/b3ll/GottaCatchMALL)|Add Missingno as an obtainable pokémon in the Google Maps' Pokémon Challenge!||
 |4|[@ca13ra1](https://github.com/ca13ra1)/[**MessageTypingIndicators**](https://github.com/ca13ra1/MessageTypingIndicators)|enable/disable typing indicators for iMessages.||
+|4|[@ca13ra1](https://github.com/ca13ra1)/[**Twitter3DShortcuts**](https://github.com/ca13ra1/Twitter3DShortcuts)|Removes useless Twitter 3d touch items.||
 |4|[@codyd51](https://github.com/codyd51)/[**AVSimulator2k15**](https://github.com/codyd51/AVSimulator2k15)|It's just like a real antivirus!||
 |4|[@codyd51](https://github.com/codyd51)/[**Hue**](https://github.com/codyd51/Hue)|Gradually shift your iPhone's text color throughout the day||
 |4|[@codyd51](https://github.com/codyd51)/[**TapTheAt**](https://github.com/codyd51/TapTheAt)|Hold the '@' key to quickly enter your email||
@@ -24,7 +25,6 @@
 |3|[@ca13ra1](https://github.com/ca13ra1)/[**NoLockShots**](https://github.com/ca13ra1/NoLockShots)|No screenshots on lockscreen.||
 |3|[@ca13ra1](https://github.com/ca13ra1)/[**ProximityLock**](https://github.com/ca13ra1/ProximityLock)|Lock device using proximity sensor.||
 |3|[@ca13ra1](https://github.com/ca13ra1)/[**ScreenshotBanners**](https://github.com/ca13ra1/ScreenshotBanners)|Replace screenshot with banners.||
-|3|[@ca13ra1](https://github.com/ca13ra1)/[**Twitter3DShortcuts**](https://github.com/ca13ra1/Twitter3DShortcuts)|Removes useless Twitter 3d touch items.||
 |3|[@ca13ra1](https://github.com/ca13ra1)/[**VibrantCC**](https://github.com/ca13ra1/VibrantCC)|Vibrant blur effect for control center.||
 |3|[@codyd51](https://github.com/codyd51)/[**CallConnect**](https://github.com/codyd51/CallConnect)|Vibrate when your call connects||
 |3|[@codyd51](https://github.com/codyd51)/[**TouchPass**](https://github.com/codyd51/TouchPass)|Unlocking your device is just a tap away||
