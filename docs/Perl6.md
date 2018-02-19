@@ -17,4 +17,5 @@
 |3|[@supernovus](https://github.com/supernovus)/[**perl6-mime-types**](https://github.com/supernovus/perl6-mime-types)|Library for parsing mime.types files and querying the results.||
 |3|[@zoffixznet](https://github.com/zoffixznet)/[**Rele6sr**](https://github.com/zoffixznet/Rele6sr)|Rakudo Perl 6 Compiler Release Tool||
 |3|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-666**](https://github.com/zoffixznet/perl6-666)|Perl 6 Module: ווו||
+|3|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Proc-Q**](https://github.com/zoffixznet/perl6-Proc-Q)|Queue up and run a herd of Procs||
 
