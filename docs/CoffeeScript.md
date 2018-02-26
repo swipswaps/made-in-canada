@@ -5,7 +5,7 @@
 |427|[@keithamus](https://github.com/keithamus)/[**parallelshell**](https://github.com/keithamus/parallelshell)|Run multiple shell commands in parallel||
 |396|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls|[:arrow_upper_right:](https://echoplex.us)|
 |231|[@EtienneLem](https://github.com/EtienneLem)/[**skeleton**](https://github.com/EtienneLem/skeleton)|Express 3.0 framework-less app structure generator|[:arrow_upper_right:](http://etiennelem.github.com/skeleton)|
-|217|[@axiomzen](https://github.com/axiomzen)/[**Alike**](https://github.com/axiomzen/Alike)|A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances||
+|216|[@axiomzen](https://github.com/axiomzen)/[**Alike**](https://github.com/axiomzen/Alike)|A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances||
 |190|[@benbria](https://github.com/benbria)/[**aliasify**](https://github.com/benbria/aliasify)|Rewrite require calls in browserify modules.||
 |189|[@raganwald](https://github.com/raganwald)/[**YouAreDaChef**](https://github.com/raganwald/YouAreDaChef)|Coffeescript/Javascript method combinations for Underscore projects||
 |188|[@fw42](https://github.com/fw42)/[**honeymap**](https://github.com/fw42/honeymap)|Real-time websocket stream of GPS events on a fancy SVG world map|[:arrow_upper_right:](http://map.honeynet.org/)|
@@ -16,7 +16,7 @@
 |138|[@benbria](https://github.com/benbria)/[**coffee-coverage**](https://github.com/benbria/coffee-coverage)|Istanbul and JSCoverage-style instrumentation for CoffeeScript files.||
 |132|[@jescalan](https://github.com/jescalan)/[**accord**](https://github.com/jescalan/accord)|a unified interface for compiled languages and templates in javascript||
 |124|[@raganwald](https://github.com/raganwald)/[**method-combinators**](https://github.com/raganwald/method-combinators)|||
-|101|[@axiomzen](https://github.com/axiomzen)/[**Look-Alike**](https://github.com/axiomzen/Look-Alike)|A simple-yet-powerful KD-tree library for NodeJS, with support for lightning-fast k-Nearest Neighbour queries.||
+|100|[@axiomzen](https://github.com/axiomzen)/[**Look-Alike**](https://github.com/axiomzen/Look-Alike)|A simple-yet-powerful KD-tree library for NodeJS, with support for lightning-fast k-Nearest Neighbour queries.||
 |98|[@mohebifar](https://github.com/mohebifar)/[**angular-persian**](https://github.com/mohebifar/angular-persian)|:earth_asia: Persian tools for angular.js||
 |95|[@jaicab](https://github.com/jaicab)/[**Paraxify.js**](https://github.com/jaicab/Paraxify.js)|Progressive enhancement on parallax inspired by Spotify's|[:arrow_upper_right:](http://jaicab.com/Paraxify.js/)|
 |89|[@EtienneLem](https://github.com/EtienneLem)/[**atom-rdio**](https://github.com/EtienneLem/atom-rdio)|Adds Rdio controls to Atom and displays the currently playing song in the status bar|[:arrow_upper_right:](https://atom.io/packages/Rdio)|
@@ -27,17 +27,17 @@
 |63|[@darkhelmet](https://github.com/darkhelmet)/[**kindlebility**](https://github.com/darkhelmet/kindlebility)|Readability to PDF to Kindle. A Javascript turducken!|[:arrow_upper_right:](http://kindlebility.darkhax.com/)|
 |62|[@kmalakoff](https://github.com/kmalakoff)/[**background**](https://github.com/kmalakoff/background)|CoffeeScript / JavaScript background job / task / worker library. Provides implementations for jobs, a job queue, a job list, and single and multiple array iterators.|[:arrow_upper_right:](http://braincode.tumblr.com/post/9449127004/background-js)|
 |60|[@benbria](https://github.com/benbria)/[**browserify-transform-tools**](https://github.com/benbria/browserify-transform-tools)|Utilities for writing browserify transforms.||
-|59|[@kmalakoff](https://github.com/kmalakoff)/[**backbone-modelref**](https://github.com/kmalakoff/backbone-modelref)|Backbone-ModelRef.js provides a mechanism to respond to lazy-loaded Backbone.js models.||
-|57|[@benbria](https://github.com/benbria)/[**node-amqp-connection-manager**](https://github.com/benbria/node-amqp-connection-manager)|Auto-reconnect and round robin support for amqplib.||
+|58|[@benbria](https://github.com/benbria)/[**node-amqp-connection-manager**](https://github.com/benbria/node-amqp-connection-manager)|Auto-reconnect and round robin support for amqplib.||
+|58|[@kmalakoff](https://github.com/kmalakoff)/[**backbone-modelref**](https://github.com/kmalakoff/backbone-modelref)|Backbone-ModelRef.js provides a mechanism to respond to lazy-loaded Backbone.js models.||
 |53|[@Glavin001](https://github.com/Glavin001)/[**atom-preview**](https://github.com/Glavin001/atom-preview)|:eyeglasses: Ultimate previewer of source code in Atom.|[:arrow_upper_right:](https://atom.io/packages/preview)|
 |46|[@wmora](https://github.com/wmora)/[**angular-espresso**](https://github.com/wmora/angular-espresso)|Based on angular-seed, a starting point for writing an AngularJS app running on an Express backend, written in CoffeeScript||
 |41|[@raganwald](https://github.com/raganwald)/[**Underscore-Matchers-for-Jasmine**](https://github.com/raganwald/Underscore-Matchers-for-Jasmine)|||
 |39|[@wvanbergen](https://github.com/wvanbergen)/[**node-vertica**](https://github.com/wvanbergen/node-vertica)|Pure javascript Vertica database client. Except it is written in CoffeeScript.||
 |35|[@kmalakoff](https://github.com/kmalakoff)/[**json-serialize**](https://github.com/kmalakoff/json-serialize)|JSON-Serialize.js provides conventions and helpers to manage serialization and deserialization of instances to/from JSON||
-|32|[@dpo](https://github.com/dpo)/[**atom-python-debugger**](https://github.com/dpo/atom-python-debugger)|IDE-like Python debugger for Atom||
+|33|[@dpo](https://github.com/dpo)/[**atom-python-debugger**](https://github.com/dpo/atom-python-debugger)|IDE-like Python debugger for Atom||
 |32|[@raganwald](https://github.com/raganwald)/[**cafeaulife**](https://github.com/raganwald/cafeaulife)|Gosper’s HashLife in CoffeeScript|[:arrow_upper_right:](http://recursiveuniver.se)|
 |32|[@srsgores](https://github.com/srsgores)/[**generator-joomla-component**](https://github.com/srsgores/generator-joomla-component)|yeoman generator for joomla components||
-|27|[@HappenApps](https://github.com/HappenApps)/[**quiver2html**](https://github.com/HappenApps/quiver2html)|A utility to convert a Quiver notebook or note to HTML.||
+|28|[@HappenApps](https://github.com/HappenApps)/[**quiver2html**](https://github.com/HappenApps/quiver2html)|A utility to convert a Quiver notebook or note to HTML.||
 |25|[@Glavin001](https://github.com/Glavin001)/[**atom-gitter**](https://github.com/Glavin001/atom-gitter)|(UNMAINTAINED) :calling: Gitter chat integration with Atom.io|[:arrow_upper_right:](https://atom.io/packages/gitter)|
 |25|[@mispy](https://github.com/mispy)/[**heart**](https://github.com/mispy/heart)|A very silly Valentine's Day HTML5 experiment :)|[:arrow_upper_right:](http://heart.mispy.me/)|
 |24|[@benbria](https://github.com/benbria)/[**dashing-client**](https://github.com/benbria/dashing-client)|Client for sending data to Dashing from node.js||
@@ -63,6 +63,7 @@
 |11|[@benjie](https://github.com/benjie)/[**hsbc-scrape**](https://github.com/benjie/hsbc-scrape)|Command-line driven scraper to pull down your banking history from HSBC (UK)'s internet banking portal.||
 |11|[@davemo](https://github.com/davemo)/[**react-battleplanner**](https://github.com/davemo/react-battleplanner)|react + tbs-battle-planner||
 |11|[@jescalan](https://github.com/jescalan)/[**machete**](https://github.com/jescalan/machete)|fast, beautiful slideshows in markdown|[:arrow_upper_right:](http://jenius.github.io/machete)|
+|11|[@jvaill](https://github.com/jvaill)/[**coffee-boy**](https://github.com/jvaill/coffee-boy)|A Game Boy emulator for the browser written in CoffeeScript. 🎮||
 |11|[@kmalakoff](https://github.com/kmalakoff)/[**knockback-reference-app**](https://github.com/kmalakoff/knockback-reference-app)|Knockback.js Reference Application provides a sample architecure for a Knockback.js application including page routing, separation of Models/ViewModels/Views, and memory management.|[:arrow_upper_right:](http://kmalakoff.github.com/knockback-reference-app/)|
 |11|[@unframework](https://github.com/unframework)/[**atomic-routes**](https://github.com/unframework/atomic-routes)|Decentralized nested client-side routing with Promises. Framework-agnostic, composable, simple: designed to work with component-based application UIs.||
 |10|[@Qard](https://github.com/Qard)/[**express-coffee**](https://github.com/Qard/express-coffee)|An express middleware to automatically compile and serve coffeescript files.||
@@ -75,7 +76,6 @@
 |9|[@benbria](https://github.com/benbria)/[**bunyan-debug-stream**](https://github.com/benbria/bunyan-debug-stream)|A stream for bunyan that writes log entries as human readable output.||
 |9|[@dashed](https://github.com/dashed)/[**gojs**](https://github.com/dashed/gojs)|A rules engine for a board game called Go|[:arrow_upper_right:](https://dashed.github.io/gojs)|
 |9|[@fictorial](https://github.com/fictorial)/[**json-line-protocol**](https://github.com/fictorial/json-line-protocol)|A stream protocol handler for JSON-encoded values delimited by CRLF||
-|9|[@jvaill](https://github.com/jvaill)/[**coffee-boy**](https://github.com/jvaill/coffee-boy)|A Game Boy emulator for the browser written in CoffeeScript. 🎮||
 |9|[@raganwald](https://github.com/raganwald)/[**supervis.es**](https://github.com/raganwald/supervis.es)|||
 |8|[@benjie](https://github.com/benjie)/[**rf-experiments**](https://github.com/benjie/rf-experiments)|Capturing RF data using a cheap receiver and Arduino; attempting to decode it.||
 |8|[@pcrawfor](https://github.com/pcrawfor)/[**coffeeq**](https://github.com/pcrawfor/coffeeq)|Node.js Queuing library implemented in Coffee Script - currently only supports redis as a backend store for the queue||

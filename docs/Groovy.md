@@ -13,9 +13,9 @@
 |11|[@yracine](https://github.com/yracine)/[**keenhome.device-type**](https://github.com/yracine/keenhome.device-type)|Keen Home Smart Vents - device handler||
 |7|[@yracine](https://github.com/yracine)/[**device-type.myautomatic**](https://github.com/yracine/device-type.myautomatic)|SmartThings - Automatic integration||
 |6|[@eclipsesource](https://github.com/eclipsesource)/[**dockerizor**](https://github.com/eclipsesource/dockerizor)|Gradle plug-in to create a Docker image that includes an Eclipse Virgo container||
+|6|[@mbarnathan](https://github.com/mbarnathan)/[**Synchronized-Dimming**](https://github.com/mbarnathan/Synchronized-Dimming)|Allows many SmartThings dimmers to act as one.||
 |6|[@yracine](https://github.com/yracine)/[**customYaleLockWithGoodTimeout**](https://github.com/yracine/customYaleLockWithGoodTimeout)|Custom Yale Lock With good timeout to avoid wrong status at Smartthings hub||
 |5|[@dansmith65](https://github.com/dansmith65)/[**ooScriptMaster**](https://github.com/dansmith65/ooScriptMaster)|object oriented ScriptMaster|[:arrow_upper_right:](http://dansmith65.github.com/ooScriptMaster/groovydoc/)|
-|5|[@mbarnathan](https://github.com/mbarnathan)/[**Synchronized-Dimming**](https://github.com/mbarnathan/Synchronized-Dimming)|Allows many SmartThings dimmers to act as one.||
 |4|[@anthonydahanne](https://github.com/anthonydahanne)/[**JenkinsHudsonScripts**](https://github.com/anthonydahanne/JenkinsHudsonScripts)|Collection of scripts to interact with Jenkins and Hudson remote APIs and Update Centers||
 |4|[@codetojoy](https://github.com/codetojoy)/[**easter_eggs_for_groovy**](https://github.com/codetojoy/easter_eggs_for_groovy)|Basic examples for Groovy. Usage of 'egg' here is SSCCE: http://sscce.org||
 |4|[@codetojoy](https://github.com/codetojoy)/[**talk_maritimedevcon_groovy**](https://github.com/codetojoy/talk_maritimedevcon_groovy)|Demo code for talk at Maritime DevCon 2016.||

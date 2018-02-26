@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|220|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
+|221|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
 |184|[@burtonsamograd](https://github.com/burtonsamograd)/[**sxc**](https://github.com/burtonsamograd/sxc)|sxc is an 'S-Expression C' transpiler for generating C code using macros written in Common Lisp||
 |73|[@hoytech](https://github.com/hoytech)/[**antiweb**](https://github.com/hoytech/antiweb)|Common Lisp web application server|[:arrow_upper_right:](http://hoytech.com/antiweb/)|
 |30|[@inaimathi](https://github.com/inaimathi)/[**cl-css**](https://github.com/inaimathi/cl-css)|Non-validating, inline CSS generator for Common Lisp||
@@ -29,6 +29,7 @@
 |3|[@Hexstream](https://github.com/Hexstream)/[**parse-number-range**](https://github.com/Hexstream/parse-number-range)|Parses LOOP's convenient "for-as-arithmetic" syntax into 5 simple values: from, to, limit-kind (:inclusive, :exclusive or nil if unbounded), by (step) and direction (+ or -)). Further related utilities are provided. Intended for easy implementation of analogous functionality in other constructs.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/parse-number-range/)|
 |3|[@Hexstream](https://github.com/Hexstream)/[**place-modifiers**](https://github.com/Hexstream/place-modifiers)|place-modifiers essentially gives access to hundreds of modify-macros through one single macro: MODIFY.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/place-modifiers/)|
 |3|[@Hexstream](https://github.com/Hexstream)/[**place-utils**](https://github.com/Hexstream/place-utils)|Place-utils is a Common Lisp library that provides a few utilities relating to setfable places.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/place-utils/)|
+|3|[@burtonsamograd](https://github.com/burtonsamograd)/[**med**](https://github.com/burtonsamograd/med)|med - A fork of the emacs-like text editor for the Mezzano operating system||
 |3|[@inaimathi](https://github.com/inaimathi)/[**cl-chan**](https://github.com/inaimathi/cl-chan)|A message/image board (eventually) written in Common Lisp, mainly for tutorial purposes||
 |3|[@inaimathi](https://github.com/inaimathi)/[**cl-web-dev**](https://github.com/inaimathi/cl-web-dev)|Minor utilities for web development in Common Lisp||
 |3|[@inaimathi](https://github.com/inaimathi)/[**deal**](https://github.com/inaimathi/deal)|A simple playtesting/prototyping tool for physical card games||

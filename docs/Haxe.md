@@ -17,7 +17,7 @@
 |10|[@Ohmnivore](https://github.com/Ohmnivore)/[**FlxShell**](https://github.com/Ohmnivore/FlxShell)|An abstracted Linux environment for HaxeFlixel - a file system in tandem with a shell.||
 |10|[@fserb](https://github.com/fserb)/[**vault**](https://github.com/fserb/vault)|Vault game development library|[:arrow_upper_right:](http://fserb.com/vault)|
 |10|[@underscorediscovery](https://github.com/underscorediscovery)/[**cassowary-hx**](https://github.com/underscorediscovery/cassowary-hx)|A direct port of cassowary.js to Haxe||
-|9|[@Ohmnivore](https://github.com/Ohmnivore)/[**ChopChopScript**](https://github.com/Ohmnivore/ChopChopScript)|Fast scripting language for Haxe (very basic, made to run fast and nothing else)||
+|9|[@Ohmnivore](https://github.com/Ohmnivore)/[**ChopChopScript**](https://github.com/Ohmnivore/ChopChopScript)|:pencil2: Scripting language for Haxe||
 |9|[@Ohmnivore](https://github.com/Ohmnivore)/[**HxCLAP**](https://github.com/Ohmnivore/HxCLAP)|Haxe port of CLAP, a command line argument parser||
 |8|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-gltf**](https://github.com/FuzzyWuzzie/haxe-gltf)|A Haxe library for reading (and eventually, writing) GLTF files.||
 |8|[@Ohmnivore](https://github.com/Ohmnivore)/[**ChopEngine**](https://github.com/Ohmnivore/ChopEngine)|A Haxe cross-platform 3D game engine built on top of Snow||
@@ -29,7 +29,7 @@
 |6|[@Ohmnivore](https://github.com/Ohmnivore)/[**TileSetter**](https://github.com/Ohmnivore/TileSetter)|UI application for editing tile properties for tilesets||
 |6|[@underscorediscovery](https://github.com/underscorediscovery)/[**hxpromise**](https://github.com/underscorediscovery/hxpromise)|hxpromise||
 |5|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**FeatherRock**](https://github.com/FuzzyWuzzie/FeatherRock)|My LD32 entry!||
-|5|[@Ohmnivore](https://github.com/Ohmnivore)/[**FireCHIP-8**](https://github.com/Ohmnivore/FireCHIP-8)|Haxe cross-platform CHIP-8 (aka Pong) emulator||
+|5|[@Ohmnivore](https://github.com/Ohmnivore)/[**FireCHIP-8**](https://github.com/Ohmnivore/FireCHIP-8)|:tv: Cross-platform CHIP-8 emulator||
 |5|[@underscorediscovery](https://github.com/underscorediscovery)/[**snowfall**](https://github.com/underscorediscovery/snowfall)|A simple script to install and update luxe + snow more conveniently ||
 |4|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxePong**](https://github.com/FuzzyWuzzie/LuxePong)|A single game of pong, written using Luxe as a learning excercise||
 |4|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**RegisAgro**](https://github.com/FuzzyWuzzie/RegisAgro)|A Luxe implementation of hnefatafl||

@@ -1,14 +1,14 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |654|[@gf3](https://github.com/gf3)/[**secretary**](https://github.com/gf3/secretary)|A client-side router for ClojureScript.||
-|568|[@yogthos](https://github.com/yogthos)/[**Selmer**](https://github.com/yogthos/Selmer)|A fast, Django inspired template system in Clojure.||
+|570|[@yogthos](https://github.com/yogthos)/[**Selmer**](https://github.com/yogthos/Selmer)|A fast, Django inspired template system in Clojure.||
 |534|[@takeoutweight](https://github.com/takeoutweight)/[**clojure-scheme**](https://github.com/takeoutweight/clojure-scheme)|Clojure to Scheme to C to the bare metal.||
 |352|[@yogthos](https://github.com/yogthos)/[**markdown-clj**](https://github.com/yogthos/markdown-clj)|Markdown parser in Clojure||
-|268|[@yogthos](https://github.com/yogthos)/[**migratus**](https://github.com/yogthos/migratus)|MIGRATE ALL THE THINGS!||
+|270|[@yogthos](https://github.com/yogthos)/[**migratus**](https://github.com/yogthos/migratus)|MIGRATE ALL THE THINGS!||
 |163|[@yogthos](https://github.com/yogthos)/[**memory-hole**](https://github.com/yogthos/memory-hole)|Memory Hole is a support issue organizer application||
 |154|[@yogthos](https://github.com/yogthos)/[**yuggoth**](https://github.com/yogthos/yuggoth)|my blog engine (no longer maintained)|[:arrow_upper_right:](http://yogthos.net)|
-|115|[@adambard](https://github.com/adambard)/[**failjure**](https://github.com/adambard/failjure)|Monadic error utilities for general use in Clojure projects||
-|111|[@yogthos](https://github.com/yogthos)/[**json-html**](https://github.com/yogthos/json-html)|Provide EDN/JSON and get a DOM node with a human representation of the data||
+|121|[@adambard](https://github.com/adambard)/[**failjure**](https://github.com/adambard/failjure)|Monadic error utilities for general use in Clojure projects||
+|112|[@yogthos](https://github.com/yogthos)/[**json-html**](https://github.com/yogthos/json-html)|Provide EDN/JSON and get a DOM node with a human representation of the data||
 |106|[@yogthos](https://github.com/yogthos)/[**instant-pdf**](https://github.com/yogthos/instant-pdf)|A reporting service which generates PDFs from JSON encoded text||
 |64|[@yogthos](https://github.com/yogthos)/[**json-to-pdf**](https://github.com/yogthos/json-to-pdf)|A Library for easily generating PDF documents given JSON markup||
 |57|[@yogthos](https://github.com/yogthos)/[**config**](https://github.com/yogthos/config)|Library for managing environment variables in Clojure using EDN configuration files||
@@ -38,15 +38,15 @@
 |13|[@eslachance](https://github.com/eslachance)/[**dithcord**](https://github.com/eslachance/dithcord)|A WIP Library for the Discord API, in Clojure||
 |12|[@ujihisa](https://github.com/ujihisa)/[**cloft**](https://github.com/ujihisa/cloft)|minecraft server mod for ujihisa||
 |12|[@yogthos](https://github.com/yogthos)/[**reagent-secretary-example**](https://github.com/yogthos/reagent-secretary-example)|||
+|11|[@adambard](https://github.com/adambard)/[**lein-kotlinc**](https://github.com/adambard/lein-kotlinc)|Compile kotlin files from Leiningen||
 |11|[@adambard](https://github.com/adambard)/[**so-many-wordcounts**](https://github.com/adambard/so-many-wordcounts)|||
 |11|[@onaio](https://github.com/onaio)/[**hatti**](https://github.com/onaio/hatti)|It views data!||
+|11|[@yogthos](https://github.com/yogthos)/[**clojure-maven-examples**](https://github.com/yogthos/clojure-maven-examples)|Some examples for building Clojure with the clojure-maven-plugin||
 |11|[@yogthos](https://github.com/yogthos)/[**pg-feed-demo**](https://github.com/yogthos/pg-feed-demo)|example application for push notifications from PostgreSQL||
 |11|[@yogthos](https://github.com/yogthos)/[**pulsar-example**](https://github.com/yogthos/pulsar-example)|||
-|10|[@adambard](https://github.com/adambard)/[**lein-kotlinc**](https://github.com/adambard/lein-kotlinc)|Compile kotlin files from Leiningen||
+|11|[@yogthos](https://github.com/yogthos)/[**swagger-service**](https://github.com/yogthos/swagger-service)|swagger-service tutorial using Duct||
 |10|[@yogthos](https://github.com/yogthos)/[**ReagentPerf**](https://github.com/yogthos/ReagentPerf)|Reagent version of the VueReactPerf benchmark||
-|10|[@yogthos](https://github.com/yogthos)/[**clojure-maven-examples**](https://github.com/yogthos/clojure-maven-examples)|Some examples for building Clojure with the clojure-maven-plugin||
 |10|[@yogthos](https://github.com/yogthos)/[**lein-sass**](https://github.com/yogthos/lein-sass)|SASS plugin for Leiningen using Sass.js||
-|10|[@yogthos](https://github.com/yogthos)/[**swagger-service**](https://github.com/yogthos/swagger-service)|swagger-service tutorial using Duct||
 |9|[@yogthos](https://github.com/yogthos)/[**alpha-id**](https://github.com/yogthos/alpha-id)|creates a short alphanumeric ID from a numeric ID||
 |8|[@palfrey](https://github.com/palfrey)/[**herder**](https://github.com/palfrey/herder)|Automagic scheduling of a convention|[:arrow_upper_right:](http://www.lshift.net/blog/2016/04/30/herder-automagic-scheduling-of-a-convention/)|
 |8|[@yogthos](https://github.com/yogthos)/[**prag-prog-re-frame-article**](https://github.com/yogthos/prag-prog-re-frame-article)|source code for the re-frame article||

@@ -1,14 +1,14 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|687|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
+|689|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
 |354|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
-|333|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
-|190|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
-|90|[@castorini](https://github.com/castorini)/[**MP-CNN-Torch**](https://github.com/castorini/MP-CNN-Torch)|Multi-Perspective Convolutional Neural Networks for modeling textual similarity (He et al., EMNLP 2015)||
+|334|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
+|192|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
+|91|[@castorini](https://github.com/castorini)/[**MP-CNN-Torch**](https://github.com/castorini/MP-CNN-Torch)|Multi-Perspective Convolutional Neural Networks for modeling textual similarity (He et al., EMNLP 2015)||
 |73|[@500px](https://github.com/500px)/[**500pxPublisher.lrplugin**](https://github.com/500px/500pxPublisher.lrplugin)|Lightroom Plugin for publishing directly to 500px||
 |73|[@forhappy](https://github.com/forhappy)/[**zklua**](https://github.com/forhappy/zklua)|Lua binding of apache zookeeper.||
 |46|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**torch-in-action**](https://github.com/nicholas-leonard/torch-in-action)|Code for the Torch in Action book||
-|45|[@karai17](https://github.com/karai17)/[**lapis-chan**](https://github.com/karai17/lapis-chan)|Image board software written in Lua using the Lapis web framework.|[:arrow_upper_right:](http://lapchan.moe)|
+|44|[@karai17](https://github.com/karai17)/[**lapis-chan**](https://github.com/karai17/lapis-chan)|Image board software written in Lua using the Lapis web framework.|[:arrow_upper_right:](http://lapchan.moe)|
 |38|[@castorini](https://github.com/castorini)/[**NCE-CNN-Torch**](https://github.com/castorini/NCE-CNN-Torch)|Noise-Contrastive Estimation for Question Answering with Convolutional Neural Networks (Rao et al. CIKM 2016)||
 |30|[@z3t0](https://github.com/z3t0)/[**zwm**](https://github.com/z3t0/zwm)|macOS window manager running on Hammerspoon||
 |27|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**torchx**](https://github.com/nicholas-leonard/torchx)|torch extensions||
@@ -31,10 +31,10 @@
 |6|[@travisjeffery](https://github.com/travisjeffery)/[**awesome-wm**](https://github.com/travisjeffery/awesome-wm)|My configuration of the awesome window manager.||
 |5|[@dvdfu](https://github.com/dvdfu)/[**packer**](https://github.com/dvdfu/packer)|Texture atlases for Lua using Love2D||
 |5|[@karai17](https://github.com/karai17)/[**Peep**](https://github.com/karai17/Peep)|View the contents of variables in LÖVE||
+|5|[@karai17](https://github.com/karai17)/[**love-spriter**](https://github.com/karai17/love-spriter)|A Spriter implementation for LOVE||
 |4|[@dvdfu](https://github.com/dvdfu)/[**ld38**](https://github.com/dvdfu/ld38)|Ludum Dare 38||
 |4|[@james2doyle](https://github.com/james2doyle)/[**luvstache**](https://github.com/james2doyle/luvstache)|Mustache templates for Luvit||
 |4|[@karai17](https://github.com/karai17)/[**love-eh**](https://github.com/karai17/love-eh)|LOVE API localized to en_CA||
-|4|[@karai17](https://github.com/karai17)/[**love-spriter**](https://github.com/karai17/love-spriter)|A Spriter implementation for LOVE||
 |4|[@karai17](https://github.com/karai17)/[**love2d-input-manager**](https://github.com/karai17/love2d-input-manager)|AN input manager for the Love2D game engine||
 |4|[@karai17](https://github.com/karai17)/[**lua-bbcode**](https://github.com/karai17/lua-bbcode)|||
 |4|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**equanimity**](https://github.com/nicholas-leonard/equanimity)|Experimental research for distributed conditional computation||

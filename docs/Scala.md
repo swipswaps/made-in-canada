@@ -1,24 +1,24 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|439|[@cvogt](https://github.com/cvogt)/[**cbt**](https://github.com/cvogt/cbt)|CBT - fun, fast, intuitive, compositional, statically checked builds written in Scala||
-|351|[@marconilanna](https://github.com/marconilanna)/[**REPLesent**](https://github.com/marconilanna/REPLesent)|A neat little tool to build presentations using the Scala REPL||
+|440|[@cvogt](https://github.com/cvogt)/[**cbt**](https://github.com/cvogt/cbt)|CBT - fun, fast, intuitive, compositional, statically checked builds written in Scala||
+|352|[@marconilanna](https://github.com/marconilanna)/[**REPLesent**](https://github.com/marconilanna/REPLesent)|A neat little tool to build presentations using the Scala REPL||
 |315|[@mardambey](https://github.com/mardambey)/[**mypipe**](https://github.com/mardambey/mypipe)|MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka.||
 |306|[@dcaoyuan](https://github.com/dcaoyuan)/[**chana**](https://github.com/dcaoyuan/chana)|Avro Data Store based on Akka||
 |255|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-socketio**](https://github.com/dcaoyuan/spray-socketio)|socket.io for spray||
 |226|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-websocket**](https://github.com/dcaoyuan/spray-websocket)|WebSocket for spray-can||
-|159|[@fosskers](https://github.com/fosskers)/[**scalaz-and-cats**](https://github.com/fosskers/scalaz-and-cats)|Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).||
+|164|[@fosskers](https://github.com/fosskers)/[**scalaz-and-cats**](https://github.com/fosskers/scalaz-and-cats)|Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).||
 |120|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**ScalaKata**](https://github.com/MasseGuillaume/ScalaKata)|Moved|[:arrow_upper_right:](https://github.com/MasseGuillaume/ScalaKata2)|
 |117|[@dcaoyuan](https://github.com/dcaoyuan)/[**aiotrade**](https://github.com/dcaoyuan/aiotrade)|A Trading Platform|[:arrow_upper_right:](http://blogtrader.net)|
 |90|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**ScalaKata2**](https://github.com/MasseGuillaume/ScalaKata2)|Interactive Playground|[:arrow_upper_right:](http://scalakata.com)|
+|86|[@PaytmLabs](https://github.com/PaytmLabs)/[**akka-batteries**](https://github.com/PaytmLabs/akka-batteries)|Utilities for Akka cluster in production||
 |85|[@denisrosset](https://github.com/denisrosset)/[**metal**](https://github.com/denisrosset/metal)|Metal - fast unboxed data structures for Scala||
-|84|[@PaytmLabs](https://github.com/PaytmLabs)/[**akka-batteries**](https://github.com/PaytmLabs/akka-batteries)|Utilities for Akka cluster in production||
 |82|[@cvogt](https://github.com/cvogt)/[**compossible**](https://github.com/cvogt/compossible)|Scala Records: Extensible records and type-indexed maps|[:arrow_upper_right:](https://www.youtube.com/watch?v=pA2js-TV1Ck)|
 |48|[@knoldus](https://github.com/knoldus)/[**Play-Spark-Scala**](https://github.com/knoldus/Play-Spark-Scala)|||
 |47|[@knoldus](https://github.com/knoldus)/[**playing-microservices.g8**](https://github.com/knoldus/playing-microservices.g8)|This activator project describes Microservice architecture design using Play 2.4.x and Scala||
-|41|[@eclipsesource](https://github.com/eclipsesource)/[**play-json-schema-validator**](https://github.com/eclipsesource/play-json-schema-validator)|JSON Schema Validation with Play JSON||
+|42|[@eclipsesource](https://github.com/eclipsesource)/[**play-json-schema-validator**](https://github.com/eclipsesource/play-json-schema-validator)|JSON Schema Validation with Play JSON||
 |37|[@knoldus](https://github.com/knoldus)/[**ScalaJs_Weather_Report**](https://github.com/knoldus/ScalaJs_Weather_Report)|Weather Information System- Get the mood of your city on one click using Scala.js.||
 |35|[@rocketraman](https://github.com/rocketraman)/[**activator-akka-scala-guice**](https://github.com/rocketraman/activator-akka-scala-guice)|Typesafe Activator demo for Akka, Scala, Guice||
-|31|[@tobyjsullivan](https://github.com/tobyjsullivan)/[**applicative-demo**](https://github.com/tobyjsullivan/applicative-demo)|Demo code for my talk at applicative conf. http://applicative.acm.org/speaker-TobySullivan.html||
+|32|[@tobyjsullivan](https://github.com/tobyjsullivan)/[**applicative-demo**](https://github.com/tobyjsullivan/applicative-demo)|Demo code for my talk at applicative conf. http://applicative.acm.org/speaker-TobySullivan.html||
 |30|[@cvogt](https://github.com/cvogt)/[**scala-extensions**](https://github.com/cvogt/scala-extensions)|Useful extensions for the Scala standard library|[:arrow_upper_right:](http://cvogt.org/scala-extensions/api/)|
 |30|[@cvogt](https://github.com/cvogt)/[**slick-presentation**](https://github.com/cvogt/slick-presentation)|||
 |30|[@knoldus](https://github.com/knoldus)/[**playing-reactive-mongo.g8**](https://github.com/knoldus/playing-reactive-mongo.g8)|This activator project describes a classic CRUD application in Play 2.4.x with ReactiveMongo||
@@ -58,18 +58,18 @@
 |10|[@dcaoyuan](https://github.com/dcaoyuan)/[**wandou-math**](https://github.com/dcaoyuan/wandou-math)|Varies libs for Math, including Time Series etc.||
 |10|[@knoldus](https://github.com/knoldus)/[**FormDemoInPlay**](https://github.com/knoldus/FormDemoInPlay)|The play.api.data package contains several helpers to handle HTTP form data submission and validation.  This application would explain how  to design forms with validations in play2.0 using scala and how to communicate  with database using mongodb.||
 |9|[@denisrosset](https://github.com/denisrosset)/[**valueopt**](https://github.com/denisrosset/valueopt)|Opt - AnyVal Option-like type||
+|9|[@knoldus](https://github.com/knoldus)/[**spark-s3**](https://github.com/knoldus/spark-s3)|Spark Plugin for Amazon S3|[:arrow_upper_right:](http://spark-packages.org/package/knoldus/spark-s3)|
+|8|[@abbas-taher](https://github.com/abbas-taher)/[**pagerank-example-spark2.0-deep-dive**](https://github.com/abbas-taher/pagerank-example-spark2.0-deep-dive)|Tutorial 101: PageRank Example in Spark 2.0 : Understanding the Algorithm & Spark Implementation Code  ||
 |8|[@denisrosset](https://github.com/denisrosset)/[**alasc**](https://github.com/denisrosset/alasc)|Computational Group Theory in Scala. It's Scala permuted!||
 |8|[@denisrosset](https://github.com/denisrosset)/[**scalin**](https://github.com/denisrosset/scalin)|Exact linear algebra in Scala/Spire||
 |8|[@knoldus](https://github.com/knoldus)/[**activator-kafka-scala-producer-consumer.g8**](https://github.com/knoldus/activator-kafka-scala-producer-consumer.g8)|This is an activator project for showcasing how to read & write data from Kafka-cluster using Scala  Producer & Consumer API.||
 |8|[@knoldus](https://github.com/knoldus)/[**jwt-akka-http-example**](https://github.com/knoldus/jwt-akka-http-example)|Integrate JWT with Akka HTTP to handle Authentication and Authorization service .||
 |8|[@knoldus](https://github.com/knoldus)/[**jwt-play-authentication**](https://github.com/knoldus/jwt-play-authentication)| Demonstration of JWT Authentication with Play Framework.||
 |8|[@knoldus](https://github.com/knoldus)/[**spark-graphx-twitter**](https://github.com/knoldus/spark-graphx-twitter)|An example of Spark and GraphX with Twitter as sample||
-|8|[@knoldus](https://github.com/knoldus)/[**spark-s3**](https://github.com/knoldus/spark-s3)|Spark Plugin for Amazon S3|[:arrow_upper_right:](http://spark-packages.org/package/knoldus/spark-s3)|
 |8|[@marconilanna](https://github.com/marconilanna)/[**talks**](https://github.com/marconilanna/talks)|Slides and code for my public talks and presentations||
 |8|[@seglo](https://github.com/seglo)/[**exactly-once-streams**](https://github.com/seglo/exactly-once-streams)|An engineering report on using transactions in Kafka 0.11.0.0||
 |7|[@101dev](https://github.com/101dev)/[**slick-migration-api-flyway**](https://github.com/101dev/slick-migration-api-flyway)|Flyway bindings for https://github.com/nafg/slick-migration-api||
 |7|[@DrDub](https://github.com/DrDub)/[**Thoughtland**](https://github.com/DrDub/Thoughtland)|Describing n-dimensional Objects||
-|7|[@abbas-taher](https://github.com/abbas-taher)/[**pagerank-example-spark2.0-deep-dive**](https://github.com/abbas-taher/pagerank-example-spark2.0-deep-dive)|Tutorial 101: PageRank Example in Spark 2.0 : Understanding the Algorithm & Spark Implementation Code  ||
 |7|[@edmundnoble](https://github.com/edmundnoble)/[**Neil**](https://github.com/edmundnoble/Neil)|A tool that generates native Android and iOS view code from SVG files. Not working yet.||
 |7|[@knoldus](https://github.com/knoldus)/[**akka-quartz-scheduler-application.g8**](https://github.com/knoldus/akka-quartz-scheduler-application.g8)|||
 |6|[@denisrosset](https://github.com/denisrosset)/[**fizz**](https://github.com/denisrosset/fizz)|Superceded by sbt-microsites // was Basic template for doc||
