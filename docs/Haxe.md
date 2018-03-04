@@ -4,11 +4,11 @@
 |38|[@Ohmnivore](https://github.com/Ohmnivore)/[**SkullRush**](https://github.com/Ohmnivore/SkullRush)|2D online multiplayer shooter written in Haxe|[:arrow_upper_right:](http://ohmnivore.github.io)|
 |32|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-glm**](https://github.com/FuzzyWuzzie/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |30|[@ashes999](https://github.com/ashes999)/[**butterfly**](https://github.com/ashes999/butterfly)|Haxe generator for simple, static blogs.||
+|18|[@fserb](https://github.com/fserb)/[**sketch**](https://github.com/fserb/sketch)|game sketches|[:arrow_upper_right:](http://fserb.com/vault)|
 |18|[@underscorediscovery](https://github.com/underscorediscovery)/[**structural**](https://github.com/underscorediscovery/structural)|An unencumbered haxe data structures library||
-|17|[@fserb](https://github.com/fserb)/[**sketch**](https://github.com/fserb/sketch)|game sketches|[:arrow_upper_right:](http://fserb.com/vault)|
 |15|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxeParticleDesigner**](https://github.com/FuzzyWuzzie/LuxeParticleDesigner)|A tool for quickly designing / tweaking particle systems in Luxe.||
 |15|[@underscorediscovery](https://github.com/underscorediscovery)/[**hxsw**](https://github.com/underscorediscovery/hxsw)|Haxe Shader Wrangler (hxsw) - a port of glsw||
-|15|[@underscorediscovery](https://github.com/underscorediscovery)/[**mohxa**](https://github.com/underscorediscovery/mohxa)|A BDD style test library based closely on http://visionmedia.github.io/mocha/||
+|14|[@underscorediscovery](https://github.com/underscorediscovery)/[**mohxa**](https://github.com/underscorediscovery/mohxa)|A BDD style test library based closely on http://visionmedia.github.io/mocha/||
 |14|[@underscorediscovery](https://github.com/underscorediscovery)/[**openfl-simple-particles**](https://github.com/underscorediscovery/openfl-simple-particles)|A simple particle system for openfl||
 |12|[@Ohmnivore](https://github.com/Ohmnivore)/[**Monsieur-Moustache**](https://github.com/Ohmnivore/Monsieur-Moustache)|Open-source cross-platform endless jumper game (HaxeFlixel engine)|[:arrow_upper_right:](http://ohmnivore.itch.io/monsieur-moustache)|
 |12|[@fserb](https://github.com/fserb)/[**sfxr**](https://github.com/fserb/sfxr)|sfxr port for Haxe|[:arrow_upper_right:](http://fserb.com/vault)|

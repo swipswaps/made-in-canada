@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|13840|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
+|13904|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
 |596|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
 |279|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
 |235|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
 |186|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
-|127|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execushares**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
-|86|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
+|130|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execushares**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
+|87|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
 |51|[@patmorin](https://github.com/patmorin)/[**arraylayout**](https://github.com/patmorin/arraylayout)|Experiments with array layouts for comparison-based searching|[:arrow_upper_right:](http://cglab.ca/~morin/misc/arraylayout-v2/)|
 |44|[@christhomson](https://github.com/christhomson)/[**lecture-notes**](https://github.com/christhomson/lecture-notes)|LaTeX notes for a few courses I've taken at the University of Waterloo.|[:arrow_upper_right:](http://cthomson.ca/notes)|
 |18|[@mcantelon](https://github.com/mcantelon)/[**fashion-quest**](https://github.com/mcantelon/fashion-quest)|Shoes-dependent, YAML-driven interactive fiction framework for fashion adventures|[:arrow_upper_right:](http://mcantelon.github.io/fashion-quest/)|
@@ -46,6 +46,7 @@
 |3|[@dankelley](https://github.com/dankelley)/[**latex-jmr**](https://github.com/dankelley/latex-jmr)|LaTeX style sheet for Journal of Marine Research|[:arrow_upper_right:](http://dankelley.github.com/latex-jmr)|
 |3|[@fredrikbk](https://github.com/fredrikbk)/[**6.867-project**](https://github.com/fredrikbk/6.867-project)|Class project in MIT 6.867 Machine Learning||
 |3|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan-2015**](https://github.com/gavinsimpson/esa-advanced-vegan-2015)|Materials for an advanced workshop on using vegan in R for conducting community ecology analyses. To be held in Baltimore in 2015 as part of the ESA conference.||
+|3|[@honza](https://github.com/honza)/[**1689**](https://github.com/honza/1689)|||
 |3|[@jiahao](https://github.com/jiahao)/[**dss-juliaintro**](https://github.com/jiahao/dss-juliaintro)|A introduction to Julia through a data analysis use case||
 |3|[@jiahao](https://github.com/jiahao)/[**parallel-prefix**](https://github.com/jiahao/parallel-prefix)|A short paper about parallel prefix|[:arrow_upper_right:](http://jiahao.github.io/parallel-prefix)|
 |3|[@lemire](https://github.com/lemire)/[**talks**](https://github.com/lemire/talks)|Random material having to do with Daniel Lemire's talks||
