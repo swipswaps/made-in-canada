@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|14255|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
-|110|[@burtonsamograd](https://github.com/burtonsamograd)/[**emacs-jit**](https://github.com/burtonsamograd/emacs-jit)|Emacs with an Emacs Lisp JIT (Just In Time) compiler using libjit.||
+|14336|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
+|111|[@burtonsamograd](https://github.com/burtonsamograd)/[**emacs-jit**](https://github.com/burtonsamograd/emacs-jit)|Emacs with an Emacs Lisp JIT (Just In Time) compiler using libjit.||
 |104|[@syl20bnr](https://github.com/syl20bnr)/[**evil-escape**](https://github.com/syl20bnr/evil-escape)|Customizable key sequence to escape from insert state and everything else in Emacs.||
-|74|[@atgreen](https://github.com/atgreen)/[**paperless**](https://github.com/atgreen/paperless)|Emacs assisted PDF document filing||
-|67|[@aspiers](https://github.com/aspiers)/[**smooth-scrolling**](https://github.com/aspiers/smooth-scrolling)|Emacs smooth scrolling package||
+|75|[@atgreen](https://github.com/atgreen)/[**paperless**](https://github.com/atgreen/paperless)|Emacs assisted PDF document filing||
+|68|[@aspiers](https://github.com/aspiers)/[**smooth-scrolling**](https://github.com/aspiers/smooth-scrolling)|Emacs smooth scrolling package||
 |64|[@syl20bnr](https://github.com/syl20bnr)/[**evil-lisp-state**](https://github.com/syl20bnr/evil-lisp-state)|An evil state to navigate Lisp code and modify it with smartparens||
 |38|[@jimeh](https://github.com/jimeh)/[**twilight-bright-theme.el**](https://github.com/jimeh/twilight-bright-theme.el)|A Emacs port of the TextMate theme by the same name with some minor tweaks and additions.||
 |37|[@jimeh](https://github.com/jimeh)/[**twilight-anti-bright-theme**](https://github.com/jimeh/twilight-anti-bright-theme)|A light-on-dark Emacs and TextMate theme inspired by the dark-on-light Twilight Bright TextMate theme.||
@@ -34,7 +34,7 @@
 |5|[@travisjeffery](https://github.com/travisjeffery)/[**emacs-nav**](https://github.com/travisjeffery/emacs-nav)|Nav is a lightweight solution for Emacs users who want something like TextMate's file browser, or the Eclipse project view. Unlike these two, Nav only shows the contents of a single directory at a time, but it allows recursive searching for filenames using the 'f' key-binding, and recursive grepping of file contents with the 'g' key-binding. Nav can be run painlessly in terminals, where Speedbar either fails on its attempt to make a new frame or is hidden. Nav's terminal-friendliness comes from running in the frame where it was started, keeping window management simple. The Nav key bindings are simple, as well -- each key command is a single keystroke long.  |[:arrow_upper_right:](http://code.google.com/p/emacs-nav/)|
 |4|[@aspiers](https://github.com/aspiers)/[**orgmode**](https://github.com/aspiers/orgmode)|personal repository for patches to orgmode upstream|[:arrow_upper_right:](http://orgmode.org/)|
 |4|[@jdufresne](https://github.com/jdufresne)/[**emacs-init**](https://github.com/jdufresne/emacs-init)|My Emacs init.el||
-|3|[@aminb](https://github.com/aminb)/[**dotfiles**](https://github.com/aminb/dotfiles)|https://git.aminb.org/amin/dotfiles||
+|3|[@aminb](https://github.com/aminb)/[**dotfiles**](https://github.com/aminb/dotfiles)|https://git.aminb.org/dotfiles||
 |3|[@aspiers](https://github.com/aspiers)/[**vc-osc**](https://github.com/aspiers/vc-osc)|osc backend for emacs vc mode||
 |3|[@j0ni](https://github.com/j0ni)/[**emacs.d**](https://github.com/j0ni/emacs.d)|My emacs configuration||
 |3|[@tokenrove](https://github.com/tokenrove)/[**goose-theme**](https://github.com/tokenrove/goose-theme)|A gray color theme|[:arrow_upper_right:](https://github.com/thwg/goose-theme)|
