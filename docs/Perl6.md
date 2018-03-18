@@ -3,7 +3,6 @@
 |15|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Acme-Anguish**](https://github.com/zoffixznet/perl6-Acme-Anguish)|Perl 6 module: interpreter for Anguish programming language||
 |10|[@supernovus](https://github.com/supernovus)/[**PSpec**](https://github.com/supernovus/PSpec)|An RSpec-like BDD test framework for Perl 6.|[:arrow_upper_right:](http://huri.net/articles/2010/01/pspec.html)|
 |10|[@supernovus](https://github.com/supernovus)/[**perl6-web-app-mvc**](https://github.com/supernovus/perl6-web-app-mvc)|Build MVC Web Applications in Perl 6.||
-|8|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-CoreHackers-Sourcery**](https://github.com/zoffixznet/perl6-CoreHackers-Sourcery)|Perl 6 module: show source locations of core methods and subs||
 |7|[@supernovus](https://github.com/supernovus)/[**template6**](https://github.com/supernovus/template6)|Template6: A TT-like template engine for Perl 6||
 |7|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-GlotIO**](https://github.com/zoffixznet/perl6-GlotIO)|Perl 6 module implementing http://glot.io API||
 |6|[@supernovus](https://github.com/supernovus)/[**SCGI**](https://github.com/supernovus/SCGI)|A SCGI library for Perl 6||
@@ -17,5 +16,4 @@
 |3|[@supernovus](https://github.com/supernovus)/[**perl6-mime-types**](https://github.com/supernovus/perl6-mime-types)|Library for parsing mime.types files and querying the results.||
 |3|[@zoffixznet](https://github.com/zoffixznet)/[**Rele6sr**](https://github.com/zoffixznet/Rele6sr)|Rakudo Perl 6 Compiler Release Tool||
 |3|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-666**](https://github.com/zoffixznet/perl6-666)|Perl 6 Module: ווו||
-|3|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Proc-Q**](https://github.com/zoffixznet/perl6-Proc-Q)|Queue up and run a herd of Procs||
 

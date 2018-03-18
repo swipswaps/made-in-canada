@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|207|[@b3ll](https://github.com/b3ll)/[**Ignition**](https://github.com/b3ll/Ignition)|Runs the CarPlay UI directly on top of SpringBoard on an iOS device, no need for a car!||
+|208|[@b3ll](https://github.com/b3ll)/[**Ignition**](https://github.com/b3ll/Ignition)|Runs the CarPlay UI directly on top of SpringBoard on an iOS device, no need for a car!||
 |49|[@b3ll](https://github.com/b3ll)/[**MessageBox**](https://github.com/b3ll/MessageBox)|Break Facebook's Chat Heads out of the iOS Sandbox!||
 |32|[@b3ll](https://github.com/b3ll)/[**Spectral**](https://github.com/b3ll/Spectral)|Make the iOS lockscreen proper with blurred album artwork!||
 |14|[@ca13ra1](https://github.com/ca13ra1)/[**CCRecord**](https://github.com/ca13ra1/CCRecord)|Screen recording accessible from CC.||
@@ -20,6 +20,7 @@
 |4|[@codyd51](https://github.com/codyd51)/[**AVSimulator2k15**](https://github.com/codyd51/AVSimulator2k15)|It's just like a real antivirus!||
 |4|[@codyd51](https://github.com/codyd51)/[**Hue**](https://github.com/codyd51/Hue)|Gradually shift your iPhone's text color throughout the day||
 |4|[@codyd51](https://github.com/codyd51)/[**TapTheAt**](https://github.com/codyd51/TapTheAt)|Hold the '@' key to quickly enter your email||
+|4|[@davidmurray](https://github.com/davidmurray)/[**Uninstall-Application-Size**](https://github.com/davidmurray/Uninstall-Application-Size)|Shows an application's size when prompting to uninstall||
 |3|[@Cykey](https://github.com/Cykey)/[**Uninstall-Application-Size**](https://github.com/Cykey/Uninstall-Application-Size)|Shows an application's size when prompting to uninstall||
 |3|[@ca13ra1](https://github.com/ca13ra1)/[**CCTButtonActions**](https://github.com/ca13ra1/CCTButtonActions)|Control center 3D Touch shortcuts.||
 |3|[@ca13ra1](https://github.com/ca13ra1)/[**NoLockShots**](https://github.com/ca13ra1/NoLockShots)|No screenshots on lockscreen.||
@@ -29,5 +30,4 @@
 |3|[@codyd51](https://github.com/codyd51)/[**CallConnect**](https://github.com/codyd51/CallConnect)|Vibrate when your call connects||
 |3|[@codyd51](https://github.com/codyd51)/[**TouchPass**](https://github.com/codyd51/TouchPass)|Unlocking your device is just a tap away||
 |3|[@codyd51](https://github.com/codyd51)/[**conformity**](https://github.com/codyd51/conformity)|Replacement for the call controller||
-|3|[@davidmurray](https://github.com/davidmurray)/[**Uninstall-Application-Size**](https://github.com/davidmurray/Uninstall-Application-Size)|Shows an application's size when prompting to uninstall||
 

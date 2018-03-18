@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |266|[@trishume](https://github.com/trishume)/[**syntect**](https://github.com/trishume/syntect)|Rust library for syntax highlighting using Sublime Text syntax definitions.|[:arrow_upper_right:](https://docs.rs/syntect)|
-|228|[@mystor](https://github.com/mystor)/[**rust-cpp**](https://github.com/mystor/rust-cpp)|Embed C++ directly inside your rust code!||
-|197|[@Arvanaghi](https://github.com/Arvanaghi)/[**CheckPlease**](https://github.com/Arvanaghi/CheckPlease)|Sandbox evasion modules written in PowerShell, Python, Go, Ruby, C, C#, Perl, and Rust.|[:arrow_upper_right:](https://twitter.com/arvanaghi)|
+|229|[@mystor](https://github.com/mystor)/[**rust-cpp**](https://github.com/mystor/rust-cpp)|Embed C++ directly inside your rust code!||
+|199|[@Arvanaghi](https://github.com/Arvanaghi)/[**CheckPlease**](https://github.com/Arvanaghi/CheckPlease)|Sandbox evasion modules written in PowerShell, Python, Go, Ruby, C, C#, Perl, and Rust.|[:arrow_upper_right:](https://twitter.com/arvanaghi)|
 |150|[@luqmana](https://github.com/luqmana)/[**rust-opencl**](https://github.com/luqmana/rust-opencl)|OpenCL bindings for Rust.||
 |118|[@thestinger](https://github.com/thestinger)/[**rust-core**](https://github.com/thestinger/rust-core)|a lightweight standard library for rust with freestanding support (deprecated in favour of libcore upstream)||
-|99|[@programble](https://github.com/programble)/[**scraper**](https://github.com/programble/scraper)|HTML parsing and querying with CSS selectors|[:arrow_upper_right:](https://docs.rs/scraper)|
+|100|[@programble](https://github.com/programble)/[**scraper**](https://github.com/programble/scraper)|HTML parsing and querying with CSS selectors|[:arrow_upper_right:](https://docs.rs/scraper)|
 |66|[@luqmana](https://github.com/luqmana)/[**rust-psp-hello**](https://github.com/luqmana/rust-psp-hello)|Simple Hello World in Rust to run on a PSP.||
-|56|[@MitMaro](https://github.com/MitMaro)/[**git-interactive-rebase-tool**](https://github.com/MitMaro/git-interactive-rebase-tool)|Full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.|[:arrow_upper_right:](http://gitrebasetool.mitmaro.ca/)|
+|58|[@MitMaro](https://github.com/MitMaro)/[**git-interactive-rebase-tool**](https://github.com/MitMaro/git-interactive-rebase-tool)|Full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.|[:arrow_upper_right:](http://gitrebasetool.mitmaro.ca/)|
 |39|[@zsck](https://github.com/zsck)/[**clink**](https://github.com/zsck/clink)|A developer assistance tool to help with refactoring and keeping related code up to date with changes||
 |34|[@iKevinY](https://github.com/iKevinY)/[**blerp**](https://github.com/iKevinY/blerp)|xkcd #1692: Man Page|[:arrow_upper_right:](https://xkcd.com/1692/)|
 |34|[@mystor](https://github.com/mystor)/[**slag**](https://github.com/mystor/slag)|A whitespace-sensitive syntax for rust||
@@ -19,17 +19,17 @@
 |17|[@trishume](https://github.com/trishume)/[**faiyels**](https://github.com/trishume/faiyels)|See all your code rendered at once and zoom around it using Rust & GPU rendering.||
 |16|[@hsoft](https://github.com/hsoft)/[**civng**](https://github.com/hsoft/civng)|Civ 5 implementation in Rust with a text-based UI||
 |14|[@trishume](https://github.com/trishume)/[**dayder**](https://github.com/trishume/dayder)|Search lots of data sets for spurious correlations|[:arrow_upper_right:](http://dayder.thume.ca/)|
+|14|[@yrashk](https://github.com/yrashk)/[**serde_fs**](https://github.com/yrashk/serde_fs)|[De]serializing data structures as files||
 |13|[@stewart](https://github.com/stewart)/[**rff**](https://github.com/stewart/rff)|:microscope: rff: fuzzy finder||
 |13|[@thestinger](https://github.com/thestinger)/[**rust-seccomp**](https://github.com/thestinger/rust-seccomp)|||
 |13|[@trishume](https://github.com/trishume)/[**quickdown**](https://github.com/trishume/quickdown)|Fast lightweight Markdown viewer with Rust and Webrender. HtN 2017||
 |13|[@uiri](https://github.com/uiri)/[**SEGIMAP**](https://github.com/uiri/SEGIMAP)|IMAP (and LMTP) Server written in Rust||
 |12|[@addyosmani](https://github.com/addyosmani)/[**rusty**](https://github.com/addyosmani/rusty)|Toy Web layout engine written in Rust||
+|12|[@fnichol](https://github.com/fnichol)/[**names**](https://github.com/fnichol/names)|Random name generator for Rust||
 |12|[@mhsjlw](https://github.com/mhsjlw)/[**node-voxel-worldgen**](https://github.com/mhsjlw/node-voxel-worldgen)|A voxel world generator written in Rust, with bindings for Node||
 |12|[@thestinger](https://github.com/thestinger)/[**rust-snappy**](https://github.com/thestinger/rust-snappy)|snappy bindings for Rust||
 |11|[@chasinglogic](https://github.com/chasinglogic)/[**cargo-hublish**](https://github.com/chasinglogic/cargo-hublish)|A cargo subcommand for publishing Rust projects to github.||
 |11|[@eliheuer](https://github.com/eliheuer)/[**qalam**](https://github.com/eliheuer/qalam)|A simple UFO font editor in Rust+GTK. (work in progress)||
-|11|[@fnichol](https://github.com/fnichol)/[**names**](https://github.com/fnichol/names)|Random name generator for Rust||
-|11|[@yrashk](https://github.com/yrashk)/[**serde_fs**](https://github.com/yrashk/serde_fs)|[De]serializing data structures as files||
 |10|[@Dooskington](https://github.com/Dooskington)/[**Rustcaster**](https://github.com/Dooskington/Rustcaster)|:suspect: A lightweight raycaster.||
 |9|[@brettcannon](https://github.com/brettcannon)/[**riscv-harmony**](https://github.com/brettcannon/riscv-harmony)|A RISC-V ISA simulator written in Rust||
 |9|[@gnuvince](https://github.com/gnuvince)/[**ppbert**](https://github.com/gnuvince/ppbert)|A simple pretty printer for Erlang's External Term Format||

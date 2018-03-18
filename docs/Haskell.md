@@ -2,7 +2,7 @@
 |---|---|---|---|
 |150|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
 |126|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
-|118|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
+|119|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
 |105|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
 |86|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
 |52|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
@@ -23,6 +23,7 @@
 |12|[@fosskers](https://github.com/fosskers)/[**versions**](https://github.com/fosskers/versions)|Haskell types and parsers for software version numbers.||
 |11|[@csabahruska](https://github.com/csabahruska)/[**demoscene**](https://github.com/csabahruska/demoscene)|||
 |11|[@gregorycollins](https://github.com/gregorycollins)/[**attoparsec-iteratee**](https://github.com/gregorycollins/attoparsec-iteratee)|An adapter to convert attoparsec Parsers into blazing-fast Iteratees||
+|11|[@jpittis](https://github.com/jpittis)/[**toxiproxy-haskell**](https://github.com/jpittis/toxiproxy-haskell)|A Haskell client for Toxiproxy.||
 |10|[@avieth](https://github.com/avieth)/[**diplomacy**](https://github.com/avieth/diplomacy)|The board game Diplomacy, spoken in Haskell||
 |10|[@fosskers](https://github.com/fosskers)/[**vectortiles**](https://github.com/fosskers/vectortiles)|A native Haskell codec for Mapbox Vector Tiles.||
 |10|[@singpolyma](https://github.com/singpolyma)/[**cheogram**](https://github.com/singpolyma/cheogram)|Groupchat for everyone|[:arrow_upper_right:](https://cheogram.com)|
@@ -41,7 +42,6 @@
 |7|[@diogob](https://github.com/diogob)/[**haskell-tools**](https://github.com/diogob/haskell-tools)|Website to view haskell projects from Github|[:arrow_upper_right:](http://haskelltools.com)|
 |7|[@singpolyma](https://github.com/singpolyma)/[**mustache2hs**](https://github.com/singpolyma/mustache2hs)|An attempt to compile Mustache templates to Haskell code||
 |6|[@fosskers](https://github.com/fosskers)/[**streaming-osm**](https://github.com/fosskers/streaming-osm)|A hand-written streaming byte parser for OpenStreetMap Protobuf data.||
-|6|[@jpittis](https://github.com/jpittis)/[**toxiproxy-haskell**](https://github.com/jpittis/toxiproxy-haskell)|A Haskell client for Toxiproxy.||
 |6|[@nitrix](https://github.com/nitrix)/[**ni**](https://github.com/nitrix/ni)|Ni programming language||
 |6|[@pbevin](https://github.com/pbevin)/[**cardelli**](https://github.com/pbevin/cardelli)|Cardelli type inferencer translated to Javascript||
 |5|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**elm-build-lib**](https://github.com/JoeyEremondi/elm-build-lib)|A library for compiling Elm to JavaScript from within Haskell||

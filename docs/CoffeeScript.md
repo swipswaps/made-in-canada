@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1489|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
-|1202|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor|[:arrow_upper_right:](http://unibeautify.com/)|
+|1490|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
+|1206|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor|[:arrow_upper_right:](http://unibeautify.com/)|
 |427|[@keithamus](https://github.com/keithamus)/[**parallelshell**](https://github.com/keithamus/parallelshell)|Run multiple shell commands in parallel||
-|396|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls|[:arrow_upper_right:](https://echoplex.us)|
+|395|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls|[:arrow_upper_right:](https://echoplex.us)|
 |231|[@EtienneLem](https://github.com/EtienneLem)/[**skeleton**](https://github.com/EtienneLem/skeleton)|Express 3.0 framework-less app structure generator|[:arrow_upper_right:](http://etiennelem.github.com/skeleton)|
 |217|[@axiomzen](https://github.com/axiomzen)/[**Alike**](https://github.com/axiomzen/Alike)|A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances||
 |192|[@benbria](https://github.com/benbria)/[**aliasify**](https://github.com/benbria/aliasify)|Rewrite require calls in browserify modules.||
@@ -24,8 +24,8 @@
 |81|[@ssokolow](https://github.com/ssokolow)/[**itad_importer**](https://github.com/ssokolow/itad_importer)|A userscript helper for importing game collections into IsThereAnyDeal.com|[:arrow_upper_right:](https://greasyfork.org/en/scripts/13887-isthereanydeal-com-collection-importer)|
 |78|[@brianmhunt](https://github.com/brianmhunt)/[**casper-chai**](https://github.com/brianmhunt/casper-chai)|Extends Chai with assertions for the CasperJS/PhantomJS headless browser.||
 |68|[@fictorial](https://github.com/fictorial)/[**linode-api**](https://github.com/fictorial/linode-api)|Linode API client for Node.js||
+|64|[@benbria](https://github.com/benbria)/[**node-amqp-connection-manager**](https://github.com/benbria/node-amqp-connection-manager)|Auto-reconnect and round robin support for amqplib.||
 |63|[@darkhelmet](https://github.com/darkhelmet)/[**kindlebility**](https://github.com/darkhelmet/kindlebility)|Readability to PDF to Kindle. A Javascript turducken!|[:arrow_upper_right:](http://kindlebility.darkhax.com/)|
-|62|[@benbria](https://github.com/benbria)/[**node-amqp-connection-manager**](https://github.com/benbria/node-amqp-connection-manager)|Auto-reconnect and round robin support for amqplib.||
 |61|[@benbria](https://github.com/benbria)/[**browserify-transform-tools**](https://github.com/benbria/browserify-transform-tools)|Utilities for writing browserify transforms.||
 |61|[@kmalakoff](https://github.com/kmalakoff)/[**background**](https://github.com/kmalakoff/background)|CoffeeScript / JavaScript background job / task / worker library. Provides implementations for jobs, a job queue, a job list, and single and multiple array iterators.|[:arrow_upper_right:](http://braincode.tumblr.com/post/9449127004/background-js)|
 |58|[@kmalakoff](https://github.com/kmalakoff)/[**backbone-modelref**](https://github.com/kmalakoff/backbone-modelref)|Backbone-ModelRef.js provides a mechanism to respond to lazy-loaded Backbone.js models.||
@@ -48,10 +48,10 @@
 |22|[@kmalakoff](https://github.com/kmalakoff)/[**backbone-articulation**](https://github.com/kmalakoff/backbone-articulation)|Add custom attribute serialization and deserialization to your Backbone.Models.|[:arrow_upper_right:](http://braincode.tumblr.com/post/10682432555/introducing-backbone-articulation)|
 |20|[@adamhooper](https://github.com/adamhooper)/[**js-sorted-set**](https://github.com/adamhooper/js-sorted-set)|Sorted set data structures in JavaScript||
 |18|[@EtienneLem](https://github.com/EtienneLem)/[**commandz**](https://github.com/EtienneLem/commandz)|⌘Z adds commands history support to your web app|[:arrow_upper_right:](http://etiennelem.github.io/commandz)|
+|17|[@adam-p](https://github.com/adam-p)/[**text-file-follower**](https://github.com/adam-p/text-file-follower)|A Node.js module for getting each new last line of a text file as it appears. Think `tail -f`.||
 |17|[@davemo](https://github.com/davemo)/[**grunt-rails-asset-digest**](https://github.com/davemo/grunt-rails-asset-digest)|grunt-rails-asset-digest||
 |17|[@davemo](https://github.com/davemo)/[**jasmine-only**](https://github.com/davemo/jasmine-only)|Exclusivity spec helpers for jasmine that let you isolate spec runs to only one `describe` or `it`||
 |17|[@james2doyle](https://github.com/james2doyle)/[**atom-jquery-snippets**](https://github.com/james2doyle/atom-jquery-snippets)|This is a snippets package for Atom. It is a conversion of an old jQuery snippets for sublime text.||
-|16|[@adam-p](https://github.com/adam-p)/[**text-file-follower**](https://github.com/adam-p/text-file-follower)|A Node.js module for getting each new last line of a text file as it appears. Think `tail -f`.||
 |16|[@kmalakoff](https://github.com/kmalakoff)/[**easy-bake**](https://github.com/kmalakoff/easy-bake)|EasyBake enables CoffeeScript/JavaScript file-based configuration for your CoffeeScript library management needs (coffee compiling, compression, joining CoffeeScript + JavaScript files, headless testing for QUnit/Jasmine/NodeUnit, client/server version testing, etc).||
 |14|[@fictorial](https://github.com/fictorial)/[**chat-server**](https://github.com/fictorial/chat-server)|A multi-user chat TCP/IP server. Everyone has a chat server and this one is mine.||
 |13|[@RobLoach](https://github.com/RobLoach)/[**docpad-plugin-grunt**](https://github.com/RobLoach/docpad-plugin-grunt)|:boar: Run Grunt.js tasks when building with DocPad|[:arrow_upper_right:](http://gruntjs.com)|
@@ -79,6 +79,7 @@
 |9|[@raganwald](https://github.com/raganwald)/[**supervis.es**](https://github.com/raganwald/supervis.es)|||
 |8|[@benjie](https://github.com/benjie)/[**rf-experiments**](https://github.com/benjie/rf-experiments)|Capturing RF data using a cheap receiver and Arduino; attempting to decode it.||
 |8|[@pcrawfor](https://github.com/pcrawfor)/[**coffeeq**](https://github.com/pcrawfor/coffeeq)|Node.js Queuing library implemented in Coffee Script - currently only supports redis as a backend store for the queue||
+|8|[@radekstepan](https://github.com/radekstepan)/[**nzb-grabber-js**](https://github.com/radekstepan/nzb-grabber-js)|Download/grab binary posts from NNTP (Usenet) servers using Node.js||
 |8|[@shovon](https://github.com/shovon)/[**jade-static**](https://github.com/shovon/jade-static)|Serve static Jade files from an Express server.||
 |7|[@EtienneLem](https://github.com/EtienneLem)/[**gauges-events**](https://github.com/EtienneLem/gauges-events)|Gauges custom events tracker (unofficial)|[:arrow_upper_right:](http://get.gaug.es)|
 |7|[@EtienneLem](https://github.com/EtienneLem)/[**rdio-display**](https://github.com/EtienneLem/rdio-display)|Screensaver ala AppleTV that displays currently playing song.|[:arrow_upper_right:](http://rdio-display.herokuapp.com)|
@@ -87,7 +88,6 @@
 |7|[@RobLoach](https://github.com/RobLoach)/[**docpad-plugin-consolidate**](https://github.com/RobLoach/docpad-plugin-consolidate)|:pencil2: Template Engine Consolidation for DocPad|[:arrow_upper_right:](http://github.com/visionmedia/consolidate.js)|
 |7|[@RobLoach](https://github.com/RobLoach)/[**docpad-plugin-webpack**](https://github.com/RobLoach/docpad-plugin-webpack)|:pencil2: Bundle CommonJs/AMD Modules using webpack|[:arrow_upper_right:](http://webpack.github.io)|
 |7|[@ben-z](https://github.com/ben-z)/[**Silent-Sync**](https://github.com/ben-z/Silent-Sync)|Automatically takes care of the file syncing while you work.|[:arrow_upper_right:](https://atom.io/packages/silent-sync)|
-|7|[@radekstepan](https://github.com/radekstepan)/[**nzb-grabber-js**](https://github.com/radekstepan/nzb-grabber-js)|Download/grab binary posts from NNTP (Usenet) servers using Node.js||
 |7|[@tpoisot](https://github.com/tpoisot)/[**language-julia**](https://github.com/tpoisot/language-julia)|||
 |7|[@walkah](https://github.com/walkah)/[**hubot-plex**](https://github.com/walkah/hubot-plex)|A hubot script to interact with a Plex Media Server||
 |6|[@WillsonSmith](https://github.com/WillsonSmith)/[**AtomCodePenEditor**](https://github.com/WillsonSmith/AtomCodePenEditor)|u can edit ur codepenz in atom editor thing||

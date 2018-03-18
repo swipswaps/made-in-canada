@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |166|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
-|133|[@agilebits](https://github.com/agilebits)/[**onepassword-utilities**](https://github.com/agilebits/onepassword-utilities)|Utilities for 1Password||
+|134|[@agilebits](https://github.com/agilebits)/[**onepassword-utilities**](https://github.com/agilebits/onepassword-utilities)|Utilities for 1Password||
 |123|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
-|106|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](http://www.metacpan.org/module/PerlPowerTools/)|
+|107|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](http://www.metacpan.org/module/PerlPowerTools/)|
 |98|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |93|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
 |72|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
 |71|[@mlangill](https://github.com/mlangill)/[**microbiome_helper**](https://github.com/mlangill/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |69|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
-|45|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
+|47|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
 |41|[@yanick](https://github.com/yanick)/[**git-cpan-patch**](https://github.com/yanick/git-cpan-patch)|System to write patches against CPAN modules via Git||
 |38|[@briandfoy](https://github.com/briandfoy)/[**Learning-Perl-Sample-Files**](https://github.com/briandfoy/Learning-Perl-Sample-Files)|Extra files for use with Learning Perl|[:arrow_upper_right:](http://www.learning-perl.org/)|
 |36|[@moshen](https://github.com/moshen)/[**Image-Term256Color**](https://github.com/moshen/Image-Term256Color)|Display images in your 256 color terminal! (kinda) - superseded by https://github.com/moshen/gotermimg||
@@ -145,6 +145,7 @@
 |3|[@yanick](https://github.com/yanick)/[**CPAN-Cache**](https://github.com/yanick/CPAN-Cache)|Release history of CPAN-Cache|[:arrow_upper_right:](http://search.cpan.org/dist/CPAN-Cache/)|
 |3|[@yanick](https://github.com/yanick)/[**Dancer-Plugin-Cache-CHI**](https://github.com/yanick/Dancer-Plugin-Cache-CHI)|Dancer plugin to cache response content (and anything else)||
 |3|[@yanick](https://github.com/yanick)/[**Dist-Zilla-PluginBundle-YANICK**](https://github.com/yanick/Dist-Zilla-PluginBundle-YANICK)|Be like Yanick when you release your dists||
+|3|[@yanick](https://github.com/yanick)/[**Neovim-RPC**](https://github.com/yanick/Neovim-RPC)|||
 |3|[@yanick](https://github.com/yanick)/[**Pulp**](https://github.com/yanick/Pulp)|||
 |3|[@yanick](https://github.com/yanick)/[**Task-BeLike-YANICK**](https://github.com/yanick/Task-BeLike-YANICK)|(Perl) like Yanick? Be like Yanick!|[:arrow_upper_right:](http://search.cpan.org/dist/Task-BeLike-YANICK)|
 |3|[@yanick](https://github.com/yanick)/[**dpanneur**](https://github.com/yanick/dpanneur)|Portable DarkPAN/CPAN proxy||

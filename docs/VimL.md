@@ -66,6 +66,7 @@
 |4|[@ujihisa](https://github.com/ujihisa)/[**vim-kami**](https://github.com/ujihisa/vim-kami)|“Kami” vim version.||
 |4|[@ujihisa](https://github.com/ujihisa)/[**vimshell-repl**](https://github.com/ujihisa/vimshell-repl)|(experimental)||
 |3|[@SilverTab](https://github.com/SilverTab)/[**vimfiles**](https://github.com/SilverTab/vimfiles)|My vim config...||
+|3|[@adam12](https://github.com/adam12)/[**dotfiles**](https://github.com/adam12/dotfiles)|My dotfiles||
 |3|[@bigfish](https://github.com/bigfish)/[**myvim**](https://github.com/bigfish/myvim)|my vim runtime ||
 |3|[@bigfish](https://github.com/bigfish)/[**vim-jshint**](https://github.com/bigfish/vim-jshint)|vim plugin to run jshint on filesave and show errors||
 |3|[@blakehilscher](https://github.com/blakehilscher)/[**dotfiles**](https://github.com/blakehilscher/dotfiles)|dotfiles||

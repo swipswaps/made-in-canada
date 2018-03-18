@@ -1,23 +1,23 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|318|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
+|322|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
 |170|[@jkakar](https://github.com/jkakar)/[**aws-elixir**](https://github.com/jkakar/aws-elixir)|AWS clients for Elixir||
-|165|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
+|166|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
 |160|[@jarednorman](https://github.com/jarednorman)/[**canada**](https://github.com/jarednorman/canada)|Easy permission definitions in Elixir apps!|[:arrow_upper_right:](https://github.com/jarednorman/canada)|
 |149|[@talentdeficit](https://github.com/talentdeficit)/[**exjsx**](https://github.com/talentdeficit/exjsx)|json for elixir||
-|146|[@joshnuss](https://github.com/joshnuss)/[**design-patterns-in-elixir**](https://github.com/joshnuss/design-patterns-in-elixir)|Common design patterns in Elixir||
+|147|[@joshnuss](https://github.com/joshnuss)/[**design-patterns-in-elixir**](https://github.com/joshnuss/design-patterns-in-elixir)|Common design patterns in Elixir||
 |136|[@joshnuss](https://github.com/joshnuss)/[**commerce_billing**](https://github.com/joshnuss/commerce_billing)|A payment processing library for Elixir||
 |115|[@GesJeremie](https://github.com/GesJeremie)/[**faker-elixir**](https://github.com/GesJeremie/faker-elixir)|:droplet: FakerElixir generates fake data for you. |[:arrow_upper_right:](https://hexdocs.pm/faker_elixir_octopus/FakerElixir.html)|
-|111|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
+|113|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
 |91|[@expede](https://github.com/expede)/[**algae**](https://github.com/expede/algae)|Bootstrapped algebraic data types for Elixir|[:arrow_upper_right:](https://hex.pm/packages/algae)|
 |72|[@joshnuss](https://github.com/joshnuss)/[**xml_builder**](https://github.com/joshnuss/xml_builder)|Elixir library for generating XML||
 |59|[@matehat](https://github.com/matehat)/[**cqex**](https://github.com/matehat/cqex)|Idiomatic Cassandra client for Elixir||
 |58|[@yrashk](https://github.com/yrashk)/[**relex**](https://github.com/yrashk/relex)|Erlang/Elixir Release Assembler||
-|54|[@expede](https://github.com/expede)/[**type_class**](https://github.com/expede/type_class)|(Semi-)principled type classes for Elixir|[:arrow_upper_right:](https://hex.pm/packages/type_class)|
+|56|[@expede](https://github.com/expede)/[**type_class**](https://github.com/expede/type_class)|(Semi-)principled type classes for Elixir|[:arrow_upper_right:](https://hex.pm/packages/type_class)|
 |51|[@joshnuss](https://github.com/joshnuss)/[**phoenix-billing-demo**](https://github.com/joshnuss/phoenix-billing-demo)|A demo of using commerce_billing with phoenix||
 |49|[@a115](https://github.com/a115)/[**exmatrix**](https://github.com/a115/exmatrix)|Elixir library implementing a parallel matrix multiplication algorithm and other utilities for working with matrices. Used for benchmarking computationally intensive concurrent code. |[:arrow_upper_right:](http://a115.co.uk/)|
+|46|[@jarednorman](https://github.com/jarednorman)/[**bugsnag-elixir**](https://github.com/jarednorman/bugsnag-elixir)|An Elixir interface to the Bugsnag API|[:arrow_upper_right:](https://hex.pm/packages/bugsnag)|
 |45|[@ChrisYammine](https://github.com/ChrisYammine)/[**ex_trello**](https://github.com/ChrisYammine/ex_trello)|An Elixir library for interfacing with the Trello API||
-|44|[@jarednorman](https://github.com/jarednorman)/[**bugsnag-elixir**](https://github.com/jarednorman/bugsnag-elixir)|An Elixir interface to the Bugsnag API|[:arrow_upper_right:](https://hex.pm/packages/bugsnag)|
 |44|[@jarednorman](https://github.com/jarednorman)/[**plugsnag**](https://github.com/jarednorman/plugsnag)|A Bugsnag notifier for Elixir's plug||
 |43|[@yrashk](https://github.com/yrashk)/[**genx**](https://github.com/yrashk/genx)|Elixir-style library for most important OTP functionality||
 |40|[@joshnuss](https://github.com/joshnuss)/[**elixir-ffi**](https://github.com/joshnuss/elixir-ffi)|Foreign Function Interface (FFI) for Elixir||

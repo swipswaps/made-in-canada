@@ -1,17 +1,17 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |808|[@ferd](https://github.com/ferd)/[**recon**](https://github.com/ferd/recon)|Collection of functions and scripts to debug Erlang in production.|[:arrow_upper_right:](http://ferd.github.io/recon/)|
-|561|[@talentdeficit](https://github.com/talentdeficit)/[**jsx**](https://github.com/talentdeficit/jsx)|an erlang application for consuming, producing and manipulating json. inspired by yajl||
-|468|[@ferd](https://github.com/ferd)/[**erlang-history**](https://github.com/ferd/erlang-history)|Hacks to add shell history to Erlang's shell||
-|314|[@yrashk](https://github.com/yrashk)/[**socket.io-erlang**](https://github.com/yrashk/socket.io-erlang)|Socket.IO server for Erlang|[:arrow_upper_right:](http://socket.io/)|
-|216|[@ferd](https://github.com/ferd)/[**pobox**](https://github.com/ferd/pobox)|External buffer processes to protect against mailbox overflow in Erlang||
+|562|[@talentdeficit](https://github.com/talentdeficit)/[**jsx**](https://github.com/talentdeficit/jsx)|an erlang application for consuming, producing and manipulating json. inspired by yajl||
+|469|[@ferd](https://github.com/ferd)/[**erlang-history**](https://github.com/ferd/erlang-history)|Hacks to add shell history to Erlang's shell||
+|313|[@yrashk](https://github.com/yrashk)/[**socket.io-erlang**](https://github.com/yrashk/socket.io-erlang)|Socket.IO server for Erlang|[:arrow_upper_right:](http://socket.io/)|
+|217|[@ferd](https://github.com/ferd)/[**pobox**](https://github.com/ferd/pobox)|External buffer processes to protect against mailbox overflow in Erlang||
 |181|[@ferd](https://github.com/ferd)/[**dispcount**](https://github.com/ferd/dispcount)|Erlang task dispatcher based on ETS counters.||
 |180|[@matehat](https://github.com/matehat)/[**cqerl**](https://github.com/matehat/cqerl)|Native Erlang CQL client for Cassandra|[:arrow_upper_right:](http://matehat.github.io/cqerl)|
-|177|[@ferd](https://github.com/ferd)/[**vmstats**](https://github.com/ferd/vmstats)|tiny Erlang app to generate information on the Erlang VM||
+|178|[@ferd](https://github.com/ferd)/[**vmstats**](https://github.com/ferd/vmstats)|tiny Erlang app to generate information on the Erlang VM||
 |144|[@ferd](https://github.com/ferd)/[**erlpass**](https://github.com/ferd/erlpass)|A library to handle password hashing and changing in a safe manner, independent from any kind of storage whatsoever.||
 |113|[@msantos](https://github.com/msantos)/[**pkt**](https://github.com/msantos/pkt)|Erlang network protocol library|[:arrow_upper_right:](http://blog.listincomprehension.com/search/label/epcap)|
 |104|[@lpgauth](https://github.com/lpgauth)/[**shackle**](https://github.com/lpgauth/shackle)|High-Performance Erlang Network Client Framework||
-|90|[@ferd](https://github.com/ferd)/[**backoff**](https://github.com/ferd/backoff)|Simple exponential backoffs in Erlang||
+|91|[@ferd](https://github.com/ferd)/[**backoff**](https://github.com/ferd/backoff)|Simple exponential backoffs in Erlang||
 |81|[@lpgauth](https://github.com/lpgauth)/[**statsderl**](https://github.com/lpgauth/statsderl)|High-Performance Erlang StatsD Client||
 |79|[@ferd](https://github.com/ferd)/[**fancyflow**](https://github.com/ferd/fancyflow)|Experimental library to bring pipe and maybe operator equivalents in Erlang||
 |78|[@msantos](https://github.com/msantos)/[**evum**](https://github.com/msantos/evum)|["Linux VM", ["Erlang Process", ["Erlang VM"]]].||
@@ -23,10 +23,10 @@
 |46|[@msantos](https://github.com/msantos)/[**verx**](https://github.com/msantos/verx)|Erlang implementation of the libvirtd remote protocol||
 |44|[@lpgauth](https://github.com/lpgauth)/[**buoy**](https://github.com/lpgauth/buoy)|High-Performance Erlang HTTP 1.1 Client||
 |42|[@msantos](https://github.com/msantos)/[**srly**](https://github.com/msantos/srly)|Native Erlang Unix serial interface||
+|40|[@ferd](https://github.com/ferd)/[**recon_demo**](https://github.com/ferd/recon_demo)|Playground for recon, for practice and demos.||
 |39|[@ferd](https://github.com/ferd)/[**bertconf**](https://github.com/ferd/bertconf)|Make ETS tables out of statc BERT files that are auto-reloaded||
 |39|[@ferd](https://github.com/ferd)/[**cth_readable**](https://github.com/ferd/cth_readable)|Common Test hooks for more readable logs||
 |39|[@lpgauth](https://github.com/lpgauth)/[**marina**](https://github.com/lpgauth/marina)|High-Performance Erlang Cassandra CQL Client||
-|38|[@ferd](https://github.com/ferd)/[**recon_demo**](https://github.com/ferd/recon_demo)|Playground for recon, for practice and demos.||
 |32|[@ferd](https://github.com/ferd)/[**batchio**](https://github.com/ferd/batchio)|io:format middle-man that buffers and batches output sent to the io server for better throughput||
 |32|[@ferd](https://github.com/ferd)/[**zippers**](https://github.com/ferd/zippers)|A library for functional zipper data structures in Erlang. Read more on zippers @ http://ferd.ca/yet-another-article-on-zippers.html||
 |32|[@lpgauth](https://github.com/lpgauth)/[**swirl**](https://github.com/lpgauth/swirl)|High-Performance Erlang Stream Processor||
@@ -57,6 +57,7 @@
 |14|[@msantos](https://github.com/msantos)/[**inert**](https://github.com/msantos/inert)|An Erlang library for notification of events on file descriptors||
 |14|[@msantos](https://github.com/msantos)/[**prx**](https://github.com/msantos/prx)|an Erlang library for interacting with Unix processes||
 |14|[@yrashk](https://github.com/yrashk)/[**cutkey**](https://github.com/yrashk/cutkey)|||
+|13|[@ferd](https://github.com/ferd)/[**sups**](https://github.com/ferd/sups)|PropEr model helper library to validate implementations of supervisor trees||
 |12|[@lpgauth](https://github.com/lpgauth)/[**anchor**](https://github.com/lpgauth/anchor)|High-Performance Erlang Memcached Client||
 |12|[@lpgauth](https://github.com/lpgauth)/[**timing**](https://github.com/lpgauth/timing)|Micro benchmarking Erlang library||
 |12|[@yrashk](https://github.com/yrashk)/[**erlang**](https://github.com/yrashk/erlang)|Erlang with extra unofficial patches (see branches for patches in development, alterline for merged patches)|[:arrow_upper_right:](http://erlang.org/)|
