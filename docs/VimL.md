@@ -17,9 +17,9 @@
 |23|[@svermeulen](https://github.com/svermeulen)/[**vim-extended-ft**](https://github.com/svermeulen/vim-extended-ft)|||
 |22|[@ujihisa](https://github.com/ujihisa)/[**unite-locate**](https://github.com/ujihisa/unite-locate)|||
 |21|[@honza](https://github.com/honza)/[**writer.vim**](https://github.com/honza/writer.vim)|vim plugin for writing prose||
-|20|[@thayerwilliams](https://github.com/thayerwilliams)/[**vimbrant**](https://github.com/thayerwilliams/vimbrant)|A vibrantly dark dark colour scheme for Vim and other terminal applications||
+|21|[@thayerwilliams](https://github.com/thayerwilliams)/[**vimbrant**](https://github.com/thayerwilliams/vimbrant)|A vibrantly dark dark colour scheme for Vim and other terminal applications||
+|17|[@mrmrs](https://github.com/mrmrs)/[**vimrc**](https://github.com/mrmrs/vimrc)|||
 |17|[@tristen](https://github.com/tristen)/[**superman**](https://github.com/tristen/superman)|:art: A dark theme for Vim||
-|16|[@mrmrs](https://github.com/mrmrs)/[**vimrc**](https://github.com/mrmrs/vimrc)|||
 |15|[@tommcdo](https://github.com/tommcdo)/[**vim-kangaroo**](https://github.com/tommcdo/vim-kangaroo)|Vim plugin: Maintain a manually-defined jump stack||
 |14|[@gmarik](https://github.com/gmarik)/[**sudo-gui.vim**](https://github.com/gmarik/sudo-gui.vim)|sudo GUI for a GUI vim|[:arrow_upper_right:](https://github.com/gmarik/sudo-gui.vim)|
 |14|[@tommcdo](https://github.com/tommcdo)/[**vim-lister**](https://github.com/tommcdo/vim-lister)|A collection of commands for manipulating Vim's lists||
