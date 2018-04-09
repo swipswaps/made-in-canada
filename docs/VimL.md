@@ -11,7 +11,7 @@
 |36|[@ujihisa](https://github.com/ujihisa)/[**neoclojure.vim**](https://github.com/ujihisa/neoclojure.vim)|Clojure completion/unite-source Vim plugin, using vital.ProcessManager and Leiningen||
 |35|[@tommcdo](https://github.com/tommcdo)/[**vim-ninja-feet**](https://github.com/tommcdo/vim-ninja-feet)|Strike from the cursor to either end of a text object||
 |32|[@ujihisa](https://github.com/ujihisa)/[**vimshell-ssh**](https://github.com/ujihisa/vimshell-ssh)|the world first vimshell plugin that you can run "vim" command on ssh on vimshell||
-|24|[@tommcdo](https://github.com/tommcdo)/[**vim-fugitive-blame-ext**](https://github.com/tommcdo/vim-fugitive-blame-ext)|Extend tpope/vim-fugitive to show commit message on statusline in :Gblame||
+|25|[@tommcdo](https://github.com/tommcdo)/[**vim-fugitive-blame-ext**](https://github.com/tommcdo/vim-fugitive-blame-ext)|Extend tpope/vim-fugitive to show commit message on statusline in :Gblame||
 |23|[@gmarik](https://github.com/gmarik)/[**github-search.vim**](https://github.com/gmarik/github-search.vim)|search Github and clone repos with Vim|[:arrow_upper_right:](http://github.com/gmarik/github-search.vim)|
 |23|[@pangloss](https://github.com/pangloss)/[**vim-erlang**](https://github.com/pangloss/vim-erlang)|This repo has been superseded by the one at http://github.com/oscarh/vimerl which is maintained by the original author. Move along, nothing more to see here!||
 |23|[@svermeulen](https://github.com/svermeulen)/[**vim-extended-ft**](https://github.com/svermeulen/vim-extended-ft)|||
@@ -20,7 +20,6 @@
 |21|[@thayerwilliams](https://github.com/thayerwilliams)/[**vimbrant**](https://github.com/thayerwilliams/vimbrant)|A vibrantly dark dark colour scheme for Vim and other terminal applications||
 |17|[@mrmrs](https://github.com/mrmrs)/[**vimrc**](https://github.com/mrmrs/vimrc)|||
 |17|[@tristen](https://github.com/tristen)/[**superman**](https://github.com/tristen/superman)|:art: A dark theme for Vim||
-|15|[@tommcdo](https://github.com/tommcdo)/[**vim-kangaroo**](https://github.com/tommcdo/vim-kangaroo)|Vim plugin: Maintain a manually-defined jump stack||
 |14|[@gmarik](https://github.com/gmarik)/[**sudo-gui.vim**](https://github.com/gmarik/sudo-gui.vim)|sudo GUI for a GUI vim|[:arrow_upper_right:](https://github.com/gmarik/sudo-gui.vim)|
 |14|[@tommcdo](https://github.com/tommcdo)/[**vim-lister**](https://github.com/tommcdo/vim-lister)|A collection of commands for manipulating Vim's lists||
 |13|[@travisjeffery](https://github.com/travisjeffery)/[**snipmate-snippets**](https://github.com/travisjeffery/snipmate-snippets)|my snippets that I use with snipmate||
@@ -31,8 +30,10 @@
 |10|[@gf3](https://github.com/gf3)/[**peg.vim**](https://github.com/gf3/peg.vim)|PEG Syntax for Vim||
 |10|[@idbrii](https://github.com/idbrii)/[**vim-hiinterestingword**](https://github.com/idbrii/vim-hiinterestingword)|[Deprecated in favour of https://github.com/idbrii/vim-mark]||
 |10|[@mricon](https://github.com/mricon)/[**puppet-eyes**](https://github.com/mricon/puppet-eyes)|Vim plugin to alert when a file being edited is managed by puppet||
+|10|[@vinibaggio](https://github.com/vinibaggio)/[**vinibaggio-vimfiles**](https://github.com/vinibaggio/vinibaggio-vimfiles)|This is my vim configuration, a big mix from a lot of what I've seen on the net.|[:arrow_upper_right:](http://www.vinibaggio.net)|
 |9|[@thayerwilliams](https://github.com/thayerwilliams)/[**msi-dotfiles**](https://github.com/thayerwilliams/msi-dotfiles)|Archlinux dotfiles for my MSI Wind U120 netbook|[:arrow_upper_right:](http://cinderwick.ca)|
 |8|[@allenhwkim](https://github.com/allenhwkim)/[**nextfile.vim**](https://github.com/allenhwkim/nextfile.vim)|vim script to open related files||
+|8|[@shinespark](https://github.com/shinespark)/[**vim-list2tree**](https://github.com/shinespark/vim-list2tree)|list of markdown to tree.||
 |7|[@gregbell](https://github.com/gregbell)/[**dot-vim**](https://github.com/gregbell/dot-vim)|My .vimrc and .vim directory||
 |7|[@idbrii](https://github.com/idbrii)/[**vim-textconv**](https://github.com/idbrii/vim-textconv)|Easily apply text conversions. ||
 |7|[@rafaelrosafu](https://github.com/rafaelrosafu)/[**vimfiles**](https://github.com/rafaelrosafu/vimfiles)|My vimfiles (noobie warning)||
@@ -75,15 +76,18 @@
 |3|[@gmarik](https://github.com/gmarik)/[**hlmatch.vim**](https://github.com/gmarik/hlmatch.vim)|opinionated Vim highlighting utils.||
 |3|[@gmarik](https://github.com/gmarik)/[**ide-popup.vim**](https://github.com/gmarik/ide-popup.vim)|Make popup behave like IDE popup|[:arrow_upper_right:](http://vim.wikia.com/wiki/Make_Vim_completion_popup_menu_work_just_like_in_an_IDE)|
 |3|[@gtanner](https://github.com/gtanner)/[**tinyhippos.vimrc**](https://github.com/gtanner/tinyhippos.vimrc)|.vim settings for working @ tinyhippos||
+|3|[@hallzy](https://github.com/hallzy)/[**lightline-onedark**](https://github.com/hallzy/lightline-onedark)|A lightline theme for onedark vim colorscheme||
 |3|[@idbrii](https://github.com/idbrii)/[**powerline-sanity**](https://github.com/idbrii/powerline-sanity)|A saner set of themes for vim-powerline||
 |3|[@idbrii](https://github.com/idbrii)/[**statusline-theme-sanity**](https://github.com/idbrii/statusline-theme-sanity)|A saner theme for vim-powerline and vim-airline||
 |3|[@idbrii](https://github.com/idbrii)/[**vim-ack**](https://github.com/idbrii/vim-ack)|An Ack plugin for Vim that depends on AsyncCommand||
 |3|[@idbrii](https://github.com/idbrii)/[**vim-man**](https://github.com/idbrii/vim-man)|Display man pages in vim||
 |3|[@juliosueiras](https://github.com/juliosueiras)/[**cakebuild.vim**](https://github.com/juliosueiras/cakebuild.vim)|Vim Syntax for Cake(https://github.com/cake-build/cake)||
 |3|[@rey](https://github.com/rey)/[**.vim**](https://github.com/rey/.vim)|||
+|3|[@saks](https://github.com/saks)/[**.vim**](https://github.com/saks/.vim)|my .vim directory files||
 |3|[@sgraham](https://github.com/sgraham)/[**sgraham**](https://github.com/sgraham/sgraham)|Scott Graham's config files|[:arrow_upper_right:](http://blog.learnr.org/)|
 |3|[@travisjeffery](https://github.com/travisjeffery)/[**vim-testee**](https://github.com/travisjeffery/vim-testee)|super duper testing plugin/extension for Vim||
 |3|[@ujihisa](https://github.com/ujihisa)/[**keeprun.vim**](https://github.com/ujihisa/keeprun.vim)|! This project is abandoned since I made patch to make quickrun.vim keep running !||
 |3|[@ujihisa](https://github.com/ujihisa)/[**vehearse**](https://github.com/ujihisa/vehearse)|Vim Rehearse||
+|3|[@vinibaggio](https://github.com/vinibaggio)/[**vim-tubaina**](https://github.com/vinibaggio/vim-tubaina)|A syntax highlight and autoclose for tubaina markup language.||
 |3|[@z3t0](https://github.com/z3t0)/[**arduvim**](https://github.com/z3t0/arduvim)|A vim plugin for automatic Arduino syntax generation and more...|[:arrow_upper_right:](http://z3t0.github.io/arduvim)|
 

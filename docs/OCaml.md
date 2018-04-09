@@ -6,10 +6,14 @@
 |11|[@tokenrove](https://github.com/tokenrove)/[**tsdl-image**](https://github.com/tokenrove/tsdl-image)|OCaml SDL2_image bindings to go with Tsdl||
 |7|[@adrianmcli](https://github.com/adrianmcli)/[**rehydrate-workshop**](https://github.com/adrianmcli/rehydrate-workshop)|A small collection of basic components built with Rehydrate 💧.||
 |7|[@tokenrove](https://github.com/tokenrove)/[**shred-for-satan**](https://github.com/tokenrove/shred-for-satan)|MIDI-driven metronome||
+|7|[@yawaramin](https://github.com/yawaramin)/[**bs-hyperapp**](https://github.com/yawaramin/bs-hyperapp)|Work in Progress - an opinionated overlay of the Elm Architecture on top of Hyperapp||
 |6|[@brentvatne](https://github.com/brentvatne)/[**bs-option**](https://github.com/brentvatne/bs-option)|||
 |6|[@tokenrove](https://github.com/tokenrove)/[**tsdl-ttf**](https://github.com/tokenrove/tsdl-ttf)|SDL2_ttf bindings for Ocaml with Tsdl||
+|5|[@danieljharvey](https://github.com/danieljharvey)/[**reason-examples**](https://github.com/danieljharvey/reason-examples)|Some examples of reason code||
 |5|[@tokenrove](https://github.com/tokenrove)/[**tsdl-mixer**](https://github.com/tokenrove/tsdl-mixer)|SDL2_mixer bindings to go with Tsdl||
 |4|[@brentvatne](https://github.com/brentvatne)/[**99-reasons**](https://github.com/brentvatne/99-reasons)|||
 |4|[@gnuvince](https://github.com/gnuvince)/[**ocaml-tiger**](https://github.com/gnuvince/ocaml-tiger)|||
 |3|[@tokenrove](https://github.com/tokenrove)/[**zookicker**](https://github.com/tokenrove/zookicker)|#1GAM February backup plan||
+|3|[@yawaramin](https://github.com/yawaramin)/[**bucklescript-cyclejs-test**](https://github.com/yawaramin/bucklescript-cyclejs-test)|||
+|3|[@yawaramin](https://github.com/yawaramin)/[**resilient-services**](https://github.com/yawaramin/resilient-services)|||
 
