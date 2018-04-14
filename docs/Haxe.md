@@ -33,13 +33,13 @@
 |5|[@underscorediscovery](https://github.com/underscorediscovery)/[**snowfall**](https://github.com/underscorediscovery/snowfall)|A simple script to install and update luxe + snow more conveniently ||
 |4|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxePong**](https://github.com/FuzzyWuzzie/LuxePong)|A single game of pong, written using Luxe as a learning excercise||
 |4|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**RegisAgro**](https://github.com/FuzzyWuzzie/RegisAgro)|A Luxe implementation of hnefatafl||
+|4|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-pako**](https://github.com/FuzzyWuzzie/haxe-pako)|Haxe externs for the https://github.com/nodeca/pako library.||
 |4|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-partials**](https://github.com/FuzzyWuzzie/haxe-partials)|A simple macro library for writing classes as partials (splitting a single class into multiple source files).||
 |4|[@chfoo](https://github.com/chfoo)/[**tppinputassist**](https://github.com/chfoo/tppinputassist)|Touchscreen coordinate tap overlay for inputting into Twitch chat||
 |4|[@starburst997](https://github.com/starburst997)/[**haxe-trace-timer**](https://github.com/starburst997/haxe-trace-timer)|Inject timer information in trace statement||
 |4|[@starburst997](https://github.com/starburst997)/[**haxe-zip**](https://github.com/starburst997/haxe-zip)|Library to provide a cross-platform streaming Zip Writer / Reader experience.||
 |4|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe-gifcapture**](https://github.com/underscorediscovery/luxe-gifcapture)|A luxe wrapper over the gifcapture library to simplify capturing realtime gifs from in game||
 |3|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Luxe3D**](https://github.com/FuzzyWuzzie/Luxe3D)|Experiments in 3D in Luxe||
-|3|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-pako**](https://github.com/FuzzyWuzzie/haxe-pako)|Haxe externs for the https://github.com/nodeca/pako library.||
 |3|[@underscorediscovery](https://github.com/underscorediscovery)/[**nme-TexturePackerJSON**](https://github.com/underscorediscovery/nme-TexturePackerJSON)|An implementation of a haxelib/spritesheet Loader for TexturePacker||
 |3|[@underscorediscovery](https://github.com/underscorediscovery)/[**snowhxt**](https://github.com/underscorediscovery/snowhxt)|A convenience for using hxtelemetry with flow/snow based apps quickly||
 

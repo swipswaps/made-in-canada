@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|56|[@Elyorcv](https://github.com/Elyorcv)/[**SAE**](https://github.com/Elyorcv/SAE)|Semantic Autoencoder for Zero-shot Learning (Spotlight), CVPR 2017|[:arrow_upper_right:](https://elyorcv.github.io/projects/sae)|
+|57|[@Elyorcv](https://github.com/Elyorcv)/[**SAE**](https://github.com/Elyorcv/SAE)|Semantic Autoencoder for Zero-shot Learning (Spotlight), CVPR 2017|[:arrow_upper_right:](https://elyorcv.github.io/projects/sae)|
 |36|[@bmcfee](https://github.com/bmcfee)/[**mlr**](https://github.com/bmcfee/mlr)|Metric Learning to Rank||
+|27|[@kmyid](https://github.com/kmyid)/[**TILDE**](https://github.com/kmyid/TILDE)|Repository for "TILDE: A Temporally Invariant Learned DEtector", CVPR2015||
 |26|[@PhDP](https://github.com/PhDP)/[**mlbop**](https://github.com/PhDP/mlbop)|Matlab code for S. Theodoridis' "Machine Learning: A Bayesian and Optimization Perspective" (2015).||
-|26|[@kmyid](https://github.com/kmyid)/[**TILDE**](https://github.com/kmyid/TILDE)|Repository for "TILDE: A Temporally Invariant Learned DEtector", CVPR2015||
-|19|[@MIT-LCP](https://github.com/MIT-LCP)/[**critical-data-book**](https://github.com/MIT-LCP/critical-data-book)|Code repository for the critical data book||
+|20|[@MIT-LCP](https://github.com/MIT-LCP)/[**critical-data-book**](https://github.com/MIT-LCP/critical-data-book)|Code repository for the critical data book||
 |19|[@dengwirda](https://github.com/dengwirda)/[**mesh2d**](https://github.com/dengwirda/mesh2d)|MESH2D is a MATLAB-based Delaunay mesh generator for two-dimensional geometries.||
 |18|[@rayryeng](https://github.com/rayryeng)/[**equi2cubic**](https://github.com/rayryeng/equi2cubic)|MATLAB script that converts equirectangular images into six cube faces||
 |17|[@Riashat](https://github.com/Riashat)/[**Policy-Gradient-Reinforcement-Learning**](https://github.com/Riashat/Policy-Gradient-Reinforcement-Learning)|||
@@ -14,12 +14,12 @@
 |11|[@terryum](https://github.com/terryum)/[**Athletic_Movement_Detection**](https://github.com/terryum/Athletic_Movement_Detection)|The source codes for the paper, "An unsupervised approach to detecting and isolating athletic movements", EMBC2016||
 |10|[@luster](https://github.com/luster)/[**tawfDereverb**](https://github.com/luster/tawfDereverb)|Fast Audio Dereverberation MATLAB System||
 |9|[@ashafaei](https://github.com/ashafaei)/[**dense-depth-body-parts**](https://github.com/ashafaei/dense-depth-body-parts)|Dense classification of the depth images to recognize the body parts.|[:arrow_upper_right:](http://www.cs.ubc.ca/~shafaei/homepage/projects/crv16.php)|
+|9|[@kracwarlock](https://github.com/kracwarlock)/[**Movie-Recommender-and-Score-Prediction-System**](https://github.com/kracwarlock/Movie-Recommender-and-Score-Prediction-System)|Provides Movie Recommendations on the MovieLens ml-100k dataset using Collaborative Filtering||
 |9|[@luster](https://github.com/luster)/[**guitar-effects**](https://github.com/luster/guitar-effects)|Guitar Effects project for Music & Engineering, Fall 2012 at Cooper Union||
 |9|[@una-dinosauria](https://github.com/una-dinosauria)/[**stacked-quantizers**](https://github.com/una-dinosauria/stacked-quantizers)|Very accessible code for my MSc thesis. Cheap quantization method for ANN search also known as Enhanced Residual VQ.||
-|8|[@kracwarlock](https://github.com/kracwarlock)/[**Movie-Recommender-and-Score-Prediction-System**](https://github.com/kracwarlock/Movie-Recommender-and-Score-Prediction-System)|Provides Movie Recommendations on the MovieLens ml-100k dataset using Collaborative Filtering||
 |8|[@terryum](https://github.com/terryum)/[**Human-Robot-Motion-Simulator-based-on-Lie-Group**](https://github.com/terryum/Human-Robot-Motion-Simulator-based-on-Lie-Group)|This is the simulator for the robot or human motion||
+|7|[@ch237](https://github.com/ch237)/[**BayesPoissonFactor**](https://github.com/ch237/BayesPoissonFactor)|Bayesian Poisson Tensor Factorization||
 |6|[@axsauze](https://github.com/axsauze)/[**sparse**](https://github.com/axsauze/sparse)|The effects of sparse and group-feature regression models in portfolio optimization.||
-|6|[@ch237](https://github.com/ch237)/[**BayesPoissonFactor**](https://github.com/ch237/BayesPoissonFactor)|Bayesian Poisson Tensor Factorization||
 |5|[@mycarta](https://github.com/mycarta)/[**PMKMP**](https://github.com/mycarta/PMKMP)|Matlab function to create perceptual colormaps|[:arrow_upper_right:](http://www.mathworks.com/matlabcentral/fileexchange/28982-perceptually-improved-colormaps)|
 |5|[@ustunb](https://github.com/ustunb)/[**slim-matlab**](https://github.com/ustunb/slim-matlab)|Optimized scoring systems for classification problems in MATLAB||
 |4|[@MIT-LCP](https://github.com/MIT-LCP)/[**PhysioNetChallengePublic**](https://github.com/MIT-LCP/PhysioNetChallengePublic)|Public Software for the PhysioNet/CinC Challenge Series||

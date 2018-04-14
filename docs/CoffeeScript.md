@@ -1,18 +1,18 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1490|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
-|1213|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor|[:arrow_upper_right:](http://unibeautify.com/)|
+|1489|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
+|1221|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor|[:arrow_upper_right:](http://unibeautify.com/)|
 |427|[@keithamus](https://github.com/keithamus)/[**parallelshell**](https://github.com/keithamus/parallelshell)|Run multiple shell commands in parallel||
-|394|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls|[:arrow_upper_right:](https://echoplex.us)|
+|395|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls|[:arrow_upper_right:](https://echoplex.us)|
 |231|[@EtienneLem](https://github.com/EtienneLem)/[**skeleton**](https://github.com/EtienneLem/skeleton)|Express 3.0 framework-less app structure generator|[:arrow_upper_right:](http://etiennelem.github.com/skeleton)|
-|216|[@axiomzen](https://github.com/axiomzen)/[**Alike**](https://github.com/axiomzen/Alike)|A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances||
-|193|[@benbria](https://github.com/benbria)/[**aliasify**](https://github.com/benbria/aliasify)|Rewrite require calls in browserify modules.||
+|217|[@axiomzen](https://github.com/axiomzen)/[**Alike**](https://github.com/axiomzen/Alike)|A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances||
+|194|[@benbria](https://github.com/benbria)/[**aliasify**](https://github.com/benbria/aliasify)|Rewrite require calls in browserify modules.||
+|189|[@fw42](https://github.com/fw42)/[**honeymap**](https://github.com/fw42/honeymap)|Real-time websocket stream of GPS events on a fancy SVG world map|[:arrow_upper_right:](http://map.honeynet.org/)|
 |189|[@raganwald](https://github.com/raganwald)/[**YouAreDaChef**](https://github.com/raganwald/YouAreDaChef)|Coffeescript/Javascript method combinations for Underscore projects||
-|188|[@fw42](https://github.com/fw42)/[**honeymap**](https://github.com/fw42/honeymap)|Real-time websocket stream of GPS events on a fancy SVG world map|[:arrow_upper_right:](http://map.honeynet.org/)|
 |185|[@zaidka](https://github.com/zaidka)/[**genieacs**](https://github.com/zaidka/genieacs)|A fast and lightweight TR-069 Auto Configuration Server (ACS)|[:arrow_upper_right:](https://genieacs.com)|
 |180|[@raganwald](https://github.com/raganwald)/[**Katy**](https://github.com/raganwald/Katy)|CoffeeScript and JavaScript Combinators||
-|152|[@pcrawfor](https://github.com/pcrawfor)/[**iap_verifier**](https://github.com/pcrawfor/iap_verifier)|Node.js implementation of iOS In App Purchase receipt verification||
-|147|[@adamhooper](https://github.com/adamhooper)/[**js-priority-queue**](https://github.com/adamhooper/js-priority-queue)|Priority queues in JavaScript||
+|153|[@pcrawfor](https://github.com/pcrawfor)/[**iap_verifier**](https://github.com/pcrawfor/iap_verifier)|Node.js implementation of iOS In App Purchase receipt verification||
+|149|[@adamhooper](https://github.com/adamhooper)/[**js-priority-queue**](https://github.com/adamhooper/js-priority-queue)|Priority queues in JavaScript||
 |139|[@benbria](https://github.com/benbria)/[**coffee-coverage**](https://github.com/benbria/coffee-coverage)|Istanbul and JSCoverage-style instrumentation for CoffeeScript files.||
 |132|[@jescalan](https://github.com/jescalan)/[**accord**](https://github.com/jescalan/accord)|a unified interface for compiled languages and templates in javascript||
 |123|[@raganwald](https://github.com/raganwald)/[**method-combinators**](https://github.com/raganwald/method-combinators)|||
@@ -24,10 +24,10 @@
 |81|[@ssokolow](https://github.com/ssokolow)/[**itad_importer**](https://github.com/ssokolow/itad_importer)|A userscript helper for importing game collections into IsThereAnyDeal.com|[:arrow_upper_right:](https://greasyfork.org/en/scripts/13887-isthereanydeal-com-collection-importer)|
 |78|[@brianmhunt](https://github.com/brianmhunt)/[**casper-chai**](https://github.com/brianmhunt/casper-chai)|Extends Chai with assertions for the CasperJS/PhantomJS headless browser.||
 |69|[@fictorial](https://github.com/fictorial)/[**linode-api**](https://github.com/fictorial/linode-api)|Linode API client for Node.js||
-|66|[@benbria](https://github.com/benbria)/[**node-amqp-connection-manager**](https://github.com/benbria/node-amqp-connection-manager)|Auto-reconnect and round robin support for amqplib.||
+|67|[@benbria](https://github.com/benbria)/[**node-amqp-connection-manager**](https://github.com/benbria/node-amqp-connection-manager)|Auto-reconnect and round robin support for amqplib.||
 |64|[@darkhelmet](https://github.com/darkhelmet)/[**kindlebility**](https://github.com/darkhelmet/kindlebility)|Readability to PDF to Kindle. A Javascript turducken!|[:arrow_upper_right:](http://kindlebility.darkhax.com/)|
-|61|[@kmalakoff](https://github.com/kmalakoff)/[**background**](https://github.com/kmalakoff/background)|CoffeeScript / JavaScript background job / task / worker library. Provides implementations for jobs, a job queue, a job list, and single and multiple array iterators.|[:arrow_upper_right:](http://braincode.tumblr.com/post/9449127004/background-js)|
-|60|[@benbria](https://github.com/benbria)/[**browserify-transform-tools**](https://github.com/benbria/browserify-transform-tools)|Utilities for writing browserify transforms.||
+|62|[@kmalakoff](https://github.com/kmalakoff)/[**background**](https://github.com/kmalakoff/background)|CoffeeScript / JavaScript background job / task / worker library. Provides implementations for jobs, a job queue, a job list, and single and multiple array iterators.|[:arrow_upper_right:](http://braincode.tumblr.com/post/9449127004/background-js)|
+|61|[@benbria](https://github.com/benbria)/[**browserify-transform-tools**](https://github.com/benbria/browserify-transform-tools)|Utilities for writing browserify transforms.||
 |58|[@kmalakoff](https://github.com/kmalakoff)/[**backbone-modelref**](https://github.com/kmalakoff/backbone-modelref)|Backbone-ModelRef.js provides a mechanism to respond to lazy-loaded Backbone.js models.||
 |53|[@Glavin001](https://github.com/Glavin001)/[**atom-preview**](https://github.com/Glavin001/atom-preview)|:construction: (NO LONGER MAINTAINED) :construction: -  :eyeglasses: Ultimate previewer of source code in Atom.|[:arrow_upper_right:](https://atom.io/packages/preview)|
 |46|[@0xfe](https://github.com/0xfe)/[**fretboard**](https://github.com/0xfe/fretboard)|Vex Fretboard as seen on my.vexflow.com.||
@@ -71,6 +71,7 @@
 |10|[@Qard](https://github.com/Qard)/[**express-coffee**](https://github.com/Qard/express-coffee)|An express middleware to automatically compile and serve coffeescript files.||
 |10|[@brianmhunt](https://github.com/brianmhunt)/[**SnailMailAddressParser**](https://github.com/brianmhunt/SnailMailAddressParser)|A Javascript/Coffeescript library to parse address strings into their constituent elements ||
 |10|[@interstateone](https://github.com/interstateone)/[**polygons**](https://github.com/interstateone/polygons)|Boolean operations for polygons in Raphaël.js||
+|10|[@radekstepan](https://github.com/radekstepan)/[**nzb-grabber-js**](https://github.com/radekstepan/nzb-grabber-js)|Download/grab binary posts from NNTP (Usenet) servers using Node.js||
 |9|[@MichaelReiter](https://github.com/MichaelReiter)/[**RunJumpShoot**](https://github.com/MichaelReiter/RunJumpShoot)|A 2D platform/shooter game written in CoffeeScript with the Phaser game engine|[:arrow_upper_right:](http://michaelreiter.github.io/RunJumpShoot/)|
 |9|[@amsul](https://github.com/amsul)/[**Load.allTheThings**](https://github.com/amsul/Load.allTheThings)|A simple JavaScript library to preload resources as they are needed|[:arrow_upper_right:](http://amsul.github.com/Load.allTheThings/)|
 |9|[@ankurp](https://github.com/ankurp)/[**WebChat**](https://github.com/ankurp/WebChat)|Video Conference like Video Chatting using Web RTC without Flash or Plugins|[:arrow_upper_right:](http://patellabs.com)|
@@ -80,7 +81,6 @@
 |9|[@raganwald](https://github.com/raganwald)/[**supervis.es**](https://github.com/raganwald/supervis.es)|||
 |8|[@benjie](https://github.com/benjie)/[**rf-experiments**](https://github.com/benjie/rf-experiments)|Capturing RF data using a cheap receiver and Arduino; attempting to decode it.||
 |8|[@pcrawfor](https://github.com/pcrawfor)/[**coffeeq**](https://github.com/pcrawfor/coffeeq)|Node.js Queuing library implemented in Coffee Script - currently only supports redis as a backend store for the queue||
-|8|[@radekstepan](https://github.com/radekstepan)/[**nzb-grabber-js**](https://github.com/radekstepan/nzb-grabber-js)|Download/grab binary posts from NNTP (Usenet) servers using Node.js||
 |8|[@shovon](https://github.com/shovon)/[**jade-static**](https://github.com/shovon/jade-static)|Serve static Jade files from an Express server.||
 |7|[@EtienneLem](https://github.com/EtienneLem)/[**gauges-events**](https://github.com/EtienneLem/gauges-events)|Gauges custom events tracker (unofficial)|[:arrow_upper_right:](http://get.gaug.es)|
 |7|[@EtienneLem](https://github.com/EtienneLem)/[**rdio-display**](https://github.com/EtienneLem/rdio-display)|Screensaver ala AppleTV that displays currently playing song.|[:arrow_upper_right:](http://rdio-display.herokuapp.com)|
@@ -90,6 +90,7 @@
 |7|[@RobLoach](https://github.com/RobLoach)/[**docpad-plugin-webpack**](https://github.com/RobLoach/docpad-plugin-webpack)|:pencil2: Bundle CommonJs/AMD Modules using webpack|[:arrow_upper_right:](http://webpack.github.io)|
 |7|[@ben-z](https://github.com/ben-z)/[**Silent-Sync**](https://github.com/ben-z/Silent-Sync)|Automatically takes care of the file syncing while you work.|[:arrow_upper_right:](https://atom.io/packages/silent-sync)|
 |7|[@tpoisot](https://github.com/tpoisot)/[**language-julia**](https://github.com/tpoisot/language-julia)|||
+|7|[@travisjeffery](https://github.com/travisjeffery)/[**hubot-socket.io**](https://github.com/travisjeffery/hubot-socket.io)|Socket IO adapter for Hubot.||
 |7|[@walkah](https://github.com/walkah)/[**hubot-plex**](https://github.com/walkah/hubot-plex)|A hubot script to interact with a Plex Media Server||
 |6|[@WillsonSmith](https://github.com/WillsonSmith)/[**AtomCodePenEditor**](https://github.com/WillsonSmith/AtomCodePenEditor)|u can edit ur codepenz in atom editor thing||
 |6|[@bencentra](https://github.com/bencentra)/[**hubot-giphy-gifme**](https://github.com/bencentra/hubot-giphy-gifme)|"gif me" command for Hubot, get random GIFs from Giphy!||
@@ -99,7 +100,6 @@
 |6|[@remiprev](https://github.com/remiprev)/[**venyr**](https://github.com/remiprev/venyr)|Broadcast your current Rdio playback via WebSockets and let others listen to it.|[:arrow_upper_right:](https://github.com/remiprev/venyr)|
 |6|[@rileyjshaw](https://github.com/rileyjshaw)/[**2p-snake**](https://github.com/rileyjshaw/2p-snake)|:snake: Snake for 2 players on the same keyboard! Saucy.||
 |6|[@rowanmanning](https://github.com/rowanmanning)/[**hubot-dogeme**](https://github.com/rowanmanning/hubot-dogeme)|Wow. Such Doge. So Hubot.||
-|6|[@travisjeffery](https://github.com/travisjeffery)/[**hubot-socket.io**](https://github.com/travisjeffery/hubot-socket.io)|Socket IO adapter for Hubot.||
 |5|[@Glavin001](https://github.com/Glavin001)/[**atom-coffeescript-preview**](https://github.com/Glavin001/atom-coffeescript-preview)|DEPRECATED: Preview what your CoffeeScript will look like as JavaScript|[:arrow_upper_right:](https://atom.io/packages/coffeescript-preview)|
 |5|[@briannesbitt](https://github.com/briannesbitt)/[**QuicksortMicrobenchmark**](https://github.com/briannesbitt/QuicksortMicrobenchmark)|I wrote a blog post about benchmarking the quicksort sorting algorithm in several languages.|[:arrow_upper_right:](http://nesbot.com/2012/2/8/a-quick-microbenchmark)|
 |5|[@ddaws](https://github.com/ddaws)/[**atom-makro**](https://github.com/ddaws/atom-makro)|Quickly access and execute you Makefile targets.||
