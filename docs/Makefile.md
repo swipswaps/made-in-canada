@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2083|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
-|320|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
-|101|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/composer/composer/)|
-|53|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
-|39|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_build**](https://github.com/CopperheadOS/platform_build)|||
+|2085|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
+|321|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
+|101|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/library/composer/)|
+|55|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
+|40|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_build**](https://github.com/CopperheadOS/platform_build)|||
 |37|[@sjackman](https://github.com/sjackman)/[**lambdar**](https://github.com/sjackman/lambdar)|ƛR: Run R on AWS Lambda|[:arrow_upper_right:](http://lambdar.sjackman.ca/?e=stem(rnorm(100)))|
 |35|[@RobLoach](https://github.com/RobLoach)/[**base16-geany**](https://github.com/RobLoach/base16-geany)|:crystal_ball: Base16 Scheme for Geany|[:arrow_upper_right:](https://github.com/chriskempson/base16)|
 |27|[@pramsey](https://github.com/pramsey)/[**pgsql-addressing-dictionary**](https://github.com/pramsey/pgsql-addressing-dictionary)|TSearch dictionaries for addresses ||
@@ -14,14 +14,13 @@
 |19|[@sjackman](https://github.com/sjackman)/[**docker-bio**](https://github.com/sjackman/docker-bio)|Docker images of bioinformatics software||
 |18|[@sjackman](https://github.com/sjackman)/[**makefile-example**](https://github.com/sjackman/makefile-example)|An example of a data analysis pipeline using Make|[:arrow_upper_right:](http://sjackman.ca/makefile-example/)|
 |15|[@sjackman](https://github.com/sjackman)/[**docker-linuxbrew**](https://github.com/sjackman/docker-linuxbrew)|:skull: Defunct. Use https://github.com/Linuxbrew/docker||
-|14|[@errordeveloper](https://github.com/errordeveloper)/[**k9c**](https://github.com/errordeveloper/k9c)|Cloud9+kubectl container||
 |12|[@sjackman](https://github.com/sjackman)/[**assembly-graph**](https://github.com/sjackman/assembly-graph)|Compare assembly graph file formats||
 |12|[@sjourdan](https://github.com/sjourdan)/[**ffmpeg-docker**](https://github.com/sjourdan/ffmpeg-docker)|FFmpeg on Alpine Docker Image||
 |11|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_osprey**](https://github.com/sultanqasim/android_device_motorola_osprey)|Device tree for 2015 Moto G (osprey)||
 |10|[@RobLoach](https://github.com/RobLoach)/[**composer.deb**](https://github.com/RobLoach/composer.deb)|Build a Debian package to install and use Composer.|[:arrow_upper_right:](http://getcomposer.org)|
 |10|[@ustwo](https://github.com/ustwo)/[**docker-sauce-connect**](https://github.com/ustwo/docker-sauce-connect)|Builds a Sauce Labs Connect image||
+|8|[@oncletom](https://github.com/oncletom)/[**coursera-ml**](https://github.com/oncletom/coursera-ml)|Setup to evolve through the Machine Learning course.||
 |7|[@jasonish](https://github.com/jasonish)/[**suricata-rpms**](https://github.com/jasonish/suricata-rpms)|Suricata RPMs for CentOS/EL|[:arrow_upper_right:](http://codemonkey.net/suricata-rpms/)|
-|7|[@oncletom](https://github.com/oncletom)/[**coursera-ml**](https://github.com/oncletom/coursera-ml)|Setup to evolve through the Machine Learning course.||
 |7|[@seananderson](https://github.com/seananderson)/[**ggplot2-FISH554**](https://github.com/seananderson/ggplot2-FISH554)|Course notes and exercises on ggplot2 for the FISH554 class at the University of Washington||
 |6|[@bcgsc](https://github.com/bcgsc)/[**abyss-2.0-giab**](https://github.com/bcgsc/abyss-2.0-giab)|:baby_bottle: Assemble the Genome in a Bottle sequencing data|[:arrow_upper_right:](http://dx.doi.org/10.1101/068338)|
 |6|[@gpaterno](https://github.com/gpaterno)/[**openstack_explained**](https://github.com/gpaterno/openstack_explained)|OpenStack Explained e-book - An humanitarian initiative||

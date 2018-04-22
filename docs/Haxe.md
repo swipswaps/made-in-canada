@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|479|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base! see the website for details.|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
+|480|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base! see the website for details.|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
 |39|[@Ohmnivore](https://github.com/Ohmnivore)/[**SkullRush**](https://github.com/Ohmnivore/SkullRush)|2D online multiplayer shooter written in Haxe|[:arrow_upper_right:](http://ohmnivore.github.io)|
 |33|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-glm**](https://github.com/FuzzyWuzzie/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |30|[@ashes999](https://github.com/ashes999)/[**butterfly**](https://github.com/ashes999/butterfly)|Haxe generator for simple, static blogs.||
@@ -30,12 +30,12 @@
 |6|[@underscorediscovery](https://github.com/underscorediscovery)/[**hxpromise**](https://github.com/underscorediscovery/hxpromise)|hxpromise||
 |5|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**FeatherRock**](https://github.com/FuzzyWuzzie/FeatherRock)|My LD32 entry!||
 |5|[@Ohmnivore](https://github.com/Ohmnivore)/[**FireCHIP-8**](https://github.com/Ohmnivore/FireCHIP-8)|:tv: Cross-platform CHIP-8 emulator||
+|5|[@chfoo](https://github.com/chfoo)/[**tppinputassist**](https://github.com/chfoo/tppinputassist)|Touchscreen coordinate tap overlay for inputting into Twitch chat||
 |5|[@underscorediscovery](https://github.com/underscorediscovery)/[**snowfall**](https://github.com/underscorediscovery/snowfall)|A simple script to install and update luxe + snow more conveniently ||
 |4|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxePong**](https://github.com/FuzzyWuzzie/LuxePong)|A single game of pong, written using Luxe as a learning excercise||
 |4|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**RegisAgro**](https://github.com/FuzzyWuzzie/RegisAgro)|A Luxe implementation of hnefatafl||
 |4|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-pako**](https://github.com/FuzzyWuzzie/haxe-pako)|Haxe externs for the https://github.com/nodeca/pako library.||
 |4|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-partials**](https://github.com/FuzzyWuzzie/haxe-partials)|A simple macro library for writing classes as partials (splitting a single class into multiple source files).||
-|4|[@chfoo](https://github.com/chfoo)/[**tppinputassist**](https://github.com/chfoo/tppinputassist)|Touchscreen coordinate tap overlay for inputting into Twitch chat||
 |4|[@starburst997](https://github.com/starburst997)/[**haxe-trace-timer**](https://github.com/starburst997/haxe-trace-timer)|Inject timer information in trace statement||
 |4|[@starburst997](https://github.com/starburst997)/[**haxe-zip**](https://github.com/starburst997/haxe-zip)|Library to provide a cross-platform streaming Zip Writer / Reader experience.||
 |4|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe-gifcapture**](https://github.com/underscorediscovery/luxe-gifcapture)|A luxe wrapper over the gifcapture library to simplify capturing realtime gifs from in game||

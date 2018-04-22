@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|128|[@ktonon](https://github.com/ktonon)/[**elm-serverless**](https://github.com/ktonon/elm-serverless)|Deploy an elm HTTP API to AWS Lambda using serverless||
+|129|[@ktonon](https://github.com/ktonon)/[**elm-serverless**](https://github.com/ktonon/elm-serverless)|Deploy an elm HTTP API to AWS Lambda using serverless||
 |53|[@jadpole](https://github.com/jadpole)/[**jadpole.github.io**](https://github.com/jadpole/jadpole.github.io)||[:arrow_upper_right:](https://jadpole.github.io)|
 |16|[@ktonon](https://github.com/ktonon)/[**elm-serverless-demo**](https://github.com/ktonon/elm-serverless-demo)|elm-serverless demo for latest release||
 |15|[@diogob](https://github.com/diogob)/[**elm-workshop**](https://github.com/diogob/elm-workshop)|Elm + PostgREST workshop, building a simple database query user interface.||

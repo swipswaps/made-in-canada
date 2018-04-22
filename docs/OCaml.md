@@ -4,9 +4,9 @@
 |33|[@berke](https://github.com/berke)/[**jsure**](https://github.com/berke/jsure)|JSure is a fast, standalone Javascript checker.||
 |16|[@janicduplessis](https://github.com/janicduplessis)/[**bs-graphql-js**](https://github.com/janicduplessis/bs-graphql-js)|Bucklescript bindings for https://github.com/graphql/graphql-js||
 |11|[@tokenrove](https://github.com/tokenrove)/[**tsdl-image**](https://github.com/tokenrove/tsdl-image)|OCaml SDL2_image bindings to go with Tsdl||
+|8|[@yawaramin](https://github.com/yawaramin)/[**bs-hyperapp**](https://github.com/yawaramin/bs-hyperapp)|Work in Progress - an opinionated overlay of the Elm Architecture on top of Hyperapp||
 |7|[@adrianmcli](https://github.com/adrianmcli)/[**rehydrate-workshop**](https://github.com/adrianmcli/rehydrate-workshop)|A small collection of basic components built with Rehydrate 💧.||
 |7|[@tokenrove](https://github.com/tokenrove)/[**shred-for-satan**](https://github.com/tokenrove/shred-for-satan)|MIDI-driven metronome||
-|7|[@yawaramin](https://github.com/yawaramin)/[**bs-hyperapp**](https://github.com/yawaramin/bs-hyperapp)|Work in Progress - an opinionated overlay of the Elm Architecture on top of Hyperapp||
 |6|[@brentvatne](https://github.com/brentvatne)/[**bs-option**](https://github.com/brentvatne/bs-option)|||
 |6|[@tokenrove](https://github.com/tokenrove)/[**tsdl-ttf**](https://github.com/tokenrove/tsdl-ttf)|SDL2_ttf bindings for Ocaml with Tsdl||
 |5|[@danieljharvey](https://github.com/danieljharvey)/[**reason-examples**](https://github.com/danieljharvey/reason-examples)|Some examples of reason code||

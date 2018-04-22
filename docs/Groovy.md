@@ -9,9 +9,9 @@
 |14|[@yracine](https://github.com/yracine)/[**device-type.myneurio**](https://github.com/yracine/device-type.myneurio)|SmartThings-Neurio integration||
 |13|[@chaopeng](https://github.com/chaopeng)/[**grchaos**](https://github.com/chaopeng/grchaos)|application framework for hotswap||
 |13|[@yracine](https://github.com/yracine)/[**DSC-Integration-with-Arduino-Mega-Shield-RS-232**](https://github.com/yracine/DSC-Integration-with-Arduino-Mega-Shield-RS-232)|DSC - Integration with SmartThings (RS232)||
-|11|[@kellyrob99](https://github.com/kellyrob99)/[**catcha-breaker**](https://github.com/kellyrob99/catcha-breaker)|Groovy port of a python example on how to break weak captcha using tesseract-ocr|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/03/14/breaking-weak-captcha-in-slightly-more-than-26-lines-of-groovy-code/)|
 |11|[@yracine](https://github.com/yracine)/[**keenhome.device-type**](https://github.com/yracine/keenhome.device-type)|Keen Home Smart Vents - device handler||
-|7|[@yracine](https://github.com/yracine)/[**device-type.myautomatic**](https://github.com/yracine/device-type.myautomatic)|SmartThings - Automatic integration||
+|10|[@kellyrob99](https://github.com/kellyrob99)/[**catcha-breaker**](https://github.com/kellyrob99/catcha-breaker)|Groovy port of a python example on how to break weak captcha using tesseract-ocr|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/03/14/breaking-weak-captcha-in-slightly-more-than-26-lines-of-groovy-code/)|
+|8|[@yracine](https://github.com/yracine)/[**device-type.myautomatic**](https://github.com/yracine/device-type.myautomatic)|SmartThings - Automatic integration||
 |6|[@eclipsesource](https://github.com/eclipsesource)/[**dockerizor**](https://github.com/eclipsesource/dockerizor)|Gradle plug-in to create a Docker image that includes an Eclipse Virgo container||
 |6|[@mbarnathan](https://github.com/mbarnathan)/[**Synchronized-Dimming**](https://github.com/mbarnathan/Synchronized-Dimming)|Allows many SmartThings dimmers to act as one.||
 |6|[@yracine](https://github.com/yracine)/[**customYaleLockWithGoodTimeout**](https://github.com/yracine/customYaleLockWithGoodTimeout)|Custom Yale Lock With good timeout to avoid wrong status at Smartthings hub||
