@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|226|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
-|187|[@burtonsamograd](https://github.com/burtonsamograd)/[**sxc**](https://github.com/burtonsamograd/sxc)|sxc is an 'S-Expression C' transpiler for generating C code using macros written in Common Lisp||
+|228|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
+|186|[@burtonsamograd](https://github.com/burtonsamograd)/[**sxc**](https://github.com/burtonsamograd/sxc)|sxc is an 'S-Expression C' transpiler for generating C code using macros written in Common Lisp||
 |73|[@hoytech](https://github.com/hoytech)/[**antiweb**](https://github.com/hoytech/antiweb)|Common Lisp web application server|[:arrow_upper_right:](http://hoytech.com/antiweb/)|
-|40|[@thephoeron](https://github.com/thephoeron)/[**let-over-lambda**](https://github.com/thephoeron/let-over-lambda)|Doug Hoyte's "Production" version of macros from Let Over Lambda, ready for ASDF and Quicklisp.||
+|41|[@thephoeron](https://github.com/thephoeron)/[**let-over-lambda**](https://github.com/thephoeron/let-over-lambda)|Doug Hoyte's "Production" version of macros from Let Over Lambda, ready for ASDF and Quicklisp.||
 |36|[@thephoeron](https://github.com/thephoeron)/[**black-stone**](https://github.com/thephoeron/black-stone)|Specification and Implementation of Quantum Common Lisp, for gate-model quantum computers||
 |31|[@inaimathi](https://github.com/inaimathi)/[**cl-css**](https://github.com/inaimathi/cl-css)|Non-validating, inline CSS generator for Common Lisp||
 |27|[@mck-](https://github.com/mck-)/[**oneliner**](https://github.com/mck-/oneliner)|Extracts a one-liner from a piece of text.||

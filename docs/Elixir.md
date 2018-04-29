@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|346|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
-|175|[@jkakar](https://github.com/jkakar)/[**aws-elixir**](https://github.com/jkakar/aws-elixir)|AWS clients for Elixir||
+|349|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
+|230|[@mirego](https://github.com/mirego)/[**accent**](https://github.com/mirego/accent)|▴ Open-source, self-hosted, developer-oriented translation tool|[:arrow_upper_right:](https://www.accent.reviews)|
+|176|[@jkakar](https://github.com/jkakar)/[**aws-elixir**](https://github.com/jkakar/aws-elixir)|AWS clients for Elixir||
 |174|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
-|164|[@jarednorman](https://github.com/jarednorman)/[**canada**](https://github.com/jarednorman/canada)|Easy permission definitions in Elixir apps!|[:arrow_upper_right:](https://github.com/jarednorman/canada)|
+|165|[@jarednorman](https://github.com/jarednorman)/[**canada**](https://github.com/jarednorman/canada)|Easy permission definitions in Elixir apps!|[:arrow_upper_right:](https://github.com/jarednorman/canada)|
+|149|[@joshnuss](https://github.com/joshnuss)/[**design-patterns-in-elixir**](https://github.com/joshnuss/design-patterns-in-elixir)|Common design patterns in Elixir||
 |149|[@talentdeficit](https://github.com/talentdeficit)/[**exjsx**](https://github.com/talentdeficit/exjsx)|json for elixir||
-|147|[@joshnuss](https://github.com/joshnuss)/[**design-patterns-in-elixir**](https://github.com/joshnuss/design-patterns-in-elixir)|Common design patterns in Elixir||
-|142|[@mirego](https://github.com/mirego)/[**accent**](https://github.com/mirego/accent)|▴ Open-source, self-hosted, developer-oriented translation tool|[:arrow_upper_right:](https://www.accent.reviews)|
 |136|[@joshnuss](https://github.com/joshnuss)/[**commerce_billing**](https://github.com/joshnuss/commerce_billing)|A payment processing library for Elixir||
 |119|[@GesJeremie](https://github.com/GesJeremie)/[**faker-elixir**](https://github.com/GesJeremie/faker-elixir)|:droplet: FakerElixir generates fake data for you. |[:arrow_upper_right:](https://hexdocs.pm/faker_elixir_octopus/FakerElixir.html)|
 |117|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
@@ -18,18 +18,19 @@
 |51|[@joshnuss](https://github.com/joshnuss)/[**phoenix-billing-demo**](https://github.com/joshnuss/phoenix-billing-demo)|A demo of using commerce_billing with phoenix||
 |49|[@a115](https://github.com/a115)/[**exmatrix**](https://github.com/a115/exmatrix)|Elixir library implementing a parallel matrix multiplication algorithm and other utilities for working with matrices. Used for benchmarking computationally intensive concurrent code. |[:arrow_upper_right:](http://a115.co.uk/)|
 |46|[@jarednorman](https://github.com/jarednorman)/[**bugsnag-elixir**](https://github.com/jarednorman/bugsnag-elixir)|An Elixir interface to the Bugsnag API|[:arrow_upper_right:](https://hex.pm/packages/bugsnag)|
+|46|[@jarednorman](https://github.com/jarednorman)/[**plugsnag**](https://github.com/jarednorman/plugsnag)|A Bugsnag notifier for Elixir's plug||
 |45|[@ChrisYammine](https://github.com/ChrisYammine)/[**ex_trello**](https://github.com/ChrisYammine/ex_trello)|An Elixir library for interfacing with the Trello API||
-|45|[@jarednorman](https://github.com/jarednorman)/[**plugsnag**](https://github.com/jarednorman/plugsnag)|A Bugsnag notifier for Elixir's plug||
 |43|[@yrashk](https://github.com/yrashk)/[**genx**](https://github.com/yrashk/genx)|Elixir-style library for most important OTP functionality||
-|41|[@joshnuss](https://github.com/joshnuss)/[**elixir-ffi**](https://github.com/joshnuss/elixir-ffi)|Foreign Function Interface (FFI) for Elixir||
+|42|[@joshnuss](https://github.com/joshnuss)/[**elixir-ffi**](https://github.com/joshnuss/elixir-ffi)|Foreign Function Interface (FFI) for Elixir||
+|34|[@EQuimper](https://github.com/EQuimper)/[**CodeChallenge**](https://github.com/EQuimper/CodeChallenge)|All my thinking about some code challenge and Free Code Camps||
 |34|[@jkakar](https://github.com/jkakar)/[**aws-codegen**](https://github.com/jkakar/aws-codegen)|Code generator for AWS clients in Elixir.||
 |33|[@nicbet](https://github.com/nicbet)/[**essence**](https://github.com/nicbet/essence)|Essence is a library for Natural Language Processing and Text Summarization in Elixir.||
 |18|[@adam12](https://github.com/adam12)/[**ecto_network**](https://github.com/adam12/ecto_network)|Ecto types to support MACADDR and Network extensions provided by Postgrex.||
 |17|[@adam12](https://github.com/adam12)/[**phoenix_mtm**](https://github.com/adam12/phoenix_mtm)|A small collection of functions to make it easier working with many_to_many Ecto associations and checkboxes to create them.|[:arrow_upper_right:](https://hex.pm/packages/phoenix_mtm)|
 |17|[@expede](https://github.com/expede)/[**quick_chat**](https://github.com/expede/quick_chat)|A quick demo CLI chat app for a workshop|[:arrow_upper_right:](https://conf.coffee)|
 |14|[@aforward](https://github.com/aforward)/[**safetybox**](https://github.com/aforward/safetybox)|Security oriented helper functions for Elixir||
+|14|[@eljojo](https://github.com/eljojo)/[**ex_chain**](https://github.com/eljojo/ex_chain)|Simple Markov Chain written in Elixir||
 |14|[@yrashk](https://github.com/yrashk)/[**properex**](https://github.com/yrashk/properex)|PropEr support for Elixir||
-|13|[@eljojo](https://github.com/eljojo)/[**ex_chain**](https://github.com/eljojo/ex_chain)|Simple Markov Chain written in Elixir||
 |13|[@nested-tech](https://github.com/nested-tech)/[**closex**](https://github.com/nested-tech/closex)|✨ Elixir wrapper for the Close.io API with caching support|[:arrow_upper_right:](http://developer.close.io)|
 |12|[@onfido](https://github.com/onfido)/[**maru_blog_post_code**](https://github.com/onfido/maru_blog_post_code)|Code for the blog post on using maru to implement a Rest-like Api in Elixir||
 |12|[@yrashk](https://github.com/yrashk)/[**exmsgpack**](https://github.com/yrashk/exmsgpack)|MessagePack for Elixir||
@@ -67,6 +68,7 @@
 |3|[@EQuimper](https://github.com/EQuimper)/[**demo-youtube-clone-react-phoenix**](https://github.com/EQuimper/demo-youtube-clone-react-phoenix)|||
 |3|[@EQuimper](https://github.com/EQuimper)/[**instagram-clone-phoenix-react-native-demo**](https://github.com/EQuimper/instagram-clone-phoenix-react-native-demo)|||
 |3|[@GesJeremie](https://github.com/GesJeremie)/[**babysitting**](https://github.com/GesJeremie/babysitting)|:baby_bottle: Find your next babysitter|[:arrow_upper_right:](https://www.babysittinglondon.com/)|
+|3|[@QuiqUpLTD](https://github.com/QuiqUpLTD)/[**ex_schedule**](https://github.com/QuiqUpLTD/ex_schedule)|Run tasks in a an interval basis||
 |3|[@aforward](https://github.com/aforward)/[**gen_template_api_client**](https://github.com/aforward/gen_template_api_client)|A template for building API clients to 3rd party REST applications||
 |3|[@azohra](https://github.com/azohra)/[**elir**](https://github.com/azohra/elir)|running RSpec tests, from Elixir (prototype made for the Ruby Open Source Testing Code Hackathon 2017-09-22)||
 |3|[@expede](https://github.com/expede)/[**phoenix_exceptional**](https://github.com/expede/phoenix_exceptional)|Exceptional error/exception helpers for Phoenix||

@@ -4,10 +4,10 @@
 |134|[@agilebits](https://github.com/agilebits)/[**onepassword-utilities**](https://github.com/agilebits/onepassword-utilities)|Utilities for 1Password||
 |123|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
 |108|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](http://www.metacpan.org/module/PerlPowerTools/)|
-|103|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
+|106|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |93|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
-|74|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
-|71|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
+|75|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
+|72|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
 |71|[@mlangill](https://github.com/mlangill)/[**microbiome_helper**](https://github.com/mlangill/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |50|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
 |41|[@yanick](https://github.com/yanick)/[**git-cpan-patch**](https://github.com/yanick/git-cpan-patch)|System to write patches against CPAN modules via Git||
@@ -22,7 +22,7 @@
 |19|[@bcgsc](https://github.com/bcgsc)/[**mirna**](https://github.com/bcgsc/mirna)|microRNA profiling pipeline||
 |18|[@bartman](https://github.com/bartman)/[**urxvt-scripts**](https://github.com/bartman/urxvt-scripts)|my urxvt scripts|[:arrow_upper_right:](http://www.jukie.net/~bart/blog/tag/urxvt)|
 |18|[@mlangill](https://github.com/mlangill)/[**MicrobeDB**](https://github.com/mlangill/MicrobeDB)|Provides a local database of in-house and published genomes for Bacteria and Archaea from NCBI||
-|17|[@sestaton](https://github.com/sestaton)/[**Transposome**](https://github.com/sestaton/Transposome)|A toolkit for annotation of transposable element families from unassembled sequence reads|[:arrow_upper_right:](http://sestaton.github.io/Transposome)|
+|18|[@sestaton](https://github.com/sestaton)/[**Transposome**](https://github.com/sestaton/Transposome)|A toolkit for annotation of transposable element families from unassembled sequence reads|[:arrow_upper_right:](http://sestaton.github.io/Transposome)|
 |16|[@briandfoy](https://github.com/briandfoy)/[**git-github-creator**](https://github.com/briandfoy/git-github-creator)|(Perl) Create a Github repository for your Perl module|[:arrow_upper_right:](http://search.cpan.org/dist/github_creator)|
 |16|[@yanick](https://github.com/yanick)/[**cheatsheets**](https://github.com/yanick/cheatsheets)|My cheatsheets||
 |15|[@briandfoy](https://github.com/briandfoy)/[**Unicode-Tussle**](https://github.com/briandfoy/Unicode-Tussle)|Tom( Christiansen)'s Unicode Scripts So Life is Easier|[:arrow_upper_right:](http://search.cpan.org/dist/Unicode-Tussle)|
@@ -45,11 +45,11 @@
 |9|[@hoytech](https://github.com/hoytech)/[**Thrust**](https://github.com/hoytech/Thrust)|Perl language bindings for Thrust  https://github.com/breach/thrust||
 |9|[@hoytech](https://github.com/hoytech)/[**Valence-p5**](https://github.com/hoytech/Valence-p5)|Perl interface to valence/electron GUI toolkit||
 |9|[@s-rah](https://github.com/s-rah)/[**itsybitsy**](https://github.com/s-rah/itsybitsy)|The mini static site generator||
+|9|[@sestaton](https://github.com/sestaton)/[**sesbio**](https://github.com/sestaton/sesbio)|Bioinformatics scripts for genome analysis||
 |9|[@sestaton](https://github.com/sestaton)/[**tephra**](https://github.com/sestaton/tephra)|A tool for discovering transposable elements and describing patterns of genome evolution||
 |8|[@briandfoy](https://github.com/briandfoy)/[**mac-propertylist**](https://github.com/briandfoy/mac-propertylist)|(Perl) work with Mac plists at a low level|[:arrow_upper_right:](http://search.cpan.org/dist/Mac-PropertyList)|
 |8|[@bricas](https://github.com/bricas)/[**uri-template**](https://github.com/bricas/uri-template)|Object for handling URI templates|[:arrow_upper_right:](http://metacpan.org/release/URI-Template/)|
 |8|[@hoytech](https://github.com/hoytech)/[**Qstruct**](https://github.com/hoytech/Qstruct)|Quick structure serialisation||
-|8|[@sestaton](https://github.com/sestaton)/[**sesbio**](https://github.com/sestaton/sesbio)|Bioinformatics scripts for genome analysis||
 |8|[@zoffixznet](https://github.com/zoffixznet)/[**JavaScript-Minifier**](https://github.com/zoffixznet/JavaScript-Minifier)|JavaScript::Minifier perl module||
 |7|[@bob-carpenter](https://github.com/bob-carpenter)/[**java-arithcode**](https://github.com/bob-carpenter/java-arithcode)|A Java implementation of arithmetic coding and PPM compression.||
 |7|[@briandfoy](https://github.com/briandfoy)/[**cpan-packagedetails**](https://github.com/briandfoy/cpan-packagedetails)|(Perl) This is what the module does|[:arrow_upper_right:](http://search.cpan.org/dist/CPAN-PackageDetails)|
@@ -132,6 +132,7 @@
 |3|[@davepagurek](https://github.com/davepagurek)/[**Trestle**](https://github.com/davepagurek/Trestle)|A light, extensible Perl CMS||
 |3|[@delano](https://github.com/delano)/[**data-all**](https://github.com/delano/data-all)|A Perl module that provides access to data in many formats from many places|[:arrow_upper_right:](http://search.cpan.org/~delano/Data-All/)|
 |3|[@gorhill](https://github.com/gorhill)/[**paxml2kpxxml**](https://github.com/gorhill/paxml2kpxxml)|Password Agent XML file to Keepass X XML file||
+|3|[@hoytech](https://github.com/hoytech)/[**Alien-Electron**](https://github.com/hoytech/Alien-Electron)|Download and install the electron GUI framework||
 |3|[@hoytech](https://github.com/hoytech)/[**Alien-LMDB**](https://github.com/hoytech/Alien-LMDB)|Build and install the LMDB embedded database||
 |3|[@hoytech](https://github.com/hoytech)/[**Alien-Thrust**](https://github.com/hoytech/Alien-Thrust)|Download and install the Thrust cross-platform GUI framework||
 |3|[@hoytech](https://github.com/hoytech)/[**IO-Vectored**](https://github.com/hoytech/IO-Vectored)|Read from or write to multiple buffers at once||
