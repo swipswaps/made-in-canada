@@ -5,13 +5,13 @@
 |124|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
 |124|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
 |105|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
-|89|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
-|54|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
+|90|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
+|55|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
 |40|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm**](https://github.com/JoeyEremondi/haskelm)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
-|38|[@thephoeron](https://github.com/thephoeron)/[**quipper-language**](https://github.com/thephoeron/quipper-language)|Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)||
+|39|[@thephoeron](https://github.com/thephoeron)/[**quipper-language**](https://github.com/thephoeron/quipper-language)|Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)||
 |28|[@avieth](https://github.com/avieth)/[**Algebraic**](https://github.com/avieth/Algebraic)|Experiments on the construction of functions||
 |28|[@thayerwilliams](https://github.com/thayerwilliams)/[**msi-xmonad**](https://github.com/thayerwilliams/msi-xmonad)|xmonad.hs (Xmonad >= 0.9) and related config files for my MSI Wind netbook|[:arrow_upper_right:](http://cinderwick.ca)|
-|20|[@singpolyma](https://github.com/singpolyma)/[**unexceptionalio**](https://github.com/singpolyma/unexceptionalio)|IO without any non-error, synchronous exceptions|[:arrow_upper_right:](http://hackage.haskell.org/package/unexceptionalio)|
+|21|[@singpolyma](https://github.com/singpolyma)/[**unexceptionalio**](https://github.com/singpolyma/unexceptionalio)|IO without any PseudoExceptions|[:arrow_upper_right:](http://hackage.haskell.org/package/unexceptionalio)|
 |18|[@PhDP](https://github.com/PhDP)/[**Faun**](https://github.com/PhDP/Faun)|Experimental machine learning library for many-valued logics||
 |17|[@csabahruska](https://github.com/csabahruska)/[**bullet**](https://github.com/csabahruska/bullet)|Haskell binding for Bullet physics engine||
 |17|[@csabahruska](https://github.com/csabahruska)/[**gpipe-quake3**](https://github.com/csabahruska/gpipe-quake3)|Quake 3 map viewer in Haskell using GPipe|[:arrow_upper_right:](https://wiki.haskell.org/GPipe)|
@@ -29,8 +29,8 @@
 |11|[@fosskers](https://github.com/fosskers)/[**kanji**](https://github.com/fosskers/kanji)|Haskell suite for determining what 級 (level) of the 漢字検定 (national Kanji exam) a given Kanji belongs to.||
 |11|[@fosskers](https://github.com/fosskers)/[**mapalgebra**](https://github.com/fosskers/mapalgebra)|Efficient, polymorphic Map Algebra in Haskell.||
 |11|[@gregorycollins](https://github.com/gregorycollins)/[**attoparsec-iteratee**](https://github.com/gregorycollins/attoparsec-iteratee)|An adapter to convert attoparsec Parsers into blazing-fast Iteratees||
+|11|[@singpolyma](https://github.com/singpolyma)/[**cheogram**](https://github.com/singpolyma/cheogram)|Groupchat for everyone|[:arrow_upper_right:](https://cheogram.com)|
 |10|[@avieth](https://github.com/avieth)/[**diplomacy**](https://github.com/avieth/diplomacy)|The board game Diplomacy, spoken in Haskell||
-|10|[@singpolyma](https://github.com/singpolyma)/[**cheogram**](https://github.com/singpolyma/cheogram)|Groupchat for everyone|[:arrow_upper_right:](https://cheogram.com)|
 |9|[@fosskers](https://github.com/fosskers)/[**microlens-aeson**](https://github.com/fosskers/microlens-aeson)|Lenses and Traversals for Aeson, based on Microlens.||
 |9|[@fosskers](https://github.com/fosskers)/[**nanq**](https://github.com/fosskers/nanq)|Haskell suite for determining what 級 (level) of the 漢字検定 (national Kanji exam) a given Kanji belongs to.||
 |9|[@singpolyma](https://github.com/singpolyma)/[**OpenPGP-Haskell**](https://github.com/singpolyma/OpenPGP-Haskell)||[:arrow_upper_right:](http://hackage.haskell.org/package/openpgp)|

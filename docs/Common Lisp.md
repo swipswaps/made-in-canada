@@ -6,7 +6,7 @@
 |41|[@thephoeron](https://github.com/thephoeron)/[**let-over-lambda**](https://github.com/thephoeron/let-over-lambda)|Doug Hoyte's "Production" version of macros from Let Over Lambda, ready for ASDF and Quicklisp.||
 |36|[@thephoeron](https://github.com/thephoeron)/[**black-stone**](https://github.com/thephoeron/black-stone)|Specification and Implementation of Quantum Common Lisp, for gate-model quantum computers||
 |31|[@inaimathi](https://github.com/inaimathi)/[**cl-css**](https://github.com/inaimathi/cl-css)|Non-validating, inline CSS generator for Common Lisp||
-|27|[@mck-](https://github.com/mck-)/[**oneliner**](https://github.com/mck-/oneliner)|Extracts a one-liner from a piece of text.||
+|28|[@mck-](https://github.com/mck-)/[**oneliner**](https://github.com/mck-/oneliner)|Extracts a one-liner from a piece of text.||
 |25|[@atgreen](https://github.com/atgreen)/[**lisp-openshift**](https://github.com/atgreen/lisp-openshift)|Run sbcl-powered lisp-based web apps on Red Hat's OpenShift|[:arrow_upper_right:](http://lisp2-atgreen.rhcloud.com)|
 |25|[@thephoeron](https://github.com/thephoeron)/[**bit-smasher**](https://github.com/thephoeron/bit-smasher)|Common Lisp library for handling bit vectors, bit vector arithmetic, and type conversions.|[:arrow_upper_right:](https://thephoeron.github.io/bit-smasher/)|
 |20|[@burtonsamograd](https://github.com/burtonsamograd)/[**sigil**](https://github.com/burtonsamograd/sigil)|A Parenscript to Javascript command line compiler and interpreter.||

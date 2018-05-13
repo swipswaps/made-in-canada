@@ -1,30 +1,30 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|349|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
-|269|[@mirego](https://github.com/mirego)/[**accent**](https://github.com/mirego/accent)|▴ Open-source, self-hosted, developer-oriented translation tool|[:arrow_upper_right:](https://www.accent.reviews)|
+|353|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
+|277|[@mirego](https://github.com/mirego)/[**accent**](https://github.com/mirego/accent)|▴ Open-source, self-hosted, developer-oriented translation tool|[:arrow_upper_right:](https://www.accent.reviews)|
+|176|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
 |176|[@jkakar](https://github.com/jkakar)/[**aws-elixir**](https://github.com/jkakar/aws-elixir)|AWS clients for Elixir||
-|175|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
 |165|[@jarednorman](https://github.com/jarednorman)/[**canada**](https://github.com/jarednorman/canada)|Easy permission definitions in Elixir apps!|[:arrow_upper_right:](https://github.com/jarednorman/canada)|
-|149|[@joshnuss](https://github.com/joshnuss)/[**design-patterns-in-elixir**](https://github.com/joshnuss/design-patterns-in-elixir)|Common design patterns in Elixir||
+|153|[@joshnuss](https://github.com/joshnuss)/[**design-patterns-in-elixir**](https://github.com/joshnuss/design-patterns-in-elixir)|Common design patterns in Elixir||
 |149|[@talentdeficit](https://github.com/talentdeficit)/[**exjsx**](https://github.com/talentdeficit/exjsx)|json for elixir||
 |136|[@joshnuss](https://github.com/joshnuss)/[**commerce_billing**](https://github.com/joshnuss/commerce_billing)|A payment processing library for Elixir||
 |119|[@GesJeremie](https://github.com/GesJeremie)/[**faker-elixir**](https://github.com/GesJeremie/faker-elixir)|:droplet: FakerElixir generates fake data for you. |[:arrow_upper_right:](https://hexdocs.pm/faker_elixir_octopus/FakerElixir.html)|
 |117|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
 |100|[@expede](https://github.com/expede)/[**algae**](https://github.com/expede/algae)|Bootstrapped algebraic data types for Elixir|[:arrow_upper_right:](https://hex.pm/packages/algae)|
-|74|[@joshnuss](https://github.com/joshnuss)/[**xml_builder**](https://github.com/joshnuss/xml_builder)|Elixir library for generating XML||
+|75|[@joshnuss](https://github.com/joshnuss)/[**xml_builder**](https://github.com/joshnuss/xml_builder)|Elixir library for generating XML||
 |59|[@matehat](https://github.com/matehat)/[**cqex**](https://github.com/matehat/cqex)|Idiomatic Cassandra client for Elixir||
 |58|[@expede](https://github.com/expede)/[**type_class**](https://github.com/expede/type_class)|(Semi-)principled type classes for Elixir|[:arrow_upper_right:](https://hex.pm/packages/type_class)|
 |58|[@yrashk](https://github.com/yrashk)/[**relex**](https://github.com/yrashk/relex)|Erlang/Elixir Release Assembler||
 |51|[@joshnuss](https://github.com/joshnuss)/[**phoenix-billing-demo**](https://github.com/joshnuss/phoenix-billing-demo)|A demo of using commerce_billing with phoenix||
 |49|[@a115](https://github.com/a115)/[**exmatrix**](https://github.com/a115/exmatrix)|Elixir library implementing a parallel matrix multiplication algorithm and other utilities for working with matrices. Used for benchmarking computationally intensive concurrent code. |[:arrow_upper_right:](http://a115.co.uk/)|
-|46|[@jarednorman](https://github.com/jarednorman)/[**bugsnag-elixir**](https://github.com/jarednorman/bugsnag-elixir)|An Elixir interface to the Bugsnag API|[:arrow_upper_right:](https://hex.pm/packages/bugsnag)|
-|46|[@jarednorman](https://github.com/jarednorman)/[**plugsnag**](https://github.com/jarednorman/plugsnag)|A Bugsnag notifier for Elixir's plug||
-|45|[@ChrisYammine](https://github.com/ChrisYammine)/[**ex_trello**](https://github.com/ChrisYammine/ex_trello)|An Elixir library for interfacing with the Trello API||
+|48|[@jarednorman](https://github.com/jarednorman)/[**plugsnag**](https://github.com/jarednorman/plugsnag)|A Bugsnag notifier for Elixir's plug||
+|47|[@jarednorman](https://github.com/jarednorman)/[**bugsnag-elixir**](https://github.com/jarednorman/bugsnag-elixir)|An Elixir interface to the Bugsnag API|[:arrow_upper_right:](https://hex.pm/packages/bugsnag)|
+|46|[@ChrisYammine](https://github.com/ChrisYammine)/[**ex_trello**](https://github.com/ChrisYammine/ex_trello)|An Elixir library for interfacing with the Trello API||
 |43|[@yrashk](https://github.com/yrashk)/[**genx**](https://github.com/yrashk/genx)|Elixir-style library for most important OTP functionality||
 |42|[@joshnuss](https://github.com/joshnuss)/[**elixir-ffi**](https://github.com/joshnuss/elixir-ffi)|Foreign Function Interface (FFI) for Elixir||
 |36|[@EQuimper](https://github.com/EQuimper)/[**CodeChallenge**](https://github.com/EQuimper/CodeChallenge)|All my thinking about some code challenge and Free Code Camps||
 |34|[@jkakar](https://github.com/jkakar)/[**aws-codegen**](https://github.com/jkakar/aws-codegen)|Code generator for AWS clients in Elixir.||
-|33|[@nicbet](https://github.com/nicbet)/[**essence**](https://github.com/nicbet/essence)|Essence is a library for Natural Language Processing and Text Summarization in Elixir.||
+|34|[@nicbet](https://github.com/nicbet)/[**essence**](https://github.com/nicbet/essence)|Essence is a library for Natural Language Processing and Text Summarization in Elixir.||
 |18|[@adam12](https://github.com/adam12)/[**ecto_network**](https://github.com/adam12/ecto_network)|Ecto types to support MACADDR and Network extensions provided by Postgrex.||
 |17|[@adam12](https://github.com/adam12)/[**phoenix_mtm**](https://github.com/adam12/phoenix_mtm)|A small collection of functions to make it easier working with many_to_many Ecto associations and checkboxes to create them.|[:arrow_upper_right:](https://hex.pm/packages/phoenix_mtm)|
 |17|[@expede](https://github.com/expede)/[**quick_chat**](https://github.com/expede/quick_chat)|A quick demo CLI chat app for a workshop|[:arrow_upper_right:](https://conf.coffee)|

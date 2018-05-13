@@ -1,42 +1,42 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|56133|[@FortAwesome](https://github.com/FortAwesome)/[**Font-Awesome**](https://github.com/FortAwesome/Font-Awesome)|The iconic SVG, font, and CSS toolkit|[:arrow_upper_right:](https://fontawesome.com)|
-|8181|[@mrmrs](https://github.com/mrmrs)/[**colors**](https://github.com/mrmrs/colors)|Smarter defaults for colors on the web.|[:arrow_upper_right:](http://clrs.cc)|
-|1862|[@RyanFitzgerald](https://github.com/RyanFitzgerald)/[**devportfolio**](https://github.com/RyanFitzgerald/devportfolio)|A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass|[:arrow_upper_right:](https://ryanfitzgerald.github.io/devportfolio)|
+|56233|[@FortAwesome](https://github.com/FortAwesome)/[**Font-Awesome**](https://github.com/FortAwesome/Font-Awesome)|The iconic SVG, font, and CSS toolkit|[:arrow_upper_right:](https://fontawesome.com)|
+|8180|[@mrmrs](https://github.com/mrmrs)/[**colors**](https://github.com/mrmrs/colors)|Smarter defaults for colors on the web.|[:arrow_upper_right:](http://clrs.cc)|
+|1873|[@RyanFitzgerald](https://github.com/RyanFitzgerald)/[**devportfolio**](https://github.com/RyanFitzgerald/devportfolio)|A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass|[:arrow_upper_right:](https://ryanfitzgerald.github.io/devportfolio)|
 |1822|[@tj](https://github.com/tj)/[**nib**](https://github.com/tj/nib)|Stylus mixins, utilities, components, and gradient image generation|[:arrow_upper_right:](http://tj.github.com/nib/)|
-|1683|[@tleunen](https://github.com/tleunen)/[**react-mdl**](https://github.com/tleunen/react-mdl)|React Components for Material Design Lite|[:arrow_upper_right:](https://tleunen.github.io/react-mdl/)|
+|1685|[@tleunen](https://github.com/tleunen)/[**react-mdl**](https://github.com/tleunen/react-mdl)|React Components for Material Design Lite|[:arrow_upper_right:](https://tleunen.github.io/react-mdl/)|
 |1449|[@RyanFitzgerald](https://github.com/RyanFitzgerald)/[**devportfolio-template**](https://github.com/RyanFitzgerald/devportfolio-template)|A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass|[:arrow_upper_right:](https://ryanfitzgerald.github.io/devportfolio-template/)|
 |1386|[@christophery](https://github.com/christophery)/[**pushy**](https://github.com/christophery/pushy)|Pushy is a responsive off-canvas navigation menu using CSS transforms & transitions|[:arrow_upper_right:](https://chrisyee.ca/pushy)|
 |1084|[@mrmrs](https://github.com/mrmrs)/[**pesticide**](https://github.com/mrmrs/pesticide)|Kill your css layout bugs|[:arrow_upper_right:](http://pesticide.io)|
 |1035|[@snwh](https://github.com/snwh)/[**paper-gtk-theme**](https://github.com/snwh/paper-gtk-theme)|Paper Theme Suite|[:arrow_upper_right:](http://snwh.org/paper)|
-|870|[@lemonmade](https://github.com/lemonmade)/[**bigfoot**](https://github.com/lemonmade/bigfoot)|A jQuery plugin for creating exceptional footnotes.|[:arrow_upper_right:](http://www.bigfootjs.com)|
+|871|[@lemonmade](https://github.com/lemonmade)/[**bigfoot**](https://github.com/lemonmade/bigfoot)|A jQuery plugin for creating exceptional footnotes.|[:arrow_upper_right:](http://www.bigfootjs.com)|
 |855|[@jaicab](https://github.com/jaicab)/[**localFont**](https://github.com/jaicab/localFont)|Implement localStorage web font caching in seconds|[:arrow_upper_right:](http://jaicab.com/localFont/)|
-|781|[@ksylvest](https://github.com/ksylvest)/[**jquery-gridly**](https://github.com/ksylvest/jquery-gridly)|Gridly is a jQuery plugin to enable dragging and dropping as well as resizing on a grid.|[:arrow_upper_right:](http://ksylvest.github.io/jquery-gridly/)|
+|780|[@ksylvest](https://github.com/ksylvest)/[**jquery-gridly**](https://github.com/ksylvest/jquery-gridly)|Gridly is a jQuery plugin to enable dragging and dropping as well as resizing on a grid.|[:arrow_upper_right:](http://ksylvest.github.io/jquery-gridly/)|
 |724|[@mrmrs](https://github.com/mrmrs)/[**mnml**](https://github.com/mrmrs/mnml)|Start a responsive html5 site with postcss and browser-sync|[:arrow_upper_right:](http://mn-ml.cc)|
 |711|[@jescalan](https://github.com/jescalan)/[**rupture**](https://github.com/jescalan/rupture)|Simple media queries in stylus|[:arrow_upper_right:](http://jescalan.github.io/rupture)|
-|615|[@shagunsodhani](https://github.com/shagunsodhani)/[**papers-I-read**](https://github.com/shagunsodhani/papers-I-read)|A-Paper-A-Week|[:arrow_upper_right:](https://shagunsodhani.in/papers-I-read/)|
-|602|[@ellekasai](https://github.com/ellekasai)/[**twemoji-awesome**](https://github.com/ellekasai/twemoji-awesome)|[Unmaintained] Like Font Awesome, but for Twitter Emoji|[:arrow_upper_right:](http://ellekasai.github.io/twemoji-awesome)|
+|616|[@shagunsodhani](https://github.com/shagunsodhani)/[**papers-I-read**](https://github.com/shagunsodhani/papers-I-read)|A-Paper-A-Week|[:arrow_upper_right:](https://shagunsodhani.in/papers-I-read/)|
+|601|[@ellekasai](https://github.com/ellekasai)/[**twemoji-awesome**](https://github.com/ellekasai/twemoji-awesome)|[Unmaintained] Like Font Awesome, but for Twitter Emoji|[:arrow_upper_right:](http://ellekasai.github.io/twemoji-awesome)|
 |559|[@auchenberg](https://github.com/auchenberg)/[**devtools-remote**](https://github.com/auchenberg/devtools-remote)|Debug your browser tabs remotely via Chrome DevTools|[:arrow_upper_right:](https://remote.devtools.rocks)|
-|490|[@callmenick](https://github.com/callmenick)/[**Animating-Hamburger-Icons**](https://github.com/callmenick/Animating-Hamburger-Icons)|Animating CSS-only hamburger menu icons||
+|491|[@callmenick](https://github.com/callmenick)/[**Animating-Hamburger-Icons**](https://github.com/callmenick/Animating-Hamburger-Icons)|Animating CSS-only hamburger menu icons||
 |446|[@ericduran](https://github.com/ericduran)/[**chromeHAR**](https://github.com/ericduran/chromeHAR)|HAR viewer that mimics (or at least tries really hard to) Chromes network tab|[:arrow_upper_right:](http://ericduran.github.com/chromeHAR)|
 |364|[@danielstern](https://github.com/danielstern)/[**ngAudio**](https://github.com/danielstern/ngAudio)|Angular Directive for Playing Sounds|[:arrow_upper_right:](http://danielstern.github.io/ngAudio/#/)|
-|347|[@ksylvest](https://github.com/ksylvest)/[**jquery-growl**](https://github.com/ksylvest/jquery-growl)|Growler is a jQuery plugin designed to provide informative messages in the browser.|[:arrow_upper_right:](http://ksylvest.github.io/jquery-growl/)|
-|338|[@ianrose](https://github.com/ianrose)/[**typesettings**](https://github.com/ianrose/typesettings)|A Sass or Stylus toolkit that sets type in Ems based on modular scale, vertical rhythm, and responsive ratio based headlines.|[:arrow_upper_right:](http:/typesettings.io)|
-|337|[@mrmrs](https://github.com/mrmrs)/[**btns**](https://github.com/mrmrs/btns)|A set of css utilities for constructing beautiful responsive buttons|[:arrow_upper_right:](http://mrmrs.io/btns)|
+|349|[@ksylvest](https://github.com/ksylvest)/[**jquery-growl**](https://github.com/ksylvest/jquery-growl)|Growler is a jQuery plugin designed to provide informative messages in the browser.|[:arrow_upper_right:](http://ksylvest.github.io/jquery-growl/)|
+|337|[@ianrose](https://github.com/ianrose)/[**typesettings**](https://github.com/ianrose/typesettings)|A Sass or Stylus toolkit that sets type in Ems based on modular scale, vertical rhythm, and responsive ratio based headlines.|[:arrow_upper_right:](http:/typesettings.io)|
+|336|[@mrmrs](https://github.com/mrmrs)/[**btns**](https://github.com/mrmrs/btns)|A set of css utilities for constructing beautiful responsive buttons|[:arrow_upper_right:](http://mrmrs.io/btns)|
 |269|[@sgraham](https://github.com/sgraham)/[**gamepad.js**](https://github.com/sgraham/gamepad.js)|Gamepad access in browsers via Gamepad API|[:arrow_upper_right:](http://www.gamepadjs.com/)|
 |265|[@wycks](https://github.com/wycks)/[**WP-Skeleton-Theme**](https://github.com/wycks/WP-Skeleton-Theme)|A responsive WordPress bare-bones theme based on the getskeleton framework||
 |243|[@callmenick](https://github.com/callmenick)/[**Slide-Push-Menus**](https://github.com/callmenick/Slide-Push-Menus)|Slide and push menus with CSS3 transitions.|[:arrow_upper_right:](http://callmenick.com/_development/slide-push-menus/)|
 |242|[@mrmrs](https://github.com/mrmrs)/[**nkd**](https://github.com/mrmrs/nkd)|Template for jekyll project with postcss and browser-sync|[:arrow_upper_right:](http://mrmrs.io/nkd)|
 |227|[@nfriend](https://github.com/nfriend)/[**inspirograph**](https://github.com/nfriend/inspirograph)|A digital Spirograph, written in TypeScript.|[:arrow_upper_right:](http://nathanfriend.io/inspirograph)|
 |222|[@luigiplr](https://github.com/luigiplr)/[**netify-jump**](https://github.com/luigiplr/netify-jump)|Netify Jump is a software-based system that effectively transforms your computer into a WiFi router and/or repeater.||
-|200|[@bencentra](https://github.com/bencentra)/[**centrarium**](https://github.com/bencentra/centrarium)|A simple yet classy theme for your Jekyll website or blog.|[:arrow_upper_right:](http://bencentra.com/centrarium/)|
+|204|[@bencentra](https://github.com/bencentra)/[**centrarium**](https://github.com/bencentra/centrarium)|A simple yet classy theme for your Jekyll website or blog.|[:arrow_upper_right:](http://bencentra.com/centrarium/)|
 |173|[@callmenick](https://github.com/callmenick)/[**Material-Menu**](https://github.com/callmenick/Material-Menu)|Off canvas menu inspired by Google's material design||
+|172|[@jennybc](https://github.com/jennybc)/[**happy-git-with-r**](https://github.com/jennybc/happy-git-with-r)|Using Git and GitHub with R, Rstudio, and R Markdown|[:arrow_upper_right:](http://happygitwithr.com)|
 |170|[@bbc](https://github.com/bbc)/[**grandstand**](https://github.com/bbc/grandstand)|BBC Grandstand is a collection of common CSS abstractions and utility helper classes|[:arrow_upper_right:](http://bit.ly/grandstandcss)|
-|169|[@jennybc](https://github.com/jennybc)/[**happy-git-with-r**](https://github.com/jennybc/happy-git-with-r)|Using Git and GitHub with R, Rstudio, and R Markdown|[:arrow_upper_right:](http://happygitwithr.com)|
 |168|[@callmenick](https://github.com/callmenick)/[**CSS-Circle-Menu**](https://github.com/callmenick/CSS-Circle-Menu)|A fly-out circle menu built with CSS.|[:arrow_upper_right:](http://callmenick.com/_development/css-circle-menu/)|
 |166|[@ksylvest](https://github.com/ksylvest)/[**jquery-age**](https://github.com/ksylvest/jquery-age)|Age is a jQuery plugin that formats and tracks dates and times as human readable text.|[:arrow_upper_right:](http://ksylvest.github.io/jquery-age/)|
+|165|[@danielstern](https://github.com/danielstern)/[**cyo**](https://github.com/danielstern/cyo)|100% HTML Game Engine||
 |164|[@curiositry](https://github.com/curiositry)/[**mnml-ghost-theme**](https://github.com/curiositry/mnml-ghost-theme)|A minimal, responsive, fast ghost blog theme with great typography. Comes with Disqus comments, syntax highlighting, and KaTeX for mathematics, and more.|[:arrow_upper_right:](http://mnml.herokuapp.com)|
-|164|[@danielstern](https://github.com/danielstern)/[**cyo**](https://github.com/danielstern/cyo)|100% HTML Game Engine||
 |146|[@rowanmanning](https://github.com/rowanmanning)/[**pigeon**](https://github.com/rowanmanning/pigeon)|Pigeon is an OOCSS framework for rapid prototyping and building smart, scalable websites.|[:arrow_upper_right:](http://pigeoncss.com/)|
 |143|[@tomhodgins](https://github.com/tomhodgins)/[**preset**](https://github.com/tomhodgins/preset)|A simple CSS preset for 2018|[:arrow_upper_right:](https://tomhodgins.github.io/preset/preset.css)|
 |143|[@wa0x6e](https://github.com/wa0x6e)/[**ResqueBoard**](https://github.com/wa0x6e/ResqueBoard)|ResqueBoard is an analytics software for PHP Resque. Monitor your workers health and job activities in realtime|[:arrow_upper_right:](http://resqueboard.kamisama.me/)|
@@ -46,8 +46,8 @@
 |118|[@bbc](https://github.com/bbc)/[**viewporter**](https://github.com/bbc/viewporter)|In-browser responsive testing tool.|[:arrow_upper_right:](http://bbc.github.io/viewporter/)|
 |117|[@callmenick](https://github.com/callmenick)/[**five-star-rating**](https://github.com/callmenick/five-star-rating)|Five star rating component|[:arrow_upper_right:](http://callmenick.com/_development/five-star-rating/)|
 |114|[@mrmrs](https://github.com/mrmrs)/[**css-uncut**](https://github.com/mrmrs/css-uncut)|WIP: All of css as single purpose classes||
+|110|[@nVoid](https://github.com/nVoid)/[**Introduction-to-touchdesigner**](https://github.com/nVoid/Introduction-to-touchdesigner)|Open source introductory manual for Derivative TouchDesigner 088||
 |109|[@bbc](https://github.com/bbc)/[**gel-grid**](https://github.com/bbc/gel-grid)|A flexible code implementation of the GEL Grid Guidelines|[:arrow_upper_right:](http://bbc.github.io/gel-grid/)|
-|109|[@nVoid](https://github.com/nVoid)/[**Introduction-to-touchdesigner**](https://github.com/nVoid/Introduction-to-touchdesigner)|Open source introductory manual for Derivative TouchDesigner 088||
 |104|[@jpsilvashy](https://github.com/jpsilvashy)/[**fluid-grid-system**](https://github.com/jpsilvashy/fluid-grid-system)|A very lightwieght XHTML/CSS framework that follows both the typographic grid, and also baseline grid||
 |103|[@tomhodgins](https://github.com/tomhodgins)/[**dragon**](https://github.com/tomhodgins/dragon)|dragon.js is a bookmarklet that lets you drag any element on a website using a mouse or touchscreen. The goal is to speed up in-browser design critiques and brainstorming new layout ideas.|[:arrow_upper_right:](http://tomhodgins.github.io/dragon/)|
 |102|[@mrmrs](https://github.com/mrmrs)/[**type.css**](https://github.com/mrmrs/type.css)|A mobile-first responsive type scale|[:arrow_upper_right:](http://mrmrs.io/type.css)|
@@ -86,7 +86,7 @@
 |39|[@jaicab](https://github.com/jaicab)/[**sass-vary**](https://github.com/jaicab/sass-vary)|Consistent theming with BEM modifiers, body classes and more!|[:arrow_upper_right:](http://jaicab.com/sass-vary/)|
 |39|[@tilomitra](https://github.com/tilomitra)/[**csstypography**](https://github.com/tilomitra/csstypography)|CSS styles for nicer web type. Depends on Pure.|[:arrow_upper_right:](http://tilomitra.github.io/csstypography/)|
 |38|[@jescalan](https://github.com/jescalan)/[**roots-www-old**](https://github.com/jescalan/roots-www-old)|Documentation for v2 of roots. Probably not what you are looking for.|[:arrow_upper_right:](http://v1.roots.cx)|
-|38|[@mrmrs](https://github.com/mrmrs)/[**diatonic-type**](https://github.com/mrmrs/diatonic-type)|Diatonic print scale translated to be a responsive type scale for the web.|[:arrow_upper_right:](http://ty-p.cc)|
+|37|[@mrmrs](https://github.com/mrmrs)/[**diatonic-type**](https://github.com/mrmrs/diatonic-type)|Diatonic print scale translated to be a responsive type scale for the web.|[:arrow_upper_right:](http://ty-p.cc)|
 |33|[@FortAwesome](https://github.com/FortAwesome)/[**Blog-Awesome**](https://github.com/FortAwesome/Blog-Awesome)|Font Awesome news, tips, and tricks||
 |33|[@jaicab](https://github.com/jaicab)/[**responsive-reCAPTCHA**](https://github.com/jaicab/responsive-reCAPTCHA)|A mobile-first theme for Google's reCAPTCHA.|[:arrow_upper_right:](http://jaicab.com/responsive-reCAPTCHA/)|
 |32|[@atmb4u](https://github.com/atmb4u)/[**marlin**](https://github.com/atmb4u/marlin)|Fast and easy ReST API server on redis||
@@ -115,9 +115,9 @@
 |23|[@bbc](https://github.com/bbc)/[**gel-sass-tools**](https://github.com/bbc/gel-sass-tools)|A collection of Sass Settings & Tools which align to key GEL values||
 |23|[@ksylvest](https://github.com/ksylvest)/[**jquery-spin**](https://github.com/ksylvest/jquery-spin)|A jQuery plugin for CSS and JS spinners.|[:arrow_upper_right:](http://ksylvest.github.com/jquery-spin/)|
 |23|[@mrmrs](https://github.com/mrmrs)/[**writing**](https://github.com/mrmrs/writing)|Blog about vim, css, and design. |[:arrow_upper_right:](http://☠☣.ws)|
+|23|[@practicalli](https://github.com/practicalli)/[**spacemacs-gitbook**](https://github.com/practicalli/spacemacs-gitbook)|Content for the book - Clojure Development with Spacemacs|[:arrow_upper_right:](https://practicalli.github.io/spacemacs)|
 |22|[@arthurgouveia](https://github.com/arthurgouveia)/[**css-mix-blend-mode**](https://github.com/arthurgouveia/css-mix-blend-mode)|Small demo of the CSS property mix-blend-mode|[:arrow_upper_right:](http://arthurgouveia.com/css-mix-blend-mode)|
 |22|[@davepagurek](https://github.com/davepagurek)/[**Chordi.co**](https://github.com/davepagurek/Chordi.co)|Procedural music, taught with data from real artists||
-|22|[@practicalli](https://github.com/practicalli)/[**spacemacs-gitbook**](https://github.com/practicalli/spacemacs-gitbook)|Content for the book - Clojure Development with Spacemacs|[:arrow_upper_right:](https://practicalli.github.io/spacemacs)|
 |20|[@callmenick](https://github.com/callmenick)/[**lifo-transitions**](https://github.com/callmenick/lifo-transitions)|Last in, first out transitions||
 |20|[@ianrose](https://github.com/ianrose)/[**reset-scss**](https://github.com/ianrose/reset-scss)|A SCSS version of Eric Meyer's CSS reset ||
 |20|[@macdonst](https://github.com/macdonst)/[**push-workshop**](https://github.com/macdonst/push-workshop)|PhoneGap Day US 2016 workshop - Simple mobile application built showing how to handle various push notifications||
@@ -148,6 +148,7 @@
 |16|[@websemantics](https://github.com/websemantics)/[**pyrocms-theme**](https://github.com/websemantics/pyrocms-theme)|Skinnable, responsive and highly customizable admin theme for PyroCMS 3||
 |15|[@adambard](https://github.com/adambard)/[**learnxinyminutes-site**](https://github.com/adambard/learnxinyminutes-site)|||
 |15|[@aforward](https://github.com/aforward)/[**webl**](https://github.com/aforward/webl)|A simple web crawler API written in go||
+|15|[@julianlam](https://github.com/julianlam)/[**nodebb-plugin-markdown**](https://github.com/julianlam/nodebb-plugin-markdown)|A Markdown parser for NodeBB||
 |15|[@mrmrs](https://github.com/mrmrs)/[**colors-sass**](https://github.com/mrmrs/colors-sass)|colors.css powered by sass||
 |15|[@mrmrs](https://github.com/mrmrs)/[**css-unabridged**](https://github.com/mrmrs/css-unabridged)|An experiment with css ||
 |15|[@mrmrs](https://github.com/mrmrs)/[**small**](https://github.com/mrmrs/small)|CSS for small devices||
@@ -158,12 +159,11 @@
 |15|[@vincentmorneau](https://github.com/vincentmorneau)/[**apex-bootstrap4**](https://github.com/vincentmorneau/apex-bootstrap4)|Bootstrap 4 Theme for Oracle APEX||
 |15|[@websemantics](https://github.com/websemantics)/[**ant-strap**](https://github.com/websemantics/ant-strap)|An elegant CSS Framework built after Ant Design using Bootstrap 4.|[:arrow_upper_right:](http://websemantics.github.io/ant-strap)|
 |14|[@amsul](https://github.com/amsul)/[**coderwall.js**](https://github.com/amsul/coderwall.js)|jQuery plugin that displays Coderwall badges for your team|[:arrow_upper_right:](http://amsul.github.com/coderwall.js/)|
+|14|[@bmcfee](https://github.com/bmcfee)/[**musichacks**](https://github.com/bmcfee/musichacks)|Projects for music hack day||
 |14|[@dantman](https://github.com/dantman)/[**monaco-port**](https://github.com/dantman/monaco-port)|Porting Wikia's Monaco skin into a brandless MediaWiki skin for vanilla MediaWiki||
-|14|[@julianlam](https://github.com/julianlam)/[**nodebb-plugin-markdown**](https://github.com/julianlam/nodebb-plugin-markdown)|A Markdown parser for NodeBB||
 |14|[@ksylvest](https://github.com/ksylvest)/[**jquery-observer**](https://github.com/ksylvest/jquery-observer)|A jQuery plugin for observing form changes|[:arrow_upper_right:](http://ksylvest.github.io/jquery-observer/)|
 |14|[@pmorissette](https://github.com/pmorissette)/[**klink**](https://github.com/pmorissette/klink)|A Simple and Clean Sphinx Docs Theme|[:arrow_upper_right:](http://pmorissette.github.io/klink/)|
 |14|[@websemantics](https://github.com/websemantics)/[**stone-theme**](https://github.com/websemantics/stone-theme)|:moyai: Responsive admin theme for PyroCMS 3 that's easy to install and customize, with slick ui and intuitive user experience.||
-|13|[@bmcfee](https://github.com/bmcfee)/[**musichacks**](https://github.com/bmcfee/musichacks)|Projects for music hack day||
 |13|[@es](https://github.com/es)/[**orgoShmorgo**](https://github.com/es/orgoShmorgo)|OrgoShmorgo is an organic molecule visualizer built using D3.js|[:arrow_upper_right:](http://orgo.stolarsky.com)|
 |13|[@jaicab](https://github.com/jaicab)/[**sass-ext**](https://github.com/jaicab/sass-ext)|The ext(); mixin sets a selector budget and controls duplicates on Sass' extend directive.|[:arrow_upper_right:](http://jaicab.com/sass-ext/)|
 |13|[@jimeh](https://github.com/jimeh)/[**jimeh.me-v3.0**](https://github.com/jimeh/jimeh.me-v3.0)|Jekyll project of a old version my personal website and blog.|[:arrow_upper_right:](http://jimeh.me/)|
@@ -212,6 +212,7 @@
 |9|[@srsgores](https://github.com/srsgores)/[**generator-joomla-admin-template**](https://github.com/srsgores/generator-joomla-admin-template)|Yeoman generator for generating Joomla administrator templates||
 |9|[@twg](https://github.com/twg)/[**frontend-scaffolding**](https://github.com/twg/frontend-scaffolding)|Generic front-end foundations for most web projects||
 |8|[@StevenBlack](https://github.com/StevenBlack)/[**jekyll-modern-business**](https://github.com/StevenBlack/jekyll-modern-business)|||
+|8|[@allenhwkim](https://github.com/allenhwkim)/[**mce**](https://github.com/allenhwkim/mce)|Material-Designed Custom Elements|[:arrow_upper_right:](https://mymce.github.io)|
 |8|[@bleathem](https://github.com/bleathem)/[**keynote2015-beacon**](https://github.com/bleathem/keynote2015-beacon)|Location-scanner multi-foci force-layout using d3.js and Rx.js||
 |8|[@callmenick](https://github.com/callmenick)/[**angular-js-introduction**](https://github.com/callmenick/angular-js-introduction)|||
 |8|[@coveo](https://github.com/coveo)/[**source.coveo.com**](https://github.com/coveo/source.coveo.com)|Our technical blog.||
@@ -225,7 +226,6 @@
 |8|[@srsgores](https://github.com/srsgores)/[**stylus-boilerplate**](https://github.com/srsgores/stylus-boilerplate)|Complete and Extensible Stylus CSS framework|[:arrow_upper_right:](http://srsgores.github.io/stylus-boilerplate/)|
 |8|[@stewart](https://github.com/stewart)/[**blog**](https://github.com/stewart/blog)|The source for my site.|[:arrow_upper_right:](https://andrew.stwrt.ca)|
 |7|[@ESWAT](https://github.com/ESWAT)/[**llc-jobboard**](https://github.com/ESWAT/llc-jobboard)|The Ladies Learning Code Job Board|[:arrow_upper_right:](http://jobs.ladieslearningcode.com/)|
-|7|[@allenhwkim](https://github.com/allenhwkim)/[**mce**](https://github.com/allenhwkim/mce)|Material-Designed Custom Elements|[:arrow_upper_right:](https://mymce.github.io)|
 |7|[@berwyn](https://github.com/berwyn)/[**ponyville-live-chrome**](https://github.com/berwyn/ponyville-live-chrome)|The chrome application is designed to make it simpler and easier for users to tune into their favourite radio station on the Ponyville Live! Network|[:arrow_upper_right:](http://ponyvillelive.com)|
 |7|[@callmenick](https://github.com/callmenick)/[**css-loaders-spinners-2**](https://github.com/callmenick/css-loaders-spinners-2)|More CSS Loaders & Spinners||
 |7|[@curiositry](https://github.com/curiositry)/[**bohemian**](https://github.com/curiositry/bohemian)|Free, Responsive, Open Source, & Typographically Tasteful. It’s Bohemian — the Pelican theme for snobs. Built for a great reading experience with minimal clutter, it will ready your Pelican site for 21st century.||
@@ -325,6 +325,7 @@
 |4|[@mrmrs](https://github.com/mrmrs)/[**css-background-repeat**](https://github.com/mrmrs/css-background-repeat)|CSS module for setting background-repeat|[:arrow_upper_right:](https://www.npmjs.com/package/css-background-repeat)|
 |4|[@mrmrs](https://github.com/mrmrs)/[**css-border-colors**](https://github.com/mrmrs/css-border-colors)|Responsive CSS module for setting border colors|[:arrow_upper_right:](https://www.npmjs.com/package/css-border-colors)|
 |4|[@mrmrs](https://github.com/mrmrs)/[**css-clip**](https://github.com/mrmrs/css-clip)|CSS module for setting clip property|[:arrow_upper_right:](https://www.npmjs.com/package/css-clip)|
+|4|[@mrmrs](https://github.com/mrmrs)/[**css-direction**](https://github.com/mrmrs/css-direction)|CSS module for setting direction|[:arrow_upper_right:](https://www.npmjs.com/package/css-direction)|
 |4|[@mrmrs](https://github.com/mrmrs)/[**css-filter-grayscale**](https://github.com/mrmrs/css-filter-grayscale)|CSS module for te grayscale function|[:arrow_upper_right:](https://www.npmjs.com/package/css-filter-grayscale)|
 |4|[@mrmrs](https://github.com/mrmrs)/[**css-flex-align-self**](https://github.com/mrmrs/css-flex-align-self)|Responsive CSS module for setting flex box's align-self|[:arrow_upper_right:](https://www.npmjs.com/package/css-flex-align-self)|
 |4|[@mrmrs](https://github.com/mrmrs)/[**css-hyphens**](https://github.com/mrmrs/css-hyphens)|Resposive CSS module for setting hyphen property across breakpoints|[:arrow_upper_right:](https://www.npmjs.com/package/css-hyphens)|
@@ -397,6 +398,7 @@
 |3|[@emilyhorsman](https://github.com/emilyhorsman)/[**buttercup**](https://github.com/emilyhorsman/buttercup)|A Hugo theme w/ Go Templates|[:arrow_upper_right:](http://emilyhorsman.com)|
 |3|[@fire](https://github.com/fire)/[**landscape-ghost**](https://github.com/fire/landscape-ghost)|Theme for chibifire.com - GPL Release||
 |3|[@freeatnet](https://github.com/freeatnet)/[**producthunt-digest-rss**](https://github.com/freeatnet/producthunt-digest-rss)|||
+|3|[@geggleto](https://github.com/geggleto)/[**kai**](https://github.com/geggleto/kai)|||
 |3|[@gil--](https://github.com/gil--)/[**CSS-Snackables**](https://github.com/gil--/CSS-Snackables)|Weekly UI to CSS Video Series on Youtube|[:arrow_upper_right:](https://www.youtube.com/playlist?list=PL3k8UOU0zG0kGBOIOi-V0gOV6vWIUA2_o)|
 |3|[@hghazal](https://github.com/hghazal)/[**frontend-react-webapp-template**](https://github.com/hghazal/frontend-react-webapp-template)|Docker React Redux Universal web app template that easily runs on Google's container engine through Kubernetes||
 |3|[@ianrose](https://github.com/ianrose)/[**ianrose.me**](https://github.com/ianrose/ianrose.me)|Source for personal site.|[:arrow_upper_right:](https://ianrose.me)|
@@ -441,7 +443,6 @@
 |3|[@mrmrs](https://github.com/mrmrs)/[**css-counter-increment**](https://github.com/mrmrs/css-counter-increment)|CSS module for setting the counter increment|[:arrow_upper_right:](https://www.npmjs.com/package/css-counter-increment)|
 |3|[@mrmrs](https://github.com/mrmrs)/[**css-counter-reset**](https://github.com/mrmrs/css-counter-reset)|CSS module for declaring counter-reset|[:arrow_upper_right:](https://www.npmjs.com/package/css-counter-reset)|
 |3|[@mrmrs](https://github.com/mrmrs)/[**css-dimension-utilities**](https://github.com/mrmrs/css-dimension-utilities)|CSS module of dimension utilities|[:arrow_upper_right:](https://www.npmjs.com/package/css-dimension-utilities)|
-|3|[@mrmrs](https://github.com/mrmrs)/[**css-direction**](https://github.com/mrmrs/css-direction)|CSS module for setting direction|[:arrow_upper_right:](https://www.npmjs.com/package/css-direction)|
 |3|[@mrmrs](https://github.com/mrmrs)/[**css-filter-bright**](https://github.com/mrmrs/css-filter-bright)|CSS module for using the brightness filter|[:arrow_upper_right:](https://www.npmjs.com/package/css-filter-bright)|
 |3|[@mrmrs](https://github.com/mrmrs)/[**css-filter-invert**](https://github.com/mrmrs/css-filter-invert)|Responsive CSS module for setting invert filter|[:arrow_upper_right:](https://www.npmjs.com/package/css-filter-invert)|
 |3|[@mrmrs](https://github.com/mrmrs)/[**css-filter-saturate**](https://github.com/mrmrs/css-filter-saturate)|Responsive CSS module for setting the saturate filter|[:arrow_upper_right:](https://www.npmjs.com/package/css-filter-saturate)|

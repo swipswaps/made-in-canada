@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|598|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatMagician**](https://github.com/Gh0u1L5/WechatMagician)|WechatMagician is a Xposed module written in Kotlin, that allows you to completely control your Wechat.|[:arrow_upper_right:](http://repo.xposed.info/module/com.gh0u1l5.wechatmagician)|
-|146|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatSpellbook**](https://github.com/Gh0u1L5/WechatSpellbook)|Wechat Spellbook is a powerful and scalable framework, which allows everyone to develop a Wechat Xposed module in minutes.||
+|634|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatMagician**](https://github.com/Gh0u1L5/WechatMagician)|WechatMagician is a Xposed module written in Kotlin, that allows you to completely control your Wechat.|[:arrow_upper_right:](http://repo.xposed.info/module/com.gh0u1l5.wechatmagician)|
+|170|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatSpellbook**](https://github.com/Gh0u1L5/WechatSpellbook)|Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架，底层需要 Xposed 或 VirtualXposed 等Hooking框架的支持，而顶层可以轻松对接Java、Kotlin、Scala等JVM系语言。让程序员能够在几分钟内编写出简单的微信插件，随意揉捏微信的内部逻辑。||
 |135|[@Jerry1211](https://github.com/Jerry1211)/[**RadarProject**](https://github.com/Jerry1211/RadarProject)|Very Meme Radar|[:arrow_upper_right:](http://VMRadar.net)|
-|68|[@AllanWang](https://github.com/AllanWang)/[**KAU**](https://github.com/AllanWang/KAU)|An extensive collection of Kotlin Android Utils|[:arrow_upper_right:](https://allanwang.github.io/KAU/)|
-|57|[@AllanWang](https://github.com/AllanWang)/[**Frost-for-Facebook**](https://github.com/AllanWang/Frost-for-Facebook)|An extensive and functional third party app for Facebook|[:arrow_upper_right:](https://labs.xda-developers.com/store/app/com.pitchedapps.frost)|
-|56|[@rock3r](https://github.com/rock3r)/[**uplift**](https://github.com/rock3r/uplift)|A playground for elevation on Android||
+|72|[@AllanWang](https://github.com/AllanWang)/[**KAU**](https://github.com/AllanWang/KAU)|An extensive collection of Kotlin Android Utils|[:arrow_upper_right:](https://allanwang.github.io/KAU/)|
+|58|[@AllanWang](https://github.com/AllanWang)/[**Frost-for-Facebook**](https://github.com/AllanWang/Frost-for-Facebook)|An extensive and functional third party app for Facebook|[:arrow_upper_right:](https://labs.xda-developers.com/store/app/com.pitchedapps.frost)|
+|57|[@rock3r](https://github.com/rock3r)/[**uplift**](https://github.com/rock3r/uplift)|A playground for elevation on Android||
 |50|[@f2prateek](https://github.com/f2prateek)/[**android-bee**](https://github.com/f2prateek/android-bee)||[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.f2prateek.bee)|
 |28|[@kanawish](https://github.com/kanawish)/[**android-mvi-sample**](https://github.com/kanawish/android-mvi-sample)|Example MVI implementation, based off of Google's architectural samples.||
 |27|[@cesarferreira](https://github.com/cesarferreira)/[**kotlin-pluralizer**](https://github.com/cesarferreira/kotlin-pluralizer)|:sunny: Kotlin extension to pluralize and singularize strings||

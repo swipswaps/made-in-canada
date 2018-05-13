@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2087|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
+|2090|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
 |322|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
-|102|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/library/composer/)|
+|103|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/library/composer/)|
 |55|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
 |40|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_build**](https://github.com/CopperheadOS/platform_build)|||
 |37|[@sjackman](https://github.com/sjackman)/[**lambdar**](https://github.com/sjackman/lambdar)|ƛR: Run R on AWS Lambda|[:arrow_upper_right:](http://lambdar.sjackman.ca/?e=stem(rnorm(100)))|
@@ -30,13 +30,14 @@
 |5|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_harpia**](https://github.com/sultanqasim/android_device_motorola_harpia)|TWRP device tree for Moto G Play||
 |5|[@tj](https://github.com/tj)/[**foo**](https://github.com/tj/foo)|||
 |4|[@KleinYuan](https://github.com/KleinYuan)/[**train-crfasrnn**](https://github.com/KleinYuan/train-crfasrnn)|Detailed guide to help you understand how to train CRF as RNN||
+|4|[@maruel](https://github.com/maruel)/[**hugo-tidy**](https://github.com/maruel/hugo-tidy)|Docker image to generate the fastest (minified, gzipped) web site via Hugo||
 |4|[@rillian](https://github.com/rillian)/[**afl-ffmpeg-opus**](https://github.com/rillian/afl-ffmpeg-opus)|Fuzzing script for ffmpeg's opus decoder||
+|3|[@AmarOk1412](https://github.com/AmarOk1412)/[**RORI**](https://github.com/AmarOk1412/RORI)|a modulable chatterbot platform|[:arrow_upper_right:](https://enconn.fr/rori)|
 |3|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_system_sepolicy**](https://github.com/CopperheadOS/platform_system_sepolicy)|||
 |3|[@aminb](https://github.com/aminb)/[**dotfiles**](https://github.com/aminb/dotfiles)|My literate configuration for GNU Emacs and other pieces of software I use|[:arrow_upper_right:](https://git.aminb.org/amin/dotfiles)|
 |3|[@arteymix](https://github.com/arteymix)/[**kohana-makefile**](https://github.com/arteymix/kohana-makefile)|Automate common boring tasks related to the Kohana framework||
 |3|[@bbidulock](https://github.com/bbidulock)/[**xde-helpers**](https://github.com/bbidulock/xde-helpers)|Helper .desktop files for XDE||
 |3|[@karnauskas](https://github.com/karnauskas)/[**openwrt-mdns-repeater**](https://github.com/karnauskas/openwrt-mdns-repeater)|mdns-repeater build for OpenWrt||
-|3|[@maruel](https://github.com/maruel)/[**hugo-tidy**](https://github.com/maruel/hugo-tidy)|Docker image to generate the fastest (minified, gzipped) web site via Hugo||
 |3|[@northox](https://github.com/northox)/[**rump-npfer**](https://github.com/northox/rump-npfer)|A Rumprun firewall unikernel for Qubes OS (c)||
 |3|[@sjackman](https://github.com/sjackman)/[**linuxbrew-slides**](https://github.com/sjackman/linuxbrew-slides)|Linuxbrew and Homebrew-Science|[:arrow_upper_right:](http://sjackman.ca/linuxbrew-slides/)|
 |3|[@sjourdan](https://github.com/sjourdan)/[**toolbox**](https://github.com/sjourdan/toolbox)|a container with some utilities to use anywhere (CoreOS included)|[:arrow_upper_right:](https://hub.docker.com/r/sjourdan/toolbox)|
