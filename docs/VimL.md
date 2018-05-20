@@ -29,8 +29,8 @@
 |11|[@mgrouchy](https://github.com/mgrouchy)/[**oldvim**](https://github.com/mgrouchy/oldvim)|my old vimfiles|[:arrow_upper_right:](http://mikegrouchy.com)|
 |10|[@gf3](https://github.com/gf3)/[**peg.vim**](https://github.com/gf3/peg.vim)|PEG Syntax for Vim||
 |10|[@idbrii](https://github.com/idbrii)/[**vim-hiinterestingword**](https://github.com/idbrii/vim-hiinterestingword)|[Deprecated in favour of https://github.com/idbrii/vim-mark]||
-|10|[@mricon](https://github.com/mricon)/[**puppet-eyes**](https://github.com/mricon/puppet-eyes)|Vim plugin to alert when a file being edited is managed by puppet||
 |10|[@vinibaggio](https://github.com/vinibaggio)/[**vinibaggio-vimfiles**](https://github.com/vinibaggio/vinibaggio-vimfiles)|This is my vim configuration, a big mix from a lot of what I've seen on the net.|[:arrow_upper_right:](http://www.vinibaggio.net)|
+|9|[@mricon](https://github.com/mricon)/[**puppet-eyes**](https://github.com/mricon/puppet-eyes)|Vim plugin to alert when a file being edited is managed by puppet||
 |9|[@thayerwilliams](https://github.com/thayerwilliams)/[**msi-dotfiles**](https://github.com/thayerwilliams/msi-dotfiles)|Archlinux dotfiles for my MSI Wind U120 netbook|[:arrow_upper_right:](http://cinderwick.ca)|
 |8|[@allenhwkim](https://github.com/allenhwkim)/[**nextfile.vim**](https://github.com/allenhwkim/nextfile.vim)|vim script to open related files||
 |8|[@idbrii](https://github.com/idbrii)/[**vim-textconv**](https://github.com/idbrii/vim-textconv)|Easily apply text conversions. ||

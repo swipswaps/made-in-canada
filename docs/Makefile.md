@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2090|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
+|2092|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
 |322|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
-|103|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/library/composer/)|
+|104|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/library/composer/)|
 |55|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
 |40|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_build**](https://github.com/CopperheadOS/platform_build)|||
 |37|[@sjackman](https://github.com/sjackman)/[**lambdar**](https://github.com/sjackman/lambdar)|ƛR: Run R on AWS Lambda|[:arrow_upper_right:](http://lambdar.sjackman.ca/?e=stem(rnorm(100)))|
@@ -11,11 +11,11 @@
 |25|[@ssokolow](https://github.com/ssokolow)/[**rust-cli-boilerplate**](https://github.com/ssokolow/rust-cli-boilerplate)|Rust project boilerplate for CLI applications||
 |24|[@jasonish](https://github.com/jasonish)/[**docker-snort**](https://github.com/jasonish/docker-snort)|A ready to run Snort and PulledPork docker image.||
 |24|[@tj](https://github.com/tj)/[**make**](https://github.com/tj/make)|Makefiles||
-|19|[@sjackman](https://github.com/sjackman)/[**docker-bio**](https://github.com/sjackman/docker-bio)|Docker images of bioinformatics software||
+|20|[@sjackman](https://github.com/sjackman)/[**docker-bio**](https://github.com/sjackman/docker-bio)|Docker images of bioinformatics software||
 |18|[@sjackman](https://github.com/sjackman)/[**makefile-example**](https://github.com/sjackman/makefile-example)|An example of a data analysis pipeline using Make|[:arrow_upper_right:](http://sjackman.ca/makefile-example/)|
 |15|[@sjackman](https://github.com/sjackman)/[**docker-linuxbrew**](https://github.com/sjackman/docker-linuxbrew)|:skull: Defunct. Use https://github.com/Linuxbrew/docker||
-|12|[@sjackman](https://github.com/sjackman)/[**assembly-graph**](https://github.com/sjackman/assembly-graph)|Compare assembly graph file formats||
 |12|[@sjourdan](https://github.com/sjourdan)/[**ffmpeg-docker**](https://github.com/sjourdan/ffmpeg-docker)|FFmpeg on Alpine Docker Image||
+|11|[@sjackman](https://github.com/sjackman)/[**assembly-graph**](https://github.com/sjackman/assembly-graph)|Compare assembly graph file formats||
 |11|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_osprey**](https://github.com/sultanqasim/android_device_motorola_osprey)|Device tree for 2015 Moto G (osprey)||
 |10|[@RobLoach](https://github.com/RobLoach)/[**composer.deb**](https://github.com/RobLoach/composer.deb)|Build a Debian package to install and use Composer.|[:arrow_upper_right:](http://getcomposer.org)|
 |10|[@ustwo](https://github.com/ustwo)/[**docker-sauce-connect**](https://github.com/ustwo/docker-sauce-connect)|Builds a Sauce Labs Connect image||
@@ -34,12 +34,13 @@
 |4|[@rillian](https://github.com/rillian)/[**afl-ffmpeg-opus**](https://github.com/rillian/afl-ffmpeg-opus)|Fuzzing script for ffmpeg's opus decoder||
 |3|[@AmarOk1412](https://github.com/AmarOk1412)/[**RORI**](https://github.com/AmarOk1412/RORI)|a modulable chatterbot platform|[:arrow_upper_right:](https://enconn.fr/rori)|
 |3|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_system_sepolicy**](https://github.com/CopperheadOS/platform_system_sepolicy)|||
-|3|[@aminb](https://github.com/aminb)/[**dotfiles**](https://github.com/aminb/dotfiles)|My literate configuration for GNU Emacs and other pieces of software I use|[:arrow_upper_right:](https://git.aminb.org/amin/dotfiles)|
+|3|[@aminb](https://github.com/aminb)/[**dotfiles**](https://github.com/aminb/dotfiles)|My literate configuration for GNU Emacs and other pieces of software I use|[:arrow_upper_right:](https://git.sr.ht/~aminb/dotfiles)|
 |3|[@arteymix](https://github.com/arteymix)/[**kohana-makefile**](https://github.com/arteymix/kohana-makefile)|Automate common boring tasks related to the Kohana framework||
 |3|[@bbidulock](https://github.com/bbidulock)/[**xde-helpers**](https://github.com/bbidulock/xde-helpers)|Helper .desktop files for XDE||
 |3|[@karnauskas](https://github.com/karnauskas)/[**openwrt-mdns-repeater**](https://github.com/karnauskas/openwrt-mdns-repeater)|mdns-repeater build for OpenWrt||
 |3|[@northox](https://github.com/northox)/[**rump-npfer**](https://github.com/northox/rump-npfer)|A Rumprun firewall unikernel for Qubes OS (c)||
 |3|[@sjackman](https://github.com/sjackman)/[**linuxbrew-slides**](https://github.com/sjackman/linuxbrew-slides)|Linuxbrew and Homebrew-Science|[:arrow_upper_right:](http://sjackman.ca/linuxbrew-slides/)|
+|3|[@sjourdan](https://github.com/sjourdan)/[**strace-docker**](https://github.com/sjourdan/strace-docker)|strace in docker||
 |3|[@sjourdan](https://github.com/sjourdan)/[**toolbox**](https://github.com/sjourdan/toolbox)|a container with some utilities to use anywhere (CoreOS included)|[:arrow_upper_right:](https://hub.docker.com/r/sjourdan/toolbox)|
 |3|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_xiaomi_hennessy**](https://github.com/sultanqasim/android_device_xiaomi_hennessy)|TWRP Tree for Redmi Note 3 (Mediatek)||
 |3|[@sultanqasim](https://github.com/sultanqasim)/[**android_vendor_htc_pme**](https://github.com/sultanqasim/android_vendor_htc_pme)|Vendor blobs for HTC 10||

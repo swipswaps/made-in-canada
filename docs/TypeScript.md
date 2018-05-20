@@ -1,57 +1,58 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |9427|[@chmln](https://github.com/chmln)/[**flatpickr**](https://github.com/chmln/flatpickr)|lightweight and powerful datetimepicker with no dependencies|[:arrow_upper_right:](https://chmln.github.io/flatpickr)|
-|814|[@clauderic](https://github.com/clauderic)/[**react-tiny-virtual-list**](https://github.com/clauderic/react-tiny-virtual-list)|A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, scrolling to index, and more!|[:arrow_upper_right:](https://clauderic.github.io/react-tiny-virtual-list/)|
+|822|[@clauderic](https://github.com/clauderic)/[**react-tiny-virtual-list**](https://github.com/clauderic/react-tiny-virtual-list)|A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, scrolling to index, and more!|[:arrow_upper_right:](https://clauderic.github.io/react-tiny-virtual-list/)|
 |493|[@r-park](https://github.com/r-park)/[**todo-angular-firebase**](https://github.com/r-park/todo-angular-firebase)|Todo app with Angular CLI • AngularFire2 • Firebase • OAuth • SW-Precache|[:arrow_upper_right:](https://ng2-todo-app.firebaseapp.com)|
 |415|[@r-park](https://github.com/r-park)/[**todo-angular2-firebase**](https://github.com/r-park/todo-angular2-firebase)|Todo app with Angular2 • AngularFire2 • Firebase • OAuth • Webpack2|[:arrow_upper_right:](https://ng2-todo-app.firebaseapp.com)|
-|349|[@r-park](https://github.com/r-park)/[**soundcloud-ngrx**](https://github.com/r-park/soundcloud-ngrx)|SoundCloud API client with Angular • RxJS • ngrx/store • ngrx/effects|[:arrow_upper_right:](https://soundcloud-ngrx.herokuapp.com)|
-|256|[@arkon](https://github.com/arkon)/[**ng-sidebar**](https://github.com/arkon/ng-sidebar)|Angular sidebar component.|[:arrow_upper_right:](https://echeung.me/ng-sidebar)|
-|229|[@dsherret](https://github.com/dsherret)/[**ts-simple-ast**](https://github.com/dsherret/ts-simple-ast)|TypeScript Compiler API wrapper for static analysis and code manipulation.|[:arrow_upper_right:](https://dsherret.github.io/ts-simple-ast/)|
-|170|[@brentlintner](https://github.com/brentlintner)/[**synt**](https://github.com/brentlintner/synt)|Find similar functions and classes in your JavaScript/TypeScript code|[:arrow_upper_right:](https://npmjs.org/synt)|
+|350|[@r-park](https://github.com/r-park)/[**soundcloud-ngrx**](https://github.com/r-park/soundcloud-ngrx)|SoundCloud API client with Angular • RxJS • ngrx/store • ngrx/effects|[:arrow_upper_right:](https://soundcloud-ngrx.herokuapp.com)|
+|258|[@arkon](https://github.com/arkon)/[**ng-sidebar**](https://github.com/arkon/ng-sidebar)|Angular sidebar component.|[:arrow_upper_right:](https://echeung.me/ng-sidebar)|
+|236|[@dsherret](https://github.com/dsherret)/[**ts-simple-ast**](https://github.com/dsherret/ts-simple-ast)|TypeScript Compiler API wrapper for static analysis and code manipulation.|[:arrow_upper_right:](https://dsherret.github.io/ts-simple-ast/)|
+|171|[@brentlintner](https://github.com/brentlintner)/[**synt**](https://github.com/brentlintner/synt)|Find similar functions and classes in your JavaScript/TypeScript code|[:arrow_upper_right:](https://npmjs.org/synt)|
 |154|[@gdnmobilelab](https://github.com/gdnmobilelab)/[**png-pong**](https://github.com/gdnmobilelab/png-pong)|An image manipulation library with a very specific set of skills.||
-|142|[@QTGate](https://github.com/QTGate)/[**QTGate-Desktop-Client**](https://github.com/QTGate/QTGate-Desktop-Client)|Become a trustworthy ally for the Internet Freedom|[:arrow_upper_right:](https://www.CoNETTech.ca)|
-|128|[@eclipsesource](https://github.com/eclipsesource)/[**jsonforms**](https://github.com/eclipsesource/jsonforms)|React/Redux-based forms for JSON data|[:arrow_upper_right:](http://jsonforms.io)|
-|121|[@DashboardHub](https://github.com/DashboardHub)/[**PipelineDashboard**](https://github.com/DashboardHub/PipelineDashboard)|Dashboard for your Deployment pipeline https://dashboardhub.io/|[:arrow_upper_right:](https://pipeline.dashboardhub.io/)|
-|107|[@arkon](https://github.com/arkon)/[**ng-inline-svg**](https://github.com/arkon/ng-inline-svg)|Angular directive for inserting an SVG file inline within an element.|[:arrow_upper_right:](https://echeung.me/ng-inline-svg/)|
-|102|[@benfred](https://github.com/benfred)/[**github-analysis**](https://github.com/benfred/github-analysis)|Trending Programming Languages ranked by GitHub Users||
+|141|[@QTGate](https://github.com/QTGate)/[**QTGate-Desktop-Client**](https://github.com/QTGate/QTGate-Desktop-Client)|Become a trustworthy ally for the Internet Freedom|[:arrow_upper_right:](https://www.CoNETTech.ca)|
+|136|[@FortAwesome](https://github.com/FortAwesome)/[**angular-fontawesome**](https://github.com/FortAwesome/angular-fontawesome)|Font Awesome 5 Angular component using SVG with JS|[:arrow_upper_right:](https://fontawesome.com)|
+|129|[@eclipsesource](https://github.com/eclipsesource)/[**jsonforms**](https://github.com/eclipsesource/jsonforms)|React/Redux-based forms for JSON data|[:arrow_upper_right:](http://jsonforms.io)|
+|122|[@DashboardHub](https://github.com/DashboardHub)/[**PipelineDashboard**](https://github.com/DashboardHub/PipelineDashboard)|Dashboard for your Deployment pipeline https://dashboardhub.io/|[:arrow_upper_right:](https://pipeline.dashboardhub.io/)|
+|108|[@arkon](https://github.com/arkon)/[**ng-inline-svg**](https://github.com/arkon/ng-inline-svg)|Angular directive for inserting an SVG file inline within an element.|[:arrow_upper_right:](https://echeung.me/ng-inline-svg/)|
 |101|[@Glavin001](https://github.com/Glavin001)/[**graphql-sequelize-crud**](https://github.com/Glavin001/graphql-sequelize-crud)|Automatically generate queries and mutations from Sequelize models|[:arrow_upper_right:](https://www.npmjs.com/package/graphql-sequelize-crud)|
+|101|[@benfred](https://github.com/benfred)/[**github-analysis**](https://github.com/benfred/github-analysis)|Trending Programming Languages ranked by GitHub Users||
 |91|[@Glavin001](https://github.com/Glavin001)/[**react-hot-ts**](https://github.com/Glavin001/react-hot-ts)|Demo of React Hot Reloading + TypeScript + Webpack2||
-|86|[@arkon](https://github.com/arkon)/[**ng-click-outside**](https://github.com/arkon/ng-click-outside)|Angular directive for handling click events outside of an element.|[:arrow_upper_right:](https://echeung.me/ng-click-outside/)|
-|83|[@NoelFB](https://github.com/NoelFB)/[**foster**](https://github.com/NoelFB/foster)|A WebGL + TypeScript 2D Game framework with a Scene>Entity>Component model.||
+|89|[@arkon](https://github.com/arkon)/[**ng-click-outside**](https://github.com/arkon/ng-click-outside)|Angular directive for handling click events outside of an element.|[:arrow_upper_right:](https://echeung.me/ng-click-outside/)|
+|85|[@NoelFB](https://github.com/NoelFB)/[**foster**](https://github.com/NoelFB/foster)|A WebGL + TypeScript 2D Game framework with a Scene>Entity>Component model.||
 |67|[@dsherret](https://github.com/dsherret)/[**ts-type-info**](https://github.com/dsherret/ts-type-info)|TypeScript AST and code generator [Deprecated]||
-|64|[@addyosmani](https://github.com/addyosmani)/[**todomvc-angular-4**](https://github.com/addyosmani/todomvc-angular-4)|Angular 4.x TodoMVC implementation||
-|63|[@skellock](https://github.com/skellock)/[**typescript-with-electron-react-kit**](https://github.com/skellock/typescript-with-electron-react-kit)|Don't just start your Electron app... TWERKit.|[:arrow_upper_right:](https://skellock.github.io/typescript-with-electron-react-kit)|
-|58|[@dsherret](https://github.com/dsherret)/[**ts-nameof**](https://github.com/dsherret/ts-nameof)|nameof in TypeScript||
+|65|[@addyosmani](https://github.com/addyosmani)/[**todomvc-angular-4**](https://github.com/addyosmani/todomvc-angular-4)|Angular 4.x TodoMVC implementation||
+|64|[@skellock](https://github.com/skellock)/[**typescript-with-electron-react-kit**](https://github.com/skellock/typescript-with-electron-react-kit)|Don't just start your Electron app... TWERKit.|[:arrow_upper_right:](https://skellock.github.io/typescript-with-electron-react-kit)|
+|60|[@dsherret](https://github.com/dsherret)/[**ts-nameof**](https://github.com/dsherret/ts-nameof)|nameof in TypeScript||
 |56|[@allenhwkim](https://github.com/allenhwkim)/[**react-openlayers**](https://github.com/allenhwkim/react-openlayers)|OpenLayer React Components||
-|47|[@skellock](https://github.com/skellock)/[**osnap**](https://github.com/skellock/osnap)|A CLI for grabbing ios/android screenshots and saving to your clipboard or filesystem.||
+|48|[@skellock](https://github.com/skellock)/[**osnap**](https://github.com/skellock/osnap)|A CLI for grabbing ios/android screenshots and saving to your clipboard or filesystem.||
 |45|[@chandermani](https://github.com/chandermani)/[**angular2byexample**](https://github.com/chandermani/angular2byexample)|Source code repository for the book "Angular2 by Example"||
 |45|[@r-park](https://github.com/r-park)/[**todo-angular-ngrx**](https://github.com/r-park/todo-angular-ngrx)|Todo app with Angular • RxJS • ngrx/store • ngrx/effects • Webpack||
 |43|[@tleunen](https://github.com/tleunen)/[**pixi-multistyle-text**](https://github.com/tleunen/pixi-multistyle-text)|Multi-Style Text for pixi.js||
 |39|[@r-park](https://github.com/r-park)/[**todo-angular2-ngrx**](https://github.com/r-park/todo-angular2-ngrx)|Todo app with Angular • RxJS • ngrx/store • ngrx/effects • Webpack||
 |37|[@ShMcK](https://github.com/ShMcK)/[**Angular-Meteor-Boilerplate**](https://github.com/ShMcK/Angular-Meteor-Boilerplate)|Full Featured Angular Meteor Boilerplate||
+|36|[@turt2live](https://github.com/turt2live)/[**matrix-dimension**](https://github.com/turt2live/matrix-dimension)|An open source integrations manager for matrix clients, like Riot.|[:arrow_upper_right:](https://dimension.t2bot.io)|
 |35|[@emyann](https://github.com/emyann)/[**morphism**](https://github.com/emyann/morphism)|⚡ Library to transform any Object / JSON to JavaScript Object Literals, and ES6 Class Objects. Help you scale your data processing.|[:arrow_upper_right:](https://emyann.github.io/morphism)|
-|35|[@turt2live](https://github.com/turt2live)/[**matrix-dimension**](https://github.com/turt2live/matrix-dimension)|An open source integrations manager for matrix clients, like Riot.|[:arrow_upper_right:](https://dimension.t2bot.io)|
 |30|[@gdnmobilelab](https://github.com/gdnmobilelab)/[**png-pong-font**](https://github.com/gdnmobilelab/png-pong-font)|A text writing transformer for PngPong||
 |27|[@Glavin001](https://github.com/Glavin001)/[**tslint-clean-code**](https://github.com/Glavin001/tslint-clean-code)|TSLint rules for enforcing Clean Code|[:arrow_upper_right:](https://www.npmjs.com/package/tslint-clean-code)|
-|24|[@chenkie](https://github.com/chenkie)/[**angular-cli-heroku**](https://github.com/chenkie/angular-cli-heroku)|||
+|25|[@chenkie](https://github.com/chenkie)/[**angular-cli-heroku**](https://github.com/chenkie/angular-cli-heroku)|||
 |22|[@nfriend](https://github.com/nfriend)/[**ts-keycode-enum**](https://github.com/nfriend/ts-keycode-enum)|A TypeScript enum definition that maps human-friendly key names to JavaScript key codes||
-|20|[@CaptainCodeman](https://github.com/CaptainCodeman)/[**web-app-starter**](https://github.com/CaptainCodeman/web-app-starter)|Web App Starter using WebComponents, Lit-Html, Redux, Typescript and Rollup||
+|21|[@CaptainCodeman](https://github.com/CaptainCodeman)/[**web-app-starter**](https://github.com/CaptainCodeman/web-app-starter)|Web App Starter using WebComponents, Lit-Html, Redux, Typescript and Rollup||
 |20|[@wbuchwalter](https://github.com/wbuchwalter)/[**tsRedux**](https://github.com/wbuchwalter/tsRedux)|||
 |19|[@CaptainCodeman](https://github.com/CaptainCodeman)/[**angular2-webpack-polyfill**](https://github.com/CaptainCodeman/angular2-webpack-polyfill)|A simple starter example showing Angular2 bundled using webpack with polyfill.io service.|[:arrow_upper_right:](http://captain-codeman.appspot.com/)|
 |19|[@coveo](https://github.com/coveo)/[**sfdx-js**](https://github.com/coveo/sfdx-js)|A typescript compatible javascript wrapper for Salesforce DX cli.||
 |18|[@3DSemantix](https://github.com/3DSemantix)/[**angular-asp.net-core-aad-b2c**](https://github.com/3DSemantix/angular-asp.net-core-aad-b2c)|A single page app implemented using Angular 5, ASP.NET Core 2.0 and Azure AD B2C.||
+|18|[@chenkie](https://github.com/chenkie)/[**angular2-user-authentication**](https://github.com/chenkie/angular2-user-authentication)|||
 |17|[@chenkie](https://github.com/chenkie)/[**angular-auth**](https://github.com/chenkie/angular-auth)|||
-|17|[@chenkie](https://github.com/chenkie)/[**angular2-user-authentication**](https://github.com/chenkie/angular2-user-authentication)|||
 |16|[@benfred](https://github.com/benfred)/[**simplex-flowers**](https://github.com/benfred/simplex-flowers)|Code to generate abstract flowers using Simplex Noise||
 |16|[@samcfinan](https://github.com/samcfinan)/[**Angular-4-Material-POS**](https://github.com/samcfinan/Angular-4-Material-POS)|POS written in Angular 4 with Angular Material UI|[:arrow_upper_right:](https://angularpos.samfinan.com)|
+|15|[@chenkie](https://github.com/chenkie)/[**ng2-cribs**](https://github.com/chenkie/ng2-cribs)|||
 |15|[@turbolent](https://github.com/turbolent)/[**collection-view**](https://github.com/turbolent/collection-view)|UICollectionView for the web||
-|14|[@chenkie](https://github.com/chenkie)/[**ng2-cribs**](https://github.com/chenkie/ng2-cribs)|||
 |14|[@ihadeed](https://github.com/ihadeed)/[**ionic-native-playground**](https://github.com/ihadeed/ionic-native-playground)|Ionic-Native demo running on Angular 2 and Ionic 2||
 |14|[@programble](https://github.com/programble)/[**careen**](https://github.com/programble/careen)|Straightforward SQL schema migration, never used||
 |13|[@Incognito](https://github.com/Incognito)/[**one-time-secret**](https://github.com/Incognito/one-time-secret)|Self-Host secrets on a host that you choose. Minimal requirements. Designed for easy setup.||
+|11|[@EQuimper](https://github.com/EQuimper)/[**react-native-google-autocomplete**](https://github.com/EQuimper/react-native-google-autocomplete)|A react-native component with render props around the Google Autocomplete Api||
 |11|[@pilwon](https://github.com/pilwon)/[**node-get-config**](https://github.com/pilwon/node-get-config)|Automagically build a config object used throughout an application||
 |11|[@ulaval](https://github.com/ulaval)/[**modul-typescript-template**](https://github.com/ulaval/modul-typescript-template)|Template to start a new project with Modul / Vuejs / Typescript||
-|10|[@EQuimper](https://github.com/EQuimper)/[**react-native-google-autocomplete**](https://github.com/EQuimper/react-native-google-autocomplete)|A react-native component with render props around the Google Autocomplete Api||
 |10|[@ihadeed](https://github.com/ihadeed)/[**ionic-parallax**](https://github.com/ihadeed/ionic-parallax)|Parallax Module for Ionic Framework 2+||
 |10|[@ulaval](https://github.com/ulaval)/[**modul-components**](https://github.com/ulaval/modul-components)|Library of VueJS components.||
 |10|[@varju](https://github.com/varju)/[**typescript-node-mocha-example**](https://github.com/varju/typescript-node-mocha-example)|||
@@ -66,24 +67,26 @@
 |8|[@atrauzzi](https://github.com/atrauzzi)/[**protoculture**](https://github.com/atrauzzi/protoculture)|A slightly opinionated ECMAScript applications framework written in TypeScript||
 |8|[@skellock](https://github.com/skellock)/[**electron-starter**](https://github.com/skellock/electron-starter)|I like Electron. I like you too. Let's go.|[:arrow_upper_right:](https://skellock.github.io/electron-starter)|
 |8|[@turt2live](https://github.com/turt2live)/[**evelium**](https://github.com/turt2live/evelium)|A matrix chat client to facilitate communication amoung communities, organizations, and individuals|[:arrow_upper_right:](https://evelium.io)|
+|7|[@NoelFB](https://github.com/NoelFB)/[**AmbientTS**](https://github.com/NoelFB/AmbientTS)|Small framework for TypeScript HTML5 games||
 |7|[@QTGate](https://github.com/QTGate)/[**atOPN**](https://github.com/QTGate/atOPN)|||
 |7|[@QTGate](https://github.com/QTGate)/[**iOPN**](https://github.com/QTGate/iOPN)|||
 |7|[@atrauzzi](https://github.com/atrauzzi)/[**gerty**](https://github.com/atrauzzi/gerty)|The missing Local development HUD.||
 |7|[@chaopeng](https://github.com/chaopeng)/[**vscode-chromium-codesearch**](https://github.com/chaopeng/vscode-chromium-codesearch)|||
+|7|[@chenkie](https://github.com/chenkie)/[**custom-operators-workshop**](https://github.com/chenkie/custom-operators-workshop)|RxJS Custom Operators Workshop for ng-conf 2018||
 |7|[@chenkie](https://github.com/chenkie)/[**fem-instructors-app**](https://github.com/chenkie/fem-instructors-app)|Client side app for Front End Masters Hapi.js Workshop||
 |7|[@coveo](https://github.com/coveo)/[**react-vapor**](https://github.com/coveo/react-vapor)|Vapor CSS components implemented with React!||
 |7|[@dustinblackman](https://github.com/dustinblackman)/[**nowplaying-widget**](https://github.com/dustinblackman/nowplaying-widget)|A Spotify Now Playing widget that's accessible with anything that can render a webpage||
 |7|[@gizak](https://github.com/gizak)/[**vscode-shortcuts**](https://github.com/gizak/vscode-shortcuts)|VSCode Shortcuts Extension||
 |7|[@jgoz](https://github.com/jgoz)/[**typescript-loader**](https://github.com/jgoz/typescript-loader)|[DEPRECATED] typescript loader for webpack|[:arrow_upper_right:](https://github.com/andreypopp/typescript-loader)|
 |7|[@ulaval](https://github.com/ulaval)/[**modul-website**](https://github.com/ulaval/modul-website)|The official website of Modul||
-|6|[@NoelFB](https://github.com/NoelFB)/[**AmbientTS**](https://github.com/NoelFB/AmbientTS)|Small framework for TypeScript HTML5 games||
 |6|[@bcgov](https://github.com/bcgov)/[**MyGovBC-MSP**](https://github.com/bcgov/MyGovBC-MSP)|||
-|6|[@chenkie](https://github.com/chenkie)/[**custom-operators-workshop**](https://github.com/chenkie/custom-operators-workshop)|RxJS Custom Operators Workshop for ng-conf 2018||
 |6|[@lemonmade](https://github.com/lemonmade)/[**graphql-tools**](https://github.com/lemonmade/graphql-tools)|A collection of developer-focused GraphQL tools||
 |6|[@pilwon](https://github.com/pilwon)/[**node-megabus**](https://github.com/pilwon/node-megabus)|Megabus Ticket Finder||
 |6|[@ulaval](https://github.com/ulaval)/[**vuejs-typescript-template**](https://github.com/ulaval/vuejs-typescript-template)|Template to start a new project with Vuejs / Typescript||
 |5|[@DenisCarriere](https://github.com/DenisCarriere)/[**geojson-writer**](https://github.com/DenisCarriere/geojson-writer)|Reads & writes GeoJSON files based on RFC 7946|[:arrow_upper_right:](http://www.macwright.org/2016/11/07/the-geojson-ietf-standard.html)|
 |5|[@DylanPiercey](https://github.com/DylanPiercey)/[**mini-querystring**](https://github.com/DylanPiercey/mini-querystring)|🎻 Lightweight universal querystring parser.||
+|5|[@EQuimper](https://github.com/EQuimper)/[**airbnb-meet-hoteltonight-tutorial**](https://github.com/EQuimper/airbnb-meet-hoteltonight-tutorial)|WIP||
+|5|[@babelouest](https://github.com/babelouest)/[**hutch**](https://github.com/babelouest/hutch)|Online password and secret locker|[:arrow_upper_right:](https://babelouest.github.io/hutch/)|
 |5|[@eclipsesource](https://github.com/eclipsesource)/[**JsonFormsEditor**](https://github.com/eclipsesource/JsonFormsEditor)|||
 |5|[@mirego](https://github.com/mirego)/[**accent-cli**](https://github.com/mirego/accent-cli)|Sync, merge and export with the Accent API.|[:arrow_upper_right:](https://www.accent.reviews)|
 |5|[@nexus-uw](https://github.com/nexus-uw)/[**vscode-gtm**](https://github.com/nexus-uw/vscode-gtm)||[:arrow_upper_right:](https://marketplace.visualstudio.com/items?itemName=s3ramsay.vscode-gtm)|
@@ -92,12 +95,11 @@
 |4|[@BeameryHQ](https://github.com/BeameryHQ)/[**QueryCraft**](https://github.com/BeameryHQ/QueryCraft)|A Multi-Database JavaScript query builder|[:arrow_upper_right:](https://beameryhq.github.io/QueryCraft/)|
 |4|[@DenisCarriere](https://github.com/DenisCarriere)/[**slippy-tile**](https://github.com/DenisCarriere/slippy-tile)|Slippy Tile helps parse a Tile scheme URL from a given Tile [x, y, zoom].|[:arrow_upper_right:](https://npm.runkit.com/slippy-tile)|
 |4|[@DylanPiercey](https://github.com/DylanPiercey)/[**mini-url**](https://github.com/DylanPiercey/mini-url)|📖 Lightweight universal url parser.||
-|4|[@EQuimper](https://github.com/EQuimper)/[**airbnb-meet-hoteltonight-tutorial**](https://github.com/EQuimper/airbnb-meet-hoteltonight-tutorial)|WIP||
 |4|[@KesterTong](https://github.com/KesterTong)/[**phoshpor-notebook**](https://github.com/KesterTong/phoshpor-notebook)|||
 |4|[@ShMcK](https://github.com/ShMcK)/[**atom-plugin-react-boilerplate**](https://github.com/ShMcK/atom-plugin-react-boilerplate)|A skeleton for building Atom plugins in React||
 |4|[@ShMcK](https://github.com/ShMcK)/[**redux-tictactoe**](https://github.com/ShMcK/redux-tictactoe)|Redux TicTacToe||
-|4|[@babelouest](https://github.com/babelouest)/[**hutch**](https://github.com/babelouest/hutch)|Online password and secret locker|[:arrow_upper_right:](https://babelouest.github.io/hutch/)|
 |4|[@charpeni](https://github.com/charpeni)/[**angular-cli-circleci**](https://github.com/charpeni/angular-cli-circleci)|:wrench: :books: This repository was used to determine the best way to test a project generated with angular-cli on CircleCI.||
+|4|[@danieljharvey](https://github.com/danieljharvey)/[**redux-atomic**](https://github.com/danieljharvey/redux-atomic)|Give Those Typing Hands A Break||
 |4|[@dsherret](https://github.com/dsherret)/[**barrel-maintainer**](https://github.com/dsherret/barrel-maintainer)|Automated real-time maintenance of barrels in JavaScript and TypeScript.||
 |4|[@dsherret](https://github.com/dsherret)/[**code-block-writer**](https://github.com/dsherret/code-block-writer)|A simple code writer that assists with formatting and visualizing blocks of JavaScript or TypeScript code.||
 |4|[@eclipsesource](https://github.com/eclipsesource)/[**angular-tutorial**](https://github.com/eclipsesource/angular-tutorial)|Angular Tutorial for EclipseCon Europe 2017||

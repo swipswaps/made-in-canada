@@ -1,23 +1,23 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2733|[@pangloss](https://github.com/pangloss)/[**vim-javascript**](https://github.com/pangloss/vim-javascript)|Vastly improved Javascript indentation and syntax support in Vim.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4452)|
+|2738|[@pangloss](https://github.com/pangloss)/[**vim-javascript**](https://github.com/pangloss/vim-javascript)|Vastly improved Javascript indentation and syntax support in Vim.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4452)|
 |794|[@gf3](https://github.com/gf3)/[**dotfiles**](https://github.com/gf3/dotfiles)|config for neovim, tmux, molotov colourscheme, and more||
-|725|[@jpalardy](https://github.com/jpalardy)/[**vim-slime**](https://github.com/jpalardy/vim-slime)|A vim plugin to give you some slime. (Emacs)|[:arrow_upper_right:](http://technotales.wordpress.com/2007/10/03/like-slime-for-vim/)|
+|728|[@jpalardy](https://github.com/jpalardy)/[**vim-slime**](https://github.com/jpalardy/vim-slime)|A vim plugin to give you some slime. (Emacs)|[:arrow_upper_right:](http://technotales.wordpress.com/2007/10/03/like-slime-for-vim/)|
 |694|[@myusuf3](https://github.com/myusuf3)/[**numbers.vim**](https://github.com/myusuf3/numbers.vim)|numbers.vim is a vim plugin for better line numbers|[:arrow_upper_right:](http://myusuf3.github.com/numbers.vim/)|
-|432|[@svermeulen](https://github.com/svermeulen)/[**vim-easyclip**](https://github.com/svermeulen/vim-easyclip)|Simplified clipboard functionality for Vim||
+|433|[@svermeulen](https://github.com/svermeulen)/[**vim-easyclip**](https://github.com/svermeulen/vim-easyclip)|Simplified clipboard functionality for Vim||
 |389|[@tommcdo](https://github.com/tommcdo)/[**vim-exchange**](https://github.com/tommcdo/vim-exchange)|Easy text exchange operator for Vim||
-|298|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
+|301|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
 |211|[@dgryski](https://github.com/dgryski)/[**vim-godef**](https://github.com/dgryski/vim-godef)|vim plugin providing godef support||
 |131|[@myusuf3](https://github.com/myusuf3)/[**dotfiles**](https://github.com/myusuf3/dotfiles)|myusuf3's dotfiles||
-|126|[@amacgregor](https://github.com/amacgregor)/[**dot-files**](https://github.com/amacgregor/dot-files)|Dotfiles repository||
-|111|[@juliosueiras](https://github.com/juliosueiras)/[**vim-terraform-completion**](https://github.com/juliosueiras/vim-terraform-completion)|A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool||
+|127|[@amacgregor](https://github.com/amacgregor)/[**dot-files**](https://github.com/amacgregor/dot-files)|Dotfiles repository||
+|113|[@juliosueiras](https://github.com/juliosueiras)/[**vim-terraform-completion**](https://github.com/juliosueiras/vim-terraform-completion)|A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool||
 |84|[@lfilho](https://github.com/lfilho)/[**cosco.vim**](https://github.com/lfilho/cosco.vim)|VIM colon and semicolon insertion bliss||
 |73|[@idbrii](https://github.com/idbrii)/[**AsyncCommand**](https://github.com/idbrii/AsyncCommand)|AsyncCommand allows you to execute shell commands without waiting for them  to complete. When the application terminates, its output can be loaded into  a vim buffer.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3431)|
 |72|[@jpalardy](https://github.com/jpalardy)/[**dotfiles**](https://github.com/jpalardy/dotfiles)|My collection of config files (bash, vim, …)||
 |55|[@jperras](https://github.com/jperras)/[**vim-dotfiles**](https://github.com/jperras/vim-dotfiles)|Carefully crafted, curated and somewhat Python-oriented Vim development environment||
 |46|[@MilesCranmer](https://github.com/MilesCranmer)/[**gso**](https://github.com/MilesCranmer/gso)|🏃  Automatic programming in Vim. Works by copy-pasting Stack Overflow answers.||
+|41|[@ujihisa](https://github.com/ujihisa)/[**repl.vim**](https://github.com/ujihisa/repl.vim)|irb, ghci, and anything else. in Vim.||
 |40|[@ujihisa](https://github.com/ujihisa)/[**config**](https://github.com/ujihisa/config)|||
-|40|[@ujihisa](https://github.com/ujihisa)/[**repl.vim**](https://github.com/ujihisa/repl.vim)|irb, ghci, and anything else. in Vim.||
 |37|[@remiprev](https://github.com/remiprev)/[**dotfiles**](https://github.com/remiprev/dotfiles)|All my dotfiles (vim, zsh, tmux, etc.) in a single place||
 |35|[@martinda](https://github.com/martinda)/[**Jenkinsfile-vim-syntax**](https://github.com/martinda/Jenkinsfile-vim-syntax)|Jenkinsfile DSL vim syntax||
 |31|[@robbles](https://github.com/robbles)/[**logstash.vim**](https://github.com/robbles/logstash.vim)|highlights logstash configuration files||
@@ -52,6 +52,7 @@
 |5|[@kbaribeau](https://github.com/kbaribeau)/[**dotfiles**](https://github.com/kbaribeau/dotfiles)|~/.* files for my mac (git, autotest, etc.)||
 |5|[@stewart](https://github.com/stewart)/[**dotfiles**](https://github.com/stewart/dotfiles)|.dotfiles||
 |5|[@tiagonbotelho](https://github.com/tiagonbotelho)/[**vimrc**](https://github.com/tiagonbotelho/vimrc)|My personal .vimrc configuration||
+|4|[@AGhost-7](https://github.com/AGhost-7)/[**critiq.vim**](https://github.com/AGhost-7/critiq.vim)|Github code reviews from Neovim||
 |4|[@SpenserJ](https://github.com/SpenserJ)/[**dotfiles**](https://github.com/SpenserJ/dotfiles)|||
 |4|[@dmix](https://github.com/dmix)/[**elvish.vim**](https://github.com/dmix/elvish.vim)|Vim plugin for the Elvish unix shell with syntax highlighting||
 |4|[@horse-latitudes](https://github.com/horse-latitudes)/[**horse-vimfiles**](https://github.com/horse-latitudes/horse-vimfiles)|dotfiles & somesuch|[:arrow_upper_right:](https://github.com/horse-latitudes/horse-vimfiles.git)|
@@ -62,7 +63,6 @@
 |4|[@sjackman](https://github.com/sjackman)/[**dotfiles**](https://github.com/sjackman/dotfiles)|~/.*|[:arrow_upper_right:](http://dotfiles.github.io/)|
 |4|[@tdryer](https://github.com/tdryer)/[**dotfiles**](https://github.com/tdryer/dotfiles)|tdryer's dotfiles||
 |4|[@ujihisa](https://github.com/ujihisa)/[**ft-cmake**](https://github.com/ujihisa/ft-cmake)|indent/cmake.vim and syntax/cmake.vim exist, but no dict/cmake.txt exist yet. This is it.||
-|3|[@AGhost-7](https://github.com/AGhost-7)/[**critiq.vim**](https://github.com/AGhost-7/critiq.vim)|Github code reviews from Neovim||
 |3|[@GCorbel](https://github.com/GCorbel)/[**dotfiles**](https://github.com/GCorbel/dotfiles)|||
 |3|[@Gonzih](https://github.com/Gonzih)/[**.vim**](https://github.com/Gonzih/.vim)|vim dotfiles||
 |3|[@arteymix](https://github.com/arteymix)/[**vimrc**](https://github.com/arteymix/vimrc)|Vim setup I use every day||
