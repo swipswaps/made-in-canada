@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|15061|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
+|15114|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
 |111|[@burtonsamograd](https://github.com/burtonsamograd)/[**emacs-jit**](https://github.com/burtonsamograd/emacs-jit)|Emacs with an Emacs Lisp JIT (Just In Time) compiler using libjit.||
 |110|[@syl20bnr](https://github.com/syl20bnr)/[**evil-escape**](https://github.com/syl20bnr/evil-escape)|Customizable key sequence to escape from insert state and everything else in Emacs.||
 |78|[@atgreen](https://github.com/atgreen)/[**paperless**](https://github.com/atgreen/paperless)|Emacs assisted PDF document filing||
@@ -8,16 +8,16 @@
 |68|[@syl20bnr](https://github.com/syl20bnr)/[**evil-lisp-state**](https://github.com/syl20bnr/evil-lisp-state)|An evil state to navigate Lisp code and modify it with smartparens||
 |61|[@rudolfolah](https://github.com/rudolfolah)/[**emacs-sos**](https://github.com/rudolfolah/emacs-sos)|StackOverflow Search (SOS) mode for Emacs.||
 |45|[@rudolfolah](https://github.com/rudolfolah)/[**org-doing**](https://github.com/rudolfolah/org-doing)|keep track of what you're doing right now and what you've worked on before|[:arrow_upper_right:](http://omouse.github.io/org-doing)|
+|40|[@syl20bnr](https://github.com/syl20bnr)/[**spacelpa**](https://github.com/syl20bnr/spacelpa)|ELPA repository for stable versions of Spacemacs||
 |39|[@jimeh](https://github.com/jimeh)/[**twilight-bright-theme.el**](https://github.com/jimeh/twilight-bright-theme.el)|A Emacs port of the TextMate theme by the same name with some minor tweaks and additions.||
 |38|[@syl20bnr](https://github.com/syl20bnr)/[**evil-tutor**](https://github.com/syl20bnr/evil-tutor)|Vimtutor adapted to Emacs+Evil and wrapped in a major mode.||
-|38|[@syl20bnr](https://github.com/syl20bnr)/[**spacelpa**](https://github.com/syl20bnr/spacelpa)|ELPA repository for stable versions of Spacemacs||
 |37|[@jimeh](https://github.com/jimeh)/[**twilight-anti-bright-theme**](https://github.com/jimeh/twilight-anti-bright-theme)|A light-on-dark Emacs and TextMate theme inspired by the dark-on-light Twilight Bright TextMate theme.||
 |33|[@burke](https://github.com/burke)/[**color-theme-ir-black**](https://github.com/burke/color-theme-ir-black)|[abandoned] IR Black Color Theme for Emacs.||
 |33|[@syl20bnr](https://github.com/syl20bnr)/[**evil-iedit-state**](https://github.com/syl20bnr/evil-iedit-state)|Slick Evil states for iedit.||
 |32|[@jimeh](https://github.com/jimeh)/[**birds-of-paradise-plus-theme.el**](https://github.com/jimeh/birds-of-paradise-plus-theme.el)|A Emacs port of Joseph Bergantine's light-on-dark theme by the same name.||
 |30|[@rudolfolah](https://github.com/rudolfolah)/[**angularjs-mode**](https://github.com/rudolfolah/angularjs-mode)|AngularJS utilities and major modes for Emacs (angular-mode for javascript, angular-html-mode for html templates)|[:arrow_upper_right:](http://rudolfolah.github.io/angularjs-mode)|
 |28|[@jimeh](https://github.com/jimeh)/[**.emacs.d**](https://github.com/jimeh/.emacs.d)|My personal Emacs config with any quirks, oddities, bugs, and man-eating errors I live with on a daily basis.||
-|20|[@dpo](https://github.com/dpo)/[**ampl-mode**](https://github.com/dpo/ampl-mode)|Syntax highlighting mode for the AMPL modeling language||
+|21|[@dpo](https://github.com/dpo)/[**ampl-mode**](https://github.com/dpo/ampl-mode)|Syntax highlighting mode for the AMPL modeling language||
 |20|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs-elpa-mirror**](https://github.com/syl20bnr/spacemacs-elpa-mirror)|ELPA archive for Spacemacs packages.||
 |16|[@syl20bnr](https://github.com/syl20bnr)/[**vi-tilde-fringe**](https://github.com/syl20bnr/vi-tilde-fringe)|Display tildes on empty lines in the Emacs fringe a la Vi.||
 |14|[@j0ni](https://github.com/j0ni)/[**phoenix-dark-pink**](https://github.com/j0ni/phoenix-dark-pink)|Phoenix Dark Pink theme port for emacs||

@@ -3,23 +3,23 @@
 |165|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
 |138|[@agilebits](https://github.com/agilebits)/[**onepassword-utilities**](https://github.com/agilebits/onepassword-utilities)|Utilities for 1Password||
 |123|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
-|115|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
+|121|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |109|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](http://www.metacpan.org/module/PerlPowerTools/)|
 |93|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
 |76|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
-|73|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
+|75|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
 |71|[@mlangill](https://github.com/mlangill)/[**microbiome_helper**](https://github.com/mlangill/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
-|53|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
+|54|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
 |41|[@yanick](https://github.com/yanick)/[**git-cpan-patch**](https://github.com/yanick/git-cpan-patch)|System to write patches against CPAN modules via Git||
 |38|[@briandfoy](https://github.com/briandfoy)/[**Learning-Perl-Sample-Files**](https://github.com/briandfoy/Learning-Perl-Sample-Files)|Extra files for use with Learning Perl|[:arrow_upper_right:](http://www.learning-perl.org/)|
 |36|[@moshen](https://github.com/moshen)/[**Image-Term256Color**](https://github.com/moshen/Image-Term256Color)|Display images in your 256 color terminal! (kinda) - superseded by https://github.com/moshen/gotermimg||
 |33|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
 |24|[@sjackman](https://github.com/sjackman)/[**fastascripts**](https://github.com/sjackman/fastascripts)|Manipulate FASTA files||
+|23|[@bcgsc](https://github.com/bcgsc)/[**LINKS**](https://github.com/bcgsc/LINKS)|Long Interval Nucleotide K-mer Scaffolder||
 |23|[@briandfoy](https://github.com/briandfoy)/[**cpan-script**](https://github.com/briandfoy/cpan-script)|(Perl) Interact with CPAN from the command line|[:arrow_upper_right:](http://search.cpan.org/dist/cpan-script)|
-|21|[@bcgsc](https://github.com/bcgsc)/[**LINKS**](https://github.com/bcgsc/LINKS)|Long Interval Nucleotide K-mer Scaffolder||
+|21|[@bcgsc](https://github.com/bcgsc)/[**mirna**](https://github.com/bcgsc/mirna)|microRNA profiling pipeline||
 |21|[@hoytech](https://github.com/hoytech)/[**unliner**](https://github.com/hoytech/unliner)|Untangle your unix pipeline one-liners||
 |20|[@yanick](https://github.com/yanick)/[**Vim-X**](https://github.com/yanick/Vim-X)|Write Perl functions within Vim||
-|19|[@bcgsc](https://github.com/bcgsc)/[**mirna**](https://github.com/bcgsc/mirna)|microRNA profiling pipeline||
 |19|[@mlangill](https://github.com/mlangill)/[**MicrobeDB**](https://github.com/mlangill/MicrobeDB)|Provides a local database of in-house and published genomes for Bacteria and Archaea from NCBI||
 |19|[@sestaton](https://github.com/sestaton)/[**Transposome**](https://github.com/sestaton/Transposome)|A toolkit for annotation of transposable element families from unassembled sequence reads|[:arrow_upper_right:](http://sestaton.github.io/Transposome)|
 |18|[@bartman](https://github.com/bartman)/[**urxvt-scripts**](https://github.com/bartman/urxvt-scripts)|my urxvt scripts|[:arrow_upper_right:](http://www.jukie.net/~bart/blog/tag/urxvt)|
@@ -79,6 +79,7 @@
 |5|[@davepagurek](https://github.com/davepagurek)/[**Sari-Wallpaper**](https://github.com/davepagurek/Sari-Wallpaper)|A joke I'm playing on my sister where I remotely change her wallpaper to pictures of me.||
 |5|[@hoytech](https://github.com/hoytech)/[**AnyEvent-Task**](https://github.com/hoytech/AnyEvent-Task)|Client/server-based asynchronous worker pool||
 |5|[@hoytech](https://github.com/hoytech)/[**Log-Defer**](https://github.com/hoytech/Log-Defer)|Deferred logs and timers||
+|5|[@jandubois](https://github.com/jandubois)/[**win32-ole**](https://github.com/jandubois/win32-ole)|||
 |5|[@yanick](https://github.com/yanick)/[**Catalyst-Plugin-Sitemap**](https://github.com/yanick/Catalyst-Plugin-Sitemap)|Add sitemap support for your Catalyst application||
 |5|[@yanick](https://github.com/yanick)/[**pod-manual**](https://github.com/yanick/pod-manual)|Aggregates several Perl PODs into a single manual||
 |5|[@yanick](https://github.com/yanick)/[**www-ohloh-api**](https://github.com/yanick/www-ohloh-api)|Ohloh API implementation for Perl||
@@ -93,7 +94,6 @@
 |4|[@bricas](https://github.com/bricas)/[**gedcom-foaf**](https://github.com/bricas/gedcom-foaf)|Output FOAF files from Gedcom individuals and families|[:arrow_upper_right:](http://search.cpan.org/dist/Gedcom-FOAF/)|
 |4|[@hoytech](https://github.com/hoytech)/[**Vcdiff**](https://github.com/hoytech/Vcdiff)|Vcdiff - diff and patch for binary data||
 |4|[@jandubois](https://github.com/jandubois)/[**win32-daemon**](https://github.com/jandubois/win32-daemon)|||
-|4|[@jandubois](https://github.com/jandubois)/[**win32-ole**](https://github.com/jandubois/win32-ole)|||
 |4|[@johnlees](https://github.com/johnlees)/[**bioinformatics**](https://github.com/johnlees/bioinformatics)|Utilities written for bioinformatics|[:arrow_upper_right:](http://leesjohn.wordpress.com/)|
 |4|[@jts](https://github.com/jts)/[**sga-extra**](https://github.com/jts/sga-extra)|Extra tools and utilities for sga||
 |4|[@obilodeau](https://github.com/obilodeau)/[**infosec-tools**](https://github.com/obilodeau/infosec-tools)|Various lame infosec tools that I decided not to keep to myself.||
