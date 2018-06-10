@@ -11,7 +11,6 @@
 |4|[@supernovus](https://github.com/supernovus)/[**perl6-db-model-easy**](https://github.com/supernovus/perl6-db-model-easy)|Build database models in Perl 6, easily.||
 |4|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-666**](https://github.com/zoffixznet/perl6-666)|Perl 6 Module: ווו||
 |4|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Pretty-Topic**](https://github.com/zoffixznet/perl6-Pretty-Topic)|Perl 6 module: alias $_ topical variable to something prettier||
-|3|[@briandfoy](https://github.com/briandfoy)/[**html-simplelinkextor**](https://github.com/briandfoy/html-simplelinkextor)|(Perl) Extract links from HTML|[:arrow_upper_right:](http://search.cpan.org/dist/HTML-SimpleLinkExtor)|
 |3|[@supernovus](https://github.com/supernovus)/[**perl6-datetime-math**](https://github.com/supernovus/perl6-datetime-math)|DateTime::Math -- provides common math operations on DateTime objects||
 |3|[@supernovus](https://github.com/supernovus)/[**perl6-mime-types**](https://github.com/supernovus/perl6-mime-types)|Library for parsing mime.types files and querying the results.||
 |3|[@zoffixznet](https://github.com/zoffixznet)/[**Rele6sr**](https://github.com/zoffixznet/Rele6sr)|Rakudo Perl 6 Compiler Release Tool||
