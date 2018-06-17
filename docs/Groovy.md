@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|119|[@yracine](https://github.com/yracine)/[**device-type.myecobee**](https://github.com/yracine/device-type.myecobee)|SmartThings-ecobee integration||
+|120|[@yracine](https://github.com/yracine)/[**device-type.myecobee**](https://github.com/yracine/device-type.myecobee)|SmartThings-ecobee integration||
 |61|[@f2prateek](https://github.com/f2prateek)/[**gradle-android-javafmt-plugin**](https://github.com/f2prateek/gradle-android-javafmt-plugin)|||
 |40|[@f2prateek](https://github.com/f2prateek)/[**android-checkstyle-plugin**](https://github.com/f2prateek/android-checkstyle-plugin)|Configures the checkstyle plugin for Android projects||
 |26|[@kellyrob99](https://github.com/kellyrob99)/[**Jenkins-api-tour**](https://github.com/kellyrob99/Jenkins-api-tour)|Code demonstrating how to interact with the API layer of a Jenkins/Hudson build server.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2011/03/27/hooking-into-the-jenkinshudson-api/)|
@@ -15,11 +15,11 @@
 |6|[@eclipsesource](https://github.com/eclipsesource)/[**dockerizor**](https://github.com/eclipsesource/dockerizor)|Gradle plug-in to create a Docker image that includes an Eclipse Virgo container||
 |6|[@mbarnathan](https://github.com/mbarnathan)/[**Synchronized-Dimming**](https://github.com/mbarnathan/Synchronized-Dimming)|Allows many SmartThings dimmers to act as one.||
 |6|[@yracine](https://github.com/yracine)/[**customYaleLockWithGoodTimeout**](https://github.com/yracine/customYaleLockWithGoodTimeout)|Custom Yale Lock With good timeout to avoid wrong status at Smartthings hub||
+|5|[@codetojoy](https://github.com/codetojoy)/[**talk_maritimedevcon_groovy**](https://github.com/codetojoy/talk_maritimedevcon_groovy)|Demo code for talk at Maritime DevCon 2016.||
 |5|[@dansmith65](https://github.com/dansmith65)/[**ooScriptMaster**](https://github.com/dansmith65/ooScriptMaster)|object oriented ScriptMaster|[:arrow_upper_right:](http://dansmith65.github.com/ooScriptMaster/groovydoc/)|
 |5|[@kellyrob99](https://github.com/kellyrob99)/[**groovy-http**](https://github.com/kellyrob99/groovy-http)|||
 |4|[@anthonydahanne](https://github.com/anthonydahanne)/[**JenkinsHudsonScripts**](https://github.com/anthonydahanne/JenkinsHudsonScripts)|Collection of scripts to interact with Jenkins and Hudson remote APIs and Update Centers||
 |4|[@codetojoy](https://github.com/codetojoy)/[**easter_eggs_for_groovy**](https://github.com/codetojoy/easter_eggs_for_groovy)|Basic examples for Groovy. Usage of 'egg' here is SSCCE: http://sscce.org||
-|4|[@codetojoy](https://github.com/codetojoy)/[**talk_maritimedevcon_groovy**](https://github.com/codetojoy/talk_maritimedevcon_groovy)|Demo code for talk at Maritime DevCon 2016.||
 |4|[@davidkiss](https://github.com/davidkiss)/[**grails-todo**](https://github.com/davidkiss/grails-todo)|Sample project on building a modern web application using Grails + Spring Security + Angular JS + Twitter Bootstrap.||
 |3|[@DavidYKay](https://github.com/DavidYKay)/[**gradle-jenkins-example**](https://github.com/DavidYKay/gradle-jenkins-example)|Example of putting Gradle and Jenkins together for Android||
 |3|[@DigitalState](https://github.com/DigitalState)/[**Camunda-Spock-Testing**](https://github.com/DigitalState/Camunda-Spock-Testing)|Spock Framework Specification Testing / Unit Testing for Camunda BPM Engine/Processes|[:arrow_upper_right:](https://forum.camunda.org/t/unit-testing-using-spock-framework-for-cucumber-style-testing-shared-engine-unit-testing-dmn-bpmn/5635?u=stephenott)|

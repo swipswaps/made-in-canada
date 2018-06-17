@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|802|[@jmacdonald](https://github.com/jmacdonald)/[**amp**](https://github.com/jmacdonald/amp)|A complete text editor for your terminal.|[:arrow_upper_right:](https://amp.rs)|
-|388|[@trishume](https://github.com/trishume)/[**syntect**](https://github.com/trishume/syntect)|Rust library for syntax highlighting using Sublime Text syntax definitions.|[:arrow_upper_right:](https://docs.rs/syntect)|
-|246|[@mystor](https://github.com/mystor)/[**rust-cpp**](https://github.com/mystor/rust-cpp)|Embed C++ directly inside your rust code!||
+|803|[@jmacdonald](https://github.com/jmacdonald)/[**amp**](https://github.com/jmacdonald/amp)|A complete text editor for your terminal.|[:arrow_upper_right:](https://amp.rs)|
+|389|[@trishume](https://github.com/trishume)/[**syntect**](https://github.com/trishume/syntect)|Rust library for syntax highlighting using Sublime Text syntax definitions.|[:arrow_upper_right:](https://docs.rs/syntect)|
+|249|[@mystor](https://github.com/mystor)/[**rust-cpp**](https://github.com/mystor/rust-cpp)|Embed C++ directly inside your rust code!||
 |215|[@Arvanaghi](https://github.com/Arvanaghi)/[**CheckPlease**](https://github.com/Arvanaghi/CheckPlease)|Sandbox evasion modules written in PowerShell, Python, Go, Ruby, C, C#, Perl, and Rust.|[:arrow_upper_right:](https://twitter.com/arvanaghi)|
-|150|[@luqmana](https://github.com/luqmana)/[**rust-opencl**](https://github.com/luqmana/rust-opencl)|OpenCL bindings for Rust.||
+|151|[@luqmana](https://github.com/luqmana)/[**rust-opencl**](https://github.com/luqmana/rust-opencl)|OpenCL bindings for Rust.||
+|119|[@programble](https://github.com/programble)/[**scraper**](https://github.com/programble/scraper)|HTML parsing and querying with CSS selectors|[:arrow_upper_right:](https://docs.rs/scraper)|
 |119|[@thestinger](https://github.com/thestinger)/[**rust-core**](https://github.com/thestinger/rust-core)|a lightweight standard library for rust with freestanding support (deprecated in favour of libcore upstream)||
-|117|[@programble](https://github.com/programble)/[**scraper**](https://github.com/programble/scraper)|HTML parsing and querying with CSS selectors|[:arrow_upper_right:](https://docs.rs/scraper)|
 |66|[@luqmana](https://github.com/luqmana)/[**rust-psp-hello**](https://github.com/luqmana/rust-psp-hello)|Simple Hello World in Rust to run on a PSP.||
 |65|[@MitMaro](https://github.com/MitMaro)/[**git-interactive-rebase-tool**](https://github.com/MitMaro/git-interactive-rebase-tool)|Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.|[:arrow_upper_right:](http://gitrebasetool.mitmaro.ca/)|
 |39|[@zsck](https://github.com/zsck)/[**clink**](https://github.com/zsck/clink)|A developer assistance tool to help with refactoring and keeping related code up to date with changes||
@@ -18,10 +18,10 @@
 |22|[@abh1nav](https://github.com/abh1nav)/[**docker-rust**](https://github.com/abh1nav/docker-rust)|Docker client library written in Rust||
 |21|[@programble](https://github.com/programble)/[**inth-oauth2**](https://github.com/programble/inth-oauth2)|OAuth2 client for Rust|[:arrow_upper_right:](https://docs.rs/crate/inth-oauth2)|
 |21|[@tokenrove](https://github.com/tokenrove)/[**fixie-trie**](https://github.com/tokenrove/fixie-trie)|Compact tries for fixed-width keys||
+|18|[@stewart](https://github.com/stewart)/[**rff**](https://github.com/stewart/rff)|:microscope: rff: fuzzy finder||
 |18|[@trishume](https://github.com/trishume)/[**faiyels**](https://github.com/trishume/faiyels)|See all your code rendered at once and zoom around it using Rust & GPU rendering.||
 |18|[@trishume](https://github.com/trishume)/[**quickdown**](https://github.com/trishume/quickdown)|Fast lightweight Markdown viewer with Rust and Webrender. HtN 2017||
 |17|[@OJFord](https://github.com/OJFord)/[**passbase**](https://github.com/OJFord/passbase)|Keybase File System (KBFS)-backed CLI-based password manager||
-|17|[@stewart](https://github.com/stewart)/[**rff**](https://github.com/stewart/rff)|:microscope: rff: fuzzy finder||
 |16|[@hsoft](https://github.com/hsoft)/[**civng**](https://github.com/hsoft/civng)|Civ 5 implementation in Rust with a text-based UI||
 |16|[@trishume](https://github.com/trishume)/[**dayder**](https://github.com/trishume/dayder)|Search lots of data sets for spurious correlations|[:arrow_upper_right:](http://dayder.thume.ca/)|
 |16|[@yrashk](https://github.com/yrashk)/[**serde_fs**](https://github.com/yrashk/serde_fs)|[De]serializing data structures as files||
@@ -75,6 +75,7 @@
 |3|[@dashed](https://github.com/dashed)/[**tangerine-transactions-to-ledger**](https://github.com/dashed/tangerine-transactions-to-ledger)|Convert Tangerine Bank transactions to ledger-cli compatible transactions||
 |3|[@defcronyke](https://github.com/defcronyke)/[**blockchain-rust**](https://github.com/defcronyke/blockchain-rust)|The simplest type of blockchain.||
 |3|[@iKevinY](https://github.com/iKevinY)/[**corogue**](https://github.com/iKevinY/corogue)|An experimental GBA game written in Rust.||
+|3|[@jonalmeida](https://github.com/jonalmeida)/[**ws-p2p**](https://github.com/jonalmeida/ws-p2p)|An example of a peer-to-peer network imlementing causal ordering using WebSockets||
 |3|[@kevincox](https://github.com/kevincox)/[**rustymedia**](https://github.com/kevincox/rustymedia)|A Transcoding DLNA Server||
 |3|[@lemire](https://github.com/lemire)/[**roaring_rust_benchmark**](https://github.com/lemire/roaring_rust_benchmark)|Basic benchmark to compare different Roaring bitmap implementations in Rust||
 |3|[@nbigaouette](https://github.com/nbigaouette)/[**rust-sorting**](https://github.com/nbigaouette/rust-sorting)|Sorting algorithms implementation in Rust.||

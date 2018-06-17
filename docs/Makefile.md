@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2095|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
+|2096|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
 |321|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
 |104|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/library/composer/)|
 |57|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
@@ -19,8 +19,8 @@
 |11|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_osprey**](https://github.com/sultanqasim/android_device_motorola_osprey)|Device tree for 2015 Moto G (osprey)||
 |10|[@RobLoach](https://github.com/RobLoach)/[**composer.deb**](https://github.com/RobLoach/composer.deb)|Build a Debian package to install and use Composer.|[:arrow_upper_right:](http://getcomposer.org)|
 |10|[@ustwo](https://github.com/ustwo)/[**docker-sauce-connect**](https://github.com/ustwo/docker-sauce-connect)|Builds a Sauce Labs Connect image||
-|8|[@oncletom](https://github.com/oncletom)/[**coursera-ml**](https://github.com/oncletom/coursera-ml)|Setup to evolve through the Machine Learning course.||
 |7|[@jasonish](https://github.com/jasonish)/[**suricata-rpms**](https://github.com/jasonish/suricata-rpms)|Suricata RPMs for CentOS/EL|[:arrow_upper_right:](http://codemonkey.net/suricata-rpms/)|
+|7|[@oncletom](https://github.com/oncletom)/[**coursera-ml**](https://github.com/oncletom/coursera-ml)|Setup to evolve through the Machine Learning course.||
 |7|[@seananderson](https://github.com/seananderson)/[**ggplot2-FISH554**](https://github.com/seananderson/ggplot2-FISH554)|Course notes and exercises on ggplot2 for the FISH554 class at the University of Washington||
 |6|[@bcgsc](https://github.com/bcgsc)/[**abyss-2.0-giab**](https://github.com/bcgsc/abyss-2.0-giab)|:baby_bottle: Assemble the Genome in a Bottle sequencing data|[:arrow_upper_right:](http://dx.doi.org/10.1101/068338)|
 |6|[@gpaterno](https://github.com/gpaterno)/[**openstack_explained**](https://github.com/gpaterno/openstack_explained)|OpenStack Explained e-book - An humanitarian initiative||

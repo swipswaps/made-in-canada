@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |150|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
+|131|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
 |127|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
 |127|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
-|127|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
 |105|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
 |90|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
 |55|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
@@ -23,11 +23,11 @@
 |14|[@nitrix](https://github.com/nitrix)/[**udfs**](https://github.com/nitrix/udfs)|Ubiquitous Distributed File System||
 |14|[@singpolyma](https://github.com/singpolyma)/[**wai-session**](https://github.com/singpolyma/wai-session)|Flexible session middleware for WAI||
 |13|[@csabahruska](https://github.com/csabahruska)/[**jhc-grin**](https://github.com/csabahruska/jhc-grin)|GRIN Haskell backend stripped out from JHC. (GRIN from scratch: https://github.com/grin-tech/grin)||
+|13|[@fosskers](https://github.com/fosskers)/[**kanji**](https://github.com/fosskers/kanji)|Haskell suite for determining what 級 (level) of the 漢字検定 (national Kanji exam) a given Kanji belongs to.||
 |13|[@fosskers](https://github.com/fosskers)/[**versions**](https://github.com/fosskers/versions)|Haskell types and parsers for software version numbers.||
 |13|[@takeoutweight](https://github.com/takeoutweight)/[**shade-todomvc**](https://github.com/takeoutweight/shade-todomvc)|Example of using Haste and React.js to implement TodoMVC||
 |12|[@fosskers](https://github.com/fosskers)/[**vectortiles**](https://github.com/fosskers/vectortiles)|A native Haskell codec for Mapbox Vector Tiles.||
 |11|[@csabahruska](https://github.com/csabahruska)/[**demoscene**](https://github.com/csabahruska/demoscene)|||
-|11|[@fosskers](https://github.com/fosskers)/[**kanji**](https://github.com/fosskers/kanji)|Haskell suite for determining what 級 (level) of the 漢字検定 (national Kanji exam) a given Kanji belongs to.||
 |11|[@gregorycollins](https://github.com/gregorycollins)/[**attoparsec-iteratee**](https://github.com/gregorycollins/attoparsec-iteratee)|An adapter to convert attoparsec Parsers into blazing-fast Iteratees||
 |11|[@singpolyma](https://github.com/singpolyma)/[**cheogram**](https://github.com/singpolyma/cheogram)|Groupchat for everyone|[:arrow_upper_right:](https://cheogram.com)|
 |10|[@avieth](https://github.com/avieth)/[**diplomacy**](https://github.com/avieth/diplomacy)|The board game Diplomacy, spoken in Haskell||

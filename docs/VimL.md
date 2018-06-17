@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|187|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
-|142|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
+|189|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
+|143|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |88|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|:rocket: Quickly init a slightly better Vim.||
 |52|[@honza](https://github.com/honza)/[**dockerfile.vim**](https://github.com/honza/dockerfile.vim)|Syntax highlighting for Dockerfiles||
 |50|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
 |45|[@ujihisa](https://github.com/ujihisa)/[**unite-colorscheme**](https://github.com/ujihisa/unite-colorscheme)|A unite.vim plugin||
-|42|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
+|43|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
 |40|[@ujihisa](https://github.com/ujihisa)/[**shadow.vim**](https://github.com/ujihisa/shadow.vim)|That's not the file. That's shadow.||
 |37|[@tommcdo](https://github.com/tommcdo)/[**vim-ninja-feet**](https://github.com/tommcdo/vim-ninja-feet)|Strike from the cursor to either end of a text object||
 |36|[@ujihisa](https://github.com/ujihisa)/[**neoclojure.vim**](https://github.com/ujihisa/neoclojure.vim)|Clojure completion/unite-source Vim plugin, using vital.ProcessManager and Leiningen||
@@ -41,6 +41,7 @@
 |6|[@billkeys](https://github.com/billkeys)/[**Documentation**](https://github.com/billkeys/Documentation)|||
 |6|[@ujihisa](https://github.com/ujihisa)/[**nclipper.vim**](https://github.com/ujihisa/nclipper.vim)|copy lines into clipboard with the line numbers||
 |6|[@ujihisa](https://github.com/ujihisa)/[**unite-rake**](https://github.com/ujihisa/unite-rake)|A Unite.vim plugin to run tasks or to view descriptions easily, using rake command||
+|5|[@chasinglogic](https://github.com/chasinglogic)/[**ChasingLogic-colorscheme-vim**](https://github.com/chasinglogic/ChasingLogic-colorscheme-vim)|The color scheme I created for myself. Thought it might be of use to others.||
 |5|[@gmarik](https://github.com/gmarik)/[**ingretu**](https://github.com/gmarik/ingretu)|a Vim GUI color scheme|[:arrow_upper_right:](http://github.com/gmarik/ingretu)|
 |5|[@iurimatias](https://github.com/iurimatias)/[**jump-tracker**](https://github.com/iurimatias/jump-tracker)|Vim plugin that tracks your cursor when it 'jumps'||
 |5|[@mrandrewandrade](https://github.com/mrandrewandrade)/[**dotfiles**](https://github.com/mrandrewandrade/dotfiles)|A gnarly system manager and portable dotfiles generator|[:arrow_upper_right:](http://mrandrewandrade.com/dotfiles)|
@@ -51,7 +52,6 @@
 |5|[@ujihisa](https://github.com/ujihisa)/[**unite-gem**](https://github.com/ujihisa/unite-gem)|A Unite plugin for RubyGems||
 |5|[@ujihisa](https://github.com/ujihisa)/[**unite-launch**](https://github.com/ujihisa/unite-launch)|powered by quickrun||
 |4|[@bigfish](https://github.com/bigfish)/[**vim4js**](https://github.com/bigfish/vim4js)|Vim goodies for Javascript||
-|4|[@chasinglogic](https://github.com/chasinglogic)/[**ChasingLogic-colorscheme-vim**](https://github.com/chasinglogic/ChasingLogic-colorscheme-vim)|The color scheme I created for myself. Thought it might be of use to others.||
 |4|[@garyharan](https://github.com/garyharan)/[**vim-proto**](https://github.com/garyharan/vim-proto)|Protobuf syntax highlighting bundled for Vim||
 |4|[@idbrii](https://github.com/idbrii)/[**vim-focusclip**](https://github.com/idbrii/vim-focusclip)|Integrate vim and system clipboard without breaking your workflow.||
 |4|[@idbrii](https://github.com/idbrii)/[**vim-perforce**](https://github.com/idbrii/vim-perforce)|Control Perforce from vim|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=240)|

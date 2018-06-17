@@ -4,8 +4,8 @@
 |29|[@Krutonium](https://github.com/Krutonium)/[**OpenRCT2Launcher**](https://github.com/Krutonium/OpenRCT2Launcher)|An Open Source Launcher & Updater for OpenRCT2||
 |29|[@PFCKrutonium](https://github.com/PFCKrutonium)/[**OpenRCT2Launcher**](https://github.com/PFCKrutonium/OpenRCT2Launcher)|An Open Source Launcher & Updater for OpenRCT2||
 |23|[@PFCKrutonium](https://github.com/PFCKrutonium)/[**SkypeAdvertRemover**](https://github.com/PFCKrutonium/SkypeAdvertRemover)|Removes all those pesky advertisements from Skype||
+|22|[@retailcoder](https://github.com/retailcoder)/[**VBTools**](https://github.com/retailcoder/VBTools)|A handful class modules for VB6/VBA||
 |21|[@Krutonium](https://github.com/Krutonium)/[**SkypeAdvertRemover**](https://github.com/Krutonium/SkypeAdvertRemover)|Removes all those pesky advertisements from Skype||
-|21|[@retailcoder](https://github.com/retailcoder)/[**VBTools**](https://github.com/retailcoder/VBTools)|A handful class modules for VB6/VBA||
 |13|[@Krutonium](https://github.com/Krutonium)/[**ESD-Download-Link-Generator**](https://github.com/Krutonium/ESD-Download-Link-Generator)|Generates Download Links to ESD Files, whether  from from Windows Updates or Supplied Information.||
 |13|[@PFCKrutonium](https://github.com/PFCKrutonium)/[**ESD-Download-Link-Generator**](https://github.com/PFCKrutonium/ESD-Download-Link-Generator)|Generates Download Links to ESD Files, whether  from from Windows Updates or Supplied Information.||
 |12|[@iH8sn0w](https://github.com/iH8sn0w)/[**iREB-2.0**](https://github.com/iH8sn0w/iREB-2.0)|A cleaner and more stable version of iDevice from xpwn.||
