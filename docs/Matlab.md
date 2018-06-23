@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|60|[@Elyorcv](https://github.com/Elyorcv)/[**SAE**](https://github.com/Elyorcv/SAE)|Semantic Autoencoder for Zero-shot Learning (Spotlight), CVPR 2017|[:arrow_upper_right:](https://elyorcv.github.io/projects/sae)|
+|63|[@Elyorcv](https://github.com/Elyorcv)/[**SAE**](https://github.com/Elyorcv/SAE)|Semantic Autoencoder for Zero-shot Learning (Spotlight), CVPR 2017|[:arrow_upper_right:](https://elyorcv.github.io/projects/sae)|
 |37|[@bmcfee](https://github.com/bmcfee)/[**mlr**](https://github.com/bmcfee/mlr)|Metric Learning to Rank||
 |29|[@PhDP](https://github.com/PhDP)/[**mlbop**](https://github.com/PhDP/mlbop)|Matlab code for S. Theodoridis' "Machine Learning: A Bayesian and Optimization Perspective" (2015).||
 |28|[@kmyid](https://github.com/kmyid)/[**TILDE**](https://github.com/kmyid/TILDE)|Repository for "TILDE: A Temporally Invariant Learned DEtector", CVPR2015||
@@ -26,6 +26,7 @@
 |4|[@abhineet123](https://github.com/abhineet123)/[**PTF**](https://github.com/abhineet123/PTF)|Python Tracking Framework||
 |4|[@cpmusco](https://github.com/cpmusco)/[**bksvd**](https://github.com/cpmusco/bksvd)|Fast randomized block Krylov method for the singular value decomposition||
 |4|[@dengwirda](https://github.com/dengwirda)/[**aabb-tree**](https://github.com/dengwirda/aabb-tree)|A d-dimensional aabb-tree implementation for MATLAB.||
+|4|[@susanli2016](https://github.com/susanli2016)/[**Machine-Learning-with-AndrewNg**](https://github.com/susanli2016/Machine-Learning-with-AndrewNg)|Programming assignments for Coursera's Machine Learning Course.||
 |4|[@valentinp](https://github.com/valentinp)/[**vpvio**](https://github.com/valentinp/vpvio)|||
 |3|[@G-Wang](https://github.com/G-Wang)/[**Matlab_LSTM**](https://github.com/G-Wang/Matlab_LSTM)|practice lstm implementation in Matlab||
 |3|[@MIT-LCP](https://github.com/MIT-LCP)/[**hdlvef**](https://github.com/MIT-LCP/hdlvef)|LCP project investigating hyperdynamic ejection fraction in critically ill patients||
@@ -33,6 +34,5 @@
 |3|[@abhineet123](https://github.com/abhineet123)/[**MDP_Tracking**](https://github.com/abhineet123/MDP_Tracking)| Reinforcement learning based multi object tracker |[:arrow_upper_right:](http://cvgl.stanford.edu/projects/MDP_tracking/)|
 |3|[@compsust](https://github.com/compsust)/[**ALIP_NILM**](https://github.com/compsust/ALIP_NILM)|An aided linear integer programming (ALIP) non-intrusive load monitoring (NILM) algorithm.||
 |3|[@luster](https://github.com/luster)/[**genre-classification**](https://github.com/luster/genre-classification)|Genre Classification Project, ECE414 Machine Learning||
-|3|[@susanli2016](https://github.com/susanli2016)/[**Machine-Learning-with-AndrewNg**](https://github.com/susanli2016/Machine-Learning-with-AndrewNg)|Programming assignments for Coursera's Machine Learning Course.||
 |3|[@terryum](https://github.com/terryum)/[**Tutorial_MachineLearning_Matlab**](https://github.com/terryum/Tutorial_MachineLearning_Matlab)|A tutorial on machine learning from scratch with Matlab||
 

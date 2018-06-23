@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |189|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
-|143|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
+|145|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |88|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|:rocket: Quickly init a slightly better Vim.||
 |52|[@honza](https://github.com/honza)/[**dockerfile.vim**](https://github.com/honza/dockerfile.vim)|Syntax highlighting for Dockerfiles||
 |50|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
@@ -9,7 +9,6 @@
 |43|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
 |40|[@ujihisa](https://github.com/ujihisa)/[**shadow.vim**](https://github.com/ujihisa/shadow.vim)|That's not the file. That's shadow.||
 |37|[@tommcdo](https://github.com/tommcdo)/[**vim-ninja-feet**](https://github.com/tommcdo/vim-ninja-feet)|Strike from the cursor to either end of a text object||
-|36|[@ujihisa](https://github.com/ujihisa)/[**neoclojure.vim**](https://github.com/ujihisa/neoclojure.vim)|Clojure completion/unite-source Vim plugin, using vital.ProcessManager and Leiningen||
 |32|[@ujihisa](https://github.com/ujihisa)/[**vimshell-ssh**](https://github.com/ujihisa/vimshell-ssh)|the world first vimshell plugin that you can run "vim" command on ssh on vimshell||
 |27|[@tommcdo](https://github.com/tommcdo)/[**vim-fugitive-blame-ext**](https://github.com/tommcdo/vim-fugitive-blame-ext)|Extend tpope/vim-fugitive to show commit message on statusline in :Gblame||
 |23|[@gmarik](https://github.com/gmarik)/[**github-search.vim**](https://github.com/gmarik/github-search.vim)|search Github and clone repos with Vim|[:arrow_upper_right:](http://github.com/gmarik/github-search.vim)|
@@ -80,7 +79,6 @@
 |3|[@idbrii](https://github.com/idbrii)/[**vim-ack**](https://github.com/idbrii/vim-ack)|An Ack plugin for Vim that depends on AsyncCommand||
 |3|[@idbrii](https://github.com/idbrii)/[**vim-man**](https://github.com/idbrii/vim-man)|Display man pages in vim||
 |3|[@juliosueiras](https://github.com/juliosueiras)/[**cakebuild.vim**](https://github.com/juliosueiras/cakebuild.vim)|Vim Syntax for Cake(https://github.com/cake-build/cake)||
-|3|[@rey](https://github.com/rey)/[**.vim**](https://github.com/rey/.vim)|||
 |3|[@saks](https://github.com/saks)/[**.vim**](https://github.com/saks/.vim)|my .vim directory files||
 |3|[@sgraham](https://github.com/sgraham)/[**sgraham**](https://github.com/sgraham/sgraham)|Scott Graham's config files|[:arrow_upper_right:](http://blog.learnr.org/)|
 |3|[@travisjeffery](https://github.com/travisjeffery)/[**vim-testee**](https://github.com/travisjeffery/vim-testee)|super duper testing plugin/extension for Vim||
