@@ -42,6 +42,7 @@
 |6|[@ujihisa](https://github.com/ujihisa)/[**unite-rake**](https://github.com/ujihisa/unite-rake)|A Unite.vim plugin to run tasks or to view descriptions easily, using rake command||
 |5|[@chasinglogic](https://github.com/chasinglogic)/[**ChasingLogic-colorscheme-vim**](https://github.com/chasinglogic/ChasingLogic-colorscheme-vim)|The color scheme I created for myself. Thought it might be of use to others.||
 |5|[@gmarik](https://github.com/gmarik)/[**ingretu**](https://github.com/gmarik/ingretu)|a Vim GUI color scheme|[:arrow_upper_right:](http://github.com/gmarik/ingretu)|
+|5|[@idbrii](https://github.com/idbrii)/[**vim-focusclip**](https://github.com/idbrii/vim-focusclip)|Integrate vim and system clipboard without breaking your workflow.||
 |5|[@iurimatias](https://github.com/iurimatias)/[**jump-tracker**](https://github.com/iurimatias/jump-tracker)|Vim plugin that tracks your cursor when it 'jumps'||
 |5|[@mrandrewandrade](https://github.com/mrandrewandrade)/[**dotfiles**](https://github.com/mrandrewandrade/dotfiles)|A gnarly system manager and portable dotfiles generator|[:arrow_upper_right:](http://mrandrewandrade.com/dotfiles)|
 |5|[@t6d](https://github.com/t6d)/[**dotfiles**](https://github.com/t6d/dotfiles)|My Shell Environment||
@@ -75,7 +76,6 @@
 |3|[@idbrii](https://github.com/idbrii)/[**powerline-sanity**](https://github.com/idbrii/powerline-sanity)|A saner set of themes for vim-powerline||
 |3|[@idbrii](https://github.com/idbrii)/[**statusline-theme-sanity**](https://github.com/idbrii/statusline-theme-sanity)|A saner theme for vim-powerline and vim-airline||
 |3|[@idbrii](https://github.com/idbrii)/[**vim-ack**](https://github.com/idbrii/vim-ack)|An Ack plugin for Vim that depends on AsyncCommand||
-|3|[@idbrii](https://github.com/idbrii)/[**vim-focusclip**](https://github.com/idbrii/vim-focusclip)|Integrate vim and system clipboard without breaking your workflow.||
 |3|[@idbrii](https://github.com/idbrii)/[**vim-man**](https://github.com/idbrii/vim-man)|Display man pages in vim||
 |3|[@juliosueiras](https://github.com/juliosueiras)/[**cakebuild.vim**](https://github.com/juliosueiras/cakebuild.vim)|Vim Syntax for Cake(https://github.com/cake-build/cake)||
 |3|[@saks](https://github.com/saks)/[**.vim**](https://github.com/saks/.vim)|my .vim directory files||

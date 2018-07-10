@@ -19,4 +19,5 @@
 |3|[@jiahao](https://github.com/jiahao)/[**BigFinance.jl**](https://github.com/jiahao/BigFinance.jl)|Analysis of high frequency quantitative data in Julia||
 |3|[@jiahao](https://github.com/jiahao)/[**NetflixPrize.jl**](https://github.com/jiahao/NetflixPrize.jl)|Julia package for handling the Netflix Prize data set of 2006||
 |3|[@tpoisot](https://github.com/tpoisot)/[**Viridis.jl**](https://github.com/tpoisot/Viridis.jl)|Viridis (et al.) palettes for Julia||
+|3|[@una-dinosauria](https://github.com/una-dinosauria)/[**Rayuela.jl**](https://github.com/una-dinosauria/Rayuela.jl)|Library of quantization-based methods for fast similarity search in high dimensions||
 
