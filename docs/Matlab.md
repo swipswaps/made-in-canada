@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|65|[@Elyorcv](https://github.com/Elyorcv)/[**SAE**](https://github.com/Elyorcv/SAE)|Semantic Autoencoder for Zero-shot Learning (Spotlight), CVPR 2017|[:arrow_upper_right:](https://elyorcv.github.io/projects/sae)|
+|67|[@Elyorcv](https://github.com/Elyorcv)/[**SAE**](https://github.com/Elyorcv/SAE)|Semantic Autoencoder for Zero-shot Learning (Spotlight), CVPR 2017|[:arrow_upper_right:](https://elyorcv.github.io/projects/sae)|
 |37|[@bmcfee](https://github.com/bmcfee)/[**mlr**](https://github.com/bmcfee/mlr)|Metric Learning to Rank||
 |30|[@PhDP](https://github.com/PhDP)/[**mlbop**](https://github.com/PhDP/mlbop)|Matlab code for S. Theodoridis' "Machine Learning: A Bayesian and Optimization Perspective" (2015).||
 |29|[@kmyid](https://github.com/kmyid)/[**TILDE**](https://github.com/kmyid/TILDE)|Repository for "TILDE: A Temporally Invariant Learned DEtector", CVPR2015||
@@ -17,13 +17,13 @@
 |9|[@kracwarlock](https://github.com/kracwarlock)/[**Movie-Recommender-and-Score-Prediction-System**](https://github.com/kracwarlock/Movie-Recommender-and-Score-Prediction-System)|Provides Movie Recommendations on the MovieLens ml-100k dataset using Collaborative Filtering||
 |9|[@luster](https://github.com/luster)/[**guitar-effects**](https://github.com/luster/guitar-effects)|Guitar Effects project for Music & Engineering, Fall 2012 at Cooper Union||
 |9|[@terryum](https://github.com/terryum)/[**Human-Robot-Motion-Simulator-based-on-Lie-Group**](https://github.com/terryum/Human-Robot-Motion-Simulator-based-on-Lie-Group)|This is the simulator for the robot or human motion||
-|9|[@una-dinosauria](https://github.com/una-dinosauria)/[**stacked-quantizers**](https://github.com/una-dinosauria/stacked-quantizers)|Very accessible code for my MSc thesis. Cheap quantization method for ANN search also known as Enhanced Residual VQ.||
+|9|[@una-dinosauria](https://github.com/una-dinosauria)/[**stacked-quantizers**](https://github.com/una-dinosauria/stacked-quantizers)|Very accessible code for my MSc thesis. Inexpensive quantization method for ANN search also known as Enhanced Residual VQ.||
 |8|[@axsauze](https://github.com/axsauze)/[**sparse**](https://github.com/axsauze/sparse)|The effects of sparse and group-feature regression models in portfolio optimization.||
 |7|[@ch237](https://github.com/ch237)/[**BayesPoissonFactor**](https://github.com/ch237/BayesPoissonFactor)|Bayesian Poisson Tensor Factorization||
 |6|[@ustunb](https://github.com/ustunb)/[**slim-matlab**](https://github.com/ustunb/slim-matlab)|Optimized scoring systems for classification problems in MATLAB||
+|5|[@abhineet123](https://github.com/abhineet123)/[**PTF**](https://github.com/abhineet123/PTF)|Python Tracking Framework||
 |5|[@mycarta](https://github.com/mycarta)/[**PMKMP**](https://github.com/mycarta/PMKMP)|Matlab function to create perceptual colormaps|[:arrow_upper_right:](http://www.mathworks.com/matlabcentral/fileexchange/28982-perceptually-improved-colormaps)|
 |4|[@MIT-LCP](https://github.com/MIT-LCP)/[**PhysioNetChallengePublic**](https://github.com/MIT-LCP/PhysioNetChallengePublic)|Public Software for the PhysioNet/CinC Challenge Series||
-|4|[@abhineet123](https://github.com/abhineet123)/[**PTF**](https://github.com/abhineet123/PTF)|Python Tracking Framework||
 |4|[@cpmusco](https://github.com/cpmusco)/[**bksvd**](https://github.com/cpmusco/bksvd)|Fast randomized block Krylov method for the singular value decomposition||
 |4|[@dengwirda](https://github.com/dengwirda)/[**aabb-tree**](https://github.com/dengwirda/aabb-tree)|A d-dimensional aabb-tree implementation for MATLAB.||
 |4|[@susanli2016](https://github.com/susanli2016)/[**Machine-Learning-with-AndrewNg**](https://github.com/susanli2016/Machine-Learning-with-AndrewNg)|Programming assignments for Coursera's Machine Learning Course.||

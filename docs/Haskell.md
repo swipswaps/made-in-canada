@@ -25,8 +25,8 @@
 |13|[@fosskers](https://github.com/fosskers)/[**kanji**](https://github.com/fosskers/kanji)|Haskell suite for determining what 級 (level) of the 漢字検定 (national Kanji exam) a given Kanji belongs to.||
 |13|[@fosskers](https://github.com/fosskers)/[**versions**](https://github.com/fosskers/versions)|Haskell types and parsers for software version numbers.||
 |13|[@takeoutweight](https://github.com/takeoutweight)/[**shade-todomvc**](https://github.com/takeoutweight/shade-todomvc)|Example of using Haste and React.js to implement TodoMVC||
+|12|[@csabahruska](https://github.com/csabahruska)/[**demoscene**](https://github.com/csabahruska/demoscene)|Demoscene: Lambda Team||
 |12|[@fosskers](https://github.com/fosskers)/[**vectortiles**](https://github.com/fosskers/vectortiles)|A native Haskell codec for Mapbox Vector Tiles.||
-|11|[@csabahruska](https://github.com/csabahruska)/[**demoscene**](https://github.com/csabahruska/demoscene)|Demoscene: Lambda Team||
 |11|[@gregorycollins](https://github.com/gregorycollins)/[**attoparsec-iteratee**](https://github.com/gregorycollins/attoparsec-iteratee)|An adapter to convert attoparsec Parsers into blazing-fast Iteratees||
 |11|[@singpolyma](https://github.com/singpolyma)/[**cheogram**](https://github.com/singpolyma/cheogram)|Groupchat for everyone|[:arrow_upper_right:](https://cheogram.com)|
 |10|[@avieth](https://github.com/avieth)/[**diplomacy**](https://github.com/avieth/diplomacy)|The board game Diplomacy, spoken in Haskell||
@@ -49,6 +49,7 @@
 |6|[@nitrix](https://github.com/nitrix)/[**ni**](https://github.com/nitrix/ni)|Ni programming language||
 |6|[@pbevin](https://github.com/pbevin)/[**cardelli**](https://github.com/pbevin/cardelli)|Cardelli type inferencer translated to Javascript||
 |5|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**elm-build-lib**](https://github.com/JoeyEremondi/elm-build-lib)|A library for compiling Elm to JavaScript from within Haskell||
+|5|[@bbc](https://github.com/bbc)/[**haskell-workshop**](https://github.com/bbc/haskell-workshop)|Haskell workshop that will hopefully contribute something back to the open-source community||
 |5|[@diogob](https://github.com/diogob)/[**pasta**](https://github.com/diogob/pasta)|PostgreSQL AST Assembler||
 |5|[@fosskers](https://github.com/fosskers)/[**crypto-classical**](https://github.com/fosskers/crypto-classical)|A Haskell library for using and attacking Classical Encryption Schemes.||
 |5|[@gregorycollins](https://github.com/gregorycollins)/[**cabal2macpkg**](https://github.com/gregorycollins/cabal2macpkg)|A program to generate OSX installer files for Cabal libraries (Haskell Platform)||

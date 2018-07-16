@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|519|[@lazywinadmin](https://github.com/lazywinadmin)/[**PowerShell**](https://github.com/lazywinadmin/PowerShell)|PowerShell functions and scripts (SCCM, SCSM, AD, Exchange, O365, ...)|[:arrow_upper_right:](http://lazywinadmin.com)|
-|94|[@lazywinadmin](https://github.com/lazywinadmin)/[**LazyWinAdmin_GUI**](https://github.com/lazywinadmin/LazyWinAdmin_GUI)|PowerShell Script that generates a GUI/WinForms loaded with tons of functions|[:arrow_upper_right:](http://lazywinadmin.github.io/LazyWinAdmin_GUI/)|
+|523|[@lazywinadmin](https://github.com/lazywinadmin)/[**PowerShell**](https://github.com/lazywinadmin/PowerShell)|PowerShell functions and scripts (SCCM, SCSM, AD, Exchange, O365, ...)|[:arrow_upper_right:](http://lazywinadmin.com)|
+|95|[@lazywinadmin](https://github.com/lazywinadmin)/[**LazyWinAdmin_GUI**](https://github.com/lazywinadmin/LazyWinAdmin_GUI)|PowerShell Script that generates a GUI/WinForms loaded with tons of functions|[:arrow_upper_right:](http://lazywinadmin.github.io/LazyWinAdmin_GUI/)|
 |63|[@lazywinadmin](https://github.com/lazywinadmin)/[**AdsiPS**](https://github.com/lazywinadmin/AdsiPS)|PowerShell module to interact with Active Directory using ADSI and the System.DirectoryServices namespace (.NET Framework)|[:arrow_upper_right:](http://www.lazywinadmin.com)|
-|61|[@lazywinadmin](https://github.com/lazywinadmin)/[**Monitor-ADGroupMembership**](https://github.com/lazywinadmin/Monitor-ADGroupMembership)|PowerShell script to monitor Active Directory groups and send an email when someone is changing the membership||
-|58|[@dlwyatt](https://github.com/dlwyatt)/[**PolicyFileEditor**](https://github.com/dlwyatt/PolicyFileEditor)|PowerShell functions and DSC resource wrappers around the TJX.PolFileEditor.PolFile .NET class.||
+|62|[@lazywinadmin](https://github.com/lazywinadmin)/[**Monitor-ADGroupMembership**](https://github.com/lazywinadmin/Monitor-ADGroupMembership)|PowerShell script to monitor Active Directory groups and send an email when someone is changing the membership||
+|59|[@dlwyatt](https://github.com/dlwyatt)/[**PolicyFileEditor**](https://github.com/dlwyatt/PolicyFileEditor)|PowerShell functions and DSC resource wrappers around the TJX.PolFileEditor.PolFile .NET class.||
 |54|[@dlwyatt](https://github.com/dlwyatt)/[**ProtectedData**](https://github.com/dlwyatt/ProtectedData)|PowerShell Module for securely encrypting and sharing secret data such as passwords.||
-|37|[@BCSharp](https://github.com/BCSharp)/[**PSCondaEnvs**](https://github.com/BCSharp/PSCondaEnvs)|Implementation of Conda's activate/deactivate functions in Powershell.||
+|39|[@BCSharp](https://github.com/BCSharp)/[**PSCondaEnvs**](https://github.com/BCSharp/PSCondaEnvs)|Implementation of Conda's activate/deactivate functions in Powershell.||
 |37|[@dlwyatt](https://github.com/dlwyatt)/[**PowershellProfiler**](https://github.com/dlwyatt/PowershellProfiler)|||
 |35|[@AmrEldib](https://github.com/AmrEldib)/[**WindowsContextMenuCustomizations**](https://github.com/AmrEldib/WindowsContextMenuCustomizations)|Registry entries to modify Windows context menu||
 |32|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powershell-powerline-prompt**](https://github.com/AmrEldib/cmder-powershell-powerline-prompt)|Custom PowerShell prompt for Cmder on Windows ||
@@ -20,8 +20,8 @@
 |10|[@lazywinadmin](https://github.com/lazywinadmin)/[**CoinMarketCap**](https://github.com/lazywinadmin/CoinMarketCap)|CoinMarketCap is an MIT licensed PowerShell module providing an easy to use wrapper around the coinmarketcap API.|[:arrow_upper_right:](https://lazywinadmin.github.io/2017/11/CoinMarketCap.html)|
 |10|[@lazywinadmin](https://github.com/lazywinadmin)/[**NetBackupPS**](https://github.com/lazywinadmin/NetBackupPS)|PowerShell module for Symantec NetBackup||
 |10|[@lazywinadmin](https://github.com/lazywinadmin)/[**SpaceX**](https://github.com/lazywinadmin/SpaceX)|PowerShell module to interact with api.spacexdata.com||
+|9|[@dance2die](https://github.com/dance2die)/[**MyAnimeListSharp**](https://github.com/dance2die/MyAnimeListSharp)|Access MyAnimeList Web API using .NET library||
 |8|[@Adoxio](https://github.com/Adoxio)/[**Adoxio.Dynamics.DevOps**](https://github.com/Adoxio/Adoxio.Dynamics.DevOps)|A PowerShell module for performing Dynamics 365 DevOps activities.||
-|8|[@dance2die](https://github.com/dance2die)/[**MyAnimeListSharp**](https://github.com/dance2die/MyAnimeListSharp)|Access MyAnimeList Web API using .NET library||
 |8|[@dcomartin](https://github.com/dcomartin)/[**Cake.Demo**](https://github.com/dcomartin/Cake.Demo)|Cake (C# Make) Demo|[:arrow_upper_right:](http://codeopinion.com/)|
 |8|[@dlwyatt](https://github.com/dlwyatt)/[**PSGenericMethods**](https://github.com/dlwyatt/PSGenericMethods)|||
 |7|[@dlwyatt](https://github.com/dlwyatt)/[**WinFormsExampleUpdates**](https://github.com/dlwyatt/WinFormsExampleUpdates)|Updates to make TechNet PowerShell Windows Forms examples compatible with PowerShell 3.0 and later||
