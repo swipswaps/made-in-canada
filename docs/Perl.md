@@ -2,7 +2,7 @@
 |---|---|---|---|
 |165|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
 |143|[@agilebits](https://github.com/agilebits)/[**onepassword-utilities**](https://github.com/agilebits/onepassword-utilities)|Utilities for 1Password||
-|135|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
+|136|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |122|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
 |110|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](http://www.metacpan.org/module/PerlPowerTools/)|
 |95|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
@@ -24,8 +24,8 @@
 |20|[@yanick](https://github.com/yanick)/[**Vim-X**](https://github.com/yanick/Vim-X)|Write Perl functions within Vim||
 |19|[@sestaton](https://github.com/sestaton)/[**Transposome**](https://github.com/sestaton/Transposome)|A toolkit for annotation of transposable element families from unassembled sequence reads|[:arrow_upper_right:](http://sestaton.github.io/Transposome)|
 |18|[@bartman](https://github.com/bartman)/[**urxvt-scripts**](https://github.com/bartman/urxvt-scripts)|my urxvt scripts|[:arrow_upper_right:](http://www.jukie.net/~bart/blog/tag/urxvt)|
+|17|[@yanick](https://github.com/yanick)/[**cheatsheets**](https://github.com/yanick/cheatsheets)|My cheatsheets||
 |16|[@briandfoy](https://github.com/briandfoy)/[**git-github-creator**](https://github.com/briandfoy/git-github-creator)|(Perl) Create a Github repository for your Perl module|[:arrow_upper_right:](https://metacpan.org/module/Git::GitHub::Creator)|
-|16|[@yanick](https://github.com/yanick)/[**cheatsheets**](https://github.com/yanick/cheatsheets)|My cheatsheets||
 |15|[@briandfoy](https://github.com/briandfoy)/[**Unicode-Tussle**](https://github.com/briandfoy/Unicode-Tussle)|Tom( Christiansen)'s Unicode Scripts So Life is Easier|[:arrow_upper_right:](http://search.cpan.org/dist/Unicode-Tussle)|
 |15|[@briandfoy](https://github.com/briandfoy)/[**unicode-tussle**](https://github.com/briandfoy/unicode-tussle)|Tom( Christiansen)'s Unicode Scripts So Life is Easier|[:arrow_upper_right:](http://search.cpan.org/dist/Unicode-Tussle)|
 |14|[@sestaton](https://github.com/sestaton)/[**HMMER2GO**](https://github.com/sestaton/HMMER2GO)|Annotate DNA sequences for Gene Ontology terms||
@@ -85,6 +85,7 @@
 |5|[@yanick](https://github.com/yanick)/[**Catalyst-Plugin-Sitemap**](https://github.com/yanick/Catalyst-Plugin-Sitemap)|Add sitemap support for your Catalyst application||
 |5|[@yanick](https://github.com/yanick)/[**pod-manual**](https://github.com/yanick/pod-manual)|Aggregates several Perl PODs into a single manual||
 |5|[@yanick](https://github.com/yanick)/[**www-ohloh-api**](https://github.com/yanick/www-ohloh-api)|Ohloh API implementation for Perl||
+|4|[@EOS-Nation](https://github.com/EOS-Nation)/[**bpvalidate**](https://github.com/EOS-Nation/bpvalidate)|Tools to validate BPs have set up their public configuration correctly||
 |4|[@briandfoy](https://github.com/briandfoy)/[**app-ppi-dumper**](https://github.com/briandfoy/app-ppi-dumper)|(Perl) This is what the module does|[:arrow_upper_right:](http://search.cpan.org/dist/App-PPI-Dumper)|
 |4|[@briandfoy](https://github.com/briandfoy)/[**mac-osversion**](https://github.com/briandfoy/mac-osversion)|(Perl) Get the Mac OS X system version|[:arrow_upper_right:](http://search.cpan.org/dist/Mac-OSVersion)|
 |4|[@briandfoy](https://github.com/briandfoy)/[**module-extract-version**](https://github.com/briandfoy/module-extract-version)|(Perl) This is what the module does|[:arrow_upper_right:](http://search.cpan.org/dist/Module-Extract-VERSION)|

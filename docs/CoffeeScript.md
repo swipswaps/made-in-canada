@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |1487|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
-|1286|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor|[:arrow_upper_right:](http://unibeautify.com/)|
+|1294|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor|[:arrow_upper_right:](http://unibeautify.com/)|
 |427|[@keithamus](https://github.com/keithamus)/[**parallelshell**](https://github.com/keithamus/parallelshell)|Run multiple shell commands in parallel||
 |395|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls|[:arrow_upper_right:](https://echoplex.us)|
 |230|[@EtienneLem](https://github.com/EtienneLem)/[**skeleton**](https://github.com/EtienneLem/skeleton)|Express 3.0 framework-less app structure generator|[:arrow_upper_right:](http://etiennelem.github.com/skeleton)|
 |219|[@axiomzen](https://github.com/axiomzen)/[**Alike**](https://github.com/axiomzen/Alike)|A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances||
-|197|[@benbria](https://github.com/benbria)/[**aliasify**](https://github.com/benbria/aliasify)|Rewrite require calls in browserify modules.||
+|196|[@benbria](https://github.com/benbria)/[**aliasify**](https://github.com/benbria/aliasify)|Rewrite require calls in browserify modules.||
 |191|[@fw42](https://github.com/fw42)/[**honeymap**](https://github.com/fw42/honeymap)|Real-time websocket stream of GPS events on a fancy SVG world map|[:arrow_upper_right:](http://map.honeynet.org/)|
 |189|[@raganwald](https://github.com/raganwald)/[**YouAreDaChef**](https://github.com/raganwald/YouAreDaChef)|Coffeescript/Javascript method combinations for Underscore projects||
 |185|[@zaidka](https://github.com/zaidka)/[**genieacs**](https://github.com/zaidka/genieacs)|A fast and lightweight TR-069 Auto Configuration Server (ACS)|[:arrow_upper_right:](https://genieacs.com)|
@@ -38,8 +38,7 @@
 |32|[@raganwald](https://github.com/raganwald)/[**cafeaulife**](https://github.com/raganwald/cafeaulife)|Gosper’s HashLife in CoffeeScript|[:arrow_upper_right:](http://recursiveuniver.se)|
 |32|[@srsgores](https://github.com/srsgores)/[**generator-joomla-component**](https://github.com/srsgores/generator-joomla-component)|yeoman generator for joomla components||
 |31|[@HappenApps](https://github.com/HappenApps)/[**quiver2html**](https://github.com/HappenApps/quiver2html)|A utility to convert a Quiver notebook or note to HTML.||
-|25|[@Glavin001](https://github.com/Glavin001)/[**atom-gitter**](https://github.com/Glavin001/atom-gitter)|(UNMAINTAINED) :calling: Gitter chat integration with Atom.io|[:arrow_upper_right:](https://atom.io/packages/gitter)|
-|25|[@mispy](https://github.com/mispy)/[**heart**](https://github.com/mispy/heart)|A very silly Valentine's Day HTML5 experiment :)|[:arrow_upper_right:](http://heart.mispy.me/)|
+|24|[@Glavin001](https://github.com/Glavin001)/[**atom-gitter**](https://github.com/Glavin001/atom-gitter)|(UNMAINTAINED) :calling: Gitter chat integration with Atom.io|[:arrow_upper_right:](https://atom.io/packages/gitter)|
 |24|[@benbria](https://github.com/benbria)/[**dashing-client**](https://github.com/benbria/dashing-client)|Client for sending data to Dashing from node.js||
 |24|[@benbria](https://github.com/benbria)/[**node-bunyan-lumberjack**](https://github.com/benbria/node-bunyan-lumberjack)|Send bunyan logs to logstash using the lumberjack protocol.||
 |24|[@wa0x6e](https://github.com/wa0x6e)/[**dashing-resque**](https://github.com/wa0x6e/dashing-resque)|Resque dashing widget to monitor resque jobs, queues and worker activities.||
@@ -101,6 +100,7 @@
 |6|[@remiprev](https://github.com/remiprev)/[**venyr**](https://github.com/remiprev/venyr)|Broadcast your current Rdio playback via WebSockets and let others listen to it.|[:arrow_upper_right:](https://github.com/remiprev/venyr)|
 |6|[@rileyjshaw](https://github.com/rileyjshaw)/[**2p-snake**](https://github.com/rileyjshaw/2p-snake)|:snake: Snake for 2 players on the same keyboard! Saucy.||
 |6|[@rowanmanning](https://github.com/rowanmanning)/[**hubot-dogeme**](https://github.com/rowanmanning/hubot-dogeme)|Wow. Such Doge. So Hubot.||
+|6|[@sibartlett](https://github.com/sibartlett)/[**atom-clippy**](https://github.com/sibartlett/atom-clippy)|Clippy for your Atom.|[:arrow_upper_right:](https://atom.io/packages/clippy)|
 |5|[@Glavin001](https://github.com/Glavin001)/[**atom-coffeescript-preview**](https://github.com/Glavin001/atom-coffeescript-preview)|DEPRECATED: Preview what your CoffeeScript will look like as JavaScript|[:arrow_upper_right:](https://atom.io/packages/coffeescript-preview)|
 |5|[@briannesbitt](https://github.com/briannesbitt)/[**QuicksortMicrobenchmark**](https://github.com/briannesbitt/QuicksortMicrobenchmark)|I wrote a blog post about benchmarking the quicksort sorting algorithm in several languages.|[:arrow_upper_right:](http://nesbot.com/2012/2/8/a-quick-microbenchmark)|
 |5|[@ddaws](https://github.com/ddaws)/[**atom-makro**](https://github.com/ddaws/atom-makro)|Quickly access and execute you Makefile targets.||
@@ -109,7 +109,6 @@
 |5|[@radekstepan](https://github.com/radekstepan)/[**grunt-sandbox-css**](https://github.com/radekstepan/grunt-sandbox-css)|Sandbox a CSS library by prefixing its selectors||
 |5|[@rowanmanning](https://github.com/rowanmanning)/[**express-coffee-template**](https://github.com/rowanmanning/express-coffee-template)|[UNMAINTAINED] An Express + CoffeeScript + Mustache application template for Node||
 |5|[@seblavoie](https://github.com/seblavoie)/[**esy**](https://github.com/seblavoie/esy)|A tiny ExtendScript helpers library||
-|5|[@sibartlett](https://github.com/sibartlett)/[**atom-clippy**](https://github.com/sibartlett/atom-clippy)|Clippy for your Atom.|[:arrow_upper_right:](https://atom.io/packages/clippy)|
 |4|[@EtienneLem](https://github.com/EtienneLem)/[**opencode-css-animations**](https://github.com/EtienneLem/opencode-css-animations)|OpenCode 5th edition: CSS Animations|[:arrow_upper_right:](http://etiennelem.github.com/opencode-css-animations)|
 |4|[@Gonzih](https://github.com/Gonzih)/[**shelr-hubot**](https://github.com/Gonzih/shelr-hubot)|Hubot for #shelr at irc.freenode.net||
 |4|[@Icehunter](https://github.com/Icehunter)/[**language-jsx**](https://github.com/Icehunter/language-jsx)|forked from yosuke-furukawa/language-jsx||

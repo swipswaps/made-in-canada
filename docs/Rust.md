@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|817|[@jmacdonald](https://github.com/jmacdonald)/[**amp**](https://github.com/jmacdonald/amp)|A complete text editor for your terminal.|[:arrow_upper_right:](https://amp.rs)|
+|815|[@jmacdonald](https://github.com/jmacdonald)/[**amp**](https://github.com/jmacdonald/amp)|A complete text editor for your terminal.|[:arrow_upper_right:](https://amp.rs)|
 |395|[@trishume](https://github.com/trishume)/[**syntect**](https://github.com/trishume/syntect)|Rust library for syntax highlighting using Sublime Text syntax definitions.|[:arrow_upper_right:](https://docs.rs/syntect)|
-|252|[@mystor](https://github.com/mystor)/[**rust-cpp**](https://github.com/mystor/rust-cpp)|Embed C++ directly inside your rust code!||
-|232|[@Arvanaghi](https://github.com/Arvanaghi)/[**CheckPlease**](https://github.com/Arvanaghi/CheckPlease)|Sandbox evasion modules written in PowerShell, Python, Go, Ruby, C, C#, Perl, and Rust.|[:arrow_upper_right:](https://twitter.com/arvanaghi)|
+|253|[@mystor](https://github.com/mystor)/[**rust-cpp**](https://github.com/mystor/rust-cpp)|Embed C++ directly inside your rust code!||
+|234|[@Arvanaghi](https://github.com/Arvanaghi)/[**CheckPlease**](https://github.com/Arvanaghi/CheckPlease)|Sandbox evasion modules written in PowerShell, Python, Go, Ruby, C, C#, Perl, and Rust.|[:arrow_upper_right:](https://twitter.com/arvanaghi)|
 |150|[@luqmana](https://github.com/luqmana)/[**rust-opencl**](https://github.com/luqmana/rust-opencl)|OpenCL bindings for Rust.||
-|139|[@MitMaro](https://github.com/MitMaro)/[**git-interactive-rebase-tool**](https://github.com/MitMaro/git-interactive-rebase-tool)|Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.|[:arrow_upper_right:](https://gitrebasetool.mitmaro.ca/)|
+|144|[@MitMaro](https://github.com/MitMaro)/[**git-interactive-rebase-tool**](https://github.com/MitMaro/git-interactive-rebase-tool)|Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.|[:arrow_upper_right:](https://gitrebasetool.mitmaro.ca/)|
 |125|[@programble](https://github.com/programble)/[**scraper**](https://github.com/programble/scraper)|HTML parsing and querying with CSS selectors|[:arrow_upper_right:](https://docs.rs/scraper)|
 |119|[@thestinger](https://github.com/thestinger)/[**rust-core**](https://github.com/thestinger/rust-core)|a lightweight standard library for rust with freestanding support (deprecated in favour of libcore upstream)||
 |66|[@luqmana](https://github.com/luqmana)/[**rust-psp-hello**](https://github.com/luqmana/rust-psp-hello)|Simple Hello World in Rust to run on a PSP.||
@@ -22,10 +22,10 @@
 |18|[@trishume](https://github.com/trishume)/[**faiyels**](https://github.com/trishume/faiyels)|See all your code rendered at once and zoom around it using Rust & GPU rendering.||
 |18|[@trishume](https://github.com/trishume)/[**quickdown**](https://github.com/trishume/quickdown)|Fast lightweight Markdown viewer with Rust and Webrender. HtN 2017||
 |17|[@OJFord](https://github.com/OJFord)/[**passbase**](https://github.com/OJFord/passbase)|Keybase File System (KBFS)-backed CLI-based password manager||
-|16|[@brettcannon](https://github.com/brettcannon)/[**python-launcher**](https://github.com/brettcannon/python-launcher)|Python launcher for UNIX||
+|17|[@yrashk](https://github.com/yrashk)/[**serde_fs**](https://github.com/yrashk/serde_fs)|[De]serializing data structures as files||
 |16|[@hsoft](https://github.com/hsoft)/[**civng**](https://github.com/hsoft/civng)|Civ 5 implementation in Rust with a text-based UI||
 |16|[@trishume](https://github.com/trishume)/[**dayder**](https://github.com/trishume/dayder)|Search lots of data sets for spurious correlations|[:arrow_upper_right:](http://dayder.thume.ca/)|
-|16|[@yrashk](https://github.com/yrashk)/[**serde_fs**](https://github.com/yrashk/serde_fs)|[De]serializing data structures as files||
+|15|[@brettcannon](https://github.com/brettcannon)/[**python-launcher**](https://github.com/brettcannon/python-launcher)|Python launcher for UNIX||
 |14|[@thestinger](https://github.com/thestinger)/[**rust-seccomp**](https://github.com/thestinger/rust-seccomp)|||
 |13|[@fnichol](https://github.com/fnichol)/[**names**](https://github.com/fnichol/names)|Random name generator for Rust||
 |13|[@uiri](https://github.com/uiri)/[**SEGIMAP**](https://github.com/uiri/SEGIMAP)|IMAP (and LMTP) Server written in Rust||
