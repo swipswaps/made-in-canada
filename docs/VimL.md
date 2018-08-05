@@ -21,8 +21,8 @@
 |17|[@tristen](https://github.com/tristen)/[**superman**](https://github.com/tristen/superman)|:art: A dark theme for Vim||
 |13|[@gmarik](https://github.com/gmarik)/[**sudo-gui.vim**](https://github.com/gmarik/sudo-gui.vim)|sudo GUI for a GUI vim|[:arrow_upper_right:](https://github.com/gmarik/sudo-gui.vim)|
 |13|[@tommcdo](https://github.com/tommcdo)/[**vim-lister**](https://github.com/tommcdo/vim-lister)|A collection of commands for manipulating Vim's lists||
-|13|[@travisjeffery](https://github.com/travisjeffery)/[**snipmate-snippets**](https://github.com/travisjeffery/snipmate-snippets)|my snippets that I use with snipmate||
 |13|[@ujihisa](https://github.com/ujihisa)/[**unite-haskellimport**](https://github.com/ujihisa/unite-haskellimport)|:Unite haskellimport||
+|12|[@travisjeffery](https://github.com/travisjeffery)/[**snipmate-snippets**](https://github.com/travisjeffery/snipmate-snippets)|my snippets that I use with snipmate||
 |12|[@ujihisa](https://github.com/ujihisa)/[**quicklearn**](https://github.com/ujihisa/quicklearn)|A quickrun plugin to show intermediate codes||
 |12|[@ujihisa](https://github.com/ujihisa)/[**unite-font**](https://github.com/ujihisa/unite-font)|A unite plugin||
 |11|[@mgrouchy](https://github.com/mgrouchy)/[**oldvim**](https://github.com/mgrouchy/oldvim)|my old vimfiles|[:arrow_upper_right:](http://mikegrouchy.com)|

@@ -2,7 +2,7 @@
 |---|---|---|---|
 |165|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
 |145|[@agilebits](https://github.com/agilebits)/[**onepassword-utilities**](https://github.com/agilebits/onepassword-utilities)|Utilities for 1Password||
-|138|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
+|140|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |122|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
 |110|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](http://www.metacpan.org/module/PerlPowerTools/)|
 |95|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
@@ -50,10 +50,12 @@
 |9|[@hoytech](https://github.com/hoytech)/[**Valence-p5**](https://github.com/hoytech/Valence-p5)|Perl interface to valence/electron GUI toolkit||
 |9|[@s-rah](https://github.com/s-rah)/[**itsybitsy**](https://github.com/s-rah/itsybitsy)|The mini static site generator||
 |9|[@sestaton](https://github.com/sestaton)/[**tephra**](https://github.com/sestaton/tephra)|A tool for discovering transposable elements and describing patterns of genome evolution||
+|9|[@yanick](https://github.com/yanick)/[**Term-Caca**](https://github.com/yanick/Term-Caca)|perl interface for libcaca (Colour AsCii Art library) |[:arrow_upper_right:](http://search.cpan.org/dist/Term-Caca)|
 |8|[@briandfoy](https://github.com/briandfoy)/[**mac-propertylist**](https://github.com/briandfoy/mac-propertylist)|(Perl) work with Mac plists at a low level|[:arrow_upper_right:](http://search.cpan.org/dist/Mac-PropertyList)|
 |8|[@hoytech](https://github.com/hoytech)/[**Qstruct**](https://github.com/hoytech/Qstruct)|Quick structure serialisation||
 |8|[@yanick](https://github.com/yanick)/[**PPIx-EditorTools**](https://github.com/yanick/PPIx-EditorTools)|||
 |8|[@zoffixznet](https://github.com/zoffixznet)/[**JavaScript-Minifier**](https://github.com/zoffixznet/JavaScript-Minifier)|JavaScript::Minifier perl module||
+|7|[@EOS-Nation](https://github.com/EOS-Nation)/[**bpvalidate**](https://github.com/EOS-Nation/bpvalidate)|Tools to validate BPs have set up their public configuration correctly||
 |7|[@bbidulock](https://github.com/bbidulock)/[**perlpanel**](https://github.com/bbidulock/perlpanel)|Panel for the X Desktop Environment (XDE) based on PerlPanel||
 |7|[@bob-carpenter](https://github.com/bob-carpenter)/[**java-arithcode**](https://github.com/bob-carpenter/java-arithcode)|A Java implementation of arithmetic coding and PPM compression.||
 |7|[@briandfoy](https://github.com/briandfoy)/[**cpan-packagedetails**](https://github.com/briandfoy/cpan-packagedetails)|(Perl) A code interface to CPAN's 02packages.details.txt.gz|[:arrow_upper_right:](https://www.metacpan.org/module/CPAN-PackageDetails)|
@@ -70,7 +72,6 @@
 |6|[@hoytech](https://github.com/hoytech)/[**Unicode-Truncate**](https://github.com/hoytech/Unicode-Truncate)|Unicode-aware efficient string truncation||
 |6|[@johnlees](https://github.com/johnlees)/[**bioinformatics**](https://github.com/johnlees/bioinformatics)|Utilities written for bioinformatics|[:arrow_upper_right:](http://leesjohn.wordpress.com/)|
 |6|[@yanick](https://github.com/yanick)/[**netpacket**](https://github.com/yanick/netpacket)|(Perl) |[:arrow_upper_right:](http://search.cpan.org/dist/NetPacket)|
-|5|[@EOS-Nation](https://github.com/EOS-Nation)/[**bpvalidate**](https://github.com/EOS-Nation/bpvalidate)|Tools to validate BPs have set up their public configuration correctly||
 |5|[@aspiers](https://github.com/aspiers)/[**mutt**](https://github.com/aspiers/mutt)|a set of generic configuration files for mutt||
 |5|[@briandfoy](https://github.com/briandfoy)/[**io-interactive**](https://github.com/briandfoy/io-interactive)|Utilities for interactive I/O|[:arrow_upper_right:](http://www.metacpan.org/module/IO::Interactive)|
 |5|[@briandfoy](https://github.com/briandfoy)/[**mycpan--app--dpan**](https://github.com/briandfoy/mycpan--app--dpan)|(Perl) Create a custom, private DarkPAN repository|[:arrow_upper_right:](http://search.cpan.org/dist/MyCPAN-App-DPAN)|
@@ -99,6 +100,7 @@
 |4|[@jandubois](https://github.com/jandubois)/[**win32-daemon**](https://github.com/jandubois/win32-daemon)|||
 |4|[@jts](https://github.com/jts)/[**sga-extra**](https://github.com/jts/sga-extra)|Extra tools and utilities for sga||
 |4|[@obilodeau](https://github.com/obilodeau)/[**infosec-tools**](https://github.com/obilodeau/infosec-tools)|Various lame infosec tools that I decided not to keep to myself.||
+|4|[@sestaton](https://github.com/sestaton)/[**Chloro**](https://github.com/sestaton/Chloro)|Automated chloroplast genome assembly||
 |4|[@yanick](https://github.com/yanick)/[**Dancer-Template-Mason**](https://github.com/yanick/Dancer-Template-Mason)|Mason wrapper for Dancer||
 |4|[@yanick](https://github.com/yanick)/[**Dist-Zilla-Plugin-HelpWanted**](https://github.com/yanick/Dist-Zilla-Plugin-HelpWanted)|||
 |4|[@yanick](https://github.com/yanick)/[**Games-DungeonBuilder**](https://github.com/yanick/Games-DungeonBuilder)|generate dungeon maps||
@@ -150,7 +152,6 @@
 |3|[@mariusbutuc](https://github.com/mariusbutuc)/[**ses-tools**](https://github.com/mariusbutuc/ses-tools)|Amazon Simple Email Service Scripts||
 |3|[@moltar](https://github.com/moltar)/[**todo-backend-catalyst**](https://github.com/moltar/todo-backend-catalyst)|Perl Catalyst implementation of the TODO backend|[:arrow_upper_right:](http://www.todobackend.com/)|
 |3|[@orlandov](https://github.com/orlandov)/[**Legion-AWS-MapReduce**](https://github.com/orlandov/Legion-AWS-MapReduce)|Distributed blender rendering with Amazon Elastic MapReduce||
-|3|[@sestaton](https://github.com/sestaton)/[**Chloro**](https://github.com/sestaton/Chloro)|Automated chloroplast genome assembly||
 |3|[@staticsafe](https://github.com/staticsafe)/[**irssi-scripts**](https://github.com/staticsafe/irssi-scripts)|Repo for my irssi scripts||
 |3|[@yanick](https://github.com/yanick)/[**CPAN-Cache**](https://github.com/yanick/CPAN-Cache)|Release history of CPAN-Cache|[:arrow_upper_right:](http://search.cpan.org/dist/CPAN-Cache/)|
 |3|[@yanick](https://github.com/yanick)/[**Dancer-Plugin-Cache-CHI**](https://github.com/yanick/Dancer-Plugin-Cache-CHI)|Dancer plugin to cache response content (and anything else)||
