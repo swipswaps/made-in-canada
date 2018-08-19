@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|487|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base! see the website for details.|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
+|488|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base! see the website for details.|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
 |40|[@Ohmnivore](https://github.com/Ohmnivore)/[**SkullRush**](https://github.com/Ohmnivore/SkullRush)|A 2D online multiplayer shooter written in Haxe||
 |37|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-glm**](https://github.com/FuzzyWuzzie/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |30|[@ashes999](https://github.com/ashes999)/[**butterfly**](https://github.com/ashes999/butterfly)|Haxe generator for simple, static blogs.||
@@ -30,6 +30,7 @@
 |6|[@Ohmnivore](https://github.com/Ohmnivore)/[**TileSetter**](https://github.com/Ohmnivore/TileSetter)|UI application for editing tile properties for tilesets||
 |6|[@underscorediscovery](https://github.com/underscorediscovery)/[**hxpromise**](https://github.com/underscorediscovery/hxpromise)|hxpromise||
 |5|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**FeatherRock**](https://github.com/FuzzyWuzzie/FeatherRock)|My LD32 entry!||
+|5|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**baldrick**](https://github.com/FuzzyWuzzie/baldrick)|Entity-component-system (ECS) framework, based heavily on edge||
 |5|[@Ohmnivore](https://github.com/Ohmnivore)/[**FireCHIP-8**](https://github.com/Ohmnivore/FireCHIP-8)|:tv: Cross-platform CHIP-8 emulator||
 |5|[@chfoo](https://github.com/chfoo)/[**tppinputassist**](https://github.com/chfoo/tppinputassist)|Touchscreen coordinate tap overlay for inputting into Twitch chat||
 |5|[@starburst997](https://github.com/starburst997)/[**haxe-zip**](https://github.com/starburst997/haxe-zip)|Library to provide a cross-platform streaming Zip Writer / Reader experience.||

@@ -32,7 +32,6 @@
 |9|[@thayerwilliams](https://github.com/thayerwilliams)/[**msi-dotfiles**](https://github.com/thayerwilliams/msi-dotfiles)|Archlinux dotfiles for my MSI Wind U120 netbook|[:arrow_upper_right:](http://cinderwick.ca)|
 |8|[@allenhwkim](https://github.com/allenhwkim)/[**nextfile.vim**](https://github.com/allenhwkim/nextfile.vim)|vim script to open related files||
 |8|[@idbrii](https://github.com/idbrii)/[**vim-textconv**](https://github.com/idbrii/vim-textconv)|Easily apply text conversions. ||
-|8|[@shinespark](https://github.com/shinespark)/[**vim-list2tree**](https://github.com/shinespark/vim-list2tree)|list of markdown to tree.||
 |7|[@gregbell](https://github.com/gregbell)/[**dot-vim**](https://github.com/gregbell/dot-vim)|My .vimrc and .vim directory||
 |7|[@rafaelrosafu](https://github.com/rafaelrosafu)/[**vimfiles**](https://github.com/rafaelrosafu/vimfiles)|My vimfiles (noobie warning)||
 |7|[@ujihisa](https://github.com/ujihisa)/[**neochat.vim**](https://github.com/ujihisa/neochat.vim)|a comprehensive pluggable chat Vim plugin||

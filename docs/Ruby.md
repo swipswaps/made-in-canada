@@ -1,139 +1,139 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |17314|[@Thibaut](https://github.com/Thibaut)/[**devdocs**](https://github.com/Thibaut/devdocs)|API Documentation Browser|[:arrow_upper_right:](https://devdocs.io)|
-|3404|[@cesarferreira](https://github.com/cesarferreira)/[**dryrun**](https://github.com/cesarferreira/dryrun)|:cloud: Try the demo project of any Android Library|[:arrow_upper_right:](http://cesarferreira.com/dryrun/)|
-|2661|[@travisjeffery](https://github.com/travisjeffery)/[**timecop**](https://github.com/travisjeffery/timecop)|A gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.||
-|2183|[@wvanbergen](https://github.com/wvanbergen)/[**request-log-analyzer**](https://github.com/wvanbergen/request-log-analyzer)|Create reports based on your log files. Supports Rails, Apache, MySQL, Delayed::Job, and other formats.|[:arrow_upper_right:](http://www.request-log-analyzer.com)|
+|3455|[@cesarferreira](https://github.com/cesarferreira)/[**dryrun**](https://github.com/cesarferreira/dryrun)|:cloud: Try the demo project of any Android Library|[:arrow_upper_right:](http://cesarferreira.com/dryrun/)|
+|2665|[@travisjeffery](https://github.com/travisjeffery)/[**timecop**](https://github.com/travisjeffery/timecop)|A gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.||
+|2185|[@wvanbergen](https://github.com/wvanbergen)/[**request-log-analyzer**](https://github.com/wvanbergen/request-log-analyzer)|Create reports based on your log files. Supports Rails, Apache, MySQL, Delayed::Job, and other formats.|[:arrow_upper_right:](http://www.request-log-analyzer.com)|
 |2104|[@tobi](https://github.com/tobi)/[**delayed_job**](https://github.com/tobi/delayed_job)|Database backed asynchronous priority queue -- Extracted from Shopify |[:arrow_upper_right:](http://tobi.github.com/delayed_job)|
-|2035|[@kpumuk](https://github.com/kpumuk)/[**meta-tags**](https://github.com/kpumuk/meta-tags)|Search Engine Optimization (SEO) for Ruby on Rails applications.||
-|2004|[@macournoyer](https://github.com/macournoyer)/[**thin**](https://github.com/macournoyer/thin)|A very fast & simple Ruby web server|[:arrow_upper_right:](http://code.macournoyer.com/thin/)|
-|1853|[@eliotsykes](https://github.com/eliotsykes)/[**rspec-rails-examples**](https://github.com/eliotsykes/rspec-rails-examples)|RSpec cheatsheet & Rails app: Learn how to expertly test Rails apps from a model codebase||
-|1818|[@remiprev](https://github.com/remiprev)/[**teamocil**](https://github.com/remiprev/teamocil)|There's no I in Teamocil. At least not where you think. Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.|[:arrow_upper_right:](http://teamocil.com)|
-|1784|[@fnando](https://github.com/fnando)/[**browser**](https://github.com/fnando/browser)|Do some browser detection with Ruby. Includes ActionController integration.||
-|1740|[@remiprev](https://github.com/remiprev)/[**her**](https://github.com/remiprev/her)|Her is an ORM (Object Relational Mapper) that maps REST resources to Ruby objects. It is designed to build applications that are powered by a RESTful API instead of a database.|[:arrow_upper_right:](http://her-rb.org)|
-|1319|[@louismullie](https://github.com/louismullie)/[**treat**](https://github.com/louismullie/treat)|Natural language processing framework for Ruby.||
+|2042|[@kpumuk](https://github.com/kpumuk)/[**meta-tags**](https://github.com/kpumuk/meta-tags)|Search Engine Optimization (SEO) for Ruby on Rails applications.||
+|2005|[@macournoyer](https://github.com/macournoyer)/[**thin**](https://github.com/macournoyer/thin)|A very fast & simple Ruby web server|[:arrow_upper_right:](http://code.macournoyer.com/thin/)|
+|1863|[@eliotsykes](https://github.com/eliotsykes)/[**rspec-rails-examples**](https://github.com/eliotsykes/rspec-rails-examples)|RSpec cheatsheet & Rails app: Learn how to expertly test Rails apps from a model codebase||
+|1821|[@remiprev](https://github.com/remiprev)/[**teamocil**](https://github.com/remiprev/teamocil)|There's no I in Teamocil. At least not where you think. Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.|[:arrow_upper_right:](http://teamocil.com)|
+|1801|[@fnando](https://github.com/fnando)/[**browser**](https://github.com/fnando/browser)|Do some browser detection with Ruby. Includes ActionController integration.||
+|1744|[@remiprev](https://github.com/remiprev)/[**her**](https://github.com/remiprev/her)|Her is an ORM (Object Relational Mapper) that maps REST resources to Ruby objects. It is designed to build applications that are powered by a RESTful API instead of a database.|[:arrow_upper_right:](http://her-rb.org)|
+|1321|[@louismullie](https://github.com/louismullie)/[**treat**](https://github.com/louismullie/treat)|Natural language processing framework for Ruby.||
 |1121|[@tj](https://github.com/tj)/[**commander**](https://github.com/tj/commander)|The complete solution for Ruby command-line executables|[:arrow_upper_right:](http://visionmedia.github.com/commander)|
-|1035|[@tj](https://github.com/tj)/[**terminal-table**](https://github.com/tj/terminal-table)|Ruby ASCII Table Generator, simple and feature rich.||
-|1005|[@mispy](https://github.com/mispy)/[**twitter_ebooks**](https://github.com/mispy/twitter_ebooks)|Better twitterbots for all your friends~||
-|886|[@eliotsykes](https://github.com/eliotsykes)/[**rails-security-checklist**](https://github.com/eliotsykes/rails-security-checklist)|:key: Community-driven Rails Security Checklist (see our GitHub Issues for the newest checks that aren't yet in the README)||
-|857|[@wvanbergen](https://github.com/wvanbergen)/[**chunky_png**](https://github.com/wvanbergen/chunky_png)|Read/write access to PNG images in pure Ruby.|[:arrow_upper_right:](http://chunkypng.com)|
-|851|[@westonganger](https://github.com/westonganger)/[**spreadsheet_architect**](https://github.com/westonganger/spreadsheet_architect)|Spreadsheet Architect is a library that allows you to create XLSX, ODS, or CSV spreadsheets super easily from ActiveRecord relations, plain Ruby objects, or tabular data||
+|1041|[@tj](https://github.com/tj)/[**terminal-table**](https://github.com/tj/terminal-table)|Ruby ASCII Table Generator, simple and feature rich.||
+|1006|[@mispy](https://github.com/mispy)/[**twitter_ebooks**](https://github.com/mispy/twitter_ebooks)|Better twitterbots for all your friends~||
+|893|[@eliotsykes](https://github.com/eliotsykes)/[**rails-security-checklist**](https://github.com/eliotsykes/rails-security-checklist)|:key: Community-driven Rails Security Checklist (see our GitHub Issues for the newest checks that aren't yet in the README)||
+|862|[@wvanbergen](https://github.com/wvanbergen)/[**chunky_png**](https://github.com/wvanbergen/chunky_png)|Read/write access to PNG images in pure Ruby.|[:arrow_upper_right:](http://chunkypng.com)|
+|858|[@westonganger](https://github.com/westonganger)/[**spreadsheet_architect**](https://github.com/westonganger/spreadsheet_architect)|Spreadsheet Architect is a library that allows you to create XLSX, ODS, or CSV spreadsheets super easily from ActiveRecord relations, plain Ruby objects, or tabular data||
 |847|[@diogob](https://github.com/diogob)/[**activerecord-postgres-hstore**](https://github.com/diogob/activerecord-postgres-hstore)|Goodbye serialize, hello hstore. Speed up hashes in the database.||
 |741|[@tobi](https://github.com/tobi)/[**clarity**](https://github.com/tobi/clarity)|Web interface for the grep and tail -f unix tools. Useful for real-time log analysis. Remotely related to splunk||
-|711|[@FortAwesome](https://github.com/FortAwesome)/[**font-awesome-sass**](https://github.com/FortAwesome/font-awesome-sass)|Font-Awesome Sass gem for use in Ruby/Rails projects||
+|718|[@FortAwesome](https://github.com/FortAwesome)/[**font-awesome-sass**](https://github.com/FortAwesome/font-awesome-sass)|Font-Awesome Sass gem for use in Ruby/Rails projects||
 |682|[@jhund](https://github.com/jhund)/[**filterrific**](https://github.com/jhund/filterrific)|Filterrific is a Rails Engine plugin that makes it easy to filter, search, and sort your ActiveRecord lists.|[:arrow_upper_right:](http://filterrific.clearcove.ca)|
-|643|[@cmer](https://github.com/cmer)/[**socialization**](https://github.com/cmer/socialization)|Socialize your app with Likes, Follows and Mentions||
-|637|[@thoughtworks](https://github.com/thoughtworks)/[**cruisecontrol.rb**](https://github.com/thoughtworks/cruisecontrol.rb)|CruiseControl for Ruby. Keep it simple.|[:arrow_upper_right:](http://cruisecontrolrb.thoughtworks.com)|
-|629|[@kovyrin](https://github.com/kovyrin)/[**db-charmer**](https://github.com/kovyrin/db-charmer)|ActiveRecord Connections Magic (slaves, multiple connections, sharding, etc)|[:arrow_upper_right:](http://kovyrin.github.io/db-charmer/)|
-|598|[@eliotsykes](https://github.com/eliotsykes)/[**real-world-rails**](https://github.com/eliotsykes/real-world-rails)|Real World Rails applications and their open source codebases for developers to learn from||
+|644|[@cmer](https://github.com/cmer)/[**socialization**](https://github.com/cmer/socialization)|Socialize your app with Likes, Follows and Mentions||
+|638|[@thoughtworks](https://github.com/thoughtworks)/[**cruisecontrol.rb**](https://github.com/thoughtworks/cruisecontrol.rb)|CruiseControl for Ruby. Keep it simple.|[:arrow_upper_right:](http://cruisecontrolrb.thoughtworks.com)|
+|630|[@kovyrin](https://github.com/kovyrin)/[**db-charmer**](https://github.com/kovyrin/db-charmer)|ActiveRecord Connections Magic (slaves, multiple connections, sharding, etc)|[:arrow_upper_right:](http://kovyrin.github.io/db-charmer/)|
+|601|[@eliotsykes](https://github.com/eliotsykes)/[**real-world-rails**](https://github.com/eliotsykes/real-world-rails)|Real World Rails applications and their open source codebases for developers to learn from||
+|578|[@pitr](https://github.com/pitr)/[**angular-rails-templates**](https://github.com/pitr/angular-rails-templates)|Use your angular templates with rails' asset pipeline|[:arrow_upper_right:](https://rubygems.org/gems/angular-rails-templates)|
 |577|[@fnando](https://github.com/fnando)/[**kitabu**](https://github.com/fnando/kitabu)|A framework for creating e-books from Markdown using Ruby. Using the Prince PDF generator, you'll be able to get high quality PDFs. Also supports EPUB, Mobi, Text and HTML generation.||
-|577|[@pitr](https://github.com/pitr)/[**angular-rails-templates**](https://github.com/pitr/angular-rails-templates)|Use your angular templates with rails' asset pipeline|[:arrow_upper_right:](https://rubygems.org/gems/angular-rails-templates)|
-|549|[@delano](https://github.com/delano)/[**redis-dump**](https://github.com/delano/redis-dump)|Backup and restore your Redis data to and from JSON.|[:arrow_upper_right:](http://delanotes.com/redis-dump/)|
+|555|[@delano](https://github.com/delano)/[**redis-dump**](https://github.com/delano/redis-dump)|Backup and restore your Redis data to and from JSON.|[:arrow_upper_right:](http://delanotes.com/redis-dump/)|
 |548|[@pauldowman](https://github.com/pauldowman)/[**gitmodel**](https://github.com/pauldowman/gitmodel)|An ActiveModel-compliant persistence framework for Ruby that uses Git for versioning and remote syncing.||
 |504|[@tj](https://github.com/tj)/[**pomo**](https://github.com/tj/pomo)|Ruby Pomodoro app for the command-line (time / task management) ||
-|494|[@jipiboily](https://github.com/jipiboily)/[**monologue**](https://github.com/jipiboily/monologue)|Monologue is a basic blogging engine. It is a Rails mountable engine you can mount in your already existing Rails app, or a in a new one! Enjoy.|[:arrow_upper_right:](http://jipiboily.com/2013/monologue-0-3-0-released-and-monologue-markdown)|
-|490|[@jhawthorn](https://github.com/jhawthorn)/[**discard**](https://github.com/jhawthorn/discard)|🃏🗑 Soft deletes for ActiveRecord done right||
+|503|[@jhawthorn](https://github.com/jhawthorn)/[**discard**](https://github.com/jhawthorn/discard)|🃏🗑 Soft deletes for ActiveRecord done right||
+|495|[@jipiboily](https://github.com/jipiboily)/[**monologue**](https://github.com/jipiboily/monologue)|Monologue is a basic blogging engine. It is a Rails mountable engine you can mount in your already existing Rails app, or a in a new one! Enjoy.|[:arrow_upper_right:](http://jipiboily.com/2013/monologue-0-3-0-released-and-monologue-markdown)|
 |482|[@fnando](https://github.com/fnando)/[**recurrence**](https://github.com/fnando/recurrence)|A simple library that handles recurring events.|[:arrow_upper_right:](http://github.com/fnando/recurrence)|
+|480|[@cesarferreira](https://github.com/cesarferreira)/[**alfi**](https://github.com/cesarferreira/alfi)|Android Library Finder||
 |477|[@volmer](https://github.com/volmer)/[**bootsy**](https://github.com/volmer/bootsy)|Disclaimer: this project is no longer maintained.||
-|476|[@cesarferreira](https://github.com/cesarferreira)/[**alfi**](https://github.com/cesarferreira/alfi)|Android Library Finder||
-|463|[@uken](https://github.com/uken)/[**fluent-plugin-elasticsearch**](https://github.com/uken/fluent-plugin-elasticsearch)|||
+|464|[@uken](https://github.com/uken)/[**fluent-plugin-elasticsearch**](https://github.com/uken/fluent-plugin-elasticsearch)|||
 |461|[@mdeering](https://github.com/mdeering)/[**attribute_normalizer**](https://github.com/mdeering/attribute_normalizer)|Adds the ability to normalize attributes cleanly with code blocks and predefined normalizers||
-|448|[@dkubb](https://github.com/dkubb)/[**axiom**](https://github.com/dkubb/axiom)|Simplifies querying of structured data using relational algebra|[:arrow_upper_right:](https://github.com/dkubb/axiom)|
-|423|[@0xsauby](https://github.com/0xsauby)/[**yasuo**](https://github.com/0xsauby/yasuo)|A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network||
-|405|[@louismullie](https://github.com/louismullie)/[**stanford-core-nlp**](https://github.com/louismullie/stanford-core-nlp)|Ruby bindings to the Stanford Core NLP tools (English, French, German).||
-|378|[@thoughtworks](https://github.com/thoughtworks)/[**pacto**](https://github.com/thoughtworks/pacto)|Pacto settles disputes between JSON providers and consumers||
-|369|[@dkubb](https://github.com/dkubb)/[**adamantium**](https://github.com/dkubb/adamantium)|Create immutable objects||
-|337|[@mdeering](https://github.com/mdeering)/[**gravatar_image_tag**](https://github.com/mdeering/gravatar_image_tag)|A configurable and documented Rails view helper for adding gravatars into your Rails application||
-|299|[@marcandre](https://github.com/marcandre)/[**backports**](https://github.com/marcandre/backports)|The latest features of Ruby backported to older versions.||
+|449|[@dkubb](https://github.com/dkubb)/[**axiom**](https://github.com/dkubb/axiom)|Simplifies querying of structured data using relational algebra|[:arrow_upper_right:](https://github.com/dkubb/axiom)|
+|425|[@0xsauby](https://github.com/0xsauby)/[**yasuo**](https://github.com/0xsauby/yasuo)|A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network||
+|406|[@louismullie](https://github.com/louismullie)/[**stanford-core-nlp**](https://github.com/louismullie/stanford-core-nlp)|Ruby bindings to the Stanford Core NLP tools (English, French, German).||
+|379|[@thoughtworks](https://github.com/thoughtworks)/[**pacto**](https://github.com/thoughtworks/pacto)|Pacto settles disputes between JSON providers and consumers||
+|370|[@dkubb](https://github.com/dkubb)/[**adamantium**](https://github.com/dkubb/adamantium)|Create immutable objects||
+|336|[@mdeering](https://github.com/mdeering)/[**gravatar_image_tag**](https://github.com/mdeering/gravatar_image_tag)|A configurable and documented Rails view helper for adding gravatars into your Rails application||
+|300|[@marcandre](https://github.com/marcandre)/[**backports**](https://github.com/marcandre/backports)|The latest features of Ruby backported to older versions.||
 |296|[@raganwald](https://github.com/raganwald)/[**andand**](https://github.com/raganwald/andand)|The Maybe Monad in idiomatic Ruby||
-|289|[@cbbrowne](https://github.com/cbbrowne)/[**tpp**](https://github.com/cbbrowne/tpp)|Text Powerpoint|[:arrow_upper_right:](http://www.ngolde.de/tpp.html)|
-|280|[@anlek](https://github.com/anlek)/[**mongify**](https://github.com/anlek/mongify)|Mongify allows you to map your data from a sql database and into a mongodb document database.|[:arrow_upper_right:](http://github.com/anlek/mongify)|
-|279|[@diogob](https://github.com/diogob)/[**postgres-copy**](https://github.com/diogob/postgres-copy)|Simple PostgreSQL's COPY command support in ActiveRecord models||
+|292|[@cbbrowne](https://github.com/cbbrowne)/[**tpp**](https://github.com/cbbrowne/tpp)|Text Powerpoint|[:arrow_upper_right:](http://www.ngolde.de/tpp.html)|
+|281|[@anlek](https://github.com/anlek)/[**mongify**](https://github.com/anlek/mongify)|Mongify allows you to map your data from a sql database and into a mongodb document database.|[:arrow_upper_right:](http://github.com/anlek/mongify)|
+|281|[@diogob](https://github.com/diogob)/[**postgres-copy**](https://github.com/diogob/postgres-copy)|Simple PostgreSQL's COPY command support in ActiveRecord models||
 |278|[@wvanbergen](https://github.com/wvanbergen)/[**state_machine-audit_trail**](https://github.com/wvanbergen/state_machine-audit_trail)|Log transitions on a state machine to support business process analytics. Superseded by|[:arrow_upper_right:](https://github.com/state-machines/state_machines-audit_trail)|
 |275|[@andyw8](https://github.com/andyw8)/[**do_by**](https://github.com/andyw8/do_by)|Automatically expiring TODO notes in Ruby||
 |270|[@pauldowman](https://github.com/pauldowman)/[**ec2onrails**](https://github.com/pauldowman/ec2onrails)|EC2 on Rails - Deploy a Ruby on Rails app on EC2 in five minutes|[:arrow_upper_right:](http://ec2onrails.rubyforge.org/)|
-|254|[@dkubb](https://github.com/dkubb)/[**ice_nine**](https://github.com/dkubb/ice_nine)|Deep Freeze Ruby Objects||
-|254|[@eljojo](https://github.com/eljojo)/[**telegram_bot**](https://github.com/eljojo/telegram_bot)|A charismatic Ruby client for Telegram's Bot API||
-|254|[@fnando](https://github.com/fnando)/[**paypal-recurring**](https://github.com/fnando/paypal-recurring)|PayPal Express Checkout API Client for recurring billing.||
+|256|[@eljojo](https://github.com/eljojo)/[**telegram_bot**](https://github.com/eljojo/telegram_bot)|A charismatic Ruby client for Telegram's Bot API||
+|255|[@dkubb](https://github.com/dkubb)/[**ice_nine**](https://github.com/dkubb/ice_nine)|Deep Freeze Ruby Objects||
+|255|[@fnando](https://github.com/fnando)/[**paypal-recurring**](https://github.com/fnando/paypal-recurring)|PayPal Express Checkout API Client for recurring billing.||
 |238|[@delano](https://github.com/delano)/[**rye**](https://github.com/delano/rye)|Safe, parallel access to Unix shells from Ruby|[:arrow_upper_right:](http://delano.github.com/rye)|
-|226|[@vinibaggio](https://github.com/vinibaggio)/[**outpost**](https://github.com/vinibaggio/outpost)|Monitor your service's availability through a simple, clean DSL|[:arrow_upper_right:](http://university.rubymendicant.com/)|
+|225|[@vinibaggio](https://github.com/vinibaggio)/[**outpost**](https://github.com/vinibaggio/outpost)|Monitor your service's availability through a simple, clean DSL|[:arrow_upper_right:](http://university.rubymendicant.com/)|
 |224|[@fnichol](https://github.com/fnichol)/[**chef-user**](https://github.com/fnichol/chef-user)|A convenient Chef LWRP to manage user accounts and SSH keys|[:arrow_upper_right:](http://fnichol.github.io/chef-user)|
 |222|[@botanicus](https://github.com/botanicus)/[**rango**](https://github.com/botanicus/rango)|Rango is ultralightweight, ultracustomizable, ultracool web framework inspired by Django.|[:arrow_upper_right:](http://101ideas.cz)|
 |219|[@StephenOTT](https://github.com/StephenOTT)/[**GitHub-Time-Tracking**](https://github.com/StephenOTT/GitHub-Time-Tracking)|Use GitHub to Track Time and Budgets for your Development Projects(and really anything else you use GitHub for) - Ruby app that analyzes GitHub Issue Comments, Milestones, and Code Commit Messages for Time Tracking and Budget Tracking information||
 |205|[@wvanbergen](https://github.com/wvanbergen)/[**scoped_search**](https://github.com/wvanbergen/scoped_search)|Easily search you ActiveRecord models with a simple query language that converts to SQL.||
-|203|[@mirego](https://github.com/mirego)/[**gaffe**](https://github.com/mirego/gaffe)|:boom: Gaffe handles Rails error pages in a clean, simple way.|[:arrow_upper_right:](http://open.mirego.com)|
+|204|[@mirego](https://github.com/mirego)/[**gaffe**](https://github.com/mirego/gaffe)|:boom: Gaffe handles Rails error pages in a clean, simple way.|[:arrow_upper_right:](http://open.mirego.com)|
 |197|[@dkubb](https://github.com/dkubb)/[**equalizer**](https://github.com/dkubb/equalizer)|Define equality, equivalency and hash methods automatically||
-|193|[@StephenOTT](https://github.com/StephenOTT)/[**GitHub-Analytics**](https://github.com/StephenOTT/GitHub-Analytics)|GitHub Issues Tracker reporting and analytics (Project Management Reporting and Analytics)||
+|194|[@StephenOTT](https://github.com/StephenOTT)/[**GitHub-Analytics**](https://github.com/StephenOTT/GitHub-Analytics)|GitHub Issues Tracker reporting and analytics (Project Management Reporting and Analytics)||
 |189|[@eapache](https://github.com/eapache)/[**starscope**](https://github.com/eapache/starscope)|Smart code search for Ruby, Go, and JavaScript|[:arrow_upper_right:](https://rubygems.org/gems/starscope)|
-|181|[@pangloss](https://github.com/pangloss)/[**pacer**](https://github.com/pangloss/pacer)|||
-|180|[@tobi](https://github.com/tobi)/[**imagery**](https://github.com/tobi/imagery)|Image server / proxy that can resize images on demand based on common file prefixes ( such as _small, _medium ) and apply other rmagick effects. Supposed to be used between a Squid/Varnish and S3 ||
-|179|[@fnichol](https://github.com/fnichol)/[**chef-jenkins**](https://github.com/fnichol/chef-jenkins)|Former location for Jenkins Chef cookbook, now maintained by Chef Software Inc at https://github.com/chef-cookbooks/jenkins||
+|180|[@pangloss](https://github.com/pangloss)/[**pacer**](https://github.com/pangloss/pacer)|||
+|179|[@tobi](https://github.com/tobi)/[**imagery**](https://github.com/tobi/imagery)|Image server / proxy that can resize images on demand based on common file prefixes ( such as _small, _medium ) and apply other rmagick effects. Supposed to be used between a Squid/Varnish and S3 ||
+|178|[@fnichol](https://github.com/fnichol)/[**chef-jenkins**](https://github.com/fnichol/chef-jenkins)|Former location for Jenkins Chef cookbook, now maintained by Chef Software Inc at https://github.com/chef-cookbooks/jenkins||
 |174|[@macournoyer](https://github.com/macournoyer)/[**pusher**](https://github.com/macournoyer/pusher)|The Rack App that pushes (aka Rack::Comet)||
 |172|[@trishume](https://github.com/trishume)/[**pro**](https://github.com/trishume/pro)|Quickly jump to git repositories, run commands in batch and get status overviews.||
 |168|[@ono](https://github.com/ono)/[**resque-cleaner**](https://github.com/ono/resque-cleaner)|maintains the cleanliness of failed jobs on Resque||
-|164|[@gmarik](https://github.com/gmarik)/[**Gistie**](https://github.com/gmarik/Gistie)|Gistie is an open source Git-based pastebin implementation that enables sharing snippets(aka Gist) using simple web UI.||
+|166|[@gmarik](https://github.com/gmarik)/[**Gistie**](https://github.com/gmarik/Gistie)|Gistie is an open source Git-based pastebin implementation that enables sharing snippets(aka Gist) using simple web UI.||
 |161|[@eliotsykes](https://github.com/eliotsykes)/[**rack-zippy**](https://github.com/eliotsykes/rack-zippy)|Rack middleware for serving gzip files||
 |160|[@fnichol](https://github.com/fnichol)/[**knife-server**](https://github.com/fnichol/knife-server)|A Chef Knife plugin to manage Chef Servers. Bootstrap a new Chef Server on Amazon's EC2, Digital Ocean, Linode, OpenStack or a standalone server. Backup and restore your Chef Server or Hosted Chef's node, role, data bag, and environment JSON data.|[:arrow_upper_right:](http://fnichol.github.com/knife-server)|
-|159|[@jimeh](https://github.com/jimeh)/[**redistat**](https://github.com/jimeh/redistat)|A Redis-backed statistics storage and querying library written in Ruby.||
+|158|[@jimeh](https://github.com/jimeh)/[**redistat**](https://github.com/jimeh/redistat)|A Redis-backed statistics storage and querying library written in Ruby.||
 |157|[@samsymons](https://github.com/samsymons)/[**RedditKit.rb**](https://github.com/samsymons/RedditKit.rb)|[Deprecated] A Ruby wrapper for the reddit API|[:arrow_upper_right:](https://redditkit.com/)|
 |149|[@dkubb](https://github.com/dkubb)/[**yardstick**](https://github.com/dkubb/yardstick)|A tool for verifying YARD documentation coverage|[:arrow_upper_right:](http://wiki.github.com/dkubb/yardstick)|
 |148|[@delano](https://github.com/delano)/[**gibbler**](https://github.com/delano/gibbler)|Implementation-agnostic git-like hashes and history for Ruby objects|[:arrow_upper_right:](http://delano.github.com/gibbler)|
-|148|[@fnando](https://github.com/fnando)/[**pagseguro**](https://github.com/fnando/pagseguro)|Um plugin para o Ruby on Rails que permite utilizar o PagSeguro||
-|142|[@learnetto](https://github.com/learnetto)/[**calreact**](https://github.com/learnetto/calreact)|React and Rails 5 calendar appointment app|[:arrow_upper_right:](https://learnetto.com/users/hrishio/courses/the-complete-react-on-rails-5-course)|
+|147|[@fnando](https://github.com/fnando)/[**pagseguro**](https://github.com/fnando/pagseguro)|Um plugin para o Ruby on Rails que permite utilizar o PagSeguro||
+|143|[@learnetto](https://github.com/learnetto)/[**calreact**](https://github.com/learnetto/calreact)|React and Rails 5 calendar appointment app|[:arrow_upper_right:](https://learnetto.com/users/hrishio/courses/the-complete-react-on-rails-5-course)|
 |141|[@tj](https://github.com/tj)/[**growl**](https://github.com/tj/growl)|Ruby growlnotify 'bindings' (unobtrusive notification system)||
 |138|[@mispy](https://github.com/mispy)/[**ebooks_example**](https://github.com/mispy/ebooks_example)|Example of a full twitter_ebooks bot definition||
 |137|[@GCorbel](https://github.com/GCorbel)/[**activeform-rails**](https://github.com/GCorbel/activeform-rails)|Form Objects for ActiveModel||
-|135|[@tobi](https://github.com/tobi)/[**highlights**](https://github.com/tobi/highlights)|download your kindle highlights and email random ones to your inbox||
-|134|[@mirego](https://github.com/mirego)/[**activerecord_json_validator**](https://github.com/mirego/activerecord_json_validator)|:nut_and_bolt: ActiveRecord::JSONValidator makes it easy to validate JSON attributes against a JSON schema.|[:arrow_upper_right:](http://open.mirego.com)|
-|133|[@heycarsten](https://github.com/heycarsten)/[**email-veracity**](https://github.com/heycarsten/email-veracity)|Email Veracity is deprecated and has not been actively maintained for over 6 years.||
+|137|[@tobi](https://github.com/tobi)/[**highlights**](https://github.com/tobi/highlights)|download your kindle highlights and email random ones to your inbox||
+|136|[@mirego](https://github.com/mirego)/[**activerecord_json_validator**](https://github.com/mirego/activerecord_json_validator)|:nut_and_bolt: ActiveRecord::JSONValidator makes it easy to validate JSON attributes against a JSON schema.|[:arrow_upper_right:](http://open.mirego.com)|
 |132|[@bradrobertson](https://github.com/bradrobertson)/[**apartment**](https://github.com/bradrobertson/apartment)|NOTE: The official repository for apartment has now been moved to https://github.com/influitive/apartment||
-|130|[@wvanbergen](https://github.com/wvanbergen)/[**adyen**](https://github.com/wvanbergen/adyen)|Package to simplify including the Adyen payments services into a Ruby application.|[:arrow_upper_right:](http://www.adyen.com)|
-|128|[@fnando](https://github.com/fnando)/[**coupons**](https://github.com/fnando/coupons)|Coupons is a Rails engine for creating discount coupons.||
-|127|[@kbingman](https://github.com/kbingman)/[**paperclipped**](https://github.com/kbingman/paperclipped)|Please note, this extension is no longer being developed. Please take a look at the radiant-clipped-extension instead. Radiant extension for managing assets and images with the Paperclip plugin.||
+|132|[@heycarsten](https://github.com/heycarsten)/[**email-veracity**](https://github.com/heycarsten/email-veracity)|Email Veracity is deprecated and has not been actively maintained for over 6 years.||
+|131|[@wvanbergen](https://github.com/wvanbergen)/[**adyen**](https://github.com/wvanbergen/adyen)|Package to simplify including the Adyen payments services into a Ruby application.|[:arrow_upper_right:](http://www.adyen.com)|
+|129|[@fnando](https://github.com/fnando)/[**coupons**](https://github.com/fnando/coupons)|Coupons is a Rails engine for creating discount coupons.||
+|126|[@kbingman](https://github.com/kbingman)/[**paperclipped**](https://github.com/kbingman/paperclipped)|Please note, this extension is no longer being developed. Please take a look at the radiant-clipped-extension instead. Radiant extension for managing assets and images with the Paperclip plugin.||
 |126|[@remiprev](https://github.com/remiprev)/[**annyong**](https://github.com/remiprev/annyong)|Annyong starts a public static Web server in the current directory, allowing people in your local network to browse your files.|[:arrow_upper_right:](https://github.com/remiprev/annyong)|
-|125|[@codyfauser](https://github.com/codyfauser)/[**ebay**](https://github.com/codyfauser/ebay)|Ruby interface to the eBay XML Trading API|[:arrow_upper_right:](http://ebayapi.rubyforge.org/)|
-|125|[@danielharan](https://github.com/danielharan)/[**semantic-menu**](https://github.com/danielharan/semantic-menu)|A plugin to make rails menus easier to write||
-|124|[@sam-github](https://github.com/sam-github)/[**vpim**](https://github.com/sam-github/vpim)|vCard and iCalendar support for ruby|[:arrow_upper_right:](http://vpim.rubyforge.org/)|
+|125|[@sam-github](https://github.com/sam-github)/[**vpim**](https://github.com/sam-github/vpim)|vCard and iCalendar support for ruby|[:arrow_upper_right:](http://vpim.rubyforge.org/)|
+|124|[@codyfauser](https://github.com/codyfauser)/[**ebay**](https://github.com/codyfauser/ebay)|Ruby interface to the eBay XML Trading API|[:arrow_upper_right:](http://ebayapi.rubyforge.org/)|
+|124|[@danielharan](https://github.com/danielharan)/[**semantic-menu**](https://github.com/danielharan/semantic-menu)|A plugin to make rails menus easier to write||
 |123|[@maoueh](https://github.com/maoueh)/[**nugrant**](https://github.com/maoueh/nugrant)|Vagrant plugin enabling user specific configuration values||
 |122|[@Pistos](https://github.com/Pistos)/[**diakonos**](https://github.com/Pistos/diakonos)|Diakonos is a Linux console text editor for the masses.|[:arrow_upper_right:](http://diakonos.pist0s.ca/)|
 |121|[@dohliam](https://github.com/dohliam)/[**libreoffice-impress-templates**](https://github.com/dohliam/libreoffice-impress-templates)|Freely-licensed LibreOffice Impress templates|[:arrow_upper_right:](https://dohliam.github.io/libreoffice-impress-templates/)|
-|118|[@AndyObtiva](https://github.com/AndyObtiva)/[**super_module**](https://github.com/AndyObtiva/super_module)|SuperModule allows defining class methods and method invocations the same way a super class does without using def included(base). This also succeeds ActiveSupport::Concern by offering lighter syntax||
+|120|[@timsutton](https://github.com/timsutton)/[**brew-pkg**](https://github.com/timsutton/brew-pkg)|Build OS X installer packages directly from Homebrew formulae||
+|119|[@AndyObtiva](https://github.com/AndyObtiva)/[**super_module**](https://github.com/AndyObtiva/super_module)|SuperModule allows defining class methods and method invocations the same way a super class does without using def included(base). This also succeeds ActiveSupport::Concern by offering lighter syntax||
 |118|[@bbc](https://github.com/bbc)/[**REST-API-example**](https://github.com/bbc/REST-API-example)|Simple REST API example in Sinatra||
 |118|[@francois](https://github.com/francois)/[**piston**](https://github.com/francois/piston)|Piston is a utility that eases vendor branch management.  This repository is a complete reimplementation of Piston to provide different backends, depending on the repositories and working copies you pistonize from.|[:arrow_upper_right:](http://piston.rubyforge.org/)|
 |117|[@elecnix](https://github.com/elecnix)/[**ruby-geonames**](https://github.com/elecnix/ruby-geonames)|SVN clone of http://www.tbcn.ca/geonames|[:arrow_upper_right:](http://code.google.com/p/ruby-geonames/)|
 |117|[@marcandre](https://github.com/marcandre)/[**swf_fu**](https://github.com/marcandre/swf_fu)|Rails plugin: treat your Adobe Flash swf files like any other asset (images, javascripts, etc...) and embed them using SWFObject 2.2||
-|117|[@timsutton](https://github.com/timsutton)/[**brew-pkg**](https://github.com/timsutton/brew-pkg)|Build OS X installer packages directly from Homebrew formulae||
 |115|[@chesterbr](https://github.com/chesterbr)/[**ruby2600**](https://github.com/chesterbr/ruby2600)|An experimental Atari™ 2600 emulator, 100% written in Ruby||
 |115|[@trishume](https://github.com/trishume)/[**doubleVision**](https://github.com/trishume/doubleVision)|A ruby gem that that manipulates PNG filest to create magic thumbnails like http://funnyjunk.com/channel/ponytime/rainbow+dash/llhuDyy/15#15||
 |110|[@botanicus](https://github.com/botanicus)/[**logging4hackers**](https://github.com/botanicus/logging4hackers)|Anyone can append to file. How about using AMQP? Pipes? ZeroMQ? Other cool shit??? Huh???||
-|109|[@t6d](https://github.com/t6d)/[**smart_properties**](https://github.com/t6d/smart_properties)|Ruby accessors on steroids||
+|110|[@t6d](https://github.com/t6d)/[**smart_properties**](https://github.com/t6d/smart_properties)|Ruby accessors on steroids||
 |108|[@dima](https://github.com/dima)/[**restfulx**](https://github.com/dima/restfulx)|RestfulX Framework Code Generation Engine / Rails 2.1+ Integration Support|[:arrow_upper_right:](http://restfulx.github.com)|
 |108|[@fnando](https://github.com/fnando)/[**qe**](https://github.com/fnando/qe)|A simple interface over several background job libraries like Resque, Sidekiq and DelayedJob.||
-|104|[@fnando](https://github.com/fnando)/[**cpf_cnpj**](https://github.com/fnando/cpf_cnpj)|🇧🇷 Validate, generate and format CPF/CNPJ numbers. Include command-line tools.||
+|106|[@fnando](https://github.com/fnando)/[**cpf_cnpj**](https://github.com/fnando/cpf_cnpj)|🇧🇷 Validate, generate and format CPF/CNPJ numbers. Include command-line tools.||
+|104|[@fnando](https://github.com/fnando)/[**has_calendar**](https://github.com/fnando/has_calendar)|A view helper that creates a calendar using a table. You can easily add events with any content.|[:arrow_upper_right:](http://github.com/fnando/has_calendar)|
 |104|[@stewart](https://github.com/stewart)/[**dotcss**](https://github.com/stewart/dotcss)|Tweak the web.||
-|103|[@fnando](https://github.com/fnando)/[**has_calendar**](https://github.com/fnando/has_calendar)|A view helper that creates a calendar using a table. You can easily add events with any content.|[:arrow_upper_right:](http://github.com/fnando/has_calendar)|
 |103|[@marcandre](https://github.com/marcandre)/[**fruity**](https://github.com/marcandre/fruity)|Cool performance comparison tool||
 |102|[@moshen](https://github.com/moshen)/[**jekyll-asset_bundler**](https://github.com/moshen/jekyll-asset_bundler)|A small plugin for Jekyll to easily bundle and compress site assets||
 |102|[@pauldowman](https://github.com/pauldowman)/[**better_logging**](https://github.com/pauldowman/better_logging)|A Rails plugin that improves the log format.||
 |101|[@eliotsykes](https://github.com/eliotsykes)/[**asset_fingerprint**](https://github.com/eliotsykes/asset_fingerprint)|Asset Fingerprint Plugin for Ruby on Rails - allows you to use md5 or timestamps in query string or in asset filenames as suggested by Google Page Speed|[:arrow_upper_right:](http://github.com/eliotsykes/asset_fingerprint)|
 |100|[@vinibaggio](https://github.com/vinibaggio)/[**discover-unused-partials**](https://github.com/vinibaggio/discover-unused-partials)|A script to help you finding out unused partials. Good for big projects or projects under heavy refactoring||
+|99|[@aarongough](https://github.com/aarongough)/[**mini-smtp-server**](https://github.com/aarongough/mini-smtp-server)|A tiny and highly customizable SMTP server.|[:arrow_upper_right:](http://github.com/aarongough/mini-smtp-server)|
 |99|[@burke](https://github.com/burke)/[**monkeysupport**](https://github.com/burke/monkeysupport)|[abandoned] C extensions monkeypatching ActiveSupport for improved perfomance||
-|98|[@aarongough](https://github.com/aarongough)/[**mini-smtp-server**](https://github.com/aarongough/mini-smtp-server)|A tiny and highly customizable SMTP server.|[:arrow_upper_right:](http://github.com/aarongough/mini-smtp-server)|
 |98|[@bbc](https://github.com/bbc)/[**Similarity**](https://github.com/bbc/Similarity)|Calculate similarity between documents using TF-IDF weights||
 |98|[@interstateone](https://github.com/interstateone)/[**siriproxy-hue**](https://github.com/interstateone/siriproxy-hue)|A SiriProxy plugin to control Philips Hue lights with Siri||
+|97|[@dkubb](https://github.com/dkubb)/[**memoizable**](https://github.com/dkubb/memoizable)|Memoize method return values||
 |96|[@cesarferreira](https://github.com/cesarferreira)/[**international**](https://github.com/cesarferreira/international)|Tool to convert CSV to localization specific files (ios/android)||
-|96|[@dkubb](https://github.com/dkubb)/[**memoizable**](https://github.com/dkubb/memoizable)|Memoize method return values||
 |95|[@kovyrin](https://github.com/kovyrin)/[**loops**](https://github.com/kovyrin/loops)|Simple background loops framework for ruby|[:arrow_upper_right:](https://github.com/kovyrin/loops)|
 |93|[@lalithr95](https://github.com/lalithr95)/[**fuzzapi**](https://github.com/lalithr95/fuzzapi)|Fuzzapi is a tool used for REST API pentesting and uses API_Fuzzer gem|[:arrow_upper_right:](https://github.com/lalithr95/API-fuzzer)|
 |92|[@irccloud](https://github.com/irccloud)/[**irccloud-tools**](https://github.com/irccloud/irccloud-tools)|Tools, hacks and docs for irccloud.com|[:arrow_upper_right:](https://irccloud.com/)|
-|91|[@tj](https://github.com/tj)/[**user-agent**](https://github.com/tj/user-agent)|User agent string parser for Ruby||
-|90|[@chesterbr](https://github.com/chesterbr)/[**cruzalinhas**](https://github.com/chesterbr/cruzalinhas)|Crawls routes from São Paulo's transportation company website and makes them available in a proximity-searchable, interactive map|[:arrow_upper_right:](http://cruzalinhas.com)|
-|89|[@portertech](https://github.com/portertech)/[**chef-monitor**](https://github.com/portertech/chef-monitor)|An OpsCode Chef cookbook for monitoring services, wrapping the Sensu cookbook.|[:arrow_upper_right:](http://community.opscode.com/cookbooks/monitor)|
+|92|[@tj](https://github.com/tj)/[**user-agent**](https://github.com/tj/user-agent)|User agent string parser for Ruby||
+|90|[@portertech](https://github.com/portertech)/[**chef-monitor**](https://github.com/portertech/chef-monitor)|An OpsCode Chef cookbook for monitoring services, wrapping the Sensu cookbook.|[:arrow_upper_right:](http://community.opscode.com/cookbooks/monitor)|
+|89|[@chesterbr](https://github.com/chesterbr)/[**cruzalinhas**](https://github.com/chesterbr/cruzalinhas)|Crawls routes from São Paulo's transportation company website and makes them available in a proximity-searchable, interactive map|[:arrow_upper_right:](http://cruzalinhas.com)|
 |89|[@qq99](https://github.com/qq99)/[**muvee**](https://github.com/qq99/muvee)|μv: (mew-vee) Netflix, for your home.  WIP||
 |88|[@Betterment](https://github.com/Betterment)/[**test_track**](https://github.com/Betterment/test_track)|An open-source split-testing and feature-toggling system written in Ruby on Rails||
 |88|[@edenzik](https://github.com/edenzik)/[**cs105b**](https://github.com/edenzik/cs105b)|A repo for Brandeis COSI105b class||
+|88|[@honza](https://github.com/honza)/[**django-chef**](https://github.com/honza/django-chef)|django with chef template (no longer maintained)||
 |88|[@phildionne](https://github.com/phildionne)/[**associates**](https://github.com/phildionne/associates)|Multi-model objects||
-|87|[@honza](https://github.com/honza)/[**django-chef**](https://github.com/honza/django-chef)|django with chef template (no longer maintained)||
 |86|[@fnando](https://github.com/fnando)/[**rack-api**](https://github.com/fnando/rack-api)|Create web app APIs that respond to one or more formats using an elegant DSL.||
 |86|[@louismullie](https://github.com/louismullie)/[**open-nlp**](https://github.com/louismullie/open-nlp)|Ruby bindings to the OpenNLP Java toolkit.||
 |86|[@yrashk](https://github.com/yrashk)/[**strokedb**](https://github.com/yrashk/strokedb)|StrokeDB is an embeddable distributed document database written in Ruby|[:arrow_upper_right:](http://strokedb.com/)|
@@ -142,7 +142,7 @@
 |83|[@zuk](https://github.com/zuk)/[**DrowsyDromedary**](https://github.com/zuk/DrowsyDromedary)|REST interface for MongoDB written in Ruby||
 |81|[@aarongough](https://github.com/aarongough)/[**flea**](https://github.com/aarongough/flea)|Flea is a tiny Lisp interpreter written in Ruby|[:arrow_upper_right:](https://github.com/aarongough/flea)|
 |80|[@CodeMontageHQ](https://github.com/CodeMontageHQ)/[**codemontage**](https://github.com/CodeMontageHQ/codemontage)|CodeMontage empowers coders to improve their impact on the world. Find open source software projects with a social impact and save the world.|[:arrow_upper_right:](http://codemontage.com)|
-|80|[@aarongough](https://github.com/aarongough)/[**has_threaded_comments**](https://github.com/aarongough/has_threaded_comments)|Add an entire threaded comment system to your Rails application with only 7 lines of code.|[:arrow_upper_right:](http://github.com/aarongough/has_threaded_comments)|
+|80|[@aarongough](https://github.com/aarongough)/[**has_threaded_comments**](https://github.com/aarongough/has_threaded_comments)|[DEPRECATED] Add an entire threaded comment system to your Rails application with only 7 lines of code.||
 |78|[@andyw8](https://github.com/andyw8)/[**rubymotion_generators**](https://github.com/andyw8/rubymotion_generators)|Old and no longer maintained||
 |78|[@learnetto](https://github.com/learnetto)/[**reactchat**](https://github.com/learnetto/reactchat)|A chat app built with React.js and ActionCable in Ruby on Rails 5.1|[:arrow_upper_right:](https://reactrooms.herokuapp.com/)|
 |77|[@fnando](https://github.com/fnando)/[**notifier**](https://github.com/fnando/notifier)|Send system notifications on several platforms with a simple and unified API. Currently supports Growl, Notification Center, Libnotify, OSD, KDE (Knotify and Kdialog) and Snarl||
@@ -150,15 +150,15 @@
 |74|[@wvanbergen](https://github.com/wvanbergen)/[**vertica**](https://github.com/wvanbergen/vertica)|Ruby adapter for Vertica databases|[:arrow_upper_right:](http://vanbergen.org/vertica)|
 |72|[@nbrochu](https://github.com/nbrochu)/[**smooth_s3**](https://github.com/nbrochu/smooth_s3)|A user-friendly superset of the S3 gem geared towards file system backup operations.||
 |70|[@0xfe](https://github.com/0xfe)/[**rubyrefresher**](https://github.com/0xfe/rubyrefresher)|A Ruby language refresher.||
-|69|[@jhawthorn](https://github.com/jhawthorn)/[**dkim**](https://github.com/jhawthorn/dkim)|:envelope: Pure Ruby DKIM signature library with Rails integration||
+|70|[@jhawthorn](https://github.com/jhawthorn)/[**dkim**](https://github.com/jhawthorn/dkim)|:envelope: Pure Ruby DKIM signature library with Rails integration||
 |69|[@redhat-cip](https://github.com/redhat-cip)/[**puppet-ceph**](https://github.com/redhat-cip/puppet-ceph)|Deploy Ceph using puppet|[:arrow_upper_right:](http://ceph.com/)|
 |67|[@fnando](https://github.com/fnando)/[**gem-open**](https://github.com/fnando/gem-open)|Open gems into your favorite editor by running a specific gem command||
+|66|[@Betterment](https://github.com/Betterment)/[**webvalve**](https://github.com/Betterment/webvalve)|Betterment's framework for locally developing and testing service-oriented apps in isolation with WebMock and Sinatra-based fakes|[:arrow_upper_right:](https://rubygems.org/gems/webvalve)|
 |66|[@aarongough](https://github.com/aarongough)/[**ruby-tmdb**](https://github.com/aarongough/ruby-tmdb)|[DEPRECATED] An ActiveRecord-style API wrapper for TheMovieDB.org|[:arrow_upper_right:](http://github.com/aarongough/ruby-tmdb)|
 |66|[@fnando](https://github.com/fnando)/[**test_notifier**](https://github.com/fnando/test_notifier)|Display system notifications (dbus, growl and snarl) after running tests. It works on Mac OS X, Linux and Windows. Powerful when used with Autotest ZenTest gem for Rails apps.|[:arrow_upper_right:](http://github.com/fnando/test_notifier)|
 |65|[@cesarferreira](https://github.com/cesarferreira)/[**j2j**](https://github.com/cesarferreira/j2j)|Convert any file.json to the corresponding mapped java files ||
 |65|[@darkhelmet](https://github.com/darkhelmet)/[**rack-mongrel2**](https://github.com/darkhelmet/rack-mongrel2)|Abandoned. Contact me if you want to take over this project.|[:arrow_upper_right:](http://github.com/darkhelmet/rack-mongrel2)|
 |65|[@yosephha](https://github.com/yosephha)/[**Crank-Starter**](https://github.com/yosephha/Crank-Starter)|A single-page app inspired by Kickstarter. Ruby on Rails backend, React/Redux frontend ||
-|64|[@Betterment](https://github.com/Betterment)/[**webvalve**](https://github.com/Betterment/webvalve)|Betterment's framework for locally developing and testing service-oriented apps in isolation with WebMock and Sinatra-based fakes|[:arrow_upper_right:](https://rubygems.org/gems/webvalve)|
 |63|[@bbc](https://github.com/bbc)/[**zeitgeist**](https://github.com/bbc/zeitgeist)|Twitter Zeitgeist|[:arrow_upper_right:](http://zeitgeist.prototyping.bbc.co.uk/)|
 |63|[@celsodantas](https://github.com/celsodantas)/[**br_populate**](https://github.com/celsodantas/br_populate)|Arquivo seed contendo todas as cidades e estados do Brasil.||
 |63|[@eliotsykes](https://github.com/eliotsykes)/[**rails-testing-toolbox**](https://github.com/eliotsykes/rails-testing-toolbox)|:wrench: Tools to help Rails developers test||
@@ -184,41 +184,41 @@
 |53|[@macournoyer](https://github.com/macournoyer)/[**orange**](https://github.com/macournoyer/orange)|Yummy & juicy compiler||
 |52|[@yjerem](https://github.com/yjerem)/[**leg**](https://github.com/yjerem/leg)|Tools for making step-by-step code walkthroughs||
 |51|[@bbc](https://github.com/bbc)/[**audio_waveform-ruby**](https://github.com/bbc/audio_waveform-ruby)|Ruby gem that provides access to audio waveform data files generated by audiowaveform|[:arrow_upper_right:](http://waveform.prototyping.bbc.co.uk)|
-|51|[@jipiboily](https://github.com/jipiboily)/[**spree_multi_lingual**](https://github.com/jipiboily/spree_multi_lingual)|Spree multi-lingual is a plugin to make multi locale store with Spree possible||
 |51|[@whoward](https://github.com/whoward)/[**ruby-curses**](https://github.com/whoward/ruby-curses)|Just a personal repo I use to keep examples of using the ruby curses libraries while I learn NCurses||
+|50|[@jipiboily](https://github.com/jipiboily)/[**spree_multi_lingual**](https://github.com/jipiboily/spree_multi_lingual)|Spree multi-lingual is a plugin to make multi locale store with Spree possible||
 |50|[@stungeye](https://github.com/stungeye)/[**glutton_ratelimit**](https://github.com/stungeye/glutton_ratelimit)|Rate Limiting for Ruby||
 |49|[@StephenOTT](https://github.com/StephenOTT)/[**GitLab-Time-Tracking**](https://github.com/StephenOTT/GitLab-Time-Tracking)|Lightweight Time Tracking application for GitLab Issue Queues||
+|49|[@louismullie](https://github.com/louismullie)/[**scalpel**](https://github.com/louismullie/scalpel)|A fast and accurate rule-based sentence segmentation tool for Ruby. ||
 |49|[@mirego](https://github.com/mirego)/[**emojimmy**](https://github.com/mirego/emojimmy)|[Deprecated] Emojimmy makes it possible to store emoji characters in ActiveRecord datastores that don’t support 4-Byte UTF-8 Unicode (utf8mb4) encoding.|[:arrow_upper_right:](http://open.mirego.com)|
 |48|[@cesarferreira](https://github.com/cesarferreira)/[**react-native-logcat**](https://github.com/cesarferreira/react-native-logcat)|:zap: Colored Logcat for react-native android||
-|48|[@louismullie](https://github.com/louismullie)/[**scalpel**](https://github.com/louismullie/scalpel)|A fast and accurate rule-based sentence segmentation tool for Ruby. ||
 |47|[@joshnuss](https://github.com/joshnuss)/[**spree-faq**](https://github.com/joshnuss/spree-faq)|Frequently Asked Question extension for Spree||
+|46|[@diogob](https://github.com/diogob)/[**carrierwave-postgresql**](https://github.com/diogob/carrierwave-postgresql)|Use PostgreSQL large objects (AKA BLOBs) to store your files inside the database|[:arrow_upper_right:](http://diogob.github.com/carrierwave-postgresql/)|
 |46|[@lalithr95](https://github.com/lalithr95)/[**API-fuzzer**](https://github.com/lalithr95/API-fuzzer)|API Fuzzer which allows to fuzz request attributes using common pentesting techniques and lists vulnerabilities||
-|45|[@diogob](https://github.com/diogob)/[**carrierwave-postgresql**](https://github.com/diogob/carrierwave-postgresql)|Use PostgreSQL large objects (AKA BLOBs) to store your files inside the database|[:arrow_upper_right:](http://diogob.github.com/carrierwave-postgresql/)|
 |45|[@fnando](https://github.com/fnando)/[**post_commit**](https://github.com/fnando/post_commit)|Post commit allows you to notify several services with a simple and elegant DSL. Five services are supported for now: Basecamp, Campfire, FriendFeed, LightHouse and Twitter.|[:arrow_upper_right:](http://rdoc.info/projects/fnando/post_commit)|
+|45|[@fnando](https://github.com/fnando)/[**validators**](https://github.com/fnando/validators)|Some ActiveModel/ActiveRecord validators||
 |44|[@andyw8](https://github.com/andyw8)/[**rubymotion_app_template**](https://github.com/andyw8/rubymotion_app_template)|Blank RubyMotion project with sensible defaults||
 |44|[@dima](https://github.com/dima)/[**pomodo_on_rails**](https://github.com/dima/pomodo_on_rails)|Time Tracking application developed in RESTful Flex Development (Rails Version)||
 |44|[@fnando](https://github.com/fnando)/[**breadcrumbs**](https://github.com/fnando/breadcrumbs)|Breadcrumbs is a simple Rails plugin that adds a breadcrumbs object to controllers and views.||
 |44|[@fnando](https://github.com/fnando)/[**burgundy**](https://github.com/fnando/burgundy)|A simple wrapper for objects (think of Burgundy as a decorator/presenter) in less than 150 lines.||
 |44|[@fnando](https://github.com/fnando)/[**rubygems_proxy**](https://github.com/fnando/rubygems_proxy)|Rack app for caching RubyGems files. Very useful in our build server that sometimes fails due to our network or rubygems.org timeout.||
-|44|[@fnando](https://github.com/fnando)/[**validators**](https://github.com/fnando/validators)|Some ActiveModel/ActiveRecord validators||
 |44|[@onemonthrails](https://github.com/onemonthrails)/[**pinteresting**](https://github.com/onemonthrails/pinteresting)|||
 |44|[@sbfaulkner](https://github.com/sbfaulkner)/[**sinatra-prawn**](https://github.com/sbfaulkner/sinatra-prawn)|Sinatra extension to add support for pdf rendering with Prawn templates.||
 |43|[@fnando](https://github.com/fnando)/[**minitest-utils**](https://github.com/fnando/minitest-utils)|Some utilities for your Minitest day-to-day usage.||
+|42|[@celsodantas](https://github.com/celsodantas)/[**protokoll**](https://github.com/celsodantas/protokoll)|simple Rails gem to create custom autoincrement values to a database column||
 |42|[@darkhelmet](https://github.com/darkhelmet)/[**sinatra-bundles**](https://github.com/darkhelmet/sinatra-bundles)|Easy asset packaging for sinatra|[:arrow_upper_right:](http://verboselogging.com/2010/01/13/sinatra-bundles-easy-asset-bundling-for-sinatra)|
 |42|[@jhund](https://github.com/jhund)/[**filterrific_demo**](https://github.com/jhund/filterrific_demo)|A demo Rails app for the Filterrific gem||
 |42|[@monzo](https://github.com/monzo)/[**mondo-ruby**](https://github.com/monzo/mondo-ruby)|Ruby Client||
 |42|[@tobi](https://github.com/tobi)/[**google_apps_login**](https://github.com/tobi/google_apps_login)|Allows you to protect controllers by requiring login to a Google Apps for domains account. Great SSO solution for small companies. ||
 |42|[@twg](https://github.com/twg)/[**api_docs**](https://github.com/twg/api_docs)|Generate API documentation using integration tests in Rails 3||
-|42|[@uken](https://github.com/uken)/[**guard-sidekiq**](https://github.com/uken/guard-sidekiq)|||
-|41|[@celsodantas](https://github.com/celsodantas)/[**protokoll**](https://github.com/celsodantas/protokoll)|simple Rails gem to create custom autoincrement values to a database column||
 |41|[@gregbell](https://github.com/gregbell)/[**inherited_views**](https://github.com/gregbell/inherited_views)|The simplest way to implement REST controllers and views in rails applications||
 |41|[@jhund](https://github.com/jhund)/[**rails-recipes**](https://github.com/jhund/rails-recipes)|A collection of recipes for solid Ruby on Rails applications. Extracted from  dozens of production apps and 10,000+ hours of deliberate Ruby on Rails practice  since 2005.||
 |41|[@kpumuk](https://github.com/kpumuk)/[**easy-prof**](https://github.com/kpumuk/easy-prof)|Simple and easy to use Ruby code profiler, which could be used as a Rails plugin.|[:arrow_upper_right:](http://kpumuk.info/ror-plugins/creating-a-simple-but-powerful-profiler-for-ruby-on-rails/)|
+|41|[@t6d](https://github.com/t6d)/[**composable_operations**](https://github.com/t6d/composable_operations)|Composable Operations is a tool set for creating operations and assembling multiple of these operations in operation pipelines.||
+|41|[@uken](https://github.com/uken)/[**guard-sidekiq**](https://github.com/uken/guard-sidekiq)|||
 |41|[@wohali](https://github.com/wohali)/[**couchdb-cookbook**](https://github.com/wohali/couchdb-cookbook)|Development repository for Chef Cookbook couchdb|[:arrow_upper_right:](https://supermarket.chef.io/cookbooks/couchdb)|
 |40|[@cmer](https://github.com/cmer)/[**fb-canvas-rails**](https://github.com/cmer/fb-canvas-rails)|Example of a Facebook canvas app on Rails with a bunch of fixes, hacks, and workarounds for common problems||
 |40|[@fnando](https://github.com/fnando)/[**permalink**](https://github.com/fnando/permalink)|Add permalink support to Rails apps with this plugin||
 |40|[@jhawthorn](https://github.com/jhawthorn)/[**execjs-fastnode**](https://github.com/jhawthorn/execjs-fastnode)|:zap: A faster Node.JS integration for Ruby/Rails ExecJS||
-|40|[@t6d](https://github.com/t6d)/[**composable_operations**](https://github.com/t6d/composable_operations)|Composable Operations is a tool set for creating operations and assembling multiple of these operations in operation pipelines.||
 |40|[@tobi](https://github.com/tobi)/[**money_column**](https://github.com/tobi/money_column)|Simplifies dealing with money values in the database. Successor to the money gem. Extracted from Shopify. ||
 |39|[@botanicus](https://github.com/botanicus)/[**code-cleaner**](https://github.com/botanicus/code-cleaner)|Remove trailing whitespace, append missing \n and replace tabs by two spaces.||
 |39|[@francois](https://github.com/francois)/[**jaccard**](https://github.com/francois/jaccard)|A library to make calculating the Jaccard Coefficient Index a snap|[:arrow_upper_right:](http://github.com/francois/jaccard)|
@@ -226,18 +226,18 @@
 |39|[@mdeering](https://github.com/mdeering)/[**flash_messages_helper**](https://github.com/mdeering/flash_messages_helper)|A simple and configurable Rails view helper for displaying flash messages.||
 |38|[@burke](https://github.com/burke)/[**webconfig**](https://github.com/burke/webconfig)|[abandoned] generate apache and nginx vhosts from single yaml manifest||
 |38|[@heycarsten](https://github.com/heycarsten)/[**lcbo**](https://github.com/heycarsten/lcbo)|A no longer functioning library for parsing and crawling LCBO.com|[:arrow_upper_right:](http://lcboapi.com)|
+|37|[@Pistos](https://github.com/Pistos)/[**better-benchmark**](https://github.com/Pistos/better-benchmark)|Statistically correct benchmarking for Ruby.||
 |37|[@aarongough](https://github.com/aarongough)/[**sexpistol**](https://github.com/aarongough/sexpistol)|A fast S-Expression parser library for Ruby|[:arrow_upper_right:](http://github.com/aarongough/sexpistol)|
 |37|[@botanicus](https://github.com/botanicus)/[**ace**](https://github.com/botanicus/ace)|Flexible static sites generator suitable even for big and complex sites with dynamically generated pages such as pages for each tag etc (not on the fly obviously as it just produces HTML).||
-|36|[@Pistos](https://github.com/Pistos)/[**better-benchmark**](https://github.com/Pistos/better-benchmark)|Statistically correct benchmarking for Ruby.||
+|36|[@dkubb](https://github.com/dkubb)/[**descendants_tracker**](https://github.com/dkubb/descendants_tracker)|Track descendants of a class||
 |35|[@Betterment](https://github.com/Betterment)/[**test_track_rails_client**](https://github.com/Betterment/test_track_rails_client)|The Ruby on Rails client for TestTrack||
-|35|[@dkubb](https://github.com/dkubb)/[**descendants_tracker**](https://github.com/dkubb/descendants_tracker)|Track descendants of a class||
 |35|[@ericduran](https://github.com/ericduran)/[**drupalcores**](https://github.com/ericduran/drupalcores)|A project to generate a list of core contributers|[:arrow_upper_right:](http://ericduran.github.com/drupalcores/)|
-|35|[@fnichol](https://github.com/fnichol)/[**chef-rvm_passenger**](https://github.com/fnichol/chef-rvm_passenger)|Chef cookbook which installs the Passenger gem via RVM and configures Apache or nginx.|[:arrow_upper_right:](http://fnichol.github.com/chef-rvm_passenger/)|
-|35|[@nbrochu](https://github.com/nbrochu)/[**bulkdom**](https://github.com/nbrochu/bulkdom)|An efficient domain name availability bulk checker that looks for the presence of DNS Records before querying the Whois Server to save on requests and lower the chance of temporarily getting IP banned.|[:arrow_upper_right:](http://domainwhirl.com)|
 |35|[@programble](https://github.com/programble)/[**effuse**](https://github.com/programble/effuse)|Over-engineered tool for symlinking dotfiles||
 |34|[@fnando](https://github.com/fnando)/[**simple_presenter**](https://github.com/fnando/simple_presenter)|A simple presenter/facade/decorator/whatever implementation.||
+|34|[@fnichol](https://github.com/fnichol)/[**chef-rvm_passenger**](https://github.com/fnichol/chef-rvm_passenger)|Chef cookbook which installs the Passenger gem via RVM and configures Apache or nginx.|[:arrow_upper_right:](http://fnichol.github.com/chef-rvm_passenger/)|
 |34|[@ktlacaelel](https://github.com/ktlacaelel)/[**plog**](https://github.com/ktlacaelel/plog)|Ruby on Rails production log statistics generator. by Kazuyoshi Tlacaelel.|[:arrow_upper_right:](http://github.com/ktlacaelel/plog)|
 |34|[@matthutchinson](https://github.com/matthutchinson)/[**acts_as_textcaptcha**](https://github.com/matthutchinson/acts_as_textcaptcha)|Text-based logic question captcha's for Rails  🤖🚫|[:arrow_upper_right:](https://acts-as-textcaptcha-demo.herokuapp.com)|
+|34|[@nbrochu](https://github.com/nbrochu)/[**bulkdom**](https://github.com/nbrochu/bulkdom)|An efficient domain name availability bulk checker that looks for the presence of DNS Records before querying the Whois Server to save on requests and lower the chance of temporarily getting IP banned.|[:arrow_upper_right:](http://domainwhirl.com)|
 |33|[@delano](https://github.com/delano)/[**storable**](https://github.com/delano/storable)|Marshal Ruby classes into and out of multiple formats (yaml, json, csv, tsv)|[:arrow_upper_right:](http://delano.github.com/storable)|
 |33|[@irfansharif](https://github.com/irfansharif)/[**cerebrum**](https://github.com/irfansharif/cerebrum)|Artificial Neural Networks (ANN's) in Ruby (unmaintained, unfortunately)||
 |33|[@pauldowman](https://github.com/pauldowman)/[**blog_code_examples**](https://github.com/pauldowman/blog_code_examples)|Code examples from my blog|[:arrow_upper_right:](http://pauldowman.com)|
@@ -245,21 +245,21 @@
 |32|[@andyw8](https://github.com/andyw8)/[**capybara-page-object**](https://github.com/andyw8/capybara-page-object)|||
 |32|[@barryf](https://github.com/barryf)/[**transformative**](https://github.com/barryf/transformative)|IndieWeb personal website software. In use at https://barryfrost.com||
 |32|[@dkubb](https://github.com/dkubb)/[**axiom-sql-generator**](https://github.com/dkubb/axiom-sql-generator)|Relational algebra SQL generator|[:arrow_upper_right:](https://github.com/dkubb/axiom-sql-generator)|
+|32|[@dkubb](https://github.com/dkubb)/[**axiom-types**](https://github.com/dkubb/axiom-types)|Define types with optional constraints||
 |32|[@fnando](https://github.com/fnando)/[**redis-settings**](https://github.com/fnando/redis-settings)|Store application and user settings on Redis. Comes with ActiveRecord support.||
 |32|[@jhund](https://github.com/jhund)/[**rails-data-explorer**](https://github.com/jhund/rails-data-explorer)|A Rails engine plugin for exploring data in your app with charts and statistics.||
 |32|[@kovyrin](https://github.com/kovyrin)/[**magic-enum**](https://github.com/kovyrin/magic-enum)|Method used to define ENUM-like attributes in your model (int fields actually)||
 |32|[@mispy](https://github.com/mispy)/[**libtcod**](https://github.com/mispy/libtcod)|Ruby bindings for the libtcod roguelike library||
 |32|[@singpolyma](https://github.com/singpolyma)/[**shttpd**](https://github.com/singpolyma/shttpd)|An HTTP server written in POSIX shell script||
+|32|[@westonganger](https://github.com/westonganger)/[**rearmed-rb**](https://github.com/westonganger/rearmed-rb)|A collection of helpful methods and monkey patches for Arrays, Hash, Enumerables, Strings, Objects & Dates in Ruby||
 |31|[@AndyObtiva](https://github.com/AndyObtiva)/[**ultra_light_wizard**](https://github.com/AndyObtiva/ultra_light_wizard)|No time to manage a wizard state machine, session variables, or complicated controllers? Use instant wizard!! A RESTful session-less validation-friendly simple wizard approach in Rails.||
 |31|[@danp](https://github.com/danp)/[**letsencrypt-dnsimple**](https://github.com/danp/letsencrypt-dnsimple)|Quick hack to use letsencrypt DNS challenge with dnsimple||
 |31|[@delano](https://github.com/delano)/[**scruffy**](https://github.com/delano/scruffy)|An unofficial fork of the Ruby graphing library with sexy defaults for hi-res charts. (NOT MAINTAINED)|[:arrow_upper_right:](http://scruffy.rubyforge.org/)|
-|31|[@dkubb](https://github.com/dkubb)/[**axiom-types**](https://github.com/dkubb/axiom-types)|Define types with optional constraints||
 |31|[@fnando](https://github.com/fnando)/[**ar-uuid**](https://github.com/fnando/ar-uuid)|Override migration methods to support UUID columns without having to be explicit about it.||
 |31|[@fnichol](https://github.com/fnichol)/[**searchef**](https://github.com/fnichol/searchef)|Stub Chef Search!||
 |31|[@iMacTia](https://github.com/iMacTia)/[**sidekiq-logstash**](https://github.com/iMacTia/sidekiq-logstash)|Sidekiq plugin to log in Logstash style||
 |31|[@juliend2](https://github.com/juliend2)/[**phlower**](https://github.com/juliend2/phlower)|convert awesome's syntax into php||
 |31|[@volmer](https://github.com/volmer)/[**policial**](https://github.com/volmer/policial)|Review pull requests for style guide violations||
-|31|[@westonganger](https://github.com/westonganger)/[**rearmed-rb**](https://github.com/westonganger/rearmed-rb)|A collection of helpful methods and monkey patches for Arrays, Hash, Enumerables, Strings, Objects & Dates in Ruby||
 |30|[@apetresc](https://github.com/apetresc)/[**vagrant-joyent**](https://github.com/apetresc/vagrant-joyent)|A Vagrant provider for Joyent||
 |30|[@fnando](https://github.com/fnando)/[**tokens**](https://github.com/fnando/tokens)|Add token support to Rails apps with this plugin||
 |30|[@thoughtworks](https://github.com/thoughtworks)/[**voto-como-vamos**](https://github.com/thoughtworks/voto-como-vamos)|||
@@ -270,13 +270,13 @@
 |29|[@pangloss](https://github.com/pangloss)/[**ruby_picasa**](https://github.com/pangloss/ruby_picasa)|Provides a super easy to use object layer for authenticating and accessing Picasa through their API.|[:arrow_upper_right:](http://code.google.com/apis/picasaweb/overview.html)|
 |29|[@portertech](https://github.com/portertech)/[**carrier-pigeon**](https://github.com/portertech/carrier-pigeon)|The simplest library to say something on IRC.||
 |29|[@sbfaulkner](https://github.com/sbfaulkner)/[**sinatra-helpers**](https://github.com/sbfaulkner/sinatra-helpers)|a bunch of useful helpers for sinatra applications|[:arrow_upper_right:](http://github.com/sbfaulkner/sinatra-helpers)|
-|28|[@fnichol](https://github.com/fnichol)/[**chef-gitorious**](https://github.com/fnichol/chef-gitorious)|Gitorious cookbook for Chef||
 |28|[@fnichol](https://github.com/fnichol)/[**chef-homesick**](https://github.com/fnichol/chef-homesick)|Chef library cookbook to manage Homesick castle repositories.|[:arrow_upper_right:](http://fnichol.github.io/chef-homesick)|
 |28|[@kpumuk](https://github.com/kpumuk)/[**sphinx**](https://github.com/kpumuk/sphinx)|An easy interface to Sphinx standalone full-text search engine. It is implemented as plugin for Ruby on Rails, but can be easily used as standalone library.|[:arrow_upper_right:](http://kpumuk.info/projects/ror-plugins/sphinx)|
 |28|[@mirego](https://github.com/mirego)/[**partisan**](https://github.com/mirego/partisan)|:triangular_flag_on_post: Partisan is a Ruby library that allows ActiveRecord records to be followers and followables.|[:arrow_upper_right:](http://open.mirego.com)|
 |28|[@t6d](https://github.com/t6d)/[**action_widget**](https://github.com/t6d/action_widget)|A widget system for Ruby on Rails and Middleman.||
 |28|[@wvanbergen](https://github.com/wvanbergen)/[**http_status_exceptions**](https://github.com/wvanbergen/http_status_exceptions)|A Rails plugin to use exceptions for generating HTTP status responses.|[:arrow_upper_right:](http://github.com/wvanbergen/http_status_exceptions/wiki)|
 |27|[@bbc](https://github.com/bbc)/[**diarize-jruby**](https://github.com/bbc/diarize-jruby)|A simple toolkit for speaker segmentation and identification||
+|27|[@fnichol](https://github.com/fnichol)/[**chef-gitorious**](https://github.com/fnichol/chef-gitorious)|Gitorious cookbook for Chef||
 |27|[@francois](https://github.com/francois)/[**nestor**](https://github.com/francois/nestor)|||
 |27|[@marcandre](https://github.com/marcandre)/[**packable**](https://github.com/marcandre/packable)|Extensive pack and unpack capabilities||
 |27|[@mirego](https://github.com/mirego)/[**microscope**](https://github.com/mirego/microscope)|:microscope: Microscope adds useful scopes targeting ActiveRecord boolean, date and datetime fields.|[:arrow_upper_right:](http://open.mirego.com)|
@@ -300,6 +300,7 @@
 |25|[@sbfaulkner](https://github.com/sbfaulkner)/[**has_states**](https://github.com/sbfaulkner/has_states)|yet another acts_as_state_machine type of plugin||
 |25|[@snwh](https://github.com/snwh)/[**faba-mono-icons**](https://github.com/snwh/faba-mono-icons)|Faba Mono (Panel) Icons||
 |25|[@t6d](https://github.com/t6d)/[**request_interceptor**](https://github.com/t6d/request_interceptor)|Sinatra based foreign API simulation for your testsuite||
+|24|[@aarongough](https://github.com/aarongough)/[**triangular**](https://github.com/aarongough/triangular)|A ruby library for reading, writing and manipulating stereolithography (STL) files.||
 |24|[@andyw8](https://github.com/andyw8)/[**RubyMotion-Social-Example**](https://github.com/andyw8/RubyMotion-Social-Example)|An example of using the iOS 6 Social.framework with RubyMotion||
 |24|[@delano](https://github.com/delano)/[**sysinfo**](https://github.com/delano/sysinfo)|All your system-independent infoz in one handy (Ruby) class|[:arrow_upper_right:](http://delano.github.com/sysinfo)|
 |24|[@mirego](https://github.com/mirego)/[**activerecord_sane_schema_dumper**](https://github.com/mirego/activerecord_sane_schema_dumper)|:memo: ActiveRecord::SaneSchemaDumper removes useless/harmful whitespace from Rails’ generated `db/schema.rb` file.|[:arrow_upper_right:](http://open.mirego.com)|
@@ -307,7 +308,6 @@
 |24|[@nanzhong](https://github.com/nanzhong)/[**octo**](https://github.com/nanzhong/octo)|Run commands on multiple hosts at the same time||
 |24|[@portertech](https://github.com/portertech)/[**chef-metrics**](https://github.com/portertech/chef-metrics)|A report handler for OpsCode Chef runs, sending metrics to x.||
 |24|[@ryansch](https://github.com/ryansch)/[**haproxy-collectd-plugin**](https://github.com/ryansch/haproxy-collectd-plugin)|HAProxy 1.3+ Collectd Plugin||
-|23|[@aarongough](https://github.com/aarongough)/[**triangular**](https://github.com/aarongough/triangular)|A ruby library for reading, writing and manipulating stereolithography (STL) files.||
 |23|[@cesarferreira](https://github.com/cesarferreira)/[**lasertag**](https://github.com/cesarferreira/lasertag)|Automatically map android app versions to git tags||
 |23|[@dkubb](https://github.com/dkubb)/[**sql**](https://github.com/dkubb/sql)|SQL Parser and Generator||
 |23|[@fnando](https://github.com/fnando)/[**signal**](https://github.com/fnando/signal)|A simple observer implementation on POROs (Plain Old Ruby Object) and ActiveRecord objects.||
@@ -330,11 +330,13 @@
 |22|[@westonganger](https://github.com/westonganger)/[**rearmed_rails**](https://github.com/westonganger/rearmed_rails)|A collection of helpful methods and monkey patches for Rails||
 |22|[@zuk](https://github.com/zuk)/[**confluence4r**](https://github.com/zuk/confluence4r)|Rails plugin providing a Ruby API for interacting with a Confluence wiki system.|[:arrow_upper_right:](http://confluence.atlassian.com/display/CONFEXT/Confluence4r+Rails+Plugin)|
 |21|[@AndrewKvalheim](https://github.com/AndrewKvalheim)/[**middleman-pry**](https://github.com/AndrewKvalheim/middleman-pry)|Use Pry as the Middleman console.|[:arrow_upper_right:](https://Andrew.Kvalhe.im/use-pry-as-the-middleman-console/)|
+|21|[@MichaelMCoates](https://github.com/MichaelMCoates)/[**Greenhouse**](https://github.com/MichaelMCoates/Greenhouse)|Greenhouse is a full-stack clone of Indiegogo, built with Ruby on Rails and React.js|[:arrow_upper_right:](http://www.the-greenhouse.co/#/)|
 |21|[@SpenserJ](https://github.com/SpenserJ)/[**Deprecated-Vagrant-LEMP**](https://github.com/SpenserJ/Deprecated-Vagrant-LEMP)|Deprecated in favour of https://github.com/SpenserJ/Ansible-Webhost - A Vagrant+Chef config for an Ubuntu Precise (12.04) LEMP stack||
 |21|[@aarongough](https://github.com/aarongough)/[**treetop-sexp-parser**](https://github.com/aarongough/treetop-sexp-parser)|A simple example parser written using Treetop|[:arrow_upper_right:](http://github.com/aarongough/treetop-sexp-parser)|
 |21|[@benbria](https://github.com/benbria)/[**dashing-chef**](https://github.com/benbria/dashing-chef)|Installs Dashing and configures dashboards to run as services.||
 |21|[@cmer](https://github.com/cmer)/[**git-p4-sync**](https://github.com/cmer/git-p4-sync)|Submit changes made to a Git repository into to Perforce||
 |21|[@cmer](https://github.com/cmer)/[**scope_cache_key**](https://github.com/cmer/scope_cache_key)|Add cache_key functionality to ActiveRecord scopes||
+|21|[@fnando](https://github.com/fnando)/[**boppers**](https://github.com/fnando/boppers)|A simple bot framework for individuals.||
 |21|[@fnando](https://github.com/fnando)/[**swiss_knife**](https://github.com/fnando/swiss_knife)|Here's my swiss-knife Rails helpers.||
 |21|[@fnichol](https://github.com/fnichol)/[**capistrano-fanfare**](https://github.com/fnichol/capistrano-fanfare)||[:arrow_upper_right:](http://fnichol.github.com/capistrano-fanfare/)|
 |21|[@kpumuk](https://github.com/kpumuk)/[**presenter-example**](https://github.com/kpumuk/presenter-example)|An example of using presenters and cells in Ruby on Rails application|[:arrow_upper_right:](http://kpumuk.info/ruby-on-rails/simplifying-your-ruby-on-rails-code/)|
@@ -343,16 +345,15 @@
 |21|[@tobi](https://github.com/tobi)/[**api-proxy**](https://github.com/tobi/api-proxy)|HTTP Remote call accelerator proxy for Shopify||
 |21|[@tobi](https://github.com/tobi)/[**cacheable**](https://github.com/tobi/cacheable)|Page caching extension of Shopify|[:arrow_upper_right:](http://www.shopify.com)|
 |21|[@trishume](https://github.com/trishume)/[**wikicrush**](https://github.com/trishume/wikicrush)|Processor scripts for Wikipedia dumps to crush them into a dense binary format that is easy to pathfind with.||
-|20|[@MichaelMCoates](https://github.com/MichaelMCoates)/[**Greenhouse**](https://github.com/MichaelMCoates/Greenhouse)|Greenhouse is a full-stack clone of Indiegogo, built with Ruby on Rails and React.js|[:arrow_upper_right:](http://www.the-greenhouse.co/#/)|
 |20|[@alexcoco](https://github.com/alexcoco)/[**martlet**](https://github.com/alexcoco/martlet)|Ruby client for McGill's Minerva||
 |20|[@andyw8](https://github.com/andyw8)/[**techradar**](https://github.com/andyw8/techradar)|techradar.io||
 |20|[@brentvatne](https://github.com/brentvatne)/[**concierge**](https://github.com/brentvatne/concierge)|car2go helper service||
 |20|[@delano](https://github.com/delano)/[**tryouts**](https://github.com/delano/tryouts)|Don't waste time writing tests.|[:arrow_upper_right:](http://delano.github.com/tryouts)|
 |20|[@fnando](https://github.com/fnando)/[**aitch**](https://github.com/fnando/aitch)|A simple HTTP client.||
-|20|[@fnando](https://github.com/fnando)/[**boppers**](https://github.com/fnando/boppers)|A simple bot framework for individuals.||
 |20|[@fnando](https://github.com/fnando)/[**rails-routes**](https://github.com/fnando/rails-routes)|Enable config/routes/*.rb on your Rails application.||
 |20|[@francois](https://github.com/francois)/[**cliaws**](https://github.com/francois/cliaws)|A command-line client for Amazon Web Services|[:arrow_upper_right:](http://rubyforge.org/projects/cliaws)|
 |20|[@macournoyer](https://github.com/macournoyer)/[**nn.rb**](https://github.com/macournoyer/nn.rb)|A toy Neural Network in Ruby|[:arrow_upper_right:](http://mlcrashcourse.com)|
+|20|[@mirego](https://github.com/mirego)/[**active_model_serializers_validator**](https://github.com/mirego/active_model_serializers_validator)|:black_joker: An extension to ActiveModel::Serializer that validates serializers output against a JSON schema|[:arrow_upper_right:](http://open.mirego.com)|
 |20|[@pangloss](https://github.com/pangloss)/[**pacer-neo4j**](https://github.com/pangloss/pacer-neo4j)|Neo4J adapter for Pacer|[:arrow_upper_right:](http://neo4j.org)|
 |20|[@tylerdiaz](https://github.com/tylerdiaz)/[**ngx-ruby**](https://github.com/tylerdiaz/ngx-ruby)|Configure NGINX with Ruby!||
 |19|[@500px](https://github.com/500px)/[**f00px**](https://github.com/500px/f00px)|500px api ruby gem||
@@ -364,7 +365,6 @@
 |19|[@delano](https://github.com/delano)/[**net-scp**](https://github.com/delano/net-scp)|Pure Ruby implementation of the SCP protocol|[:arrow_upper_right:](http://github.com/delano/net-scp)|
 |19|[@delano](https://github.com/delano)/[**otto**](https://github.com/delano/otto)|Auto-define your rack-apps in plaintext.||
 |19|[@lighthouse-labs](https://github.com/lighthouse-labs)/[**owasp-top-10-examples**](https://github.com/lighthouse-labs/owasp-top-10-examples)|Examples demonstrating some common web application vulnerabilities.||
-|19|[@mirego](https://github.com/mirego)/[**active_model_serializers_validator**](https://github.com/mirego/active_model_serializers_validator)|:black_joker: An extension to ActiveModel::Serializer that validates serializers output against a JSON schema|[:arrow_upper_right:](http://open.mirego.com)|
 |19|[@moshen](https://github.com/moshen)/[**logstash-http-input**](https://github.com/moshen/logstash-http-input)|An Http input for Logstash  <= 1.4.x (using Jetty).  Logstash 1.5.0 now includes a built in http input plugin: https://github.com/logstash-plugins/logstash-input-http||
 |19|[@neilk](https://github.com/neilk)/[**octopress-flickr**](https://github.com/neilk/octopress-flickr)|Display Flickr images, video, and sets in Octopress blog posts||
 |19|[@nithinbekal](https://github.com/nithinbekal)/[**actioncable-chat-example**](https://github.com/nithinbekal/actioncable-chat-example)|A simple chat app using Rails and ActionCable|[:arrow_upper_right:](http://nithinbekal.com/posts/rails-action-cable/)|
@@ -377,6 +377,7 @@
 |18|[@cdrage](https://github.com/cdrage)/[**composefiles**](https://github.com/cdrage/composefiles)|🐳 My Docker Compose files||
 |18|[@cesarferreira](https://github.com/cesarferreira)/[**monzo-cli**](https://github.com/cesarferreira/monzo-cli)|:credit_card: Monzo bank command line interface client |[:arrow_upper_right:](https://monzo.com/)|
 |18|[@darron](https://github.com/darron)/[**consul-cookbook**](https://github.com/darron/consul-cookbook)|Chef cookbook to install Hashicorp's Consul on Ubuntu 12.04LTS and 14.04LTS.||
+|18|[@eliotsykes](https://github.com/eliotsykes)/[**rails-static-router**](https://github.com/eliotsykes/rails-static-router)|Enjoy static routes in your Rails config/routes.rb||
 |18|[@fnando](https://github.com/fnando)/[**normalize_attributes**](https://github.com/fnando/normalize_attributes)|Sometimes you want to normalize data before saving it to the database like down casing e-mails, removing spaces and so on. This Rails plugin allows you to do so in a simple way.||
 |18|[@fnando](https://github.com/fnando)/[**sinatra-basic-auth**](https://github.com/fnando/sinatra-basic-auth)|Authentication with BasicAuth that can require different credentials for different realms.||
 |18|[@francois](https://github.com/francois)/[**quicken_parser**](https://github.com/francois/quicken_parser)|A quick'n'dirty parser for the Quicken QFX format|[:arrow_upper_right:](http://github.com/francois/quicken_parser)|
@@ -390,10 +391,11 @@
 |18|[@ujihisa](https://github.com/ujihisa)/[**spawn-for-legacy**](https://github.com/ujihisa/spawn-for-legacy)|spawn! spawn! spawn! spawn! spawn! spawn!||
 |18|[@wvanbergen](https://github.com/wvanbergen)/[**activerecord-databasevalidations**](https://github.com/wvanbergen/activerecord-databasevalidations)|Add validations to your ActiveRecord models based on your database constraints.||
 |17|[@aarongough](https://github.com/aarongough)/[**koi-vm-ruby**](https://github.com/aarongough/koi-vm-ruby)|A Virtual Machine for the Koi programming language written in Ruby|[:arrow_upper_right:](http://github.com/aarongough/koi-vm-ruby)|
+|17|[@aspiers](https://github.com/aspiers)/[**ansible-viz**](https://github.com/aspiers/ansible-viz)|Graph relationships between Ansible playbooks / roles / tasks / vars etc. via static analysis||
 |17|[@botanicus](https://github.com/botanicus)/[**changelog**](https://github.com/botanicus/changelog)|Simple CHANGELOG parser for Ruby.||
 |17|[@botanicus](https://github.com/botanicus)/[**nake**](https://github.com/botanicus/nake)|Nake is light-weight and highly flexible Rake replacement with much better arguments parsing.||
 |17|[@cesarferreira](https://github.com/cesarferreira)/[**clean-idea**](https://github.com/cesarferreira/clean-idea)|Fastest way to cleanup your IntelliJ IDEA files||
-|17|[@eliotsykes](https://github.com/eliotsykes)/[**rails-static-router**](https://github.com/eliotsykes/rails-static-router)|Enjoy static routes in your Rails config/routes.rb||
+|17|[@cmer](https://github.com/cmer)/[**sendyr**](https://github.com/cmer/sendyr)|A Ruby interface for the wonderful e-mail newsletter application Sendy||
 |17|[@fnando](https://github.com/fnando)/[**has_bookmarks**](https://github.com/fnando/has_bookmarks)|Add bookmark support to Rails apps with this plugin||
 |17|[@fnando](https://github.com/fnando)/[**paginate**](https://github.com/fnando/paginate)|Paginate collections using SIZE+1 to determine if there is a next page. Includes ActiveRecord and ActionView support.||
 |17|[@jimeh](https://github.com/jimeh)/[**760-grid-system**](https://github.com/jimeh/760-grid-system)|Use the same principals of the 960 grid system within Facebook's 760 pixel wide frame for Facebook Applications.||
@@ -408,11 +410,10 @@
 |16|[@NeQuissimus](https://github.com/NeQuissimus)/[**MarkdownByExample**](https://github.com/NeQuissimus/MarkdownByExample)|Companion repository for the book Markdown By Example.|[:arrow_upper_right:](http://markdownbyexample.com/)|
 |16|[@TikiTDO](https://github.com/TikiTDO)/[**trumbowyg_rails**](https://github.com/TikiTDO/trumbowyg_rails)|||
 |16|[@aarongough](https://github.com/aarongough)/[**deepopenstruct**](https://github.com/aarongough/deepopenstruct)|A simple library for creating easy-to-use data structures from complex sets of nested Hashes and Arrays|[:arrow_upper_right:](http://github.com/aarongough/deepopenstruct)|
-|16|[@aarongough](https://github.com/aarongough)/[**validates_text_content**](https://github.com/aarongough/validates_text_content)|Programatically determine whether or not a piece of English text meets common-sense quality standards.|[:arrow_upper_right:](http://github.com/aarongough/validates_text_content)|
-|16|[@aspiers](https://github.com/aspiers)/[**ansible-viz**](https://github.com/aspiers/ansible-viz)|Graph relationships between Ansible playbooks / roles / tasks / vars etc. via static analysis||
+|16|[@aarongough](https://github.com/aarongough)/[**validates_text_content**](https://github.com/aarongough/validates_text_content)|[DEPRECATED] Programatically determine whether or not a piece of English text meets common-sense quality standards.||
 |16|[@botanicus](https://github.com/botanicus)/[**Node.js.tmbundle**](https://github.com/botanicus/Node.js.tmbundle)|TextMate bundle for Node.js||
-|16|[@cmer](https://github.com/cmer)/[**sendyr**](https://github.com/cmer/sendyr)|A Ruby interface for the wonderful e-mail newsletter application Sendy||
 |16|[@delano](https://github.com/delano)/[**caesars**](https://github.com/delano/caesars)|Rapid and delicious DSL prototyping in Ruby (NOT MAINTAINED)|[:arrow_upper_right:](http://delano.github.com/caesars)|
+|16|[@diogob](https://github.com/diogob)/[**postgresql_lo_streamer**](https://github.com/diogob/postgresql_lo_streamer)|A Rails engine to stream PostgreSQL Large Objects to clients|[:arrow_upper_right:](http://diogob.github.com/postgresql_lo_streamer/)|
 |16|[@fnichol](https://github.com/fnichol)/[**chef-alfresco**](https://github.com/fnichol/chef-alfresco)|Chef cookbook to install Alfresco Community Edition.||
 |16|[@fnichol](https://github.com/fnichol)/[**omnibus-puppet**](https://github.com/fnichol/omnibus-puppet)|Experimental Puppet Omnibus packages||
 |16|[@fnichol](https://github.com/fnichol)/[**veewee-definitions**](https://github.com/fnichol/veewee-definitions)|Some custom/modified VeeWee definitions for Vagrant base boxes||
@@ -425,9 +426,9 @@
 |15|[@StephanieMulhern](https://github.com/StephanieMulhern)/[**ChosenTable**](https://github.com/StephanieMulhern/ChosenTable)|||
 |15|[@bbc](https://github.com/bbc)/[**device_api-android**](https://github.com/bbc/device_api-android)|DeviceAPI-Android|[:arrow_upper_right:](http://bbc.github.io/hive-ci/test-tools.html)|
 |15|[@burke](https://github.com/burke)/[**fuckyeahnouns**](https://github.com/burke/fuckyeahnouns)|[abandoned] ||
+|15|[@christinewang319](https://github.com/christinewang319)/[**etsaclone**](https://github.com/christinewang319/etsaclone)|EtsAClone's a single-page e-commerce web application, inspired by Etsy. It was built using JavaScript, React, Redux, HTML5, CSS3, Ruby on Rails, and PostgreSQL.|[:arrow_upper_right:](https://etsaclone.christinetwang.me/)|
 |15|[@corbanbrook](https://github.com/corbanbrook)/[**fourier_transform**](https://github.com/corbanbrook/fourier_transform)|A Fourier Transform example in Ruby|[:arrow_upper_right:](http://weare.buildingsky.net)|
 |15|[@corbanbrook](https://github.com/corbanbrook)/[**twitter_authentication**](https://github.com/corbanbrook/twitter_authentication)|Sign in with Twitter OAuth: A Rails Generator plugin|[:arrow_upper_right:](http://weare.buildingsky.net)|
-|15|[@diogob](https://github.com/diogob)/[**postgresql_lo_streamer**](https://github.com/diogob/postgresql_lo_streamer)|A Rails engine to stream PostgreSQL Large Objects to clients|[:arrow_upper_right:](http://diogob.github.com/postgresql_lo_streamer/)|
 |15|[@dohliam](https://github.com/dohliam)/[**gdcl**](https://github.com/dohliam/gdcl)|Command-line interface for Goldendict dictionaries||
 |15|[@fnando](https://github.com/fnando)/[**rails-env**](https://github.com/fnando/rails-env)|Avoid environment detection on Rails||
 |15|[@fnando](https://github.com/fnando)/[**using-es6-with-asset-pipeline-on-ruby-on-rails**](https://github.com/fnando/using-es6-with-asset-pipeline-on-ruby-on-rails)|Example for my article about ES6 + Asset Pipeline|[:arrow_upper_right:](http://nandovieira.com/using-es6-with-asset-pipeline-on-ruby-on-rails)|
@@ -445,7 +446,6 @@
 |14|[@adam12](https://github.com/adam12)/[**maxmind**](https://github.com/adam12/maxmind)|Ruby Interface to Maxmind's minFraud service||
 |14|[@ankurp](https://github.com/ankurp)/[**Apple-Web-Push-Notification-Rails**](https://github.com/ankurp/Apple-Web-Push-Notification-Rails)|Apple Web Push Notifications||
 |14|[@bbc](https://github.com/bbc)/[**redux-client-ruby**](https://github.com/bbc/redux-client-ruby)|Ruby client for BBC Redux||
-|14|[@christinewang319](https://github.com/christinewang319)/[**etsaclone**](https://github.com/christinewang319/etsaclone)|EtsAClone's a single-page e-commerce web application, inspired by Etsy. It was built using JavaScript, React, Redux, HTML5, CSS3, Ruby on Rails, and PostgreSQL.|[:arrow_upper_right:](https://etsaclone.christinetwang.me/)|
 |14|[@dkubb](https://github.com/dkubb)/[**axiom-do-adapter**](https://github.com/dkubb/axiom-do-adapter)|Use Axiom relations with an RDBMS|[:arrow_upper_right:](https://github.com/dkubb/axiom-do-adapter)|
 |14|[@dkubb](https://github.com/dkubb)/[**dm-ambition**](https://github.com/dkubb/dm-ambition)|Ambition inspired API for DataMapper ||
 |14|[@ericxtang](https://github.com/ericxtang)/[**normalic**](https://github.com/ericxtang/normalic)|Mostly regex-based tool to normalize URLs, U.S phone numbers and U.S addresses||
@@ -482,6 +482,8 @@
 |13|[@flixcloud](https://github.com/flixcloud)/[**flix_cloud-gem**](https://github.com/flixcloud/flix_cloud-gem)|On2 FlixCloud API sample Ruby gem||
 |13|[@fnando](https://github.com/fnando)/[**pry-meta**](https://github.com/fnando/pry-meta)|Meta package that requires several pry extensions.||
 |13|[@fnando](https://github.com/fnando)/[**simple_auth**](https://github.com/fnando/simple_auth)|SimpleAuth is an authentication library to be used when everything else is just too complicated.||
+|13|[@ktonon](https://github.com/ktonon)/[**cog**](https://github.com/ktonon/cog)|Command-line utility that makes it easy to organize a project which uses code generation|[:arrow_upper_right:](http://ktonon.github.com/cog)|
+|13|[@mirego](https://github.com/mirego)/[**camaraderie**](https://github.com/mirego/camaraderie)|:two_men_holding_hands: Camaraderie takes away the pain of managing membership stuff between users and organizations.|[:arrow_upper_right:](http://open.mirego.com)|
 |13|[@mirego](https://github.com/mirego)/[**sprockets-illusionist**](https://github.com/mirego/sprockets-illusionist)|[Deprecated] Transpile your ES6 files into ES5 using the Illusionist node module and Sprockets|[:arrow_upper_right:](http://open.mirego.com)|
 |13|[@portertech](https://github.com/portertech)/[**chef-journalist**](https://github.com/portertech/chef-journalist)|A report handler for OpsCode Chef runs, outputs a list of updated resources.||
 |13|[@saks](https://github.com/saks)/[**ruby-fcgi**](https://github.com/saks/ruby-fcgi)|This is a fork of ruby-fcgi library, but compatible with ruby1.9.1||
@@ -497,15 +499,14 @@
 |12|[@francois](https://github.com/francois)/[**google_reader**](https://github.com/francois/google_reader)|Ruby Google Reader API (unofficial)|[:arrow_upper_right:](https://github.com/francois/google_reader)|
 |12|[@kovyrin](https://github.com/kovyrin)/[**smart-proxy**](https://github.com/kovyrin/smart-proxy)|Wrapper for Curl to perform queries to a web sites from different IPs with proxied queries emulation.|[:arrow_upper_right:](http://blog.kovyrin.net)|
 |12|[@kpumuk](https://github.com/kpumuk)/[**rspec-cells**](https://github.com/kpumuk/rspec-cells)|A library for testing applications that are using Cells in RSpec.|[:arrow_upper_right:](https://github.com/apotonick/rspec-cells)|
-|12|[@ktonon](https://github.com/ktonon)/[**cog**](https://github.com/ktonon/cog)|Command-line utility that makes it easy to organize a project which uses code generation|[:arrow_upper_right:](http://ktonon.github.com/cog)|
 |12|[@lesaux](https://github.com/lesaux)/[**puppet-kibana4**](https://github.com/lesaux/puppet-kibana4)|Code repositoy for the kibana4 puppet module lesaux-kibana4|[:arrow_upper_right:](https://forge.puppetlabs.com/lesaux/kibana4)|
-|12|[@mirego](https://github.com/mirego)/[**camaraderie**](https://github.com/mirego/camaraderie)|:two_men_holding_hands: Camaraderie takes away the pain of managing membership stuff between users and organizations.|[:arrow_upper_right:](http://open.mirego.com)|
 |12|[@mkhDev](https://github.com/mkhDev)/[**progmr**](https://github.com/mkhDev/progmr)|Progmr.com||
 |12|[@sbfaulkner](https://github.com/sbfaulkner)/[**net-irc**](https://github.com/sbfaulkner/net-irc)|a ruby implementation of the IRC client protocol||
 |12|[@singpolyma](https://github.com/singpolyma)/[**FuseFS**](https://github.com/singpolyma/FuseFS)|Port FuseFS to Ruby1.9||
 |12|[@skellock](https://github.com/skellock)/[**motion-mastr**](https://github.com/skellock/motion-mastr)|RubyMotion + iOS 7 & up + NSMutableAttributedString||
 |12|[@stewart](https://github.com/stewart)/[**literate-ruby**](https://github.com/stewart/literate-ruby)|A fun experiment||
 |12|[@tansaku](https://github.com/tansaku)/[**rspec-sinatra**](https://github.com/tansaku/rspec-sinatra)|A quick scaffold to get started with an RSpec driven Sinatra app||
+|12|[@uken](https://github.com/uken)/[**fluent-plugin-postgres**](https://github.com/uken/fluent-plugin-postgres)|||
 |12|[@whoward](https://github.com/whoward)/[**cadenza**](https://github.com/whoward/cadenza)|parser and renderer library for liquid-like templates||
 |11|[@AndyObtiva](https://github.com/AndyObtiva)/[**abstract_feature_branch**](https://github.com/AndyObtiva/abstract_feature_branch)|abstract_feature_branch is a gem that enables developers to easily branch by abstraction||
 |11|[@OpenDemocracyManitoba](https://github.com/OpenDemocracyManitoba)/[**winnipegelection**](https://github.com/OpenDemocracyManitoba/winnipegelection)|An election resource by and for citizens. ||
@@ -541,7 +542,6 @@
 |11|[@ujihisa](https://github.com/ujihisa)/[**livecoding6**](https://github.com/ujihisa/livecoding6)|||
 |11|[@ujihisa](https://github.com/ujihisa)/[**mdv**](https://github.com/ujihisa/mdv)||[:arrow_upper_right:](http://ujihisa.blogspot.com/2009/06/draft-extended-markdown-for-vim-hacks.html)|
 |11|[@uken](https://github.com/uken)/[**fluent-plugin-nsq**](https://github.com/uken/fluent-plugin-nsq)|Realtime log processing with Fluentd and NSQ||
-|11|[@uken](https://github.com/uken)/[**fluent-plugin-postgres**](https://github.com/uken/fluent-plugin-postgres)|||
 |11|[@walkah](https://github.com/walkah)/[**chef-repo**](https://github.com/walkah/chef-repo)|My personal chef-repo (still learning)||
 |11|[@zsprackett](https://github.com/zsprackett)/[**cloudwatchtographite**](https://github.com/zsprackett/cloudwatchtographite)|Ruby Gem to fetch CloudWatch metrics and forward them to Graphite||
 |10|[@500px](https://github.com/500px)/[**px-service-client**](https://github.com/500px/px-service-client)|Common functionality for 500px Ruby-based service clients||
@@ -587,6 +587,7 @@
 |10|[@tobi](https://github.com/tobi)/[**chat-server**](https://github.com/tobi/chat-server)|Long polling real-time chat server based on EM||
 |10|[@trmml](https://github.com/trmml)/[**oliver**](https://github.com/trmml/oliver)|:arrow_up_down: Manage your Github repos easier.||
 |10|[@ustwo](https://github.com/ustwo)/[**midi-to-philips-hue**](https://github.com/ustwo/midi-to-philips-hue)|This is a proof of concept of a set of Philips Hue lights controlled by a Behringer BCD300 MIDI controller||
+|10|[@westonganger](https://github.com/westonganger)/[**paper_trail-association_tracking**](https://github.com/westonganger/paper_trail-association_tracking)|Plugin for the PaperTrail gem to track and reify associations||
 |10|[@wvanbergen](https://github.com/wvanbergen)/[**kafka-consumer**](https://github.com/wvanbergen/kafka-consumer)|High-level Ruby consumer for Kafka.||
 |9|[@Corb3nik](https://github.com/Corb3nik)/[**rubik**](https://github.com/Corb3nik/rubik)|CTF collaboration tool for teams||
 |9|[@Pistos](https://github.com/Pistos)/[**angular-sinatra-authentication-example**](https://github.com/Pistos/angular-sinatra-authentication-example)|Example of Authentication and Authorization Using AngularJS and Sinatra||
@@ -600,6 +601,7 @@
 |9|[@bradpotts](https://github.com/bradpotts)/[**multi-tenancy-warden**](https://github.com/bradpotts/multi-tenancy-warden)|mtwarden is a bare-bones alternative to mtdevise, adds basecamp style user logins to your ruby on rails application.|[:arrow_upper_right:](https://phcnetworks.net)|
 |9|[@csaunders](https://github.com/csaunders)/[**shopProductSink**](https://github.com/csaunders/shopProductSink)|Rails engine to help with keeping product information up to date and reduce unnecessary API calls||
 |9|[@dkubb](https://github.com/dkubb)/[**axiom-memory-adapter**](https://github.com/dkubb/axiom-memory-adapter)|Axiom Memory adapter||
+|9|[@edward](https://github.com/edward)/[**spacewar**](https://github.com/edward/spacewar)|Example Chingu app with spaceships and gravity||
 |9|[@eliotsykes](https://github.com/eliotsykes)/[**spree-db-tools**](https://github.com/eliotsykes/spree-db-tools)|An extension to add a few useful Spree-related database rake tasks.||
 |9|[@fnando](https://github.com/fnando)/[**has_versions**](https://github.com/fnando/has_versions)|A simple plugin to version ActiveRecord objects|[:arrow_upper_right:](http://github.com/fnando/has_versions)|
 |9|[@fnando](https://github.com/fnando)/[**need_help**](https://github.com/fnando/need_help)|A simple help/FAQ system using Rails Engine.||
@@ -628,6 +630,7 @@
 |9|[@omenking](https://github.com/omenking)/[**fyi**](https://github.com/omenking/fyi)|A simple prototype javascript  tooltip that appears when fields have focus||
 |9|[@pkieltyka](https://github.com/pkieltyka)/[**web-proxy-service**](https://github.com/pkieltyka/web-proxy-service)|You'll see...||
 |9|[@portertech](https://github.com/portertech)/[**windows_chef_zero**](https://github.com/portertech/windows_chef_zero)|A Test-Kitchen Chef Zero provisioner for Windows|[:arrow_upper_right:](https://github.com/portertech/windows_chef_zero)|
+|9|[@pywebdesign](https://github.com/pywebdesign)/[**json_column**](https://github.com/pywebdesign/json_column)|||
 |9|[@rayray](https://github.com/rayray)/[**flac2mp3**](https://github.com/rayray/flac2mp3)|Simple Ruby script that converts FLACs to MP3s, including some metadata.||
 |9|[@remiprev](https://github.com/remiprev)/[**portugal**](https://github.com/remiprev/portugal)|ActiveRecord migrations without Rails||
 |9|[@skrat](https://github.com/skrat)/[**celerb**](https://github.com/skrat/celerb)|Celery Ruby client||
@@ -638,6 +641,7 @@
 |9|[@yrashk](https://github.com/yrashk)/[**rbmodexcl**](https://github.com/yrashk/rbmodexcl)|Ruby module exclusion functionality||
 |9|[@zuk](https://github.com/zuk)/[**picnic**](https://github.com/zuk/picnic)|Picnic makes it easy(ier) to distribute and run Camping-based applications as well-behaved stand-alone Linux servers (but works on Windows too!)|[:arrow_upper_right:](http://code.google.com/p/camping-picnic/)|
 |8|[@Soleone](https://github.com/Soleone)/[**cards**](https://github.com/Soleone/cards)|A multiplayer card game framework for stuff like Magic: The Gathering||
+|8|[@allenhwkim](https://github.com/allenhwkim)/[**erl_to_ruby**](https://github.com/allenhwkim/erl_to_ruby)|erlang term parser written in ruby||
 |8|[@andyw8](https://github.com/andyw8)/[**hexagonal_rails_rspec_example**](https://github.com/andyw8/hexagonal_rails_rspec_example)|||
 |8|[@bbc](https://github.com/bbc)/[**android-devices**](https://github.com/bbc/android-devices)|Human readable Android device names||
 |8|[@bbc](https://github.com/bbc)/[**hive_mind**](https://github.com/bbc/hive_mind)|Device management service for the Hive||
@@ -646,7 +650,6 @@
 |8|[@diogob](https://github.com/diogob)/[**compass-columnal-plugin**](https://github.com/diogob/compass-columnal-plugin)|Compass compatible Sass port of columnal grid system|[:arrow_upper_right:](http://diogob.github.com/compass-columnal-plugin/)|
 |8|[@duncanbb](https://github.com/duncanbb)/[**connect**](https://github.com/duncanbb/connect)|A project inspired by the website Medium|[:arrow_upper_right:](http://www.connect-app.org)|
 |8|[@edward](https://github.com/edward)/[**dm-simpledb**](https://github.com/edward/dm-simpledb)|Yet another SimpleDB DataMapper adapter. Uses amazon_sdb in the back.||
-|8|[@edward](https://github.com/edward)/[**spacewar**](https://github.com/edward/spacewar)|Example Chingu app with spaceships and gravity||
 |8|[@eliotsykes](https://github.com/eliotsykes)/[**rspec-katas**](https://github.com/eliotsykes/rspec-katas)|A friendly place for RSpec-driven Kata to gather and teach those wanting to learn the ways of RSpec.||
 |8|[@fnando](https://github.com/fnando)/[**access_token**](https://github.com/fnando/access_token)|Access token for client-side and API authentication.||
 |8|[@fnando](https://github.com/fnando)/[**ember-and-rails**](https://github.com/fnando/ember-and-rails)|||
@@ -664,6 +667,7 @@
 |8|[@jpsilvashy](https://github.com/jpsilvashy)/[**repl**](https://github.com/jpsilvashy/repl)|A simple ruby REPL||
 |8|[@kbingman](https://github.com/kbingman)/[**admin_tree_structure**](https://github.com/kbingman/admin_tree_structure)|Extension for Radiant CMS that sorts children of ArchivePages by year and by month on the backend|[:arrow_upper_right:](http://kbingman.com)|
 |8|[@kbingman](https://github.com/kbingman)/[**radiant-paperclipped_multisite-extension**](https://github.com/kbingman/radiant-paperclipped_multisite-extension)|Adds multisite support to paperclipped, showing assets only for the current site if the user is not an admin||
+|8|[@kpumuk](https://github.com/kpumuk)/[**ruby_syslog**](https://github.com/kpumuk/ruby_syslog)|The BSD Syslog protocol (RFC3164) implementation for Ruby||
 |8|[@louismullie](https://github.com/louismullie)/[**closet**](https://github.com/louismullie/closet)|Carefully crafted skeleton for Sinatra applications.||
 |8|[@meagar](https://github.com/meagar)/[**guard-coffeelint**](https://github.com/meagar/guard-coffeelint)|CoffeeLint guard plugin||
 |8|[@mirego](https://github.com/mirego)/[**louche**](https://github.com/mirego/louche)|:clipboard: Louche provides common validators for ActiveModel/ActiveRecord classes|[:arrow_upper_right:](http://open.mirego.com)|
@@ -671,7 +675,6 @@
 |8|[@olivoil](https://github.com/olivoil)/[**mongoid_acts_as_list**](https://github.com/olivoil/mongoid_acts_as_list)|ActsAsList gem for Mongoid||
 |8|[@onemonthrails](https://github.com/onemonthrails)/[**pinteresting-commits**](https://github.com/onemonthrails/pinteresting-commits)|Pinteresting (All Commits)||
 |8|[@protocool](https://github.com/protocool)/[**enumerations_mixin**](https://github.com/protocool/enumerations_mixin)|||
-|8|[@pywebdesign](https://github.com/pywebdesign)/[**json_column**](https://github.com/pywebdesign/json_column)|||
 |8|[@rcuyegkeng](https://github.com/rcuyegkeng)/[**Rails-Carrierwave-Dropzone**](https://github.com/rcuyegkeng/Rails-Carrierwave-Dropzone)|Sample Rails Applicatrion that uses Ruby on Rails and Carrierwave and Dropzone.js||
 |8|[@richardsondx](https://github.com/richardsondx)/[**tumblr_client_wrapper**](https://github.com/richardsondx/tumblr_client_wrapper)|This gem allows you to easily embed your Tumblr blog on your site. It's a ruby wrapper for the official tumblr-client gem & Tumblr API v2||
 |8|[@sbfaulkner](https://github.com/sbfaulkner)/[**sinatra-markaby**](https://github.com/sbfaulkner/sinatra-markaby)|Sinatra plugin to enable markaby (.mab) template rendering||
@@ -690,7 +693,6 @@
 |7|[@Soleone](https://github.com/Soleone)/[**bitbar-coinmarketticker**](https://github.com/Soleone/bitbar-coinmarketticker)|Shows selected cryptocurrencies rates from Coinmarketcap using Ruby via BitBar.||
 |7|[@Soleone](https://github.com/Soleone)/[**rpg**](https://github.com/Soleone/rpg)|A simple Ruby library for role playing games.||
 |7|[@adr5240](https://github.com/adr5240)/[**ClassicDiscoveriesApp**](https://github.com/adr5240/ClassicDiscoveriesApp)|An online literary library that can be used to search for books or authors. Users can even save books for later on their bookshelves. It was built using React.js/Flux for the front-end and Ruby on Rails for the back-end.|[:arrow_upper_right:](http://www.classic-discoveries.com)|
-|7|[@allenhwkim](https://github.com/allenhwkim)/[**erl_to_ruby**](https://github.com/allenhwkim/erl_to_ruby)|erlang term parser written in ruby||
 |7|[@amirci](https://github.com/amirci)/[**zenboard**](https://github.com/amirci/zenboard)|Companion to agile zen to provide extra calculations and functionality||
 |7|[@andyw8](https://github.com/andyw8)/[**itunes_csv**](https://github.com/andyw8/itunes_csv)|Export iTunes Library XML data to CSV||
 |7|[@anlek](https://github.com/anlek)/[**draper-cancan**](https://github.com/anlek/draper-cancan)|Adds simple cancan features to your decorators||
@@ -724,9 +726,9 @@
 |7|[@jmacdonald](https://github.com/jmacdonald)/[**triage**](https://github.com/jmacdonald/triage)|Robust support software written in Ruby on Rails||
 |7|[@jxxcarlson](https://github.com/jxxcarlson)/[**noteshare**](https://github.com/jxxcarlson/noteshare)|A new  version of noteshare based on lotus||
 |7|[@kovyrin](https://github.com/kovyrin)/[**ops-tools**](https://github.com/kovyrin/ops-tools)|All kinds of small tools for ops|[:arrow_upper_right:](http://kovyrin.net/)|
-|7|[@kpumuk](https://github.com/kpumuk)/[**ruby_syslog**](https://github.com/kpumuk/ruby_syslog)|The BSD Syslog protocol (RFC3164) implementation for Ruby||
 |7|[@ksylvest](https://github.com/ksylvest)/[**formula**](https://github.com/ksylvest/formula)|A Rails form generator that creates simple markup|[:arrow_upper_right:](http://ksylvest.github.com/formula/)|
 |7|[@ksylvest](https://github.com/ksylvest)/[**identifier**](https://github.com/ksylvest/identifier)|A Ruby unique identifier generate|[:arrow_upper_right:](https://github.com/ksylvest/identifier)|
+|7|[@learnetto](https://github.com/learnetto)/[**reactfit**](https://github.com/learnetto/reactfit)|A fitness dashboard app built using Rails 5.1 and React.js|[:arrow_upper_right:](https://learnetto.com/users/hrishio/courses/the-complete-react-on-rails-5-course)|
 |7|[@louismullie](https://github.com/louismullie)/[**emcee**](https://github.com/louismullie/emcee)|Markov chains for rap lyric generation.||
 |7|[@louismullie](https://github.com/louismullie)/[**schiphol**](https://github.com/louismullie/schiphol)|A Ruby downloader script with progress bar, retries, 301/2 following and MIME type-based format detection.||
 |7|[@marcandre](https://github.com/marcandre)/[**with_progress**](https://github.com/marcandre/with_progress)|||
@@ -743,12 +745,9 @@
 |7|[@thoughtworks](https://github.com/thoughtworks)/[**tw-in-out**](https://github.com/thoughtworks/tw-in-out)|||
 |7|[@tobi](https://github.com/tobi)/[**s3_connection**](https://github.com/tobi/s3_connection)|Small class which allows authenticated and persistent connectivity with s3||
 |7|[@trmml](https://github.com/trmml)/[**textymous**](https://github.com/trmml/textymous)|:speech_balloon: (UNMAINTAINED) Cross-platform Anonymous SMS, done right||
-|7|[@twg](https://github.com/twg)/[**formatted_form**](https://github.com/twg/formatted_form)|A Rails form builder that generates Twitter Bootstrap markup and helps keep your code clean||
-|7|[@ualbertalib](https://github.com/ualbertalib)/[**discovery**](https://github.com/ualbertalib/discovery)|UAL Discovery project blacklight||
+|7|[@ualbertalib](https://github.com/ualbertalib)/[**discovery**](https://github.com/ualbertalib/discovery)|Discovery is the University of Alberta Libraries' catalogue interface, built using Blacklight: http://projectblacklight.org/||
 |7|[@ujihisa](https://github.com/ujihisa)/[**rubyinline-haskell**](https://github.com/ujihisa/rubyinline-haskell)|||
-|7|[@uken](https://github.com/uken)/[**fluent-plugin-out_rawtcp**](https://github.com/uken/fluent-plugin-out_rawtcp)|Plugin to pass messages between Fluentd and Logstash||
 |7|[@vinibaggio](https://github.com/vinibaggio)/[**outpost-old**](https://github.com/vinibaggio/outpost-old)|A centralized way to watch your service's availability.||
-|7|[@westonganger](https://github.com/westonganger)/[**paper_trail-association_tracking**](https://github.com/westonganger/paper_trail-association_tracking)|Plugin for the PaperTrail gem to track and reify associations||
 |7|[@xymbol](https://github.com/xymbol)/[**checkup**](https://github.com/xymbol/checkup)|Convocatoria abierta para controlar la carga de resultados provisionales de la segunda vuelta de las Elecciones Nacionales en Argentina.|[:arrow_upper_right:](http://balotaje-2015.herokuapp.com/)|
 |7|[@yrashk](https://github.com/yrashk)/[**lilu**](https://github.com/yrashk/lilu)|Lilu is a mockup-driven templating framework for Ruby||
 |7|[@yrashk](https://github.com/yrashk)/[**zoid**](https://github.com/yrashk/zoid)|Zoid is a minimalistic REST-based webapp framework on top of StrokeDB||
@@ -784,7 +783,6 @@
 |6|[@jteneycke](https://github.com/jteneycke)/[**event_map**](https://github.com/jteneycke/event_map)|:calendar: :earth_americas: If you've ever tried to use their site to find events and plan your night, you know what an infernal pain their UX is. This quick sketch of an app aims to provide a more salient view to plan your night. ||
 |6|[@kailan](https://github.com/kailan)/[**kek**](https://github.com/kailan/kek)|:alien: An easy to use etcd client for Ruby|[:arrow_upper_right:](https://rubygems.org/gems/kek)|
 |6|[@learnetto](https://github.com/learnetto)/[**calreact-hmr**](https://github.com/learnetto/calreact-hmr)|Demo of Hot Module Replacement using react_on_rails gem |[:arrow_upper_right:](https://learnetto.com/users/hrishio/courses/the-complete-react-on-rails-5-course)|
-|6|[@learnetto](https://github.com/learnetto)/[**reactfit**](https://github.com/learnetto/reactfit)|A fitness dashboard app built using Rails 5.1 and React.js|[:arrow_upper_right:](https://learnetto.com/users/hrishio/courses/the-complete-react-on-rails-5-course)|
 |6|[@leighhalliday](https://github.com/leighhalliday)/[**home-demo**](https://github.com/leighhalliday/home-demo)|Demo React on Rails app||
 |6|[@louismullie](https://github.com/louismullie)/[**graphr**](https://github.com/louismullie/graphr)|Graph-related Ruby classes.||
 |6|[@louismullie](https://github.com/louismullie)/[**hypercube**](https://github.com/louismullie/hypercube)|Hypergraphs for ontology representation and interrogation||
@@ -814,9 +812,12 @@
 |6|[@stormbrew](https://github.com/stormbrew)/[**channel9**](https://github.com/stormbrew/channel9)|A virtual machine (and eventually language) designed around the concept of continuations (called here Channels) as the central object type. It's a little bit crazy in pretty much every way.||
 |6|[@t6d](https://github.com/t6d)/[**opennlp**](https://github.com/t6d/opennlp)|A minimal Ruby wrapper around Apache's OpenNLP library||
 |6|[@tobi](https://github.com/tobi)/[**ruby-mr**](https://github.com/tobi/ruby-mr)|throwaway repository. Ruby <=> hadoop lib||
+|6|[@trishume](https://github.com/trishume)/[**hnblogs**](https://github.com/trishume/hnblogs)|RSS feed of all the comments of my favourite Hacker News users|[:arrow_upper_right:](http://hnblogs.thume.ca/)|
+|6|[@twg](https://github.com/twg)/[**formatted_form**](https://github.com/twg/formatted_form)|A Rails form builder that generates Twitter Bootstrap markup and helps keep your code clean||
 |6|[@twg](https://github.com/twg)/[**test_dummy**](https://github.com/twg/test_dummy)|Simple faker data and model factory for Rails||
 |6|[@ujihisa](https://github.com/ujihisa)/[**asd2**](https://github.com/ujihisa/asd2)|“Agile Software Development” Revision 2 Codes -- From Java to Ruby||
 |6|[@ujihisa](https://github.com/ujihisa)/[**tasks**](https://github.com/ujihisa/tasks)|This project is no longer active. See open5 instead. http://github.com/ujihisa/open5||
+|6|[@uken](https://github.com/uken)/[**fluent-plugin-out_rawtcp**](https://github.com/uken/fluent-plugin-out_rawtcp)|Plugin to pass messages between Fluentd and Logstash||
 |6|[@wilsontheory](https://github.com/wilsontheory)/[**HyperLearn**](https://github.com/wilsontheory/HyperLearn)|Web app inspired by BrainScape flashcard studying platform to demonstrate React.js + Rails|[:arrow_upper_right:](https://hyper-learn.herokuapp.com/#/)|
 |6|[@wvanbergen](https://github.com/wvanbergen)/[**selekt**](https://github.com/wvanbergen/selekt)|Toolkit to parse an manipulate SQL queries for testing and monitoring purposes.||
 |6|[@wvanbergen](https://github.com/wvanbergen)/[**uuml**](https://github.com/wvanbergen/uuml)|Instant Germanification of your web app!||
@@ -824,13 +825,14 @@
 |6|[@yrashk](https://github.com/yrashk)/[**delayed_job_redis**](https://github.com/yrashk/delayed_job_redis)|Delayed Job backend for Redis||
 |6|[@zuk](https://github.com/zuk)/[**rubyweather**](https://github.com/zuk/rubyweather)|Ruby library for accessing forecast data from weather.com|[:arrow_upper_right:](http://code.google.com/p/rubyweather/)|
 |5|[@BenDoyle](https://github.com/BenDoyle)/[**bandit**](https://github.com/BenDoyle/bandit)|This project has moved to https://github.com/BenDoyle/opportune||
-|5|[@Electroid](https://github.com/Electroid)/[**infrastructure**](https://github.com/Electroid/infrastructure)|Microservices to orchestrate and deploy @StratusNetwork|[:arrow_upper_right:](https://stratus.network)|
+|5|[@Electroid](https://github.com/Electroid)/[**infrastructure**](https://github.com/Electroid/infrastructure)|Microservices to orchestrate and deploy game servers.|[:arrow_upper_right:](https://stratus.network)|
+|5|[@GabLeRoux](https://github.com/GabLeRoux)/[**rails-docker-compose-rubymine-example**](https://github.com/GabLeRoux/rails-docker-compose-rubymine-example)|🔴 Rails example project running on docker-compose with breakpoints in tests||
 |5|[@Pistos](https://github.com/Pistos)/[**Reby**](https://github.com/Pistos/Reby)|Ruby-Eggdrop Bridge Yes-this-letter-has-no-meaning-in-the-acronym|[:arrow_upper_right:](http://wiki.purepistos.net/doku.php?id=Reby)|
 |5|[@Pistos](https://github.com/Pistos)/[**Top-Hacker-News**](https://github.com/Pistos/Top-Hacker-News)|Poller and RSS feed of the top Hacker News links|[:arrow_upper_right:](http://hn.purepistos.net)|
 |5|[@Soleone](https://github.com/Soleone)/[**photoe**](https://github.com/Soleone/photoe)|Photo application like Flickr for storing and organizing pictures||
 |5|[@Soleone](https://github.com/Soleone)/[**pokedex**](https://github.com/Soleone/pokedex)|a simple rails project for learning the basics||
 |5|[@aarongough](https://github.com/aarongough)/[**any-spec**](https://github.com/aarongough/any-spec)|A framework for writing automated black-box executable language specifications. |[:arrow_upper_right:](http://github.com/aarongough/any-spec)|
-|5|[@aarongough](https://github.com/aarongough)/[**ruby-traileraddict**](https://github.com/aarongough/ruby-traileraddict)|[NO LONGER MAINTAINED] API wrapper for TrailerAddict.com that makes it easy to get the embed code for any trailer in their database|[:arrow_upper_right:](http://github.com/aarongough/ruby-traileraddict)|
+|5|[@aarongough](https://github.com/aarongough)/[**ruby-traileraddict**](https://github.com/aarongough/ruby-traileraddict)|[DEPRECATED] API wrapper for TrailerAddict.com that makes it easy to get the embed code for any trailer in their database||
 |5|[@aforward](https://github.com/aforward)/[**appstats**](https://github.com/aforward/appstats)|A place to log actions done within your application, and provide usage statistics about how your application is being used.||
 |5|[@amaabca](https://github.com/amaabca)/[**lita-server_status**](https://github.com/amaabca/lita-server_status)|Store and list out the statuses of applications||
 |5|[@amaltson](https://github.com/amaltson)/[**lita-jira-issues**](https://github.com/amaltson/lita-jira-issues)|Lita handler for display JIRA issues if a JIRA key is seen in conversation.||
@@ -843,6 +845,7 @@
 |5|[@biznickman](https://github.com/biznickman)/[**recurly-rails**](https://github.com/biznickman/recurly-rails)|A basic rails project with recurly integration.  ||
 |5|[@bmann](https://github.com/bmann)/[**posterous-export**](https://github.com/bmann/posterous-export)|Posterous to Octopress Ruby script||
 |5|[@botanicus](https://github.com/botanicus)/[**git-tools**](https://github.com/botanicus/git-tools)|Others useful git related commands||
+|5|[@brentvatne](https://github.com/brentvatne)/[**imagemagick-collage-ruby**](https://github.com/brentvatne/imagemagick-collage-ruby)|||
 |5|[@brianleroux](https://github.com/brianleroux)/[**mongo-demo**](https://github.com/brianleroux/mongo-demo)|A dead simple Sinatra demo of MongoMapper||
 |5|[@burke](https://github.com/burke)/[**Altimeter**](https://github.com/burke/Altimeter)|[abandoned] A stupid-simple demo ruby motion app. ||
 |5|[@cmer](https://github.com/cmer)/[**postbin.rb**](https://github.com/cmer/postbin.rb)|A PostBin.org clone written in Ruby/Sinatra||
@@ -920,11 +923,10 @@
 |4|[@EtienneLem](https://github.com/EtienneLem)/[**rquest**](https://github.com/EtienneLem/rquest)|Rqest is to Rdio what pull requests are to GitHub||
 |4|[@EtienneLem](https://github.com/EtienneLem)/[**watnow**](https://github.com/EtienneLem/watnow)|Watnow finds and lists your project TODOs and FIXMEs||
 |4|[@GCorbel](https://github.com/GCorbel)/[**frontendeditor_ckeditor**](https://github.com/GCorbel/frontendeditor_ckeditor)|frontendeditor_ckeditor||
-|4|[@GabLeRoux](https://github.com/GabLeRoux)/[**rails-docker-compose-rubymine-example**](https://github.com/GabLeRoux/rails-docker-compose-rubymine-example)|🔴 Rails example project running on docker-compose with breakpoints in tests||
 |4|[@Gonzih](https://github.com/Gonzih)/[**feeds2imap.rb**](https://github.com/Gonzih/feeds2imap.rb)|Pull rss/atom feeds to your imap foldes with ruby.||
 |4|[@MikeRogers0](https://github.com/MikeRogers0)/[**MikeRogersIO**](https://github.com/MikeRogers0/MikeRogersIO)|The repo for my website|[:arrow_upper_right:](https://mikerogers.io/)|
 |4|[@MitMaro](https://github.com/MitMaro)/[**jekyll-prism-plugin**](https://github.com/MitMaro/jekyll-prism-plugin)|Provides support for prisim in Jekyll, including plugin support.||
-|4|[@MySportsFeeds](https://github.com/MySportsFeeds)/[**mysportsfeeds-ruby**](https://github.com/MySportsFeeds/mysportsfeeds-ruby)|Ruby wrapper for the MySportsFeeds Sports Data API||
+|4|[@MySportsFeeds](https://github.com/MySportsFeeds)/[**mysportsfeeds-ruby**](https://github.com/MySportsFeeds/mysportsfeeds-ruby)|Ruby wrapper for the MySportsFeeds Sports Data API|[:arrow_upper_right:](https://www.mysportsfeeds.com)|
 |4|[@OnswipeOLD](https://github.com/OnswipeOLD)/[**engineeringblog**](https://github.com/OnswipeOLD/engineeringblog)|The Onswipe Engineering blog.||
 |4|[@Pistos](https://github.com/Pistos)/[**hoptoad-notifier-ramaze**](https://github.com/Pistos/hoptoad-notifier-ramaze)|A hoptoadapp.com notifier for Ramaze.||
 |4|[@Pistos](https://github.com/Pistos)/[**rdbi-driver-postgresql**](https://github.com/Pistos/rdbi-driver-postgresql)|PostgreSQL database driver (DBD) for RDBI||
@@ -953,7 +955,6 @@
 |4|[@botanicus](https://github.com/botanicus)/[**dm-spec**](https://github.com/botanicus/dm-spec)|RSpec matchers for DataMapper.||
 |4|[@brentlintner](https://github.com/brentlintner)/[**css_primer**](https://github.com/brentlintner/css_primer)|Extract css rules from HTML/XML.||
 |4|[@brentlintner](https://github.com/brentlintner)/[**machinator**](https://github.com/brentlintner/machinator)|Sinister code obfuscation.||
-|4|[@brentvatne](https://github.com/brentvatne)/[**imagemagick-collage-ruby**](https://github.com/brentvatne/imagemagick-collage-ruby)|||
 |4|[@bryanlarsen](https://github.com/bryanlarsen)/[**column_comments**](https://github.com/bryanlarsen/column_comments)|Duane Johnson's rails plugin to allow SQL comments to be added in migrations|[:arrow_upper_right:](http://blog.inquirylabs.com/2006/04/27/columncomments-rails-plugin/)|
 |4|[@burke](https://github.com/burke)/[**business_days**](https://github.com/burke/business_days)|[abandoned] ActiveSupport mini-extension to allow adding business_days to time objects.|[:arrow_upper_right:](http://github.com/burke/business_days)|
 |4|[@burke](https://github.com/burke)/[**testify**](https://github.com/burke/testify)|[abandoned] Testing Evolved||
@@ -980,6 +981,7 @@
 |4|[@fnando](https://github.com/fnando)/[**boppers-uptime**](https://github.com/fnando/boppers-uptime)|A bopper to check if your sites are online.||
 |4|[@fnando](https://github.com/fnando)/[**date_interval**](https://github.com/fnando/date_interval)|Parse date intervals from strings.||
 |4|[@fnando](https://github.com/fnando)/[**elva-rb**](https://github.com/fnando/elva-rb)|Simple IRC bot||
+|4|[@fnando](https://github.com/fnando)/[**omniauth-atlassian-bitbucket**](https://github.com/fnando/omniauth-atlassian-bitbucket)|Bitbucket's OAuth2 Strategy for OmniAuth. This strategy uses API 2.0 to retrieve user information.||
 |4|[@fnichol](https://github.com/fnichol)/[**chef-hostname**](https://github.com/fnichol/chef-hostname)|||
 |4|[@fnichol](https://github.com/fnichol)/[**chef-mysql**](https://github.com/fnichol/chef-mysql)|Former location for a fork of the MySQL Chef cookbook, now maintained by Chef Software Inc at https://github.com/chef-cookbooks/mysql||
 |4|[@fnichol](https://github.com/fnichol)/[**opscode**](https://github.com/fnichol/opscode)|Opscode - An Infrastructure Code Workflow Tool|[:arrow_upper_right:](http://fnichol.github.io/opscode)|
@@ -1038,7 +1040,6 @@
 |4|[@tessalt](https://github.com/tessalt)/[**shooting-stars**](https://github.com/tessalt/shooting-stars)|little Raphael.js animated starfield|[:arrow_upper_right:](http://tessalt.github.io/shooting-stars/)|
 |4|[@timuruski](https://github.com/timuruski)/[**tamarillo**](https://github.com/timuruski/tamarillo)|A command-line application for managing the Pomodoro technique.||
 |4|[@travisjeffery](https://github.com/travisjeffery)/[**will_paginate_twitter_bootstrap**](https://github.com/travisjeffery/will_paginate_twitter_bootstrap)|Make will_paginate and Bootstrap, from Twitter work together.||
-|4|[@trishume](https://github.com/trishume)/[**hnblogs**](https://github.com/trishume/hnblogs)|RSS feed of all the comments of my favourite Hacker News users|[:arrow_upper_right:](http://hnblogs.thume.ca/)|
 |4|[@twg](https://github.com/twg)/[**wristband**](https://github.com/twg/wristband)|||
 |4|[@ujihisa](https://github.com/ujihisa)/[**copier**](https://github.com/ujihisa/copier)|A clipboard manager on arbitrary platforms||
 |4|[@ujihisa](https://github.com/ujihisa)/[**nari.gc**](https://github.com/ujihisa/nari.gc)|||
@@ -1071,8 +1072,8 @@
 |3|[@Soleone](https://github.com/Soleone)/[**linkshare**](https://github.com/Soleone/linkshare)|a rails application for sharing links to cool resources with other users|[:arrow_upper_right:](http://www.soleone.de)|
 |3|[@SpenserJ](https://github.com/SpenserJ)/[**Ciana-Vagrant**](https://github.com/SpenserJ/Ciana-Vagrant)|Ciana-Vagrant||
 |3|[@StephenOTT](https://github.com/StephenOTT)/[**Drupal-GitHub-Issue-Sync**](https://github.com/StephenOTT/Drupal-GitHub-Issue-Sync)|Create and Close Issues in GitHub when they are created and closed in Drupal.org project issue tracker||
-|3|[@aarongough](https://github.com/aarongough)/[**depthcharge**](https://github.com/aarongough/depthcharge)|Depthcharge - Rack middleware that increases visibility into the request cycle when developing APIs for clients that don't show requests easily (like iOS/Android)||
-|3|[@aarongough](https://github.com/aarongough)/[**rails_deadweight**](https://github.com/aarongough/rails_deadweight)|A tool for finding unused code in your Rails application||
+|3|[@aarongough](https://github.com/aarongough)/[**depthcharge**](https://github.com/aarongough/depthcharge)|Rack middleware that increases visibility into the request cycle when developing APIs for clients that don't show requests easily (like iOS/Android)||
+|3|[@aarongough](https://github.com/aarongough)/[**rails_deadweight**](https://github.com/aarongough/rails_deadweight)|[DEPRECATED] A tool for finding unused code in your Rails application||
 |3|[@aarongough](https://github.com/aarongough)/[**tachyon**](https://github.com/aarongough/tachyon)|A simple library for inserting rows into a DB managed by ActiveRecord as fast as possible.||
 |3|[@adam12](https://github.com/adam12)/[**batteries**](https://github.com/adam12/batteries)|Tired of copying the same Rake tasks to every single Roda/Sinatra project you start? Me too.||
 |3|[@adam12](https://github.com/adam12)/[**rack-php-session**](https://github.com/adam12/rack-php-session)|Read-only access to PHP Sessions from Rack Applications||
@@ -1155,7 +1156,6 @@
 |3|[@fnando](https://github.com/fnando)/[**ene**](https://github.com/fnando/ene)|Convert NPM into Rubygems packages.||
 |3|[@fnando](https://github.com/fnando)/[**formatted_attributes**](https://github.com/fnando/formatted_attributes)|Sometimes you need to expose a helper method that will convert its value before saving it to the database. This gem will add `formatted_` suffix to the attributes you specify.|[:arrow_upper_right:](http://rubygems.org/gems/formatted_attributes)|
 |3|[@fnando](https://github.com/fnando)/[**merb-contacts-app**](https://github.com/fnando/merb-contacts-app)|Sample application created for learning purposes||
-|3|[@fnando](https://github.com/fnando)/[**omniauth-atlassian-bitbucket**](https://github.com/fnando/omniauth-atlassian-bitbucket)|Bitbucket's OAuth2 Strategy for OmniAuth. This strategy uses API 2.0 to retrieve user information.||
 |3|[@fnando](https://github.com/fnando)/[**rails-template**](https://github.com/fnando/rails-template)|My new Rails project template||
 |3|[@fnando](https://github.com/fnando)/[**text_captcha**](https://github.com/fnando/text_captcha)|Simple captcha based on plain text questions.||
 |3|[@fnando](https://github.com/fnando)/[**validates_email_format_of**](https://github.com/fnando/validates_email_format_of)|Validate e-mail addresses against RFC 2822 and RFC 3696.||
