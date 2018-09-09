@@ -1,19 +1,19 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|724|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
-|369|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
-|354|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
-|273|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
-|121|[@saks](https://github.com/saks)/[**lua-resty-repl**](https://github.com/saks/lua-resty-repl)|Interactive console (REPL) for Openresty and luajit code||
+|726|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
+|375|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
+|353|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
+|282|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
+|124|[@saks](https://github.com/saks)/[**lua-resty-repl**](https://github.com/saks/lua-resty-repl)|Interactive console (REPL) for Openresty and luajit code||
 |97|[@castorini](https://github.com/castorini)/[**MP-CNN-Torch**](https://github.com/castorini/MP-CNN-Torch)|Multi-Perspective Convolutional Neural Networks for modeling textual similarity (He et al., EMNLP 2015)||
-|82|[@forhappy](https://github.com/forhappy)/[**zklua**](https://github.com/forhappy/zklua)|Lua binding of apache zookeeper.||
+|85|[@forhappy](https://github.com/forhappy)/[**zklua**](https://github.com/forhappy/zklua)|Lua binding of apache zookeeper.||
 |79|[@500px](https://github.com/500px)/[**500pxPublisher.lrplugin**](https://github.com/500px/500pxPublisher.lrplugin)|Lightroom Plugin for publishing directly to 500px||
-|47|[@karai17](https://github.com/karai17)/[**lapis-chan**](https://github.com/karai17/lapis-chan)|Image board software written in Lua using the Lapis web framework.|[:arrow_upper_right:](http://lapchan.moe)|
+|48|[@karai17](https://github.com/karai17)/[**lapis-chan**](https://github.com/karai17/lapis-chan)|Image board software written in Lua using the Lapis web framework.|[:arrow_upper_right:](http://lapchan.moe)|
 |46|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**torch-in-action**](https://github.com/nicholas-leonard/torch-in-action)|Code for the Torch in Action book||
 |45|[@castorini](https://github.com/castorini)/[**NCE-CNN-Torch**](https://github.com/castorini/NCE-CNN-Torch)|Noise-Contrastive Estimation for Question Answering with Convolutional Neural Networks (Rao et al. CIKM 2016)||
 |33|[@z3t0](https://github.com/z3t0)/[**zwm**](https://github.com/z3t0/zwm)|macOS window manager running on Hammerspoon||
 |28|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**torchx**](https://github.com/nicholas-leonard/torchx)|torch extensions||
-|23|[@pelevesque](https://github.com/pelevesque)/[**draft**](https://github.com/pelevesque/draft)|A drafting module for LÖVE 2D. https://love2d.org||
+|24|[@pelevesque](https://github.com/pelevesque)/[**draft**](https://github.com/pelevesque/draft)|A drafting module for LÖVE 2D. https://love2d.org||
 |23|[@slime73](https://github.com/slime73)/[**love-snippets**](https://github.com/slime73/love-snippets)|Snippets of Lua code useful in the LÖVE game framework.||
 |21|[@inikdom](https://github.com/inikdom)/[**seq2seq-chatbot**](https://github.com/inikdom/seq2seq-chatbot)|An implementation of Google's seq2seq architecture for building a chatbot.||
 |21|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**drmad**](https://github.com/nicholas-leonard/drmad)|Hyper-parameter Optimization with DrMAD and Hypero||
@@ -21,10 +21,10 @@
 |16|[@slime73](https://github.com/slime73)/[**Lua-Event**](https://github.com/slime73/Lua-Event)|Basic event system I have been using in my LÖVE games||
 |15|[@pelevesque](https://github.com/pelevesque)/[**skeletor**](https://github.com/pelevesque/skeletor)|A skeletal animation system for LÖVE 2D. https://love2d.org||
 |15|[@tpoisot](https://github.com/tpoisot)/[**dotfiles**](https://github.com/tpoisot/dotfiles)|dotfiles||
+|14|[@jake100](https://github.com/jake100)/[**lua-state-machine**](https://github.com/jake100/lua-state-machine)|lua state machine taking advantage of first class functions.||
 |14|[@karai17](https://github.com/karai17)/[**lua-obj**](https://github.com/karai17/lua-obj)|Load a Wavefront Object file into Lua||
-|13|[@jake100](https://github.com/jake100)/[**lua-state-machine**](https://github.com/jake100/lua-state-machine)|lua state machine taking advantage of first class functions.||
+|13|[@pelevesque](https://github.com/pelevesque)/[**gamemath**](https://github.com/pelevesque/gamemath)|A collection of Lua math functions useful for video games.||
 |12|[@burningion](https://github.com/burningion)/[**crappy-product-generator**](https://github.com/burningion/crappy-product-generator)|Generate crappy products and reviews using Amazon's dataset|[:arrow_upper_right:](http://www.kpkaiser.com/machine-learning/training-neural-networks-to-generate-crappy-amazon-products/)|
-|12|[@pelevesque](https://github.com/pelevesque)/[**gamemath**](https://github.com/pelevesque/gamemath)|A collection of Lua math functions useful for video games.||
 |11|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**slides**](https://github.com/nicholas-leonard/slides)|Presentations||
 |10|[@james2doyle](https://github.com/james2doyle)/[**Lico**](https://github.com/james2doyle/Lico)|Lico is Pico re-written using Luvit for Lua||
 |10|[@sam-github](https://github.com/sam-github)/[**lunit**](https://github.com/sam-github/lunit)|unit testing for lua||
@@ -34,8 +34,8 @@
 |8|[@castorini](https://github.com/castorini)/[**SM-CNN-Torch**](https://github.com/castorini/SM-CNN-Torch)|Torch implementation of Severyn and Moschitti's SIGIR 2015 CNN model for question answering||
 |8|[@karai17](https://github.com/karai17)/[**love-spriter**](https://github.com/karai17/love-spriter)|A Spriter implementation for LOVE||
 |8|[@karai17](https://github.com/karai17)/[**lua-winged-edge**](https://github.com/karai17/lua-winged-edge)|Winged Edge Data Structure in Lua||
+|8|[@yrashk](https://github.com/yrashk)/[**nix-home**](https://github.com/yrashk/nix-home)|Nix Home Manager||
 |7|[@travisjeffery](https://github.com/travisjeffery)/[**awesome-wm**](https://github.com/travisjeffery/awesome-wm)|My configuration of the awesome window manager.||
-|7|[@yrashk](https://github.com/yrashk)/[**nix-home**](https://github.com/yrashk/nix-home)|Nix Home Manager||
 |6|[@coolacid](https://github.com/coolacid)/[**ComputerCraft**](https://github.com/coolacid/ComputerCraft)|Scripts Related to Minecraft ComputerCraft||
 |6|[@mverteuil](https://github.com/mverteuil)/[**windower4-addons**](https://github.com/mverteuil/windower4-addons)|FFXI Windower 4 Addons||
 |5|[@dvdfu](https://github.com/dvdfu)/[**ld38**](https://github.com/dvdfu/ld38)|Ludum Dare 38 Jam submission|[:arrow_upper_right:](https://dvdfu.itch.io/honey-home)|
@@ -58,4 +58,5 @@
 |3|[@jarednorman](https://github.com/jarednorman)/[**knight**](https://github.com/jarednorman/knight)|Knight is a dependency manager/injector for Lua.|[:arrow_upper_right:](https://github.com/jarednorman/knight)|
 |3|[@mvdan](https://github.com/mvdan)/[**dotfiles**](https://github.com/mvdan/dotfiles)|Here be dragons||
 |3|[@thesuicidalrobot](https://github.com/thesuicidalrobot)/[**Super-Hero-Chronicles**](https://github.com/thesuicidalrobot/Super-Hero-Chronicles)|||
+|3|[@vocksel](https://github.com/vocksel)/[**prefabs**](https://github.com/vocksel/prefabs)|Roblox plugin for making reuseable assets and keeping them in sync across your game||
 

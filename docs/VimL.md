@@ -3,14 +3,13 @@
 |189|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
 |147|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |87|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|:rocket: Quickly init a slightly better Vim.||
-|52|[@honza](https://github.com/honza)/[**dockerfile.vim**](https://github.com/honza/dockerfile.vim)|Syntax highlighting for Dockerfiles||
 |50|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
 |45|[@ujihisa](https://github.com/ujihisa)/[**unite-colorscheme**](https://github.com/ujihisa/unite-colorscheme)|A unite.vim plugin||
 |42|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
 |40|[@ujihisa](https://github.com/ujihisa)/[**shadow.vim**](https://github.com/ujihisa/shadow.vim)|That's not the file. That's shadow.||
 |37|[@tommcdo](https://github.com/tommcdo)/[**vim-ninja-feet**](https://github.com/tommcdo/vim-ninja-feet)|Strike from the cursor to either end of a text object||
-|33|[@ujihisa](https://github.com/ujihisa)/[**vimshell-ssh**](https://github.com/ujihisa/vimshell-ssh)|the world first vimshell plugin that you can run "vim" command on ssh on vimshell||
-|27|[@tommcdo](https://github.com/tommcdo)/[**vim-fugitive-blame-ext**](https://github.com/tommcdo/vim-fugitive-blame-ext)|Extend tpope/vim-fugitive to show commit message on statusline in :Gblame||
+|34|[@ujihisa](https://github.com/ujihisa)/[**vimshell-ssh**](https://github.com/ujihisa/vimshell-ssh)|the world first vimshell plugin that you can run "vim" command on ssh on vimshell||
+|28|[@tommcdo](https://github.com/tommcdo)/[**vim-fugitive-blame-ext**](https://github.com/tommcdo/vim-fugitive-blame-ext)|Extend tpope/vim-fugitive to show commit message on statusline in :Gblame||
 |23|[@gmarik](https://github.com/gmarik)/[**github-search.vim**](https://github.com/gmarik/github-search.vim)|search Github and clone repos with Vim|[:arrow_upper_right:](http://github.com/gmarik/github-search.vim)|
 |23|[@pangloss](https://github.com/pangloss)/[**vim-erlang**](https://github.com/pangloss/vim-erlang)|This repo has been superseded by the one at http://github.com/oscarh/vimerl which is maintained by the original author. Move along, nothing more to see here!||
 |23|[@svermeulen](https://github.com/svermeulen)/[**vim-extended-ft**](https://github.com/svermeulen/vim-extended-ft)|||
@@ -19,7 +18,7 @@
 |21|[@thayerwilliams](https://github.com/thayerwilliams)/[**vimbrant**](https://github.com/thayerwilliams/vimbrant)|A vibrantly dark dark colour scheme for Vim and other terminal applications||
 |17|[@mrmrs](https://github.com/mrmrs)/[**vimrc**](https://github.com/mrmrs/vimrc)|||
 |17|[@tristen](https://github.com/tristen)/[**superman**](https://github.com/tristen/superman)|:art: A dark theme for Vim||
-|13|[@gmarik](https://github.com/gmarik)/[**sudo-gui.vim**](https://github.com/gmarik/sudo-gui.vim)|sudo GUI for a GUI vim|[:arrow_upper_right:](https://github.com/gmarik/sudo-gui.vim)|
+|14|[@gmarik](https://github.com/gmarik)/[**sudo-gui.vim**](https://github.com/gmarik/sudo-gui.vim)|sudo GUI for a GUI vim|[:arrow_upper_right:](https://github.com/gmarik/sudo-gui.vim)|
 |13|[@tommcdo](https://github.com/tommcdo)/[**vim-lister**](https://github.com/tommcdo/vim-lister)|A collection of commands for manipulating Vim's lists||
 |13|[@ujihisa](https://github.com/ujihisa)/[**unite-haskellimport**](https://github.com/ujihisa/unite-haskellimport)|:Unite haskellimport||
 |12|[@travisjeffery](https://github.com/travisjeffery)/[**snipmate-snippets**](https://github.com/travisjeffery/snipmate-snippets)|my snippets that I use with snipmate||

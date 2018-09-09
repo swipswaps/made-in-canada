@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|488|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base! see the website for details.|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
+|486|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base! see the website for details.|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
 |40|[@Ohmnivore](https://github.com/Ohmnivore)/[**SkullRush**](https://github.com/Ohmnivore/SkullRush)|A 2D online multiplayer shooter written in Haxe||
 |37|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-glm**](https://github.com/FuzzyWuzzie/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |30|[@ashes999](https://github.com/ashes999)/[**butterfly**](https://github.com/ashes999/butterfly)|Haxe generator for simple, static blogs.||
@@ -20,9 +20,9 @@
 |10|[@underscorediscovery](https://github.com/underscorediscovery)/[**cassowary-hx**](https://github.com/underscorediscovery/cassowary-hx)|A direct port of cassowary.js to Haxe||
 |9|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-gltf**](https://github.com/FuzzyWuzzie/haxe-gltf)|A Haxe library for reading (and eventually, writing) GLTF files.||
 |9|[@Ohmnivore](https://github.com/Ohmnivore)/[**ChopChopScript**](https://github.com/Ohmnivore/ChopChopScript)|:pencil2: Scripting language for Haxe||
+|9|[@Ohmnivore](https://github.com/Ohmnivore)/[**ClientSidePredictionAndServerReconciliation**](https://github.com/Ohmnivore/ClientSidePredictionAndServerReconciliation)|Haxe port of http://www.gabrielgambetta.com/fpm_live.html||
 |9|[@Ohmnivore](https://github.com/Ohmnivore)/[**HxCLAP**](https://github.com/Ohmnivore/HxCLAP)|Haxe port of CLAP, a command line argument parser||
 |8|[@Ohmnivore](https://github.com/Ohmnivore)/[**ChopEngine**](https://github.com/Ohmnivore/ChopEngine)|A Haxe cross-platform 3D game engine built on top of Snow||
-|8|[@Ohmnivore](https://github.com/Ohmnivore)/[**ClientSidePredictionAndServerReconciliation**](https://github.com/Ohmnivore/ClientSidePredictionAndServerReconciliation)|Haxe port of http://www.gabrielgambetta.com/fpm_live.html||
 |8|[@underscorediscovery](https://github.com/underscorediscovery)/[**arguable**](https://github.com/underscorediscovery/arguable)|A simple `--argument value` parsing library for Haxe.||
 |8|[@underscorediscovery](https://github.com/underscorediscovery)/[**hxtypedarray**](https://github.com/underscorediscovery/hxtypedarray)|TypedArray implementation for haxe ||
 |8|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe-assetpacker**](https://github.com/underscorediscovery/luxe-assetpacker)|An asset packing tool for luxe and haxe projects||
@@ -43,6 +43,7 @@
 |4|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe-gifcapture**](https://github.com/underscorediscovery/luxe-gifcapture)|A luxe wrapper over the gifcapture library to simplify capturing realtime gifs from in game||
 |3|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Luxe3D**](https://github.com/FuzzyWuzzie/Luxe3D)|Experiments in 3D in Luxe||
 |3|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**hx-blender-api**](https://github.com/FuzzyWuzzie/hx-blender-api)|Haxe externs for the Blender API||
+|3|[@chfoo](https://github.com/chfoo)/[**fogchamp**](https://github.com/chfoo/fogchamp)|Pokémon Battle Revolution Matchup Visualizer for Twitch Plays Pokemon.|[:arrow_upper_right:](https://chfoo.github.io/fogchamp/)|
 |3|[@underscorediscovery](https://github.com/underscorediscovery)/[**nme-TexturePackerJSON**](https://github.com/underscorediscovery/nme-TexturePackerJSON)|An implementation of a haxelib/spritesheet Loader for TexturePacker||
 |3|[@underscorediscovery](https://github.com/underscorediscovery)/[**snowhxt**](https://github.com/underscorediscovery/snowhxt)|A convenience for using hxtelemetry with flow/snow based apps quickly||
 

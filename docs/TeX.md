@@ -1,30 +1,30 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|15813|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
-|660|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
+|16155|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
+|667|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
 |282|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
-|259|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
-|206|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
+|261|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
+|208|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
 |154|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execushares**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
 |92|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
 |55|[@patmorin](https://github.com/patmorin)/[**arraylayout**](https://github.com/patmorin/arraylayout)|Experiments with array layouts for comparison-based searching|[:arrow_upper_right:](http://cglab.ca/~morin/misc/arraylayout-v2/)|
 |44|[@christhomson](https://github.com/christhomson)/[**lecture-notes**](https://github.com/christhomson/lecture-notes)|LaTeX notes for a few courses I've taken at the University of Waterloo.|[:arrow_upper_right:](http://cthomson.ca/notes)|
+|19|[@peeterjoot](https://github.com/peeterjoot)/[**physicsplay**](https://github.com/peeterjoot/physicsplay)|Latex source for geometric algebra and physics notes.|[:arrow_upper_right:](http://peeterjoot.com/)|
+|18|[@lyst](https://github.com/lyst)/[**lightfm-paper**](https://github.com/lyst/lightfm-paper)|||
 |18|[@mcantelon](https://github.com/mcantelon)/[**fashion-quest**](https://github.com/mcantelon/fashion-quest)|Shoes-dependent, YAML-driven interactive fiction framework for fashion adventures|[:arrow_upper_right:](http://mcantelon.github.io/fashion-quest/)|
-|18|[@peeterjoot](https://github.com/peeterjoot)/[**physicsplay**](https://github.com/peeterjoot/physicsplay)|Latex source for geometric algebra and physics notes.|[:arrow_upper_right:](http://peeterjoot.com/)|
-|17|[@lyst](https://github.com/lyst)/[**lightfm-paper**](https://github.com/lyst/lightfm-paper)|||
 |14|[@tpoisot](https://github.com/tpoisot)/[**ecobiblatex**](https://github.com/tpoisot/ecobiblatex)|Biblatex styles for ecology journals||
 |13|[@bmcfee](https://github.com/bmcfee)/[**laplacian_segmentation**](https://github.com/bmcfee/laplacian_segmentation)|graph laplacian song segmentation||
 |13|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan**](https://github.com/gavinsimpson/esa-advanced-vegan)|Advanced Vegan Workshop for ESA||
 |13|[@rcompton](https://github.com/rcompton)/[**black-market-recommender-systems**](https://github.com/rcompton/black-market-recommender-systems)|Code and paper||
 |11|[@PhDP](https://github.com/PhDP)/[**ms_open_licenses**](https://github.com/PhDP/ms_open_licenses)|A defence of permissive licenses (CC0, CC-BY, BSD, MIT, ...) in science||
+|11|[@gavinsimpson](https://github.com/gavinsimpson)/[**frontiers-palaeo-additive-modelling**](https://github.com/gavinsimpson/frontiers-palaeo-additive-modelling)|Modelling and feature detection in palaeoenvironmental time series using additive models||
 |10|[@AllanWang](https://github.com/AllanWang)/[**McGill-Public**](https://github.com/AllanWang/McGill-Public)|Part of McGill U3 that can be made public|[:arrow_upper_right:](https://allanwang.github.io/McGill-Public/)|
 |10|[@PhDP](https://github.com/PhDP)/[**article_preprint**](https://github.com/PhDP/article_preprint)|An article on preprints in biology (published in PLOS Biology).||
 |10|[@Pomax](https://github.com/Pomax)/[**ucharclasses**](https://github.com/Pomax/ucharclasses)|A XeLaTeX package that lets you insert arbitrary code between characters from different unicode blocks||
 |10|[@gaborbernat](https://github.com/gaborbernat)/[**ropi_jegyzet_latex**](https://github.com/gaborbernat/ropi_jegyzet_latex)|Rendszeroptimizálás||
-|10|[@gavinsimpson](https://github.com/gavinsimpson)/[**frontiers-palaeo-additive-modelling**](https://github.com/gavinsimpson/frontiers-palaeo-additive-modelling)|Modelling and feature detection in palaeoenvironmental time series using additive models||
 |10|[@gdevenyi](https://github.com/gdevenyi)/[**mcmaster.latex**](https://github.com/gdevenyi/mcmaster.latex)|LaTeX Template Satisfying McMaster Thesis Formatting Requirements||
+|9|[@hadim](https://github.com/hadim)/[**phd_thesis**](https://github.com/hadim/phd_thesis)|My PhD thesis source code (markdown + latex + pandoc)||
 |9|[@seananderson](https://github.com/seananderson)/[**heavy-tails**](https://github.com/seananderson/heavy-tails)|Black-swan events in animal populations||
-|8|[@hadim](https://github.com/hadim)/[**phd_thesis**](https://github.com/hadim/phd_thesis)|My PhD thesis source code (markdown + latex + pandoc)||
 |8|[@qrwteyrutiyoup](https://github.com/qrwteyrutiyoup)/[**modelo-latex-uece**](https://github.com/qrwteyrutiyoup/modelo-latex-uece)|Modelo de monografia em LaTeX da Universidade Estadual do Ceará (UECE)||
 |7|[@bmcfee](https://github.com/bmcfee)/[**playlist_recommender**](https://github.com/bmcfee/playlist_recommender)|Personalized generative playlist models||
 |7|[@ctn-archive](https://github.com/ctn-archive)/[**bekolay-jneurosci2014**](https://github.com/ctn-archive/bekolay-jneurosci2014)|Files related to "A spiking neural integrator model of the adaptive control of action by the medial prefrontal cortex"||

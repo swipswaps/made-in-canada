@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |123|[@yracine](https://github.com/yracine)/[**device-type.myecobee**](https://github.com/yracine/device-type.myecobee)|SmartThings-ecobee integration||
-|61|[@f2prateek](https://github.com/f2prateek)/[**gradle-android-javafmt-plugin**](https://github.com/f2prateek/gradle-android-javafmt-plugin)|Augomagically format Java files||
+|61|[@f2prateek](https://github.com/f2prateek)/[**gradle-android-javafmt-plugin**](https://github.com/f2prateek/gradle-android-javafmt-plugin)|Augomagically format Java files (deprecated)||
 |40|[@f2prateek](https://github.com/f2prateek)/[**android-checkstyle-plugin**](https://github.com/f2prateek/android-checkstyle-plugin)|Configures the checkstyle plugin for Android projects||
 |26|[@kellyrob99](https://github.com/kellyrob99)/[**Jenkins-api-tour**](https://github.com/kellyrob99/Jenkins-api-tour)|Code demonstrating how to interact with the API layer of a Jenkins/Hudson build server.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2011/03/27/hooking-into-the-jenkinshudson-api/)|
 |19|[@mbarnathan](https://github.com/mbarnathan)/[**SmartWink**](https://github.com/mbarnathan/SmartWink)|Lutron support in SmartThings using a rooted Wink hub as a bridge||
@@ -24,6 +24,7 @@
 |4|[@davidkiss](https://github.com/davidkiss)/[**grails-todo**](https://github.com/davidkiss/grails-todo)|Sample project on building a modern web application using Grails + Spring Security + Angular JS + Twitter Bootstrap.||
 |3|[@DavidYKay](https://github.com/DavidYKay)/[**gradle-jenkins-example**](https://github.com/DavidYKay/gradle-jenkins-example)|Example of putting Gradle and Jenkins together for Android||
 |3|[@NickQiZhu](https://github.com/NickQiZhu)/[**Griffon-Validation-Plugin**](https://github.com/NickQiZhu/Griffon-Validation-Plugin)|Validation plugin for Griffin framework|[:arrow_upper_right:](http://griffon.codehaus.org/Validation+Plugin)|
+|3|[@andrewshawcare](https://github.com/andrewshawcare)/[**docker-ecosystem-jenkins**](https://github.com/andrewshawcare/docker-ecosystem-jenkins)|A Jenkins deployment with docker-compose-enabled nodes and some sample projects||
 |3|[@gpottepalem](https://github.com/gpottepalem)/[**gradle-release-info**](https://github.com/gpottepalem/gradle-release-info)|A simple Gradle plugin for making release-info available to the application via application.yml in the deployable archive like war or jar.||
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**Groovy-Testing-Presentation**](https://github.com/kellyrob99/Groovy-Testing-Presentation)|A test Griffon application for delivering a slideshow style presentation using the slideware plugin|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/02/11/a-one-day-griffon-applicationpresentation/)|
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**JFreeChart-POI-Groovy**](https://github.com/kellyrob99/JFreeChart-POI-Groovy)|Using JFreeChart and Apache POI in Groovy||
