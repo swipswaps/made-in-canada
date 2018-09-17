@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|486|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base! see the website for details.|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
+|487|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base! see the website for details.|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
 |40|[@Ohmnivore](https://github.com/Ohmnivore)/[**SkullRush**](https://github.com/Ohmnivore/SkullRush)|A 2D online multiplayer shooter written in Haxe||
 |37|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-glm**](https://github.com/FuzzyWuzzie/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |30|[@ashes999](https://github.com/ashes999)/[**butterfly**](https://github.com/ashes999/butterfly)|Haxe generator for simple, static blogs.||
 |19|[@fserb](https://github.com/fserb)/[**sketch**](https://github.com/fserb/sketch)|game sketches|[:arrow_upper_right:](http://fserb.com/vault)|
-|18|[@underscorediscovery](https://github.com/underscorediscovery)/[**structural**](https://github.com/underscorediscovery/structural)|An unencumbered haxe data structures library||
+|19|[@underscorediscovery](https://github.com/underscorediscovery)/[**structural**](https://github.com/underscorediscovery/structural)|An unencumbered haxe data structures library||
 |16|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxeParticleDesigner**](https://github.com/FuzzyWuzzie/LuxeParticleDesigner)|A tool for quickly designing / tweaking particle systems in Luxe.||
 |15|[@underscorediscovery](https://github.com/underscorediscovery)/[**hxsw**](https://github.com/underscorediscovery/hxsw)|Haxe Shader Wrangler (hxsw) - a port of glsw||
 |14|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**headbutt**](https://github.com/FuzzyWuzzie/headbutt)|A GJK and EPA collision engine made with pure Haxe.||

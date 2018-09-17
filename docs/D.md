@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2614|[@gnunn1](https://github.com/gnunn1)/[**tilix**](https://github.com/gnunn1/tilix)|A tiling terminal emulator for Linux using GTK+ 3|[:arrow_upper_right:](https://gnunn1.github.io/tilix-web)|
+|2626|[@gnunn1](https://github.com/gnunn1)/[**tilix**](https://github.com/gnunn1/tilix)|A tiling terminal emulator for Linux using GTK+ 3|[:arrow_upper_right:](https://gnunn1.github.io/tilix-web)|
 |119|[@etcimon](https://github.com/etcimon)/[**libasync**](https://github.com/etcimon/libasync)|Cross-platform event loop library of asynchronous objects||
 |62|[@etcimon](https://github.com/etcimon)/[**botan**](https://github.com/etcimon/botan)|Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc.||
 |34|[@etcimon](https://github.com/etcimon)/[**memutils**](https://github.com/etcimon/memutils)|Overhead allocators, allocator-aware containers and lifetime management for D objects||
 |32|[@etcimon](https://github.com/etcimon)/[**libhttp2**](https://github.com/etcimon/libhttp2)|HTTP/2 library in D, translated from nghttp2||
-|28|[@dd86k](https://github.com/dd86k)/[**dd-dos**](https://github.com/dd86k/dd-dos)|Lightweight 8086/DOS virtual machine and emulation layer ** WIP **||
+|28|[@dd86k](https://github.com/dd86k)/[**dd-dos**](https://github.com/dd86k/dd-dos)|Lightweight 8086/DOS virtual machine and emulation layer ** WIP **|[:arrow_upper_right:](https://dd-dos.dd86k.space)|
 |21|[@gnunn1](https://github.com/gnunn1)/[**vgrep**](https://github.com/gnunn1/vgrep)|A grep graphical user interface written in D and GTK 3||
 |15|[@trishume](https://github.com/trishume)/[**ddbus**](https://github.com/trishume/ddbus)|D library for interfacing with dbus||
 |13|[@etcimon](https://github.com/etcimon)/[**windows-headers**](https://github.com/etcimon/windows-headers)|windows.h for D projects||
-|10|[@dd86k](https://github.com/dd86k)/[**ddcpuid**](https://github.com/dd86k/ddcpuid)|Processor information tool||
+|10|[@dd86k](https://github.com/dd86k)/[**ddcpuid**](https://github.com/dd86k/ddcpuid)|Advanced x86 Processor Information Tool||
 |10|[@dd86k](https://github.com/dd86k)/[**dfile**](https://github.com/dd86k/dfile)|Cross-platform and fast file scanner||
 |6|[@OniDaito](https://github.com/OniDaito)/[**PythonCourse**](https://github.com/OniDaito/PythonCourse)|The Hackspace Python|[:arrow_upper_right:](http://www.section9.co.uk)|
 |6|[@dd86k](https://github.com/dd86k)/[**ddhx**](https://github.com/dd86k/ddhx)|Console hexadecimal file viewer||

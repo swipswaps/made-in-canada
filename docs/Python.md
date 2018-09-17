@@ -1,195 +1,195 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|10193|[@StevenBlack](https://github.com/StevenBlack)/[**hosts**](https://github.com/StevenBlack/hosts)|Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category. ||
-|9004|[@apenwarr](https://github.com/apenwarr)/[**sshuttle**](https://github.com/apenwarr/sshuttle)|Wrong project!  You should head over to http://github.com/sshuttle/sshuttle||
-|4855|[@david-gpu](https://github.com/david-gpu)/[**srez**](https://github.com/david-gpu/srez)|Image super-resolution through deep learning||
-|4631|[@humphd](https://github.com/humphd)/[**have-fun-with-machine-learning**](https://github.com/humphd/have-fun-with-machine-learning)|An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks||
-|4443|[@tzutalin](https://github.com/tzutalin)/[**labelImg**](https://github.com/tzutalin/labelImg)|:metal: LabelImg is a graphical image annotation tool and label object bounding boxes in images|[:arrow_upper_right:](https://youtu.be/p0nR2YsCY_U)|
-|4432|[@ShangtongZhang](https://github.com/ShangtongZhang)/[**reinforcement-learning-an-introduction**](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)|Python Implementation of Reinforcement Learning: An Introduction||
-|3443|[@reinderien](https://github.com/reinderien)/[**mimic**](https://github.com/reinderien/mimic)|[ab]using Unicode to create tragedy||
-|3099|[@midgetspy](https://github.com/midgetspy)/[**Sick-Beard**](https://github.com/midgetspy/Sick-Beard)|PVR & episode guide that downloads and manages all your TV shows |[:arrow_upper_right:](http://code.google.com/p/sickbeard/)|
-|2953|[@LazoCoder](https://github.com/LazoCoder)/[**Pokemon-Terminal**](https://github.com/LazoCoder/Pokemon-Terminal)|Pokemon terminal themes.||
-|2690|[@honza](https://github.com/honza)/[**vim-snippets**](https://github.com/honza/vim-snippets)|vim-snipmate default snippets (Previously snipmate-snippets)||
+|10239|[@StevenBlack](https://github.com/StevenBlack)/[**hosts**](https://github.com/StevenBlack/hosts)|Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category. ||
+|9005|[@apenwarr](https://github.com/apenwarr)/[**sshuttle**](https://github.com/apenwarr/sshuttle)|Wrong project!  You should head over to http://github.com/sshuttle/sshuttle||
+|4858|[@david-gpu](https://github.com/david-gpu)/[**srez**](https://github.com/david-gpu/srez)|Image super-resolution through deep learning||
+|4633|[@humphd](https://github.com/humphd)/[**have-fun-with-machine-learning**](https://github.com/humphd/have-fun-with-machine-learning)|An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks||
+|4508|[@tzutalin](https://github.com/tzutalin)/[**labelImg**](https://github.com/tzutalin/labelImg)|:metal: LabelImg is a graphical image annotation tool and label object bounding boxes in images|[:arrow_upper_right:](https://youtu.be/p0nR2YsCY_U)|
+|4490|[@ShangtongZhang](https://github.com/ShangtongZhang)/[**reinforcement-learning-an-introduction**](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)|Python Implementation of Reinforcement Learning: An Introduction||
+|3447|[@reinderien](https://github.com/reinderien)/[**mimic**](https://github.com/reinderien/mimic)|[ab]using Unicode to create tragedy||
+|3098|[@midgetspy](https://github.com/midgetspy)/[**Sick-Beard**](https://github.com/midgetspy/Sick-Beard)|PVR & episode guide that downloads and manages all your TV shows |[:arrow_upper_right:](http://code.google.com/p/sickbeard/)|
+|2958|[@LazoCoder](https://github.com/LazoCoder)/[**Pokemon-Terminal**](https://github.com/LazoCoder/Pokemon-Terminal)|Pokemon terminal themes.||
+|2697|[@honza](https://github.com/honza)/[**vim-snippets**](https://github.com/honza/vim-snippets)|vim-snipmate default snippets (Previously snipmate-snippets)||
 |1962|[@JonnyWong16](https://github.com/JonnyWong16)/[**plexpy**](https://github.com/JonnyWong16/plexpy)|A Python based monitoring and tracking tool for Plex Media Server.|[:arrow_upper_right:](http://tautulli.com)|
-|1947|[@lyst](https://github.com/lyst)/[**lightfm**](https://github.com/lyst/lightfm)|A Python implementation of LightFM, a hybrid recommendation algorithm.||
-|1830|[@cuemacro](https://github.com/cuemacro)/[**finmarketpy**](https://github.com/cuemacro/finmarketpy)|Python library for backtesting trading strategies & analyzing financial markets (formerly pythalesians)|[:arrow_upper_right:](http://www.cuemacro.com)|
-|1785|[@lmcinnes](https://github.com/lmcinnes)/[**umap**](https://github.com/lmcinnes/umap)|Uniform Manifold Approximation and Projection||
-|1594|[@trentm](https://github.com/trentm)/[**python-markdown2**](https://github.com/trentm/python-markdown2)|markdown2: A fast and complete implementation of Markdown in Python||
-|1571|[@tdryer](https://github.com/tdryer)/[**hangups**](https://github.com/tdryer/hangups)|the first third-party instant messaging client for Google Hangouts|[:arrow_upper_right:](https://hangups.readthedocs.io/)|
-|1471|[@myusuf3](https://github.com/myusuf3)/[**delorean**](https://github.com/myusuf3/delorean)|Delorean: Time Travel Made Easy|[:arrow_upper_right:](http://delorean.rtfd.org/)|
-|1423|[@justinmeister](https://github.com/justinmeister)/[**Mario-Level-1**](https://github.com/justinmeister/Mario-Level-1)|The first level of Super Mario Bros made with Python and Pygame.||
-|1347|[@joowani](https://github.com/joowani)/[**binarytree**](https://github.com/joowani/binarytree)|Python Library for Studying Binary Trees|[:arrow_upper_right:](http://binarytree.readthedocs.io)|
-|1313|[@jadore801120](https://github.com/jadore801120)/[**attention-is-all-you-need-pytorch**](https://github.com/jadore801120/attention-is-all-you-need-pytorch)|A PyTorch implementation of the Transformer model in "Attention is All You Need".||
-|1277|[@ab77](https://github.com/ab77)/[**netflix-proxy**](https://github.com/ab77/netflix-proxy)|Smart DNS proxy to watch Netflix|[:arrow_upper_right:](http://anton.belodedenko.me/tag/netflix-proxy/)|
-|1233|[@sebastien](https://github.com/sebastien)/[**cuisine**](https://github.com/sebastien/cuisine)|Chef-like functionality for Fabric||
-|1119|[@snwh](https://github.com/snwh)/[**paper-icon-theme**](https://github.com/snwh/paper-icon-theme)|Paper Icon Theme|[:arrow_upper_right:](http://snwh.org/paper)|
-|1106|[@AlexiaJM](https://github.com/AlexiaJM)/[**Deep-learning-with-cats**](https://github.com/AlexiaJM/Deep-learning-with-cats)|Deep learning with cats (^._.^)||
-|1060|[@gwding](https://github.com/gwding)/[**draw_convnet**](https://github.com/gwding/draw_convnet)|||
-|1048|[@benfred](https://github.com/benfred)/[**implicit**](https://github.com/benfred/implicit)|Fast Python Collaborative Filtering for Implicit Feedback Datasets||
-|940|[@apenwarr](https://github.com/apenwarr)/[**redo**](https://github.com/apenwarr/redo)|Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.||
-|918|[@DenisCarriere](https://github.com/DenisCarriere)/[**geocoder**](https://github.com/DenisCarriere/geocoder)|:earth_asia: Python Geocoder|[:arrow_upper_right:](http://geocoder.readthedocs.org)|
-|874|[@MarvinTeichmann](https://github.com/MarvinTeichmann)/[**tensorflow-fcn**](https://github.com/MarvinTeichmann/tensorflow-fcn)|An Implementation of Fully Convolutional Networks in Tensorflow.||
-|833|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**lifelines**](https://github.com/CamDavidsonPilon/lifelines)|Survival analysis in Python||
-|784|[@ShangtongZhang](https://github.com/ShangtongZhang)/[**DeepRL**](https://github.com/ShangtongZhang/DeepRL)|Highly modularized implementation of popular deep RL algorithms in PyTorch||
-|777|[@evilhero](https://github.com/evilhero)/[**mylar**](https://github.com/evilhero/mylar)|An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents||
-|756|[@joeddav](https://github.com/joeddav)/[**devol**](https://github.com/joeddav/devol)|Genetic ConvNet architecture search with Keras||
-|742|[@hsoft](https://github.com/hsoft)/[**dupeguru**](https://github.com/hsoft/dupeguru)|Find duplicate files|[:arrow_upper_right:](https://www.hardcoded.net/dupeguru/)|
-|684|[@kevin28520](https://github.com/kevin28520)/[**My-TensorFlow-tutorials**](https://github.com/kevin28520/My-TensorFlow-tutorials)|This repo contains all of my TensorFlow tutorials||
-|645|[@MarvinTeichmann](https://github.com/MarvinTeichmann)/[**KittiSeg**](https://github.com/MarvinTeichmann/KittiSeg)|A Kitti Road Segmentation model implemented in tensorflow.||
-|598|[@Srinivas11789](https://github.com/Srinivas11789)/[**PcapXray**](https://github.com/Srinivas11789/PcapXray)|:snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction||
+|1956|[@lyst](https://github.com/lyst)/[**lightfm**](https://github.com/lyst/lightfm)|A Python implementation of LightFM, a hybrid recommendation algorithm.||
+|1847|[@lmcinnes](https://github.com/lmcinnes)/[**umap**](https://github.com/lmcinnes/umap)|Uniform Manifold Approximation and Projection||
+|1832|[@cuemacro](https://github.com/cuemacro)/[**finmarketpy**](https://github.com/cuemacro/finmarketpy)|Python library for backtesting trading strategies & analyzing financial markets (formerly pythalesians)|[:arrow_upper_right:](http://www.cuemacro.com)|
+|1597|[@trentm](https://github.com/trentm)/[**python-markdown2**](https://github.com/trentm/python-markdown2)|markdown2: A fast and complete implementation of Markdown in Python||
+|1573|[@tdryer](https://github.com/tdryer)/[**hangups**](https://github.com/tdryer/hangups)|the first third-party instant messaging client for Google Hangouts|[:arrow_upper_right:](https://hangups.readthedocs.io/)|
+|1474|[@myusuf3](https://github.com/myusuf3)/[**delorean**](https://github.com/myusuf3/delorean)|Delorean: Time Travel Made Easy|[:arrow_upper_right:](http://delorean.rtfd.org/)|
+|1427|[@justinmeister](https://github.com/justinmeister)/[**Mario-Level-1**](https://github.com/justinmeister/Mario-Level-1)|The first level of Super Mario Bros made with Python and Pygame.||
+|1350|[@joowani](https://github.com/joowani)/[**binarytree**](https://github.com/joowani/binarytree)|Python Library for Studying Binary Trees|[:arrow_upper_right:](http://binarytree.readthedocs.io)|
+|1335|[@jadore801120](https://github.com/jadore801120)/[**attention-is-all-you-need-pytorch**](https://github.com/jadore801120/attention-is-all-you-need-pytorch)|A PyTorch implementation of the Transformer model in "Attention is All You Need".||
+|1292|[@ab77](https://github.com/ab77)/[**netflix-proxy**](https://github.com/ab77/netflix-proxy)|Smart DNS proxy to watch Netflix|[:arrow_upper_right:](http://anton.belodedenko.me/tag/netflix-proxy/)|
+|1234|[@sebastien](https://github.com/sebastien)/[**cuisine**](https://github.com/sebastien/cuisine)|Chef-like functionality for Fabric||
+|1120|[@snwh](https://github.com/snwh)/[**paper-icon-theme**](https://github.com/snwh/paper-icon-theme)|Paper Icon Theme|[:arrow_upper_right:](http://snwh.org/paper)|
+|1105|[@AlexiaJM](https://github.com/AlexiaJM)/[**Deep-learning-with-cats**](https://github.com/AlexiaJM/Deep-learning-with-cats)|Deep learning with cats (^._.^)||
+|1067|[@gwding](https://github.com/gwding)/[**draw_convnet**](https://github.com/gwding/draw_convnet)|||
+|1055|[@benfred](https://github.com/benfred)/[**implicit**](https://github.com/benfred/implicit)|Fast Python Collaborative Filtering for Implicit Feedback Datasets||
+|942|[@apenwarr](https://github.com/apenwarr)/[**redo**](https://github.com/apenwarr/redo)|Smaller, easier, more powerful, and more reliable than make.  An implementation of djb's redo.||
+|920|[@DenisCarriere](https://github.com/DenisCarriere)/[**geocoder**](https://github.com/DenisCarriere/geocoder)|:earth_asia: Python Geocoder|[:arrow_upper_right:](http://geocoder.readthedocs.org)|
+|882|[@MarvinTeichmann](https://github.com/MarvinTeichmann)/[**tensorflow-fcn**](https://github.com/MarvinTeichmann/tensorflow-fcn)|An Implementation of Fully Convolutional Networks in Tensorflow.||
+|837|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**lifelines**](https://github.com/CamDavidsonPilon/lifelines)|Survival analysis in Python||
+|788|[@ShangtongZhang](https://github.com/ShangtongZhang)/[**DeepRL**](https://github.com/ShangtongZhang/DeepRL)|Highly modularized implementation of popular deep RL algorithms in PyTorch||
+|778|[@evilhero](https://github.com/evilhero)/[**mylar**](https://github.com/evilhero/mylar)|An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents||
+|758|[@joeddav](https://github.com/joeddav)/[**devol**](https://github.com/joeddav/devol)|Genetic ConvNet architecture search with Keras||
+|750|[@hsoft](https://github.com/hsoft)/[**dupeguru**](https://github.com/hsoft/dupeguru)|Find duplicate files|[:arrow_upper_right:](https://www.hardcoded.net/dupeguru/)|
+|690|[@kevin28520](https://github.com/kevin28520)/[**My-TensorFlow-tutorials**](https://github.com/kevin28520/My-TensorFlow-tutorials)|This repo contains all of my TensorFlow tutorials||
+|647|[@MarvinTeichmann](https://github.com/MarvinTeichmann)/[**KittiSeg**](https://github.com/MarvinTeichmann/KittiSeg)|A Kitti Road Segmentation model implemented in tensorflow.||
+|599|[@Srinivas11789](https://github.com/Srinivas11789)/[**PcapXray**](https://github.com/Srinivas11789/PcapXray)|:snowflake: PcapXray - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction||
 |587|[@myusuf3](https://github.com/myusuf3)/[**octogit**](https://github.com/myusuf3/octogit)|giving git more tentacles  |[:arrow_upper_right:](http://myusuf3.github.com/octogit/)|
-|552|[@rspivak](https://github.com/rspivak)/[**lsbasi**](https://github.com/rspivak/lsbasi)|Let's Build A Simple Interpreter||
+|558|[@rspivak](https://github.com/rspivak)/[**lsbasi**](https://github.com/rspivak/lsbasi)|Let's Build A Simple Interpreter||
+|543|[@un33k](https://github.com/un33k)/[**python-slugify**](https://github.com/un33k/python-slugify)|Returns unicode slugs||
+|537|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**lifetimes**](https://github.com/CamDavidsonPilon/lifetimes)|Lifetime value in Python||
 |537|[@johnboxall](https://github.com/johnboxall)/[**django-paypal**](https://github.com/johnboxall/django-paypal)|A pluggable Django application for integrating PayPal Payments Standard or Payments Pro||
-|534|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**lifetimes**](https://github.com/CamDavidsonPilon/lifetimes)|Lifetime value in Python||
-|520|[@un33k](https://github.com/un33k)/[**python-slugify**](https://github.com/un33k/python-slugify)|Returns unicode slugs||
-|519|[@mikeboers](https://github.com/mikeboers)/[**PyAV**](https://github.com/mikeboers/PyAV)|Pythonic bindings for FFmpeg.|[:arrow_upper_right:](http://mikeboers.github.io/PyAV/)|
-|505|[@pmorissette](https://github.com/pmorissette)/[**bt**](https://github.com/pmorissette/bt)|bt - flexible backtesting for Python|[:arrow_upper_right:](http://pmorissette.github.io/bt)|
+|522|[@mikeboers](https://github.com/mikeboers)/[**PyAV**](https://github.com/mikeboers/PyAV)|Pythonic bindings for FFmpeg.|[:arrow_upper_right:](http://mikeboers.github.io/PyAV/)|
+|510|[@pmorissette](https://github.com/pmorissette)/[**bt**](https://github.com/pmorissette/bt)|bt - flexible backtesting for Python|[:arrow_upper_right:](http://pmorissette.github.io/bt)|
 |498|[@ssokolow](https://github.com/ssokolow)/[**quicktile**](https://github.com/ssokolow/quicktile)|Adds window-tiling keybindings to any X11-based desktop. (An analogue to WinSplit Revolution for people who don't want to use the Compiz Grid plugin)|[:arrow_upper_right:](http://ssokolow.com/quicktile/)|
-|487|[@MaximumEntropy](https://github.com/MaximumEntropy)/[**Seq2Seq-PyTorch**](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)|Sequence to Sequence Models with PyTorch||
+|493|[@MaximumEntropy](https://github.com/MaximumEntropy)/[**Seq2Seq-PyTorch**](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)|Sequence to Sequence Models with PyTorch||
 |484|[@iKevinY](https://github.com/iKevinY)/[**EulerPy**](https://github.com/iKevinY/EulerPy)|Python-based Project Euler command line tool.||
+|461|[@un33k](https://github.com/un33k)/[**django-ipware**](https://github.com/un33k/django-ipware)|A Django application to retrieve client's IP address||
 |460|[@joowani](https://github.com/joowani)/[**kq**](https://github.com/joowani/kq)|Kafka-based Job Queue for Python|[:arrow_upper_right:](http://kq.readthedocs.io)|
-|460|[@un33k](https://github.com/un33k)/[**django-ipware**](https://github.com/un33k/django-ipware)|A Django application to retrieve client's IP address||
-|450|[@codebrainz](https://github.com/codebrainz)/[**geany-themes**](https://github.com/codebrainz/geany-themes)|A collection of colour schemes for Geany.||
+|452|[@codebrainz](https://github.com/codebrainz)/[**geany-themes**](https://github.com/codebrainz/geany-themes)|A collection of colour schemes for Geany.||
 |449|[@neurokernel](https://github.com/neurokernel)/[**neurokernel**](https://github.com/neurokernel/neurokernel)|Neurokernel Project||
 |437|[@rspivak](https://github.com/rspivak)/[**slimit**](https://github.com/rspivak/slimit)|SlimIt -  a JavaScript minifier/parser in Python||
-|434|[@samuelcolvin](https://github.com/samuelcolvin)/[**pydantic**](https://github.com/samuelcolvin/pydantic)|Data validation using Python 3.6 type hinting|[:arrow_upper_right:](https://pydantic-docs.helpmanual.io/)|
+|436|[@samuelcolvin](https://github.com/samuelcolvin)/[**pydantic**](https://github.com/samuelcolvin/pydantic)|Data validation using Python 3.6 type hinting|[:arrow_upper_right:](https://pydantic-docs.helpmanual.io/)|
 |433|[@Deimos](https://github.com/Deimos)/[**SubredditSimulator**](https://github.com/Deimos/SubredditSimulator)|An automated subreddit with posts created using markov chains||
 |427|[@sebastien](https://github.com/sebastien)/[**monitoring**](https://github.com/sebastien/monitoring)|Server monitoring and data-collection daemon||
-|421|[@timsutton](https://github.com/timsutton)/[**brigadier**](https://github.com/timsutton/brigadier)|Fetch and install Boot Camp ESDs with ease.||
-|418|[@tzutalin](https://github.com/tzutalin)/[**ImageNet_Utils**](https://github.com/tzutalin/ImageNet_Utils)|:arrow_double_down:  Utils to help download images by id, crop bounding box, label images, etc.||
-|414|[@una-dinosauria](https://github.com/una-dinosauria)/[**3d-pose-baseline**](https://github.com/una-dinosauria/3d-pose-baseline)|A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17.||
-|412|[@rspivak](https://github.com/rspivak)/[**lsbaws**](https://github.com/rspivak/lsbaws)|Let's Build A Web Server||
-|390|[@snwh](https://github.com/snwh)/[**moka-icon-theme**](https://github.com/snwh/moka-icon-theme)|Moka Icon Theme|[:arrow_upper_right:](http://snwh.org/moka)|
-|387|[@exPHAT](https://github.com/exPHAT)/[**twitter-sort**](https://github.com/exPHAT/twitter-sort)|🐦 Sort numbers with some help from the Twitter API||
-|385|[@slgobinath](https://github.com/slgobinath)/[**SafeEyes**](https://github.com/slgobinath/SafeEyes)|Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder. A Free and Open Source Linux alternative to EyeLeo.|[:arrow_upper_right:](http://slgobinath.github.io/SafeEyes/)|
-|384|[@mricon](https://github.com/mricon)/[**rev-proxy-grapher**](https://github.com/mricon/rev-proxy-grapher)|Reverse proxy grapher||
-|362|[@bartdag](https://github.com/bartdag)/[**pymining**](https://github.com/bartdag/pymining)|A few data mining algorithms in pure python||
+|425|[@timsutton](https://github.com/timsutton)/[**brigadier**](https://github.com/timsutton/brigadier)|Fetch and install Boot Camp ESDs with ease.||
+|421|[@tzutalin](https://github.com/tzutalin)/[**ImageNet_Utils**](https://github.com/tzutalin/ImageNet_Utils)|:arrow_double_down:  Utils to help download images by id, crop bounding box, label images, etc.||
+|418|[@una-dinosauria](https://github.com/una-dinosauria)/[**3d-pose-baseline**](https://github.com/una-dinosauria/3d-pose-baseline)|A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17.||
+|415|[@rspivak](https://github.com/rspivak)/[**lsbaws**](https://github.com/rspivak/lsbaws)|Let's Build A Web Server||
+|392|[@snwh](https://github.com/snwh)/[**moka-icon-theme**](https://github.com/snwh/moka-icon-theme)|Moka Icon Theme|[:arrow_upper_right:](http://snwh.org/moka)|
+|388|[@slgobinath](https://github.com/slgobinath)/[**SafeEyes**](https://github.com/slgobinath/SafeEyes)|Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder. A Free and Open Source Linux alternative to EyeLeo.|[:arrow_upper_right:](http://slgobinath.github.io/SafeEyes/)|
+|386|[@exPHAT](https://github.com/exPHAT)/[**twitter-sort**](https://github.com/exPHAT/twitter-sort)|🐦 Sort numbers with some help from the Twitter API||
+|385|[@mricon](https://github.com/mricon)/[**rev-proxy-grapher**](https://github.com/mricon/rev-proxy-grapher)|Reverse proxy grapher||
+|363|[@bartdag](https://github.com/bartdag)/[**pymining**](https://github.com/bartdag/pymining)|A few data mining algorithms in pure python||
 |355|[@brettcannon](https://github.com/brettcannon)/[**caniusepython3**](https://github.com/brettcannon/caniusepython3)|Can I Use Python 3?||
-|341|[@snwh](https://github.com/snwh)/[**suru-icon-theme**](https://github.com/snwh/suru-icon-theme)|The source of the Suru icon and cursor set|[:arrow_upper_right:](https://snwh.org/suru)|
+|345|[@snwh](https://github.com/snwh)/[**suru-icon-theme**](https://github.com/snwh/suru-icon-theme)|The source of the Suru icon and cursor set|[:arrow_upper_right:](https://snwh.org/suru)|
 |336|[@joowani](https://github.com/joowani)/[**dtags**](https://github.com/joowani/dtags)|Directory Tags for Lazy Programmers||
-|330|[@pmorissette](https://github.com/pmorissette)/[**ffn**](https://github.com/pmorissette/ffn)|ffn - a financial function library for Python||
+|334|[@pmorissette](https://github.com/pmorissette)/[**ffn**](https://github.com/pmorissette/ffn)|ffn - a financial function library for Python||
+|330|[@Picovoice](https://github.com/Picovoice)/[**stt-benchmark**](https://github.com/Picovoice/stt-benchmark)|speech to text benchmark framework|[:arrow_upper_right:](http://picovoice.ai/)|
 |328|[@lightos](https://github.com/lightos)/[**credmap**](https://github.com/lightos/credmap)|The Credential Mapper||
-|321|[@Picovoice](https://github.com/Picovoice)/[**stt-benchmark**](https://github.com/Picovoice/stt-benchmark)|speech to text benchmark framework|[:arrow_upper_right:](http://picovoice.ai/)|
-|320|[@uiri](https://github.com/uiri)/[**toml**](https://github.com/uiri/toml)|Python lib for TOML||
-|305|[@burningion](https://github.com/burningion)/[**poor-mans-deep-learning-camera**](https://github.com/burningion/poor-mans-deep-learning-camera)|Build a thin client deep learning camera with the Raspberry Pi, Flask, and YOLO||
+|322|[@uiri](https://github.com/uiri)/[**toml**](https://github.com/uiri/toml)|Python lib for TOML||
+|306|[@burningion](https://github.com/burningion)/[**poor-mans-deep-learning-camera**](https://github.com/burningion/poor-mans-deep-learning-camera)|Build a thin client deep learning camera with the Raspberry Pi, Flask, and YOLO||
 |299|[@pathetiq](https://github.com/pathetiq)/[**BurpSmartBuster**](https://github.com/pathetiq/BurpSmartBuster)|A Burp Suite content discovery plugin that add the smart into the Buster!||
 |297|[@timsutton](https://github.com/timsutton)/[**mcxToProfile**](https://github.com/timsutton/mcxToProfile)|Convert macOS property lists, defaults and MCX into Configuration Profiles with Custom Settings payloads||
 |296|[@MarvinTeichmann](https://github.com/MarvinTeichmann)/[**MultiNet**](https://github.com/MarvinTeichmann/MultiNet)|Real-time Joint Semantic Reasoning for Autonomous Driving||
 |292|[@cuemacro](https://github.com/cuemacro)/[**chartpy**](https://github.com/cuemacro/chartpy)|Easy to use Python API wrapper to plot charts with matplotlib, plotly, bokeh and more||
-|286|[@MarvinTeichmann](https://github.com/MarvinTeichmann)/[**KittiBox**](https://github.com/MarvinTeichmann/KittiBox)|A car detection model implemented in Tensorflow.||
-|284|[@ghantoos](https://github.com/ghantoos)/[**lshell**](https://github.com/ghantoos/lshell)|lshell is a shell coded in Python, that lets you restrict a user's environment to limited sets of commands, choose to enable/disable any command over SSH (e.g. SCP, SFTP, rsync, etc.), log user's commands, implement timing restriction, and more. ||
+|287|[@MarvinTeichmann](https://github.com/MarvinTeichmann)/[**KittiBox**](https://github.com/MarvinTeichmann/KittiBox)|A car detection model implemented in Tensorflow.||
+|286|[@ghantoos](https://github.com/ghantoos)/[**lshell**](https://github.com/ghantoos/lshell)|lshell is a shell coded in Python, that lets you restrict a user's environment to limited sets of commands, choose to enable/disable any command over SSH (e.g. SCP, SFTP, rsync, etc.), log user's commands, implement timing restriction, and more. ||
 |284|[@perone](https://github.com/perone)/[**stallion**](https://github.com/perone/stallion)|Stallion - A Python Package Manager||
 |282|[@ellmetha](https://github.com/ellmetha)/[**django-machina**](https://github.com/ellmetha/django-machina)|A Django forum engine for building powerful community driven websites.|[:arrow_upper_right:](https://django-machina.readthedocs.org)|
 |281|[@hauckwill](https://github.com/hauckwill)/[**linconnect-server**](https://github.com/hauckwill/linconnect-server)|Mirror Android notifications on a Linux desktop|[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.willhauck.linconnectclient)|
 |278|[@justinmeister](https://github.com/justinmeister)/[**The-Stolen-Crown-RPG**](https://github.com/justinmeister/The-Stolen-Crown-RPG)|A fantasy mini-RPG built with Python and Pygame.||
-|275|[@perone](https://github.com/perone)/[**Pyevolve**](https://github.com/perone/Pyevolve)|Pyevolve|[:arrow_upper_right:](http://pyevolve.sourceforge.net/wordpress/)|
+|276|[@perone](https://github.com/perone)/[**Pyevolve**](https://github.com/perone/Pyevolve)|Pyevolve|[:arrow_upper_right:](http://pyevolve.sourceforge.net/wordpress/)|
 |271|[@dgoodwin](https://github.com/dgoodwin)/[**tito**](https://github.com/dgoodwin/tito)|A tool for managing rpm based git projects.||
-|266|[@cuemacro](https://github.com/cuemacro)/[**findatapy**](https://github.com/cuemacro/findatapy)|Python library to download market data via Bloomberg, Quandl, Yahoo etc.||
+|270|[@AlexiaJM](https://github.com/AlexiaJM)/[**RelativisticGAN**](https://github.com/AlexiaJM/RelativisticGAN)|Code for replication of the paper "The relativistic discriminator: a key element missing from standard GAN"||
+|269|[@cuemacro](https://github.com/cuemacro)/[**findatapy**](https://github.com/cuemacro/findatapy)|Python library to download market data via Bloomberg, Quandl, Yahoo etc.||
 |265|[@mgrouchy](https://github.com/mgrouchy)/[**django-stronghold**](https://github.com/mgrouchy/django-stronghold)|Get inside your stronghold and make all your Django views default login_required|[:arrow_upper_right:](http://mikegrouchy.com/django-stronghold )|
-|263|[@AlexiaJM](https://github.com/AlexiaJM)/[**RelativisticGAN**](https://github.com/AlexiaJM/RelativisticGAN)|Code for replication of the paper "The relativistic discriminator: a key element missing from standard GAN"||
-|259|[@addyosmani](https://github.com/addyosmani)/[**sublime-fixmyjs**](https://github.com/addyosmani/sublime-fixmyjs)|SublimeText package for FixMyJS||
+|260|[@addyosmani](https://github.com/addyosmani)/[**sublime-fixmyjs**](https://github.com/addyosmani/sublime-fixmyjs)|SublimeText package for FixMyJS||
 |258|[@mfenniak](https://github.com/mfenniak)/[**pyPdf**](https://github.com/mfenniak/pyPdf)|Pure-Python PDF Library; this repository is no longer maintained, please see https://github.com/knowah/PyPDF2/ insead.|[:arrow_upper_right:](https://github.com/knowah/PyPDF2/)|
 |251|[@trentm](https://github.com/trentm)/[**django-markdown-deux**](https://github.com/trentm/django-markdown-deux)|A django app that provides Markdown-related template tags using the python-markdown2 library.||
-|248|[@timsutton](https://github.com/timsutton)/[**python-macadmin-tools**](https://github.com/timsutton/python-macadmin-tools)|List of open-source Python-based Mac sysadmin tools||
+|250|[@timsutton](https://github.com/timsutton)/[**python-macadmin-tools**](https://github.com/timsutton/python-macadmin-tools)|List of open-source Python-based Mac sysadmin tools||
 |238|[@whitepacket](https://github.com/whitepacket)/[**ZIB-Trojan**](https://github.com/whitepacket/ZIB-Trojan)|The Open Tor Botnet (ZIB); Python-based forever-FUD IRC Trojan|[:arrow_upper_right:](http://whitepacket.org/)|
-|231|[@julianser](https://github.com/julianser)/[**hed-dlg-truncated**](https://github.com/julianser/hed-dlg-truncated)|Hierarchical Encoder Decoder RNN (HRED) with Truncated Backpropagation Through Time (Truncated BPTT)||
+|232|[@julianser](https://github.com/julianser)/[**hed-dlg-truncated**](https://github.com/julianser/hed-dlg-truncated)|Hierarchical Encoder Decoder RNN (HRED) with Truncated Backpropagation Through Time (Truncated BPTT)||
 |230|[@rspivak](https://github.com/rspivak)/[**csdesign**](https://github.com/rspivak/csdesign)|Simple examples of concurrent server design in Python||
-|228|[@david-gpu](https://github.com/david-gpu)/[**deep-makeover**](https://github.com/david-gpu/deep-makeover)|Deep learning project to transform male portraits into female and vice versa||
-|222|[@lightos](https://github.com/lightos)/[**Panoptic**](https://github.com/lightos/Panoptic)|Panoptic is an open source penetration testing tool that automates the process of search and retrieval of content for common log and config files through path traversal vulnerabilities.||
-|222|[@un33k](https://github.com/un33k)/[**django-uuslug**](https://github.com/un33k/django-uuslug)|Generates Unique (& Unicode) slugs in Django Edit Add topics||
+|229|[@david-gpu](https://github.com/david-gpu)/[**deep-makeover**](https://github.com/david-gpu/deep-makeover)|Deep learning project to transform male portraits into female and vice versa||
+|224|[@lightos](https://github.com/lightos)/[**Panoptic**](https://github.com/lightos/Panoptic)|Panoptic is an open source penetration testing tool that automates the process of search and retrieval of content for common log and config files through path traversal vulnerabilities.||
+|223|[@un33k](https://github.com/un33k)/[**django-uuslug**](https://github.com/un33k/django-uuslug)|Generates Unique (& Unicode) slugs in Django Edit Add topics||
 |222|[@ustwo](https://github.com/ustwo)/[**mastermind**](https://github.com/ustwo/mastermind)|Man in the middle testing||
 |214|[@adamwathan](https://github.com/adamwathan)/[**sublime-phpunit**](https://github.com/adamwathan/sublime-phpunit)|Run individual unit test files directly from Sublime||
+|214|[@danijar](https://github.com/danijar)/[**layered**](https://github.com/danijar/layered)|Clean implementation of feed forward neural networks||
 |214|[@jych](https://github.com/jych)/[**nips2015_vrnn**](https://github.com/jych/nips2015_vrnn)|||
-|213|[@danijar](https://github.com/danijar)/[**layered**](https://github.com/danijar/layered)|Clean implementation of feed forward neural networks||
-|213|[@ricmoo](https://github.com/ricmoo)/[**pyaes**](https://github.com/ricmoo/pyaes)|Pure-Python implementation of AES block-cipher and common modes of operation.||
-|206|[@mikepan](https://github.com/mikepan)/[**GameEngineBook**](https://github.com/mikepan/GameEngineBook)|The Complete "Game Development with Blender" Book. Now Free.||
+|214|[@ricmoo](https://github.com/ricmoo)/[**pyaes**](https://github.com/ricmoo/pyaes)|Pure-Python implementation of AES block-cipher and common modes of operation.||
+|212|[@MarvinTeichmann](https://github.com/MarvinTeichmann)/[**ConvCRF**](https://github.com/MarvinTeichmann/ConvCRF)|This repository contains the reference implementation for our proposed Convolutional CRFs.||
 |205|[@joowani](https://github.com/joowani)/[**python-arango**](https://github.com/joowani/python-arango)|Python Driver for ArangoDB|[:arrow_upper_right:](http://python-driver-for-arangodb.readthedocs.io/en/master/index.html)|
-|200|[@MarvinTeichmann](https://github.com/MarvinTeichmann)/[**ConvCRF**](https://github.com/MarvinTeichmann/ConvCRF)|This repository contains the reference implementation for our proposed Convolutional CRFs.||
+|205|[@mikepan](https://github.com/mikepan)/[**GameEngineBook**](https://github.com/mikepan/GameEngineBook)|The Complete "Game Development with Blender" Book. Now Free.||
 |196|[@ajdavis](https://github.com/ajdavis)/[**toro**](https://github.com/ajdavis/toro)|Synchronization primitives for Tornado coroutines||
-|195|[@dougbtv](https://github.com/dougbtv)/[**docker-asterisk**](https://github.com/dougbtv/docker-asterisk)|Some dockerfiles for whipping up an asterisk server||
+|196|[@dougbtv](https://github.com/dougbtv)/[**docker-asterisk**](https://github.com/dougbtv/docker-asterisk)|Some dockerfiles for whipping up an asterisk server||
 |194|[@wilhelmklopp](https://github.com/wilhelmklopp)/[**simple-poll**](https://github.com/wilhelmklopp/simple-poll)|:bar_chart: Create native and simple polls in Slack.||
 |187|[@mfenniak](https://github.com/mfenniak)/[**pg8000**](https://github.com/mfenniak/pg8000)|A Pure-Python PostgreSQL Driver|[:arrow_upper_right:](http://pythonhosted.org/pg8000/)|
 |182|[@christopher-dG](https://github.com/christopher-dG)/[**gpymusic**](https://github.com/christopher-dG/gpymusic)|Google Py Music: A simple TUI client for Google Play Music||
 |180|[@jessamynsmith](https://github.com/jessamynsmith)/[**talkbackbot**](https://github.com/jessamynsmith/talkbackbot)|IRC bot that responds to selected phrases with a quotation from a notable woman (defaults to answering "that's what she said" jokes)|[:arrow_upper_right:](https://geekchick77.dreamwidth.org/472.html)|
 |175|[@inikdom](https://github.com/inikdom)/[**neural-chatbot**](https://github.com/inikdom/neural-chatbot)|A chatbot based on seq2seq architecture done with tensorflow.||
 |174|[@kaz-Anova](https://github.com/kaz-Anova)/[**ensemble_amazon**](https://github.com/kaz-Anova/ensemble_amazon)|Code to share different ensemble techniques with focus on meta-stacking , using data from Amazon.com - Employee Access Challenge kaggle competition||
+|172|[@lexfridman](https://github.com/lexfridman)/[**deeptesla**](https://github.com/lexfridman/deeptesla)|End-to-End Learning from Tesla Autopilot Driving Data|[:arrow_upper_right:](http://selfdrivingcars.mit.edu)|
 |171|[@atmb4u](https://github.com/atmb4u)/[**dodo**](https://github.com/atmb4u/dodo)|Task Management for Hackers|[:arrow_upper_right:](http://atmb4u.github.io/dodo)|
-|171|[@lexfridman](https://github.com/lexfridman)/[**deeptesla**](https://github.com/lexfridman/deeptesla)|End-to-End Learning from Tesla Autopilot Driving Data|[:arrow_upper_right:](http://selfdrivingcars.mit.edu)|
 |170|[@timsutton](https://github.com/timsutton)/[**make-profile-pkg**](https://github.com/timsutton/make-profile-pkg)|Automate building and integrating OS X installer packages to install Configuration Profiles.||
-|168|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**tdigest**](https://github.com/CamDavidsonPilon/tdigest)|t-Digest data structure in Python. Useful for percentiles and quantiles, including distributed enviroments like PySpark||
-|162|[@meejah](https://github.com/meejah)/[**txtorcon**](https://github.com/meejah/txtorcon)|Twisted-based asynchronous Tor control protocol implementation. Includes unit-tests, examples, state-tracking code and configuration abstraction.|[:arrow_upper_right:](http://timaq4ygg2iegci7.onion/)|
-|161|[@lyst](https://github.com/lyst)/[**rpforest**](https://github.com/lyst/rpforest)|It is a forest of random projection trees||
-|159|[@gaining](https://github.com/gaining)/[**Resetter**](https://github.com/gaining/Resetter)|The easiest way to reset your debian or ubuntu based linux back to stock||
+|169|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**tdigest**](https://github.com/CamDavidsonPilon/tdigest)|t-Digest data structure in Python. Useful for percentiles and quantiles, including distributed enviroments like PySpark||
+|163|[@meejah](https://github.com/meejah)/[**txtorcon**](https://github.com/meejah/txtorcon)|Twisted-based asynchronous Tor control protocol implementation. Includes unit-tests, examples, state-tracking code and configuration abstraction.|[:arrow_upper_right:](http://timaq4ygg2iegci7.onion/)|
+|162|[@lyst](https://github.com/lyst)/[**rpforest**](https://github.com/lyst/rpforest)|It is a forest of random projection trees||
+|160|[@gaining](https://github.com/gaining)/[**Resetter**](https://github.com/gaining/Resetter)|The easiest way to reset your debian or ubuntu based linux back to stock||
 |154|[@ajdavis](https://github.com/ajdavis)/[**motor-blog**](https://github.com/ajdavis/motor-blog)|Blog based on Tornado, MongoDB, and Motor. To be used with MarsEdit.||
-|152|[@castorini](https://github.com/castorini)/[**honk**](https://github.com/castorini/honk)|PyTorch reimplementation of Google's TensorFlow CNNs for keyword spotting||
+|153|[@aspiers](https://github.com/aspiers)/[**git-deps**](https://github.com/aspiers/git-deps)|git commit dependency analysis tool||
+|153|[@castorini](https://github.com/castorini)/[**honk**](https://github.com/castorini/honk)|PyTorch reimplementation of Google's TensorFlow CNNs for keyword spotting||
+|151|[@danijar](https://github.com/danijar)/[**mindpark**](https://github.com/danijar/mindpark)|Testbed for deep reinforcement learning||
 |151|[@xiaozhouwang](https://github.com/xiaozhouwang)/[**kaggle_Microsoft_Malware**](https://github.com/xiaozhouwang/kaggle_Microsoft_Malware)|code for kaggle competition Microsoft malware classification||
-|150|[@danijar](https://github.com/danijar)/[**mindpark**](https://github.com/danijar/mindpark)|Testbed for deep reinforcement learning||
 |150|[@marclave](https://github.com/marclave)/[**InstaBot**](https://github.com/marclave/InstaBot)|A simple Instagram bot written in Python||
-|149|[@aspiers](https://github.com/aspiers)/[**git-deps**](https://github.com/aspiers/git-deps)|git commit dependency analysis tool||
 |148|[@jasonish](https://github.com/jasonish)/[**py-idstools**](https://github.com/jasonish/py-idstools)|idstools: Snort and Suricata Rule and Event Utilities in Python (Including a Rule Update Tool)||
+|147|[@Prooffreader](https://github.com/Prooffreader)/[**chorogrid**](https://github.com/Prooffreader/chorogrid)|A python script to produce choropleths and colored square- and hex-grid maps||
 |147|[@johnboxall](https://github.com/johnboxall)/[**django-ab**](https://github.com/johnboxall/django-ab)|A simple AB Testing app for Django!||
-|145|[@Prooffreader](https://github.com/Prooffreader)/[**chorogrid**](https://github.com/Prooffreader/chorogrid)|A python script to produce choropleths and colored square- and hex-grid maps||
-|140|[@una-dinosauria](https://github.com/una-dinosauria)/[**human-motion-prediction**](https://github.com/una-dinosauria/human-motion-prediction)|Simple baselines and RNNs for predicting human motion in tensorflow. Presented at CVPR 17.||
+|142|[@una-dinosauria](https://github.com/una-dinosauria)/[**human-motion-prediction**](https://github.com/una-dinosauria/human-motion-prediction)|Simple baselines and RNNs for predicting human motion in tensorflow. Presented at CVPR 17.||
+|139|[@Spandan-Madan](https://github.com/Spandan-Madan)/[**Pytorch_fine_tuning_Tutorial**](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial)|A short tutorial on performing fine tuning or transfer learning in PyTorch.||
 |139|[@onaio](https://github.com/onaio)/[**onadata**](https://github.com/onaio/onadata)|Collect, Analyze and Share|[:arrow_upper_right:](https://ona.io)|
-|136|[@Spandan-Madan](https://github.com/Spandan-Madan)/[**Pytorch_fine_tuning_Tutorial**](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial)|A short tutorial on performing fine tuning or transfer learning in PyTorch.||
-|135|[@guillaume-chevalier](https://github.com/guillaume-chevalier)/[**HAR-stacked-residual-bidir-LSTMs**](https://github.com/guillaume-chevalier/HAR-stacked-residual-bidir-LSTMs)|Using deep stacked residual bidirectional LSTM cells (RNN) with TensorFlow, we do Human Activity Recognition (HAR). Classifying the type of movement amongst 6 categories or 18 categories on 2 different datasets.|[:arrow_upper_right:](https://arxiv.org/abs/1708.08989)|
+|138|[@guillaume-chevalier](https://github.com/guillaume-chevalier)/[**HAR-stacked-residual-bidir-LSTMs**](https://github.com/guillaume-chevalier/HAR-stacked-residual-bidir-LSTMs)|Using deep stacked residual bidirectional LSTM cells (RNN) with TensorFlow, we do Human Activity Recognition (HAR). Classifying the type of movement amongst 6 categories or 18 categories on 2 different datasets.|[:arrow_upper_right:](https://arxiv.org/abs/1708.08989)|
 |134|[@pjkundert](https://github.com/pjkundert)/[**cpppo**](https://github.com/pjkundert/cpppo)|Communications Protocol Python Parser and Originator -- EtherNet/IP CIP|[:arrow_upper_right:](https://hardconsulting.com/products/6-cpppo-enip-api)|
 |128|[@dmsimard](https://github.com/dmsimard)/[**ara**](https://github.com/dmsimard/ara)|This is a mirror of the main repository kept for historical purposes. See here for the new repository:|[:arrow_upper_right:](https://github.com/openstack/ara)|
 |128|[@tehp](https://github.com/tehp)/[**OpenPoGoBot**](https://github.com/tehp/OpenPoGoBot)|A PokemonGo Python bot - NO LONGER MAINTAINED||
 |127|[@dmsimard](https://github.com/dmsimard)/[**ara-archive**](https://github.com/dmsimard/ara-archive)|This repository is an historical archive of https://github.com/dmsimard/ara, please use https://github.com/openstack/ara instead.|[:arrow_upper_right:](https://github.com/openstack/ara)|
 |127|[@donkirkby](https://github.com/donkirkby)/[**live-py-plugin**](https://github.com/donkirkby/live-py-plugin)|Live coding in Python with PyCharm, Emacs, or Eclipse.|[:arrow_upper_right:](http://donkirkby.github.com/live-py-plugin)|
-|125|[@gboudreau](https://github.com/gboudreau)/[**XBMCnfoMoviesImporter.bundle**](https://github.com/gboudreau/XBMCnfoMoviesImporter.bundle)|||
+|126|[@gboudreau](https://github.com/gboudreau)/[**XBMCnfoMoviesImporter.bundle**](https://github.com/gboudreau/XBMCnfoMoviesImporter.bundle)|||
 |125|[@shagunsodhani](https://github.com/shagunsodhani)/[**CNN-Sentence-Classifier**](https://github.com/shagunsodhani/CNN-Sentence-Classifier)|Implementation of "Convolutional Neural Networks for Sentence Classification" paper|[:arrow_upper_right:](http://shagunsodhani.in/CNN-Sentence-Classifier/)|
 |123|[@wardi](https://github.com/wardi)/[**speedometer**](https://github.com/wardi/speedometer)|Chart network TX/RX and file download rates on the console|[:arrow_upper_right:](http://excess.org/speedometer/)|
 |120|[@mricon](https://github.com/mricon)/[**totp-cgi**](https://github.com/mricon/totp-cgi)|A centralized totp solution based on google-authenticator||
-|117|[@ajdavis](https://github.com/ajdavis)/[**twitter-gender-distribution**](https://github.com/ajdavis/twitter-gender-distribution)|Compare number of women, men, and nonbinary people among my friends and followers.|[:arrow_upper_right:](https://www.proporti.onl)|
+|119|[@ajdavis](https://github.com/ajdavis)/[**twitter-gender-distribution**](https://github.com/ajdavis/twitter-gender-distribution)|Compare number of women, men, and nonbinary people among my friends and followers.|[:arrow_upper_right:](https://www.proporti.onl)|
 |117|[@moyix](https://github.com/moyix)/[**pdbparse**](https://github.com/moyix/pdbparse)|Python code to parse Microsoft PDB files||
 |116|[@bbc](https://github.com/bbc)/[**chaos-lambda**](https://github.com/bbc/chaos-lambda)|Randomly terminate ASG instances during business hours||
-|115|[@gabrielgrant](https://github.com/gabrielgrant)/[**django-billing**](https://github.com/gabrielgrant/django-billing)|A simple, generic plans-, pricing- and recurring-billing app.||
-|114|[@hsoft](https://github.com/hsoft)/[**moneyguru**](https://github.com/hsoft/moneyguru)|Future-aware personal finance application for Linux, Mac OS X and Windows.|[:arrow_upper_right:](http://www.hardcoded.net/moneyguru/)|
+|116|[@gabrielgrant](https://github.com/gabrielgrant)/[**django-billing**](https://github.com/gabrielgrant/django-billing)|A simple, generic plans-, pricing- and recurring-billing app.||
+|113|[@hsoft](https://github.com/hsoft)/[**moneyguru**](https://github.com/hsoft/moneyguru)|Future-aware personal finance application for Linux, Mac OS X and Windows.|[:arrow_upper_right:](http://www.hardcoded.net/moneyguru/)|
+|112|[@samuelcolvin](https://github.com/samuelcolvin)/[**arq**](https://github.com/samuelcolvin/arq)|Fast job queuing and RPC in python with asyncio, redis and msgpack.|[:arrow_upper_right:](https://arq-docs.helpmanual.io/)|
 |110|[@endolith](https://github.com/endolith)/[**waveform_analysis**](https://github.com/endolith/waveform_analysis)|Functions and scripts for analyzing waveforms, primarily audio.  This is currently somewhat disorganized and unfinished.||
 |110|[@ricmoo](https://github.com/ricmoo)/[**nightminer**](https://github.com/ricmoo/nightminer)|Simple Python CryptoCurrency mining client||
-|110|[@samuelcolvin](https://github.com/samuelcolvin)/[**arq**](https://github.com/samuelcolvin/arq)|Fast job queuing and RPC in python with asyncio, redis and msgpack.|[:arrow_upper_right:](https://arq-docs.helpmanual.io/)|
+|108|[@hsoft](https://github.com/hsoft)/[**send2trash**](https://github.com/hsoft/send2trash)|Python library to natively send files to Trash (or Recycle bin) on all platforms.||
 |107|[@castorini](https://github.com/castorini)/[**BuboQA**](https://github.com/castorini/BuboQA)|Simple question answering over knowledge graphs (Mohammed et al., NAACL 2018)||
-|107|[@hsoft](https://github.com/hsoft)/[**send2trash**](https://github.com/hsoft/send2trash)|Python library to natively send files to Trash (or Recycle bin) on all platforms.||
 |106|[@burningion](https://github.com/burningion)/[**automatic-memes**](https://github.com/burningion/automatic-memes)|Automatic Memes in Python with Face Detection||
+|106|[@rspivak](https://github.com/rspivak)/[**httpcode**](https://github.com/rspivak/httpcode)|Explains the meaning of an HTTP status code on the command line||
+|106|[@xiaozhouwang](https://github.com/xiaozhouwang)/[**kaggle-porto-seguro**](https://github.com/xiaozhouwang/kaggle-porto-seguro)|2nd Place Solution for Kaggle Porto Seguro's Safe Driver Prediction||
 |105|[@datacratic](https://github.com/datacratic)/[**check_graphite**](https://github.com/datacratic/check_graphite)|Nagios plugin to poll Graphite for data.||
 |105|[@mohammadpz](https://github.com/mohammadpz)/[**Associative_LSTM**](https://github.com/mohammadpz/Associative_LSTM)|LSTM with associative memory cells (http://arxiv.org/abs/1602.03032)||
-|105|[@rspivak](https://github.com/rspivak)/[**httpcode**](https://github.com/rspivak/httpcode)|Explains the meaning of an HTTP status code on the command line||
-|105|[@xiaozhouwang](https://github.com/xiaozhouwang)/[**kaggle-porto-seguro**](https://github.com/xiaozhouwang/kaggle-porto-seguro)|2nd Place Solution for Kaggle Porto Seguro's Safe Driver Prediction||
 |104|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**StartupFiles**](https://github.com/CamDavidsonPilon/StartupFiles)|My IPython startup files. ||
+|102|[@brettcannon](https://github.com/brettcannon)/[**gidgethub**](https://github.com/brettcannon/gidgethub)|An async GitHub API library for Python|[:arrow_upper_right:](https://gidgethub.readthedocs.io)|
+|99|[@maximecb](https://github.com/maximecb)/[**gym-minigrid**](https://github.com/maximecb/gym-minigrid)|Minimalistic gridworld environment for OpenAI Gym||
 |98|[@FitMachineLearning](https://github.com/FitMachineLearning)/[**FitML**](https://github.com/FitMachineLearning/FitML)|A collection of python Machine Learning articles and examples. You will find code related to Reinforcement Learning, Q Learning, MDP, Bellman, OpenAI solutions and others. You can watch our agents here http://bit.ly/2Ayj4vA||
-|98|[@brettcannon](https://github.com/brettcannon)/[**gidgethub**](https://github.com/brettcannon/gidgethub)|An async GitHub API library for Python|[:arrow_upper_right:](https://gidgethub.readthedocs.io)|
 |97|[@moyix](https://github.com/moyix)/[**creddump**](https://github.com/moyix/creddump)|Automatically exported from code.google.com/p/creddump||
 |96|[@ricmoo](https://github.com/ricmoo)/[**pycoind**](https://github.com/ricmoo/pycoind)|Pure-Python full node and libraries for bitcoind-based crypto-currencies (eg. bitcoin, litecoin, etc)||
-|94|[@curiositry](https://github.com/curiositry)/[**EEGrunt**](https://github.com/curiositry/EEGrunt)|A Collection Python EEG (+ ECG) Analysis Utilities for OpenBCI and Muse |[:arrow_upper_right:](http://autodidacts.io)|
+|95|[@curiositry](https://github.com/curiositry)/[**EEGrunt**](https://github.com/curiositry/EEGrunt)|A Collection Python EEG (+ ECG) Analysis Utilities for OpenBCI and Muse |[:arrow_upper_right:](http://autodidacts.io)|
 |94|[@mverteuil](https://github.com/mverteuil)/[**pytest-ipdb**](https://github.com/mverteuil/pytest-ipdb)|Provides ipdb on failures for py.test.||
-|91|[@maximecb](https://github.com/maximecb)/[**gym-minigrid**](https://github.com/maximecb/gym-minigrid)|Minimalistic gridworld environment for OpenAI Gym||
-|89|[@honza](https://github.com/honza)/[**anosql**](https://github.com/honza/anosql)|Easy SQL in Python||
-|88|[@chamkank](https://github.com/chamkank)/[**hone**](https://github.com/chamkank/hone)|Convert CSV to automatically nested JSON.||
-|87|[@dgovil](https://github.com/dgovil)/[**PythonForMayaSamples**](https://github.com/dgovil/PythonForMayaSamples)|Code samples for people who take part in my Python for Maya course||
+|90|[@honza](https://github.com/honza)/[**anosql**](https://github.com/honza/anosql)|Easy SQL in Python||
+|89|[@chamkank](https://github.com/chamkank)/[**hone**](https://github.com/chamkank/hone)|Convert CSV to automatically nested JSON.||
+|88|[@dgovil](https://github.com/dgovil)/[**PythonForMayaSamples**](https://github.com/dgovil/PythonForMayaSamples)|Code samples for people who take part in my Python for Maya course||
 |87|[@jych](https://github.com/jych)/[**cle**](https://github.com/jych/cle)|||
 |87|[@mohammadpz](https://github.com/mohammadpz)/[**Recurrent-Neural-Networks**](https://github.com/mohammadpz/Recurrent-Neural-Networks)|Recurrent Neural Network for modeling sequential data implemented using Python and Theano.||
 |87|[@un33k](https://github.com/un33k)/[**python-emailahoy**](https://github.com/un33k/python-emailahoy)|Checks if an email address is real||
-|85|[@LazoCoder](https://github.com/LazoCoder)/[**Article-Summarizer**](https://github.com/LazoCoder/Article-Summarizer)|Uses frequency analysis to summarize text.||
+|86|[@LazoCoder](https://github.com/LazoCoder)/[**Article-Summarizer**](https://github.com/LazoCoder/Article-Summarizer)|Uses frequency analysis to summarize text.||
 |85|[@fictorial](https://github.com/fictorial)/[**pygameui**](https://github.com/fictorial/pygameui)|GUI framework for Pygame.||
 |84|[@mikeboers](https://github.com/mikeboers)/[**PyHAML**](https://github.com/mikeboers/PyHAML)|Pythonic implementation of HAML, cross compiling to Mako template syntax.||
 |84|[@willfarrell](https://github.com/willfarrell)/[**Browsers**](https://github.com/willfarrell/Browsers)|Collection of Browsers and Virtual Machines for web development on the Mac.||
 |82|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**PyProcess**](https://github.com/CamDavidsonPilon/PyProcess)|Generate stochastic processes using Python. Unfortunately not maintained any longer =(||
 |82|[@DenisCarriere](https://github.com/DenisCarriere)/[**gopro**](https://github.com/DenisCarriere/gopro)|:camera: GoPro Hero 4 - Python API||
-|81|[@bmcfee](https://github.com/bmcfee)/[**muda**](https://github.com/bmcfee/muda)|A library for augmenting annotated audio data||
-|81|[@lmcinnes](https://github.com/lmcinnes)/[**pynndescent**](https://github.com/lmcinnes/pynndescent)|A Python nearest neighbor descent for approximate nearest neighbors||
+|82|[@bmcfee](https://github.com/bmcfee)/[**muda**](https://github.com/bmcfee/muda)|A library for augmenting annotated audio data||
+|82|[@lmcinnes](https://github.com/lmcinnes)/[**pynndescent**](https://github.com/lmcinnes/pynndescent)|A Python nearest neighbor descent for approximate nearest neighbors||
+|81|[@gboudreau](https://github.com/gboudreau)/[**XBMCnfoTVImporter.bundle**](https://github.com/gboudreau/XBMCnfoTVImporter.bundle)|||
 |81|[@nicolai86](https://github.com/nicolai86)/[**ansible-rails-deployment**](https://github.com/nicolai86/ansible-rails-deployment)|deploy projects using ansible||
 |81|[@tandasat](https://github.com/tandasat)/[**scripts_for_RE**](https://github.com/tandasat/scripts_for_RE)|Python scripts for reverse engineering.||
-|80|[@gboudreau](https://github.com/gboudreau)/[**XBMCnfoTVImporter.bundle**](https://github.com/gboudreau/XBMCnfoTVImporter.bundle)|||
 |79|[@alduxvm](https://github.com/alduxvm)/[**rpi-opencv**](https://github.com/alduxvm/rpi-opencv)|openCV + Python tests using raspberry pi, camera module and usb cameras ||
 |79|[@chasinglogic](https://github.com/chasinglogic)/[**Chattie**](https://github.com/chasinglogic/Chattie)|A framework for making bots in Python3. Inspired by Hubot.||
 |79|[@perone](https://github.com/perone)/[**protocoin**](https://github.com/perone/protocoin)|A pure Python Bitcoin protocol implementation|[:arrow_upper_right:](http://protocoin.readthedocs.org/)|
-|78|[@timsutton](https://github.com/timsutton)/[**aamporter**](https://github.com/timsutton/aamporter)|Utility to batch download Adobe Creative Suite/Cloud updates and optionally import them into a Munki repository.||
+|79|[@timsutton](https://github.com/timsutton)/[**aamporter**](https://github.com/timsutton/aamporter)|Utility to batch download Adobe Creative Suite/Cloud updates and optionally import them into a Munki repository.||
 |77|[@atmb4u](https://github.com/atmb4u)/[**cashier**](https://github.com/atmb4u/cashier)|Persistent caching for python functions|[:arrow_upper_right:](https://atmb4u.github.io/cashier)|
 |77|[@for-ai](https://github.com/for-ai)/[**CipherGAN**](https://github.com/for-ai/CipherGAN)|TensorFlow implementation of CipherGAN|[:arrow_upper_right:](https://openreview.net/forum?id=BkeqO7x0-)|
+|76|[@bmcfee](https://github.com/bmcfee)/[**resampy**](https://github.com/bmcfee/resampy)|Efficient sample rate conversion in python|[:arrow_upper_right:](http://resampy.readthedocs.io/en/latest)|
 |76|[@dorajam](https://github.com/dorajam)/[**Convolutional-Network**](https://github.com/dorajam/Convolutional-Network)|A convolutional neural network from scratch||
-|75|[@bmcfee](https://github.com/bmcfee)/[**resampy**](https://github.com/bmcfee/resampy)|Efficient sample rate conversion in python|[:arrow_upper_right:](http://resampy.readthedocs.io/en/latest)|
 |74|[@hadim](https://github.com/hadim)/[**keras-toolbox**](https://github.com/hadim/keras-toolbox)|Your every day Keras toolbox.||
 |73|[@perone](https://github.com/perone)/[**django-gis-brasil**](https://github.com/perone/django-gis-brasil)|Django GIS Brasil|[:arrow_upper_right:](http://django-gis-brasil.readthedocs.org)|
 |73|[@rspivak](https://github.com/rspivak)/[**sftpserver**](https://github.com/rspivak/sftpserver)|A simple single-threaded SFTP server||
@@ -214,34 +214,34 @@
 |65|[@mikeboers](https://github.com/mikeboers)/[**Flask-Images**](https://github.com/mikeboers/Flask-Images)|On-demand resizing of images for Flask applications.|[:arrow_upper_right:](https://mikeboers.github.io/Flask-Images/)|
 |64|[@hsoft](https://github.com/hsoft)/[**pdfmasher**](https://github.com/hsoft/pdfmasher)|Convert PDFs to HTML, MOBI and EPUB||
 |64|[@jfsantos](https://github.com/jfsantos)/[**dragan-pytorch**](https://github.com/jfsantos/dragan-pytorch)|PyTorch implementation of DRAGAN (https://arxiv.org/abs/1705.07215)||
+|64|[@tandasat](https://github.com/tandasat)/[**WinIoCtlDecoder**](https://github.com/tandasat/WinIoCtlDecoder)|IDA Plugin which decodes Windows Device I/O control code into DeviceType, FunctionCode, AccessType and MethodType.||
 |64|[@willfarrell](https://github.com/willfarrell)/[**alfred-youtube-workflow**](https://github.com/willfarrell/alfred-youtube-workflow)|Search and Download YouTube Videos||
-|62|[@dgovil](https://github.com/dgovil)/[**PySignal**](https://github.com/dgovil/PySignal)|A purely Python implementation of the Qt signal system with no QObject dependencies||
-|62|[@ricmoo](https://github.com/ricmoo)/[**pyscrypt**](https://github.com/ricmoo/pyscrypt)|Pure-Python implementation of Scrypt PBKDF and scrypt file format library.||
+|63|[@dgovil](https://github.com/dgovil)/[**PySignal**](https://github.com/dgovil/PySignal)|A purely Python implementation of the Qt signal system with no QObject dependencies||
+|63|[@ricmoo](https://github.com/ricmoo)/[**pyscrypt**](https://github.com/ricmoo/pyscrypt)|Pure-Python implementation of Scrypt PBKDF and scrypt file format library.||
 |62|[@timsutton](https://github.com/timsutton)/[**make-adobe-cc-license-pkg**](https://github.com/timsutton/make-adobe-cc-license-pkg)|Tool for building macOS installer packages and Munki pkginfos for Adobe Creative Cloud license files.|[:arrow_upper_right:](https://macops.ca/adobe-creative-cloud-deployment-packaging-a-license-file)|
+|61|[@AndreLouisCaron](https://github.com/AndreLouisCaron)/[**pytest-docker**](https://github.com/AndreLouisCaron/pytest-docker)|Docker-based integration tests||
 |61|[@meejah](https://github.com/meejah)/[**carml**](https://github.com/meejah/carml)|Command-line utility to control Tor.|[:arrow_upper_right:](http://carmlion6vt4az2q.onion/)|
-|61|[@tandasat](https://github.com/tandasat)/[**WinIoCtlDecoder**](https://github.com/tandasat/WinIoCtlDecoder)|IDA Plugin which decodes Windows Device I/O control code into DeviceType, FunctionCode, AccessType and MethodType.||
 |60|[@OnionIoT](https://github.com/OnionIoT)/[**Onion-Docs**](https://github.com/OnionIoT/Onion-Docs)|Documentation for all things Onion|[:arrow_upper_right:](https://docs.onion.io)|
 |60|[@inikdom](https://github.com/inikdom)/[**neural-sentiment**](https://github.com/inikdom/neural-sentiment)|A sentiment analyzer using deep rnns, built with TensorFlow||
-|59|[@AndreLouisCaron](https://github.com/AndreLouisCaron)/[**pytest-docker**](https://github.com/AndreLouisCaron/pytest-docker)|Docker-based integration tests||
+|60|[@mikeboers](https://github.com/mikeboers)/[**PyMemoize**](https://github.com/mikeboers/PyMemoize)|Simple Python cache and memoizing module||
 |59|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**Python-Numerics**](https://github.com/CamDavidsonPilon/Python-Numerics)|Numerical machines in Python||
-|59|[@mikeboers](https://github.com/mikeboers)/[**PyMemoize**](https://github.com/mikeboers/PyMemoize)|Simple Python cache and memoizing module||
+|58|[@KleinYuan](https://github.com/KleinYuan)/[**tf-object-detection**](https://github.com/KleinYuan/tf-object-detection)|Simpler app for tensorflow object detection API||
 |58|[@corngood](https://github.com/corngood)/[**archlinux-amdgpu**](https://github.com/corngood/archlinux-amdgpu)|AMDGPU PRO packages for ArchLinux|[:arrow_upper_right:](https://aur.archlinux.org/pkgbase/amdgpu-pro-installer/)|
 |58|[@tomwilkie](https://github.com/tomwilkie)/[**kube-api-exporter**](https://github.com/tomwilkie/kube-api-exporter)|A Prometheus exporter for Kubernetes API numbers||
-|57|[@KleinYuan](https://github.com/KleinYuan)/[**tf-object-detection**](https://github.com/KleinYuan/tf-object-detection)|Simpler app for tensorflow object detection API||
+|57|[@Juniorn1003](https://github.com/Juniorn1003)/[**Faitagram**](https://github.com/Juniorn1003/Faitagram)|Welp, This failed. Go find another one.||
 |57|[@honza](https://github.com/honza)/[**vim2pygments**](https://github.com/honza/vim2pygments)|Convert vim colorschemes to Pygments styles||
 |56|[@ujihisa](https://github.com/ujihisa)/[**neco-look**](https://github.com/ujihisa/neco-look)|A neocomplcache plugin for English, using look command|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3440)|
-|54|[@Juniorn1003](https://github.com/Juniorn1003)/[**Faitagram**](https://github.com/Juniorn1003/Faitagram)|Welp, This failed. Go find another one.||
 |54|[@Riashat](https://github.com/Riashat)/[**Active-Learning-Bayesian-Convolutional-Neural-Networks**](https://github.com/Riashat/Active-Learning-Bayesian-Convolutional-Neural-Networks)|Active Learning on Image Data using Bayesian ConvNets||
+|54|[@guillaume-chevalier](https://github.com/guillaume-chevalier)/[**Hyperopt-Keras-CNN-CIFAR-100**](https://github.com/guillaume-chevalier/Hyperopt-Keras-CNN-CIFAR-100)|Auto-optimizing a neural net (and its architecture) on the CIFAR-100 dataset. Could be easily transferred to another dataset or another classification task. Updated version here: https://github.com/Vooban/Hyperopt-Keras-CNN-CIFAR-100|[:arrow_upper_right:](http://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/)|
 |54|[@whymarrh](https://github.com/whymarrh)/[**jeopardy-parser**](https://github.com/whymarrh/jeopardy-parser)|Extracts clues from the J! Archive website.||
+|54|[@xiaozhouwang](https://github.com/xiaozhouwang)/[**tensorflow_speech_recognition_solution**](https://github.com/xiaozhouwang/tensorflow_speech_recognition_solution)|code for 3rd place kaggle tensorflow competition||
 |53|[@dgryski](https://github.com/dgryski)/[**go-highway**](https://github.com/dgryski/go-highway)|Go implementation of Google's HighwayHash||
-|53|[@guillaume-chevalier](https://github.com/guillaume-chevalier)/[**Hyperopt-Keras-CNN-CIFAR-100**](https://github.com/guillaume-chevalier/Hyperopt-Keras-CNN-CIFAR-100)|Auto-optimizing a neural net (and its architecture) on the CIFAR-100 dataset. Could be easily transferred to another dataset or another classification task. Updated version here: https://github.com/Vooban/Hyperopt-Keras-CNN-CIFAR-100|[:arrow_upper_right:](http://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/)|
+|53|[@dhingratul](https://github.com/dhingratul)/[**Stock-Price-Prediction**](https://github.com/dhingratul/Stock-Price-Prediction)|Stock price prediction using LSTM and 1D Convoltional Layer implemented in keras with TF backend on daily closing price of S&P 500 data from Jan 2000 to Aug 2016||
 |53|[@joshDelta](https://github.com/joshDelta)/[**Gloom-Framework**](https://github.com/joshDelta/Gloom-Framework)|Linux Penetration Testing Framework||
-|53|[@xiaozhouwang](https://github.com/xiaozhouwang)/[**tensorflow_speech_recognition_solution**](https://github.com/xiaozhouwang/tensorflow_speech_recognition_solution)|code for 3rd place kaggle tensorflow competition||
 |52|[@ab77](https://github.com/ab77)/[**black.box**](https://github.com/ab77/black.box)|Plug-and-Play VPN router and unblocker|[:arrow_upper_right:](http://unzoner.com)|
+|52|[@aspiers](https://github.com/aspiers)/[**ly2video**](https://github.com/aspiers/ly2video)|generating videos from LilyPond projects||
+|52|[@bigsnarfdude](https://github.com/bigsnarfdude)/[**violentPythonForHackers**](https://github.com/bigsnarfdude/violentPythonForHackers)|collection of python tools||
 |52|[@brettcannon](https://github.com/brettcannon)/[**sans-io**](https://github.com/brettcannon/sans-io)|Network protocol implementations in Python, sans I/O|[:arrow_upper_right:](https://sans-io.readthedocs.io/)|
-|52|[@dhingratul](https://github.com/dhingratul)/[**Stock-Price-Prediction**](https://github.com/dhingratul/Stock-Price-Prediction)|Stock price prediction using LSTM and 1D Convoltional Layer implemented in keras with TF backend on daily closing price of S&P 500 data from Jan 2000 to Aug 2016||
-|51|[@aspiers](https://github.com/aspiers)/[**ly2video**](https://github.com/aspiers/ly2video)|generating videos from LilyPond projects||
-|51|[@bigsnarfdude](https://github.com/bigsnarfdude)/[**violentPythonForHackers**](https://github.com/bigsnarfdude/violentPythonForHackers)|collection of python tools||
 |51|[@davelab6](https://github.com/davelab6)/[**pyfontaine**](https://github.com/davelab6/pyfontaine)|Python tool to check font files for language/character set support|[:arrow_upper_right:](https://github.com/davelab6/pyfontaine)|
 |51|[@davidcarne](https://github.com/davidcarne)/[**pcbre**](https://github.com/davidcarne/pcbre)|Personal development branch for pcbre (probably not what you want)|[:arrow_upper_right:](http://github.com/pcbre/pcbre)|
 |51|[@slgobinath](https://github.com/slgobinath)/[**libreoffice-code-highlighter**](https://github.com/slgobinath/libreoffice-code-highlighter)|Code snippet highlighter for LibreOffice Writer, Calc and Impress.|[:arrow_upper_right:](https://extensions.libreoffice.org/extensions/code-highlighter)|
@@ -250,11 +250,11 @@
 |50|[@florentchandelier](https://github.com/florentchandelier)/[**zipline2quantopian**](https://github.com/florentchandelier/zipline2quantopian)|generating quantopian scripts from multiple files in zipline||
 |50|[@rspivak](https://github.com/rspivak)/[**logsna**](https://github.com/rspivak/logsna)|A small Python library that provides a sane log output format||
 |50|[@taavi](https://github.com/taavi)/[**ipython_nose**](https://github.com/taavi/ipython_nose)|Nose magic for IPython||
+|48|[@ajdavis](https://github.com/ajdavis)/[**coroutines-demo**](https://github.com/ajdavis/coroutines-demo)|Live-coding a Python 3 async framework||
 |48|[@honza](https://github.com/honza)/[**mutt-notmuch-py**](https://github.com/honza/mutt-notmuch-py)|||
 |48|[@rspivak](https://github.com/rspivak)/[**tinypie**](https://github.com/rspivak/tinypie)|Tree-Based Interpreter, compiler, and VM for TinyPie language||
 |48|[@tansaku](https://github.com/tansaku)/[**py-coursera**](https://github.com/tansaku/py-coursera)|Python framework for Coursera PGM and ML homeworks||
 |48|[@tansaku](https://github.com/tansaku)/[**twss**](https://github.com/tansaku/twss)|A Python project inspired by the research of Chloé Kiddon and Yuriy Brun.  Part of the Funniest Computer Ever Open Source initiative|[:arrow_upper_right:](http://funniestcomputer.neurogrid.com/)|
-|47|[@ajdavis](https://github.com/ajdavis)/[**coroutines-demo**](https://github.com/ajdavis/coroutines-demo)|Live-coding a Python 3 async framework||
 |47|[@colinoflynn](https://github.com/colinoflynn)/[**pico-python**](https://github.com/colinoflynn/pico-python)|PicoScope Python Interface||
 |47|[@luqmana](https://github.com/luqmana)/[**rhythmbox-plugins**](https://github.com/luqmana/rhythmbox-plugins)|Porting various Rhythmbox plugins to work with the new plugin api.||
 |47|[@troolee](https://github.com/troolee)/[**tornado-routes**](https://github.com/troolee/tornado-routes)|URL routings for tornado web server||
@@ -284,22 +284,22 @@
 |40|[@dmsimard](https://github.com/dmsimard)/[**python-cephclient**](https://github.com/dmsimard/python-cephclient)|Client library for the Ceph REST API||
 |40|[@hpssjellis](https://github.com/hpssjellis)/[**easy-tensorflow-on-cloud9**](https://github.com/hpssjellis/easy-tensorflow-on-cloud9)|Hopefully the easiest way to get started with Google's TensorFlow Deep Learning Neural Network Python Library||
 |40|[@jochasinga](https://github.com/jochasinga)/[**pluto**](https://github.com/jochasinga/pluto)|Arduino framework in Python for easy prototyping.||
+|39|[@joeyism](https://github.com/joeyism)/[**linkedin_scraper**](https://github.com/joeyism/linkedin_scraper)|A library that scrapes Linkedin for user data||
 |38|[@ShangtongZhang](https://github.com/ShangtongZhang)/[**DistributedES**](https://github.com/ShangtongZhang/DistributedES)|Distributed implementation of popular evolutionary methods||
 |38|[@Xyene](https://github.com/Xyene)/[**sphere2cube**](https://github.com/Xyene/sphere2cube)|Python script to map an equirectangular (cylindrical projection, skysphere) map into 6 cube (cubemap, skybox) faces.|[:arrow_upper_right:](https://pypi.python.org/pypi/sphere2cube)|
 |38|[@ghostbsd](https://github.com/ghostbsd)/[**networkmgr**](https://github.com/ghostbsd/networkmgr)|NetworkMgr is a Python GTK3 network manager for FreeBSD, GhostBSD, TrueOS and DragonFlyBSD||
 |38|[@mricon](https://github.com/mricon)/[**howler**](https://github.com/mricon/howler)|Alert when users log in from new locations||
+|37|[@JordanMilne](https://github.com/JordanMilne)/[**Advocate**](https://github.com/JordanMilne/Advocate)|An SSRF-preventing wrapper around Python's requests library||
+|37|[@Kulbear](https://github.com/Kulbear)/[**All-IT-eBooks-Spider**](https://github.com/Kulbear/All-IT-eBooks-Spider)|[Updated] A simple python crawler for my tutorial blog at http://www.jianshu.com/p/8fb5bc33c78e||
+|37|[@MarcelloLins](https://github.com/MarcelloLins)/[**ServerlessCrawler-VancouverRealState**](https://github.com/MarcelloLins/ServerlessCrawler-VancouverRealState)|A Serverless Crawler For Real State Data in Vancouver Using AWS Lambda, Dynamo, RDS MySQL and CloudWatch||
 |37|[@bbc](https://github.com/bbc)/[**rdfspace**](https://github.com/bbc/rdfspace)|RDFSpace constructs a vector space from any RDF dataset which can be used for computing similarities between resources in that dataset.||
 |37|[@gboudreau](https://github.com/gboudreau)/[**certbot-heroku**](https://github.com/gboudreau/certbot-heroku)|Let's Encrypt (certbot) plugin for Heroku apps||
-|37|[@joeyism](https://github.com/joeyism)/[**linkedin_scraper**](https://github.com/joeyism/linkedin_scraper)|A library that scrapes Linkedin for user data||
 |37|[@kylefox](https://github.com/kylefox)/[**python-image-orientation-patch**](https://github.com/kylefox/python-image-orientation-patch)|Rotates image according to orientation EXIF data so image displays correctly (requires Python Imaging Library).||
 |37|[@onefinestay](https://github.com/onefinestay)/[**nameko-sqlalchemy**](https://github.com/onefinestay/nameko-sqlalchemy)|SQLAlchemy dependency for nameko services||
 |37|[@yoanisgil](https://github.com/yoanisgil)/[**locust-grafana**](https://github.com/yoanisgil/locust-grafana)|Locust.io + Grafana||
 |36|[@GhostBSD](https://github.com/GhostBSD)/[**networkmgr**](https://github.com/GhostBSD/networkmgr)|NetworkMgr is a Python GTK3 network manager for FreeBSD, GhostBSD, TrueOS and DragonFlyBSD||
-|36|[@JordanMilne](https://github.com/JordanMilne)/[**Advocate**](https://github.com/JordanMilne/Advocate)|An SSRF-preventing wrapper around Python's requests library||
-|36|[@Kulbear](https://github.com/Kulbear)/[**All-IT-eBooks-Spider**](https://github.com/Kulbear/All-IT-eBooks-Spider)|[Updated] A simple python crawler for my tutorial blog at http://www.jianshu.com/p/8fb5bc33c78e||
 |36|[@bartdag](https://github.com/bartdag)/[**pylinkvalidator**](https://github.com/bartdag/pylinkvalidator)|pylinkvalidator is a standalone and pure python link validator and crawler that traverses a web site and reports errors (e.g., 500 and 404 errors) encountered.||
 |36|[@shagunsodhani](https://github.com/shagunsodhani)/[**StackExchange-tagger**](https://github.com/shagunsodhani/StackExchange-tagger)|Tagger for questions posted on StackExchange Network |[:arrow_upper_right:](https://shagunsodhani.in/StackExchange-tagger/)|
-|35|[@MarcelloLins](https://github.com/MarcelloLins)/[**ServerlessCrawler-VancouverRealState**](https://github.com/MarcelloLins/ServerlessCrawler-VancouverRealState)|A Serverless Crawler For Real State Data in Vancouver Using AWS Lambda, Dynamo, RDS MySQL and CloudWatch||
 |35|[@elbaschid](https://github.com/elbaschid)/[**virtual-node**](https://github.com/elbaschid/virtual-node)|Make node installable in a python virtualenv based on https://github.com/ekalinin/nodeenv||
 |35|[@honza](https://github.com/honza)/[**socrates**](https://github.com/honza/socrates)|socrates is a static site generator written in Python|[:arrow_upper_right:](http://honza.github.com/socrates/)|
 |35|[@inikdom](https://github.com/inikdom)/[**opensubtitles-parser**](https://github.com/inikdom/opensubtitles-parser)|download, extract, parse and tokenize the opensubtitles dataset with this script||
@@ -317,6 +317,7 @@
 |32|[@ssokolow](https://github.com/ssokolow)/[**fastdupes**](https://github.com/ssokolow/fastdupes)|High-efficiency script for finding sets of duplicate files|[:arrow_upper_right:](http://fastdupes.readthedocs.org/en/latest/)|
 |31|[@abourget](https://github.com/abourget)/[**inkscapeslide**](https://github.com/abourget/inkscapeslide)|Inkscape Slide creates .pdf slideshows based on Inkscape SVG layers|[:arrow_upper_right:](http://projects.abourget.net/inkscapeslide)|
 |31|[@brianmhunt](https://github.com/brianmhunt)/[**pytz-appengine**](https://github.com/brianmhunt/pytz-appengine)|Python TimeZone for Appengine||
+|31|[@dgovil](https://github.com/dgovil)/[**AdvancedPythonForMaya**](https://github.com/dgovil/AdvancedPythonForMaya)|Course contents for my upcoming Advanced Python for Maya course||
 |31|[@dstndstn](https://github.com/dstndstn)/[**tractor**](https://github.com/dstndstn/tractor)|The Tractor: measuring astronomical sources via probabilistic inference||
 |31|[@jonathansick](https://github.com/jonathansick)/[**ads_bibdesk**](https://github.com/jonathansick/ads_bibdesk)|(Unmaintained) Mac OS X service for frictionless import of NASA ADS and arXiv publications into BibDesk.||
 |31|[@un33k](https://github.com/un33k)/[**django-bootup**](https://github.com/un33k/django-bootup)|NO LONGER MAINTAINED||
@@ -325,18 +326,18 @@
 |30|[@ldionmarcil](https://github.com/ldionmarcil)/[**sudo-backdoor**](https://github.com/ldionmarcil/sudo-backdoor)|Wraps sudo; transparently steals user's credentials and exfiltrate over DNS. For those annoying times when you get a shell/file write on a sudoers account and need to leverage their credentials.||
 |30|[@lim0606](https://github.com/lim0606)/[**lasagne-googlenet**](https://github.com/lim0606/lasagne-googlenet)|Implementation of GoogLeNet with lasagne and theano||
 |30|[@samuelcolvin](https://github.com/samuelcolvin)/[**dnserver**](https://github.com/samuelcolvin/dnserver)|Simple development DNS server written in python||
+|30|[@tzutalin](https://github.com/tzutalin)/[**adb-event-record**](https://github.com/tzutalin/adb-event-record)|adb-event-record is a tool to record sensor's events like touch event and so on using the ADB (Android Debug Bridge).||
 |29|[@brettcannon](https://github.com/brettcannon)/[**mnfy**](https://github.com/brettcannon/mnfy)|Minify Python code||
 |29|[@ellmetha](https://github.com/ellmetha)/[**django-precise-bbcode**](https://github.com/ellmetha/django-precise-bbcode)|A Django application for parsing, displaying and editing BBCodes-based text contents.|[:arrow_upper_right:](https://django-precise-bbcode.readthedocs.org)|
 |29|[@joowani](https://github.com/joowani)/[**quadriga**](https://github.com/joowani/quadriga)|Python Client for QuadrigaCX|[:arrow_upper_right:](https://quadriga.readthedocs.io)|
 |29|[@perone](https://github.com/perone)/[**odbrasil**](https://github.com/perone/odbrasil)| http://odbrasil.readthedocs.org  odbrasil - Open Data Brasil, python module for data analysis of Brazilian government open data.||
-|28|[@dgovil](https://github.com/dgovil)/[**AdvancedPythonForMaya**](https://github.com/dgovil/AdvancedPythonForMaya)|Course contents for my upcoming Advanced Python for Maya course||
 |28|[@lesaux](https://github.com/lesaux)/[**diamond-DockerContainerCollector**](https://github.com/lesaux/diamond-DockerContainerCollector)|A diamond collector for docker containers||
 |28|[@moyix](https://github.com/moyix)/[**panda-malrec**](https://github.com/moyix/panda-malrec)|A system to record malware using PANDA||
 |28|[@pnavarrc](https://github.com/pnavarrc)/[**earthquake**](https://github.com/pnavarrc/earthquake)|Earthquakes in Chile||
+|28|[@samuelcolvin](https://github.com/samuelcolvin)/[**watchgod**](https://github.com/samuelcolvin/watchgod)|Simple, modern file watching and code reload in python.||
 |28|[@shagunsodhani](https://github.com/shagunsodhani)/[**tf-char-rnn**](https://github.com/shagunsodhani/tf-char-rnn)|Tensorflow implementation of char-rnn||
 |28|[@singpolyma](https://github.com/singpolyma)/[**OpenPGP-Python**](https://github.com/singpolyma/OpenPGP-Python)|A port of OpenPGP-PHP to Python||
 |28|[@timsutton](https://github.com/timsutton)/[**customdisplayprofiles**](https://github.com/timsutton/customdisplayprofiles)|A command-line utility for setting ColorSync profiles for connected displays on OS X.||
-|28|[@tzutalin](https://github.com/tzutalin)/[**adb-event-record**](https://github.com/tzutalin/adb-event-record)|adb-event-record is a tool to record sensor's events like touch event and so on using the ADB (Android Debug Bridge).||
 |27|[@500px](https://github.com/500px)/[**PxMagic**](https://github.com/500px/PxMagic)|this a wrapper, made in python, for using the 500px api||
 |27|[@MechanisM](https://github.com/MechanisM)/[**django-confy**](https://github.com/MechanisM/django-confy)|A comfy config for Django|[:arrow_upper_right:](http://django-confy.rtfd.org/)|
 |27|[@bbc](https://github.com/bbc)/[**audio-offset-finder**](https://github.com/bbc/audio-offset-finder)|Find the offset of an audio file within another audio file||
@@ -346,6 +347,7 @@
 |27|[@onefinestay](https://github.com/onefinestay)/[**kaiso**](https://github.com/onefinestay/kaiso)|object graph mapper||
 |27|[@timsutton](https://github.com/timsutton)/[**python-macadmins-2015**](https://github.com/timsutton/python-macadmins-2015)|Python for Mac Admins 2015 talk (MacDevOps, MacDeploy) resources||
 |26|[@Dref360](https://github.com/Dref360)/[**keras-transform**](https://github.com/Dref360/keras-transform)|Library for data augmentation||
+|26|[@alex-drake](https://github.com/alex-drake)/[**OpenCV-Traffic-Counter**](https://github.com/alex-drake/OpenCV-Traffic-Counter)|A traffic counter designed using the OpenCV library for Python 3.5. This project was carried out as part of the Government Data Science Accelerator programme||
 |26|[@cdrage](https://github.com/cdrage)/[**kubeshift**](https://github.com/cdrage/kubeshift)|Kubernetes and OpenShift Python library|[:arrow_upper_right:](https://cdrage.github.com/kubeshift)|
 |26|[@nickgermaine](https://github.com/nickgermaine)/[**python_text_battle**](https://github.com/nickgermaine/python_text_battle)|Simple rpg type text-based python battle script||
 |26|[@pushrax](https://github.com/pushrax)/[**osxmpdkeys**](https://github.com/pushrax/osxmpdkeys)|Control mpd with the OS X media keys.||
@@ -353,47 +355,49 @@
 |26|[@robmoggach](https://github.com/robmoggach)/[**mezzanine-careers**](https://github.com/robmoggach/mezzanine-careers)|Simple Job Posting App for the Mezzanine CMS||
 |26|[@timsutton](https://github.com/timsutton)/[**scripts**](https://github.com/timsutton/scripts)|Miscellaneous scripts.||
 |25|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**decision-weights**](https://github.com/CamDavidsonPilon/decision-weights)|Homegrown analysis of Prospect Theory: Math, turkers and python =)||
-|25|[@alex-drake](https://github.com/alex-drake)/[**OpenCV-Traffic-Counter**](https://github.com/alex-drake/OpenCV-Traffic-Counter)|A traffic counter designed using the OpenCV library for Python 3.5. This project was carried out as part of the Government Data Science Accelerator programme||
+|25|[@burningion](https://github.com/burningion)/[**daily-sketches**](https://github.com/burningion/daily-sketches)|Daily Sketches in Python||
 |25|[@fnando](https://github.com/fnando)/[**sublime-text**](https://github.com/fnando/sublime-text)|My SublimeText settings||
 |25|[@mispy](https://github.com/mispy)/[**dropblame**](https://github.com/mispy/dropblame)|"git blame" for Dropbox files||
-|25|[@samuelcolvin](https://github.com/samuelcolvin)/[**watchgod**](https://github.com/samuelcolvin/watchgod)|Simple, modern file watching and code reload in python.||
 |24|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**PyconCanada2015**](https://github.com/CamDavidsonPilon/PyconCanada2015)|My scrapers, data and analysis for PyCon Canada 2015 Keynote||
 |24|[@adambard](https://github.com/adambard)/[**googlegantt.py**](https://github.com/adambard/googlegantt.py)|Create Gantt charts using Google Charts' API!||
 |24|[@atmb4u](https://github.com/atmb4u)/[**butler**](https://github.com/atmb4u/butler)|Python Dictionaries and Lists on Steroids|[:arrow_upper_right:](http://atmb4u.github.io/butler)|
-|24|[@burningion](https://github.com/burningion)/[**daily-sketches**](https://github.com/burningion/daily-sketches)|Daily Sketches in Python||
+|24|[@dmsimard](https://github.com/dmsimard)/[**python-cachetclient**](https://github.com/dmsimard/python-cachetclient)|A python library, client and interface to Cachet's API||
 |24|[@endolith](https://github.com/endolith)/[**freesound-thumbnailer**](https://github.com/endolith/freesound-thumbnailer)|A Gnome thumbnailer for audio files, based on the method used at Freesound.org|[:arrow_upper_right:](http://www.freesound.org/)|
 |24|[@guillaume-chevalier](https://github.com/guillaume-chevalier)/[**PyTorch-Dynamic-RNN-Attention-Decoder-Tree**](https://github.com/guillaume-chevalier/PyTorch-Dynamic-RNN-Attention-Decoder-Tree)|This is code I wrote within less than an hour so as to very roughly draft how I would code a Dynamic RNN Attention Decoder Tree with PyTorch.|[:arrow_upper_right:](http://www.neuraxio.com/en/)|
 |24|[@hallamlab](https://github.com/hallamlab)/[**metapathways2**](https://github.com/hallamlab/metapathways2)|MetaPathways v2.0: A master-worker model for environmental Pathway/Genome Database construction on grids and clouds|[:arrow_upper_right:](http://hallam.microbiology.ubc.ca/MetaPathways/)|
 |24|[@jts](https://github.com/jts)/[**nanopore-paper-analysis**](https://github.com/jts/nanopore-paper-analysis)|Code for nanopore paper||
+|24|[@mikeboers](https://github.com/mikeboers)/[**Flask-ACL**](https://github.com/mikeboers/Flask-ACL)|Access Control Lists for Flask|[:arrow_upper_right:](http://mikeboers.github.io/Flask-ACL)|
 |24|[@tomwilkie](https://github.com/tomwilkie)/[**awesomation**](https://github.com/tomwilkie/awesomation)|Home Awesomation; python home automation system.|[:arrow_upper_right:](http://homeawesomation.appspot.com)|
 |24|[@trishume](https://github.com/trishume)/[**LastSecondSlides**](https://github.com/trishume/LastSecondSlides)|Use the Google speech-to-text API to generate presentation slides as you talk!||
 |23|[@TkTech](https://github.com/TkTech)/[**pytextql**](https://github.com/TkTech/pytextql)|A python semi-clone of textql. Why you ask? Why not I say.||
 |23|[@apenwarr](https://github.com/apenwarr)/[**py-remoteexec**](https://github.com/apenwarr/py-remoteexec)|Run server code on a remote host without installing anything on the server. (git import of danderson's hg repo)|[:arrow_upper_right:](https://bitbucket.org/danderson/py-remoteexec)|
+|23|[@aspiers](https://github.com/aspiers)/[**git-explode**](https://github.com/aspiers/git-explode)|Explode linear sequence of git commits into topic branches||
 |23|[@bcgsc](https://github.com/bcgsc)/[**tigmint**](https://github.com/bcgsc/tigmint)|⛓ Correct misassemblies using linked reads|[:arrow_upper_right:](https://bcgsc.github.io/tigmint/)|
 |23|[@davidcarne](https://github.com/davidcarne)/[**iceBurn**](https://github.com/davidcarne/iceBurn)|Python script for programming the iCEBlink40 development board under linux||
-|23|[@dmsimard](https://github.com/dmsimard)/[**python-cachetclient**](https://github.com/dmsimard/python-cachetclient)|A python library, client and interface to Cachet's API||
-|23|[@mikeboers](https://github.com/mikeboers)/[**Flask-ACL**](https://github.com/mikeboers/Flask-ACL)|Access Control Lists for Flask|[:arrow_upper_right:](http://mikeboers.github.io/Flask-ACL)|
 |23|[@mikepan](https://github.com/mikepan)/[**BlenderGEResourceKit**](https://github.com/mikepan/BlenderGEResourceKit)|A collection of ready-to-use components for the Blender Game Engine||
 |23|[@mricon](https://github.com/mricon)/[**wotmate**](https://github.com/mricon/wotmate)|Web of trust grapher||
 |23|[@rinze](https://github.com/rinze)/[**obliterate_tweets**](https://github.com/rinze/obliterate_tweets)|Keep your Twitter timeline clean and tidy||
 |23|[@toxtli](https://github.com/toxtli)/[**twitter-accounts-creator-bot**](https://github.com/toxtli/twitter-accounts-creator-bot)|This bot creates twitter accounts|[:arrow_upper_right:](http://www.carlostoxtli.com/#repo-twitter-creator)|
 |22|[@WilsonWangTHU](https://github.com/WilsonWangTHU)/[**NerveNet**](https://github.com/WilsonWangTHU/NerveNet)|||
-|22|[@aspiers](https://github.com/aspiers)/[**git-explode**](https://github.com/aspiers/git-explode)|Explode linear sequence of git commits into topic branches||
 |22|[@bcgov](https://github.com/bcgov)/[**TheOrgBook**](https://github.com/bcgov/TheOrgBook)|A public repository of verifiable claims about organizations. A key component of the Verifiable Organization Network.|[:arrow_upper_right:](http://von.pathfinder.gov.bc.ca)|
+|22|[@bcgsc](https://github.com/bcgsc)/[**mavis**](https://github.com/bcgsc/mavis)|Merging, Annotation, Validation, and Illustration of Structural variants|[:arrow_upper_right:](http://mavis.bcgsc.ca)|
 |22|[@bmcfee](https://github.com/bmcfee)/[**pumpp**](https://github.com/bmcfee/pumpp)|practically universal music pre-processor||
 |22|[@bradrobertson](https://github.com/bradrobertson)/[**sublime-packages**](https://github.com/bradrobertson/sublime-packages)|||
 |22|[@davelab6](https://github.com/davelab6)/[**autopsy**](https://github.com/davelab6/autopsy)|Autopsy is a FontLab Studio Python script for analyzing design consistency across multiple fonts.||
 |22|[@hantek](https://github.com/hantek)/[**distance-parser**](https://github.com/hantek/distance-parser)|Source code for ``Straight to the Tree: Constituency Parsing with Neural Syntactic Distance'' published at ACL 2018||
+|22|[@staticsafe](https://github.com/staticsafe)/[**twitter-advertiser-list-converter**](https://github.com/staticsafe/twitter-advertiser-list-converter)|Converts Twitter provided advertiser list PDF to a CSV file of user-ids that can be imported as a blocklist.||
 |22|[@timsutton](https://github.com/timsutton)/[**munki-conditions**](https://github.com/timsutton/munki-conditions)|Admin-provided conditions for Munki||
 |22|[@toxtli](https://github.com/toxtli)/[**facebook-profile-scraper-bot**](https://github.com/toxtli/facebook-profile-scraper-bot)|This bot extracts all the information of an user profile|[:arrow_upper_right:](http://www.carlostoxtli.com/#repo-facebook-scraper)|
 |22|[@wardi](https://github.com/wardi)/[**xterm_colour_chart**](https://github.com/wardi/xterm_colour_chart)|Display charts of xterm's 256- and 88-colour modes||
+|22|[@wbuchwalter](https://github.com/wbuchwalter)/[**fairing**](https://github.com/wbuchwalter/fairing)|👩‍🔬[Experimental] Easily train and serve ML models on Kubernetes, directly from your python code.||
 |21|[@CNuge](https://github.com/CNuge)/[**email-report**](https://github.com/CNuge/email-report)|A modular template for scraping data from the web to send yourself scheduled email reports||
 |21|[@LazoCoder](https://github.com/LazoCoder)/[**Image-To-ASCII**](https://github.com/LazoCoder/Image-To-ASCII)|Convert images to ASCII art.||
+|21|[@PR2](https://github.com/PR2)/[**pr2_simulator**](https://github.com/PR2/pr2_simulator)|||
+|21|[@TkTech](https://github.com/TkTech)/[**Jawa**](https://github.com/TkTech/Jawa)|A Python library for inspecting JVM class files (.class)|[:arrow_upper_right:](http://jawa.tkte.ch)|
 |21|[@TkTech](https://github.com/TkTech)/[**PyNBT**](https://github.com/TkTech/PyNBT)|Tiny, liberally-licensed NBT library. NBT is the datafile format used in Minecraft.||
 |21|[@Zren](https://github.com/Zren)/[**PyQuassel**](https://github.com/Zren/PyQuassel)|||
 |21|[@abourget](https://github.com/abourget)/[**git-hg-again**](https://github.com/abourget/git-hg-again)|A bi-directional Git to Mercurial interface (like git-svn)||
 |21|[@ajdavis](https://github.com/ajdavis)/[**lektor-tags**](https://github.com/ajdavis/lektor-tags)|For each tag on your site, build a list of pages with that tag. This can be used for standard tag-based blog navigation.||
-|21|[@bcgsc](https://github.com/bcgsc)/[**mavis**](https://github.com/bcgsc/mavis)|Merging, Annotation, Validation, and Illustration of Structural variants|[:arrow_upper_right:](http://mavis.bcgsc.ca)|
 |21|[@burningion](https://github.com/burningion)/[**deepdreamtutorial**](https://github.com/burningion/deepdreamtutorial)|Deep Dream Tutorial||
 |21|[@domino14](https://github.com/domino14)/[**Webolith**](https://github.com/domino14/Webolith)|Aerolith 2.0 - Aerolith for the web. A word study site - study for Scrabble, Boggle, Words With Frentz, etc.|[:arrow_upper_right:](http://www.aerolith.org)|
 |21|[@ecbrodie](https://github.com/ecbrodie)/[**pomodoro-alfred**](https://github.com/ecbrodie/pomodoro-alfred)|Alfred workflow for Pomodoro tracking, via Tomato One||
@@ -406,16 +410,14 @@
 |21|[@shagunsodhani](https://github.com/shagunsodhani)/[**Reproducibility-Report-CountVQA**](https://github.com/shagunsodhani/Reproducibility-Report-CountVQA)|||
 |21|[@snwh](https://github.com/snwh)/[**elementary-cursors**](https://github.com/snwh/elementary-cursors)|Source of elementary OS cursor theme||
 |21|[@stal888](https://github.com/stal888)/[**Tox-QuickDNS**](https://github.com/stal888/Tox-QuickDNS)|easy tox3 dns hosting for personal domains||
-|21|[@staticsafe](https://github.com/staticsafe)/[**twitter-advertiser-list-converter**](https://github.com/staticsafe/twitter-advertiser-list-converter)|Converts Twitter provided advertiser list PDF to a CSV file of user-ids that can be imported as a blocklist.||
 |21|[@stewart](https://github.com/stewart)/[**gfm**](https://github.com/stewart/gfm)|GitHub Flavored Markdown in Python||
 |21|[@trentm](https://github.com/trentm)/[**googlecode2github**](https://github.com/trentm/googlecode2github)|Helper scripts and docs for moving a project from Google Code project hosting to Github||
 |21|[@whitepacket](https://github.com/whitepacket)/[**heavyaidra**](https://github.com/whitepacket/heavyaidra)|IRC-based mass router scanner/exploiter using SSH and kaiten.||
 |20|[@AlexiaJM](https://github.com/AlexiaJM)/[**Generative-model-most-similar-images**](https://github.com/AlexiaJM/Generative-model-most-similar-images)|Function that output the 5 most similar training (real) images to the given generated (fake) images.||
+|20|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**lifestyles**](https://github.com/CamDavidsonPilon/lifestyles)|Work-In-Progress: conjoint analysis in python||
 |20|[@LIVIAETS](https://github.com/LIVIAETS)/[**MedicalImageSegmentation**](https://github.com/LIVIAETS/MedicalImageSegmentation)|This repository aims at containing all the code employed at LIVIA to segment medical images. Mainly, our research focuses on bringind the expertise in deep learning and optimization techniques to the medical image analysis domain.||
 |20|[@MaximumEntropy](https://github.com/MaximumEntropy)/[**cudnn_rnn_theano_benchmarks**](https://github.com/MaximumEntropy/cudnn_rnn_theano_benchmarks)|||
-|20|[@PR2](https://github.com/PR2)/[**pr2_simulator**](https://github.com/PR2/pr2_simulator)|||
 |20|[@PolyEdge](https://github.com/PolyEdge)/[**scratchapi**](https://github.com/PolyEdge/scratchapi)|Scratch API Interface||
-|20|[@TkTech](https://github.com/TkTech)/[**Jawa**](https://github.com/TkTech/Jawa)|A Python library for inspecting JVM class files (.class)|[:arrow_upper_right:](http://jawa.tkte.ch)|
 |20|[@TkTech](https://github.com/TkTech)/[**jira_alfred**](https://github.com/TkTech/jira_alfred)|An Alfred Workflow for Jira||
 |20|[@ajdavis](https://github.com/ajdavis)/[**mongo-mockup-db**](https://github.com/ajdavis/mongo-mockup-db)|MockupDB - Simulate a MongoDB server.||
 |20|[@apenwarr](https://github.com/apenwarr)/[**wavedroplet**](https://github.com/apenwarr/wavedroplet)|Experimental app for visualizing wifi packet captures||
@@ -437,6 +439,7 @@
 |20|[@shah0150](https://github.com/shah0150)/[**Predicting_Stock_Prices**](https://github.com/shah0150/Predicting_Stock_Prices)|||
 |20|[@shinespark](https://github.com/shinespark)/[**dvorakjp-romantable**](https://github.com/shinespark/dvorakjp-romantable)|Google 日本語入力用DvorakJPローマ字テーブル / DvorakJP Roman Table for Google Japanese Input|[:arrow_upper_right:](http://shinespark.hatenablog.com/entry/2015/10/17/170632)|
 |20|[@siebenmann](https://github.com/siebenmann)/[**mxiostat**](https://github.com/siebenmann/mxiostat)|A better iostat for Linux||
+|20|[@timsutton](https://github.com/timsutton)/[**winclone-image-builder**](https://github.com/timsutton/winclone-image-builder)|Using Packer and Vagrant to build Windows images automatically||
 |19|[@RobLoach](https://github.com/RobLoach)/[**lutris-kodi-addon**](https://github.com/RobLoach/lutris-kodi-addon)|Lutris Kodi Addon|[:arrow_upper_right:](http://lutris.net)|
 |19|[@abourget](https://github.com/abourget)/[**astograph**](https://github.com/abourget/astograph)|Astograph, Asterisk dial-plan visualization|[:arrow_upper_right:](http://projects.abourget.net)|
 |19|[@abourget](https://github.com/abourget)/[**moo**](https://github.com/abourget/moo)|MtlPy 32 & PyCon Canada 2012 presentation, code, slides, snippets and stuff||
@@ -449,11 +452,10 @@
 |19|[@korymath](https://github.com/korymath)/[**gym-multiplot**](https://github.com/korymath/gym-multiplot)|Visualizing and Comparing Multiple OpenAI Gym Experiments||
 |19|[@lmcinnes](https://github.com/lmcinnes)/[**sstsne**](https://github.com/lmcinnes/sstsne)|Semi-Supervised t-SNE using a Bayesian prior based on partial labelling||
 |19|[@midgetspy](https://github.com/midgetspy)/[**Lift-Cup**](https://github.com/midgetspy/Lift-Cup)|Automated usenet upload script||
+|19|[@myusuf3](https://github.com/myusuf3)/[**loading**](https://github.com/myusuf3/loading)|simple loading bar in python|[:arrow_upper_right:](https://crate.io/packages/loading/)|
 |19|[@robmoggach](https://github.com/robmoggach)/[**python-moshion**](https://github.com/robmoggach/python-moshion)|Datamoshing Motion - a command line wrapper to ffmpeg used to datamosh two image sequences||
-|19|[@wbuchwalter](https://github.com/wbuchwalter)/[**fairing**](https://github.com/wbuchwalter/fairing)|👩‍🔬[Experimental] Easily train and serve ML models on Kubernetes, directly from your python code.||
 |19|[@wenxichen](https://github.com/wenxichen)/[**tensorflow_yolo2**](https://github.com/wenxichen/tensorflow_yolo2)|A Tensorflow version of YOLO2 and its extensions||
 |19|[@williamjturkel](https://github.com/williamjturkel)/[**Digital-History-Hacks--2005-08-**](https://github.com/williamjturkel/Digital-History-Hacks--2005-08-)|Source code repository for Digital History Hacks|[:arrow_upper_right:](http://digitalhistoryhacks.blogspot.com)|
-|18|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**lifestyles**](https://github.com/CamDavidsonPilon/lifestyles)|Work-In-Progress: conjoint analysis in python||
 |18|[@MJFND](https://github.com/MJFND)/[**TensorFlowHub**](https://github.com/MJFND/TensorFlowHub)|All code from the junaideffendi.com will be available here.||
 |18|[@MichaelCereda](https://github.com/MichaelCereda)/[**CMYKProjectManager**](https://github.com/MichaelCereda/CMYKProjectManager)|CMYKProjectManager is a TextMate-like Project Manager plugin for Gedit.||
 |18|[@Narven](https://github.com/Narven)/[**sublime-artisan**](https://github.com/Narven/sublime-artisan)|Sublime Text plugin to replace Laravel Artisan CLI (NO LONGER MAINTAINED)||
@@ -464,10 +466,8 @@
 |18|[@glmcdona](https://github.com/glmcdona)/[**meddle**](https://github.com/glmcdona/meddle)|Framework for vulnerability fuzzing and reverse-engineering tool development.||
 |18|[@gnuvince](https://github.com/gnuvince)/[**minilang**](https://github.com/gnuvince/minilang)|A simple compiler for a mini language||
 |18|[@mikeboers](https://github.com/mikeboers)/[**PyTomCrypt**](https://github.com/mikeboers/PyTomCrypt)|Python wrapper around LibTomCrypt|[:arrow_upper_right:](http://mikeboers.github.io/PyTomCrypt/)|
-|18|[@myusuf3](https://github.com/myusuf3)/[**loading**](https://github.com/myusuf3/loading)|simple loading bar in python|[:arrow_upper_right:](https://crate.io/packages/loading/)|
 |18|[@nadirhamid](https://github.com/nadirhamid)/[**binner**](https://github.com/nadirhamid/binner)|A tool for bin packing and estimations||
 |18|[@perone](https://github.com/perone)/[**pymarksim**](https://github.com/perone/pymarksim)|This is a python module to train/check Markov Chain models from input texts.|[:arrow_upper_right:](http://pyevolve.sourceforge.net/wordpress/?p=1319)|
-|18|[@timsutton](https://github.com/timsutton)/[**winclone-image-builder**](https://github.com/timsutton/winclone-image-builder)|Using Packer and Vagrant to build Windows images automatically||
 |18|[@tpoisot](https://github.com/tpoisot)/[**nxfa2**](https://github.com/tpoisot/nxfa2)|Force-Atlas 2 graph layout in networkx||
 |18|[@trentm](https://github.com/trentm)/[**eol**](https://github.com/trentm/eol)|a command-line script and Python module for working with text file end-of-line (EOL) characters||
 |18|[@trentm](https://github.com/trentm)/[**nodedoc**](https://github.com/trentm/nodedoc)|a fledgling `perldoc` for node.js||
@@ -475,9 +475,9 @@
 |17|[@adam-p](https://github.com/adam-p)/[**danforth-east**](https://github.com/adam-p/danforth-east)|Easy membership management for small community associations||
 |17|[@apenwarr](https://github.com/apenwarr)/[**schedulator**](https://github.com/apenwarr/schedulator)|Bottom-up project scheduling system based on Joel's Painless Software Schedules|[:arrow_upper_right:](http://code.google.com/p/schedulator/)|
 |17|[@eneskemalergin](https://github.com/eneskemalergin)/[**Essential_Algorithms**](https://github.com/eneskemalergin/Essential_Algorithms)|Algorithms from book and other sources written in Python||
-|17|[@escalant3](https://github.com/escalant3)/[**pyblueprints**](https://github.com/escalant3/pyblueprints)|A Python version of the Blueprints property graph model interface by tinkerpop||
 |17|[@janclarin](https://github.com/janclarin)/[**jisho-alfred-workflow**](https://github.com/janclarin/jisho-alfred-workflow)|Alfred workflow for searching Jisho.org, a Japanese-English online dictionary.|[:arrow_upper_right:](http://www.packal.org/workflow/jisho-japanese-english-dictionary)|
 |17|[@jkakar](https://github.com/jkakar)/[**logfmt-python**](https://github.com/jkakar/logfmt-python)|Python package for parsing log lines in the logfmt style.||
+|17|[@lmcinnes](https://github.com/lmcinnes)/[**hypergraph**](https://github.com/lmcinnes/hypergraph)|A library for hypergraphs and hypergraph algorithms||
 |17|[@onefinestay](https://github.com/onefinestay)/[**gonzo**](https://github.com/onefinestay/gonzo)|Instance and release management made easy||
 |17|[@reinderien](https://github.com/reinderien)/[**xcal**](https://github.com/reinderien/xcal)|X.org touchscreen calibrator||
 |17|[@robmoggach](https://github.com/robmoggach)/[**python-dirtt**](https://github.com/robmoggach/python-dirtt)|Dirtt: Directory Tree Templater|[:arrow_upper_right:](http://robmoggach.github.io/python-dirtt)|
@@ -486,6 +486,7 @@
 |17|[@toxic-ig](https://github.com/toxic-ig)/[**SQL-XSS**](https://github.com/toxic-ig/SQL-XSS)|A few SQL and XSS attack tools||
 |17|[@toxtli](https://github.com/toxtli)/[**deep-learning-tweets-text-classifier-word2vec**](https://github.com/toxtli/deep-learning-tweets-text-classifier-word2vec)|This tool uses Word2Vec combined with Neural Networks, SVM, KNN, Naive Bayes, Decision Trees and ExtraTrees. This was used on Twitter for classifying tweets.|[:arrow_upper_right:](http://www.carlostoxtli.com/#repo-text-classifier)|
 |17|[@trentm](https://github.com/trentm)/[**python-jira-cli**](https://github.com/trentm/python-jira-cli)|(my fork of) the Python JIRA command line interface (to add some conveniences)|[:arrow_upper_right:](https://studio.plugins.atlassian.com/browse/JCLIMD)|
+|17|[@ustunb](https://github.com/ustunb)/[**risk-slim**](https://github.com/ustunb/risk-slim)|simple customizable risk scores in python||
 |17|[@vincentarelbundock](https://github.com/vincentarelbundock)/[**Reinhart-Rogoff**](https://github.com/vincentarelbundock/Reinhart-Rogoff)|Reinhart Rogoff replication files: Python stats with IPython notebook||
 |16|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**demographica**](https://github.com/CamDavidsonPilon/demographica)|Analyse US name distributions and create age profiles of your users||
 |16|[@abh1nav](https://github.com/abh1nav)/[**gnippy**](https://github.com/abh1nav/gnippy)|Python library for GNIP||
@@ -496,6 +497,7 @@
 |16|[@bmcfee](https://github.com/bmcfee)/[**pyrubberband**](https://github.com/bmcfee/pyrubberband)|python wrapper for rubberband||
 |16|[@brianpeiris](https://github.com/brianpeiris)/[**switchmate**](https://github.com/brianpeiris/switchmate)|A python-based command line utility for controlling Switchmate switches||
 |16|[@dkua](https://github.com/dkua)/[**talks**](https://github.com/dkua/talks)|Code and slides for all my talks||
+|16|[@escalant3](https://github.com/escalant3)/[**pyblueprints**](https://github.com/escalant3/pyblueprints)|A Python version of the Blueprints property graph model interface by tinkerpop||
 |16|[@gabrielgrant](https://github.com/gabrielgrant)/[**django-inline-edit**](https://github.com/gabrielgrant/django-inline-edit)|django-inline-edit makes it easy to create inline-editable content. Also provides a generic ConditionalDispatchView. Warning: very alpha.||
 |16|[@honza](https://github.com/honza)/[**nigel**](https://github.com/honza/nigel)|A simple IRC bot that responds to commands. Inspired by Hubot. Implemented in Python.||
 |16|[@ibleducation](https://github.com/ibleducation)/[**jupyter-edx-grader-xblock**](https://github.com/ibleducation/jupyter-edx-grader-xblock)|Jupyter Problem XBlock for Open edX|[:arrow_upper_right:](https://ibleducation.com/gw-and-ibl-release-an-open-edx-xblock-to-add-graded-problems-based-on-jupyter-notebooks/)|
@@ -503,14 +505,11 @@
 |16|[@julianser](https://github.com/julianser)/[**hred-latent-piecewise**](https://github.com/julianser/hred-latent-piecewise)|||
 |16|[@kisielk](https://github.com/kisielk)/[**covenant**](https://github.com/kisielk/covenant)|Code contracts for Python 3||
 |16|[@lanky](https://github.com/lanky)/[**python-rhnapi**](https://github.com/lanky/python-rhnapi)|python module abstracting the RHN Satellite API for version 5.4.1||
-|16|[@lmcinnes](https://github.com/lmcinnes)/[**hypergraph**](https://github.com/lmcinnes/hypergraph)|A library for hypergraphs and hypergraph algorithms||
-|16|[@mcmachado](https://github.com/mcmachado)/[**options**](https://github.com/mcmachado/options)|||
 |16|[@palfrey](https://github.com/palfrey)/[**rhythmbox-tray-icon**](https://github.com/palfrey/rhythmbox-tray-icon)|Tray icon for Rhythmbox 2.9+|[:arrow_upper_right:](http://www.lshift.net/blog/2012/01/16/re-adding-a-tray-icon-to-rhythmbox)|
 |16|[@ssokolow](https://github.com/ssokolow)/[**timeclock**](https://github.com/ssokolow/timeclock)|The Procrastinator's Timeclock, a minimal-hassle way to manage your time|[:arrow_upper_right:](http://ssokolow.com/timeclock/)|
 |16|[@stgraber](https://github.com/stgraber)/[**samba4-manager**](https://github.com/stgraber/samba4-manager)|A web interface to manage a remote samba4 server||
 |16|[@tanmayb123](https://github.com/tanmayb123)/[**MNIST-CNN-in-Keras**](https://github.com/tanmayb123/MNIST-CNN-in-Keras)|||
 |16|[@ucalgary](https://github.com/ucalgary)/[**ftrigger**](https://github.com/ucalgary/ftrigger)|Triggers for FaaS functions||
-|16|[@ustunb](https://github.com/ustunb)/[**risk-slim**](https://github.com/ustunb/risk-slim)|simple customizable risk scores in python||
 |15|[@Pathoschild](https://github.com/Pathoschild)/[**stewbot**](https://github.com/Pathoschild/stewbot)|A Python IRC script which automates interactions with MediaWiki wikis based on commands given by users on IRC; primarily intended for Wikimedia steward or administrator operations, but work is being done to enable Wikia and generic wiki use.|[:arrow_upper_right:](http://meta.wikimedia.org/wiki/StewardBot)|
 |15|[@Prooffreader](https://github.com/Prooffreader)/[**word_list_tools**](https://github.com/Prooffreader/word_list_tools)|Python and pandas tools to perform various analyses on different types of word lists||
 |15|[@TobCar](https://github.com/TobCar)/[**cryptocurrency-trader**](https://github.com/TobCar/cryptocurrency-trader)|Foundational library for you to build your own cryptocurrency trading bots.||
@@ -521,6 +520,8 @@
 |15|[@guillaume-chevalier](https://github.com/guillaume-chevalier)/[**PyTorch-Dynamic-RNN-Decoder-Tree**](https://github.com/guillaume-chevalier/PyTorch-Dynamic-RNN-Decoder-Tree)|This is code I wrote within less than an hour so as to very roughly draft how I would code a Dynamic RNN Decoder Tree with PyTorch.||
 |15|[@hadim](https://github.com/hadim)/[**read-roi**](https://github.com/hadim/read-roi)|Read ROI files .zip or .roi generated with ImageJ.||
 |15|[@handwritingio](https://github.com/handwritingio)/[**python-client**](https://github.com/handwritingio/python-client)|Python Client for Handwriting.io API|[:arrow_upper_right:](https://handwriting.io)|
+|15|[@koustuvsinha](https://github.com/koustuvsinha)/[**hred-py**](https://github.com/koustuvsinha/hred-py)|Pytorch implementation of Hierarchical Encoder Decoder Sequence to Sequence Model||
+|15|[@mcmachado](https://github.com/mcmachado)/[**options**](https://github.com/mcmachado/options)|||
 |15|[@mikelambert](https://github.com/mikelambert)/[**dancedeets-monorepo**](https://github.com/mikelambert/dancedeets-monorepo)|DanceDeets Codebase: The python server (with React.JS rendering), as well as the React Native mobile app (and their shared code)|[:arrow_upper_right:](http://www.dancedeets.com)|
 |15|[@pjkundert](https://github.com/pjkundert)/[**burndown**](https://github.com/pjkundert/burndown)|Generate HTML/SVG Burndown charts from org-mode project data||
 |15|[@redhat-cip](https://github.com/redhat-cip)/[**hardware**](https://github.com/redhat-cip/hardware)|Python module for hardware detection and classification||
@@ -547,10 +548,11 @@
 |14|[@ianmilligan1](https://github.com/ianmilligan1)/[**Historian-WARC-1**](https://github.com/ianmilligan1/Historian-WARC-1)|The Historian's WARC Toolkit||
 |14|[@jfsantos](https://github.com/jfsantos)/[**maracas**](https://github.com/jfsantos/maracas)|maracas is a library for corrupting audio files with additive and convolutive noise.||
 |14|[@jiahao](https://github.com/jiahao)/[**PySGE**](https://github.com/jiahao/PySGE)|Low-level Python interface to Sun Grid Engine||
-|14|[@koustuvsinha](https://github.com/koustuvsinha)/[**hred-py**](https://github.com/koustuvsinha/hred-py)|Pytorch implementation of Hierarchical Encoder Decoder Sequence to Sequence Model||
+|14|[@joeyism](https://github.com/joeyism)/[**py-edgar**](https://github.com/joeyism/py-edgar)|A small library to access files from SEC's edgar||
 |14|[@lf-](https://github.com/lf-)/[**aiopanel**](https://github.com/lf-/aiopanel)|An asyncio text-based panel||
 |14|[@lim0606](https://github.com/lim0606)/[**python-okcoin-fix**](https://github.com/lim0606/python-okcoin-fix)|python-okcoin-fix||
 |14|[@mohammadpz](https://github.com/mohammadpz)/[**RNN_Experiments**](https://github.com/mohammadpz/RNN_Experiments)|General experiments on Vanilla RNN and LSTM in Theano.||
+|14|[@paul-wolf](https://github.com/paul-wolf)/[**strgen**](https://github.com/paul-wolf/strgen)|A Python module for a template language that generates randomized data||
 |14|[@piborg](https://github.com/piborg)/[**diddyborg-web**](https://github.com/piborg/diddyborg-web)|Web based interface for controlling DiddyBorg from a phone or browser||
 |14|[@pushrax](https://github.com/pushrax)/[**mal**](https://github.com/pushrax/mal)|MyAnimeList.net command-line client.|[:arrow_upper_right:](http://pushrax.github.io/mal/)|
 |14|[@rich-iannone](https://github.com/rich-iannone)/[**so-many-pyspark-examples**](https://github.com/rich-iannone/so-many-pyspark-examples)|Spark and Python (PySpark) Examples||
@@ -566,6 +568,7 @@
 |14|[@wardi](https://github.com/wardi)/[**iterables-iterators-generators**](https://github.com/wardi/iterables-iterators-generators)|A talk I will be presenting at Ottawa Python in January 2013||
 |14|[@wbuchwalter](https://github.com/wbuchwalter)/[**metaml**](https://github.com/wbuchwalter/metaml)|👩‍🔬[Experimental] Easily train and serve ML models on Kubernetes, directly from your python code.||
 |13|[@JoabMendes](https://github.com/JoabMendes)/[**fbbotw**](https://github.com/JoabMendes/fbbotw)|Python Wrapper for Facebook Messenger Bot Platform.||
+|13|[@Picovoice](https://github.com/Picovoice)/[**wakeword-benchmark**](https://github.com/Picovoice/wakeword-benchmark)|wake word engine benchmark framework|[:arrow_upper_right:](https://picovoice.ai/)|
 |13|[@RobLoach](https://github.com/RobLoach)/[**plugin.video.jupiterbroadcasting**](https://github.com/RobLoach/plugin.video.jupiterbroadcasting)|:tv: Jupiter Broadcasting Kodi Addon|[:arrow_upper_right:](http://kodi.wiki/view/Add-on:Jupiter_Broadcasting)|
 |13|[@ab77](https://github.com/ab77)/[**beastcraft-telemetry**](https://github.com/ab77/beastcraft-telemetry)|Santak IPV-2012C UPS, DS18B20 one-wire temperature, ZTE MF823 hostless modem + A5-V11 (MiFi) router and U-blox7 USB GPS monitoring with Grafana and Python on a Raspberry Pi 2 inside a motorhome|[:arrow_upper_right:](http://anton.belodedenko.me/tag/crafter/)|
 |13|[@bbc](https://github.com/bbc)/[**automated-audio-tagging-evaluation**](https://github.com/bbc/automated-audio-tagging-evaluation)|Evaluation dataset and script for automated DBpedia tagging of speech audio||
@@ -576,7 +579,6 @@
 |13|[@gabrielgrant](https://github.com/gabrielgrant)/[**django-billing-stripe**](https://github.com/gabrielgrant/django-billing-stripe)|The Stripe.com processor plugin for django-billing||
 |13|[@gabrielgrant](https://github.com/gabrielgrant)/[**django-multiforloop**](https://github.com/gabrielgrant/django-multiforloop)|Extends django's forloop syntax to allow simultaneously iterating over multiple lists (zipping)||
 |13|[@honza](https://github.com/honza)/[**heroku-sprunge**](https://github.com/honza/heroku-sprunge)|Roll your own sprunge on your domain||
-|13|[@joeyism](https://github.com/joeyism)/[**py-edgar**](https://github.com/joeyism/py-edgar)|A small library to access files from SEC's edgar||
 |13|[@johnboxall](https://github.com/johnboxall)/[**canadian-payroll-calculator**](https://github.com/johnboxall/canadian-payroll-calculator)|Django application for keeping track of Canadian payroll taxes.||
 |13|[@jonathansick](https://github.com/jonathansick)/[**preprint**](https://github.com/jonathansick/preprint)|Tools for preparing astrophysics manuscripts||
 |13|[@julianser](https://github.com/julianser)/[**Ubuntu-Multiresolution-Tools**](https://github.com/julianser/Ubuntu-Multiresolution-Tools)|Dialogue corpus creation and evaluation scripts for the Ubuntu Dialogue Corpus.||
@@ -588,7 +590,6 @@
 |13|[@msukmanowsky](https://github.com/msukmanowsky)/[**pyspark-testing**](https://github.com/msukmanowsky/pyspark-testing)|Unit and integration testing with PySpark can be tough to figure out, let's make that easier.||
 |13|[@nVoid](https://github.com/nVoid)/[**TouchDesigner-Twitter**](https://github.com/nVoid/TouchDesigner-Twitter)|Threaded Twitter search and stream TouchDesigner components written in Python.||
 |13|[@onespacemedia](https://github.com/onespacemedia)/[**project-template**](https://github.com/onespacemedia/project-template)|||
-|13|[@paul-wolf](https://github.com/paul-wolf)/[**strgen**](https://github.com/paul-wolf/strgen)|A Python module for a template language that generates randomized data||
 |13|[@radekstepan](https://github.com/radekstepan)/[**Flask-Skeleton-App**](https://github.com/radekstepan/Flask-Skeleton-App)|A skeleton Linux, CherryPy/Flask, MongoDB, Python stack||
 |13|[@rinze](https://github.com/rinze)/[**rank-es**](https://github.com/rinze/rank-es)|Proof of concept for a link ranking site without a local ranking. Extracts scores from Facebook / Twitter. Not working anymore due to Spanish IP Law reform.|[:arrow_upper_right:](http://rank-es.appspot.com)|
 |13|[@rnicoll](https://github.com/rnicoll)/[**python-altcoinlib**](https://github.com/rnicoll/python-altcoinlib)|Wrapper around Python-bitcoinlib to add altcoin support||
@@ -598,8 +599,8 @@
 |13|[@tanmayb123](https://github.com/tanmayb123)/[**DeepSPADE**](https://github.com/tanmayb123/DeepSPADE)|Deep Spam Detection via Deep Learning||
 |13|[@taylanpince](https://github.com/taylanpince)/[**django-doc-wiki**](https://github.com/taylanpince/django-doc-wiki)|A document based wiki for Django||
 |12|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**PasswordAnalysis**](https://github.com/CamDavidsonPilon/PasswordAnalysis)|This is a description of human-created passwords using markov models||
+|12|[@KleinYuan](https://github.com/KleinYuan)/[**tf-3d-object-detection**](https://github.com/KleinYuan/tf-3d-object-detection)|Detect object in 3D with Point Cloud and Image.||
 |12|[@PR2](https://github.com/PR2)/[**pr2_robot**](https://github.com/PR2/pr2_robot)|PR2-specific components that are used in bringing up a robot.||
-|12|[@Picovoice](https://github.com/Picovoice)/[**wakeword-benchmark**](https://github.com/Picovoice/wakeword-benchmark)|wake word engine benchmark framework|[:arrow_upper_right:](https://picovoice.ai/)|
 |12|[@ajdavis](https://github.com/ajdavis)/[**emptysquare-lektor**](https://github.com/ajdavis/emptysquare-lektor)|||
 |12|[@bigsnarfdude](https://github.com/bigsnarfdude)/[**DFTP**](https://github.com/bigsnarfdude/DFTP)|Python DNS Exfiltration Tool - Domain Name Service File Transfer Protocol (DFTP) Client and Server. TODO: Integrate Lexer, Parser instead of split()||
 |12|[@bmcfee](https://github.com/bmcfee)/[**autochiptune**](https://github.com/bmcfee/autochiptune)|Automatic chiptune remixer in python||
@@ -609,7 +610,6 @@
 |12|[@drscott173](https://github.com/drscott173)/[**ml_capstone**](https://github.com/drscott173/ml_capstone)|Capstone project for my Udacity Machine Learning Nanodegree||
 |12|[@envygeo](https://github.com/envygeo)/[**arcplus**](https://github.com/envygeo/arcplus)|a few little things I think Esri's arcpy and related should have||
 |12|[@gaining](https://github.com/gaining)/[**Kissanime-fork**](https://github.com/gaining/Kissanime-fork)|Fork of highway99 kissanime with updated links for kissanime.ru||
-|12|[@guillaume-chevalier](https://github.com/guillaume-chevalier)/[**caffe-cifar-10-and-cifar-100-datasets-preprocessed-to-HDF5**](https://github.com/guillaume-chevalier/caffe-cifar-10-and-cifar-100-datasets-preprocessed-to-HDF5)|Both deep learning datasets can be imported in python directly with h5py (HDF5 format). The datasets can be directly imported or converted with a python script. |[:arrow_upper_right:](http://www.neuraxio.com/en/)|
 |12|[@hpiwowar](https://github.com/hpiwowar)/[**pypub**](https://github.com/hpiwowar/pypub)|Python code for collecting and processing research data for biomedical bibliometric analysis||
 |12|[@jessamynsmith](https://github.com/jessamynsmith)/[**twitterbot**](https://github.com/jessamynsmith/twitterbot)|Configurable bot that replies to mentions and posts messages to twitter|[:arrow_upper_right:](https://pypi.python.org/pypi/twitterbot)|
 |12|[@joeyism](https://github.com/joeyism)/[**py-spotme**](https://github.com/joeyism/py-spotme)|A CLI tool that creates AWS spot instances on the fly||
@@ -617,6 +617,7 @@
 |12|[@klahnakoski](https://github.com/klahnakoski)/[**SpotManager**](https://github.com/klahnakoski/SpotManager)|Find cheapest spot instance prices, bid, use, and teardown when done||
 |12|[@kylefox](https://github.com/kylefox)/[**kirby-OLD**](https://github.com/kylefox/kirby-OLD)|** This repo has been abandoned in favour of a new one (private for now) **||
 |12|[@mhsjlw](https://github.com/mhsjlw)/[**minecraft-bedrock-test-bench**](https://github.com/mhsjlw/minecraft-bedrock-test-bench)|Test bench for a Minecraft Bedrock server||
+|12|[@mkonicek](https://github.com/mkonicek)/[**nlp**](https://github.com/mkonicek/nlp)|Simple experiments with word embeddings||
 |12|[@nhooey](https://github.com/nhooey)/[**svg-scour**](https://github.com/nhooey/svg-scour)|Jeff Schiller's SVG file cleaning program.|[:arrow_upper_right:](https://launchpad.net/scour)|
 |12|[@redhat-cip](https://github.com/redhat-cip)/[**dci-control-server**](https://github.com/redhat-cip/dci-control-server)|Distributed CI Control-Server||
 |12|[@robbles](https://github.com/robbles)/[**mortar-luigi**](https://github.com/robbles/mortar-luigi)|Cached copy of mortardata/mortar-luigi from before it was taken down.||
@@ -633,7 +634,6 @@
 |11|[@Betterment](https://github.com/Betterment)/[**crsp-whitepaper**](https://github.com/Betterment/crsp-whitepaper)|Center for Research of Securities Prices||
 |11|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**Graphical-Lasso-in-Finance**](https://github.com/CamDavidsonPilon/Graphical-Lasso-in-Finance)|Implementations of the graphical lasso method to estimation of covariance matrices in finance.||
 |11|[@DenisCarriere](https://github.com/DenisCarriere)/[**mapillary**](https://github.com/DenisCarriere/mapillary)|:video_camera: Mapillary - Python API||
-|11|[@KleinYuan](https://github.com/KleinYuan)/[**tf-3d-object-detection**](https://github.com/KleinYuan/tf-3d-object-detection)|Detect object in 3D with Point Cloud and Image.||
 |11|[@Prooffreader](https://github.com/Prooffreader)/[**google_ngrams_py**](https://github.com/Prooffreader/google_ngrams_py)|A class to fetch results from Google Ngrams Viewer and return them as pandas dataframes||
 |11|[@Srinivas11789](https://github.com/Srinivas11789)/[**urlRecon**](https://github.com/Srinivas11789/urlRecon)|:pencil: urlRecon - Info Gathering or Recon tool for Urls  -> Retrieves  * Whois information of the domain   * DNS Details of the domain  * Server Fingerprint    * IP geolocation of the server||
 |11|[@TkTech](https://github.com/TkTech)/[**ckanext-cloudstorage**](https://github.com/TkTech/ckanext-cloudstorage)|Implements support for resource storage against multiple popular providers via apache-libcloud (S3, Azure Storage, etc...)||
@@ -648,10 +648,11 @@
 |11|[@candu](https://github.com/candu)/[**fitbit-crossfilter**](https://github.com/candu/fitbit-crossfilter)|Quick app for pulling fitbit data, aggregating/filtering with crossfilter, and rendering that through d3.js||
 |11|[@elbaschid](https://github.com/elbaschid)/[**dockbot**](https://github.com/elbaschid/dockbot)|Buildbot setup running tests in Docker slaves and provisioning with SaltStack||
 |11|[@exPHAT](https://github.com/exPHAT)/[**binding-of-isaac**](https://github.com/exPHAT/binding-of-isaac)|👾 Replica of The Binding Of Isaac for ICS3U||
+|11|[@guillaume-chevalier](https://github.com/guillaume-chevalier)/[**caffe-cifar-10-and-cifar-100-datasets-preprocessed-to-HDF5**](https://github.com/guillaume-chevalier/caffe-cifar-10-and-cifar-100-datasets-preprocessed-to-HDF5)|Both deep learning datasets can be imported in python directly with h5py (HDF5 format). The datasets can be directly imported or converted with a python script. |[:arrow_upper_right:](http://www.neuraxio.com/en/)|
 |11|[@ibleducation](https://github.com/ibleducation)/[**jupyter-viewer-xblock**](https://github.com/ibleducation/jupyter-viewer-xblock)|View Jupyter Notebooks in Open edX|[:arrow_upper_right:](https://ibleducation.com/jupyter-viewer-xblock)|
 |11|[@jessamynsmith](https://github.com/jessamynsmith)/[**heartbot**](https://github.com/jessamynsmith/heartbot)|Tweet compliments when tweeted to|[:arrow_upper_right:](https://twitter.com/heartbotapp)|
 |11|[@jfsantos](https://github.com/jfsantos)/[**SRMRpy**](https://github.com/jfsantos/SRMRpy)|Python implementation of the SRMR toolbox||
-|11|[@mkonicek](https://github.com/mkonicek)/[**nlp**](https://github.com/mkonicek/nlp)|Simple experiments with word embeddings||
+|11|[@kaz-Anova](https://github.com/kaz-Anova)/[**Competitive_Dai**](https://github.com/kaz-Anova/Competitive_Dai)|The code to generate a top 20 score in the amazon classification challenge using Driverless AI's predictions and feature engineering : In line with this video : https://www.youtube.com/watch?v=qtUNyJlAID0&t=11s||
 |11|[@mricon](https://github.com/mricon)/[**CrudMiner**](https://github.com/mricon/CrudMiner)|Administration tool to search the webroot and find unmaintained software.||
 |11|[@nesv](https://github.com/nesv)/[**pureodm**](https://github.com/nesv/pureodm)|A super-lightweight object-document mapper for Python and MongoDB.||
 |11|[@nicolai86](https://github.com/nicolai86)/[**ansible-phantomjs**](https://github.com/nicolai86/ansible-phantomjs)|phantomjs binary installer||
@@ -673,6 +674,7 @@
 |11|[@wikier](https://github.com/wikier)/[**ldpy**](https://github.com/wikier/ldpy)|LDP Client for Python. Very prototypical, initially written to cross-testing Apache Marmotta reference implementation.||
 |11|[@xthexder](https://github.com/xthexder)/[**stripe-ctf-3.0**](https://github.com/xthexder/stripe-ctf-3.0)|Soltuions and short write-up for the 3rd Stripe CTF.|[:arrow_upper_right:](https://stripe-ctf.com/achievements/xthexder)|
 |11|[@zhuzhuor](https://github.com/zhuzhuor)/[**urlproxy**](https://github.com/zhuzhuor/urlproxy)|A simple proxy server by manipulating URLs||
+|10|[@AlexiaJM](https://github.com/AlexiaJM)/[**GANsBeyondDivergenceMin**](https://github.com/AlexiaJM/GANsBeyondDivergenceMin)|Code for replication of the paper "GANs beyond divergence minimization"||
 |10|[@SaturnFromTitan](https://github.com/SaturnFromTitan)/[**adwords_reports**](https://github.com/SaturnFromTitan/adwords_reports)|Pythonic wrapper of the Google AdWords API for easy reporting.||
 |10|[@ShangtongZhang](https://github.com/ShangtongZhang)/[**LearningToRun**](https://github.com/ShangtongZhang/LearningToRun)|NIPS 2017 challenge: Learning To Run||
 |10|[@abdullah-K](https://github.com/abdullah-K)/[**face-recognition**](https://github.com/abdullah-K/face-recognition)|🙂 This OpenCV application can detect & recognize your face, in real-time, once you've trained the model on a custom data-set consisting of images of your face.||
@@ -681,6 +683,7 @@
 |10|[@bmcfee](https://github.com/bmcfee)/[**ipyaudio**](https://github.com/bmcfee/ipyaudio)|Bridge IPython and PortAudio for interactive realtime audio||
 |10|[@bufke](https://github.com/bufke)/[**angular-dashboard-django**](https://github.com/bufke/angular-dashboard-django)|A storage backend and demo for malhar-angular-dashboard||
 |10|[@burningion](https://github.com/burningion)/[**snapchat-lens-effect-in-python**](https://github.com/burningion/snapchat-lens-effect-in-python)|Recreating real time face effects in Python with Dlib||
+|10|[@cfriedt](https://github.com/cfriedt)/[**pipeline-commander**](https://github.com/cfriedt/pipeline-commander)|A hackish tool to trigger a GitLab pipeline and wait for its completion.||
 |10|[@elbaschid](https://github.com/elbaschid)/[**virtual-less**](https://github.com/elbaschid/virtual-less)|Install lessc into your virtualenv||
 |10|[@eliheuer](https://github.com/eliheuer)/[**drawbot-exercises**](https://github.com/eliheuer/drawbot-exercises)|Animated gifs made with Python in DrawBot.|[:arrow_upper_right:](http://drawbot-exercises.tumblr.com/)|
 |10|[@ezaquarii](https://github.com/ezaquarii)/[**MobileStringsToolkit**](https://github.com/ezaquarii/MobileStringsToolkit)|||
@@ -691,7 +694,6 @@
 |10|[@irccloud](https://github.com/irccloud)/[**irccloud-python-client**](https://github.com/irccloud/irccloud-python-client)|IRCCloud Python Client||
 |10|[@jake100](https://github.com/jake100)/[**interpreter**](https://github.com/jake100/interpreter)|interpreter for a language that I'm making||
 |10|[@juhgiyo](https://github.com/juhgiyo)/[**pyserver**](https://github.com/juhgiyo/pyserver)|Python Asynchronous TCP/UDP Server Framework||
-|10|[@kaz-Anova](https://github.com/kaz-Anova)/[**Competitive_Dai**](https://github.com/kaz-Anova/Competitive_Dai)|The code to generate a top 20 score in the amazon classification challenge using Driverless AI's predictions and feature engineering : In line with this video : https://www.youtube.com/watch?v=qtUNyJlAID0&t=11s||
 |10|[@laurahanu](https://github.com/laurahanu)/[**Improved-Wasserstein-GAN-application-on-MRI-images**](https://github.com/laurahanu/Improved-Wasserstein-GAN-application-on-MRI-images)|Improved Wasserstein GAN (WGAN-GP) application on medical (MRI) images||
 |10|[@luisibanez](https://github.com/luisibanez)/[**M-Tutorial**](https://github.com/luisibanez/M-Tutorial)|Tutorial on the M Programming Language|[:arrow_upper_right:](http://www.osehra.org)|
 |10|[@madeddie](https://github.com/madeddie)/[**python-bunq**](https://github.com/madeddie/python-bunq)|Thin wrapper around the bunq API||
@@ -720,12 +722,12 @@
 |9|[@ajdavis](https://github.com/ajdavis)/[**yieldpoints**](https://github.com/ajdavis/yieldpoints)|Simple extensions to Tornado's gen module.||
 |9|[@akhenakh](https://github.com/akhenakh)/[**dico**](https://github.com/akhenakh/dico)|A "database-agnostic modeling system"||
 |9|[@bmcfee](https://github.com/bmcfee)/[**hypergraph_playlist**](https://github.com/bmcfee/hypergraph_playlist)|Source code for hypergraph random walk playlist models||
-|9|[@cfriedt](https://github.com/cfriedt)/[**pipeline-commander**](https://github.com/cfriedt/pipeline-commander)|A hackish tool to trigger a GitLab pipeline and wait for its completion.||
 |9|[@chfoo](https://github.com/chfoo)/[**tellnext**](https://github.com/chfoo/tellnext)|Next word prediction using Markov chain and trigram model.||
 |9|[@csvenja](https://github.com/csvenja)/[**SFU-iCalendar**](https://github.com/csvenja/SFU-iCalendar)|Convert SFU class schedule to iCalendar file (for iCal, Google Calendar, etc).||
 |9|[@danielmoniz](https://github.com/danielmoniz)/[**learn_python_the_hard_way**](https://github.com/danielmoniz/learn_python_the_hard_way)|||
 |9|[@davelab6](https://github.com/davelab6)/[**fontforge-simplepolator**](https://github.com/davelab6/fontforge-simplepolator)|FontForge Simplepolator based on Pablo Impallari's script for FontLab/RoboFont|[:arrow_upper_right:](http://www.youtube.com/watch?v=2k56SqVvMrI)|
 |9|[@davelab6](https://github.com/davelab6)/[**libre-moretus**](https://github.com/davelab6/libre-moretus)|Libre Moretus — A Digital Revival of the Plantin Typeface from 1913||
+|9|[@ecjoliver](https://github.com/ecjoliver)/[**marineHeatWaves**](https://github.com/ecjoliver/marineHeatWaves)|marineHeatWaves is a module for python which implements the Marine Heatwave (MHW)  definition of Hobday et al. (2016, Prog Ocean).||
 |9|[@eneskemalergin](https://github.com/eneskemalergin)/[**Bioinformatics-Ore**](https://github.com/eneskemalergin/Bioinformatics-Ore)|Python Algorithms to solve Bioinformatical Problems||
 |9|[@gabrielgrant](https://github.com/gabrielgrant)/[**django-registration-email-only**](https://github.com/gabrielgrant/django-registration-email-only)|This django-registration backend implements a signup flow initially requiring only a single field: an email address.||
 |9|[@honza](https://github.com/honza)/[**Posterous-App-Engine**](https://github.com/honza/Posterous-App-Engine)|Posterous-style blogging on App Engine|[:arrow_upper_right:](http://www.honza.ca/)|
@@ -753,9 +755,11 @@
 |9|[@thestinger](https://github.com/thestinger)/[**wiki**](https://github.com/thestinger/wiki)|toy wiki implementation||
 |9|[@toxic-ig](https://github.com/toxic-ig)/[**InfoStealer**](https://github.com/toxic-ig/InfoStealer)|Info and password stealer||
 |9|[@toxtli](https://github.com/toxtli)/[**chat-bots-manager**](https://github.com/toxtli/chat-bots-manager)|This platform administrates chat bots of different platforms like facebok, twitter and linkedin|[:arrow_upper_right:](http://www.carlostoxtli.com/#repo-bots-manager)|
+|9|[@toxtli](https://github.com/toxtli)/[**deepiracy**](https://github.com/toxtli/deepiracy)|Deepiracy - Video piracy detection by using neural networks and string algorithms.|[:arrow_upper_right:](http://www.carlostoxtli.com/#repo-deepiracy)|
 |9|[@waveaccounting](https://github.com/waveaccounting)/[**django-sixpack**](https://github.com/waveaccounting/django-sixpack)|A Django-friendly wrapper for the sixpack-py client library||
 |8|[@BlakeBrown](https://github.com/BlakeBrown)/[**LeetCode-Solutions**](https://github.com/BlakeBrown/LeetCode-Solutions)|LeetCode concepts & solutions||
 |8|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**dog**](https://github.com/CamDavidsonPilon/dog)|a simple casual graph evaluator (for experiments)||
+|8|[@Denisolt](https://github.com/Denisolt)/[**flickr_downloader**](https://github.com/Denisolt/flickr_downloader)|tried downloading an entire album, could not. So here is the code to do so ||
 |8|[@KleinYuan](https://github.com/KleinYuan)/[**cnn**](https://github.com/KleinYuan/cnn)|Cloud Server Production Ready High Performance Convolutional Neural Networks Pipeline with Tensorflow||
 |8|[@Kulbear](https://github.com/Kulbear)/[**endless-2048**](https://github.com/Kulbear/endless-2048)|[WIP] Aim to build an AI player for the 2048 game with a remarkable winning rate.||
 |8|[@MarvinTeichmann](https://github.com/MarvinTeichmann)/[**Street-Segmentation-Toolkit**](https://github.com/MarvinTeichmann/Street-Segmentation-Toolkit)|Street segmentation toolkit (sst) is a Python package which provids the functionallity to easily segmentation road-data.||
@@ -765,6 +769,7 @@
 |8|[@apenwarr](https://github.com/apenwarr)/[**crampi**](https://github.com/apenwarr/crampi)|Replicate contacts between fat_free_crm and MAPI (Outlook and Exchange), and maybe other things too.||
 |8|[@bcgov](https://github.com/bcgov)/[**tfrs**](https://github.com/bcgov/tfrs)|Transportation Fuels Reporting System||
 |8|[@benhj](https://github.com/benhj)/[**logoblur**](https://github.com/benhj/logoblur)|A python script for batch blurring of image logos/objects using OpenCV and template matching||
+|8|[@bennycheung](https://github.com/bennycheung)/[**PyDelaunay**](https://github.com/bennycheung/PyDelaunay)|Python implementation of Delaunay and Voronoi Tessellation||
 |8|[@bob-carpenter](https://github.com/bob-carpenter)/[**anno**](https://github.com/bob-carpenter/anno)|Models, scripts, and data sets for data annotation (aka coding, aka rating)||
 |8|[@bryankim96](https://github.com/bryankim96)/[**ctalearn**](https://github.com/bryankim96/ctalearn)|Exploratory work on applying deep convolutional neural networks to CTA event classification||
 |8|[@bryankim96](https://github.com/bryankim96)/[**stux-DNN**](https://github.com/bryankim96/stux-DNN)|Run-time trojan attack on neural networks||
@@ -772,7 +777,10 @@
 |8|[@burningion](https://github.com/burningion)/[**deepgraffiti**](https://github.com/burningion/deepgraffiti)|||
 |8|[@cloudtracer](https://github.com/cloudtracer)/[**pefile.pypy**](https://github.com/cloudtracer/pefile.pypy)|Pypy.js compatible version of pefile.py for use in offline browser implementation||
 |8|[@danielmoniz](https://github.com/danielmoniz)/[**merge_in_memory**](https://github.com/danielmoniz/merge_in_memory)|A simple versioning system that uses strings, not files.||
-|8|[@ecjoliver](https://github.com/ecjoliver)/[**marineHeatWaves**](https://github.com/ecjoliver/marineHeatWaves)|marineHeatWaves is a module for python which implements the Marine Heatwave (MHW)  definition of Hobday et al. (2016, Prog Ocean).||
+|8|[@danielsnider](https://github.com/danielsnider)/[**follow_waypoints**](https://github.com/danielsnider/follow_waypoints)|Create and follow a set of navigation goals for use with ROS move_base|[:arrow_upper_right:](http://wiki.ros.org/follow_waypoints)|
+|8|[@danielsnider](https://github.com/danielsnider)/[**simple_drive**](https://github.com/danielsnider/simple_drive)|A simple ROS robot drive system.|[:arrow_upper_right:](http://wiki.ros.org/simple_drive)|
+|8|[@dharness](https://github.com/dharness)/[**seam_carving**](https://github.com/dharness/seam_carving)|Python Seam Carving module||
+|8|[@dukeng](https://github.com/dukeng)/[**Cover-Letter-Generator**](https://github.com/dukeng/Cover-Letter-Generator)|Generate Cover Letter based on your information! Automate date, names and reuse paragraphs||
 |8|[@elbaschid](https://github.com/elbaschid)/[**pycon-talk-click-example**](https://github.com/elbaschid/pycon-talk-click-example)|Click example for PyCon US 2016 talk.||
 |8|[@eneskemalergin](https://github.com/eneskemalergin)/[**Bioinformatics_101**](https://github.com/eneskemalergin/Bioinformatics_101)|Python Algorithms to solve Bioinformatical Problems||
 |8|[@fnando](https://github.com/fnando)/[**better-rspec-for-sublime-text**](https://github.com/fnando/better-rspec-for-sublime-text)|Better RSpec syntax highlighting, with matchers for v3. Also includes implementation/spec toggling command.||
@@ -780,6 +788,7 @@
 |8|[@hexatonics](https://github.com/hexatonics)/[**python-resume-builder**](https://github.com/hexatonics/python-resume-builder)|build resume in multiple formats from python source using django-style templates.||
 |8|[@hifumibot](https://github.com/hifumibot)/[**hifumibot**](https://github.com/hifumibot/hifumibot)|Hifumi, a multifunctional Discord bot built with love in Python.|[:arrow_upper_right:](http://www.hifumibot.xyz)|
 |8|[@jQwotos](https://github.com/jQwotos)/[**9anime-Scraper**](https://github.com/jQwotos/9anime-Scraper)|Scrapes 9anime.to for download links of episodes||
+|8|[@jQwotos](https://github.com/jQwotos)/[**anime_scrapers**](https://github.com/jQwotos/anime_scrapers)|A collection of scrapers and downloaders that supports multiple anime streaming sites.||
 |8|[@jasonish](https://github.com/jasonish)/[**suricata-verify**](https://github.com/jasonish/suricata-verify)|Suricata Verification Tests - Testing Suricata Output||
 |8|[@jasonish](https://github.com/jasonish)/[**suricata-verify-old**](https://github.com/jasonish/suricata-verify-old)|Suricata Verification Tests - Testing Suricata Output||
 |8|[@jennybc](https://github.com/jennybc)/[**2014-05-12-ubc**](https://github.com/jennybc/2014-05-12-ubc)|||
@@ -801,7 +810,9 @@
 |8|[@palfrey](https://github.com/palfrey)/[**panel-applet-generator**](https://github.com/palfrey/panel-applet-generator)|Gnome panel applet generator|[:arrow_upper_right:](http://www.lshift.net/blog/2012/02/29/making-panel-applets-for-gnome-2-and-3)|
 |8|[@philwhln](https://github.com/philwhln)/[**tornado-smtp-client**](https://github.com/philwhln/tornado-smtp-client)|Tornado SMTP Client||
 |8|[@pjkundert](https://github.com/pjkundert)/[**pyzmq-demos**](https://github.com/pjkundert/pyzmq-demos)|Python ZeroMQ Demos||
+|8|[@priya-dwivedi](https://github.com/priya-dwivedi)/[**Udacity-Machine-Learning-101**](https://github.com/priya-dwivedi/Udacity-Machine-Learning-101)|||
 |8|[@pzion](https://github.com/pzion)/[**zBug**](https://github.com/pzion/zBug)|A front end for LLDB||
+|8|[@redhat-cip](https://github.com/redhat-cip)/[**swiftbackmeup**](https://github.com/redhat-cip/swiftbackmeup)|An utility that allows one to create backups and upload them to OpenStack Swift||
 |8|[@robmoggach](https://github.com/robmoggach)/[**python-openclip**](https://github.com/robmoggach/python-openclip)|OpenClip XML Media Management Python Module|[:arrow_upper_right:](http://robmoggach.github.io/python-openclip/)|
 |8|[@samuelcolvin](https://github.com/samuelcolvin)/[**xdelta3-python**](https://github.com/samuelcolvin/xdelta3-python)|Fast delta encoding in python using xdelta3||
 |8|[@sebastien](https://github.com/sebastien)/[**docommand**](https://github.com/sebastien/docommand)|Sweet shortcuts for your shell|[:arrow_upper_right:](http://github.com/sebastien/docommand)|
@@ -815,7 +826,6 @@
 |8|[@syl20bnr](https://github.com/syl20bnr)/[**windawesome_config**](https://github.com/syl20bnr/windawesome_config)|My windawesome confguration trying to clone my i3 configuration.||
 |8|[@toxic-ig](https://github.com/toxic-ig)/[**PythonKeylogger**](https://github.com/toxic-ig/PythonKeylogger)|A remote keylogger with some cool features||
 |8|[@toxic-ig](https://github.com/toxic-ig)/[**pySE**](https://github.com/toxic-ig/pySE)|Small social engineering tool written in python2||
-|8|[@toxtli](https://github.com/toxtli)/[**deepiracy**](https://github.com/toxtli/deepiracy)|Deepiracy - Video piracy detection by using neural networks and string algorithms.|[:arrow_upper_right:](http://www.carlostoxtli.com/#repo-deepiracy)|
 |8|[@toxtli](https://github.com/toxtli)/[**word-predictor-word2vec-sklearn**](https://github.com/toxtli/word-predictor-word2vec-sklearn)|A very simple text predictor based in word vectors for categorizing never before seen text|[:arrow_upper_right:](http://www.carlostoxtli.com/#repo-word2vec)|
 |8|[@tpoisot](https://github.com/tpoisot)/[**bipy**](https://github.com/tpoisot/bipy)|Bipartite webs analysis using python|[:arrow_upper_right:](http://tpoisot.github.com/bipy/)|
 |8|[@trentm](https://github.com/trentm)/[**cutarelease**](https://github.com/trentm/cutarelease)|A script to help cutting releases of your projects in a single step (following some conventions).||
@@ -825,7 +835,6 @@
 |8|[@yushulx](https://github.com/yushulx)/[**crawl-404**](https://github.com/yushulx/crawl-404)|||
 |8|[@yushulx](https://github.com/yushulx)/[**webcam-barcode-reader**](https://github.com/yushulx/webcam-barcode-reader)|||
 |7|[@AlvinCJin](https://github.com/AlvinCJin)/[**deepreceipt-app**](https://github.com/AlvinCJin/deepreceipt-app)|A web application to process receipt images by Deep learning based OCR||
-|7|[@Denisolt](https://github.com/Denisolt)/[**flickr_downloader**](https://github.com/Denisolt/flickr_downloader)|tried downloading an entire album, could not. So here is the code to do so ||
 |7|[@Juniorn1003](https://github.com/Juniorn1003)/[**Email-Spammer**](https://github.com/Juniorn1003/Email-Spammer)|The Ultimate script for spamming email to annoy your friends.||
 |7|[@KleinYuan](https://github.com/KleinYuan)/[**tf-ft**](https://github.com/KleinYuan/tf-ft)|Implementation on tensorflow fine tuning of generic CNN based model||
 |7|[@MechanisM](https://github.com/MechanisM)/[**wagtail-constance**](https://github.com/MechanisM/wagtail-constance)|django-constance integration for Wagtail CMS||
@@ -839,7 +848,6 @@
 |7|[@azadi](https://github.com/azadi)/[**duality**](https://github.com/azadi/duality)|The social BitTorrent client|[:arrow_upper_right:](http://sukhbir.in/duality/)|
 |7|[@benbria](https://github.com/benbria)/[**ansible-coreos**](https://github.com/benbria/ansible-coreos)|||
 |7|[@benjie](https://github.com/benjie)/[**weechat-colloquy**](https://github.com/benjie/weechat-colloquy)|Colloquy iOS PUSH (APNS) support for Weechat relay/bouncer||
-|7|[@bennycheung](https://github.com/bennycheung)/[**PyDelaunay**](https://github.com/bennycheung/PyDelaunay)|Python implementation of Delaunay and Voronoi Tessellation||
 |7|[@bmcfee](https://github.com/bmcfee)/[**CDL**](https://github.com/bmcfee/CDL)|Convolutional dictionary learning and (sparse) coding||
 |7|[@burningion](https://github.com/burningion)/[**elasticAPI**](https://github.com/burningion/elasticAPI)|Example project using Tornado and Elasticsearch to build an API||
 |7|[@burningion](https://github.com/burningion)/[**sorting-visualized**](https://github.com/burningion/sorting-visualized)|Sorting Algorithms Visualized in Python||
@@ -850,17 +858,12 @@
 |7|[@coolacid](https://github.com/coolacid)/[**bfxtrade**](https://github.com/coolacid/bfxtrade)|No Longer Maintained -- Very Simple Trading bot for Bitfinex||
 |7|[@crankycoder](https://github.com/crankycoder)/[**hydra**](https://github.com/crankycoder/hydra)|A Python Bloomfilter||
 |7|[@danielmoniz](https://github.com/danielmoniz)/[**blackjack**](https://github.com/danielmoniz/blackjack)|An implementation of BlackJack for a job application.||
-|7|[@danielsnider](https://github.com/danielsnider)/[**follow_waypoints**](https://github.com/danielsnider/follow_waypoints)|Create and follow a set of navigation goals for use with ROS move_base|[:arrow_upper_right:](http://wiki.ros.org/follow_waypoints)|
-|7|[@danielsnider](https://github.com/danielsnider)/[**simple_drive**](https://github.com/danielsnider/simple_drive)|A simple ROS robot drive system.|[:arrow_upper_right:](http://wiki.ros.org/simple_drive)|
-|7|[@dharness](https://github.com/dharness)/[**seam_carving**](https://github.com/dharness/seam_carving)|Python Seam Carving module||
-|7|[@dukeng](https://github.com/dukeng)/[**Cover-Letter-Generator**](https://github.com/dukeng/Cover-Letter-Generator)|Generate Cover Letter based on your information! Automate date, names and reuse paragraphs||
 |7|[@ecjoliver](https://github.com/ecjoliver)/[**eddyTracking**](https://github.com/ecjoliver/eddyTracking)|Code for the detection and tracking of eddies, following Chelton et al. (Prog. Ocean., 2011) given a series of sea level maps.||
 |7|[@gabrielgrant](https://github.com/gabrielgrant)/[**django-ckeditor-filemodel-manager**](https://github.com/gabrielgrant/django-ckeditor-filemodel-manager)|Integrates CKEditor with files contained in Django models||
 |7|[@gabrielgrant](https://github.com/gabrielgrant)/[**python-pricing**](https://github.com/gabrielgrant/python-pricing)|Provides a declarative DSL to describe pricing models for recurringly billied products.||
 |7|[@hantek](https://github.com/hantek)/[**NeuroBricks**](https://github.com/hantek/NeuroBricks)|A theano wrapper for conveniently implementing, training and analyzing neural nets. ||
 |7|[@hantek](https://github.com/hantek)/[**zlinnet**](https://github.com/hantek/zlinnet)| Source code for ``How far can we go without convolution: Improving fully-connected networks'' published at ICLR 2016 workshop||
 |7|[@idreyn](https://github.com/idreyn)/[**mbta-realtime-led**](https://github.com/idreyn/mbta-realtime-led)|Code that powers the giant LED MBTA map on my wall||
-|7|[@jQwotos](https://github.com/jQwotos)/[**anime_scrapers**](https://github.com/jQwotos/anime_scrapers)|A collection of scrapers and downloaders that supports multiple anime streaming sites.||
 |7|[@johnboxall](https://github.com/johnboxall)/[**django-email-auth**](https://github.com/johnboxall/django-email-auth)|(Yet Another) Django Email Authentication Backend||
 |7|[@johnboxall](https://github.com/johnboxall)/[**django-testmonkey**](https://github.com/johnboxall/django-testmonkey)|Web interface for Django test runner.||
 |7|[@jonalmeida](https://github.com/jonalmeida)/[**hack-the-north-crazyflie**](https://github.com/jonalmeida/hack-the-north-crazyflie)|Crazyflie and Leapmotion project constructed on heavy amounts of sugar and caffeine in a few hours||
@@ -877,11 +880,10 @@
 |7|[@nayuki](https://github.com/nayuki)/[**Tablet-desk-clock**](https://github.com/nayuki/Tablet-desk-clock)|Software for displaying a clock on a tablet.|[:arrow_upper_right:](https://www.nayuki.io/page/tablet-desk-clock)|
 |7|[@onefinestay](https://github.com/onefinestay)/[**cinch**](https://github.com/onefinestay/cinch)|making CI a cinch||
 |7|[@palfrey](https://github.com/palfrey)/[**beeminder-calendar**](https://github.com/palfrey/beeminder-calendar)|Generator for "fail days calendar" for Beeminer|[:arrow_upper_right:](http://beeminder-calendar.herokuapp.com/)|
-|7|[@priya-dwivedi](https://github.com/priya-dwivedi)/[**Udacity-Machine-Learning-101**](https://github.com/priya-dwivedi/Udacity-Machine-Learning-101)|||
 |7|[@redhat-cip](https://github.com/redhat-cip)/[**dci-ansible**](https://github.com/redhat-cip/dci-ansible)|DCI Ansible modules and callback||
-|7|[@redhat-cip](https://github.com/redhat-cip)/[**swiftbackmeup**](https://github.com/redhat-cip/swiftbackmeup)|An utility that allows one to create backups and upload them to OpenStack Swift||
 |7|[@rosshamish](https://github.com/rosshamish)/[**catan-py**](https://github.com/rosshamish/catan-py)|models for representing and manipulating a game of catan||
 |7|[@ruyadorno](https://github.com/ruyadorno)/[**mail-sender**](https://github.com/ruyadorno/mail-sender)|A simple python script to send an html email using smtplib||
+|7|[@shah0150](https://github.com/shah0150)/[**Artificial-Neural-Networks-Visualizer**](https://github.com/shah0150/Artificial-Neural-Networks-Visualizer)|Visualizing Artificial Neural Networks (ANNs) with just One Line of Code||
 |7|[@siebenmann](https://github.com/siebenmann)/[**python-milter-tools**](https://github.com/siebenmann/python-milter-tools)|A pure-Python implementation of the sendmail milter protocol||
 |7|[@sixthgear](https://github.com/sixthgear)/[**texty**](https://github.com/sixthgear/texty)|A new MUD engine written with Python 3 and tornado. Features a rich web client and an advanced movement and ranged combat system.||
 |7|[@snwh](https://github.com/snwh)/[**icons**](https://github.com/snwh/icons)|Assorted icons by snwh||
@@ -892,11 +894,11 @@
 |7|[@wlach](https://github.com/wlach)/[**halifax-transit-feed**](https://github.com/wlach/halifax-transit-feed)|Compilable and useable Google Transit Feed for Halifax||
 |7|[@yoanisgil](https://github.com/yoanisgil)/[**django-simple-forum**](https://github.com/yoanisgil/django-simple-forum)|A very simple/minimalistic Django Forum||
 |7|[@yorkulibraries](https://github.com/yorkulibraries)/[**YUDLbot**](https://github.com/yorkulibraries/YUDLbot)|Bots that tweets random York University Digital Library content.|[:arrow_upper_right:](https://twitter.com/YUDLbot)|
-|6|[@AlexiaJM](https://github.com/AlexiaJM)/[**GANsBeyondDivergenceMin**](https://github.com/AlexiaJM/GANsBeyondDivergenceMin)|Code for replication of the paper "GANs beyond divergence minimization"||
 |6|[@Deimos](https://github.com/Deimos)/[**hot_sister**](https://github.com/Deimos/hot_sister)|A simple reddit API script that updates a subreddit's sidebar with the current hottest or newest posts from another subreddit||
 |6|[@JadenTravnik](https://github.com/JadenTravnik)/[**KanervaCoding**](https://github.com/JadenTravnik/KanervaCoding)|An opensource implementation of kanerva coding for use in reinforcement learning research||
 |6|[@KleinYuan](https://github.com/KleinYuan)/[**tf-segmentation**](https://github.com/KleinYuan/tf-segmentation)|Real-time semantic segmentation inference production ready code based on deeplab-resnet/psp-net and tensorflow||
 |6|[@Kulbear](https://github.com/Kulbear)/[**neeq_fetcher**](https://github.com/Kulbear/neeq_fetcher)|本项目主要用于从 全国中小企业股份转让系统 (NEEQ) 的官方网站上抓取一些公开的交易方面的数据||
+|6|[@LIVIAETS](https://github.com/LIVIAETS)/[**SizeLoss_WSS**](https://github.com/LIVIAETS/SizeLoss_WSS)|Code of our MIDL 2018 submission||
 |6|[@LazoCoder](https://github.com/LazoCoder)/[**Braille-Translator**](https://github.com/LazoCoder/Braille-Translator)|Translates standard alphabet based text to Grade 2 Braille and back.||
 |6|[@MarcelloLins](https://github.com/MarcelloLins)/[**WebCrawling101**](https://github.com/MarcelloLins/WebCrawling101)|Ever wanted to learn the basics of writing a Web Crawler / Scraper ? Look no further ! ||
 |6|[@MaximumEntropy](https://github.com/MaximumEntropy)/[**SanDeepLearn**](https://github.com/MaximumEntropy/SanDeepLearn)|Deep Learning library written on top of Theano||
@@ -969,10 +971,12 @@
 |6|[@michaelchum](https://github.com/michaelchum)/[**shows-alert**](https://github.com/michaelchum/shows-alert)|E-mail/SMS notifications to get you the latest shows|[:arrow_upper_right:](http://shows-alert.com)|
 |6|[@mikeboers](https://github.com/mikeboers)/[**structured-light**](https://github.com/mikeboers/structured-light)|3D scanning with a projector and video cameras.||
 |6|[@mricon](https://github.com/mricon)/[**openscap-oval-facter**](https://github.com/mricon/openscap-oval-facter)|Convert Openscap OVAL analysis into puppet facts||
+|6|[@mystor](https://github.com/mystor)/[**phlay**](https://github.com/mystor/phlay)|Phlay your commits onto Phabricator||
 |6|[@nickpresta](https://github.com/nickpresta)/[**StackTray**](https://github.com/nickpresta/StackTray)|A Python/Qt application utilizing the new StackOverflow API.||
 |6|[@pR0Ps](https://github.com/pR0Ps)/[**miniboa-py3**](https://github.com/pR0Ps/miniboa-py3)|A Python 3.x-Compatible Telnet Server Library||
 |6|[@pgoodman](https://github.com/pgoodman)/[**Python-Binary-Instrumenter**](https://github.com/pgoodman/Python-Binary-Instrumenter)|An example of how to do static assembly instrumentation with Python.||
 |6|[@pjkundert](https://github.com/pjkundert)/[**python-weather-api**](https://github.com/pjkundert/python-weather-api)|Fork of python-weather-api.googlecode.com SVN repository||
+|6|[@priya-dwivedi](https://github.com/priya-dwivedi)/[**Miscellaneous_Projects**](https://github.com/priya-dwivedi/Miscellaneous_Projects)|||
 |6|[@radiofrequency](https://github.com/radiofrequency)/[**redis-geo-ip-geodis**](https://github.com/radiofrequency/redis-geo-ip-geodis)|import geonames and ip2location to redis|[:arrow_upper_right:](https://www.datememe.com)|
 |6|[@redhat-cip](https://github.com/redhat-cip)/[**debtor**](https://github.com/redhat-cip/debtor)|Compute technical debt on rpm packages||
 |6|[@redhat-cip](https://github.com/redhat-cip)/[**neutron-l3-healthcheck**](https://github.com/redhat-cip/neutron-l3-healthcheck)|Check L3 agents and reschedule routers if an agent is down.||
@@ -983,7 +987,6 @@
 |6|[@rinze](https://github.com/rinze)/[**twitterlists2rss**](https://github.com/rinze/twitterlists2rss)|A script to transform Twitter lists into RSS feeds.||
 |6|[@robmoggach](https://github.com/robmoggach)/[**nuke-py**](https://github.com/robmoggach/nuke-py)|My self-curated collection of python tools for Nuke.||
 |6|[@scotchfield](https://github.com/scotchfield)/[**story-grammar**](https://github.com/scotchfield/story-grammar)|A grammar for generating stories||
-|6|[@shah0150](https://github.com/shah0150)/[**Artificial-Neural-Networks-Visualizer**](https://github.com/shah0150/Artificial-Neural-Networks-Visualizer)|Visualizing Artificial Neural Networks (ANNs) with just One Line of Code||
 |6|[@ssokolow](https://github.com/ssokolow)/[**gtk-recent-scrubber**](https://github.com/ssokolow/gtk-recent-scrubber)|Simple, lightweight daemon to prevent embarassing "Recently Used" entries in GTK+ applications|[:arrow_upper_right:](http://ssokolow.com/gtk-recent-scrubber/)|
 |6|[@tdryer](https://github.com/tdryer)/[**truenorth**](https://github.com/tdryer/truenorth)|library for parsing CSV usage history files for Compass Card||
 |6|[@toxtli](https://github.com/toxtli)/[**anti-piracy-video-detection-neural-networks-string-algorithms**](https://github.com/toxtli/anti-piracy-video-detection-neural-networks-string-algorithms)|||
@@ -999,12 +1002,12 @@
 |6|[@yushulx](https://github.com/yushulx)/[**web-document-scanner**](https://github.com/yushulx/web-document-scanner)|||
 |6|[@zhuzhuor](https://github.com/zhuzhuor)/[**cldict**](https://github.com/zhuzhuor/cldict)|A command-line English-Chinese dictionary||
 |6|[@zsck](https://github.com/zsck)/[**npm-to-git**](https://github.com/zsck/npm-to-git)|A simple tool to rewrite all your package dependencies to refer to git repositories so that we can move away from npm||
+|5|[@1vn](https://github.com/1vn)/[**mnist-adversarial**](https://github.com/1vn/mnist-adversarial)|end-to-end targgeted adversarial MNIST generator example||
 |5|[@500px](https://github.com/500px)/[**lambda_dd_metrics**](https://github.com/500px/lambda_dd_metrics)|Wrapper around reporting metrics to DataDog from AWS Lambda python functions||
 |5|[@AAFC-MBB](https://github.com/AAFC-MBB)/[**snakemake-mothur**](https://github.com/AAFC-MBB/snakemake-mothur)|Example of a snakemake workflow implementation of the mothur MiSEQ SOP||
 |5|[@AndreiBarsan](https://github.com/AndreiBarsan)/[**visualqa**](https://github.com/AndreiBarsan/visualqa)|Visual Question Answering project for ETHZ's 2016/17 Deep Learning class.||
 |5|[@CamDavidsonPilon](https://github.com/CamDavidsonPilon)/[**simpsons-paradox**](https://github.com/CamDavidsonPilon/simpsons-paradox)|use Python to detect Simpson's paradox||
 |5|[@Coldcard](https://github.com/Coldcard)/[**ckcc-protocol**](https://github.com/Coldcard/ckcc-protocol)|Python library and command line tool for communicating with your Coldcard over USB|[:arrow_upper_right:](https://coldcardwallet.com)|
-|5|[@LIVIAETS](https://github.com/LIVIAETS)/[**SizeLoss_WSS**](https://github.com/LIVIAETS/SizeLoss_WSS)|Code of our MIDL 2018 submission||
 |5|[@MJC17](https://github.com/MJC17)/[**SNKRS-Moniter**](https://github.com/MJC17/SNKRS-Moniter)|Keep Track of Sneaker Releases (Not Done, I well be changing the application into an Electron App)||
 |5|[@MechanisM](https://github.com/MechanisM)/[**mail**](https://github.com/MechanisM/mail)|the ultimate e-mail client||
 |5|[@Melinysh](https://github.com/Melinysh)/[**PyMake**](https://github.com/Melinysh/PyMake)|A Makefile generator in Python||
@@ -1031,9 +1034,9 @@
 |5|[@apetresc](https://github.com/apetresc)/[**pymainichigo**](https://github.com/apetresc/pymainichigo)|A beautiful and customizable wallpaper generator for the game of Go.|[:arrow_upper_right:](https://pypi.python.org/pypi/pymainichigo/1.0.0)|
 |5|[@arkon](https://github.com/arkon)/[**cdf-scrapers**](https://github.com/arkon/cdf-scrapers)|Web scraping scripts for CS Teaching Lab computer and printer status.||
 |5|[@bennycheung](https://github.com/bennycheung)/[**Food100_YOLO_Tools**](https://github.com/bennycheung/Food100_YOLO_Tools)|Python tools and configuration files for Food100 dataset DarkNet YOLO training||
-|5|[@breuleux](https://github.com/breuleux)/[**old_quaint**](https://github.com/breuleux/old_quaint)|New programming language|[:arrow_upper_right:](http://breuleux.net/quaint)|
 |5|[@burningion](https://github.com/burningion)/[**automatic-gifs**](https://github.com/burningion/automatic-gifs)|Automatic Gifs in Python with Mask R-CNN||
 |5|[@burningion](https://github.com/burningion)/[**singy-bird**](https://github.com/burningion/singy-bird)|Voice Controlled Flappy Bird ||
+|5|[@carrasqu](https://github.com/carrasqu)/[**QuantumMachineLearning**](https://github.com/carrasqu/QuantumMachineLearning)|Fully connected neural nets for supervised learning DQMC data||
 |5|[@carrasqu](https://github.com/carrasqu)/[**TensorFlow_Ising**](https://github.com/carrasqu/TensorFlow_Ising)|A tensorflow implementation of a simple neural net to classify ising states||
 |5|[@chfoo](https://github.com/chfoo)/[**spaghetti-logger**](https://github.com/chfoo/spaghetti-logger)|Twitch.tv chat logger||
 |5|[@clothbot](https://github.com/clothbot)/[**eda**](https://github.com/clothbot/eda)|Electronic Design Automation||
@@ -1054,11 +1057,13 @@
 |5|[@edenzik](https://github.com/edenzik)/[**SageGrades**](https://github.com/edenzik/SageGrades)|A simple Python script to get grades from Oracle PeopleSoft / Brandeis Sage||
 |5|[@elebumm](https://github.com/elebumm)/[**HowItsMadeBot**](https://github.com/elebumm/HowItsMadeBot)|A bot that creates gifs on the popular show "How it's made" and uploads periodically to reddit||
 |5|[@fictorial](https://github.com/fictorial)/[**pygame-capresize**](https://github.com/fictorial/pygame-capresize)|Stretchable images with end caps for Pygame||
+|5|[@gaborbernat](https://github.com/gaborbernat)/[**toxn**](https://github.com/gaborbernat/toxn)|toxn aims to automate and standardize testing in Python - next generation tox|[:arrow_upper_right:](https://toxn.readthedocs.io/en/latest/)|
 |5|[@gboudreau](https://github.com/gboudreau)/[**easymalt-local**](https://github.com/gboudreau/easymalt-local)|Easy mint Alternative - Personal financial management web-app: accounts aggregation, categorization, tagging, reporting.||
 |5|[@guillaume-chevalier](https://github.com/guillaume-chevalier)/[**AI-Planning-Solver-Shakeys-World-PDDL**](https://github.com/guillaume-chevalier/AI-Planning-Solver-Shakeys-World-PDDL)|Solving a planning problem (Shakey's World) with the FF and IPP planners, the PDDL language and some Python meta-programming to glue things together. |[:arrow_upper_right:](http://www.neuraxio.com/en/)|
 |5|[@guillaume-chevalier](https://github.com/guillaume-chevalier)/[**python-conv-lib**](https://github.com/guillaume-chevalier/python-conv-lib)|A lightweight library to do for-loop-styled convolution passes on your iterable objects (e.g.: on a list).|[:arrow_upper_right:](https://pypi.org/project/conv/)|
 |5|[@huitseeker](https://github.com/huitseeker)/[**git-wordcount**](https://github.com/huitseeker/git-wordcount)|An ad-hoc script to count words in my thesis repository, and build a status page using pygooglechart||
 |5|[@idbrii](https://github.com/idbrii)/[**git-submanage**](https://github.com/idbrii/git-submanage)|Simple scripts to manage git submodules||
+|5|[@insom](https://github.com/insom)/[**bmtu**](https://github.com/insom/bmtu)|SQLite3 + Python Twitter Backup Utility||
 |5|[@jasonish](https://github.com/jasonish)/[**ruledownloader**](https://github.com/jasonish/ruledownloader)|[ABANDONED] A tool for downloading and archiving Snort and Suricata rules.||
 |5|[@jasonish](https://github.com/jasonish)/[**ruleman**](https://github.com/jasonish/ruleman)|[ABANDONED] A tool for managing Snort and/or Suricata IDS rules.||
 |5|[@jessamynsmith](https://github.com/jessamynsmith)/[**pipwrap**](https://github.com/jessamynsmith/pipwrap)|Manages pip requirements files for multiple environments, e.g. production and development||
@@ -1083,7 +1088,6 @@
 |5|[@mgrouchy](https://github.com/mgrouchy)/[**django-socketio**](https://github.com/mgrouchy/django-socketio)|A Socket.IO app for django||
 |5|[@movermeyer](https://github.com/movermeyer)/[**PyPipBadgeFixBot**](https://github.com/movermeyer/PyPipBadgeFixBot)|A bot that can fix broken pypip.in badges in READMEs and automatically create pull requests with the changes||
 |5|[@mverteuil](https://github.com/mverteuil)/[**pdbpp**](https://github.com/mverteuil/pdbpp)|Cloned from original project on BitBucket. I prefer GitHub.||
-|5|[@mystor](https://github.com/mystor)/[**phlay**](https://github.com/mystor/phlay)|Phlay your commits onto Phabricator||
 |5|[@nadirhamid](https://github.com/nadirhamid)/[**oneline**](https://github.com/nadirhamid/oneline)|An MVC based websocket framework||
 |5|[@nadirhamid](https://github.com/nadirhamid)/[**oneline-py**](https://github.com/nadirhamid/oneline-py)|An MVC based websocket framework||
 |5|[@nadirhamid](https://github.com/nadirhamid)/[**websockmvc**](https://github.com/nadirhamid/websockmvc)|An MVC based websocket framework||
@@ -1095,7 +1099,6 @@
 |5|[@perone](https://github.com/perone)/[**pyearthquake**](https://github.com/perone/pyearthquake)|Python module for USGS, MODIS RapidFire data|[:arrow_upper_right:](http://pyevolve.sourceforge.net/wordpress/?p=1013)|
 |5|[@phuang](https://github.com/phuang)/[**totem-plugin-airplay**](https://github.com/phuang/totem-plugin-airplay)|||
 |5|[@piborg](https://github.com/piborg)/[**monster-self-drive**](https://github.com/piborg/monster-self-drive)|Easy to understand self-driving example for MonsterBorg||
-|5|[@priya-dwivedi](https://github.com/priya-dwivedi)/[**Miscellaneous_Projects**](https://github.com/priya-dwivedi/Miscellaneous_Projects)|||
 |5|[@radekstepan](https://github.com/radekstepan)/[**FlaskBudget**](https://github.com/radekstepan/FlaskBudget)|A Budget application for couples in Flask||
 |5|[@redhat-cip](https://github.com/redhat-cip)/[**python-dciclient**](https://github.com/redhat-cip/python-dciclient)|Python client for the DCI control server||
 |5|[@redhat-cip](https://github.com/redhat-cip)/[**swift-middleware-sample**](https://github.com/redhat-cip/swift-middleware-sample)|Example how to develop wsgi and Swift middlewares||
@@ -1121,7 +1124,6 @@
 |5|[@timsutton](https://github.com/timsutton)/[**adobe-ccp-automation**](https://github.com/timsutton/adobe-ccp-automation)|Experimenting with automating CCP||
 |5|[@timsutton](https://github.com/timsutton)/[**brew-stew**](https://github.com/timsutton/brew-stew)|Monolithic homebrew packages for dev environment deployment||
 |5|[@toxic-ig](https://github.com/toxic-ig)/[**ChromeCastHacking**](https://github.com/toxic-ig/ChromeCastHacking)|Gain access to chromecasts without connecting to them or needing a pin||
-|5|[@toxic-ig](https://github.com/toxic-ig)/[**RouterBrute**](https://github.com/toxic-ig/RouterBrute)|RouterBrute can Bruteforce/Dictionary attack the login for the Router's Login page||
 |5|[@trentm](https://github.com/trentm)/[**which**](https://github.com/trentm/which)|A portal Python GNU which replacement||
 |5|[@trishume](https://github.com/trishume)/[**SublimeTect**](https://github.com/trishume/SublimeTect)|Control scheme like Vim but with mode switching through pressing palm keys on fancy keyboards.||
 |5|[@veloutin](https://github.com/veloutin)/[**plow**](https://github.com/veloutin/plow)|python-ldap object wrapper||
@@ -1130,7 +1132,6 @@
 |5|[@zsck](https://github.com/zsck)/[**LAMMBot**](https://github.com/zsck/LAMMBot)|A Markov-Chain Chatbot to replace LAMMJohnson during his time of absence. ||
 |5|[@zsck](https://github.com/zsck)/[**Relae**](https://github.com/zsck/Relae)|Reminder and notification-handling server||
 |5|[@zsck](https://github.com/zsck)/[**result_py**](https://github.com/zsck/result_py)|A Result type much like Rust's, featuring generics and lovely combinators.||
-|4|[@1vn](https://github.com/1vn)/[**mnist-adversarial**](https://github.com/1vn/mnist-adversarial)|end-to-end targgeted adversarial MNIST generator example||
 |4|[@AdamIsrael](https://github.com/AdamIsrael)/[**reddit-charm**](https://github.com/AdamIsrael/reddit-charm)|A juju charm to install reddit||
 |4|[@Akollek](https://github.com/Akollek)/[**Raspberry_Pi_projects**](https://github.com/Akollek/Raspberry_Pi_projects)|A collection of all my raspberry pi projects||
 |4|[@Astroua](https://github.com/Astroua)/[**SCIMES**](https://github.com/Astroua/SCIMES)|Spectral Clustering for Interstellar Molecular Emission Segmentation|[:arrow_upper_right:](http://scimes.readthedocs.org/)|
@@ -1147,6 +1148,7 @@
 |4|[@DenisCarriere](https://github.com/DenisCarriere)/[**geonames**](https://github.com/DenisCarriere/geonames)|Geonames parser into OGR Shapefile||
 |4|[@DenisCarriere](https://github.com/DenisCarriere)/[**gpsimage**](https://github.com/DenisCarriere/gpsimage)|📷 GPSImage - Retrieves GPS data from Geo-referenced Photos||
 |4|[@DrDub](https://github.com/DrDub)/[**namegen**](https://github.com/DrDub/namegen)|Creates human readable names for hashes||
+|4|[@FitMachineLearning](https://github.com/FitMachineLearning)/[**PPO-Keras**](https://github.com/FitMachineLearning/PPO-Keras)|Keras Implementation of PPO to solve OpenAI Gym Environments||
 |4|[@GhostBSD](https://github.com/GhostBSD)/[**gbi**](https://github.com/GhostBSD/gbi)|gbi a graphical user interface for pc-sysinstall to install FreeBSD base system form live DVD/USB|[:arrow_upper_right:](https://github.com/GhostBSD/gbi)|
 |4|[@IIMUS](https://github.com/IIMUS)/[**tictactoe**](https://github.com/IIMUS/tictactoe)|Projet-pilote de l'IIMUS, il s'agit d'un jeu de tic tac toe sur ordinateur. Le projet sera créé en Python.||
 |4|[@KevinHock](https://github.com/KevinHock)/[**rtdpyt**](https://github.com/KevinHock/rtdpyt)|||
@@ -1172,18 +1174,19 @@
 |4|[@bishesh](https://github.com/bishesh)/[**statsCompare-RiemannianManifold-Groups**](https://github.com/bishesh/statsCompare-RiemannianManifold-Groups)|A set of matlab codes to explore the differences in statistics on Riemannian manifold and groups. ||
 |4|[@bmcfee](https://github.com/bmcfee)/[**rhythm-analysis**](https://github.com/bmcfee/rhythm-analysis)|LabROSA rhythm and onset analysis||
 |4|[@bmcfee](https://github.com/bmcfee)/[**seymour**](https://github.com/bmcfee/seymour)|Integrating gordon with librosa analysis||
+|4|[@breuleux](https://github.com/breuleux)/[**old_quaint**](https://github.com/breuleux/old_quaint)|New programming language|[:arrow_upper_right:](http://breuleux.net/quaint)|
 |4|[@bsandrow](https://github.com/bsandrow)/[**pytee**](https://github.com/bsandrow/pytee)|An implementation of tee for use in Python||
 |4|[@bsandrow](https://github.com/bsandrow)/[**python-flvid**](https://github.com/bsandrow/python-flvid)|Framework for extracting flash videos||
 |4|[@burningion](https://github.com/burningion)/[**10-print-python-pygame**](https://github.com/burningion/10-print-python-pygame)|Recreating 10 PRINT in Python 3 and Pygame|[:arrow_upper_right:](https://www.makeartwithpython.com/blog/10-print-in-python/)|
 |4|[@burningion](https://github.com/burningion)/[**critter-and-guitari-etc-programs**](https://github.com/burningion/critter-and-guitari-etc-programs)|Example Programs in Pygame for the Critter and Guitari ETC||
 |4|[@burningion](https://github.com/burningion)/[**slitscan-images-python**](https://github.com/burningion/slitscan-images-python)|Generating slit scan images from videos in Python||
 |4|[@candu](https://github.com/candu)/[**pycon2012**](https://github.com/candu/pycon2012)|random jots from PyCon 2012||
-|4|[@carrasqu](https://github.com/carrasqu)/[**QuantumMachineLearning**](https://github.com/carrasqu/QuantumMachineLearning)|Fully connected neural nets for supervised learning DQMC data||
 |4|[@cboulay](https://github.com/cboulay)/[**magstim_python**](https://github.com/cboulay/magstim_python)|Control and query your Magstim TMS device in Python.||
 |4|[@cbrummitt](https://github.com/cbrummitt)/[**Suppressing-cascades-of-load-on-interdependent-networks**](https://github.com/cbrummitt/Suppressing-cascades-of-load-on-interdependent-networks)|Python code for simulations associated with the paper "Suppressing cascades of load in interdependent networks" (PNAS 2012)||
 |4|[@cdelahousse](https://github.com/cdelahousse)/[**Kindle-Display-And-Server**](https://github.com/cdelahousse/Kindle-Display-And-Server)|Turning the kindle into a low power passive information displayer.||
 |4|[@chfoo](https://github.com/chfoo)/[**huhhttp**](https://github.com/chfoo/huhhttp)|An evil web server.|[:arrow_upper_right:](http://smaug.fart.website/)|
 |4|[@chfoo](https://github.com/chfoo)/[**notaol**](https://github.com/chfoo/notaol)|AOL P3 and FDO client||
+|4|[@christopher-dG](https://github.com/christopher-dG)/[**osu-bot**](https://github.com/christopher-dG/osu-bot)|/r/osugame's benevolent robot overlord|[:arrow_upper_right:](https://reddit.com/u/osu-bot)|
 |4|[@codyd51](https://github.com/codyd51)/[**castle**](https://github.com/codyd51/castle)|||
 |4|[@crielly](https://github.com/crielly)/[**amidestroyer**](https://github.com/crielly/amidestroyer)|Tool for keeping AMIs and associated snapshots under control||
 |4|[@csabahruska](https://github.com/csabahruska)/[**lambdacube.addon**](https://github.com/csabahruska/lambdacube.addon)|LambdaCube Blender addon||
@@ -1219,7 +1222,6 @@
 |4|[@hsoft](https://github.com/hsoft)/[**semnews**](https://github.com/hsoft/semnews)|Semantic annotation of news articles||
 |4|[@hsoft](https://github.com/hsoft)/[**toodamnbig**](https://github.com/hsoft/toodamnbig)|Tell that ninja dev to get off your lawn!||
 |4|[@hsoft](https://github.com/hsoft)/[**xibless**](https://github.com/hsoft/xibless)|Cocoa UIs through code generation instead of XIBs||
-|4|[@insom](https://github.com/insom)/[**bmtu**](https://github.com/insom/bmtu)|SQLite3 + Python Twitter Backup Utility||
 |4|[@itarato](https://github.com/itarato)/[**drupal-module-renamer**](https://github.com/itarato/drupal-module-renamer)|Drupal module renamer||
 |4|[@jdufresne](https://github.com/jdufresne)/[**fakesmtpd**](https://github.com/jdufresne/fakesmtpd)|Fake SMTP Server||
 |4|[@jessamynsmith](https://github.com/jessamynsmith)/[**pipreq**](https://github.com/jessamynsmith/pipreq)|Utility for managing package requirements across multiple environments||
@@ -1298,6 +1300,7 @@
 |4|[@thoughtworks](https://github.com/thoughtworks)/[**level-up**](https://github.com/thoughtworks/level-up)|||
 |4|[@tokenrove](https://github.com/tokenrove)/[**advent-of-code-2017**](https://github.com/tokenrove/advent-of-code-2017)||[:arrow_upper_right:](http://adventofcode.com)|
 |4|[@tomwilkie](https://github.com/tomwilkie)/[**aws-self-serve**](https://github.com/tomwilkie/aws-self-serve)|A self service portal for ec2 instances||
+|4|[@toxic-ig](https://github.com/toxic-ig)/[**RouterBrute**](https://github.com/toxic-ig/RouterBrute)|RouterBrute can Bruteforce/Dictionary attack the login for the Router's Login page||
 |4|[@toxic-ig](https://github.com/toxic-ig)/[**Trity**](https://github.com/toxic-ig/Trity)|Trity is an advanced pen-testing framework dedicated to everything from cryptography to spoofing.||
 |4|[@toxtli](https://github.com/toxtli)/[**rss-feed-crawler-cron-python-mongodb**](https://github.com/toxtli/rss-feed-crawler-cron-python-mongodb)|Very short example of how extract news from a RSS source and store the results in MongoDB. It runs every certain period of time.|[:arrow_upper_right:](http://carlostoxtli.com/#repo-rss)|
 |4|[@toxtli](https://github.com/toxtli)/[**youtubell**](https://github.com/toxtli/youtubell)|Change youtube for youtubell in any video URL that you want to download.|[:arrow_upper_right:](http://www.carlostoxtli.com)|
@@ -1330,7 +1333,6 @@
 |3|[@DarioGT](https://github.com/DarioGT)/[**django-jsonfield2**](https://github.com/DarioGT/django-jsonfield2)|flexible quering JSONField and associated form field||
 |3|[@DenisCarriere](https://github.com/DenisCarriere)/[**permits**](https://github.com/DenisCarriere/permits)|:construction: Construction Permits - City of Ottawa|[:arrow_upper_right:](http://deniscarriere.github.io/permits)|
 |3|[@DrDub](https://github.com/DrDub)/[**farmer_text_support**](https://github.com/DrDub/farmer_text_support)|SMS <-> Recorded Phone Calls Community Knowledge Base||
-|3|[@FitMachineLearning](https://github.com/FitMachineLearning)/[**PPO-Keras**](https://github.com/FitMachineLearning/PPO-Keras)|Keras Implementation of PPO to solve OpenAI Gym Environments||
 |3|[@FitMachineLearning](https://github.com/FitMachineLearning)/[**SpaceX_Rocket_Landing**](https://github.com/FitMachineLearning/SpaceX_Rocket_Landing)|OpenAI gym extension of Simulated SpaceX rocket landing. The repository also contains a solution using DDSM (Deep Deterministic Selective Memory)||
 |3|[@GabLeRoux](https://github.com/GabLeRoux)/[**django-multitable-inheritance**](https://github.com/GabLeRoux/django-multitable-inheritance)|django sample app to demonstrate model inheritance <3|[:arrow_upper_right:](https://godjango.com/blog/django-abstract-base-class-multi-table-inheritance/)|
 |3|[@GhostBSD](https://github.com/GhostBSD)/[**update-station**](https://github.com/GhostBSD/update-station)|GhostBSD update manager||
@@ -1356,6 +1358,7 @@
 |3|[@aalex](https://github.com/aalex)/[**txosc**](https://github.com/aalex/txosc)|Implementation of the OSC protocol for Twisted (http://twistedmatrix.com/trac/).||
 |3|[@abh1nav](https://github.com/abh1nav)/[**ezrpc**](https://github.com/abh1nav/ezrpc)|Easy to use ZeroMQ based RPC library||
 |3|[@abramhindle](https://github.com/abramhindle)/[**Unity-Egg-Timer**](https://github.com/abramhindle/Unity-Egg-Timer)|Unity Egg Timer -- A timer applet like timer-applet for gnome but for Unity||
+|3|[@adambard](https://github.com/adambard)/[**steam-liquidator**](https://github.com/adambard/steam-liquidator)|Sell all your Steam items for cents upon cents!||
 |3|[@adamhooper](https://github.com/adamhooper)/[**gphotos-upload**](https://github.com/adamhooper/gphotos-upload)|Upload a directory of photos to Google Photos from the command line||
 |3|[@aerler](https://github.com/aerler)/[**Ensemble**](https://github.com/aerler/Ensemble)|A generic Ensemble class||
 |3|[@aidangomez](https://github.com/aidangomez)/[**deep-ideas**](https://github.com/aidangomez/deep-ideas)|A very simple deep learning project template to quickly test an idea. Based on:|[:arrow_upper_right:](https://github.com/for-ai/CipherGAN)|
@@ -1396,7 +1399,6 @@
 |3|[@chfoo](https://github.com/chfoo)/[**ttvsnap**](https://github.com/chfoo/ttvsnap)|Save Twitch screenshots using Twitch API preview thumbnails||
 |3|[@christopher-dG](https://github.com/christopher-dG)/[**dotfiles**](https://github.com/christopher-dG/dotfiles)|Linux configs and such||
 |3|[@christopher-dG](https://github.com/christopher-dG)/[**dotfiles-old**](https://github.com/christopher-dG/dotfiles-old)|Linux configs and such||
-|3|[@christopher-dG](https://github.com/christopher-dG)/[**osu-bot**](https://github.com/christopher-dG/osu-bot)|/r/osugame's benevolent robot overlord|[:arrow_upper_right:](https://reddit.com/u/osu-bot)|
 |3|[@cjauvin](https://github.com/cjauvin)/[**autocomplete-tribute**](https://github.com/cjauvin/autocomplete-tribute)|A tribute to the autocomplete UI pattern using Python-Flask, ExtJS and PostgreSQL||
 |3|[@clothbot](https://github.com/clothbot)/[**cppheaderparser**](https://github.com/clothbot/cppheaderparser)|Play copy of http://sourceforge.net/projects/cppheaderparser/ version 2.3||
 |3|[@colinoflynn](https://github.com/colinoflynn)/[**chmt36va_hints**](https://github.com/colinoflynn/chmt36va_hints)|Charmin-High CHMT36VA Notes/Documentation||
@@ -1420,7 +1422,6 @@
 |3|[@fedezarf](https://github.com/fedezarf)/[**topic-specific-recommendation**](https://github.com/fedezarf/topic-specific-recommendation)|Topic Specific Recommendation using PageRank||
 |3|[@flovilmart](https://github.com/flovilmart)/[**pysqsd**](https://github.com/flovilmart/pysqsd)|Python SQS worker for AWS SQS à la aws-sqsd||
 |3|[@fmarier](https://github.com/fmarier)/[**hsts-check**](https://github.com/fmarier/hsts-check)|Check lists of websites for HSTS support||
-|3|[@gaborbernat](https://github.com/gaborbernat)/[**toxn**](https://github.com/gaborbernat/toxn)|toxn aims to automate and standardize testing in Python - next generation tox|[:arrow_upper_right:](https://toxn.readthedocs.io/en/latest/)|
 |3|[@gabrielgrant](https://github.com/gabrielgrant)/[**callaborate**](https://github.com/gabrielgrant/callaborate)|Basic auto-dialing call tool||
 |3|[@gabrielgrant](https://github.com/gabrielgrant)/[**django-data-mover**](https://github.com/gabrielgrant/django-data-mover)|Packs all data needed to move a full Django project between machines||
 |3|[@gabrielgrant](https://github.com/gabrielgrant)/[**django-filepathfield-migrator**](https://github.com/gabrielgrant/django-filepathfield-migrator)|django-filepathfield-migrator provides management commands to fix
@@ -1429,6 +1430,7 @@ FilePathFields after migration.||
 |3|[@gabrielgrant](https://github.com/gabrielgrant)/[**django-secret-santa**](https://github.com/gabrielgrant/django-secret-santa)|||
 |3|[@gabrielgrant](https://github.com/gabrielgrant)/[**django-staticpages**](https://github.com/gabrielgrant/django-staticpages)|For when you don't need no stinkin' CMS (just templates)||
 |3|[@gdrouart](https://github.com/gdrouart)/[**MrMoose**](https://github.com/gdrouart/MrMoose)|||
+|3|[@geekforbrains](https://github.com/geekforbrains)/[**django-workers**](https://github.com/geekforbrains/django-workers)|Simple background tasks for Django||
 |3|[@ghantoos](https://github.com/ghantoos)/[**debian-nagios-plugins-openstack**](https://github.com/ghantoos/debian-nagios-plugins-openstack)|nagios-plugins-openstack Debian packaging files||
 |3|[@hallamlab](https://github.com/hallamlab)/[**utilities**](https://github.com/hallamlab/utilities)|A repository of bioinformatics utilities and scripts commonly used in the Steven J. Hallam Laboratory in the Microbiology & Immunology Department of the University of British Columbia (UBC), Vancouver, British Columbia, Canada.|[:arrow_upper_right:](http://hallam.microbiology.ubc.ca/)|
 |3|[@hantek](https://github.com/hantek)/[**binary_conv**](https://github.com/hantek/binary_conv)|binary connected convolutional nets||
@@ -1545,6 +1547,7 @@ FilePathFields after migration.||
 |3|[@shiroyuki](https://github.com/shiroyuki)/[**Tori**](https://github.com/shiroyuki/Tori)|Tornado-based Micro Web Framework||
 |3|[@shiroyuki](https://github.com/shiroyuki)/[**gallium**](https://github.com/shiroyuki/gallium)|A Micro CLI Framework for Python Programming Language||
 |3|[@siebenmann](https://github.com/siebenmann)/[**portnanny**](https://github.com/siebenmann/portnanny)|A powerful inetd-like frontend for a single TCP service, with a great deal of filtering power.||
+|3|[@simark](https://github.com/simark)/[**ls-interact**](https://github.com/simark/ls-interact)|||
 |3|[@skrat](https://github.com/skrat)/[**pycarve**](https://github.com/skrat/pycarve)|Python wrapper for Carve CSG library|[:arrow_upper_right:](http://carve-csg.com)|
 |3|[@slgobinath](https://github.com/slgobinath)/[**safeeyes-plugins**](https://github.com/slgobinath/safeeyes-plugins)|Thirdparty plugins for Safe Eyes||
 |3|[@snormore](https://github.com/snormore)/[**django-mongoreversion**](https://github.com/snormore/django-mongoreversion)|An extension to the Django web framework that provides version control facilities for mongoengine document models.||
