@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|887|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatMagician**](https://github.com/Gh0u1L5/WechatMagician)|WechatMagician is a Xposed module written in Kotlin, that allows you to completely control your Wechat.|[:arrow_upper_right:](http://repo.xposed.info/module/com.gh0u1l5.wechatmagician)|
-|485|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatSpellbook**](https://github.com/Gh0u1L5/WechatSpellbook)|Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架，底层需要 Xposed 或 VirtualXposed 等Hooking框架的支持，而顶层可以轻松对接Java、Kotlin、Scala等JVM系语言。让程序员能够在几分钟内编写出简单的微信插件，随意揉捏微信的内部逻辑。||
-|218|[@rock3r](https://github.com/rock3r)/[**deep-clean**](https://github.com/rock3r/deep-clean)|A Kotlin script that nukes all build caches from Gradle/Android projects. Useful when Gradle or the IDE let you down 💔||
+|896|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatMagician**](https://github.com/Gh0u1L5/WechatMagician)|WechatMagician is a Xposed module written in Kotlin, that allows you to completely control your Wechat.|[:arrow_upper_right:](http://repo.xposed.info/module/com.gh0u1l5.wechatmagician)|
+|490|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatSpellbook**](https://github.com/Gh0u1L5/WechatSpellbook)|Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架，底层需要 Xposed 或 VirtualXposed 等Hooking框架的支持，而顶层可以轻松对接Java、Kotlin、Scala等JVM系语言。让程序员能够在几分钟内编写出简单的微信插件，随意揉捏微信的内部逻辑。||
+|219|[@rock3r](https://github.com/rock3r)/[**deep-clean**](https://github.com/rock3r/deep-clean)|A Kotlin script that nukes all build caches from Gradle/Android projects. Useful when Gradle or the IDE let you down 💔||
 |135|[@Jerry1211](https://github.com/Jerry1211)/[**RadarProject**](https://github.com/Jerry1211/RadarProject)|Very Meme Radar|[:arrow_upper_right:](http://VMRadar.net)|
 |95|[@henrytao-me](https://github.com/henrytao-me)/[**livedata-ktx**](https://github.com/henrytao-me/livedata-ktx)|Kotlin extension for LiveData, chaining like RxJava||
 |87|[@rock3r](https://github.com/rock3r)/[**uplift**](https://github.com/rock3r/uplift)|A playground for elevation on Android||
@@ -17,9 +17,9 @@
 |16|[@oldergod](https://github.com/oldergod)/[**red**](https://github.com/oldergod/red)|Android app of the tvfoot.net service|[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.benoitquenaudon.tvfoot.red)|
 |15|[@kailan](https://github.com/kailan)/[**kodeinject**](https://github.com/kailan/kodeinject)|:gear: Constructor dependency injection for Kodein.||
 |9|[@nareshidiga](https://github.com/nareshidiga)/[**Android-CleanArchitecture-Kotlin**](https://github.com/nareshidiga/Android-CleanArchitecture-Kotlin)|An Android Kotlin project template based on Clean Architecture using architecture components (Live data, View model and Room), RxJava2, Dagger2 and Retrofit2.||
+|8|[@cesarferreira](https://github.com/cesarferreira)/[**faker**](https://github.com/cesarferreira/faker)|A kotlin extension to load images asynchronously on android||
 |8|[@ersin-ertan](https://github.com/ersin-ertan)/[**LearnKategory**](https://github.com/ersin-ertan/LearnKategory)|Learn Functional Programming with Kategory||
 |8|[@ibinti](https://github.com/ibinti)/[**bugvm-ios**](https://github.com/ibinti/bugvm-ios)|Native iOS App Examples||
-|7|[@cesarferreira](https://github.com/cesarferreira)/[**faker**](https://github.com/cesarferreira/faker)|A kotlin extension to load images asynchronously on android||
 |7|[@swankjesse](https://github.com/swankjesse)/[**maintainability**](https://github.com/swankjesse/maintainability)| Code examples from my 2018 tech talk on maintainability||
 |6|[@rocketraman](https://github.com/rocketraman)/[**kotlin-web-hello-world**](https://github.com/rocketraman/kotlin-web-hello-world)|||
 |6|[@vsch](https://github.com/vsch)/[**PluginDevelopersToolbox**](https://github.com/vsch/PluginDevelopersToolbox)|Collection of useful extensions for plugin developers||

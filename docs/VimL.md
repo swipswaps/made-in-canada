@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |189|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
-|147|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
+|148|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |87|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|:rocket: Quickly init a slightly better Vim.||
 |50|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
 |45|[@ujihisa](https://github.com/ujihisa)/[**unite-colorscheme**](https://github.com/ujihisa/unite-colorscheme)|A unite.vim plugin||
@@ -36,10 +36,10 @@
 |7|[@ujihisa](https://github.com/ujihisa)/[**neochat.vim**](https://github.com/ujihisa/neochat.vim)|a comprehensive pluggable chat Vim plugin||
 |7|[@ujihisa](https://github.com/ujihisa)/[**tabpagecolorscheme**](https://github.com/ujihisa/tabpagecolorscheme)|Vim colorscheme on each tabs||
 |6|[@billkeys](https://github.com/billkeys)/[**Documentation**](https://github.com/billkeys/Documentation)|||
+|6|[@gmarik](https://github.com/gmarik)/[**ingretu**](https://github.com/gmarik/ingretu)|a Vim GUI color scheme|[:arrow_upper_right:](http://github.com/gmarik/ingretu)|
 |6|[@ujihisa](https://github.com/ujihisa)/[**nclipper.vim**](https://github.com/ujihisa/nclipper.vim)|copy lines into clipboard with the line numbers||
 |6|[@ujihisa](https://github.com/ujihisa)/[**unite-rake**](https://github.com/ujihisa/unite-rake)|A Unite.vim plugin to run tasks or to view descriptions easily, using rake command||
 |5|[@chasinglogic](https://github.com/chasinglogic)/[**ChasingLogic-colorscheme-vim**](https://github.com/chasinglogic/ChasingLogic-colorscheme-vim)|The color scheme I created for myself. Thought it might be of use to others.||
-|5|[@gmarik](https://github.com/gmarik)/[**ingretu**](https://github.com/gmarik/ingretu)|a Vim GUI color scheme|[:arrow_upper_right:](http://github.com/gmarik/ingretu)|
 |5|[@idbrii](https://github.com/idbrii)/[**vim-focusclip**](https://github.com/idbrii/vim-focusclip)|Integrate vim and system clipboard without breaking your workflow.||
 |5|[@iurimatias](https://github.com/iurimatias)/[**jump-tracker**](https://github.com/iurimatias/jump-tracker)|Vim plugin that tracks your cursor when it 'jumps'||
 |5|[@mrandrewandrade](https://github.com/mrandrewandrade)/[**dotfiles**](https://github.com/mrandrewandrade/dotfiles)|A gnarly system manager and portable dotfiles generator|[:arrow_upper_right:](http://mrandrewandrade.com/dotfiles)|

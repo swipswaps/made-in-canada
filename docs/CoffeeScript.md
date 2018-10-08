@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1487|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
-|1330|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )|[:arrow_upper_right:](http://unibeautify.com/)|
+|1488|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
+|1331|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )|[:arrow_upper_right:](http://unibeautify.com/)|
 |427|[@keithamus](https://github.com/keithamus)/[**parallelshell**](https://github.com/keithamus/parallelshell)|Run multiple shell commands in parallel||
 |395|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls|[:arrow_upper_right:](https://echoplex.us)|
 |230|[@EtienneLem](https://github.com/EtienneLem)/[**skeleton**](https://github.com/EtienneLem/skeleton)|Express 3.0 framework-less app structure generator|[:arrow_upper_right:](http://etiennelem.github.com/skeleton)|
@@ -31,14 +31,14 @@
 |53|[@Glavin001](https://github.com/Glavin001)/[**atom-preview**](https://github.com/Glavin001/atom-preview)|:construction: (NO LONGER MAINTAINED) :construction: -  :eyeglasses: Ultimate previewer of source code in Atom.|[:arrow_upper_right:](https://atom.io/packages/preview)|
 |47|[@wmora](https://github.com/wmora)/[**angular-espresso**](https://github.com/wmora/angular-espresso)|Based on angular-seed, a starting point for writing an AngularJS app running on an Express backend, written in CoffeeScript||
 |46|[@0xfe](https://github.com/0xfe)/[**fretboard**](https://github.com/0xfe/fretboard)|Vex Fretboard as seen on my.vexflow.com.||
+|42|[@wvanbergen](https://github.com/wvanbergen)/[**node-vertica**](https://github.com/wvanbergen/node-vertica)|Pure javascript Vertica database client. Except it is written in CoffeeScript.||
 |41|[@raganwald](https://github.com/raganwald)/[**Underscore-Matchers-for-Jasmine**](https://github.com/raganwald/Underscore-Matchers-for-Jasmine)|||
-|41|[@wvanbergen](https://github.com/wvanbergen)/[**node-vertica**](https://github.com/wvanbergen/node-vertica)|Pure javascript Vertica database client. Except it is written in CoffeeScript.||
 |39|[@dpo](https://github.com/dpo)/[**atom-python-debugger**](https://github.com/dpo/atom-python-debugger)|IDE-like Python debugger for Atom||
+|34|[@HappenApps](https://github.com/HappenApps)/[**quiver2html**](https://github.com/HappenApps/quiver2html)|A utility to convert a Quiver notebook or note to HTML.||
 |34|[@kmalakoff](https://github.com/kmalakoff)/[**json-serialize**](https://github.com/kmalakoff/json-serialize)|JSON-Serialize.js provides conventions and helpers to manage serialization and deserialization of instances to/from JSON||
-|33|[@HappenApps](https://github.com/HappenApps)/[**quiver2html**](https://github.com/HappenApps/quiver2html)|A utility to convert a Quiver notebook or note to HTML.||
 |32|[@srsgores](https://github.com/srsgores)/[**generator-joomla-component**](https://github.com/srsgores/generator-joomla-component)|yeoman generator for joomla components||
 |31|[@raganwald](https://github.com/raganwald)/[**cafeaulife**](https://github.com/raganwald/cafeaulife)|Gosper’s HashLife in CoffeeScript|[:arrow_upper_right:](http://recursiveuniver.se)|
-|25|[@benbria](https://github.com/benbria)/[**node-bunyan-lumberjack**](https://github.com/benbria/node-bunyan-lumberjack)|Send bunyan logs to logstash using the lumberjack protocol.||
+|26|[@benbria](https://github.com/benbria)/[**node-bunyan-lumberjack**](https://github.com/benbria/node-bunyan-lumberjack)|Send bunyan logs to logstash using the lumberjack protocol.||
 |24|[@Glavin001](https://github.com/Glavin001)/[**atom-gitter**](https://github.com/Glavin001/atom-gitter)|(UNMAINTAINED) :calling: Gitter chat integration with Atom.io|[:arrow_upper_right:](https://atom.io/packages/gitter)|
 |24|[@benbria](https://github.com/benbria)/[**dashing-client**](https://github.com/benbria/dashing-client)|Client for sending data to Dashing from node.js||
 |24|[@wa0x6e](https://github.com/wa0x6e)/[**dashing-resque**](https://github.com/wa0x6e/dashing-resque)|Resque dashing widget to monitor resque jobs, queues and worker activities.||
@@ -74,6 +74,7 @@
 |10|[@radekstepan](https://github.com/radekstepan)/[**nzb-grabber-js**](https://github.com/radekstepan/nzb-grabber-js)|Download/grab binary posts from NNTP (Usenet) servers using Node.js||
 |10|[@raganwald](https://github.com/raganwald)/[**supervis.es**](https://github.com/raganwald/supervis.es)|||
 |9|[@Electroid](https://github.com/Electroid)/[**mojang-api**](https://github.com/Electroid/mojang-api)|Bundle multiple Minecraft APIs into a single GET request.|[:arrow_upper_right:](https://api.ashcon.app/mojang/v1/user/ElectroidFilms)|
+|9|[@HappenApps](https://github.com/HappenApps)/[**quiver2playground**](https://github.com/HappenApps/quiver2playground)|A utility to convert a Quiver notebook or notes to Xcode 6 playground files.||
 |9|[@MichaelReiter](https://github.com/MichaelReiter)/[**RunJumpShoot**](https://github.com/MichaelReiter/RunJumpShoot)|A 2D platform/shooter game written in CoffeeScript with the Phaser game engine|[:arrow_upper_right:](http://michaelreiter.github.io/RunJumpShoot/)|
 |9|[@amsul](https://github.com/amsul)/[**Load.allTheThings**](https://github.com/amsul/Load.allTheThings)|A simple JavaScript library to preload resources as they are needed|[:arrow_upper_right:](http://amsul.github.com/Load.allTheThings/)|
 |9|[@ankurp](https://github.com/ankurp)/[**WebChat**](https://github.com/ankurp/WebChat)|Video Conference like Video Chatting using Web RTC without Flash or Plugins|[:arrow_upper_right:](http://patellabs.com)|
@@ -81,7 +82,6 @@
 |9|[@fictorial](https://github.com/fictorial)/[**json-line-protocol**](https://github.com/fictorial/json-line-protocol)|A stream protocol handler for JSON-encoded values delimited by CRLF||
 |9|[@kieran](https://github.com/kieran)/[**votewell**](https://github.com/kieran/votewell)|strategic voting calculator||
 |9|[@mikeyhew](https://github.com/mikeyhew)/[**shopify-app-proxy-example**](https://github.com/mikeyhew/shopify-app-proxy-example)|A simple implementation of Shopify Application Proxies for node.js.||
-|8|[@HappenApps](https://github.com/HappenApps)/[**quiver2playground**](https://github.com/HappenApps/quiver2playground)|A utility to convert a Quiver notebook or notes to Xcode 6 playground files.||
 |8|[@pcrawfor](https://github.com/pcrawfor)/[**coffeeq**](https://github.com/pcrawfor/coffeeq)|Node.js Queuing library implemented in Coffee Script - currently only supports redis as a backend store for the queue||
 |8|[@shovon](https://github.com/shovon)/[**jade-static**](https://github.com/shovon/jade-static)|Serve static Jade files from an Express server.||
 |7|[@EtienneLem](https://github.com/EtienneLem)/[**gauges-events**](https://github.com/EtienneLem/gauges-events)|Gauges custom events tracker (unofficial)|[:arrow_upper_right:](http://get.gaug.es)|

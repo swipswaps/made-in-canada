@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |164|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
-|158|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
+|161|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|A repository of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. ||
 |122|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
 |114|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
 |93|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
-|80|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
+|83|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
 |78|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
 |71|[@mlangill](https://github.com/mlangill)/[**microbiome_helper**](https://github.com/mlangill/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |57|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
@@ -86,6 +86,7 @@
 |5|[@yanick](https://github.com/yanick)/[**pod-manual**](https://github.com/yanick/pod-manual)|Aggregates several Perl PODs into a single manual||
 |5|[@yanick](https://github.com/yanick)/[**www-ohloh-api**](https://github.com/yanick/www-ohloh-api)|Ohloh API implementation for Perl||
 |4|[@briandfoy](https://github.com/briandfoy)/[**app-ppi-dumper**](https://github.com/briandfoy/app-ppi-dumper)|(Perl) This is what the module does|[:arrow_upper_right:](https://metacpan.org/pod/App::PPI::Dumper)|
+|4|[@briandfoy](https://github.com/briandfoy)/[**brick**](https://github.com/briandfoy/brick)|(Perl) Complex business rule data validation|[:arrow_upper_right:](https://metacpan.org/pod/Brick)|
 |4|[@briandfoy](https://github.com/briandfoy)/[**mac-osversion**](https://github.com/briandfoy/mac-osversion)|(Perl) Get the Mac OS X system version|[:arrow_upper_right:](https://metacpan.org/pod/Mac::OSVersion)|
 |4|[@briandfoy](https://github.com/briandfoy)/[**module-extract-version**](https://github.com/briandfoy/module-extract-version)|(Perl) This is what the module does|[:arrow_upper_right:](https://metacpan.org/pod/Module::Extract::VERSION)|
 |4|[@briandfoy](https://github.com/briandfoy)/[**module-release-git**](https://github.com/briandfoy/module-release-git)|Module::Release mixin to work with Git repositories||
@@ -118,7 +119,6 @@
 |3|[@abramhindle](https://github.com/abramhindle)/[**tircd-plus-search**](https://github.com/abramhindle/tircd-plus-search)|TIRCD 0.6 Twitter IRCD + Twitter Search||
 |3|[@briandfoy](https://github.com/briandfoy)/[**HTTP-Cookies-Chrome**](https://github.com/briandfoy/HTTP-Cookies-Chrome)|(Perl) Access the Chrome cookies file|[:arrow_upper_right:](http://search.cpan.org/dist/HTTP-Cookies-Chrome)|
 |3|[@briandfoy](https://github.com/briandfoy)/[**Object-Iterate**](https://github.com/briandfoy/Object-Iterate)|The Object-Iterate Perl module|[:arrow_upper_right:](http://search.cpan.org/dist/Object-Iterate)|
-|3|[@briandfoy](https://github.com/briandfoy)/[**brick**](https://github.com/briandfoy/brick)|(Perl) Complex business rule data validation|[:arrow_upper_right:](https://metacpan.org/pod/Brick)|
 |3|[@briandfoy](https://github.com/briandfoy)/[**chemistry-elements**](https://github.com/briandfoy/chemistry-elements)|Perl extension for working with Chemical Elements||
 |3|[@briandfoy](https://github.com/briandfoy)/[**data-constraint**](https://github.com/briandfoy/data-constraint)|(Perl) prototypical value checking|[:arrow_upper_right:](https://metacpan.org/pod/Data::Constraint)|
 |3|[@briandfoy](https://github.com/briandfoy)/[**geo-geonames**](https://github.com/briandfoy/geo-geonames)|The Perl Geo::Geonames module||
