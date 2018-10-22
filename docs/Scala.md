@@ -1,20 +1,20 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |474|[@cvogt](https://github.com/cvogt)/[**cbt**](https://github.com/cvogt/cbt)|CBT - fun, fast, intuitive, compositional, statically checked builds written in Scala||
-|366|[@marconilanna](https://github.com/marconilanna)/[**REPLesent**](https://github.com/marconilanna/REPLesent)|A neat little tool to build presentations using the Scala REPL||
-|334|[@mardambey](https://github.com/mardambey)/[**mypipe**](https://github.com/mardambey/mypipe)|MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka.||
-|333|[@fosskers](https://github.com/fosskers)/[**scalaz-and-cats**](https://github.com/fosskers/scalaz-and-cats)|Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).||
-|321|[@dcaoyuan](https://github.com/dcaoyuan)/[**chana**](https://github.com/dcaoyuan/chana)|Avro Data Store based on Akka||
+|367|[@marconilanna](https://github.com/marconilanna)/[**REPLesent**](https://github.com/marconilanna/REPLesent)|A neat little tool to build presentations using the Scala REPL||
+|335|[@fosskers](https://github.com/fosskers)/[**scalaz-and-cats**](https://github.com/fosskers/scalaz-and-cats)|Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).||
+|335|[@mardambey](https://github.com/mardambey)/[**mypipe**](https://github.com/mardambey/mypipe)|MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka.||
+|322|[@dcaoyuan](https://github.com/dcaoyuan)/[**chana**](https://github.com/dcaoyuan/chana)|Avro Data Store based on Akka||
 |255|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-socketio**](https://github.com/dcaoyuan/spray-socketio)|socket.io for spray||
 |223|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-websocket**](https://github.com/dcaoyuan/spray-websocket)|WebSocket for spray-can||
-|201|[@jmcardon](https://github.com/jmcardon)/[**tsec**](https://github.com/jmcardon/tsec)|Type-safe general-cryptography library - https://jmcardon.github.io/tsec/||
+|202|[@jmcardon](https://github.com/jmcardon)/[**tsec**](https://github.com/jmcardon/tsec)|Type-safe general-cryptography library - https://jmcardon.github.io/tsec/||
 |122|[@dcaoyuan](https://github.com/dcaoyuan)/[**aiotrade**](https://github.com/dcaoyuan/aiotrade)|A Trading Platform|[:arrow_upper_right:](http://blogtrader.net)|
 |121|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**ScalaKata**](https://github.com/MasseGuillaume/ScalaKata)|Moved|[:arrow_upper_right:](https://github.com/MasseGuillaume/ScalaKata2)|
 |108|[@yawaramin](https://github.com/yawaramin)/[**scala-modules**](https://github.com/yawaramin/scala-modules)|Experimental implementations of ML-style modules in Scala||
 |96|[@PaytmLabs](https://github.com/PaytmLabs)/[**akka-batteries**](https://github.com/PaytmLabs/akka-batteries)|Utilities for Akka cluster in production||
+|94|[@denisrosset](https://github.com/denisrosset)/[**metal**](https://github.com/denisrosset/metal)|Metal - fast unboxed data structures for Scala||
 |93|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**ScalaKata2**](https://github.com/MasseGuillaume/ScalaKata2)|Interactive Playground|[:arrow_upper_right:](http://scalakata.com)|
-|93|[@denisrosset](https://github.com/denisrosset)/[**metal**](https://github.com/denisrosset/metal)|Metal - fast unboxed data structures for Scala||
-|82|[@cvogt](https://github.com/cvogt)/[**compossible**](https://github.com/cvogt/compossible)|Scala Records: Extensible records and type-indexed maps|[:arrow_upper_right:](https://www.youtube.com/watch?v=pA2js-TV1Ck)|
+|83|[@cvogt](https://github.com/cvogt)/[**compossible**](https://github.com/cvogt/compossible)|Scala Records: Extensible records and type-indexed maps|[:arrow_upper_right:](https://www.youtube.com/watch?v=pA2js-TV1Ck)|
 |54|[@eclipsesource](https://github.com/eclipsesource)/[**play-json-schema-validator**](https://github.com/eclipsesource/play-json-schema-validator)|JSON Schema Validation with Play JSON||
 |52|[@mvogiatzis](https://github.com/mvogiatzis)/[**freq-count**](https://github.com/mvogiatzis/freq-count)|Lossy Counting and Sticky Sampling implementation for efficient frequency counts on data streams.||
 |50|[@knoldus](https://github.com/knoldus)/[**Play-Spark-Scala**](https://github.com/knoldus/Play-Spark-Scala)|||
@@ -91,6 +91,7 @@
 |6|[@knoldus](https://github.com/knoldus)/[**kafka-tweet-producer.g8**](https://github.com/knoldus/kafka-tweet-producer.g8)|This is an activator project. It describes how to pull tweets from twitter and push into Kafka.||
 |6|[@knoldus](https://github.com/knoldus)/[**play-reactive-slick**](https://github.com/knoldus/play-reactive-slick)|||
 |6|[@knoldus](https://github.com/knoldus)/[**scala-solr-akkahttp.g8**](https://github.com/knoldus/scala-solr-akkahttp.g8)|||
+|6|[@knoldus](https://github.com/knoldus)/[**simple-akka-http-websocket-example.g8**](https://github.com/knoldus/simple-akka-http-websocket-example.g8)|A simple example of Websockets Server with akka-http ||
 |6|[@knoldus](https://github.com/knoldus)/[**spark-streaming-gnip**](https://github.com/knoldus/spark-streaming-gnip)|An Apache Spark utility for pulling Tweets from Gnip's PowerTrack in realtime|[:arrow_upper_right:](http://spark-packages.org/package/knoldus/spark-streaming-gnip)|
 |6|[@yzhliu](https://github.com/yzhliu)/[**mxnet-scala**](https://github.com/yzhliu/mxnet-scala)|MXNet Scala Package||
 |5|[@briannesbitt](https://github.com/briannesbitt)/[**hockey.nesbot.com**](https://github.com/briannesbitt/hockey.nesbot.com)|Sidney Crosby Art Ross Watch and MyNHL|[:arrow_upper_right:](http://hockey.nesbot.com)|
@@ -101,7 +102,6 @@
 |5|[@knoldus](https://github.com/knoldus)/[**load-external-scala-file**](https://github.com/knoldus/load-external-scala-file)|This application will teach how to compile and load an external scala file in a scala apllication||
 |5|[@knoldus](https://github.com/knoldus)/[**playing-multipartform**](https://github.com/knoldus/playing-multipartform)|A basic example to handle and test MultipartFormData request in Play Framework 2.3.8||
 |5|[@knoldus](https://github.com/knoldus)/[**sicp**](https://github.com/knoldus/sicp)|Exercises of SICP solved with Scala||
-|5|[@knoldus](https://github.com/knoldus)/[**simple-akka-http-websocket-example.g8**](https://github.com/knoldus/simple-akka-http-websocket-example.g8)|A simple example of Websockets Server with akka-http ||
 |5|[@knoldus](https://github.com/knoldus)/[**spark-scala-async**](https://github.com/knoldus/spark-scala-async)|||
 |5|[@knoldus](https://github.com/knoldus)/[**structured-streaming-application**](https://github.com/knoldus/structured-streaming-application)|Structured Streaming  is a reference application showing how to easily integrate structured streaming Apache Spark Structured Streaming, Apache Cassandra and Apache Kafka for fast, structured streaming computations on data.|[:arrow_upper_right:](https://spark-packages.org/package/knoldus/structured-streaming-application)|
 |5|[@marconilanna](https://github.com/marconilanna)/[**snippets**](https://github.com/marconilanna/snippets)|Catalogue of routinely required small units of boilerplate code||
@@ -136,6 +136,7 @@
 |3|[@knoldus](https://github.com/knoldus)/[**akka-http-file-upload**](https://github.com/knoldus/akka-http-file-upload)|A basic application to upload a file using akka-http in Scala with its test cases||
 |3|[@knoldus](https://github.com/knoldus)/[**knolx-portal**](https://github.com/knoldus/knolx-portal)|Knolx portal is a Knolx management portal|[:arrow_upper_right:](http://knolx.knoldus.com)|
 |3|[@knoldus](https://github.com/knoldus)/[**lagom-spike**](https://github.com/knoldus/lagom-spike)|||
+|3|[@knoldus](https://github.com/knoldus)/[**playing-aws-scala**](https://github.com/knoldus/playing-aws-scala)|A simple example of Amazon Web Services in the Scala way with Play Framework and AWScala||
 |3|[@knoldus](https://github.com/knoldus)/[**playing-gravatar.g8**](https://github.com/knoldus/playing-gravatar.g8)|This activator project describes a basic example to generate gravatar using email address with Play Framework||
 |3|[@knoldus](https://github.com/knoldus)/[**priorityActor**](https://github.com/knoldus/priorityActor)|||
 |3|[@knoldus](https://github.com/knoldus)/[**scala-design-patterns**](https://github.com/knoldus/scala-design-patterns)|Scala Design Patterns||

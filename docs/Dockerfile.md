@@ -14,4 +14,5 @@
 |4|[@turbolent](https://github.com/turbolent)/[**postgrest-small**](https://github.com/turbolent/postgrest-small)|A small PostgREST Docker image||
 |3|[@makeomatic](https://github.com/makeomatic)/[**alpine-node**](https://github.com/makeomatic/alpine-node)|base image for makeomatic docker builds||
 |3|[@redhat-cip](https://github.com/redhat-cip)/[**dci-doc**](https://github.com/redhat-cip/dci-doc)|The official Distributed-CI (DCI) documentation||
+|3|[@tiredofit](https://github.com/tiredofit)/[**docker-spamassassin**](https://github.com/tiredofit/docker-spamassassin)|Docker Spamassassin Spam filtering based on Alpine Linux||
 

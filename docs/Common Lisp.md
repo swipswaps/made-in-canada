@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|244|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
+|245|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
 |73|[@hoytech](https://github.com/hoytech)/[**antiweb**](https://github.com/hoytech/antiweb)|Common Lisp web application server|[:arrow_upper_right:](http://hoytech.com/antiweb/)|
 |57|[@inaimathi](https://github.com/inaimathi)/[**cl-notebook**](https://github.com/inaimathi/cl-notebook)|A notebook-style editor for Common Lisp||
 |46|[@thephoeron](https://github.com/thephoeron)/[**let-over-lambda**](https://github.com/thephoeron/let-over-lambda)|Doug Hoyte's "Production" version of macros from Let Over Lambda, ready for ASDF and Quicklisp.||
-|43|[@thephoeron](https://github.com/thephoeron)/[**black-stone**](https://github.com/thephoeron/black-stone)|Specification and Implementation of Quantum Common Lisp, for gate-model quantum computers||
+|42|[@thephoeron](https://github.com/thephoeron)/[**black-stone**](https://github.com/thephoeron/black-stone)|Specification and Implementation of Quantum Common Lisp, for gate-model quantum computers||
 |31|[@inaimathi](https://github.com/inaimathi)/[**cl-css**](https://github.com/inaimathi/cl-css)|Non-validating, inline CSS generator for Common Lisp||
 |28|[@mck-](https://github.com/mck-)/[**oneliner**](https://github.com/mck-/oneliner)|Extracts a one-liner from a piece of text.||
 |28|[@thephoeron](https://github.com/thephoeron)/[**bit-smasher**](https://github.com/thephoeron/bit-smasher)|Common Lisp library for handling bit vectors, bit vector arithmetic, and type conversions.|[:arrow_upper_right:](https://thephoeron.github.io/bit-smasher/)|
@@ -28,6 +28,7 @@
 |6|[@mck-](https://github.com/mck-)/[**hunch**](https://github.com/mck-/hunch)|Boilerplate API-only server on Hunchentoot||
 |6|[@tokenrove](https://github.com/tokenrove)/[**imago**](https://github.com/tokenrove/imago)|image manipulation library for Common Lisp|[:arrow_upper_right:](http://common-lisp.net/project/imago)|
 |5|[@abramhindle](https://github.com/abramhindle)/[**automata-dsl**](https://github.com/abramhindle/automata-dsl)|A common lisp based DSL to produce random automata games that you can diddle at to your hearts content.||
+|5|[@bbc](https://github.com/bbc)/[**bbcrd-brirs**](https://github.com/bbc/bbcrd-brirs)| An impulse response dataset for dynamic data-based auralisation of advanced sound systems||
 |5|[@inaimathi](https://github.com/inaimathi)/[**cl-kanren-trs**](https://github.com/inaimathi/cl-kanren-trs)|Fork of http://common-lisp.net/project/cl-kanren-trs/||
 |5|[@inaimathi](https://github.com/inaimathi)/[**clomments**](https://github.com/inaimathi/clomments)|A stab at a Free Software version of Disqus||
 |5|[@thephoeron](https://github.com/thephoeron)/[**REDSHIFTNET**](https://github.com/thephoeron/REDSHIFTNET)|Common Lisp Web Application Framework for enterprise data-driven apps that require hardened security and high performance.||
