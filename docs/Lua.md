@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|727|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
-|381|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
+|728|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
+|382|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
 |353|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
-|297|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
-|124|[@saks](https://github.com/saks)/[**lua-resty-repl**](https://github.com/saks/lua-resty-repl)|Interactive console (REPL) for Openresty and luajit code||
+|299|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
+|125|[@saks](https://github.com/saks)/[**lua-resty-repl**](https://github.com/saks/lua-resty-repl)|Interactive console (REPL) for Openresty and luajit code||
 |102|[@castorini](https://github.com/castorini)/[**MP-CNN-Torch**](https://github.com/castorini/MP-CNN-Torch)|Multi-Perspective Convolutional Neural Networks for modeling textual similarity (He et al., EMNLP 2015)||
 |87|[@forhappy](https://github.com/forhappy)/[**zklua**](https://github.com/forhappy/zklua)|Lua binding of apache zookeeper.||
 |82|[@500px](https://github.com/500px)/[**500pxPublisher.lrplugin**](https://github.com/500px/500pxPublisher.lrplugin)|Lightroom Plugin for publishing directly to 500px||
@@ -18,26 +18,26 @@
 |21|[@inikdom](https://github.com/inikdom)/[**seq2seq-chatbot**](https://github.com/inikdom/seq2seq-chatbot)|An implementation of Google's seq2seq architecture for building a chatbot.||
 |21|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**drmad**](https://github.com/nicholas-leonard/drmad)|Hyper-parameter Optimization with DrMAD and Hypero||
 |20|[@castorini](https://github.com/castorini)/[**VDPWI-NN-Torch**](https://github.com/castorini/VDPWI-NN-Torch)|Very Deep Pairwise Word Interaction Neural Networks for modeling textual similarity (He and Lin, NAACL/HLT 2016)||
+|16|[@pelevesque](https://github.com/pelevesque)/[**skeletor**](https://github.com/pelevesque/skeletor)|A skeletal animation system for LÖVE 2D. https://love2d.org||
 |16|[@slime73](https://github.com/slime73)/[**Lua-Event**](https://github.com/slime73/Lua-Event)|Basic event system I have been using in my LÖVE games||
-|15|[@jake100](https://github.com/jake100)/[**lua-state-machine**](https://github.com/jake100/lua-state-machine)|lua state machine taking advantage of first class functions.||
-|15|[@pelevesque](https://github.com/pelevesque)/[**skeletor**](https://github.com/pelevesque/skeletor)|A skeletal animation system for LÖVE 2D. https://love2d.org||
 |15|[@tpoisot](https://github.com/tpoisot)/[**dotfiles**](https://github.com/tpoisot/dotfiles)|dotfiles||
+|14|[@jake100](https://github.com/jake100)/[**lua-state-machine**](https://github.com/jake100/lua-state-machine)|lua state machine taking advantage of first class functions.||
 |14|[@karai17](https://github.com/karai17)/[**lua-obj**](https://github.com/karai17/lua-obj)|Load a Wavefront Object file into Lua||
 |13|[@pelevesque](https://github.com/pelevesque)/[**gamemath**](https://github.com/pelevesque/gamemath)|A collection of Lua math functions useful for video games.||
 |12|[@burningion](https://github.com/burningion)/[**crappy-product-generator**](https://github.com/burningion/crappy-product-generator)|Generate crappy products and reviews using Amazon's dataset|[:arrow_upper_right:](http://www.kpkaiser.com/machine-learning/training-neural-networks-to-generate-crappy-amazon-products/)|
 |11|[@james2doyle](https://github.com/james2doyle)/[**Lico**](https://github.com/james2doyle/Lico)|Lico is Pico re-written using Luvit for Lua||
 |11|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**slides**](https://github.com/nicholas-leonard/slides)|Presentations||
+|11|[@yrashk](https://github.com/yrashk)/[**nix-home**](https://github.com/yrashk/nix-home)|Nix Home Manager||
+|10|[@ashleydavies](https://github.com/ashleydavies)/[**EGS**](https://github.com/ashleydavies/EGS)|||
 |10|[@sam-github](https://github.com/sam-github)/[**lunit**](https://github.com/sam-github/lunit)|unit testing for lua||
-|9|[@ashleydavies](https://github.com/ashleydavies)/[**EGS**](https://github.com/ashleydavies/EGS)|||
 |9|[@castorini](https://github.com/castorini)/[**SM-CNN-Torch**](https://github.com/castorini/SM-CNN-Torch)|Torch implementation of Severyn and Moschitti's SIGIR 2015 CNN model for question answering||
 |9|[@saks](https://github.com/saks)/[**lua-resty-newrelic**](https://github.com/saks/lua-resty-newrelic)|This Lua library is a luajit ffi-based wrapper around newrelic agent SDK for the ngx_lua nginx module||
-|9|[@yrashk](https://github.com/yrashk)/[**nix-home**](https://github.com/yrashk/nix-home)|Nix Home Manager||
 |8|[@bartman](https://github.com/bartman)/[**wmii-lua**](https://github.com/bartman/wmii-lua)|Wmii extended with lua scripts|[:arrow_upper_right:](http://www.jukie.net/~bart/blog/tag/wmiirc-lua)|
 |8|[@karai17](https://github.com/karai17)/[**love-spriter**](https://github.com/karai17/love-spriter)|A Spriter implementation for LOVE||
 |8|[@karai17](https://github.com/karai17)/[**lua-winged-edge**](https://github.com/karai17/lua-winged-edge)|Winged Edge Data Structure in Lua||
+|7|[@mverteuil](https://github.com/mverteuil)/[**windower4-addons**](https://github.com/mverteuil/windower4-addons)|FFXI Windower 4 Addons||
 |7|[@travisjeffery](https://github.com/travisjeffery)/[**awesome-wm**](https://github.com/travisjeffery/awesome-wm)|My configuration of the awesome window manager.||
 |6|[@coolacid](https://github.com/coolacid)/[**ComputerCraft**](https://github.com/coolacid/ComputerCraft)|Scripts Related to Minecraft ComputerCraft||
-|6|[@mverteuil](https://github.com/mverteuil)/[**windower4-addons**](https://github.com/mverteuil/windower4-addons)|FFXI Windower 4 Addons||
 |5|[@dvdfu](https://github.com/dvdfu)/[**ld38**](https://github.com/dvdfu/ld38)|Ludum Dare 38 Jam submission|[:arrow_upper_right:](https://dvdfu.itch.io/honey-home)|
 |5|[@karai17](https://github.com/karai17)/[**Peep**](https://github.com/karai17/Peep)|View the contents of variables in LÖVE||
 |5|[@karai17](https://github.com/karai17)/[**love2d-input-manager**](https://github.com/karai17/love2d-input-manager)|AN input manager for the Love2D game engine||

@@ -8,10 +8,10 @@
 |83|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
 |77|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
 |71|[@mlangill](https://github.com/mlangill)/[**microbiome_helper**](https://github.com/mlangill/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
-|57|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
+|58|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
 |42|[@yanick](https://github.com/yanick)/[**git-cpan-patch**](https://github.com/yanick/git-cpan-patch)|System to write patches against CPAN modules via Git||
 |40|[@briandfoy](https://github.com/briandfoy)/[**Learning-Perl-Sample-Files**](https://github.com/briandfoy/Learning-Perl-Sample-Files)|Extra files for use with Learning Perl|[:arrow_upper_right:](http://www.learning-perl.org/)|
-|36|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
+|38|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
 |35|[@moshen](https://github.com/moshen)/[**Image-Term256Color**](https://github.com/moshen/Image-Term256Color)|Display images in your 256 color terminal! (kinda) - superseded by https://github.com/moshen/gotermimg||
 |25|[@bcgsc](https://github.com/bcgsc)/[**LINKS**](https://github.com/bcgsc/LINKS)|Long Interval Nucleotide K-mer Scaffolder||
 |25|[@cdrage](https://github.com/cdrage)/[**dockerfiles**](https://github.com/cdrage/dockerfiles)|🐳 My Dockerfiles||
@@ -78,6 +78,7 @@
 |5|[@briandfoy](https://github.com/briandfoy)/[**mycpan-app-dpan**](https://github.com/briandfoy/mycpan-app-dpan)|(Perl) Create a custom, private DarkPAN repository|[:arrow_upper_right:](https://metacpan.org/pod/MyCPAN::App::DPAN)|
 |5|[@briandfoy](https://github.com/briandfoy)/[**perl-critic-policy-camel**](https://github.com/briandfoy/perl-critic-policy-camel)|Perl style recommendations from Programming Perl||
 |5|[@bricas](https://github.com/bricas)/[**cql-parser**](https://github.com/bricas/cql-parser)|A Perl module for working with the Common Query Language|[:arrow_upper_right:](http://search.cpan.org/dist/CQL-Parser)|
+|5|[@bricas](https://github.com/bricas)/[**games-nes-emulator**](https://github.com/bricas/games-nes-emulator)|An object-oriented NES (6502) emulator|[:arrow_upper_right:](http://search.cpan.org/dist/Games-NES-Emulator)|
 |5|[@bricas](https://github.com/bricas)/[**geo-ipfree**](https://github.com/bricas/geo-ipfree)|Look up the country of an IPv4 address|[:arrow_upper_right:](http://metacpan.org/release/Geo-IPfree)|
 |5|[@davepagurek](https://github.com/davepagurek)/[**Sari-Wallpaper**](https://github.com/davepagurek/Sari-Wallpaper)|A joke I'm playing on my sister where I remotely change her wallpaper to pictures of me.||
 |5|[@hoytech](https://github.com/hoytech)/[**AnyEvent-Task**](https://github.com/hoytech/AnyEvent-Task)|Client/server-based asynchronous worker pool||
@@ -94,7 +95,6 @@
 |4|[@briandfoy](https://github.com/briandfoy)/[**tie-cycle**](https://github.com/briandfoy/tie-cycle)|Cycle through a list of values via a scalar|[:arrow_upper_right:](https://metacpan.org/pod/Tie::Cycle)|
 |4|[@bricas](https://github.com/bricas)/[**cpan-changes-web**](https://github.com/bricas/cpan-changes-web)|CPAN::Changes Kwalitee Service||
 |4|[@bricas](https://github.com/bricas)/[**finance-wesabe**](https://github.com/bricas/finance-wesabe)|Access your wesabe.com account information|[:arrow_upper_right:](http://search.cpan.org/dist/Finance-Wesabe/)|
-|4|[@bricas](https://github.com/bricas)/[**games-nes-emulator**](https://github.com/bricas/games-nes-emulator)|An object-oriented NES (6502) emulator|[:arrow_upper_right:](http://search.cpan.org/dist/Games-NES-Emulator)|
 |4|[@bricas](https://github.com/bricas)/[**gedcom-foaf**](https://github.com/bricas/gedcom-foaf)|Output FOAF files from Gedcom individuals and families|[:arrow_upper_right:](http://search.cpan.org/dist/Gedcom-FOAF/)|
 |4|[@bricas](https://github.com/bricas)/[**www-opensearch**](https://github.com/bricas/www-opensearch)|Search A9 OpenSearch compatible engines|[:arrow_upper_right:](http://metacpan.org/release/WWW-OpenSearch/)|
 |4|[@hoytech](https://github.com/hoytech)/[**Vcdiff**](https://github.com/hoytech/Vcdiff)|Vcdiff - diff and patch for binary data||

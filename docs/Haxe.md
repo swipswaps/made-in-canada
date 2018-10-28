@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|489|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base! see the website for details.|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
+|490|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base! see the website for details.|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
 |40|[@Ohmnivore](https://github.com/Ohmnivore)/[**SkullRush**](https://github.com/Ohmnivore/SkullRush)|A 2D online multiplayer shooter written in Haxe||
 |37|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-glm**](https://github.com/FuzzyWuzzie/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |30|[@ashes999](https://github.com/ashes999)/[**butterfly**](https://github.com/ashes999/butterfly)|Haxe generator for simple, static blogs.||
@@ -44,6 +44,7 @@
 |3|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Luxe3D**](https://github.com/FuzzyWuzzie/Luxe3D)|Experiments in 3D in Luxe||
 |3|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**hx-blender-api**](https://github.com/FuzzyWuzzie/hx-blender-api)|Haxe externs for the Blender API||
 |3|[@chfoo](https://github.com/chfoo)/[**fogchamp**](https://github.com/chfoo/fogchamp)|Pokémon Battle Revolution Matchup Visualizer for Twitch Plays Pokemon.|[:arrow_upper_right:](https://chfoo.github.io/fogchamp/)|
+|3|[@chfoo](https://github.com/chfoo)/[**seedyrng**](https://github.com/chfoo/seedyrng)|Pseudorandom number generator library for Haxe||
 |3|[@underscorediscovery](https://github.com/underscorediscovery)/[**nme-TexturePackerJSON**](https://github.com/underscorediscovery/nme-TexturePackerJSON)|An implementation of a haxelib/spritesheet Loader for TexturePacker||
 |3|[@underscorediscovery](https://github.com/underscorediscovery)/[**snowhxt**](https://github.com/underscorediscovery/snowhxt)|A convenience for using hxtelemetry with flow/snow based apps quickly||
 
