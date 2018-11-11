@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
+|72|[@tpetricek](https://github.com/tpetricek)/[**elmish-spreadsheet**](https://github.com/tpetricek/elmish-spreadsheet)|Implement your own Excel 365 in 100 lines of F#!||
 |70|[@tpetricek](https://github.com/tpetricek)/[**Documents**](https://github.com/tpetricek/Documents)|Includes samples for my blog posts, source code and slides for my talks and other resources.|[:arrow_upper_right:](http://tomasp.net/blog)|
-|67|[@tpetricek](https://github.com/tpetricek)/[**elmish-spreadsheet**](https://github.com/tpetricek/elmish-spreadsheet)|Implement your own Excel 365 in 100 lines of F#!||
 |54|[@tpetricek](https://github.com/tpetricek)/[**DeepDives**](https://github.com/tpetricek/DeepDives)|F# DeepDives||
 |37|[@tpetricek](https://github.com/tpetricek)/[**FSharp.AsyncExtensions**](https://github.com/tpetricek/FSharp.AsyncExtensions)|[ARCHIVED] Extensions for asynchronous programming in F#||
 |16|[@tpetricek](https://github.com/tpetricek)/[**Dojo-Suave-FsHome**](https://github.com/tpetricek/Dojo-Suave-FsHome)|F# Coding Dojo in which you learn how to build an F# homepage web site using Suave and deploy it to Heroku or Azure||
 |12|[@tpetricek](https://github.com/tpetricek)/[**TryJoinads**](https://github.com/tpetricek/TryJoinads)|Source code of the www.tryjoinads.org project (web page only)|[:arrow_upper_right:](http://tryjoinads.org)|
-|11|[@yawaramin](https://github.com/yawaramin)/[**fsharp-typeclasses**](https://github.com/yawaramin/fsharp-typeclasses)|||
+|12|[@yawaramin](https://github.com/yawaramin)/[**fsharp-typeclasses**](https://github.com/yawaramin/fsharp-typeclasses)|||
 |7|[@tpetricek](https://github.com/tpetricek)/[**NDC.Chat**](https://github.com/tpetricek/NDC.Chat)|NDC Chat!!!||
 |6|[@tpetricek](https://github.com/tpetricek)/[**FSharp.SVG**](https://github.com/tpetricek/FSharp.SVG)|Domain specific language for composing SVG graphics||
 |6|[@tpetricek](https://github.com/tpetricek)/[**FunScript.Atom**](https://github.com/tpetricek/FunScript.Atom)|Prototype atom package created using FunScript||
@@ -15,6 +15,8 @@
 |4|[@tpetricek](https://github.com/tpetricek)/[**fable-tutorial**](https://github.com/tpetricek/fable-tutorial)|Fable tutorial for Progressive F# 2016||
 |4|[@tpetricek](https://github.com/tpetricek)/[**suave-fshome**](https://github.com/tpetricek/suave-fshome)|Suave demo building F# homepage||
 |3|[@ChrisBallard](https://github.com/ChrisBallard)/[**ThePeopleWhoChat**](https://github.com/ChrisBallard/ThePeopleWhoChat)|Basic chat client written mostly in F# on the .NET stack||
+|3|[@tpetricek](https://github.com/tpetricek)/[**PasswordValidator**](https://github.com/tpetricek/PasswordValidator)|Building stuff that works demo||
 |3|[@tpetricek](https://github.com/tpetricek)/[**Pollz**](https://github.com/tpetricek/Pollz)|||
+|3|[@tpetricek](https://github.com/tpetricek)/[**SocialDrawing**](https://github.com/tpetricek/SocialDrawing)|Minimal Fable + Suave sample application||
 |3|[@tpetricek](https://github.com/tpetricek)/[**fable-tailcalls**](https://github.com/tpetricek/fable-tailcalls)|Fable plugin that rewrites recursive functions with tail-calls into loops||
 
