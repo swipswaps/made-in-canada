@@ -27,10 +27,10 @@
 |6|[@gpaterno](https://github.com/gpaterno)/[**openstack_explained**](https://github.com/gpaterno/openstack_explained)|OpenStack Explained e-book - An humanitarian initiative||
 |6|[@kaustavha](https://github.com/kaustavha)/[**luvit-docs**](https://github.com/kaustavha/luvit-docs)|Documentation for the luvit api||
 |6|[@sjourdan](https://github.com/sjourdan)/[**strace-docker**](https://github.com/sjourdan/strace-docker)|strace in docker||
+|6|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_harpia**](https://github.com/sultanqasim/android_device_motorola_harpia)|TWRP device tree for Moto G Play||
 |5|[@AmarOk1412](https://github.com/AmarOk1412)/[**RORI**](https://github.com/AmarOk1412/RORI)|a modulable chatterbot platform|[:arrow_upper_right:](https://enconn.fr/rori)|
 |5|[@rillian](https://github.com/rillian)/[**afl-ffmpeg-opus**](https://github.com/rillian/afl-ffmpeg-opus)|Fuzzing script for ffmpeg's opus decoder||
 |5|[@rosshamish](https://github.com/rosshamish)/[**goodcatan**](https://github.com/rosshamish/goodcatan)|tries not to play bad catan||
-|5|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_harpia**](https://github.com/sultanqasim/android_device_motorola_harpia)|TWRP device tree for Moto G Play||
 |4|[@KleinYuan](https://github.com/KleinYuan)/[**train-crfasrnn**](https://github.com/KleinYuan/train-crfasrnn)|Detailed guide to help you understand how to train CRF as RNN||
 |4|[@aminb](https://github.com/aminb)/[**dotfiles**](https://github.com/aminb/dotfiles)|[OUTDATED] repository now located at https://git.sr.ht/~bandali/dotfiles||
 |4|[@maruel](https://github.com/maruel)/[**hugo-tidy**](https://github.com/maruel/hugo-tidy)|Docker image to generate the fastest (minified, gzipped) web site via Hugo||
