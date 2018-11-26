@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|16856|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
-|688|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
-|284|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
+|16927|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
+|690|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
+|285|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
 |269|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
 |210|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
 |154|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execushares**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
-|94|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
+|95|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
 |56|[@patmorin](https://github.com/patmorin)/[**arraylayout**](https://github.com/patmorin/arraylayout)|Experiments with array layouts for comparison-based searching|[:arrow_upper_right:](http://cglab.ca/~morin/misc/arraylayout-v2/)|
 |43|[@christhomson](https://github.com/christhomson)/[**lecture-notes**](https://github.com/christhomson/lecture-notes)|LaTeX notes for a few courses I've taken at the University of Waterloo.|[:arrow_upper_right:](http://cthomson.ca/notes)|
 |20|[@mcantelon](https://github.com/mcantelon)/[**fashion-quest**](https://github.com/mcantelon/fashion-quest)|Shoes-dependent, YAML-driven interactive fiction framework for fashion adventures|[:arrow_upper_right:](http://mcantelon.github.io/fashion-quest/)|
@@ -31,6 +31,7 @@
 |6|[@Glavin001](https://github.com/Glavin001)/[**VirtualAgent**](https://github.com/Glavin001/VirtualAgent)|(No longer maintained :warning:) Let your virtual, personal agent find and apply to jobs for you! Including writing your Resume and Cover Letter! (1st place winner at Volta Hackathon, May 2016)||
 |6|[@apetresc](https://github.com/apetresc)/[**Lecons-Sur-La-Theorie-Generale-Des-Surfaces**](https://github.com/apetresc/Lecons-Sur-La-Theorie-Generale-Des-Surfaces)|A collaborative effort to produce an English translation of Darboux's seminal 1887 text "Leçons Sur La Théorie Générale Des Surfaces Et Les Applications Géométriques Du Calcul Infinitésimal"||
 |6|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan-2016**](https://github.com/gavinsimpson/esa-advanced-vegan-2016)|Advanced Vegan Workshop at ESA 2016||
+|6|[@sqrlab](https://github.com/sqrlab)/[**uoit-thesis-template**](https://github.com/sqrlab/uoit-thesis-template)|A UOIT LaTeX thesis template.|[:arrow_upper_right:](http://cs.science.uoit.ca)|
 |6|[@sx-archipelagos](https://github.com/sx-archipelagos)/[**sxa**](https://github.com/sx-archipelagos/sxa)|||
 |5|[@MathML](https://github.com/MathML)/[**MathMLinHTML5**](https://github.com/MathML/MathMLinHTML5)|(we migrated to GitLab) Draft for a detailed technical document to implement MathML in Web rendering engines.|[:arrow_upper_right:](http://www.mathml-association.org/MathMLinHTML5/)|
 |5|[@Tandysony](https://github.com/Tandysony)/[**LaTeX-Thesis-Template-for-Concordia-University-Students**](https://github.com/Tandysony/LaTeX-Thesis-Template-for-Concordia-University-Students)|A LaTex thesis template and style for ENCS graduate student from Concordia University||
@@ -38,7 +39,6 @@
 |5|[@patmorin](https://github.com/patmorin)/[**tds**](https://github.com/patmorin/tds)|Notes from my Advanced Data Structure class.||
 |5|[@seananderson](https://github.com/seananderson)/[**pandoc-template**](https://github.com/seananderson/pandoc-template)|An example manuscript setup in Pandoc||
 |5|[@sjackman](https://github.com/sjackman)/[**white-spruce-organelles-paper**](https://github.com/sjackman/white-spruce-organelles-paper)|:evergreen_tree: Organellar Genomes of White Spruce (Picea glauca)|[:arrow_upper_right:](http://gbe.oxfordjournals.org/content/8/1/29)|
-|5|[@sqrlab](https://github.com/sqrlab)/[**uoit-thesis-template**](https://github.com/sqrlab/uoit-thesis-template)|A UOIT LaTeX thesis template.|[:arrow_upper_right:](http://cs.science.uoit.ca)|
 |5|[@tpetricek](https://github.com/tpetricek)/[**Research.TypeProviders**](https://github.com/tpetricek/Research.TypeProviders)|||
 |4|[@lemire](https://github.com/lemire)/[**arraylayout**](https://github.com/lemire/arraylayout)|Pat Morin's arraylayout|[:arrow_upper_right:](http://arxiv.org/abs/1509.05053)|
 |4|[@tpoisot](https://github.com/tpoisot)/[**response_agrawal**](https://github.com/tpoisot/response_agrawal)|||
@@ -53,6 +53,7 @@
 |3|[@jiahao](https://github.com/jiahao)/[**dss-juliaintro**](https://github.com/jiahao/dss-juliaintro)|A introduction to Julia through a data analysis use case||
 |3|[@jiahao](https://github.com/jiahao)/[**julia-type-system**](https://github.com/jiahao/julia-type-system)|A nascent paper or three about the type system in Julia||
 |3|[@jiahao](https://github.com/jiahao)/[**parallel-prefix**](https://github.com/jiahao/parallel-prefix)|A short paper about parallel prefix|[:arrow_upper_right:](http://jiahao.github.io/parallel-prefix)|
+|3|[@kevinjalbert](https://github.com/kevinjalbert)/[**master-thesis**](https://github.com/kevinjalbert/master-thesis)|M.Sc. Thesis on "Predicting Mutation Scores using Source Code and Test Suite Metrics"||
 |3|[@lemire](https://github.com/lemire)/[**talks**](https://github.com/lemire/talks)|Random material having to do with Daniel Lemire's talks||
 |3|[@marianafranco](https://github.com/marianafranco)/[**arm7linux**](https://github.com/marianafranco/arm7linux)| A simple OS to the ARM Evaluator-7T board.||
 |3|[@peeterjoot](https://github.com/peeterjoot)/[**classicalmechanics**](https://github.com/peeterjoot/classicalmechanics)|classicalmechanics notes compilation||

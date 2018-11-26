@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1485|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
-|1339|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )|[:arrow_upper_right:](http://unibeautify.com/)|
+|1484|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
+|1345|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )|[:arrow_upper_right:](http://unibeautify.com/)|
 |427|[@keithamus](https://github.com/keithamus)/[**parallelshell**](https://github.com/keithamus/parallelshell)|Run multiple shell commands in parallel||
 |396|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls|[:arrow_upper_right:](https://echoplex.us)|
 |230|[@EtienneLem](https://github.com/EtienneLem)/[**skeleton**](https://github.com/EtienneLem/skeleton)|Express 3.0 framework-less app structure generator|[:arrow_upper_right:](http://etiennelem.github.com/skeleton)|
 |219|[@axiomzen](https://github.com/axiomzen)/[**Alike**](https://github.com/axiomzen/Alike)|A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances||
-|199|[@benbria](https://github.com/benbria)/[**aliasify**](https://github.com/benbria/aliasify)|Rewrite require calls in browserify modules.||
-|198|[@fw42](https://github.com/fw42)/[**honeymap**](https://github.com/fw42/honeymap)|Real-time websocket stream of GPS events on a fancy SVG world map|[:arrow_upper_right:](http://map.honeynet.org/)|
+|200|[@benbria](https://github.com/benbria)/[**aliasify**](https://github.com/benbria/aliasify)|Rewrite require calls in browserify modules.||
+|199|[@fw42](https://github.com/fw42)/[**honeymap**](https://github.com/fw42/honeymap)|Real-time websocket stream of GPS events on a fancy SVG world map|[:arrow_upper_right:](http://map.honeynet.org/)|
 |187|[@raganwald](https://github.com/raganwald)/[**YouAreDaChef**](https://github.com/raganwald/YouAreDaChef)|Coffeescript/Javascript method combinations for Underscore projects||
 |185|[@zaidka](https://github.com/zaidka)/[**genieacs**](https://github.com/zaidka/genieacs)|A fast and lightweight TR-069 Auto Configuration Server (ACS)|[:arrow_upper_right:](https://genieacs.com)|
 |179|[@raganwald](https://github.com/raganwald)/[**Katy**](https://github.com/raganwald/Katy)|CoffeeScript and JavaScript Combinators||
@@ -46,8 +46,8 @@
 |22|[@axiomzen](https://github.com/axiomzen)/[**zenbase-angular**](https://github.com/axiomzen/zenbase-angular)|Opinionated gulp-angular-coffee-stylus-jade boilerplate||
 |22|[@kmalakoff](https://github.com/kmalakoff)/[**backbone-articulation**](https://github.com/kmalakoff/backbone-articulation)|Add custom attribute serialization and deserialization to your Backbone.Models.|[:arrow_upper_right:](http://braincode.tumblr.com/post/10682432555/introducing-backbone-articulation)|
 |21|[@adamhooper](https://github.com/adamhooper)/[**js-sorted-set**](https://github.com/adamhooper/js-sorted-set)|Sorted set data structures in JavaScript||
+|19|[@adam-p](https://github.com/adam-p)/[**text-file-follower**](https://github.com/adam-p/text-file-follower)|A Node.js module for getting each new last line of a text file as it appears. Think `tail -f`.||
 |18|[@EtienneLem](https://github.com/EtienneLem)/[**commandz**](https://github.com/EtienneLem/commandz)|⌘Z adds commands history support to your web app|[:arrow_upper_right:](http://etiennelem.github.io/commandz)|
-|18|[@adam-p](https://github.com/adam-p)/[**text-file-follower**](https://github.com/adam-p/text-file-follower)|A Node.js module for getting each new last line of a text file as it appears. Think `tail -f`.||
 |17|[@davemo](https://github.com/davemo)/[**grunt-rails-asset-digest**](https://github.com/davemo/grunt-rails-asset-digest)|grunt-rails-asset-digest||
 |17|[@davemo](https://github.com/davemo)/[**jasmine-only**](https://github.com/davemo/jasmine-only)|Exclusivity spec helpers for jasmine that let you isolate spec runs to only one `describe` or `it`||
 |17|[@james2doyle](https://github.com/james2doyle)/[**atom-jquery-snippets**](https://github.com/james2doyle/atom-jquery-snippets)|This is a snippets package for Atom. It is a conversion of an old jQuery snippets for sublime text.||
@@ -58,11 +58,11 @@
 |13|[@jescalan](https://github.com/jescalan)/[**atom-fold-comments**](https://github.com/jescalan/atom-fold-comments)|Quick toggling of all block comments in atom||
 |13|[@mojio](https://github.com/mojio)/[**mojio-js**](https://github.com/mojio/mojio-js)|Javascript node-js and browser clients for Mojio connected car technology.||
 |13|[@radekstepan](https://github.com/radekstepan)/[**intermine-lists-client**](https://github.com/radekstepan/intermine-lists-client)|A client side app maintaining InterMine Lists offering folder/tag organization and live searches.||
+|12|[@Electroid](https://github.com/Electroid)/[**mojang-api**](https://github.com/Electroid/mojang-api)|Bundle multiple Minecraft APIs into a single GET request.|[:arrow_upper_right:](https://api.ashcon.app/mojang/v1/user/ElectroidFilms)|
 |12|[@benjie](https://github.com/benjie)/[**backbone-redis-store**](https://github.com/benjie/backbone-redis-store)|NodeJS Backbone mode to enable Redis as data persistence layer||
 |12|[@jvaill](https://github.com/jvaill)/[**coffee-boy**](https://github.com/jvaill/coffee-boy)|A Game Boy emulator for the browser written in CoffeeScript. 🎮||
 |12|[@seblavoie](https://github.com/seblavoie)/[**adobe-illustrator-layer-renamer**](https://github.com/seblavoie/adobe-illustrator-layer-renamer)|Adobe Illustrator script to batch rename layers.||
 |11|[@AnthonyCalandra](https://github.com/AnthonyCalandra)/[**todo-list**](https://github.com/AnthonyCalandra/todo-list)|(THIS PACKAGE IS NO LONGER MAINTAINED.) A package for the Atom editor which keeps track of TODO, FIXME, etc. messages in code.||
-|11|[@Electroid](https://github.com/Electroid)/[**mojang-api**](https://github.com/Electroid/mojang-api)|Bundle multiple Minecraft APIs into a single GET request.|[:arrow_upper_right:](https://api.ashcon.app/mojang/v1/user/ElectroidFilms)|
 |11|[@benbria](https://github.com/benbria)/[**node-lumberjack-protocol**](https://github.com/benbria/node-lumberjack-protocol)|Node.js implementation of the lumberjack protocol.||
 |11|[@benjie](https://github.com/benjie)/[**hsbc-scrape**](https://github.com/benjie/hsbc-scrape)|Command-line driven scraper to pull down your banking history from HSBC (UK)'s internet banking portal.||
 |11|[@davemo](https://github.com/davemo)/[**react-battleplanner**](https://github.com/davemo/react-battleplanner)|react + tbs-battle-planner||

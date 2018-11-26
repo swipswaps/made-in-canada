@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|908|[@ferd](https://github.com/ferd)/[**recon**](https://github.com/ferd/recon)|Collection of functions and scripts to debug Erlang in production.|[:arrow_upper_right:](http://ferd.github.io/recon/)|
-|584|[@talentdeficit](https://github.com/talentdeficit)/[**jsx**](https://github.com/talentdeficit/jsx)|an erlang application for consuming, producing and manipulating json. inspired by yajl||
+|910|[@ferd](https://github.com/ferd)/[**recon**](https://github.com/ferd/recon)|Collection of functions and scripts to debug Erlang in production.|[:arrow_upper_right:](http://ferd.github.io/recon/)|
+|585|[@talentdeficit](https://github.com/talentdeficit)/[**jsx**](https://github.com/talentdeficit/jsx)|an erlang application for consuming, producing and manipulating json. inspired by yajl||
 |486|[@ferd](https://github.com/ferd)/[**erlang-history**](https://github.com/ferd/erlang-history)|Hacks to add shell history to Erlang's shell||
 |317|[@yrashk](https://github.com/yrashk)/[**socket.io-erlang**](https://github.com/yrashk/socket.io-erlang)|Socket.IO server for Erlang|[:arrow_upper_right:](http://socket.io/)|
 |252|[@ferd](https://github.com/ferd)/[**pobox**](https://github.com/ferd/pobox)|External buffer processes to protect against mailbox overflow in Erlang||
-|208|[@ferd](https://github.com/ferd)/[**vmstats**](https://github.com/ferd/vmstats)|tiny Erlang app to generate information on the Erlang VM||
+|209|[@ferd](https://github.com/ferd)/[**vmstats**](https://github.com/ferd/vmstats)|tiny Erlang app to generate information on the Erlang VM||
 |190|[@ferd](https://github.com/ferd)/[**dispcount**](https://github.com/ferd/dispcount)|Erlang task dispatcher based on ETS counters.||
-|184|[@matehat](https://github.com/matehat)/[**cqerl**](https://github.com/matehat/cqerl)|Native Erlang CQL client for Cassandra|[:arrow_upper_right:](http://matehat.github.io/cqerl)|
+|185|[@matehat](https://github.com/matehat)/[**cqerl**](https://github.com/matehat/cqerl)|Native Erlang CQL client for Cassandra|[:arrow_upper_right:](http://matehat.github.io/cqerl)|
 |147|[@ferd](https://github.com/ferd)/[**erlpass**](https://github.com/ferd/erlpass)|A library to handle password hashing and changing in a safe manner, independent from any kind of storage whatsoever.||
-|120|[@lpgauth](https://github.com/lpgauth)/[**shackle**](https://github.com/lpgauth/shackle)|High-Performance Erlang Network Client Framework||
+|121|[@lpgauth](https://github.com/lpgauth)/[**shackle**](https://github.com/lpgauth/shackle)|High-Performance Erlang Network Client Framework||
 |119|[@msantos](https://github.com/msantos)/[**pkt**](https://github.com/msantos/pkt)|Erlang network protocol library|[:arrow_upper_right:](http://blog.listincomprehension.com/search/label/epcap)|
 |98|[@ferd](https://github.com/ferd)/[**backoff**](https://github.com/ferd/backoff)|Simple exponential backoffs in Erlang||
 |89|[@lpgauth](https://github.com/lpgauth)/[**statsderl**](https://github.com/lpgauth/statsderl)|High-Performance Erlang StatsD Client||
@@ -17,15 +17,15 @@
 |81|[@msantos](https://github.com/msantos)/[**gen_icmp**](https://github.com/msantos/gen_icmp)|Erlang interface to ICMP sockets|[:arrow_upper_right:](http://listincomprehension.com/2010/12/icmp-ping-in-erlang-part-2.html)|
 |80|[@msantos](https://github.com/msantos)/[**evum**](https://github.com/msantos/evum)|["Linux VM", ["Erlang Process", ["Erlang VM"]]].||
 |64|[@ferd](https://github.com/ferd)/[**merklet**](https://github.com/ferd/merklet)|Merkle Trees for data replication in Erlang||
-|62|[@lpgauth](https://github.com/lpgauth)/[**buoy**](https://github.com/lpgauth/buoy)|High-Performance Erlang HTTP 1.1 Client||
+|64|[@lpgauth](https://github.com/lpgauth)/[**buoy**](https://github.com/lpgauth/buoy)|High-Performance Erlang HTTP 1.1 Client||
 |53|[@msantos](https://github.com/msantos)/[**tunctl**](https://github.com/msantos/tunctl)|Erlang TUN/TAP interface||
 |50|[@yrashk](https://github.com/yrashk)/[**rebar_elixir_plugin**](https://github.com/yrashk/rebar_elixir_plugin)|Elixir Plugin for Rebar||
 |49|[@msantos](https://github.com/msantos)/[**verx**](https://github.com/msantos/verx)|Erlang implementation of the libvirtd remote protocol||
+|47|[@ferd](https://github.com/ferd)/[**recon_demo**](https://github.com/ferd/recon_demo)|Playground for recon, for practice and demos.||
 |47|[@jkingsbery](https://github.com/jkingsbery)/[**sighandler**](https://github.com/jkingsbery/sighandler)|Handle UNIX signals in Erlang||
-|46|[@ferd](https://github.com/ferd)/[**recon_demo**](https://github.com/ferd/recon_demo)|Playground for recon, for practice and demos.||
 |43|[@ferd](https://github.com/ferd)/[**sups**](https://github.com/ferd/sups)|PropEr model helper library to validate implementations of supervisor trees||
+|43|[@lpgauth](https://github.com/lpgauth)/[**marina**](https://github.com/lpgauth/marina)|High-Performance Erlang Cassandra CQL Client||
 |43|[@msantos](https://github.com/msantos)/[**srly**](https://github.com/msantos/srly)|Native Erlang Unix serial interface||
-|41|[@lpgauth](https://github.com/lpgauth)/[**marina**](https://github.com/lpgauth/marina)|High-Performance Erlang Cassandra CQL Client||
 |40|[@ferd](https://github.com/ferd)/[**bertconf**](https://github.com/ferd/bertconf)|Make ETS tables out of statc BERT files that are auto-reloaded||
 |38|[@ferd](https://github.com/ferd)/[**cth_readable**](https://github.com/ferd/cth_readable)|Common Test hooks for more readable logs||
 |38|[@ferd](https://github.com/ferd)/[**zippers**](https://github.com/ferd/zippers)|A library for functional zipper data structures in Erlang. Read more on zippers @ http://ferd.ca/yet-another-article-on-zippers.html||
@@ -57,12 +57,12 @@
 |17|[@msantos](https://github.com/msantos)/[**wierl**](https://github.com/msantos/wierl)|Erlang interface for manipulating 802.11 wireless devices|[:arrow_upper_right:](http://blog.listincomprehension.com/2011/03/wireless-scanning-with-erlang.html)|
 |16|[@ferd](https://github.com/ferd)/[**hubble**](https://github.com/ferd/hubble)|create, read, and update deep Erlang data structures, accessible through explicit paths.||
 |16|[@lpgauth](https://github.com/lpgauth)/[**metal**](https://github.com/lpgauth/metal)|Lightweight Erlang server behaviour||
-|15|[@lpgauth](https://github.com/lpgauth)/[**timing**](https://github.com/lpgauth/timing)|Micro benchmarking Erlang library||
+|16|[@lpgauth](https://github.com/lpgauth)/[**timing**](https://github.com/lpgauth/timing)|Micro benchmarking Erlang library||
 |15|[@yrashk](https://github.com/yrashk)/[**cutkey**](https://github.com/yrashk/cutkey)|||
 |15|[@yrashk](https://github.com/yrashk)/[**erlang**](https://github.com/yrashk/erlang)|Erlang with extra unofficial patches (see branches for patches in development, alterline for merged patches)|[:arrow_upper_right:](http://erlang.org/)|
 |14|[@ferd](https://github.com/ferd)/[**cth_retry**](https://github.com/ferd/cth_retry)|Common Test hooks to retry the last failing cases // Now built in Rebar3||
+|14|[@ferd](https://github.com/ferd)/[**flatlog**](https://github.com/ferd/flatlog)|A custom formatter for the Erlang logger application that turns maps into single line text logs||
 |14|[@lpgauth](https://github.com/lpgauth)/[**anchor**](https://github.com/lpgauth/anchor)|High-Performance Erlang Memcached Client||
-|12|[@ferd](https://github.com/ferd)/[**flatlog**](https://github.com/ferd/flatlog)|A custom formatter for the Erlang logger application that turns maps into single line text logs||
 |12|[@lpgauth](https://github.com/lpgauth)/[**flare**](https://github.com/lpgauth/flare)|High Performance Erlang Kafka Producer||
 |12|[@msantos](https://github.com/msantos)/[**spoofed**](https://github.com/msantos/spoofed)|Spoof the Erlang Distribution Protocol!|[:arrow_upper_right:](http://listincomprehension.com/search/label/spoofed)|
 |11|[@ferd](https://github.com/ferd)/[**rebar3_shellrpc**](https://github.com/ferd/rebar3_shellrpc)|A plugin to send commands to a running rebar3 shell||
@@ -93,6 +93,7 @@
 |6|[@msantos](https://github.com/msantos)/[**sut**](https://github.com/msantos/sut)|Six (IPv6 in IPv4) Userlspace Tunnel||
 |5|[@ankurp](https://github.com/ankurp)/[**swift-js**](https://github.com/ankurp/swift-js)|Swift to JS Transpiler||
 |5|[@ferd](https://github.com/ferd)/[**rebar3-alias**](https://github.com/ferd/rebar3-alias)|Rebar3 Alias Plugin||
+|5|[@ferd](https://github.com/ferd)/[**tracelog**](https://github.com/ferd/tracelog)|A logging handler that can transforms structured logs into opencensus distributed tracing spans||
 |5|[@omarkj](https://github.com/omarkj)/[**TimedSupervisor**](https://github.com/omarkj/TimedSupervisor)|Allows to run an application on given days of week and hours of day.||
 |5|[@talentdeficit](https://github.com/talentdeficit)/[**frequency**](https://github.com/talentdeficit/frequency)|the webkit performance statement: the way to make a program faster is to never let it get slower. making that attitude easier in erlang||
 |5|[@yrashk](https://github.com/yrashk)/[**amqpfs**](https://github.com/yrashk/amqpfs)|||

@@ -4,14 +4,14 @@
 |629|[@yogthos](https://github.com/yogthos)/[**Selmer**](https://github.com/yogthos/Selmer)|A fast, Django inspired template system in Clojure.||
 |539|[@takeoutweight](https://github.com/takeoutweight)/[**clojure-scheme**](https://github.com/takeoutweight/clojure-scheme)|Clojure to Scheme to C to the bare metal.||
 |442|[@Gonzih](https://github.com/Gonzih)/[**cljs-electron**](https://github.com/Gonzih/cljs-electron)|ClojureScript + Electron + Figwheel + Reagent  = ❤❤❤||
-|381|[@yogthos](https://github.com/yogthos)/[**markdown-clj**](https://github.com/yogthos/markdown-clj)|Markdown parser in Clojure||
-|312|[@yogthos](https://github.com/yogthos)/[**migratus**](https://github.com/yogthos/migratus)|MIGRATE ALL THE THINGS!||
+|382|[@yogthos](https://github.com/yogthos)/[**markdown-clj**](https://github.com/yogthos/markdown-clj)|Markdown parser in Clojure||
+|313|[@yogthos](https://github.com/yogthos)/[**migratus**](https://github.com/yogthos/migratus)|MIGRATE ALL THE THINGS!||
 |194|[@yogthos](https://github.com/yogthos)/[**memory-hole**](https://github.com/yogthos/memory-hole)|Memory Hole is a support issue organizer application||
-|165|[@adambard](https://github.com/adambard)/[**failjure**](https://github.com/adambard/failjure)|Monadic error utilities for general use in Clojure projects||
+|168|[@adambard](https://github.com/adambard)/[**failjure**](https://github.com/adambard/failjure)|Monadic error utilities for general use in Clojure projects||
 |153|[@yogthos](https://github.com/yogthos)/[**yuggoth**](https://github.com/yogthos/yuggoth)|my blog engine (no longer maintained)|[:arrow_upper_right:](http://yogthos.net)|
-|122|[@yogthos](https://github.com/yogthos)/[**json-html**](https://github.com/yogthos/json-html)|Provide EDN/JSON and get a DOM node with a human representation of the data||
+|123|[@yogthos](https://github.com/yogthos)/[**json-html**](https://github.com/yogthos/json-html)|Provide EDN/JSON and get a DOM node with a human representation of the data||
 |106|[@yogthos](https://github.com/yogthos)/[**instant-pdf**](https://github.com/yogthos/instant-pdf)|A reporting service which generates PDFs from JSON encoded text||
-|96|[@Gonzih](https://github.com/Gonzih)/[**glue**](https://github.com/Gonzih/glue)|Configure Vue.js components using ClojureScript, manage global state using Atoms.||
+|100|[@Gonzih](https://github.com/Gonzih)/[**glue**](https://github.com/Gonzih/glue)|Configure Vue.js components using ClojureScript, manage global state using Atoms.||
 |73|[@yogthos](https://github.com/yogthos)/[**json-to-pdf**](https://github.com/yogthos/json-to-pdf)|A Library for easily generating PDF documents given JSON markup||
 |69|[@yogthos](https://github.com/yogthos)/[**config**](https://github.com/yogthos/config)|Library for managing environment variables in Clojure using EDN configuration files||
 |58|[@yogthos](https://github.com/yogthos)/[**mastodon-bot**](https://github.com/yogthos/mastodon-bot)|a bot for mirroring Twitter/Tumblr accounts and RSS feeds on Mastodon|[:arrow_upper_right:](https://mastodon.social/@newsbot)|
@@ -42,13 +42,13 @@
 |14|[@yogthos](https://github.com/yogthos)/[**components-example**](https://github.com/yogthos/components-example)|example of creating reusable re-frame components||
 |14|[@yogthos](https://github.com/yogthos)/[**reagent-secretary-example**](https://github.com/yogthos/reagent-secretary-example)|||
 |13|[@adambard](https://github.com/adambard)/[**lein-kotlinc**](https://github.com/adambard/lein-kotlinc)|Compile kotlin files from Leiningen||
+|12|[@onaio](https://github.com/onaio)/[**hatti**](https://github.com/onaio/hatti)|It views data!||
 |12|[@ujihisa](https://github.com/ujihisa)/[**cloft**](https://github.com/ujihisa/cloft)|minecraft server mod for ujihisa||
 |12|[@yogthos](https://github.com/yogthos)/[**krueger**](https://github.com/yogthos/krueger)|federated news||
 |12|[@yogthos](https://github.com/yogthos)/[**lein-sass**](https://github.com/yogthos/lein-sass)|SASS plugin for Leiningen using Sass.js||
 |12|[@yogthos](https://github.com/yogthos)/[**pg-feed-demo**](https://github.com/yogthos/pg-feed-demo)|example application for push notifications from PostgreSQL||
 |12|[@yogthos](https://github.com/yogthos)/[**swagger-service**](https://github.com/yogthos/swagger-service)|swagger-service tutorial using Duct||
 |11|[@adambard](https://github.com/adambard)/[**so-many-wordcounts**](https://github.com/adambard/so-many-wordcounts)|||
-|11|[@onaio](https://github.com/onaio)/[**hatti**](https://github.com/onaio/hatti)|It views data!||
 |11|[@yogthos](https://github.com/yogthos)/[**ReagentPerf**](https://github.com/yogthos/ReagentPerf)|Reagent version of the VueReactPerf benchmark||
 |11|[@yogthos](https://github.com/yogthos)/[**clojure-maven-examples**](https://github.com/yogthos/clojure-maven-examples)|Some examples for building Clojure with the clojure-maven-plugin||
 |11|[@yogthos](https://github.com/yogthos)/[**pulsar-example**](https://github.com/yogthos/pulsar-example)|||
@@ -79,19 +79,19 @@
 |6|[@ontodev](https://github.com/ontodev)/[**excel**](https://github.com/ontodev/excel)|A thin Clojure wrapper around a small part of Apache POI for reading .xlsx files.||
 |6|[@practicalli](https://github.com/practicalli)/[**clojure-webapps-example**](https://github.com/practicalli/clojure-webapps-example)|A Clojure project that accompanies clojure-webapps.practical.li||
 |6|[@yogthos](https://github.com/yogthos)/[**liberator-example**](https://github.com/yogthos/liberator-example)|Sample project for Liberator||
+|5|[@Gonzih](https://github.com/Gonzih)/[**glue-demo**](https://github.com/Gonzih/glue-demo)|Glue.cljs demo app||
 |5|[@adambard](https://github.com/adambard)/[**fregeweb**](https://github.com/adambard/fregeweb)|Just some tests integrating Frege and Clojure (with Ring)||
 |5|[@adambard](https://github.com/adambard)/[**nurblizer-clj**](https://github.com/adambard/nurblizer-clj)|The nurblizer, Clojure style||
 |5|[@crimeminister](https://github.com/crimeminister)/[**clj-autoremote**](https://github.com/crimeminister/clj-autoremote)|Clojure library for sending AutoRemote messages to Android devices||
+|5|[@honza](https://github.com/honza)/[**keylogger**](https://github.com/honza/keylogger)|keylogger output analyzer||
 |5|[@pangloss](https://github.com/pangloss)/[**synergize**](https://github.com/pangloss/synergize)|Extend core and browser Javascript object *instances* with ClojureScript core protocols||
 |5|[@practicalli](https://github.com/practicalli)/[**lighttable-koans**](https://github.com/practicalli/lighttable-koans)|Exercises to help you discover the Clojure syntax (mediations removed)||
 |5|[@stephanos](https://github.com/stephanos)/[**om-tutorial**](https://github.com/stephanos/om-tutorial)|Source code of the tutorial for Om||
 |4|[@Becojo](https://github.com/Becojo)/[**bloomf**](https://github.com/Becojo/bloomf)|Clojure BYOHF Bloom filter||
-|4|[@Gonzih](https://github.com/Gonzih)/[**glue-demo**](https://github.com/Gonzih/glue-demo)|Glue.cljs demo app||
 |4|[@Gonzih](https://github.com/Gonzih)/[**hn-tray.clj**](https://github.com/Gonzih/hn-tray.clj)|HN Tray||
 |4|[@adambard](https://github.com/adambard)/[**example.clj**](https://github.com/adambard/example.clj)|A barebones example Clojure web project using Ring, Compojure and Clostache||
 |4|[@adambard](https://github.com/adambard)/[**schemongo**](https://github.com/adambard/schemongo)|The mongo schema library for clojure with the embarrassing name||
 |4|[@honza](https://github.com/honza)/[**email-parsing**](https://github.com/honza/email-parsing)|Email parsing in Clojure||
-|4|[@honza](https://github.com/honza)/[**keylogger**](https://github.com/honza/keylogger)|keylogger output analyzer||
 |4|[@inaimathi](https://github.com/inaimathi)/[**kicktracker**](https://github.com/inaimathi/kicktracker)|A set of RSS feeds for recent projects on kickstarter||
 |4|[@pangloss](https://github.com/pangloss)/[**system.check**](https://github.com/pangloss/system.check)|Test stateful systems using test.check||
 |4|[@ujihisa](https://github.com/ujihisa)/[**postgres-lingrbot**](https://github.com/ujihisa/postgres-lingrbot)|Use PostgreSQL from Lingr||

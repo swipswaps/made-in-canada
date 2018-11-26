@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |56|[@sjourdan](https://github.com/sjourdan)/[**docker-vault**](https://github.com/sjourdan/docker-vault)|Docker Container for Hashicorp's Vault|[:arrow_upper_right:](https://hub.docker.com/r/sjourdan/vault/)|
-|52|[@nicolai86](https://github.com/nicolai86)/[**awesome-codepipeline-ci**](https://github.com/nicolai86/awesome-codepipeline-ci)|an AWS CodePipeline, AWS CodeBuild, AWS APIGateway & AWS Lambda CI||
-|30|[@nicolai86](https://github.com/nicolai86)/[**scaleway-terraform-demo**](https://github.com/nicolai86/scaleway-terraform-demo)|example using terraform for scaleway with nomad, consul & fabio|[:arrow_upper_right:](https://nicolai86.eu/)|
-|28|[@monzo](https://github.com/monzo)/[**etcd3-terraform**](https://github.com/monzo/etcd3-terraform)|A Terraform recipe for a robust etcd cluster, based on how Monzo runs its clusters. 💪||
+|55|[@nicolai86](https://github.com/nicolai86)/[**awesome-codepipeline-ci**](https://github.com/nicolai86/awesome-codepipeline-ci)|an AWS CodePipeline, AWS CodeBuild, AWS APIGateway & AWS Lambda CI||
+|32|[@nicolai86](https://github.com/nicolai86)/[**scaleway-terraform-demo**](https://github.com/nicolai86/scaleway-terraform-demo)|example using terraform for scaleway with nomad, consul & fabio|[:arrow_upper_right:](https://nicolai86.eu/)|
+|27|[@monzo](https://github.com/monzo)/[**etcd3-terraform**](https://github.com/monzo/etcd3-terraform)|A Terraform recipe for a robust etcd cluster, based on how Monzo runs its clusters. 💪||
 |26|[@OJFord](https://github.com/OJFord)/[**signed-blogs**](https://github.com/OJFord/signed-blogs)|Crypto-signed blog posts; powered by Keybase.io filesystem||
 |20|[@sjourdan](https://github.com/sjourdan)/[**vault-ssh-backend**](https://github.com/sjourdan/vault-ssh-backend)|This is a demo of a Terraform-lead infrastructure on Digital Ocean, using Vault w/Consul Docker containers and Vault SSH OTP for logins||
-|17|[@crielly](https://github.com/crielly)/[**bless**](https://github.com/crielly/bless)|Terraform deployment of the Netflix BLESS Cert Authority||
+|19|[@crielly](https://github.com/crielly)/[**bless**](https://github.com/crielly/bless)|Terraform deployment of the Netflix BLESS Cert Authority||
 |10|[@sportebois](https://github.com/sportebois)/[**aws-ec2-ssh-sync**](https://github.com/sportebois/aws-ec2-ssh-sync)|Terraform samples to sync and use IAM users ssh keys to connect to EC2 instances||
 |8|[@sjourdan](https://github.com/sjourdan)/[**docker-swarm-mode-demo**](https://github.com/sjourdan/docker-swarm-mode-demo)|An automatic Terraform demo using Docker Swarm 1.12 mode||
 |7|[@nicolai86](https://github.com/nicolai86)/[**scaleway-kubernetes-demo**](https://github.com/nicolai86/scaleway-kubernetes-demo)|setup a Kubernetes cluster on Scaleway via terraform||

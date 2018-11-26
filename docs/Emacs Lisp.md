@@ -1,16 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|16341|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
-|127|[@syl20bnr](https://github.com/syl20bnr)/[**evil-escape**](https://github.com/syl20bnr/evil-escape)|Customizable key sequence to escape from insert state and everything else in Emacs.||
+|16405|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
+|129|[@syl20bnr](https://github.com/syl20bnr)/[**evil-escape**](https://github.com/syl20bnr/evil-escape)|Customizable key sequence to escape from insert state and everything else in Emacs.||
 |114|[@burtonsamograd](https://github.com/burtonsamograd)/[**emacs-jit**](https://github.com/burtonsamograd/emacs-jit)|Emacs with an Emacs Lisp JIT (Just In Time) compiler using libjit.||
 |84|[@atgreen](https://github.com/atgreen)/[**paperless**](https://github.com/atgreen/paperless)|Emacs assisted PDF document filing||
 |76|[@aspiers](https://github.com/aspiers)/[**smooth-scrolling**](https://github.com/aspiers/smooth-scrolling)|Emacs smooth scrolling package||
 |73|[@syl20bnr](https://github.com/syl20bnr)/[**evil-lisp-state**](https://github.com/syl20bnr/evil-lisp-state)|An evil state to navigate Lisp code and modify it with smartparens||
 |61|[@rudolfolah](https://github.com/rudolfolah)/[**emacs-sos**](https://github.com/rudolfolah/emacs-sos)|StackOverflow Search (SOS) mode for Emacs.||
 |49|[@rudolfolah](https://github.com/rudolfolah)/[**org-doing**](https://github.com/rudolfolah/org-doing)|keep track of what you're doing right now and what you've worked on before|[:arrow_upper_right:](http://omouse.github.io/org-doing)|
-|48|[@syl20bnr](https://github.com/syl20bnr)/[**spacelpa**](https://github.com/syl20bnr/spacelpa)|ELPA repository for stable versions of Spacemacs||
+|49|[@syl20bnr](https://github.com/syl20bnr)/[**spacelpa**](https://github.com/syl20bnr/spacelpa)|ELPA repository for stable versions of Spacemacs||
+|42|[@syl20bnr](https://github.com/syl20bnr)/[**evil-tutor**](https://github.com/syl20bnr/evil-tutor)|Vimtutor adapted to Emacs+Evil and wrapped in a major mode.||
 |41|[@jimeh](https://github.com/jimeh)/[**twilight-bright-theme.el**](https://github.com/jimeh/twilight-bright-theme.el)|A Emacs port of the TextMate theme by the same name with some minor tweaks and additions.||
-|41|[@syl20bnr](https://github.com/syl20bnr)/[**evil-tutor**](https://github.com/syl20bnr/evil-tutor)|Vimtutor adapted to Emacs+Evil and wrapped in a major mode.||
 |39|[@syl20bnr](https://github.com/syl20bnr)/[**evil-iedit-state**](https://github.com/syl20bnr/evil-iedit-state)|Slick Evil states for iedit.||
 |38|[@jimeh](https://github.com/jimeh)/[**twilight-anti-bright-theme**](https://github.com/jimeh/twilight-anti-bright-theme)|A light-on-dark Emacs and TextMate theme inspired by the dark-on-light Twilight Bright TextMate theme.||
 |36|[@jimeh](https://github.com/jimeh)/[**birds-of-paradise-plus-theme.el**](https://github.com/jimeh/birds-of-paradise-plus-theme.el)|A Emacs port of Joseph Bergantine's light-on-dark theme by the same name.||
@@ -18,7 +18,7 @@
 |32|[@jimeh](https://github.com/jimeh)/[**.emacs.d**](https://github.com/jimeh/.emacs.d)|My personal Emacs config with any quirks, oddities, bugs, and man-eating errors I live with on a daily basis.||
 |31|[@rudolfolah](https://github.com/rudolfolah)/[**angularjs-mode**](https://github.com/rudolfolah/angularjs-mode)|AngularJS utilities and major modes for Emacs (angular-mode for javascript, angular-html-mode for html templates)|[:arrow_upper_right:](http://rudolfolah.github.io/angularjs-mode)|
 |23|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs-elpa-mirror**](https://github.com/syl20bnr/spacemacs-elpa-mirror)|ELPA archive for Spacemacs packages.||
-|21|[@dpo](https://github.com/dpo)/[**ampl-mode**](https://github.com/dpo/ampl-mode)|Syntax highlighting mode for the AMPL modeling language||
+|22|[@dpo](https://github.com/dpo)/[**ampl-mode**](https://github.com/dpo/ampl-mode)|Syntax highlighting mode for the AMPL modeling language||
 |19|[@syl20bnr](https://github.com/syl20bnr)/[**vi-tilde-fringe**](https://github.com/syl20bnr/vi-tilde-fringe)|Display tildes on empty lines in the Emacs fringe a la Vi.||
 |15|[@j0ni](https://github.com/j0ni)/[**phoenix-dark-pink**](https://github.com/j0ni/phoenix-dark-pink)|Phoenix Dark Pink theme port for emacs||
 |12|[@cbbrowne](https://github.com/cbbrowne)/[**pg.el**](https://github.com/cbbrowne/pg.el)|PostgreSQL Elisp interface||
@@ -42,9 +42,9 @@
 |4|[@aspiers](https://github.com/aspiers)/[**vc-osc**](https://github.com/aspiers/vc-osc)|osc backend for emacs vc mode||
 |4|[@jdufresne](https://github.com/jdufresne)/[**emacs-init**](https://github.com/jdufresne/emacs-init)|My Emacs init.el||
 |4|[@rudolfolah](https://github.com/rudolfolah)/[**fogbugz-mode**](https://github.com/rudolfolah/fogbugz-mode)|An Emacs mode for interfacing with FogBugz.||
+|4|[@tokenrove](https://github.com/tokenrove)/[**goose-theme**](https://github.com/tokenrove/goose-theme)|A gray color theme|[:arrow_upper_right:](https://github.com/thwg/goose-theme)|
 |4|[@travisjeffery](https://github.com/travisjeffery)/[**emacs-nav**](https://github.com/travisjeffery/emacs-nav)|Nav is a lightweight solution for Emacs users who want something like TextMate's file browser, or the Eclipse project view. Unlike these two, Nav only shows the contents of a single directory at a time, but it allows recursive searching for filenames using the 'f' key-binding, and recursive grepping of file contents with the 'g' key-binding. Nav can be run painlessly in terminals, where Speedbar either fails on its attempt to make a new frame or is hidden. Nav's terminal-friendliness comes from running in the frame where it was started, keeping window management simple. The Nav key bindings are simple, as well -- each key command is a single keystroke long.  |[:arrow_upper_right:](http://code.google.com/p/emacs-nav/)|
 |3|[@gnuvince](https://github.com/gnuvince)/[**purp**](https://github.com/gnuvince/purp)|A theme for Emacs with few colors||
 |3|[@j0ni](https://github.com/j0ni)/[**emacs.d**](https://github.com/j0ni/emacs.d)|My emacs configuration||
 |3|[@nithinbekal](https://github.com/nithinbekal)/[**dotfiles**](https://github.com/nithinbekal/dotfiles)|Config files for vim, zsh, tmux etc.||
-|3|[@tokenrove](https://github.com/tokenrove)/[**goose-theme**](https://github.com/tokenrove/goose-theme)|A gray color theme|[:arrow_upper_right:](https://github.com/thwg/goose-theme)|
 

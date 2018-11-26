@@ -7,7 +7,7 @@
 |40|[@sjackman](https://github.com/sjackman)/[**lambdar**](https://github.com/sjackman/lambdar)|ƛR: Run R on AWS Lambda|[:arrow_upper_right:](http://lambdar.sjackman.ca/?e=stem(rnorm(100)))|
 |39|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_build**](https://github.com/CopperheadOS/platform_build)|||
 |36|[@RobLoach](https://github.com/RobLoach)/[**base16-geany**](https://github.com/RobLoach/base16-geany)|:crystal_ball: Base16 Scheme for Geany|[:arrow_upper_right:](https://github.com/chriskempson/base16)|
-|31|[@ssokolow](https://github.com/ssokolow)/[**rust-cli-boilerplate**](https://github.com/ssokolow/rust-cli-boilerplate)|Rust project boilerplate for CLI applications||
+|32|[@ssokolow](https://github.com/ssokolow)/[**rust-cli-boilerplate**](https://github.com/ssokolow/rust-cli-boilerplate)|Rust project boilerplate for CLI applications||
 |27|[@jasonish](https://github.com/jasonish)/[**docker-snort**](https://github.com/jasonish/docker-snort)|A ready to run Snort and PulledPork docker image.||
 |27|[@pramsey](https://github.com/pramsey)/[**pgsql-addressing-dictionary**](https://github.com/pramsey/pgsql-addressing-dictionary)|TSearch dictionaries for addresses ||
 |27|[@tj](https://github.com/tj)/[**make**](https://github.com/tj/make)|Makefiles||

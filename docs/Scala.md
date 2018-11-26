@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|476|[@cvogt](https://github.com/cvogt)/[**cbt**](https://github.com/cvogt/cbt)|CBT - fun, fast, intuitive, compositional, statically checked builds written in Scala||
+|478|[@cvogt](https://github.com/cvogt)/[**cbt**](https://github.com/cvogt/cbt)|CBT - fun, fast, intuitive, compositional, statically checked builds written in Scala||
 |367|[@marconilanna](https://github.com/marconilanna)/[**REPLesent**](https://github.com/marconilanna/REPLesent)|A neat little tool to build presentations using the Scala REPL||
-|349|[@fosskers](https://github.com/fosskers)/[**scalaz-and-cats**](https://github.com/fosskers/scalaz-and-cats)|Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).||
-|337|[@mardambey](https://github.com/mardambey)/[**mypipe**](https://github.com/mardambey/mypipe)|MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka.||
-|322|[@dcaoyuan](https://github.com/dcaoyuan)/[**chana**](https://github.com/dcaoyuan/chana)|Avro Data Store based on Akka||
+|352|[@fosskers](https://github.com/fosskers)/[**scalaz-and-cats**](https://github.com/fosskers/scalaz-and-cats)|Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).||
+|339|[@mardambey](https://github.com/mardambey)/[**mypipe**](https://github.com/mardambey/mypipe)|MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka.||
+|324|[@dcaoyuan](https://github.com/dcaoyuan)/[**chana**](https://github.com/dcaoyuan/chana)|Avro Data Store based on Akka||
 |256|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-socketio**](https://github.com/dcaoyuan/spray-socketio)|socket.io for spray||
 |224|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-websocket**](https://github.com/dcaoyuan/spray-websocket)|WebSocket for spray-can||
 |206|[@jmcardon](https://github.com/jmcardon)/[**tsec**](https://github.com/jmcardon/tsec)|Type-safe general-cryptography library - https://jmcardon.github.io/tsec/||
@@ -43,10 +43,10 @@
 |18|[@NeQuissimus](https://github.com/NeQuissimus)/[**circe-kafka**](https://github.com/NeQuissimus/circe-kafka)|Implicit conversion of Encoder and Decoder into Serializer/Deserializer/Serde||
 |17|[@abbas-taher](https://github.com/abbas-taher)/[**pagerank-example-spark2.0-deep-dive**](https://github.com/abbas-taher/pagerank-example-spark2.0-deep-dive)|Tutorial 101: PageRank Example in Spark 2.0 : Understanding the Algorithm & Spark Implementation Code  ||
 |17|[@skrat](https://github.com/skrat)/[**sunflow**](https://github.com/skrat/sunflow)|Repository mirror of Sunflow photorealistic renderer|[:arrow_upper_right:](http://sunflow.sourceforge.net/)|
+|16|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**hands-on-scala-native**](https://github.com/MasseGuillaume/hands-on-scala-native)||[:arrow_upper_right:](https://masseguillaume.github.io/hands-on-scala-native-slides/#/)|
 |16|[@cvogt](https://github.com/cvogt)/[**slick-action**](https://github.com/cvogt/slick-action)|Automatic connection management and dependency tracking||
 |16|[@knoldus](https://github.com/knoldus)/[**Employee-Self-Service**](https://github.com/knoldus/Employee-Self-Service)|Building Reactive play application with Anorm||
 |16|[@knoldus](https://github.com/knoldus)/[**spark-spray-starter**](https://github.com/knoldus/spark-spray-starter)|||
-|15|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**hands-on-scala-native**](https://github.com/MasseGuillaume/hands-on-scala-native)||[:arrow_upper_right:](https://masseguillaume.github.io/hands-on-scala-native-slides/#/)|
 |15|[@edmundnoble](https://github.com/edmundnoble)/[**final-tagless-typelevel-summit**](https://github.com/edmundnoble/final-tagless-typelevel-summit)|Final tagless talk sources.||
 |15|[@knoldus](https://github.com/knoldus)/[**playing-slick-pg**](https://github.com/knoldus/playing-slick-pg)|Reactive Play application with Slick extensions for PostgreSQL||
 |15|[@marconilanna](https://github.com/marconilanna)/[**NEScala2015**](https://github.com/marconilanna/NEScala2015)|Slides and code for my "F-Bounded Polymorphism" talk||

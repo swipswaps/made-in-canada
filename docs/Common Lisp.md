@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|255|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
+|256|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
 |73|[@hoytech](https://github.com/hoytech)/[**antiweb**](https://github.com/hoytech/antiweb)|Common Lisp web application server|[:arrow_upper_right:](http://hoytech.com/antiweb/)|
-|57|[@inaimathi](https://github.com/inaimathi)/[**cl-notebook**](https://github.com/inaimathi/cl-notebook)|A notebook-style editor for Common Lisp||
+|58|[@inaimathi](https://github.com/inaimathi)/[**cl-notebook**](https://github.com/inaimathi/cl-notebook)|A notebook-style editor for Common Lisp||
 |47|[@thephoeron](https://github.com/thephoeron)/[**let-over-lambda**](https://github.com/thephoeron/let-over-lambda)|Doug Hoyte's "Production" version of macros from Let Over Lambda, ready for ASDF and Quicklisp.||
 |44|[@thephoeron](https://github.com/thephoeron)/[**black-stone**](https://github.com/thephoeron/black-stone)|Specification and Implementation of Quantum Common Lisp, for gate-model quantum computers||
 |33|[@inaimathi](https://github.com/inaimathi)/[**cl-css**](https://github.com/inaimathi/cl-css)|Non-validating, inline CSS generator for Common Lisp||

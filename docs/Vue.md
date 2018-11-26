@@ -1,16 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1958|[@Caiyeon](https://github.com/Caiyeon)/[**goldfish**](https://github.com/Caiyeon/goldfish)|A HashiCorp Vault UI written with VueJS and Vault native Go API|[:arrow_upper_right:](https://vault-ui.io)|
-|267|[@chmln](https://github.com/chmln)/[**vue-wysiwyg**](https://github.com/chmln/vue-wysiwyg)|A lightweight WYSIWYG HTML editor for Vue.js|[:arrow_upper_right:](https://chmln.github.io/vue-wysiwyg/)|
-|106|[@Braunson](https://github.com/Braunson)/[**laravel-coreui-vue**](https://github.com/Braunson/laravel-coreui-vue)|Laravel 5.6 with CoreUI (VueJS Full Starter Template)||
+|1964|[@Caiyeon](https://github.com/Caiyeon)/[**goldfish**](https://github.com/Caiyeon/goldfish)|A HashiCorp Vault UI written with VueJS and Vault native Go API|[:arrow_upper_right:](https://vault-ui.io)|
+|269|[@chmln](https://github.com/chmln)/[**vue-wysiwyg**](https://github.com/chmln/vue-wysiwyg)|A lightweight WYSIWYG HTML editor for Vue.js|[:arrow_upper_right:](https://chmln.github.io/vue-wysiwyg/)|
+|107|[@Braunson](https://github.com/Braunson)/[**laravel-coreui-vue**](https://github.com/Braunson/laravel-coreui-vue)|Laravel 5.6 with CoreUI (VueJS Full Starter Template)||
+|55|[@james2doyle](https://github.com/james2doyle)/[**nuxt-firebase-auth**](https://github.com/james2doyle/nuxt-firebase-auth)|An example of using Nuxt with Firebase to auth users without a server||
 |55|[@remixz](https://github.com/remixz)/[**umi**](https://github.com/remixz/umi)|📺 Watch Crunchyroll together, and more|[:arrow_upper_right:](https://umi.party)|
-|54|[@james2doyle](https://github.com/james2doyle)/[**nuxt-firebase-auth**](https://github.com/james2doyle/nuxt-firebase-auth)|An example of using Nuxt with Firebase to auth users without a server||
-|12|[@adamwathan](https://github.com/adamwathan)/[**vueconfto-demo**](https://github.com/adamwathan/vueconfto-demo)|||
+|31|[@adamwathan](https://github.com/adamwathan)/[**vueconfto-demo**](https://github.com/adamwathan/vueconfto-demo)|||
 |12|[@eddyerburgh](https://github.com/eddyerburgh)/[**parcel-vue-starter**](https://github.com/eddyerburgh/parcel-vue-starter)|A parcel Vue starter project||
 |11|[@Ratismal](https://github.com/Ratismal)/[**DiscordMungeon**](https://github.com/Ratismal/DiscordMungeon)|A panel for DiscordRPG||
-|8|[@yanick](https://github.com/yanick)/[**vue-svg-pan-zoom**](https://github.com/yanick/vue-svg-pan-zoom)|Vue component using SvgPanZoom||
+|9|[@drehimself](https://github.com/drehimself)/[**nativescript-vue-example**](https://github.com/drehimself/nativescript-vue-example)|||
+|9|[@yanick](https://github.com/yanick)/[**vue-svg-pan-zoom**](https://github.com/yanick/vue-svg-pan-zoom)|Vue component using SvgPanZoom||
 |7|[@davestewart](https://github.com/davestewart)/[**vuex-pathify-demos**](https://github.com/davestewart/vuex-pathify-demos)|A set of demos for the Vuex Pathify plugin||
-|7|[@drehimself](https://github.com/drehimself)/[**nativescript-vue-example**](https://github.com/drehimself/nativescript-vue-example)|||
 |6|[@drehimself](https://github.com/drehimself)/[**element-vue-example**](https://github.com/drehimself/element-vue-example)|||
 |6|[@eddyerburgh](https://github.com/eddyerburgh)/[**vue-test-loader-example**](https://github.com/eddyerburgh/vue-test-loader-example)|An example project using vue-test-loader to extract tests||
 |6|[@ginpei](https://github.com/ginpei)/[**giclock**](https://github.com/ginpei/giclock)|An analog and digital clock with "pomodoro" timer.|[:arrow_upper_right:](https://clock.ginpei.info/)|
@@ -24,4 +24,5 @@
 |4|[@biojs](https://github.com/biojs)/[**biojs-frontend**](https://github.com/biojs/biojs-frontend)|Frontend repository for BioJS - GSoC 2018.||
 |3|[@Belphemur](https://github.com/Belphemur)/[**vue-json-csv**](https://github.com/Belphemur/vue-json-csv)|VueJS component to export Json Data into CSV file and download the resulting file.||
 |3|[@drehimself](https://github.com/drehimself)/[**vuenative-example**](https://github.com/drehimself/vuenative-example)|||
+|3|[@stormwarning](https://github.com/stormwarning)/[**polychroma**](https://github.com/stormwarning/polychroma)|🌈 Generate better CSS gradients using alternative colour spaces & Bezier interpolation.|[:arrow_upper_right:](https://polychroma.now.sh/)|
 
