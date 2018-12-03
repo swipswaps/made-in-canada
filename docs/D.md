@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2761|[@gnunn1](https://github.com/gnunn1)/[**tilix**](https://github.com/gnunn1/tilix)|A tiling terminal emulator for Linux using GTK+ 3|[:arrow_upper_right:](https://gnunn1.github.io/tilix-web)|
-|121|[@etcimon](https://github.com/etcimon)/[**libasync**](https://github.com/etcimon/libasync)|Cross-platform event loop library of asynchronous objects||
+|2779|[@gnunn1](https://github.com/gnunn1)/[**tilix**](https://github.com/gnunn1/tilix)|A tiling terminal emulator for Linux using GTK+ 3|[:arrow_upper_right:](https://gnunn1.github.io/tilix-web)|
+|122|[@etcimon](https://github.com/etcimon)/[**libasync**](https://github.com/etcimon/libasync)|Cross-platform event loop library of asynchronous objects||
 |64|[@etcimon](https://github.com/etcimon)/[**botan**](https://github.com/etcimon/botan)|Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc.||
 |34|[@etcimon](https://github.com/etcimon)/[**memutils**](https://github.com/etcimon/memutils)|Overhead allocators, allocator-aware containers and lifetime management for D objects||
 |32|[@etcimon](https://github.com/etcimon)/[**libhttp2**](https://github.com/etcimon/libhttp2)|HTTP/2 library in D, translated from nghttp2||

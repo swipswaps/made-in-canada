@@ -1,17 +1,17 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|16405|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
+|16471|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
 |129|[@syl20bnr](https://github.com/syl20bnr)/[**evil-escape**](https://github.com/syl20bnr/evil-escape)|Customizable key sequence to escape from insert state and everything else in Emacs.||
 |114|[@burtonsamograd](https://github.com/burtonsamograd)/[**emacs-jit**](https://github.com/burtonsamograd/emacs-jit)|Emacs with an Emacs Lisp JIT (Just In Time) compiler using libjit.||
 |84|[@atgreen](https://github.com/atgreen)/[**paperless**](https://github.com/atgreen/paperless)|Emacs assisted PDF document filing||
 |76|[@aspiers](https://github.com/aspiers)/[**smooth-scrolling**](https://github.com/aspiers/smooth-scrolling)|Emacs smooth scrolling package||
 |73|[@syl20bnr](https://github.com/syl20bnr)/[**evil-lisp-state**](https://github.com/syl20bnr/evil-lisp-state)|An evil state to navigate Lisp code and modify it with smartparens||
-|61|[@rudolfolah](https://github.com/rudolfolah)/[**emacs-sos**](https://github.com/rudolfolah/emacs-sos)|StackOverflow Search (SOS) mode for Emacs.||
+|62|[@rudolfolah](https://github.com/rudolfolah)/[**emacs-sos**](https://github.com/rudolfolah/emacs-sos)|StackOverflow Search (SOS) mode for Emacs.||
+|50|[@syl20bnr](https://github.com/syl20bnr)/[**spacelpa**](https://github.com/syl20bnr/spacelpa)|ELPA repository for stable versions of Spacemacs||
 |49|[@rudolfolah](https://github.com/rudolfolah)/[**org-doing**](https://github.com/rudolfolah/org-doing)|keep track of what you're doing right now and what you've worked on before|[:arrow_upper_right:](http://omouse.github.io/org-doing)|
-|49|[@syl20bnr](https://github.com/syl20bnr)/[**spacelpa**](https://github.com/syl20bnr/spacelpa)|ELPA repository for stable versions of Spacemacs||
 |42|[@syl20bnr](https://github.com/syl20bnr)/[**evil-tutor**](https://github.com/syl20bnr/evil-tutor)|Vimtutor adapted to Emacs+Evil and wrapped in a major mode.||
 |41|[@jimeh](https://github.com/jimeh)/[**twilight-bright-theme.el**](https://github.com/jimeh/twilight-bright-theme.el)|A Emacs port of the TextMate theme by the same name with some minor tweaks and additions.||
-|39|[@syl20bnr](https://github.com/syl20bnr)/[**evil-iedit-state**](https://github.com/syl20bnr/evil-iedit-state)|Slick Evil states for iedit.||
+|40|[@syl20bnr](https://github.com/syl20bnr)/[**evil-iedit-state**](https://github.com/syl20bnr/evil-iedit-state)|Slick Evil states for iedit.||
 |38|[@jimeh](https://github.com/jimeh)/[**twilight-anti-bright-theme**](https://github.com/jimeh/twilight-anti-bright-theme)|A light-on-dark Emacs and TextMate theme inspired by the dark-on-light Twilight Bright TextMate theme.||
 |36|[@jimeh](https://github.com/jimeh)/[**birds-of-paradise-plus-theme.el**](https://github.com/jimeh/birds-of-paradise-plus-theme.el)|A Emacs port of Joseph Bergantine's light-on-dark theme by the same name.||
 |33|[@burke](https://github.com/burke)/[**color-theme-ir-black**](https://github.com/burke/color-theme-ir-black)|[abandoned] IR Black Color Theme for Emacs.||

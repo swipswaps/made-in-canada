@@ -2,7 +2,7 @@
 |---|---|---|---|
 |54|[@dgodd](https://github.com/dgodd)/[**concourse-summary**](https://github.com/dgodd/concourse-summary)|||
 |13|[@Virtual-Machine](https://github.com/Virtual-Machine)/[**llvm-tutorial-book**](https://github.com/Virtual-Machine/llvm-tutorial-book)|In Progress. Building a front end for llvm.||
-|11|[@Yive](https://github.com/Yive)/[**YivesMirror**](https://github.com/Yive/YivesMirror)|||
+|10|[@Yive](https://github.com/Yive)/[**YivesMirror**](https://github.com/Yive/YivesMirror)|||
 |10|[@bentranter](https://github.com/bentranter)/[**turbolinks**](https://github.com/bentranter/turbolinks)|Crystal engine for Turbolinks integration.|[:arrow_upper_right:](https://bentranter.github.io/turbolinks/)|
 |3|[@Yive](https://github.com/Yive)/[**RotateSRV**](https://github.com/Yive/RotateSRV)|SRV rotator for blacklisted Minecraft servers||
 |3|[@adam12](https://github.com/adam12)/[**devjournal**](https://github.com/adam12/devjournal)|My own developer journal tool||
