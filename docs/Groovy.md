@@ -34,4 +34,5 @@
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**groovy-google-collections**](https://github.com/kellyrob99/groovy-google-collections)|A comparison of Groovy, Java and Google-Collections for brevity and fluency.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/05/15/achieving-groovy-like-fluency-in-java-with-google-collections/)|
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**running-groovy**](https://github.com/kellyrob99/running-groovy)|Examples of how to dynamically execute Groovy and Java code.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2009/11/21/different-flavors-of-embedded-groovy-in-java-apps-or-how-to-make-your-java-groovier/)|
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**stackoverflow-api-grails**](https://github.com/kellyrob99/stackoverflow-api-grails)|A demo of the StackExchange APIs|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/06/02/a-grails-app-demoing-the-stackexchange-api/)|
+|3|[@yracine](https://github.com/yracine)/[**device-type-myNext**](https://github.com/yracine/device-type-myNext)|||
 

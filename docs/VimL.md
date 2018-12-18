@@ -2,20 +2,20 @@
 |---|---|---|---|
 |191|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
 |148|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
-|88|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|:rocket: Quickly init a slightly better Vim.||
+|89|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|:rocket: Quickly init a slightly better Vim.||
 |50|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
+|45|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
 |45|[@ujihisa](https://github.com/ujihisa)/[**unite-colorscheme**](https://github.com/ujihisa/unite-colorscheme)|A unite.vim plugin||
-|44|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
 |40|[@ujihisa](https://github.com/ujihisa)/[**shadow.vim**](https://github.com/ujihisa/shadow.vim)|That's not the file. That's shadow.||
-|37|[@tommcdo](https://github.com/tommcdo)/[**vim-ninja-feet**](https://github.com/tommcdo/vim-ninja-feet)|Strike from the cursor to either end of a text object||
+|39|[@tommcdo](https://github.com/tommcdo)/[**vim-ninja-feet**](https://github.com/tommcdo/vim-ninja-feet)|Strike from the cursor to either end of a text object||
 |34|[@ujihisa](https://github.com/ujihisa)/[**vimshell-ssh**](https://github.com/ujihisa/vimshell-ssh)|the world first vimshell plugin that you can run "vim" command on ssh on vimshell||
-|28|[@tommcdo](https://github.com/tommcdo)/[**vim-fugitive-blame-ext**](https://github.com/tommcdo/vim-fugitive-blame-ext)|Extend tpope/vim-fugitive to show commit message on statusline in :Gblame||
+|29|[@tommcdo](https://github.com/tommcdo)/[**vim-fugitive-blame-ext**](https://github.com/tommcdo/vim-fugitive-blame-ext)|Extend tpope/vim-fugitive to show commit message on statusline in :Gblame||
 |23|[@gmarik](https://github.com/gmarik)/[**github-search.vim**](https://github.com/gmarik/github-search.vim)|search Github and clone repos with Vim|[:arrow_upper_right:](http://github.com/gmarik/github-search.vim)|
 |23|[@pangloss](https://github.com/pangloss)/[**vim-erlang**](https://github.com/pangloss/vim-erlang)|This repo has been superseded by the one at http://github.com/oscarh/vimerl which is maintained by the original author. Move along, nothing more to see here!||
 |23|[@svermeulen](https://github.com/svermeulen)/[**vim-extended-ft**](https://github.com/svermeulen/vim-extended-ft)|||
+|22|[@thayerwilliams](https://github.com/thayerwilliams)/[**vimbrant**](https://github.com/thayerwilliams/vimbrant)|A vibrantly dark dark colour scheme for Vim and other terminal applications||
 |22|[@ujihisa](https://github.com/ujihisa)/[**unite-locate**](https://github.com/ujihisa/unite-locate)|||
 |21|[@honza](https://github.com/honza)/[**writer.vim**](https://github.com/honza/writer.vim)|vim plugin for writing prose||
-|21|[@thayerwilliams](https://github.com/thayerwilliams)/[**vimbrant**](https://github.com/thayerwilliams/vimbrant)|A vibrantly dark dark colour scheme for Vim and other terminal applications||
 |17|[@mrmrs](https://github.com/mrmrs)/[**vimrc**](https://github.com/mrmrs/vimrc)|||
 |17|[@tristen](https://github.com/tristen)/[**superman**](https://github.com/tristen/superman)|:art: A dark theme for Vim||
 |14|[@gmarik](https://github.com/gmarik)/[**sudo-gui.vim**](https://github.com/gmarik/sudo-gui.vim)|sudo GUI for a GUI vim|[:arrow_upper_right:](https://github.com/gmarik/sudo-gui.vim)|
@@ -54,7 +54,6 @@
 |4|[@pangloss](https://github.com/pangloss)/[**vim-simplefold**](https://github.com/pangloss/vim-simplefold)|Fork of SimpleFold.vim by Mauricio Fernandez. Space-optimized, configurable code folding for vim.|[:arrow_upper_right:](http://eigenclass.org/hiki/simplefold)|
 |4|[@pushrax](https://github.com/pushrax)/[**kantan**](https://github.com/pushrax/kantan)|Simple 16-colour scheming||
 |4|[@staticsafe](https://github.com/staticsafe)/[**dotfiles**](https://github.com/staticsafe/dotfiles)|Contains my dotfiles||
-|4|[@travisjeffery](https://github.com/travisjeffery)/[**vim-gotosymbol**](https://github.com/travisjeffery/vim-gotosymbol)|Go to Symbol for Vim with Tagslist.||
 |4|[@ujihisa](https://github.com/ujihisa)/[**camelcasemotion**](https://github.com/ujihisa/camelcasemotion)|A personal fork of camelcasemotion made by a great Vim programmer Ingo Karkat|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=1905)|
 |4|[@ujihisa](https://github.com/ujihisa)/[**neco-rubymf**](https://github.com/ujihisa/neco-rubymf)|||
 |4|[@ujihisa](https://github.com/ujihisa)/[**ref-hoogle**](https://github.com/ujihisa/ref-hoogle)|A ref plugin for Haskell, using hoogle command||
@@ -78,6 +77,7 @@
 |3|[@saks](https://github.com/saks)/[**.vim**](https://github.com/saks/.vim)|my .vim directory files||
 |3|[@sgraham](https://github.com/sgraham)/[**sgraham**](https://github.com/sgraham/sgraham)|Scott Graham's config files|[:arrow_upper_right:](http://blog.learnr.org/)|
 |3|[@tommcdo](https://github.com/tommcdo)/[**vim-nowchangethat**](https://github.com/tommcdo/vim-nowchangethat)|Repeat Vim's change operator on a new motion||
+|3|[@travisjeffery](https://github.com/travisjeffery)/[**vim-gotosymbol**](https://github.com/travisjeffery/vim-gotosymbol)|Go to Symbol for Vim with Tagslist.||
 |3|[@travisjeffery](https://github.com/travisjeffery)/[**vim-testee**](https://github.com/travisjeffery/vim-testee)|super duper testing plugin/extension for Vim||
 |3|[@ujihisa](https://github.com/ujihisa)/[**keeprun.vim**](https://github.com/ujihisa/keeprun.vim)|! This project is abandoned since I made patch to make quickrun.vim keep running !||
 |3|[@ujihisa](https://github.com/ujihisa)/[**vehearse**](https://github.com/ujihisa/vehearse)|Vim Rehearse||
