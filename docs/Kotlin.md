@@ -1,18 +1,18 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1050|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatMagician**](https://github.com/Gh0u1L5/WechatMagician)|WechatMagician is a Xposed module written in Kotlin, that allows you to completely control your Wechat.|[:arrow_upper_right:](http://repo.xposed.info/module/com.gh0u1l5.wechatmagician)|
-|659|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatSpellbook**](https://github.com/Gh0u1L5/WechatSpellbook)|Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架，底层需要 Xposed 或 VirtualXposed 等Hooking框架的支持，而顶层可以轻松对接Java、Kotlin、Scala等JVM系语言。让程序员能够在几分钟内编写出简单的微信插件，随意揉捏微信的内部逻辑。||
-|230|[@rock3r](https://github.com/rock3r)/[**deep-clean**](https://github.com/rock3r/deep-clean)|A Kotlin script that nukes all build caches from Gradle/Android projects. Useful when Gradle or the IDE let you down 💔||
+|1066|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatMagician**](https://github.com/Gh0u1L5/WechatMagician)|WechatMagician is a Xposed module written in Kotlin, that allows you to completely control your Wechat.|[:arrow_upper_right:](http://repo.xposed.info/module/com.gh0u1l5.wechatmagician)|
+|685|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatSpellbook**](https://github.com/Gh0u1L5/WechatSpellbook)|Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架，底层需要 Xposed 或 VirtualXposed 等Hooking框架的支持，而顶层可以轻松对接Java、Kotlin、Scala等JVM系语言。让程序员能够在几分钟内编写出简单的微信插件，随意揉捏微信的内部逻辑。||
+|232|[@rock3r](https://github.com/rock3r)/[**deep-clean**](https://github.com/rock3r/deep-clean)|A Kotlin script that nukes all build caches from Gradle/Android projects. Useful when Gradle or the IDE let you down 💔||
 |135|[@Jerry1211](https://github.com/Jerry1211)/[**RadarProject**](https://github.com/Jerry1211/RadarProject)|Very Meme Radar|[:arrow_upper_right:](http://VMRadar.net)|
-|127|[@rock3r](https://github.com/rock3r)/[**uplift**](https://github.com/rock3r/uplift)|A playground for elevation on Android||
-|98|[@AllanWang](https://github.com/AllanWang)/[**Frost-for-Facebook**](https://github.com/AllanWang/Frost-for-Facebook)|An extensive and functional third party app for Facebook|[:arrow_upper_right:](https://allanwang.github.io/Frost-for-Facebook/)|
+|131|[@rock3r](https://github.com/rock3r)/[**uplift**](https://github.com/rock3r/uplift)|A playground for elevation on Android||
+|105|[@AllanWang](https://github.com/AllanWang)/[**Frost-for-Facebook**](https://github.com/AllanWang/Frost-for-Facebook)|An extensive and functional third party app for Facebook|[:arrow_upper_right:](https://allanwang.github.io/Frost-for-Facebook/)|
 |95|[@henrytao-me](https://github.com/henrytao-me)/[**livedata-ktx**](https://github.com/henrytao-me/livedata-ktx)|Kotlin extension for LiveData, chaining like RxJava||
-|92|[@AllanWang](https://github.com/AllanWang)/[**KAU**](https://github.com/AllanWang/KAU)|An extensive collection of Kotlin Android Utils|[:arrow_upper_right:](https://allanwang.github.io/KAU/)|
-|50|[@f2prateek](https://github.com/f2prateek)/[**android-bee**](https://github.com/f2prateek/android-bee)||[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.f2prateek.bee)|
-|48|[@cesarferreira](https://github.com/cesarferreira)/[**faker**](https://github.com/cesarferreira/faker)|A kotlin extension to load images asynchronously on android||
+|93|[@AllanWang](https://github.com/AllanWang)/[**KAU**](https://github.com/AllanWang/KAU)|An extensive collection of Kotlin Android Utils|[:arrow_upper_right:](https://allanwang.github.io/KAU/)|
+|53|[@cesarferreira](https://github.com/cesarferreira)/[**faker**](https://github.com/cesarferreira/faker)|A kotlin extension to load images asynchronously on android||
+|49|[@f2prateek](https://github.com/f2prateek)/[**android-bee**](https://github.com/f2prateek/android-bee)||[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.f2prateek.bee)|
 |34|[@kanawish](https://github.com/kanawish)/[**android-mvi-sample**](https://github.com/kanawish/android-mvi-sample)|Example MVI implementation, based off of Google's architectural samples.||
-|29|[@cesarferreira](https://github.com/cesarferreira)/[**kotlin-pluralizer**](https://github.com/cesarferreira/kotlin-pluralizer)|:sunny: Kotlin extension to pluralize and singularize strings||
-|26|[@BracketCove](https://github.com/BracketCove)/[**KotlinMVPCalculator**](https://github.com/BracketCove/KotlinMVPCalculator)|README coming soon.||
+|30|[@cesarferreira](https://github.com/cesarferreira)/[**kotlin-pluralizer**](https://github.com/cesarferreira/kotlin-pluralizer)|:sunny: Kotlin extension to pluralize and singularize strings||
+|27|[@BracketCove](https://github.com/BracketCove)/[**KotlinMVPCalculator**](https://github.com/BracketCove/KotlinMVPCalculator)|README coming soon.||
 |24|[@rock3r](https://github.com/rock3r)/[**elevation-tester**](https://github.com/rock3r/elevation-tester)|A playground for elevation on Android||
 |21|[@mhsjlw](https://github.com/mhsjlw)/[**AndroidSnap**](https://github.com/mhsjlw/AndroidSnap)|SnapChat clone for Android||
 |18|[@kshvmdn](https://github.com/kshvmdn)/[**rsms**](https://github.com/kshvmdn/rsms)|View, stream, and send SMS messages from your Android device on any machine.||
@@ -26,11 +26,11 @@
 |6|[@rocketraman](https://github.com/rocketraman)/[**kotlin-web-hello-world**](https://github.com/rocketraman/kotlin-web-hello-world)|||
 |6|[@vsch](https://github.com/vsch)/[**PluginDevelopersToolbox**](https://github.com/vsch/PluginDevelopersToolbox)|Collection of useful extensions for plugin developers||
 |6|[@vsch](https://github.com/vsch)/[**kotlin-jdbc**](https://github.com/vsch/kotlin-jdbc)|A thin library that exposes JDBC API with the convenience of Kotlin and gets out of the way when not needed||
-|4|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**Ten-Seconds**](https://github.com/Gh0u1L5/Ten-Seconds)|TenSec is a password management application written in Kotlin, using scrypt and ARM TrustZone.||
+|5|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**Ten-Seconds**](https://github.com/Gh0u1L5/Ten-Seconds)|TenSec is a password management application written in Kotlin, using scrypt and ARM TrustZone.||
+|4|[@cesarferreira](https://github.com/cesarferreira)/[**MaterialComponent.Banner**](https://github.com/cesarferreira/MaterialComponent.Banner)|Material component for Android: Banner||
 |4|[@ruXlab](https://github.com/ruXlab)/[**kotan**](https://github.com/ruXlab/kotan)|Android development with pleasure and kotlin||
 |3|[@Amejia481](https://github.com/Amejia481)/[**DroidTalksAndroid**](https://github.com/Amejia481/DroidTalksAndroid)|The android app for http://www.droidtalks.pro/||
 |3|[@NovaCrypto](https://github.com/NovaCrypto)/[**NovaWallet**](https://github.com/NovaCrypto/NovaWallet)|Android Wallet App (WIP)||
-|3|[@cesarferreira](https://github.com/cesarferreira)/[**MaterialComponent.Banner**](https://github.com/cesarferreira/MaterialComponent.Banner)|Material component for Android: Banner||
 |3|[@cesarferreira](https://github.com/cesarferreira)/[**generator-kotlin-mvp-dagger**](https://github.com/cesarferreira/generator-kotlin-mvp-dagger)|generator-kotlin-starterkit||
 |3|[@cesarferreira](https://github.com/cesarferreira)/[**mvvm-arch-components-click-handling**](https://github.com/cesarferreira/mvvm-arch-components-click-handling)|Sample with MVVM google architecture components click handling||
 |3|[@drampelt](https://github.com/drampelt)/[**pawz**](https://github.com/drampelt/pawz)|||

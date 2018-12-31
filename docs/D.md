@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2810|[@gnunn1](https://github.com/gnunn1)/[**tilix**](https://github.com/gnunn1/tilix)|A tiling terminal emulator for Linux using GTK+ 3|[:arrow_upper_right:](https://gnunn1.github.io/tilix-web)|
-|123|[@etcimon](https://github.com/etcimon)/[**libasync**](https://github.com/etcimon/libasync)|Cross-platform event loop library of asynchronous objects||
+|2823|[@gnunn1](https://github.com/gnunn1)/[**tilix**](https://github.com/gnunn1/tilix)|A tiling terminal emulator for Linux using GTK+ 3|[:arrow_upper_right:](https://gnunn1.github.io/tilix-web)|
+|124|[@etcimon](https://github.com/etcimon)/[**libasync**](https://github.com/etcimon/libasync)|Cross-platform event loop library of asynchronous objects||
 |65|[@etcimon](https://github.com/etcimon)/[**botan**](https://github.com/etcimon/botan)|Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc.||
 |34|[@etcimon](https://github.com/etcimon)/[**memutils**](https://github.com/etcimon/memutils)|Overhead allocators, allocator-aware containers and lifetime management for D objects||
 |32|[@etcimon](https://github.com/etcimon)/[**libhttp2**](https://github.com/etcimon/libhttp2)|HTTP/2 library in D, translated from nghttp2||
 |28|[@dd86k](https://github.com/dd86k)/[**dd-dos**](https://github.com/dd86k/dd-dos)|Small IBM PC Virtual Machine and DOS Emulation Layer|[:arrow_upper_right:](https://git.dd86k.space/dd86k/dd-dos)|
-|22|[@gnunn1](https://github.com/gnunn1)/[**vgrep**](https://github.com/gnunn1/vgrep)|A grep graphical user interface written in D and GTK 3||
+|26|[@gnunn1](https://github.com/gnunn1)/[**vgrep**](https://github.com/gnunn1/vgrep)|A grep graphical user interface written in D and GTK 3||
 |15|[@trishume](https://github.com/trishume)/[**ddbus**](https://github.com/trishume/ddbus)|D library for interfacing with dbus||
 |13|[@etcimon](https://github.com/etcimon)/[**windows-headers**](https://github.com/etcimon/windows-headers)|windows.h for D projects||
 |10|[@dd86k](https://github.com/dd86k)/[**ddcpuid**](https://github.com/dd86k/ddcpuid)|x86 CPUID Information Tool|[:arrow_upper_right:](https://git.dd86k.space/dd86k/ddcpuid)|
