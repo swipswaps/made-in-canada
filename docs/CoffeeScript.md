@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1485|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
-|1350|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )|[:arrow_upper_right:](http://unibeautify.com/)|
+|1484|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
+|1357|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )|[:arrow_upper_right:](http://unibeautify.com/)|
 |427|[@keithamus](https://github.com/keithamus)/[**parallelshell**](https://github.com/keithamus/parallelshell)|Run multiple shell commands in parallel||
 |395|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls|[:arrow_upper_right:](https://echoplex.us)|
 |230|[@EtienneLem](https://github.com/EtienneLem)/[**skeleton**](https://github.com/EtienneLem/skeleton)|Express 3.0 framework-less app structure generator|[:arrow_upper_right:](http://etiennelem.github.com/skeleton)|
@@ -11,11 +11,11 @@
 |187|[@raganwald](https://github.com/raganwald)/[**YouAreDaChef**](https://github.com/raganwald/YouAreDaChef)|Coffeescript/Javascript method combinations for Underscore projects||
 |185|[@zaidka](https://github.com/zaidka)/[**genieacs**](https://github.com/zaidka/genieacs)|A fast and lightweight TR-069 Auto Configuration Server (ACS)|[:arrow_upper_right:](https://genieacs.com)|
 |178|[@raganwald](https://github.com/raganwald)/[**Katy**](https://github.com/raganwald/Katy)|CoffeeScript and JavaScript Combinators||
-|168|[@adamhooper](https://github.com/adamhooper)/[**js-priority-queue**](https://github.com/adamhooper/js-priority-queue)|Priority queues in JavaScript||
+|171|[@adamhooper](https://github.com/adamhooper)/[**js-priority-queue**](https://github.com/adamhooper/js-priority-queue)|Priority queues in JavaScript||
 |153|[@pcrawfor](https://github.com/pcrawfor)/[**iap_verifier**](https://github.com/pcrawfor/iap_verifier)|Node.js implementation of iOS In App Purchase receipt verification||
 |140|[@benbria](https://github.com/benbria)/[**coffee-coverage**](https://github.com/benbria/coffee-coverage)|Istanbul and JSCoverage-style instrumentation for CoffeeScript files.||
 |135|[@jescalan](https://github.com/jescalan)/[**accord**](https://github.com/jescalan/accord)|a unified interface for compiled languages and templates in javascript||
-|124|[@raganwald](https://github.com/raganwald)/[**method-combinators**](https://github.com/raganwald/method-combinators)|||
+|123|[@raganwald](https://github.com/raganwald)/[**method-combinators**](https://github.com/raganwald/method-combinators)|||
 |106|[@jaicab](https://github.com/jaicab)/[**Paraxify.js**](https://github.com/jaicab/Paraxify.js)|Progressive enhancement on parallax inspired by Spotify's|[:arrow_upper_right:](http://jaicab.com/Paraxify.js/)|
 |104|[@axiomzen](https://github.com/axiomzen)/[**Look-Alike**](https://github.com/axiomzen/Look-Alike)|A simple-yet-powerful KD-tree library for NodeJS, with support for lightning-fast k-Nearest Neighbour queries.||
 |97|[@mohebifar](https://github.com/mohebifar)/[**angular-persian**](https://github.com/mohebifar/angular-persian)|:earth_asia: Persian tools for angular.js||
@@ -39,8 +39,8 @@
 |32|[@srsgores](https://github.com/srsgores)/[**generator-joomla-component**](https://github.com/srsgores/generator-joomla-component)|yeoman generator for joomla components||
 |31|[@raganwald](https://github.com/raganwald)/[**cafeaulife**](https://github.com/raganwald/cafeaulife)|Gosper’s HashLife in CoffeeScript|[:arrow_upper_right:](http://recursiveuniver.se)|
 |26|[@benbria](https://github.com/benbria)/[**node-bunyan-lumberjack**](https://github.com/benbria/node-bunyan-lumberjack)|Send bunyan logs to logstash using the lumberjack protocol.||
+|25|[@benbria](https://github.com/benbria)/[**dashing-client**](https://github.com/benbria/dashing-client)|Client for sending data to Dashing from node.js||
 |24|[@Glavin001](https://github.com/Glavin001)/[**atom-gitter**](https://github.com/Glavin001/atom-gitter)|(UNMAINTAINED) :calling: Gitter chat integration with Atom.io|[:arrow_upper_right:](https://atom.io/packages/gitter)|
-|24|[@benbria](https://github.com/benbria)/[**dashing-client**](https://github.com/benbria/dashing-client)|Client for sending data to Dashing from node.js||
 |24|[@wa0x6e](https://github.com/wa0x6e)/[**dashing-resque**](https://github.com/wa0x6e/dashing-resque)|Resque dashing widget to monitor resque jobs, queues and worker activities.||
 |23|[@radekstepan](https://github.com/radekstepan)/[**ukraine**](https://github.com/radekstepan/ukraine)|Node.js PaaS based on Haibu||
 |22|[@axiomzen](https://github.com/axiomzen)/[**zenbase-angular**](https://github.com/axiomzen/zenbase-angular)|Opinionated gulp-angular-coffee-stylus-jade boilerplate||

@@ -9,12 +9,12 @@
 |58|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
 |48|[@thephoeron](https://github.com/thephoeron)/[**quipper-language**](https://github.com/thephoeron/quipper-language)|Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)||
 |41|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm**](https://github.com/JoeyEremondi/haskelm)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
-|40|[@csabahruska](https://github.com/csabahruska)/[**jhc-components**](https://github.com/csabahruska/jhc-components)|JHC Haskell compiler split into reusable components||
+|41|[@csabahruska](https://github.com/csabahruska)/[**jhc-components**](https://github.com/csabahruska/jhc-components)|JHC Haskell compiler split into reusable components||
 |28|[@avieth](https://github.com/avieth)/[**Algebraic**](https://github.com/avieth/Algebraic)|Experiments on the construction of functions||
 |28|[@thayerwilliams](https://github.com/thayerwilliams)/[**msi-xmonad**](https://github.com/thayerwilliams/msi-xmonad)|xmonad.hs (Xmonad >= 0.9) and related config files for my MSI Wind netbook|[:arrow_upper_right:](http://cinderwick.ca)|
 |23|[@fosskers](https://github.com/fosskers)/[**mapalgebra**](https://github.com/fosskers/mapalgebra)|Efficient, polymorphic Map Algebra in Haskell.||
 |22|[@singpolyma](https://github.com/singpolyma)/[**unexceptionalio**](https://github.com/singpolyma/unexceptionalio)|IO without any PseudoExceptions|[:arrow_upper_right:](http://hackage.haskell.org/package/unexceptionalio)|
-|19|[@csabahruska](https://github.com/csabahruska)/[**gpipe-quake3**](https://github.com/csabahruska/gpipe-quake3)|Quake 3 map viewer in Haskell using GPipe|[:arrow_upper_right:](https://wiki.haskell.org/GPipe)|
+|20|[@csabahruska](https://github.com/csabahruska)/[**gpipe-quake3**](https://github.com/csabahruska/gpipe-quake3)|Quake 3 map viewer in Haskell using GPipe|[:arrow_upper_right:](https://wiki.haskell.org/GPipe)|
 |18|[@PhDP](https://github.com/PhDP)/[**Faun**](https://github.com/PhDP/Faun)|Experimental ML/AI code||
 |16|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm-old**](https://github.com/JoeyEremondi/haskelm-old)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
 |16|[@WillSewell](https://github.com/WillSewell)/[**benchpress**](https://github.com/WillSewell/benchpress)|Micro-benchmarking of Haskell code with detailed execution time statistics.||

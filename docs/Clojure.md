@@ -1,20 +1,20 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |688|[@gf3](https://github.com/gf3)/[**secretary**](https://github.com/gf3/secretary)|A client-side router for ClojureScript.||
-|630|[@yogthos](https://github.com/yogthos)/[**Selmer**](https://github.com/yogthos/Selmer)|A fast, Django inspired template system in Clojure.||
+|632|[@yogthos](https://github.com/yogthos)/[**Selmer**](https://github.com/yogthos/Selmer)|A fast, Django inspired template system in Clojure.||
 |540|[@takeoutweight](https://github.com/takeoutweight)/[**clojure-scheme**](https://github.com/takeoutweight/clojure-scheme)|Clojure to Scheme to C to the bare metal.||
 |443|[@Gonzih](https://github.com/Gonzih)/[**cljs-electron**](https://github.com/Gonzih/cljs-electron)|ClojureScript + Electron + Figwheel + Reagent  = ❤❤❤||
-|383|[@yogthos](https://github.com/yogthos)/[**markdown-clj**](https://github.com/yogthos/markdown-clj)|Markdown parser in Clojure||
-|314|[@yogthos](https://github.com/yogthos)/[**migratus**](https://github.com/yogthos/migratus)|MIGRATE ALL THE THINGS!||
+|382|[@yogthos](https://github.com/yogthos)/[**markdown-clj**](https://github.com/yogthos/markdown-clj)|Markdown parser in Clojure||
+|315|[@yogthos](https://github.com/yogthos)/[**migratus**](https://github.com/yogthos/migratus)|MIGRATE ALL THE THINGS!||
 |198|[@yogthos](https://github.com/yogthos)/[**memory-hole**](https://github.com/yogthos/memory-hole)|Memory Hole is a support issue organizer application||
 |172|[@adambard](https://github.com/adambard)/[**failjure**](https://github.com/adambard/failjure)|Monadic error utilities for general use in Clojure projects||
 |153|[@yogthos](https://github.com/yogthos)/[**yuggoth**](https://github.com/yogthos/yuggoth)|my blog engine (no longer maintained)|[:arrow_upper_right:](http://yogthos.net)|
 |124|[@yogthos](https://github.com/yogthos)/[**json-html**](https://github.com/yogthos/json-html)|Provide EDN/JSON and get a DOM node with a human representation of the data||
-|105|[@Gonzih](https://github.com/Gonzih)/[**glue**](https://github.com/Gonzih/glue)|Configure Vue.js components using ClojureScript, manage global state using Atoms.||
+|107|[@Gonzih](https://github.com/Gonzih)/[**glue**](https://github.com/Gonzih/glue)|Configure Vue.js components using ClojureScript, manage global state using Atoms.||
 |105|[@yogthos](https://github.com/yogthos)/[**instant-pdf**](https://github.com/yogthos/instant-pdf)|A reporting service which generates PDFs from JSON encoded text||
+|74|[@yogthos](https://github.com/yogthos)/[**config**](https://github.com/yogthos/config)|Library for managing environment variables in Clojure using EDN configuration files||
 |74|[@yogthos](https://github.com/yogthos)/[**json-to-pdf**](https://github.com/yogthos/json-to-pdf)|A Library for easily generating PDF documents given JSON markup||
-|71|[@yogthos](https://github.com/yogthos)/[**config**](https://github.com/yogthos/config)|Library for managing environment variables in Clojure using EDN configuration files||
-|65|[@yogthos](https://github.com/yogthos)/[**mastodon-bot**](https://github.com/yogthos/mastodon-bot)|a bot for mirroring Twitter/Tumblr accounts and RSS feeds on Mastodon|[:arrow_upper_right:](https://mastodon.social/@newsbot)|
+|66|[@yogthos](https://github.com/yogthos)/[**mastodon-bot**](https://github.com/yogthos/mastodon-bot)|a bot for mirroring Twitter/Tumblr accounts and RSS feeds on Mastodon|[:arrow_upper_right:](https://mastodon.social/@newsbot)|
 |49|[@yogthos](https://github.com/yogthos)/[**compojure-template**](https://github.com/yogthos/compojure-template)|A Leiningen template for batteries included projects using Compojure.||
 |38|[@yogthos](https://github.com/yogthos)/[**clj-tetris**](https://github.com/yogthos/clj-tetris)|Example Tetris in Clojure||
 |37|[@yogthos](https://github.com/yogthos)/[**lein-asset-minifier**](https://github.com/yogthos/lein-asset-minifier)|Leiningen plugin for CSS/Js asset minifcation||
@@ -43,9 +43,9 @@
 |14|[@yogthos](https://github.com/yogthos)/[**reagent-secretary-example**](https://github.com/yogthos/reagent-secretary-example)|||
 |13|[@adambard](https://github.com/adambard)/[**lein-kotlinc**](https://github.com/adambard/lein-kotlinc)|Compile kotlin files from Leiningen||
 |13|[@onaio](https://github.com/onaio)/[**hatti**](https://github.com/onaio/hatti)|It views data! Note: this library is not maintained||
+|13|[@yogthos](https://github.com/yogthos)/[**krueger**](https://github.com/yogthos/krueger)|federated news||
 |13|[@yogthos](https://github.com/yogthos)/[**lein-sass**](https://github.com/yogthos/lein-sass)|SASS plugin for Leiningen using Sass.js||
 |12|[@ujihisa](https://github.com/ujihisa)/[**cloft**](https://github.com/ujihisa/cloft)|minecraft server mod for ujihisa||
-|12|[@yogthos](https://github.com/yogthos)/[**krueger**](https://github.com/yogthos/krueger)|federated news||
 |12|[@yogthos](https://github.com/yogthos)/[**pg-feed-demo**](https://github.com/yogthos/pg-feed-demo)|example application for push notifications from PostgreSQL||
 |12|[@yogthos](https://github.com/yogthos)/[**swagger-service**](https://github.com/yogthos/swagger-service)|swagger-service tutorial using Duct||
 |11|[@adambard](https://github.com/adambard)/[**so-many-wordcounts**](https://github.com/adambard/so-many-wordcounts)|||
@@ -93,6 +93,7 @@
 |4|[@adambard](https://github.com/adambard)/[**schemongo**](https://github.com/adambard/schemongo)|The mongo schema library for clojure with the embarrassing name||
 |4|[@honza](https://github.com/honza)/[**email-parsing**](https://github.com/honza/email-parsing)|Email parsing in Clojure||
 |4|[@inaimathi](https://github.com/inaimathi)/[**kicktracker**](https://github.com/inaimathi/kicktracker)|A set of RSS feeds for recent projects on kickstarter||
+|4|[@palfrey](https://github.com/palfrey)/[**clostridium**](https://github.com/palfrey/clostridium)|Befunge interpreter in Clojure(script)|[:arrow_upper_right:](http://palfrey.github.io/clostridium/)|
 |4|[@pangloss](https://github.com/pangloss)/[**system.check**](https://github.com/pangloss/system.check)|Test stateful systems using test.check||
 |4|[@ujihisa](https://github.com/ujihisa)/[**postgres-lingrbot**](https://github.com/ujihisa/postgres-lingrbot)|Use PostgreSQL from Lingr||
 |4|[@yogthos](https://github.com/yogthos)/[**noir-exception**](https://github.com/yogthos/noir-exception)|middleware for displaying Noir style exceptions in the browser||
@@ -112,7 +113,6 @@
 |3|[@m1hawkgsm](https://github.com/m1hawkgsm)/[**Quantilla**](https://github.com/m1hawkgsm/Quantilla)|Risk/Analytics Platform for Stevens Student Investment Management Fund||
 |3|[@onaio](https://github.com/onaio)/[**chimera**](https://github.com/onaio/chimera)|Clojure Utilities||
 |3|[@palfrey](https://github.com/palfrey)/[**Clostridium**](https://github.com/palfrey/Clostridium)|Befunge interpreter in Clojure||
-|3|[@palfrey](https://github.com/palfrey)/[**clostridium**](https://github.com/palfrey/clostridium)|Befunge interpreter in Clojure(script)|[:arrow_upper_right:](http://palfrey.github.io/clostridium/)|
 |3|[@skrat](https://github.com/skrat)/[**accent**](https://github.com/skrat/accent)|WebGL utility belt||
 |3|[@ujihisa](https://github.com/ujihisa)/[**clojure-lingrbot**](https://github.com/ujihisa/clojure-lingrbot)||[:arrow_upper_right:](http://lingr.com/room/clojure)|
 |3|[@ujihisa](https://github.com/ujihisa)/[**dodgeball-bukkit-mod**](https://github.com/ujihisa/dodgeball-bukkit-mod)|a minecraft server mod (bukkit API)||

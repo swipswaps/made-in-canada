@@ -20,6 +20,7 @@
 |10|[@RobLoach](https://github.com/RobLoach)/[**composer.deb**](https://github.com/RobLoach/composer.deb)|Build a Debian package to install and use Composer.|[:arrow_upper_right:](http://getcomposer.org)|
 |10|[@ustwo](https://github.com/ustwo)/[**docker-sauce-connect**](https://github.com/ustwo/docker-sauce-connect)|Builds a Sauce Labs Connect image||
 |8|[@oncletom](https://github.com/oncletom)/[**coursera-ml**](https://github.com/oncletom/coursera-ml)|Setup to evolve through the Machine Learning course.||
+|8|[@sjourdan](https://github.com/sjourdan)/[**strace-docker**](https://github.com/sjourdan/strace-docker)|strace in docker||
 |7|[@jasonish](https://github.com/jasonish)/[**suricata-rpms**](https://github.com/jasonish/suricata-rpms)|Suricata RPMs for CentOS/EL|[:arrow_upper_right:](http://codemonkey.net/suricata-rpms/)|
 |7|[@seananderson](https://github.com/seananderson)/[**ggplot2-FISH554**](https://github.com/seananderson/ggplot2-FISH554)|Course notes and exercises on ggplot2 for the FISH554 class at the University of Washington||
 |6|[@AmarOk1412](https://github.com/AmarOk1412)/[**RORI**](https://github.com/AmarOk1412/RORI)|a modulable chatterbot platform|[:arrow_upper_right:](https://enconn.fr/rori)|
@@ -27,12 +28,11 @@
 |6|[@datacratic](https://github.com/datacratic)/[**platform-deps**](https://github.com/datacratic/platform-deps)|Container repo for Datacratic platform dependencies to be installed per-user||
 |6|[@gpaterno](https://github.com/gpaterno)/[**openstack_explained**](https://github.com/gpaterno/openstack_explained)|OpenStack Explained e-book - An humanitarian initiative||
 |6|[@kaustavha](https://github.com/kaustavha)/[**luvit-docs**](https://github.com/kaustavha/luvit-docs)|Documentation for the luvit api||
-|6|[@sjourdan](https://github.com/sjourdan)/[**strace-docker**](https://github.com/sjourdan/strace-docker)|strace in docker||
 |6|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_harpia**](https://github.com/sultanqasim/android_device_motorola_harpia)|TWRP device tree for Moto G Play||
+|5|[@KleinYuan](https://github.com/KleinYuan)/[**train-crfasrnn**](https://github.com/KleinYuan/train-crfasrnn)|Detailed guide to help you understand how to train CRF as RNN||
 |5|[@rillian](https://github.com/rillian)/[**afl-ffmpeg-opus**](https://github.com/rillian/afl-ffmpeg-opus)|Fuzzing script for ffmpeg's opus decoder||
 |5|[@rosshamish](https://github.com/rosshamish)/[**goodcatan**](https://github.com/rosshamish/goodcatan)|tries not to play bad catan||
-|4|[@KleinYuan](https://github.com/KleinYuan)/[**train-crfasrnn**](https://github.com/KleinYuan/train-crfasrnn)|Detailed guide to help you understand how to train CRF as RNN||
-|4|[@aminb](https://github.com/aminb)/[**dotfiles**](https://github.com/aminb/dotfiles)|[OUTDATED] repository now located at https://git.sr.ht/~bandali/dotfiles||
+|4|[@aminb](https://github.com/aminb)/[**dotfiles**](https://github.com/aminb/dotfiles)|[OUTDATED] repository now located at https://aminb.org/projects/dotfiles||
 |4|[@karnauskas](https://github.com/karnauskas)/[**openwrt-mdns-repeater**](https://github.com/karnauskas/openwrt-mdns-repeater)|mdns-repeater build for OpenWrt||
 |4|[@maruel](https://github.com/maruel)/[**hugo-tidy**](https://github.com/maruel/hugo-tidy)|Docker image to generate the fastest (minified, gzipped) web site via Hugo||
 |4|[@tj](https://github.com/tj)/[**foo**](https://github.com/tj/foo)|||

@@ -1,22 +1,22 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|17421|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
-|694|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
+|17520|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
+|698|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
 |286|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
 |272|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
 |212|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
 |154|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execushares**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
-|96|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
+|97|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
 |55|[@patmorin](https://github.com/patmorin)/[**arraylayout**](https://github.com/patmorin/arraylayout)|Experiments with array layouts for comparison-based searching|[:arrow_upper_right:](http://cglab.ca/~morin/misc/arraylayout-v2/)|
 |43|[@christhomson](https://github.com/christhomson)/[**lecture-notes**](https://github.com/christhomson/lecture-notes)|LaTeX notes for a few courses I've taken at the University of Waterloo.|[:arrow_upper_right:](http://cthomson.ca/notes)|
 |21|[@peeterjoot](https://github.com/peeterjoot)/[**physicsplay**](https://github.com/peeterjoot/physicsplay)|Latex source for geometric algebra and physics notes.|[:arrow_upper_right:](http://peeterjoot.com/)|
 |20|[@mcantelon](https://github.com/mcantelon)/[**fashion-quest**](https://github.com/mcantelon/fashion-quest)|Shoes-dependent, YAML-driven interactive fiction framework for fashion adventures|[:arrow_upper_right:](http://mcantelon.github.io/fashion-quest/)|
 |19|[@lyst](https://github.com/lyst)/[**lightfm-paper**](https://github.com/lyst/lightfm-paper)|||
 |14|[@tpoisot](https://github.com/tpoisot)/[**ecobiblatex**](https://github.com/tpoisot/ecobiblatex)|Biblatex styles for ecology journals||
+|13|[@AllanWang](https://github.com/AllanWang)/[**McGill-Public**](https://github.com/AllanWang/McGill-Public)|Part of McGill U3/U4 that can be made public|[:arrow_upper_right:](https://allanwang.github.io/McGill-Public/)|
 |13|[@bmcfee](https://github.com/bmcfee)/[**laplacian_segmentation**](https://github.com/bmcfee/laplacian_segmentation)|graph laplacian song segmentation||
 |13|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan**](https://github.com/gavinsimpson/esa-advanced-vegan)|Advanced Vegan Workshop for ESA||
 |13|[@rcompton](https://github.com/rcompton)/[**black-market-recommender-systems**](https://github.com/rcompton/black-market-recommender-systems)|Code and paper||
-|12|[@AllanWang](https://github.com/AllanWang)/[**McGill-Public**](https://github.com/AllanWang/McGill-Public)|Part of McGill U3/U4 that can be made public|[:arrow_upper_right:](https://allanwang.github.io/McGill-Public/)|
 |11|[@PhDP](https://github.com/PhDP)/[**ms_open_licenses**](https://github.com/PhDP/ms_open_licenses)|A defence of permissive licenses (CC0, CC-BY, BSD, MIT, ...) in science||
 |11|[@gavinsimpson](https://github.com/gavinsimpson)/[**frontiers-palaeo-additive-modelling**](https://github.com/gavinsimpson/frontiers-palaeo-additive-modelling)|Modelling and feature detection in palaeoenvironmental time series using additive models||
 |11|[@gdevenyi](https://github.com/gdevenyi)/[**mcmaster.latex**](https://github.com/gdevenyi/mcmaster.latex)|LaTeX Template Satisfying McMaster Thesis Formatting Requirements||

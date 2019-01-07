@@ -1,68 +1,68 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |4281|[@lwansbrough](https://github.com/lwansbrough)/[**react-native-camera**](https://github.com/lwansbrough/react-native-camera)|A Camera component for React Native. Also supports barcode scanning!||
-|2497|[@DylanVann](https://github.com/DylanVann)/[**react-native-fast-image**](https://github.com/DylanVann/react-native-fast-image)|🚩 FastImage, performant React Native image component.||
-|2381|[@500px](https://github.com/500px)/[**500px-android-blur**](https://github.com/500px/500px-android-blur)|Android Blurring View|[:arrow_upper_right:](http://developers.500px.com/2015/03/17/a-blurring-view-for-android.html)|
-|2372|[@flavioarfaria](https://github.com/flavioarfaria)/[**KenBurnsView**](https://github.com/flavioarfaria/KenBurnsView)|Android ImageViews animated by Ken Burns Effect||
-|2229|[@moezbhatti](https://github.com/moezbhatti)/[**qksms**](https://github.com/moezbhatti/qksms)|The most beautiful SMS messenger for Android|[:arrow_upper_right:](https://qklabs.com/download)|
-|2199|[@iSoron](https://github.com/iSoron)/[**uhabits**](https://github.com/iSoron/uhabits)|Loop Habit Tracker, an Android app for creating and maintaining good habits||
+|2515|[@DylanVann](https://github.com/DylanVann)/[**react-native-fast-image**](https://github.com/DylanVann/react-native-fast-image)|🚩 FastImage, performant React Native image component.||
+|2386|[@500px](https://github.com/500px)/[**500px-android-blur**](https://github.com/500px/500px-android-blur)|Android Blurring View|[:arrow_upper_right:](http://developers.500px.com/2015/03/17/a-blurring-view-for-android.html)|
+|2373|[@flavioarfaria](https://github.com/flavioarfaria)/[**KenBurnsView**](https://github.com/flavioarfaria/KenBurnsView)|Android ImageViews animated by Ken Burns Effect||
+|2236|[@moezbhatti](https://github.com/moezbhatti)/[**qksms**](https://github.com/moezbhatti/qksms)|The most beautiful SMS messenger for Android|[:arrow_upper_right:](https://qklabs.com/download)|
+|2223|[@iSoron](https://github.com/iSoron)/[**uhabits**](https://github.com/iSoron/uhabits)|Loop Habit Tracker, an Android app for creating and maintaining good habits||
 |1736|[@henrytao-me](https://github.com/henrytao-me)/[**smooth-app-bar-layout**](https://github.com/henrytao-me/smooth-app-bar-layout)|Smooth version of Google Support Design AppBarLayout||
 |1718|[@pbreault](https://github.com/pbreault)/[**adb-idea**](https://github.com/pbreault/adb-idea)|A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.||
-|1423|[@f2prateek](https://github.com/f2prateek)/[**rx-preferences**](https://github.com/f2prateek/rx-preferences)|Reactive SharedPreferences for Android|[:arrow_upper_right:](http://f2prateek.com/2015/10/05/rx-preferences/)|
+|1425|[@f2prateek](https://github.com/f2prateek)/[**rx-preferences**](https://github.com/f2prateek/rx-preferences)|Reactive SharedPreferences for Android|[:arrow_upper_right:](http://f2prateek.com/2015/10/05/rx-preferences/)|
 |1384|[@500px](https://github.com/500px)/[**greedo-layout-for-android**](https://github.com/500px/greedo-layout-for-android)|Full aspect ratio grid LayoutManager for Android's RecyclerView||
-|1210|[@eclipsesource](https://github.com/eclipsesource)/[**J2V8**](https://github.com/eclipsesource/J2V8)|Java Bindings for V8||
-|1176|[@borax12](https://github.com/borax12)/[**MaterialDateRangePicker**](https://github.com/borax12/MaterialDateRangePicker)|A material Date Range Picker based on wdullaers MaterialDateTimePicker||
-|1173|[@f2prateek](https://github.com/f2prateek)/[**dart**](https://github.com/f2prateek/dart)|Extras binding and intent builders for Android apps.||
+|1213|[@eclipsesource](https://github.com/eclipsesource)/[**J2V8**](https://github.com/eclipsesource/J2V8)|Java Bindings for V8||
+|1178|[@borax12](https://github.com/borax12)/[**MaterialDateRangePicker**](https://github.com/borax12/MaterialDateRangePicker)|A material Date Range Picker based on wdullaers MaterialDateTimePicker||
+|1174|[@f2prateek](https://github.com/f2prateek)/[**dart**](https://github.com/f2prateek/dart)|Extras binding and intent builders for Android apps.||
 |1139|[@peter-lawrey](https://github.com/peter-lawrey)/[**Java-Chronicle**](https://github.com/peter-lawrey/Java-Chronicle)|Java Indexed Record Chronicle||
-|1131|[@shopizer-ecommerce](https://github.com/shopizer-ecommerce)/[**shopizer**](https://github.com/shopizer-ecommerce/shopizer)|Shopizer java e-commerce software|[:arrow_upper_right:](http://www.shopizer.com)|
-|1050|[@Sable](https://github.com/Sable)/[**soot**](https://github.com/Sable/soot)|Soot - A Java optimization framework||
+|1139|[@shopizer-ecommerce](https://github.com/shopizer-ecommerce)/[**shopizer**](https://github.com/shopizer-ecommerce/shopizer)|Shopizer java e-commerce software|[:arrow_upper_right:](http://www.shopizer.com)|
+|1053|[@Sable](https://github.com/Sable)/[**soot**](https://github.com/Sable/soot)|Soot - A Java optimization framework||
 |987|[@kaz-Anova](https://github.com/kaz-Anova)/[**StackNet**](https://github.com/kaz-Anova/StackNet)|StackNet is a computational, scalable and analytical Meta modelling framework||
-|956|[@naoufal](https://github.com/naoufal)/[**react-native-touch-id**](https://github.com/naoufal/react-native-touch-id)|React Native authentication with the native Touch ID popup.|[:arrow_upper_right:](https://www.npmjs.com/package/react-native-touch-id)|
-|809|[@nayuki](https://github.com/nayuki)/[**Project-Euler-solutions**](https://github.com/nayuki/Project-Euler-solutions)|Runnable code for solving Project Euler problems in Java, Python, Mathematica, Haskell.|[:arrow_upper_right:](https://www.nayuki.io/page/project-euler-solutions)|
-|802|[@vsch](https://github.com/vsch)/[**flexmark-java**](https://github.com/vsch/flexmark-java)|CommonMark/Markdown Java parser with source level AST. CommonMark 0.28, emulation of: pegdown, kramdown, markdown.pl, MultiMarkdown. With HTML to MD, MD to PDF, MD to DOCX  conversion modules.||
-|795|[@IanDarwin](https://github.com/IanDarwin)/[**Android-Cookbook-Examples**](https://github.com/IanDarwin/Android-Cookbook-Examples)|Contributed code examples from O'Reilly Android Cookbook. See #user-content-table README below!|[:arrow_upper_right:](http://androidcookbook.com/)|
+|957|[@naoufal](https://github.com/naoufal)/[**react-native-touch-id**](https://github.com/naoufal/react-native-touch-id)|React Native authentication with the native Touch ID popup.|[:arrow_upper_right:](https://www.npmjs.com/package/react-native-touch-id)|
+|819|[@nayuki](https://github.com/nayuki)/[**Project-Euler-solutions**](https://github.com/nayuki/Project-Euler-solutions)|Runnable code for solving Project Euler problems in Java, Python, Mathematica, Haskell.|[:arrow_upper_right:](https://www.nayuki.io/page/project-euler-solutions)|
+|806|[@vsch](https://github.com/vsch)/[**flexmark-java**](https://github.com/vsch/flexmark-java)|CommonMark/Markdown Java parser with source level AST. CommonMark 0.28, emulation of: pegdown, kramdown, markdown.pl, MultiMarkdown. With HTML to MD, MD to PDF, MD to DOCX  conversion modules.||
+|797|[@IanDarwin](https://github.com/IanDarwin)/[**Android-Cookbook-Examples**](https://github.com/IanDarwin/Android-Cookbook-Examples)|Contributed code examples from O'Reilly Android Cookbook. See #user-content-table README below!|[:arrow_upper_right:](http://androidcookbook.com/)|
 |769|[@pahimar](https://github.com/pahimar)/[**Equivalent-Exchange-3**](https://github.com/pahimar/Equivalent-Exchange-3)||[:arrow_upper_right:](http://equivalent.exchange)|
-|696|[@jamesagnew](https://github.com/jamesagnew)/[**hapi-fhir**](https://github.com/jamesagnew/hapi-fhir)|HAPI FHIR - Java API for HL7 FHIR Clients and Servers||
-|634|[@nayuki](https://github.com/nayuki)/[**QR-Code-generator**](https://github.com/nayuki/QR-Code-generator)|High-quality QR Code generator library in Java, JavaScript, Python, C++, C, Rust, TypeScript.|[:arrow_upper_right:](https://www.nayuki.io/page/qr-code-generator-library)|
-|629|[@f2prateek](https://github.com/f2prateek)/[**progressbutton**](https://github.com/f2prateek/progressbutton)|A custom progress indicator with a tiny footprint.||
-|602|[@vsch](https://github.com/vsch)/[**idea-multimarkdown**](https://github.com/vsch/idea-multimarkdown)|Markdown language support for IntelliJ IDEA.|[:arrow_upper_right:](http://plugins.intellij.net/plugin?id=7896)|
+|701|[@jamesagnew](https://github.com/jamesagnew)/[**hapi-fhir**](https://github.com/jamesagnew/hapi-fhir)|HAPI FHIR - Java API for HL7 FHIR Clients and Servers||
+|640|[@nayuki](https://github.com/nayuki)/[**QR-Code-generator**](https://github.com/nayuki/QR-Code-generator)|High-quality QR Code generator library in Java, JavaScript, Python, C++, C, Rust, TypeScript.|[:arrow_upper_right:](https://www.nayuki.io/page/qr-code-generator-library)|
+|628|[@f2prateek](https://github.com/f2prateek)/[**progressbutton**](https://github.com/f2prateek/progressbutton)|A custom progress indicator with a tiny footprint.||
+|610|[@vsch](https://github.com/vsch)/[**idea-multimarkdown**](https://github.com/vsch/idea-multimarkdown)|Markdown language support for IntelliJ IDEA.|[:arrow_upper_right:](http://plugins.intellij.net/plugin?id=7896)|
 |572|[@idunnololz](https://github.com/idunnololz)/[**AnimatedExpandableListView**](https://github.com/idunnololz/AnimatedExpandableListView)|An extendable, flexible ExpandableListView widget that supports animations.||
-|562|[@lurbas](https://github.com/lurbas)/[**ListItemView**](https://github.com/lurbas/ListItemView)|Implementation of List Item from Material Design||
+|560|[@lurbas](https://github.com/lurbas)/[**ListItemView**](https://github.com/lurbas/ListItemView)|Implementation of List Item from Material Design||
 |553|[@bartdag](https://github.com/bartdag)/[**py4j**](https://github.com/bartdag/py4j)|Py4J enables Python programs to dynamically access arbitrary Java objects|[:arrow_upper_right:](https://www.py4j.org)|
 |495|[@darvds](https://github.com/darvds)/[**RibbonMenu**](https://github.com/darvds/RibbonMenu)|Navigation menu for Android (based off Google+ app)||
 |436|[@yogthos](https://github.com/yogthos)/[**clj-pdf**](https://github.com/yogthos/clj-pdf)|PDF generation library for Clojure||
 |430|[@cesarferreira](https://github.com/cesarferreira)/[**RxPeople**](https://github.com/cesarferreira/RxPeople)|Observing people... wait what?||
+|409|[@alinz](https://github.com/alinz)/[**react-native-share-extension**](https://github.com/alinz/react-native-share-extension)|react-native as an engine to drive share extension||
 |407|[@cesarferreira](https://github.com/cesarferreira)/[**colorize**](https://github.com/cesarferreira/colorize)|Access to 1000+ colors on android!||
 |407|[@mrKlar](https://github.com/mrKlar)/[**PagedDragDropGrid**](https://github.com/mrKlar/PagedDragDropGrid)|An Android ViewGroup that implements a paged grid with drag'n'drop moveable items||
-|406|[@alinz](https://github.com/alinz)/[**react-native-share-extension**](https://github.com/alinz/react-native-share-extension)|react-native as an engine to drive share extension||
-|405|[@tzutalin](https://github.com/tzutalin)/[**dlib-android-app**](https://github.com/tzutalin/dlib-android-app)|:dragon: Android app to demo dlib-android(https://github.com/tzutalin/dlib-android). Use the prebuilt shared-lib built from dlib-android||
-|397|[@OpenGamma](https://github.com/OpenGamma)/[**Strata**](https://github.com/OpenGamma/Strata)| Open source analytics and market risk library from OpenGamma|[:arrow_upper_right:](http://strata.opengamma.io)|
-|383|[@00-Evan](https://github.com/00-Evan)/[**shattered-pixel-dungeon**](https://github.com/00-Evan/shattered-pixel-dungeon)|Traditional roguelike game with pixel-art graphics and simple interface||
+|407|[@tzutalin](https://github.com/tzutalin)/[**dlib-android-app**](https://github.com/tzutalin/dlib-android-app)|:dragon: Android app to demo dlib-android(https://github.com/tzutalin/dlib-android). Use the prebuilt shared-lib built from dlib-android||
+|401|[@OpenGamma](https://github.com/OpenGamma)/[**Strata**](https://github.com/OpenGamma/Strata)| Open source analytics and market risk library from OpenGamma|[:arrow_upper_right:](http://strata.opengamma.io)|
+|395|[@00-Evan](https://github.com/00-Evan)/[**shattered-pixel-dungeon**](https://github.com/00-Evan/shattered-pixel-dungeon)|Traditional roguelike game with pixel-art graphics and simple interface||
 |375|[@f2prateek](https://github.com/f2prateek)/[**rx-receivers**](https://github.com/f2prateek/rx-receivers)|Reactive Bindings for BroadcastReceivers — WIP||
 |371|[@lemire](https://github.com/lemire)/[**javaewah**](https://github.com/lemire/javaewah)|A compressed alternative to the Java BitSet class||
-|365|[@micdoodle8](https://github.com/micdoodle8)/[**Galacticraft**](https://github.com/micdoodle8/Galacticraft)|An advanced Space Dimension Mod for Minecraft||
-|354|[@lemire](https://github.com/lemire)/[**JavaFastPFOR**](https://github.com/lemire/JavaFastPFOR)|A simple integer compression library in Java ||
+|364|[@micdoodle8](https://github.com/micdoodle8)/[**Galacticraft**](https://github.com/micdoodle8/Galacticraft)|An advanced Space Dimension Mod for Minecraft||
+|355|[@lemire](https://github.com/lemire)/[**JavaFastPFOR**](https://github.com/lemire/JavaFastPFOR)|A simple integer compression library in Java ||
 |348|[@peter-lawrey](https://github.com/peter-lawrey)/[**Java-Thread-Affinity**](https://github.com/peter-lawrey/Java-Thread-Affinity)|Control thread affinity for Java||
-|347|[@ustwo](https://github.com/ustwo)/[**clockwise**](https://github.com/ustwo/clockwise)|Watch face framework for Android Wear developed by ustwo||
+|348|[@ustwo](https://github.com/ustwo)/[**clockwise**](https://github.com/ustwo/clockwise)|Watch face framework for Android Wear developed by ustwo||
 |346|[@ibinti](https://github.com/ibinti)/[**bugvm**](https://github.com/ibinti/bugvm)|This is BugVM|[:arrow_upper_right:](https://ibinti.com/bugvm)|
-|331|[@williamfiset](https://github.com/williamfiset)/[**Algorithms**](https://github.com/williamfiset/Algorithms)|A collection of algorithms||
+|338|[@williamfiset](https://github.com/williamfiset)/[**Algorithms**](https://github.com/williamfiset/Algorithms)|A collection of algorithms||
 |304|[@lurbas](https://github.com/lurbas)/[**MaterialMasterDetail**](https://github.com/lurbas/MaterialMasterDetail)|Android Application sample of how to implement Master/Detail pattern that follows Material Design visual language||
-|279|[@cesarferreira](https://github.com/cesarferreira)/[**CatKit**](https://github.com/cesarferreira/CatKit)|Android kit for cat placeholders :cat: ||
+|278|[@cesarferreira](https://github.com/cesarferreira)/[**CatKit**](https://github.com/cesarferreira/CatKit)|Android kit for cat placeholders :cat: ||
 |275|[@peter-lawrey](https://github.com/peter-lawrey)/[**HugeCollections-OLD**](https://github.com/peter-lawrey/HugeCollections-OLD)|Huge Collections for Java using efficient off heap storage||
-|265|[@tzutalin](https://github.com/tzutalin)/[**Android-Object-Detection**](https://github.com/tzutalin/Android-Object-Detection)| :coffee: Fast-RCNN and Scene Recognition using Caffe||
-|264|[@davidkiss](https://github.com/davidkiss)/[**spring-boot-quartz-demo**](https://github.com/davidkiss/spring-boot-quartz-demo)|Sample Spring Boot application that uses the Quartz framework||
-|260|[@williamfiset](https://github.com/williamfiset)/[**data-structures**](https://github.com/williamfiset/data-structures)|A collection of powerful data structures||
+|267|[@tzutalin](https://github.com/tzutalin)/[**Android-Object-Detection**](https://github.com/tzutalin/Android-Object-Detection)| :coffee: Fast-RCNN and Scene Recognition using Caffe||
+|265|[@davidkiss](https://github.com/davidkiss)/[**spring-boot-quartz-demo**](https://github.com/davidkiss/spring-boot-quartz-demo)|Sample Spring Boot application that uses the Quartz framework||
+|262|[@williamfiset](https://github.com/williamfiset)/[**data-structures**](https://github.com/williamfiset/data-structures)|A collection of powerful data structures||
 |257|[@cesarferreira](https://github.com/cesarferreira)/[**AndroidQuickUtils**](https://github.com/cesarferreira/AndroidQuickUtils)|Android Development Utils||
 |249|[@dcaoyuan](https://github.com/dcaoyuan)/[**nbscala**](https://github.com/dcaoyuan/nbscala)|NetBeans Plugin for Scala||
 |237|[@OpenGamma](https://github.com/OpenGamma)/[**OG-Platform**](https://github.com/OpenGamma/OG-Platform)|Strata is the new open source analytics and market risk library from OpenGamma|[:arrow_upper_right:](http://opengamma.github.io/StrataDocs)|
-|234|[@pilwon](https://github.com/pilwon)/[**node-ib**](https://github.com/pilwon/node-ib)|Interactive Brokers TWS API client library for Node.js||
+|235|[@pilwon](https://github.com/pilwon)/[**node-ib**](https://github.com/pilwon/node-ib)|Interactive Brokers TWS API client library for Node.js||
 |227|[@henrytao-me](https://github.com/henrytao-me)/[**android-md-core**](https://github.com/henrytao-me/android-md-core)|Material bootstrap for Android development like Bootstrap or Foundation for web.||
-|224|[@rafaelsteil](https://github.com/rafaelsteil)/[**jforum3**](https://github.com/rafaelsteil/jforum3)|JForum 3. No longer maintained, kept here for historical reasons|[:arrow_upper_right:](http://www.jforum.net)|
+|227|[@rafaelsteil](https://github.com/rafaelsteil)/[**jforum3**](https://github.com/rafaelsteil/jforum3)|JForum 3. No longer maintained, kept here for historical reasons|[:arrow_upper_right:](http://www.jforum.net)|
 |221|[@f2prateek](https://github.com/f2prateek)/[**device-frame-generator**](https://github.com/f2prateek/device-frame-generator)|Wrap your app screenshots in real device artwork.||
-|218|[@wmora](https://github.com/wmora)/[**martianrun**](https://github.com/wmora/martianrun)|An Open-Source Running Game with libGDX|[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.gamestudio24.cityescape.android)|
-|214|[@irccloud](https://github.com/irccloud)/[**android**](https://github.com/irccloud/android)|IRCCloud Android App||
+|220|[@wmora](https://github.com/wmora)/[**martianrun**](https://github.com/wmora/martianrun)|An Open-Source Running Game with libGDX|[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.gamestudio24.cityescape.android)|
+|215|[@irccloud](https://github.com/irccloud)/[**android**](https://github.com/irccloud/android)|IRCCloud Android App||
 |191|[@pahimar](https://github.com/pahimar)/[**LetsModReboot**](https://github.com/pahimar/LetsModReboot)|||
-|183|[@creactiviti](https://github.com/creactiviti)/[**piper**](https://github.com/creactiviti/piper)|piper - distributed workflow engine||
+|184|[@creactiviti](https://github.com/creactiviti)/[**piper**](https://github.com/creactiviti/piper)|piper - distributed workflow engine||
 |181|[@cesarferreira](https://github.com/cesarferreira)/[**RxPaper**](https://github.com/cesarferreira/RxPaper)|Reactive extension for NoSQL data storage on Android||
 |175|[@h3xstream](https://github.com/h3xstream)/[**http-script-generator**](https://github.com/h3xstream/http-script-generator)|ZAP/Burp plugin that generate script to reproduce a specific HTTP request (Intended for fuzzing or scripted attacks)||
 |175|[@william-tran](https://github.com/william-tran)/[**microservice-security**](https://github.com/william-tran/microservice-security)|Building OAuth2 secured microservices with Spring Cloud Security. From my talk at SpringOne2GX 2015 |[:arrow_upper_right:](https://spring.io/blog/2015/10/19/springone2gx-2015-replay-securing-microservices-with-spring-cloud-security)|
@@ -72,14 +72,14 @@
 |150|[@macdonst](https://github.com/macdonst)/[**VideoPlayer**](https://github.com/macdonst/VideoPlayer)|||
 |145|[@basil2style](https://github.com/basil2style)/[**Retrofit-Android-Basic**](https://github.com/basil2style/Retrofit-Android-Basic)|This is a simple retrofit android example for github api.||
 |145|[@cesarferreira](https://github.com/cesarferreira)/[**android-rocket-launcher**](https://github.com/cesarferreira/android-rocket-launcher)|:rocket: Launch android modules from the terminal||
-|142|[@brunoborges](https://github.com/brunoborges)/[**fx2048**](https://github.com/brunoborges/fx2048)|The game 2048, built using JavaFX and Java 11||
-|137|[@kryptco](https://github.com/kryptco)/[**krypton-android**](https://github.com/kryptco/krypton-android)|Krypton turns your Android device into a U2F Authenticator: strong, unphishable 2FA.|[:arrow_upper_right:](https://krypt.co)|
+|144|[@brunoborges](https://github.com/brunoborges)/[**fx2048**](https://github.com/brunoborges/fx2048)|The game 2048, built using JavaFX and Java 11||
+|138|[@kryptco](https://github.com/kryptco)/[**krypton-android**](https://github.com/kryptco/krypton-android)|Krypton turns your Android device into a U2F Authenticator: strong, unphishable 2FA.|[:arrow_upper_right:](https://krypt.co)|
 |128|[@lemire](https://github.com/lemire)/[**externalsortinginjava**](https://github.com/lemire/externalsortinginjava)|External-Memory Sorting in Java||
 |126|[@ww6015132](https://github.com/ww6015132)/[**SilkySignature**](https://github.com/ww6015132/SilkySignature)|An Smooth and silky signature pad for android||
+|124|[@BracketCove](https://github.com/BracketCove)/[**RoomDemo2017**](https://github.com/BracketCove/RoomDemo2017)|Learning project and teaching tool for Room Persistence Library, of Android Architecture Components||
 |124|[@joshuapinter](https://github.com/joshuapinter)/[**react-native-unified-contacts**](https://github.com/joshuapinter/react-native-unified-contacts)|Your best friend when working with the latest and greatest Contacts Framework in iOS 9+ in React Native.||
 |123|[@0xfe](https://github.com/0xfe)/[**experiments**](https://github.com/0xfe/experiments)|Tests, experiments, etc. etc.||
 |122|[@mvogiatzis](https://github.com/mvogiatzis)/[**first-stories-twitter**](https://github.com/mvogiatzis/first-stories-twitter)|How to spot first stories on Twitter using Storm.||
-|121|[@BracketCove](https://github.com/BracketCove)/[**RoomDemo2017**](https://github.com/BracketCove/RoomDemo2017)|Learning project and teaching tool for Room Persistence Library, of Android Architecture Components||
 |119|[@IanDarwin](https://github.com/IanDarwin)/[**javasrc**](https://github.com/IanDarwin/javasrc)|Collected code examples from the O'Reilly Java Cookbook 3d Edn|[:arrow_upper_right:](http://javacook.darwinsys.com/)|
 |118|[@jorabin](https://github.com/jorabin)/[**KeePassJava2**](https://github.com/jorabin/KeePassJava2)|Java API for KeePass Password Databases - Read/Write 2.x, Read 1.x||
 |116|[@brompwnie](https://github.com/brompwnie)/[**uitkyk**](https://github.com/brompwnie/uitkyk)|Runtime memory analysis framework to identify Android malware||
@@ -92,17 +92,17 @@
 |95|[@macournoyer](https://github.com/macournoyer)/[**min**](https://github.com/macournoyer/min)|The Min language||
 |93|[@eclipsesource](https://github.com/eclipsesource)/[**restfuse**](https://github.com/eclipsesource/restfuse)|A JUnit extension for automated HTTP/REST Tests|[:arrow_upper_right:](http://developer.eclipsesource.com/restfuse/)|
 |91|[@Hidendra](https://github.com/Hidendra)/[**Plugin-Metrics**](https://github.com/Hidendra/Plugin-Metrics)|Metrics tools designed for minecraft plugins to gather statistical data|[:arrow_upper_right:](http://mcstats.org)|
+|91|[@Sable](https://github.com/Sable)/[**heros**](https://github.com/Sable/heros)|IFDS/IDE Solver for Soot||
 |91|[@lurbas](https://github.com/lurbas)/[**GuidelinesCompatToolbar**](https://github.com/lurbas/GuidelinesCompatToolbar)|Changed Toolbar styles to achive layout compatible with Material Design guidelines||
-|89|[@Sable](https://github.com/Sable)/[**heros**](https://github.com/Sable/heros)|IFDS/IDE Solver for Soot||
 |89|[@coveo](https://github.com/coveo)/[**nashorn-commonjs-modules**](https://github.com/coveo/nashorn-commonjs-modules)|CommonJS modules support for Nashorn||
+|89|[@nayuki](https://github.com/nayuki)/[**Reference-Huffman-coding**](https://github.com/nayuki/Reference-Huffman-coding)|Clear implementation of Huffman coding for educational purposes in Java, Python, C++.|[:arrow_upper_right:](https://www.nayuki.io/page/reference-huffman-coding)|
 |88|[@kryptco](https://github.com/kryptco)/[**kryptonite-android**](https://github.com/kryptco/kryptonite-android)|Kryptonite \| Generate and store an SSH key on your phone.|[:arrow_upper_right:](https://krypt.co)|
-|88|[@nayuki](https://github.com/nayuki)/[**Reference-Huffman-coding**](https://github.com/nayuki/Reference-Huffman-coding)|Clear implementation of Huffman coding for educational purposes in Java, Python, C++.|[:arrow_upper_right:](https://www.nayuki.io/page/reference-huffman-coding)|
 |86|[@00-Evan](https://github.com/00-Evan)/[**shattered-pixel-dungeon-gdx**](https://github.com/00-Evan/shattered-pixel-dungeon-gdx)|LibGDX port of the awesome Pixel Dungeon||
-|85|[@peter-lawrey](https://github.com/peter-lawrey)/[**TransFIX**](https://github.com/peter-lawrey/TransFIX)|Faster FIX engine.|[:arrow_upper_right:](http://chronicle.software/products/transfix/)|
 |84|[@OpenGamma](https://github.com/OpenGamma)/[**ElSql**](https://github.com/OpenGamma/ElSql)|Manage external SQL files in Java with a little DSL goodness||
+|84|[@peter-lawrey](https://github.com/peter-lawrey)/[**TransFIX**](https://github.com/peter-lawrey/TransFIX)|Faster FIX engine.|[:arrow_upper_right:](http://chronicle.software/products/transfix/)|
+|84|[@yushulx](https://github.com/yushulx)/[**Android-IP-Camera**](https://github.com/yushulx/Android-IP-Camera)|Android IP Camera||
 |82|[@fbrunel](https://github.com/fbrunel)/[**twitterdroid**](https://github.com/fbrunel/twitterdroid)|TwitterDroid is a clone of Twitterific designed for Android.||
 |82|[@hauckwill](https://github.com/hauckwill)/[**linconnect-client**](https://github.com/hauckwill/linconnect-client)|Mirror Android notifications on a Linux desktop|[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.willhauck.linconnectclient)|
-|82|[@yushulx](https://github.com/yushulx)/[**Android-IP-Camera**](https://github.com/yushulx/Android-IP-Camera)|Android IP Camera||
 |79|[@nayuki](https://github.com/nayuki)/[**Reference-arithmetic-coding**](https://github.com/nayuki/Reference-arithmetic-coding)|Clear implementation of arithmetic coding for educational purposes in Java, Python, C++.|[:arrow_upper_right:](https://www.nayuki.io/page/reference-arithmetic-coding)|
 |78|[@coveo](https://github.com/coveo)/[**fmt-maven-plugin**](https://github.com/coveo/fmt-maven-plugin)|Opinionated Maven Plugin that formats your Java code.||
 |73|[@castorini](https://github.com/castorini)/[**Anserini**](https://github.com/castorini/Anserini)|A toolkit for reproducible information retrieval research built on Lucene|[:arrow_upper_right:](http://anserini.io/)|
@@ -110,20 +110,20 @@
 |73|[@mvdan](https://github.com/mvdan)/[**accesspoint**](https://github.com/mvdan/accesspoint)|Manage wireless access points in Android (abandoned)||
 |72|[@henrytao-me](https://github.com/henrytao-me)/[**recyclerview-multistate-section-endless-adapter**](https://github.com/henrytao-me/recyclerview-multistate-section-endless-adapter)|MultiState, section, endless recyclerView are made easily by this wrapper adapter.||
 |71|[@gamesbyangelina](https://github.com/gamesbyangelina)/[**spritely**](https://github.com/gamesbyangelina/spritely)|Spritely is a tool for autogenerating simple placeholder game sprites from images found on the web. ||
-|70|[@kiselev-dv](https://github.com/kiselev-dv)/[**gazetteer**](https://github.com/kiselev-dv/gazetteer)|OSM ElasticSearch geocoder and addresses exporter|[:arrow_upper_right:](http://osm.me)|
+|71|[@kiselev-dv](https://github.com/kiselev-dv)/[**gazetteer**](https://github.com/kiselev-dv/gazetteer)|OSM ElasticSearch geocoder and addresses exporter|[:arrow_upper_right:](http://osm.me)|
+|71|[@tsantalis](https://github.com/tsantalis)/[**RefactoringMiner**](https://github.com/tsantalis/RefactoringMiner)|||
 |69|[@BracketCove](https://github.com/BracketCove)/[**Profiler**](https://github.com/BracketCove/Profiler)|||
-|69|[@tsantalis](https://github.com/tsantalis)/[**RefactoringMiner**](https://github.com/tsantalis/RefactoringMiner)|||
-|68|[@basil2style](https://github.com/basil2style)/[**getid**](https://github.com/basil2style/getid)|Get Device ID,SIM SerialNumber,IMEI,IMSI,Google Service Key,WiFi Mac address for Android|[:arrow_upper_right:](http://themakeinfo.com/2015/02/working-new-android-app/)|
+|69|[@basil2style](https://github.com/basil2style)/[**getid**](https://github.com/basil2style/getid)|Get Device ID,SIM SerialNumber,IMEI,IMSI,Google Service Key,WiFi Mac address for Android|[:arrow_upper_right:](http://themakeinfo.com/2015/02/working-new-android-app/)|
 |66|[@justinmeister](https://github.com/justinmeister)/[**PongWithLibgdx**](https://github.com/justinmeister/PongWithLibgdx)|A simple pong clone with libgdx.||
 |66|[@macdonst](https://github.com/macdonst)/[**TelephoneNumberPlugin**](https://github.com/macdonst/TelephoneNumberPlugin)|||
-|65|[@sinofool](https://github.com/sinofool)/[**alipay-java-sdk**](https://github.com/sinofool/alipay-java-sdk)|支付宝Java SDK|[:arrow_upper_right:](https://sinofool.net/blog/archives/236)|
+|66|[@sinofool](https://github.com/sinofool)/[**alipay-java-sdk**](https://github.com/sinofool/alipay-java-sdk)|支付宝Java SDK|[:arrow_upper_right:](https://sinofool.net/blog/archives/236)|
+|64|[@creactiviti](https://github.com/creactiviti)/[**spring-security-passwordless**](https://github.com/creactiviti/spring-security-passwordless)|Passwordless authentication example application using Spring Boot and Spring Security||
 |63|[@Sable](https://github.com/Sable)/[**jasmin**](https://github.com/Sable/jasmin)|||
 |63|[@h3xstream](https://github.com/h3xstream)/[**sonar-findbugs**](https://github.com/h3xstream/sonar-findbugs)|||
 |63|[@slgobinath](https://github.com/slgobinath)/[**Java-Helps-Android**](https://github.com/slgobinath/Java-Helps-Android)|Android projects from Java Helps.||
-|62|[@creactiviti](https://github.com/creactiviti)/[**spring-security-passwordless**](https://github.com/creactiviti/spring-security-passwordless)|Passwordless authentication example application using Spring Boot and Spring Security||
 |62|[@macdonst](https://github.com/macdonst)/[**SpeechSynthesisPlugin**](https://github.com/macdonst/SpeechSynthesisPlugin)|W3C Web Speech API - Speech synthesis plugin for PhoneGap||
+|62|[@tsantalis](https://github.com/tsantalis)/[**JDeodorant**](https://github.com/tsantalis/JDeodorant)|JDeodorant|[:arrow_upper_right:](http://www.jdeodorant.org)|
 |61|[@onesocialweb](https://github.com/onesocialweb)/[**osw-openfire-plugin**](https://github.com/onesocialweb/osw-openfire-plugin)|Adds onesocialweb protocol support to an openfire server|[:arrow_upper_right:](http://onesocialweb.org)|
-|60|[@tsantalis](https://github.com/tsantalis)/[**JDeodorant**](https://github.com/tsantalis/JDeodorant)|JDeodorant|[:arrow_upper_right:](http://www.jdeodorant.org)|
 |59|[@creactiviti](https://github.com/creactiviti)/[**graffiti**](https://github.com/creactiviti/graffiti)|Headless Java CMS||
 |59|[@creactiviti](https://github.com/creactiviti)/[**spring-boot-starter-acme**](https://github.com/creactiviti/spring-boot-starter-acme)|Generate SSL certs easily for Spring Boot apps||
 |59|[@jpaulm](https://github.com/jpaulm)/[**drawfbp**](https://github.com/jpaulm/drawfbp)|Tool for Creating and Exploring Flow-Based Programming Diagram Hierarchies|[:arrow_upper_right:](http://www.jpaulmorrison.com/fbp/)|
@@ -143,9 +143,9 @@
 |52|[@chesterbr](https://github.com/chesterbr)/[**minitruco-android**](https://github.com/chesterbr/minitruco-android)|Port of miniTruco, the popular J2ME Brazilian Truco game (http://chester.blog.br/minitruco) to Android|[:arrow_upper_right:](http://chester.blog.br/archives/2011/07/minitruco-android.html)|
 |52|[@nayuki](https://github.com/nayuki)/[**Nayuki-web-published-code**](https://github.com/nayuki/Nayuki-web-published-code)|Complete collection of code files (*.java/js/py/cpp/etc.) published on Project Nayuki web site.|[:arrow_upper_right:](https://www.nayuki.io/)|
 |52|[@ontodev](https://github.com/ontodev)/[**robot**](https://github.com/ontodev/robot)|ROBOT is an OBO Tool|[:arrow_upper_right:](http://robot.obolibrary.org)|
+|50|[@BracketCove](https://github.com/BracketCove)/[**RecyclerViewTutorial2017**](https://github.com/BracketCove/RecyclerViewTutorial2017)|2017 RecyclerView Tutorial by Ryan Kay (wiseAss).||
 |50|[@OpenIchano](https://github.com/OpenIchano)/[**AVS**](https://github.com/OpenIchano/AVS)|Open Source of AtHome Video Streamer lite version. develop with Ichano SDK.||
 |50|[@vcaen](https://github.com/vcaen)/[**AndroidAutoHideHeader**](https://github.com/vcaen/AndroidAutoHideHeader)|A layout that hide the header when the body is scrolled down and reveal it when the header is scrolled up||
-|49|[@BracketCove](https://github.com/BracketCove)/[**RecyclerViewTutorial2017**](https://github.com/BracketCove/RecyclerViewTutorial2017)|2017 RecyclerView Tutorial by Ryan Kay (wiseAss).||
 |49|[@NovaCrypto](https://github.com/NovaCrypto)/[**BIP39**](https://github.com/NovaCrypto/BIP39)|Java Microlibrary implementation of BIP0039|[:arrow_upper_right:](https://novacrypto.github.io/BIP39)|
 |49|[@coveo](https://github.com/coveo)/[**feign-error-decoder**](https://github.com/coveo/feign-error-decoder)|Feign ErrorDecoder to map exceptions based on an error code||
 |49|[@sinofool](https://github.com/sinofool)/[**wechat-java-sdk**](https://github.com/sinofool/wechat-java-sdk)|微信开放平台Java SDK|[:arrow_upper_right:](https://sinofool.net/blog/archives/236)|
@@ -163,33 +163,34 @@
 |42|[@eclipsesource](https://github.com/eclipsesource)/[**tabris-demos**](https://github.com/eclipsesource/tabris-demos)|Code Related to the Tabris Demos|[:arrow_upper_right:](http://developer.eclipsesource.com/tabris/demos/)|
 |42|[@mvayngrib](https://github.com/mvayngrib)/[**react-native-randombytes**](https://github.com/mvayngrib/react-native-randombytes)|randomBytes for react-native||
 |41|[@arafalov](https://github.com/arafalov)/[**solr-indexing-book**](https://github.com/arafalov/solr-indexing-book)|Example code for the book "Indexing Data in Apache Solr"||
+|41|[@davidkiss](https://github.com/davidkiss)/[**storm-twitter-word-count**](https://github.com/davidkiss/storm-twitter-word-count)|This is a sample project demonstrating real-time computation storm framework integration with twitter.||
 |41|[@msukmanowsky](https://github.com/msukmanowsky)/[**omniture-data-tools**](https://github.com/msukmanowsky/omniture-data-tools)|A set of tools for working with Omniture daily data files (hit_data.tsv) in big or small tools like Spark, Hadoop or just Python.||
 |41|[@testinfected](https://github.com/testinfected)/[**simple-petstore**](https://github.com/testinfected/simple-petstore)|A version of the petstore built without frameworks||
 |40|[@ReikaKalseki](https://github.com/ReikaKalseki)/[**ChromatiCraft**](https://github.com/ReikaKalseki/ChromatiCraft)|A magic mod I decided to make after both GeoStrata and DyeTrees began to include increasingly magical content. Contains the entirety of DyeTrees and EnderForest, as well as the crystal-related content from GeoStrata, as well as a large amount of new content.||
-|40|[@davidkiss](https://github.com/davidkiss)/[**storm-twitter-word-count**](https://github.com/davidkiss/storm-twitter-word-count)|This is a sample project demonstrating real-time computation storm framework integration with twitter.||
+|40|[@creactiviti](https://github.com/creactiviti)/[**spring-boot-starter-graphql**](https://github.com/creactiviti/spring-boot-starter-graphql)|Adding GraphQL goodness to Spring Boot apps||
 |40|[@peter-lawrey](https://github.com/peter-lawrey)/[**Java-Direct**](https://github.com/peter-lawrey/Java-Direct)|JEP with off heap support to replace portions of Unsafe and other sun.* methods.||
 |40|[@ustwo](https://github.com/ustwo)/[**android-boilerplate**](https://github.com/ustwo/android-boilerplate)|Android Boilerplate à la ustwo|[:arrow_upper_right:](https://ustwo.com/)|
-|39|[@creactiviti](https://github.com/creactiviti)/[**spring-boot-starter-graphql**](https://github.com/creactiviti/spring-boot-starter-graphql)|Adding GraphQL goodness to Spring Boot apps||
+|38|[@Corosauce](https://github.com/Corosauce)/[**weather2**](https://github.com/Corosauce/weather2)|Minecraft Forge Mod - Localized Weather - A rewrite of weather & tornados with a focus on localized storm systems||
 |38|[@IanDarwin](https://github.com/IanDarwin)/[**patterns-demos**](https://github.com/IanDarwin/patterns-demos)|Examples of Design Patterns in Java||
 |38|[@Zren](https://github.com/Zren)/[**Towny**](https://github.com/Zren/Towny)|Plugin for Bukkit. Resident-Town-Nation heirarchy alongside a grid-based protection system.||
-|37|[@Corosauce](https://github.com/Corosauce)/[**weather2**](https://github.com/Corosauce/weather2)|Minecraft Forge Mod - Localized Weather - A rewrite of weather & tornados with a focus on localized storm systems||
 |37|[@creactiviti](https://github.com/creactiviti)/[**giraphe**](https://github.com/creactiviti/giraphe)|Headless Java CMS Framework||
 |37|[@pahimar](https://github.com/pahimar)/[**Equivalent-Exchange**](https://github.com/pahimar/Equivalent-Exchange)||[:arrow_upper_right:](https://equivalent.exchange)|
 |35|[@LazoCoder](https://github.com/LazoCoder)/[**Tic-Tac-Toe**](https://github.com/LazoCoder/Tic-Tac-Toe)|An unbeatable game of Tic Tac Toe.||
 |35|[@bbc](https://github.com/bbc)/[**clientside-recommender**](https://github.com/bbc/clientside-recommender)|A client-side recommender system implemented in Javascript.||
 |35|[@pR0Ps](https://github.com/pR0Ps)/[**LocationShare**](https://github.com/pR0Ps/LocationShare)|A simple Android application to share your location||
 |35|[@ritzalam](https://github.com/ritzalam)/[**red5**](https://github.com/ritzalam/red5)|Mirror of Red5|[:arrow_upper_right:](http://www.red5.org)|
+|33|[@davidkiss](https://github.com/davidkiss)/[**twitter-keyword-graph**](https://github.com/davidkiss/twitter-keyword-graph)|Sample project that creates graph on words in same tweets using Spring Boot + Spring Social Twitter + Spring Data Neo4J||
 |33|[@edescourtis](https://github.com/edescourtis)/[**actor**](https://github.com/edescourtis/actor)|A super minimal java actor library||
 |33|[@jodastephen](https://github.com/jodastephen)/[**jpms-module-names**](https://github.com/jodastephen/jpms-module-names)|Module names for Java 9 JPMS||
-|32|[@davidkiss](https://github.com/davidkiss)/[**twitter-keyword-graph**](https://github.com/davidkiss/twitter-keyword-graph)|Sample project that creates graph on words in same tweets using Spring Boot + Spring Social Twitter + Spring Data Neo4J||
 |32|[@thestinger](https://github.com/thestinger)/[**Auditor**](https://github.com/thestinger/Auditor)|Hardware-based attestation app for select Android devices. It can do either local verification with another Android device via QR code or scheduled server-based verification. It primarily relies on Trust On First Use using the hardware-backed keystore and key attestation. The initial unpaired verification relies on key attestation root.||
 |31|[@onesocialweb](https://github.com/onesocialweb)/[**osw-lib-java**](https://github.com/onesocialweb/osw-lib-java)|A Java client library - using on the Smack XMPP library - desktop only (other lib for Android and GWT)|[:arrow_upper_right:](http://onesocialweb.org)|
 |31|[@shannah](https://github.com/shannah)/[**jdeploy**](https://github.com/shannah/jdeploy)|Tool to deploy java applications using NPM||
 |30|[@PrinceOfAmber](https://github.com/PrinceOfAmber)/[**Cyclic**](https://github.com/PrinceOfAmber/Cyclic)|Minecraft mod written in Java||
-|30|[@arafalov](https://github.com/arafalov)/[**git-to-solr**](https://github.com/arafalov/git-to-solr)|Index git history into a Solr repository||
 |30|[@peter-lawrey](https://github.com/peter-lawrey)/[**Java-Chronicle-OLD**](https://github.com/peter-lawrey/Java-Chronicle-OLD)|||
 |30|[@rock3r](https://github.com/rock3r)/[**smartlock-demo**](https://github.com/rock3r/smartlock-demo)|A simple but complete demo of how to use SmartLock for Passwords -- see https://developers.google.com/identity/smartlock-passwords/android/||
+|30|[@woder](https://github.com/woder)/[**TorchBot**](https://github.com/woder/TorchBot)|A bot for minecraft written in java||
 |30|[@yushulx](https://github.com/yushulx)/[**JavaHTTPUpload**](https://github.com/yushulx/JavaHTTPUpload)|Java HTTP Upload||
+|29|[@arafalov](https://github.com/arafalov)/[**git-to-solr**](https://github.com/arafalov/git-to-solr)|Index git history into a Solr repository||
 |29|[@cesarferreira](https://github.com/cesarferreira)/[**jsonify**](https://github.com/cesarferreira/jsonify)|Convert any Java object to JSON for easier debugging||
 |29|[@deluan](https://github.com/deluan)/[**shiro-faces**](https://github.com/deluan/shiro-faces)|JSF 2 TagLib for Apache Shiro. This taglib reimplements all original JSP tags as their Facelets equivalent, so they can be used in JSF projects.|[:arrow_upper_right:](http://deluan.github.com/shiro-faces/)|
 |29|[@eroispaziali](https://github.com/eroispaziali)/[**ForceFlow**](https://github.com/eroispaziali/ForceFlow)|Enhanced deployment automation for the Force.com platform|[:arrow_upper_right:](http://lofrattini.io)|
@@ -197,15 +198,14 @@
 |29|[@vsch](https://github.com/vsch)/[**MissingInActions**](https://github.com/vsch/MissingInActions)|Adds new editing capability to JetBrains IDEs like auto-line selections, multi-caret manipulation and move to next/previous end of word.||
 |28|[@Lucklyric](https://github.com/Lucklyric)/[**android-camera-socket-stream**](https://github.com/Lucklyric/android-camera-socket-stream)|Using socket streaming camera video in real time||
 |28|[@macdonst](https://github.com/macdonst)/[**TTS**](https://github.com/macdonst/TTS)|||
-|28|[@woder](https://github.com/woder)/[**TorchBot**](https://github.com/woder/TorchBot)|A bot for minecraft written in java||
 |28|[@yuttadhammo](https://github.com/yuttadhammo)/[**buddydroid**](https://github.com/yuttadhammo/buddydroid)|Buddypress Client for Android||
 |27|[@anthonydahanne](https://github.com/anthonydahanne)/[**ReGalAndroid**](https://github.com/anthonydahanne/ReGalAndroid)|A remote gallery client for the Android platform|[:arrow_upper_right:](http://code.google.com/p/regalandroid/)|
 |27|[@bcit-ci](https://github.com/bcit-ci)/[**netbeans-plugin**](https://github.com/bcit-ci/netbeans-plugin)|IDE plugin to support CodeIgniter||
 |27|[@greatman](https://github.com/greatman)/[**craftconomy3**](https://github.com/greatman/craftconomy3)|A Economy plugin for Bukkit & Canary Recode!||
+|27|[@iSoron](https://github.com/iSoron)/[**dagger2-examples**](https://github.com/iSoron/dagger2-examples)|Examples of dependency injection with Dagger2||
 |27|[@jgrandja](https://github.com/jgrandja)/[**springone2017-demo**](https://github.com/jgrandja/springone2017-demo)|||
 |27|[@rnicoll](https://github.com/rnicoll)/[**cate**](https://github.com/rnicoll/cate)|Cross-chain Atomic Transaction Engine||
 |26|[@ReikaKalseki](https://github.com/ReikaKalseki)/[**ReactorCraft**](https://github.com/ReikaKalseki/ReactorCraft)|An addon for RotaryCraft that adds nuclear power.||
-|26|[@iSoron](https://github.com/iSoron)/[**dagger2-examples**](https://github.com/iSoron/dagger2-examples)|Examples of dependency injection with Dagger2||
 |26|[@oldergod](https://github.com/oldergod)/[**DataBindingDemo**](https://github.com/oldergod/DataBindingDemo)|Small app to show data binding possibilities|[:arrow_upper_right:](https://speakerdeck.com/oldergod/the-data-binding-library)|
 |26|[@paul-g](https://github.com/paul-g)/[**brabble**](https://github.com/paul-g/brabble)|Gentle course on competitive programming||
 |26|[@richardstartin](https://github.com/richardstartin)/[**bitrules**](https://github.com/richardstartin/bitrules)|Rule based classification with explicit support for ambiguity resolution||
@@ -222,11 +222,11 @@
 |24|[@rock3r](https://github.com/rock3r)/[**launcher-icon**](https://github.com/rock3r/launcher-icon)|A simple demo project that showcases how to set up Android launcher icons||
 |24|[@sinofool](https://github.com/sinofool)/[**dbpool**](https://github.com/sinofool/dbpool)|A datasource control system|[:arrow_upper_right:](https://sinofool.net/blog/dbpool)|
 |23|[@BracketCove](https://github.com/BracketCove)/[**Calculator**](https://github.com/BracketCove/Calculator)|This project is part of a series of youtube tutorials aimed at teaching beginners how to build Android Apps.||
+|23|[@Hesamedin](https://github.com/Hesamedin)/[**ELM327**](https://github.com/Hesamedin/ELM327)|Tester application in order to connect to OBD-II dongle via Bluetooth and get response.||
 |23|[@macdonst](https://github.com/macdonst)/[**AppPreferences**](https://github.com/macdonst/AppPreferences)|||
 |23|[@peter-lawrey](https://github.com/peter-lawrey)/[**SAXophone**](https://github.com/peter-lawrey/SAXophone)| SAX parser for JSon and YAML (alpha)|[:arrow_upper_right:](http://chronicle.software)|
 |23|[@ryanramage](https://github.com/ryanramage)/[**couchapp-takeout**](https://github.com/ryanramage/couchapp-takeout)|DEPRECATED - a couchapp installer. ||
 |23|[@ustwo](https://github.com/ustwo)/[**clockwise-samples**](https://github.com/ustwo/clockwise-samples)|Sample watch faces||
-|22|[@Hesamedin](https://github.com/Hesamedin)/[**ELM327**](https://github.com/Hesamedin/ELM327)|Tester application in order to connect to OBD-II dongle via Bluetooth and get response.||
 |22|[@NovaCrypto](https://github.com/NovaCrypto)/[**BIP44**](https://github.com/NovaCrypto/BIP44)|Java microlibrary implementation of BIP0044|[:arrow_upper_right:](https://novacrypto.github.io/BIP44/)|
 |22|[@brianleroux](https://github.com/brianleroux)/[**AndroidJS**](https://github.com/brianleroux/AndroidJS)|Develop native Android applications with JavaScript.  ||
 |22|[@infil00p](https://github.com/infil00p)/[**cordova-mozillaview-engine**](https://github.com/infil00p/cordova-mozillaview-engine)|A proof-of-concept Web Engine based on Mozilla GeckoView||
@@ -234,7 +234,6 @@
 |22|[@pritamworld](https://github.com/pritamworld)/[**Quiz**](https://github.com/pritamworld/Quiz)|Simple QUIZ application to demonstrate some Android features||
 |22|[@ryanramage](https://github.com/ryanramage)/[**couch-audio-recorder**](https://github.com/ryanramage/couch-audio-recorder)|DEPRECATED - A couchapp that lets you record, play, live-stream audio on the web. ||
 |21|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_frameworks_base**](https://github.com/CopperheadOS/platform_frameworks_base)|||
-|21|[@OpenGamma](https://github.com/OpenGamma)/[**OpenSIMM**](https://github.com/OpenGamma/OpenSIMM)|Reference implementation of the ISDA-proposed Standard Initial Margin Model (SIMM) for non-cleared derivatives|[:arrow_upper_right:](http://www.opengamma.com/opengamma-platform/opensimm)|
 |21|[@apetresc](https://github.com/apetresc)/[**Kindle-Widget-Toolkit**](https://github.com/apetresc/Kindle-Widget-Toolkit)|The KWT is a set of KComponents to be used with the Kindle Development Kit to create compelling user interfaces for Kindle Active Content.||
 |21|[@eclipsesource](https://github.com/eclipsesource)/[**org.eclipse.rap.build.examples**](https://github.com/eclipsesource/org.eclipse.rap.build.examples)|Examples that show how to build a .war file from a RAP application with different build systems|[:arrow_upper_right:](http://eclipse.org/rap)|
 |21|[@f2prateek](https://github.com/f2prateek)/[**bundler**](https://github.com/f2prateek/bundler)|Bundler is small fluent API on top top of android.os.Bundle|[:arrow_upper_right:](http://developer.android.com/reference/android/os/Bundle.html)|
@@ -244,8 +243,9 @@
 |21|[@onesocialweb](https://github.com/onesocialweb)/[**osw-model**](https://github.com/onesocialweb/osw-model)|Common  data model, XML parsers/writers and other interfaces|[:arrow_upper_right:](http://onesocialweb.org)|
 |21|[@rayryeng](https://github.com/rayryeng)/[**RTSPTest**](https://github.com/rayryeng/RTSPTest)|This is a library as well as a test GUI that I wrote that implements the RTSP Signalling Protocol to communicate with RTSP servers||
 |20|[@Abushawish](https://github.com/Abushawish)/[**MultiStateToggleButton**](https://github.com/Abushawish/MultiStateToggleButton)|Android's ToggleButton offers only two states, MultiStateToggleButton fixes this by offering as many states depending on the number of drawable resources passed in. ||
+|20|[@OpenGamma](https://github.com/OpenGamma)/[**OpenSIMM**](https://github.com/OpenGamma/OpenSIMM)|Reference implementation of the ISDA-proposed Standard Initial Margin Model (SIMM) for non-cleared derivatives|[:arrow_upper_right:](http://www.opengamma.com/opengamma-platform/opensimm)|
 |20|[@basil2style](https://github.com/basil2style)/[**android-spreadsheet**](https://github.com/basil2style/android-spreadsheet)|Spreadsheet or Report page  Library for Android||
-|20|[@elharo](https://github.com/elharo)/[**xom**](https://github.com/elharo/xom)|XOM™ is a new XML object model. It is an open source (LGPL), tree-based API for processing XML with Java that strives for correctness, simplicity, and performance, in that order. |[:arrow_upper_right:](http://xom.nu)|
+|20|[@elharo](https://github.com/elharo)/[**xom**](https://github.com/elharo/xom)|XOM™ is a new XML object model. It is an open source (LGPL), tree-based API for processing XML with Java that strives for correctness, simplicity, and performance, in that order. |[:arrow_upper_right:](https://xom.nu)|
 |20|[@jasonish](https://github.com/jasonish)/[**jetty-springmvc-jsp-template**](https://github.com/jasonish/jetty-springmvc-jsp-template)|||
 |20|[@kanawish](https://github.com/kanawish)/[**RajaDaydream**](https://github.com/kanawish/RajaDaydream)|Daydream VR project using Rajawali library. Perfect for people looking to experiment with VR in Java without the overhead of dealing directly with OpenGL.||
 |20|[@nayuki](https://github.com/nayuki)/[**Sorting-algorithms-demo**](https://github.com/nayuki/Sorting-algorithms-demo)|Animated demo of sorting algorithms in Java.|[:arrow_upper_right:](https://www.nayuki.io/page/sorting-algorithms-demo-java)|
@@ -300,27 +300,27 @@
 |14|[@davidkiss](https://github.com/davidkiss)/[**yourl**](https://github.com/davidkiss/yourl)|Sample url-shortener web application  to demonstrate Java + Spring Boot||
 |14|[@eclipsesource](https://github.com/eclipsesource)/[**tabris-plugin-maps**](https://github.com/eclipsesource/tabris-plugin-maps)|Maps plugin for Tabris.js||
 |14|[@henri-tremblay](https://github.com/henri-tremblay)/[**DeadlockLabJavaOne2012**](https://github.com/henri-tremblay/DeadlockLabJavaOne2012)|Exercices of Finding and Solving Java Deadlocks HOL at JavaOne 2012||
+|14|[@jgrandja](https://github.com/jgrandja)/[**oauth2-protocol-patterns**](https://github.com/jgrandja/oauth2-protocol-patterns)|||
 |14|[@lemire](https://github.com/lemire)/[**simplebitmapbenchmark**](https://github.com/lemire/simplebitmapbenchmark)|Simple benchmark between compressed bitmap libraries in Java||
 |14|[@mikelambert](https://github.com/mikelambert)/[**react-native-firebase3**](https://github.com/mikelambert/react-native-firebase3)|React Native support for Firebase 3 mobile SDKs||
 |14|[@nayuki](https://github.com/nayuki)/[**Native-hashes-for-Java**](https://github.com/nayuki/Native-hashes-for-Java)|Hash functions implemented in C and x86 asm, callable from Java through JNI.|[:arrow_upper_right:](https://www.nayuki.io/page/native-hash-functions-for-java)|
+|14|[@nayuki](https://github.com/nayuki)/[**Simple-DEFLATE-decompressor**](https://github.com/nayuki/Simple-DEFLATE-decompressor)|Simple compliant DEFLATE decompressor in Java.|[:arrow_upper_right:](https://www.nayuki.io/page/simple-deflate-decompressor)|
 |14|[@regis-leray](https://github.com/regis-leray)/[**factory_duke**](https://github.com/regis-leray/factory_duke)|A Java framework for creating objects as test data (Fixture)||
 |14|[@turbolent](https://github.com/turbolent)/[**lila**](https://github.com/turbolent/lila)|Lila is a dynamic language running on the JVM with efficient multiple and predicate method dispatch||
 |14|[@william-tran](https://github.com/william-tran)/[**microservice-security-jose**](https://github.com/william-tran/microservice-security-jose)|Using JOSE for end to end microservice security. First presented at microXchg Berlin, Feb 2017.||
+|13|[@Corosauce](https://github.com/Corosauce)/[**CoroUtil**](https://github.com/Corosauce/CoroUtil)|Minecraft Forge Mod - Library used in most of my other mods ||
 |13|[@basil2style](https://github.com/basil2style)/[**Android-Retrofit-Images**](https://github.com/basil2style/Android-Retrofit-Images)|In this sample Android Project,we use Retrofit and Picasso library for loading image from the server in listview.||
 |13|[@basil2style](https://github.com/basil2style)/[**Sudoku-Pattern-Generator-App**](https://github.com/basil2style/Sudoku-Pattern-Generator-App)|Android App for Generating Sudoku Number Pattern||
 |13|[@basil2style](https://github.com/basil2style)/[**Xposed-Android-Studio-Project**](https://github.com/basil2style/Xposed-Android-Studio-Project)|Xposed framework demo project for Android Studio.||
 |13|[@codetojoy](https://github.com/codetojoy)/[**WarO_Java_9_Maven**](https://github.com/codetojoy/WarO_Java_9_Maven)|A simple card game as an illustration of JDK 9 modules with Maven.||
 |13|[@eclipsesource](https://github.com/eclipsesource)/[**rap-virgo-examples**](https://github.com/eclipsesource/rap-virgo-examples)|RAP Demo running on Virgo||
-|13|[@jgrandja](https://github.com/jgrandja)/[**oauth2-protocol-patterns**](https://github.com/jgrandja/oauth2-protocol-patterns)|||
 |13|[@jmirc](https://github.com/jmirc)/[**Hippo-CMS-Konakart**](https://github.com/jmirc/Hippo-CMS-Konakart)|Bridge between Hippo CMS and Konakart||
 |13|[@jsendnsca](https://github.com/jsendnsca)/[**jsendnsca**](https://github.com/jsendnsca/jsendnsca)|JSend NSCA is Java API for sending passive checks to the Nagios NSCA add-on.||
 |13|[@kbaribeau](https://github.com/kbaribeau)/[**mockito-examples**](https://github.com/kbaribeau/mockito-examples)|A set of examples showing how to use mockito||
 |13|[@micdoodle8](https://github.com/micdoodle8)/[**Crossbow_Mod_2**](https://github.com/micdoodle8/Crossbow_Mod_2)|An advanced Crossbow Modification for Minecraft||
-|13|[@nayuki](https://github.com/nayuki)/[**Simple-DEFLATE-decompressor**](https://github.com/nayuki/Simple-DEFLATE-decompressor)|Simple compliant DEFLATE decompressor in Java.|[:arrow_upper_right:](https://www.nayuki.io/page/simple-deflate-decompressor)|
 |13|[@onaio](https://github.com/onaio)/[**kujaku**](https://github.com/onaio/kujaku)|Mapping and check-in library for Android using MapBox SDK|[:arrow_upper_right:](https://ona.io)|
 |13|[@sdoxsee](https://github.com/sdoxsee)/[**jhipster-openid-connect-microservices**](https://github.com/sdoxsee/jhipster-openid-connect-microservices)|||
 |13|[@slgobinath](https://github.com/slgobinath)/[**Java-Helps-Java**](https://github.com/slgobinath/Java-Helps-Java)|Java projects from Java Helps.||
-|12|[@Corosauce](https://github.com/Corosauce)/[**CoroUtil**](https://github.com/Corosauce/CoroUtil)|Minecraft Forge Mod - Library used in most of my other mods ||
 |12|[@DylanVann](https://github.com/DylanVann)/[**react-native-locale-detector**](https://github.com/DylanVann/react-native-locale-detector)|Detects the locale of a user's phone.||
 |12|[@Team4334](https://github.com/Team4334)/[**atalibj**](https://github.com/Team4334/atalibj)|ATA's abstract FIRST Robotics libraries|[:arrow_upper_right:](http://4334.ca/atalibj/)|
 |12|[@abramhindle](https://github.com/abramhindle)/[**FillerCreepForAndroid**](https://github.com/abramhindle/FillerCreepForAndroid)|A Game that Attempts to Demo MVC for Android||
@@ -335,7 +335,6 @@
 |12|[@shopizer-ecommerce](https://github.com/shopizer-ecommerce)/[**shopizer-search**](https://github.com/shopizer-ecommerce/shopizer-search)|Search wrapper to elasticsearch used within shopizer||
 |12|[@ustwo](https://github.com/ustwo)/[**GL-2D-watchface**](https://github.com/ustwo/GL-2D-watchface)|A light-weight library to manage and render Bitmaps in OpenGL on a watch face.||
 |12|[@yuttadhammo](https://github.com/yuttadhammo)/[**BodhiTimer**](https://github.com/yuttadhammo/BodhiTimer)|Elegant, minimalist countdown timer for Android||
-|11|[@AllanWang](https://github.com/AllanWang)/[**Capsule**](https://github.com/AllanWang/Capsule)|A UI framework library for heavy designs||
 |11|[@AllanWang](https://github.com/AllanWang)/[**Kellinwood-ZipSigner**](https://github.com/AllanWang/Kellinwood-ZipSigner)|ZipSigner source on Github for jitpack usage.||
 |11|[@Amejia481](https://github.com/Amejia481)/[**CabanasRD**](https://github.com/Amejia481/CabanasRD)|||
 |11|[@IanDarwin](https://github.com/IanDarwin)/[**AndroidOrm**](https://github.com/IanDarwin/AndroidOrm)|Comparison of various technologies to build a local database as part of an Android app.||
@@ -356,7 +355,9 @@
 |11|[@the-james-burton](https://github.com/the-james-burton)/[**sshw**](https://github.com/the-james-burton/sshw)|SSH client in a browser, via a JEE webapp: |[:arrow_upper_right:](http://the-james-burton.github.io/sshw/)|
 |11|[@timbray](https://github.com/timbray)/[**KeybaseLib**](https://github.com/timbray/KeybaseLib)|General-purpose Java-language library for keybase.io clients||
 |11|[@yushulx](https://github.com/yushulx)/[**android-usb-monitor**](https://github.com/yushulx/android-usb-monitor)|Android USB Monitor||
+|10|[@AllanWang](https://github.com/AllanWang)/[**Capsule**](https://github.com/AllanWang/Capsule)|A UI framework library for heavy designs||
 |10|[@CMDann](https://github.com/CMDann)/[**Simple-Android-Calculator**](https://github.com/CMDann/Simple-Android-Calculator)|Simple Calculator for Android||
+|10|[@ITHit](https://github.com/ITHit)/[**WebDAVServerSamplesJava**](https://github.com/ITHit/WebDAVServerSamplesJava)|WebDAV server examples in Java based on IT Hit WebDAV Server Library for Java|[:arrow_upper_right:](https://www.webdavsystem.com/javaserver/)|
 |10|[@IanDarwin](https://github.com/IanDarwin)/[**date4j**](https://github.com/IanDarwin/date4j)|Code for date4j.net's simple date API, with a POM file, for upload to Maven Central.|[:arrow_upper_right:](http://date4j.net/)|
 |10|[@LazoCoder](https://github.com/LazoCoder)/[**Genetic-Algorithm-for-the-Traveling-Salesman-Problem**](https://github.com/LazoCoder/Genetic-Algorithm-for-the-Traveling-Salesman-Problem)|A population based stochastic algorithm for solving the Traveling Salesman Problem.||
 |10|[@TechnicalBro](https://github.com/TechnicalBro)/[**Commons**](https://github.com/TechnicalBro/Commons)|The definitive Minecraft server development framework!||
@@ -376,6 +377,7 @@ And various examples from different users and from different sources||
 |10|[@lurbas](https://github.com/lurbas)/[**Android-MVC**](https://github.com/lurbas/Android-MVC)|This repository holds my interpretation of MVC pattern on Android||
 |10|[@mohebifar](https://github.com/mohebifar)/[**Razi**](https://github.com/mohebifar/Razi)|A new scientific chemistry library for java.||
 |10|[@pbreault](https://github.com/pbreault)/[**rename_gradle_build_file_sample**](https://github.com/pbreault/rename_gradle_build_file_sample)|Sample code to show how to rename gradle build files http://www.developerphil.com/renaming-your-gradle-build-files/||
+|10|[@robevansuk](https://github.com/robevansuk)/[**poker_analyser**](https://github.com/robevansuk/poker_analyser)|a poker hand history data analyser||
 |10|[@shannah](https://github.com/shannah)/[**cn1-ikvm-uwp**](https://github.com/shannah/cn1-ikvm-uwp)|IKVM fork with UWP support for Codename One||
 |10|[@toxic-ig](https://github.com/toxic-ig)/[**Quack**](https://github.com/toxic-ig/Quack)|Automatic Ducky Payload Generator||
 |10|[@vsch](https://github.com/vsch)/[**Javafx-WebView-Debugger**](https://github.com/vsch/Javafx-WebView-Debugger)|Full Featured Google Chrome Dev Tools to JavaFX WebView browser debugging.||
@@ -403,7 +405,6 @@ And various examples from different users and from different sources||
 |9|[@onchain](https://github.com/onchain)/[**onchain-android**](https://github.com/onchain/onchain-android)|Android bitcoin wallet and transaction signer.||
 |9|[@peter-lawrey](https://github.com/peter-lawrey)/[**MineOffHeap**](https://github.com/peter-lawrey/MineOffHeap)|Off Heap storage for a Minecraft Server||
 |9|[@raydelto](https://github.com/raydelto)/[**srtsynch**](https://github.com/raydelto/srtsynch)|A simple tool for synchronizing SRT subtitles files.||
-|9|[@robevansuk](https://github.com/robevansuk)/[**poker_analyser**](https://github.com/robevansuk/poker_analyser)|a poker hand history data analyser||
 |9|[@shannah](https://github.com/shannah)/[**cn1-websockets**](https://github.com/shannah/cn1-websockets)|Websockets library for Codename One||
 |9|[@shopizer-ecommerce](https://github.com/shopizer-ecommerce)/[**shopizer-erp-angularjs**](https://github.com/shopizer-ecommerce/shopizer-erp-angularjs)|Exploration of shopizer + mongodb + angularjs||
 |9|[@spkdroid](https://github.com/spkdroid)/[**MediaCompressor**](https://github.com/spkdroid/MediaCompressor)|An android app for image and video compression/resizing ||
@@ -412,7 +413,6 @@ And various examples from different users and from different sources||
 |9|[@themaplelab](https://github.com/themaplelab)/[**boomerang**](https://github.com/themaplelab/boomerang)|Boomerang is a on-demand context and flow-sensitive pointer analysis for Java.||
 |9|[@yushulx](https://github.com/yushulx)/[**flutter-android-aar**](https://github.com/yushulx/flutter-android-aar)|||
 |8|[@DylanVann](https://github.com/DylanVann)/[**react-native-blur-image**](https://github.com/DylanVann/react-native-blur-image)|React Native Image with cross platform blurRadius property.||
-|8|[@ITHit](https://github.com/ITHit)/[**WebDAVServerSamplesJava**](https://github.com/ITHit/WebDAVServerSamplesJava)|WebDAV server examples in Java based on IT Hit WebDAV Server Library for Java|[:arrow_upper_right:](https://www.webdavsystem.com/javaserver/)|
 |8|[@Xyene](https://github.com/Xyene)/[**Nitrous-Emulator**](https://github.com/Xyene/Nitrous-Emulator)|🎮 High-performance Java emulator for Nintendo Gameboy and Gameboy Color hardware.||
 |8|[@alway5dotcom](https://github.com/alway5dotcom)/[**Dong-A-Bank-Exchange**](https://github.com/alway5dotcom/Dong-A-Bank-Exchange)|new for tutorials||
 |8|[@apetresc](https://github.com/apetresc)/[**JFreeChart**](https://github.com/apetresc/JFreeChart)|A Maven-enabled fork of JFreeChart|[:arrow_upper_right:](http://www.jfree.org/jfreechart/)|
@@ -518,6 +518,7 @@ And various examples from different users and from different sources||
 |5|[@Electroid](https://github.com/Electroid)/[**username-generator**](https://github.com/Electroid/username-generator)|Generate game pseudonyms using string manipulation||
 |5|[@Hesamedin](https://github.com/Hesamedin)/[**NTPClock**](https://github.com/Hesamedin/NTPClock)|||
 |5|[@IanDarwin](https://github.com/IanDarwin)/[**cjp-examples**](https://github.com/IanDarwin/cjp-examples)|Examples from the Checking Java Programs book and videos||
+|5|[@LazoCoder](https://github.com/LazoCoder)/[**N-Queens-Problem**](https://github.com/LazoCoder/N-Queens-Problem)|Placing N chess queens on an NxN chessboard so that no two queens threaten each other.||
 |5|[@Ratismal](https://github.com/Ratismal)/[**DriveBackup**](https://github.com/Ratismal/DriveBackup)|Backs up world backups to google drive or onedrive|[:arrow_upper_right:](http://dev.bukkit.org/bukkit-plugins/drivebackup/)|
 |5|[@Rise-Vision](https://github.com/Rise-Vision)/[**rise-player**](https://github.com/Rise-Vision/rise-player)|Java Player||
 |5|[@Sable](https://github.com/Sable)/[**matjuice**](https://github.com/Sable/matjuice)|JavaScript backend for McLab||
@@ -575,7 +576,6 @@ And various examples from different users and from different sources||
 |4|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**SimpleRestart**](https://github.com/FuzzyWuzzie/SimpleRestart)|A simple scheduled restart plugin for Bukkit.||
 |4|[@Hesamedin](https://github.com/Hesamedin)/[**ImageDownloader**](https://github.com/Hesamedin/ImageDownloader)|||
 |4|[@Joseph-Ryu](https://github.com/Joseph-Ryu)/[**Calculator**](https://github.com/Joseph-Ryu/Calculator)|Java GUI application that simulates a calculator||
-|4|[@LazoCoder](https://github.com/LazoCoder)/[**N-Queens-Problem**](https://github.com/LazoCoder/N-Queens-Problem)|Placing N chess queens on an NxN chessboard so that no two queens threaten each other.||
 |4|[@OniDaito](https://github.com/OniDaito)/[**EMFMedical_ePRF**](https://github.com/OniDaito/EMFMedical_ePRF)|Patient Report Forms on the Nook for EMFCamp||
 |4|[@OpenGamma](https://github.com/OpenGamma)/[**JavaSDK**](https://github.com/OpenGamma/JavaSDK)|Java SDK providing access to the OpenGamma API||
 |4|[@PhDP](https://github.com/PhDP)/[**spn**](https://github.com/PhDP/spn)|Hoifung Poon's code for sum-product networks||
@@ -632,6 +632,7 @@ And various examples from different users and from different sources||
 |4|[@shagunsodhani](https://github.com/shagunsodhani)/[**spatium-v1**](https://github.com/shagunsodhani/spatium-v1)| Spatial Co-location Pattern Mining using Graph Database||
 |4|[@shannah](https://github.com/shannah)/[**CN1JSON**](https://github.com/shannah/CN1JSON)|Library for reading and writing JSON in Codename One||
 |4|[@shannah](https://github.com/shannah)/[**mirah-nbm**](https://github.com/shannah/mirah-nbm)|Netbeans Module for Mirah||
+|4|[@spkdroid](https://github.com/spkdroid)/[**Mp3-Tag-Editor**](https://github.com/spkdroid/Mp3-Tag-Editor)|Mp3 Tag Editor is an ID3 editing tool using your android phone||
 |4|[@themaplelab](https://github.com/themaplelab)/[**ideal**](https://github.com/themaplelab/ideal)|IDE/AL - Alias-Aware Framework for Interprocedural Dataflow Analysis||
 |4|[@thoughtworks](https://github.com/thoughtworks)/[**healthgraph-explorer**](https://github.com/thoughtworks/healthgraph-explorer)|||
 |4|[@thoughtworks](https://github.com/thoughtworks)/[**krypton**](https://github.com/thoughtworks/krypton)|krypton|[:arrow_upper_right:](http://studios.thoughtworks.com)|
@@ -804,8 +805,8 @@ And various examples from different users and from different sources||
 |3|[@shannah](https://github.com/shannah)/[**CN1UWPPort**](https://github.com/shannah/CN1UWPPort)|UWP Port for CN1||
 |3|[@shannah](https://github.com/shannah)/[**social-network**](https://github.com/shannah/social-network)|Demo for webinar Aug 11, 2015||
 |3|[@simplepanda](https://github.com/simplepanda)/[**nio-http**](https://github.com/simplepanda/nio-http)|A non-blocking I/O HTTP server library||
-|3|[@spkdroid](https://github.com/spkdroid)/[**Mp3-Tag-Editor**](https://github.com/spkdroid/Mp3-Tag-Editor)|Mp3 Tag Editor is an ID3 editing tool using your android phone||
 |3|[@stephanos](https://github.com/stephanos)/[**codingkata-org**](https://github.com/stephanos/codingkata-org)|katas from codingkata.org||
+|3|[@takeitallsource](https://github.com/takeitallsource)/[**openal-android-sample**](https://github.com/takeitallsource/openal-android-sample)|A working sample of openal4android library.||
 |3|[@tehp](https://github.com/tehp)/[**poiuyt**](https://github.com/tehp/poiuyt)|:video_game: A game based on our lives.|[:arrow_upper_right:](http://maccraig.net)|
 |3|[@testinfected](https://github.com/testinfected)/[**cli**](https://github.com/testinfected/cli)|A lightweight Command Line Interface for Java|[:arrow_upper_right:](http://vtence.com/cli)|
 |3|[@themaplelab](https://github.com/themaplelab)/[**probe**](https://github.com/themaplelab/probe)|A tool for call graph comparisons||

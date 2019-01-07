@@ -1,17 +1,17 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|918|[@ferd](https://github.com/ferd)/[**recon**](https://github.com/ferd/recon)|Collection of functions and scripts to debug Erlang in production.|[:arrow_upper_right:](http://ferd.github.io/recon/)|
-|591|[@talentdeficit](https://github.com/talentdeficit)/[**jsx**](https://github.com/talentdeficit/jsx)|an erlang application for consuming, producing and manipulating json. inspired by yajl||
+|920|[@ferd](https://github.com/ferd)/[**recon**](https://github.com/ferd/recon)|Collection of functions and scripts to debug Erlang in production.|[:arrow_upper_right:](http://ferd.github.io/recon/)|
+|594|[@talentdeficit](https://github.com/talentdeficit)/[**jsx**](https://github.com/talentdeficit/jsx)|an erlang application for consuming, producing and manipulating json. inspired by yajl||
 |488|[@ferd](https://github.com/ferd)/[**erlang-history**](https://github.com/ferd/erlang-history)|Hacks to add shell history to Erlang's shell||
 |318|[@yrashk](https://github.com/yrashk)/[**socket.io-erlang**](https://github.com/yrashk/socket.io-erlang)|Socket.IO server for Erlang|[:arrow_upper_right:](http://socket.io/)|
-|265|[@ferd](https://github.com/ferd)/[**pobox**](https://github.com/ferd/pobox)|External buffer processes to protect against mailbox overflow in Erlang||
-|213|[@ferd](https://github.com/ferd)/[**vmstats**](https://github.com/ferd/vmstats)|tiny Erlang app to generate information on the Erlang VM||
+|267|[@ferd](https://github.com/ferd)/[**pobox**](https://github.com/ferd/pobox)|External buffer processes to protect against mailbox overflow in Erlang||
+|214|[@ferd](https://github.com/ferd)/[**vmstats**](https://github.com/ferd/vmstats)|tiny Erlang app to generate information on the Erlang VM||
 |190|[@ferd](https://github.com/ferd)/[**dispcount**](https://github.com/ferd/dispcount)|Erlang task dispatcher based on ETS counters.||
-|189|[@matehat](https://github.com/matehat)/[**cqerl**](https://github.com/matehat/cqerl)|Native Erlang CQL client for Cassandra|[:arrow_upper_right:](http://matehat.github.io/cqerl)|
+|190|[@matehat](https://github.com/matehat)/[**cqerl**](https://github.com/matehat/cqerl)|Native Erlang CQL client for Cassandra|[:arrow_upper_right:](http://matehat.github.io/cqerl)|
 |147|[@ferd](https://github.com/ferd)/[**erlpass**](https://github.com/ferd/erlpass)|A library to handle password hashing and changing in a safe manner, independent from any kind of storage whatsoever.||
 |123|[@lpgauth](https://github.com/lpgauth)/[**shackle**](https://github.com/lpgauth/shackle)|High-Performance Erlang Network Client Framework||
 |121|[@msantos](https://github.com/msantos)/[**pkt**](https://github.com/msantos/pkt)|Erlang network protocol library|[:arrow_upper_right:](http://blog.listincomprehension.com/search/label/epcap)|
-|98|[@ferd](https://github.com/ferd)/[**backoff**](https://github.com/ferd/backoff)|Simple exponential backoffs in Erlang||
+|101|[@ferd](https://github.com/ferd)/[**backoff**](https://github.com/ferd/backoff)|Simple exponential backoffs in Erlang||
 |90|[@lpgauth](https://github.com/lpgauth)/[**statsderl**](https://github.com/lpgauth/statsderl)|High-Performance Erlang StatsD Client||
 |81|[@ferd](https://github.com/ferd)/[**fancyflow**](https://github.com/ferd/fancyflow)|Experimental library to bring pipe and maybe operator equivalents in Erlang||
 |81|[@msantos](https://github.com/msantos)/[**gen_icmp**](https://github.com/msantos/gen_icmp)|Erlang interface to ICMP sockets|[:arrow_upper_right:](http://listincomprehension.com/2010/12/icmp-ping-in-erlang-part-2.html)|
@@ -87,8 +87,8 @@
 |8|[@msantos](https://github.com/msantos)/[**erpcgen**](https://github.com/msantos/erpcgen)|RPC/XDR protocol compiler (from jungerl)||
 |8|[@msantos](https://github.com/msantos)/[**sut**](https://github.com/msantos/sut)|Six (IPv6 in IPv4) Userlspace Tunnel||
 |8|[@yrashk](https://github.com/yrashk)/[**recmod**](https://github.com/yrashk/recmod)|Record Modules for Erlang|[:arrow_upper_right:](http://wiki.github.com/yrashk/recmod)|
-|7|[@ferd](https://github.com/ferd)/[**ReVault**](https://github.com/ferd/ReVault)|ReVault is a peer-to-peer self-hosted file synchronization project.||
 |7|[@yrashk](https://github.com/yrashk)/[**lagerex**](https://github.com/yrashk/lagerex)|Basho's Lager "binding" for Elixir||
+|6|[@ferd](https://github.com/ferd)/[**ReVault**](https://github.com/ferd/ReVault)|ReVault is a peer-to-peer self-hosted file synchronization project.||
 |6|[@ferd](https://github.com/ferd)/[**calcalc**](https://github.com/ferd/calcalc)|Calendrical Calculations; Erlang port of Dershowitz & Reingold's algorithms.||
 |6|[@inaimathi](https://github.com/inaimathi)/[**erl-ps-barcode**](https://github.com/inaimathi/erl-ps-barcode)|An Erlang system built to generate barcodes using the postscriptbarcode writer||
 |6|[@inaimathi](https://github.com/inaimathi)/[**nitrochan**](https://github.com/inaimathi/nitrochan)|A *aba-inspired real-time imageboard built with Erlang and Nitrogen||

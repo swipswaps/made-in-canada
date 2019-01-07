@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1981|[@Caiyeon](https://github.com/Caiyeon)/[**goldfish**](https://github.com/Caiyeon/goldfish)|A HashiCorp Vault UI written with VueJS and Vault native Go API|[:arrow_upper_right:](https://vault-ui.io)|
+|1983|[@Caiyeon](https://github.com/Caiyeon)/[**goldfish**](https://github.com/Caiyeon/goldfish)|A HashiCorp Vault UI written with VueJS and Vault native Go API|[:arrow_upper_right:](https://vault-ui.io)|
 |283|[@chmln](https://github.com/chmln)/[**vue-wysiwyg**](https://github.com/chmln/vue-wysiwyg)|A lightweight WYSIWYG HTML editor for Vue.js|[:arrow_upper_right:](https://chmln.github.io/vue-wysiwyg/)|
-|110|[@Braunson](https://github.com/Braunson)/[**laravel-coreui-vue**](https://github.com/Braunson/laravel-coreui-vue)|Laravel 5.6 with CoreUI (VueJS Full Starter Template)||
-|59|[@james2doyle](https://github.com/james2doyle)/[**nuxt-firebase-auth**](https://github.com/james2doyle/nuxt-firebase-auth)|An example of using Nuxt with Firebase to auth users without a server||
+|114|[@Braunson](https://github.com/Braunson)/[**laravel-coreui-vue**](https://github.com/Braunson/laravel-coreui-vue)|Laravel 5.6 with CoreUI (VueJS Full Starter Template)||
+|62|[@james2doyle](https://github.com/james2doyle)/[**nuxt-firebase-auth**](https://github.com/james2doyle/nuxt-firebase-auth)|An example of using Nuxt with Firebase to auth users without a server||
 |55|[@remixz](https://github.com/remixz)/[**umi**](https://github.com/remixz/umi)|📺 Watch Crunchyroll together, and more|[:arrow_upper_right:](https://umi.party)|
 |32|[@adamwathan](https://github.com/adamwathan)/[**vueconfto-demo**](https://github.com/adamwathan/vueconfto-demo)|||
 |11|[@Ratismal](https://github.com/Ratismal)/[**DiscordMungeon**](https://github.com/Ratismal/DiscordMungeon)|A panel for DiscordRPG||
@@ -12,8 +12,8 @@
 |10|[@yanick](https://github.com/yanick)/[**vue-svg-pan-zoom**](https://github.com/yanick/vue-svg-pan-zoom)|Vue component using SvgPanZoom||
 |8|[@allenhwkim](https://github.com/allenhwkim)/[**vue-nuxt-practice**](https://github.com/allenhwkim/vue-nuxt-practice)|Code Example Of VueJS/Nuxt Implementation||
 |8|[@ginpei](https://github.com/ginpei)/[**giclock**](https://github.com/ginpei/giclock)|An analog and digital clock with "pomodoro" timer.|[:arrow_upper_right:](https://clock.ginpei.info/)|
+|7|[@biojs](https://github.com/biojs)/[**biojs-frontend**](https://github.com/biojs/biojs-frontend)|Frontend repository for BioJS - GSoC 2018.||
 |7|[@davestewart](https://github.com/davestewart)/[**vuex-pathify-demos**](https://github.com/davestewart/vuex-pathify-demos)|A set of demos for the Vuex Pathify plugin||
-|6|[@biojs](https://github.com/biojs)/[**biojs-frontend**](https://github.com/biojs/biojs-frontend)|Frontend repository for BioJS - GSoC 2018.||
 |6|[@drehimself](https://github.com/drehimself)/[**element-vue-example**](https://github.com/drehimself/element-vue-example)|||
 |6|[@eddyerburgh](https://github.com/eddyerburgh)/[**vue-test-loader-example**](https://github.com/eddyerburgh/vue-test-loader-example)|An example project using vue-test-loader to extract tests||
 |6|[@ryanramage](https://github.com/ryanramage)/[**vue-joi**](https://github.com/ryanramage/vue-joi)|create forms with joi||
@@ -22,7 +22,7 @@
 |5|[@ammobinDOTca](https://github.com/ammobinDOTca)/[**ammobin-client**](https://github.com/ammobinDOTca/ammobin-client)|client for https://ammobin.ca|[:arrow_upper_right:](https://ammobin.ca)|
 |5|[@johnanvik](https://github.com/johnanvik)/[**program-wars**](https://github.com/johnanvik/program-wars)|A web-based educational card game for teaching fundamental concepts of programming||
 |5|[@regner](https://github.com/regner)/[**albionmarket-frontend**](https://github.com/regner/albionmarket-frontend)|Frontend for the Albion Market website.|[:arrow_upper_right:](https://albion-market.com/)|
-|3|[@Belphemur](https://github.com/Belphemur)/[**vue-json-csv**](https://github.com/Belphemur/vue-json-csv)|VueJS component to export Json Data into CSV file and download the resulting file.||
+|4|[@Belphemur](https://github.com/Belphemur)/[**vue-json-csv**](https://github.com/Belphemur/vue-json-csv)|VueJS component to export Json Data into CSV file and download the resulting file.||
+|4|[@stormwarning](https://github.com/stormwarning)/[**polychroma**](https://github.com/stormwarning/polychroma)|🌈 Generate better CSS gradients using alternative colour spaces & Bezier interpolation.|[:arrow_upper_right:](https://polychroma.now.sh/)|
 |3|[@drehimself](https://github.com/drehimself)/[**vuenative-example**](https://github.com/drehimself/vuenative-example)|||
-|3|[@stormwarning](https://github.com/stormwarning)/[**polychroma**](https://github.com/stormwarning/polychroma)|🌈 Generate better CSS gradients using alternative colour spaces & Bezier interpolation.|[:arrow_upper_right:](https://polychroma.now.sh/)|
 
