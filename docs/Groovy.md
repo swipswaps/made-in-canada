@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|126|[@yracine](https://github.com/yracine)/[**device-type.myecobee**](https://github.com/yracine/device-type.myecobee)|SmartThings-ecobee integration||
+|125|[@yracine](https://github.com/yracine)/[**device-type.myecobee**](https://github.com/yracine/device-type.myecobee)|SmartThings-ecobee integration||
 |60|[@f2prateek](https://github.com/f2prateek)/[**gradle-android-javafmt-plugin**](https://github.com/f2prateek/gradle-android-javafmt-plugin)|Augomagically format Java files (deprecated)||
 |40|[@f2prateek](https://github.com/f2prateek)/[**android-checkstyle-plugin**](https://github.com/f2prateek/android-checkstyle-plugin)|Configures the checkstyle plugin for Android projects||
 |26|[@kellyrob99](https://github.com/kellyrob99)/[**Jenkins-api-tour**](https://github.com/kellyrob99/Jenkins-api-tour)|Code demonstrating how to interact with the API layer of a Jenkins/Hudson build server.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2011/03/27/hooking-into-the-jenkinshudson-api/)|
@@ -8,8 +8,8 @@
 |16|[@yracine](https://github.com/yracine)/[**device-type.myneurio**](https://github.com/yracine/device-type.myneurio)|SmartThings-Neurio integration||
 |14|[@chaopeng](https://github.com/chaopeng)/[**grchaos**](https://github.com/chaopeng/grchaos)|application framework for hotswap||
 |14|[@kellyrob99](https://github.com/kellyrob99)/[**gradle-jslint-plugin**](https://github.com/kellyrob99/gradle-jslint-plugin)|A Gradle custom Plugin that allows running JSLint static analysis against JavaScipt code. A blog article accompanies this source code to explain its intent and implementation.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2011/04/03/a-groovygradle-jslint-plugin/)|
+|14|[@yracine](https://github.com/yracine)/[**keenhome.device-type**](https://github.com/yracine/keenhome.device-type)|Keen Home Smart Vents - device handler||
 |13|[@yracine](https://github.com/yracine)/[**DSC-Integration-with-Arduino-Mega-Shield-RS-232**](https://github.com/yracine/DSC-Integration-with-Arduino-Mega-Shield-RS-232)|DSC - Integration with SmartThings (RS232)||
-|13|[@yracine](https://github.com/yracine)/[**keenhome.device-type**](https://github.com/yracine/keenhome.device-type)|Keen Home Smart Vents - device handler||
 |11|[@kellyrob99](https://github.com/kellyrob99)/[**catcha-breaker**](https://github.com/kellyrob99/catcha-breaker)|Groovy port of a python example on how to break weak captcha using tesseract-ocr|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/03/14/breaking-weak-captcha-in-slightly-more-than-26-lines-of-groovy-code/)|
 |8|[@StephenOTT](https://github.com/StephenOTT)/[**camunda-prometheus-process-engine-plugin**](https://github.com/StephenOTT/camunda-prometheus-process-engine-plugin)|Monitor your KPIs!!!  Camunda BPM Process Engine Plugin providing Prometheus Monitoring, Metric classes for various BPMN use, Grafana Annotations, and HTTPServer data export: Used to generate Prometheus metrics anywhere in the Engine, including BPMN, CMN, and DMN engines and instances.||
 |8|[@yracine](https://github.com/yracine)/[**customYaleLockWithGoodTimeout**](https://github.com/yracine/customYaleLockWithGoodTimeout)|Custom Yale Lock With good timeout to avoid wrong status at Smartthings hub||

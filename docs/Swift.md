@@ -1,40 +1,40 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |14021|[@lkzhao](https://github.com/lkzhao)/[**Hero**](https://github.com/lkzhao/Hero)|Elegant transition library for iOS & tvOS||
-|13279|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect**](https://github.com/PerfectlySoft/Perfect)|Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)|[:arrow_upper_right:](https://www.perfect.org)|
-|7797|[@tristanhimmelman](https://github.com/tristanhimmelman)/[**ObjectMapper**](https://github.com/tristanhimmelman/ObjectMapper)|Simple JSON Object mapping written in Swift||
-|3929|[@ankurp](https://github.com/ankurp)/[**Dollar**](https://github.com/ankurp/Dollar)|A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript|[:arrow_upper_right:](https://www.dollarswift.org)|
-|3166|[@DaveWoodCom](https://github.com/DaveWoodCom)/[**XCGLogger**](https://github.com/DaveWoodCom/XCGLogger)|A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, such as the date, function name, filename and line number.||
-|2388|[@tristanhimmelman](https://github.com/tristanhimmelman)/[**AlamofireObjectMapper**](https://github.com/tristanhimmelman/AlamofireObjectMapper)|An Alamofire extension which converts JSON response data into swift objects using ObjectMapper||
-|2060|[@lkzhao](https://github.com/lkzhao)/[**ElasticTransition**](https://github.com/lkzhao/ElasticTransition)|A UIKit custom transition that simulates an elastic drag. Written in Swift.||
+|13273|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect**](https://github.com/PerfectlySoft/Perfect)|Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)|[:arrow_upper_right:](https://www.perfect.org)|
+|7809|[@tristanhimmelman](https://github.com/tristanhimmelman)/[**ObjectMapper**](https://github.com/tristanhimmelman/ObjectMapper)|Simple JSON Object mapping written in Swift||
+|3927|[@ankurp](https://github.com/ankurp)/[**Dollar**](https://github.com/ankurp/Dollar)|A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript|[:arrow_upper_right:](https://www.dollarswift.org)|
+|3170|[@DaveWoodCom](https://github.com/DaveWoodCom)/[**XCGLogger**](https://github.com/DaveWoodCom/XCGLogger)|A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog() or print(), but with additional information, such as the date, function name, filename and line number.||
+|2392|[@tristanhimmelman](https://github.com/tristanhimmelman)/[**AlamofireObjectMapper**](https://github.com/tristanhimmelman/AlamofireObjectMapper)|An Alamofire extension which converts JSON response data into swift objects using ObjectMapper||
+|2062|[@lkzhao](https://github.com/lkzhao)/[**ElasticTransition**](https://github.com/lkzhao/ElasticTransition)|A UIKit custom transition that simulates an elastic drag. Written in Swift.||
 |941|[@mirego](https://github.com/mirego)/[**PinLayout**](https://github.com/mirego/PinLayout)|Fast Swift Views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. [iOS/macOS/tvOS]||
-|821|[@tristanhimmelman](https://github.com/tristanhimmelman)/[**HidingNavigationBar**](https://github.com/tristanhimmelman/HidingNavigationBar)|Easily hide and show a view controller's navigation bar (and tab bar) as a user scrolls||
-|785|[@honghaoz](https://github.com/honghaoz)/[**Ji**](https://github.com/honghaoz/Ji)|Ji (戟) is an XML/HTML parser for Swift||
-|732|[@cesarferreira](https://github.com/cesarferreira)/[**SwiftEventBus**](https://github.com/cesarferreira/SwiftEventBus)|A publish/subscribe EventBus optimized for iOS||
+|826|[@tristanhimmelman](https://github.com/tristanhimmelman)/[**HidingNavigationBar**](https://github.com/tristanhimmelman/HidingNavigationBar)|Easily hide and show a view controller's navigation bar (and tab bar) as a user scrolls||
+|787|[@honghaoz](https://github.com/honghaoz)/[**Ji**](https://github.com/honghaoz/Ji)|Ji (戟) is an XML/HTML parser for Swift||
+|737|[@cesarferreira](https://github.com/cesarferreira)/[**SwiftEventBus**](https://github.com/cesarferreira/SwiftEventBus)|A publish/subscribe EventBus optimized for iOS||
 |661|[@jindulys](https://github.com/jindulys)/[**ChainPageCollectionView**](https://github.com/jindulys/ChainPageCollectionView)|A custom View with fancy collectionView animation||
-|583|[@BenEmdon](https://github.com/BenEmdon)/[**CenteredCollectionView**](https://github.com/BenEmdon/CenteredCollectionView)|A lightweight UICollectionViewLayout that 'pages' and centers its cells 🎡 written in Swift||
+|585|[@BenEmdon](https://github.com/BenEmdon)/[**CenteredCollectionView**](https://github.com/BenEmdon/CenteredCollectionView)|A lightweight UICollectionViewLayout that 'pages' and centers its cells 🎡 written in Swift||
 |582|[@Palleas](https://github.com/Palleas)/[**NaughtyKeyboard**](https://github.com/Palleas/NaughtyKeyboard)|The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device.||
 |482|[@ustwo](https://github.com/ustwo)/[**formvalidator-swift**](https://github.com/ustwo/formvalidator-swift)|A framework to validate inputs of text fields and text views in a convenient way.||
-|428|[@delannoyk](https://github.com/delannoyk)/[**AudioPlayer**](https://github.com/delannoyk/AudioPlayer)|AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).||
-|427|[@lkzhao](https://github.com/lkzhao)/[**YetAnotherAnimationLibrary**](https://github.com/lkzhao/YetAnotherAnimationLibrary)|Designed for gesture-driven animations. Fast, simple, & extensible!||
-|399|[@beltex](https://github.com/beltex)/[**dshb**](https://github.com/beltex/dshb)|macOS system monitor|[:arrow_upper_right:](https://beltex.github.io/dshb)|
+|429|[@delannoyk](https://github.com/delannoyk)/[**AudioPlayer**](https://github.com/delannoyk/AudioPlayer)|AudioPlayer is syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).||
+|429|[@lkzhao](https://github.com/lkzhao)/[**YetAnotherAnimationLibrary**](https://github.com/lkzhao/YetAnotherAnimationLibrary)|Designed for gesture-driven animations. Fast, simple, & extensible!||
+|398|[@beltex](https://github.com/beltex)/[**dshb**](https://github.com/beltex/dshb)|macOS system monitor|[:arrow_upper_right:](https://beltex.github.io/dshb)|
 |278|[@DylanVann](https://github.com/DylanVann)/[**DatePickerCell**](https://github.com/DylanVann/DatePickerCell)|📅 Inline/Expanding date picker for table views.||
+|269|[@tristanhimmelman](https://github.com/tristanhimmelman)/[**ZoomTransition**](https://github.com/tristanhimmelman/ZoomTransition)|Interactive zoom transition for presenting view controllers written in Swift||
 |268|[@honghaoz](https://github.com/honghaoz)/[**Loggerithm**](https://github.com/honghaoz/Loggerithm)|A lightweight Swift logger, uses `print` in development and `NSLog` in production. Support colourful and formatted output.||
-|267|[@tristanhimmelman](https://github.com/tristanhimmelman)/[**ZoomTransition**](https://github.com/tristanhimmelman/ZoomTransition)|Interactive zoom transition for presenting view controllers written in Swift||
-|226|[@kryptco](https://github.com/kryptco)/[**krypton-ios**](https://github.com/kryptco/krypton-ios)|Krypton turns your iOS device into a U2F Authenticator: strong, unphishable 2FA.|[:arrow_upper_right:](https://krypt.co)|
-|224|[@beltex](https://github.com/beltex)/[**SMCKit**](https://github.com/beltex/SMCKit)|Apple SMC library & tool|[:arrow_upper_right:](https://beltex.github.io/SMCKit)|
+|228|[@kryptco](https://github.com/kryptco)/[**krypton-ios**](https://github.com/kryptco/krypton-ios)|Krypton turns your iOS device into a U2F Authenticator: strong, unphishable 2FA.|[:arrow_upper_right:](https://krypt.co)|
+|225|[@beltex](https://github.com/beltex)/[**SMCKit**](https://github.com/beltex/SMCKit)|Apple SMC library & tool|[:arrow_upper_right:](https://beltex.github.io/SMCKit)|
 |216|[@ignacio-chiazzo](https://github.com/ignacio-chiazzo)/[**ARKit**](https://github.com/ignacio-chiazzo/ARKit)|ARKit Base Project. Place virtual objects based on WWDC example project|[:arrow_upper_right:](https://ignacio-chiazzo.github.io/ARKit/)|
+|197|[@ankurp](https://github.com/ankurp)/[**Cent**](https://github.com/ankurp/Cent)|Extensions for Swift Standard Types and Classes|[:arrow_upper_right:](https://www.dollarswift.org#cent-usage)|
+|197|[@honghaoz](https://github.com/honghaoz)/[**Dynamic-Collection-View-Cell-With-Auto-Layout-Demo**](https://github.com/honghaoz/Dynamic-Collection-View-Cell-With-Auto-Layout-Demo)|Collection View on iOS with auto layout in UICollectionViewCell to create cells with dynamic heights||
 |196|[@jindulys](https://github.com/jindulys)/[**HackerRankSolutions**](https://github.com/jindulys/HackerRankSolutions)|This is a repo for HackerRankSolutions with Swift||
-|195|[@ankurp](https://github.com/ankurp)/[**Cent**](https://github.com/ankurp/Cent)|Extensions for Swift Standard Types and Classes|[:arrow_upper_right:](https://www.dollarswift.org#cent-usage)|
-|195|[@honghaoz](https://github.com/honghaoz)/[**Dynamic-Collection-View-Cell-With-Auto-Layout-Demo**](https://github.com/honghaoz/Dynamic-Collection-View-Cell-With-Auto-Layout-Demo)|Collection View on iOS with auto layout in UICollectionViewCell to create cells with dynamic heights||
 |186|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**PerfectTemplate**](https://github.com/PerfectlySoft/PerfectTemplate)|Empty Perfect Starter Project.|[:arrow_upper_right:](https://www.perfect.org)|
 |179|[@beltex](https://github.com/beltex)/[**SystemKit**](https://github.com/beltex/SystemKit)|macOS system library in Swift||
-|172|[@ustwo](https://github.com/ustwo)/[**videoplayback-ios**](https://github.com/ustwo/videoplayback-ios)|Swift AVPlayer wrapper using the VIPER architecture. Currently a work in progress |[:arrow_upper_right:](https://ustwo.com/blog/ins-and-outs-of-viper)|
+|173|[@ustwo](https://github.com/ustwo)/[**videoplayback-ios**](https://github.com/ustwo/videoplayback-ios)|Swift AVPlayer wrapper using the VIPER architecture. Currently a work in progress |[:arrow_upper_right:](https://ustwo.com/blog/ins-and-outs-of-viper)|
 |163|[@kryptco](https://github.com/kryptco)/[**kryptonite-ios**](https://github.com/kryptco/kryptonite-ios)|Kryptonite \| Generate and store an SSH key on your phone.|[:arrow_upper_right:](https://krypt.co)|
 |150|[@b3ll](https://github.com/b3ll)/[**SwiftyGestureRecognition**](https://github.com/b3ll/SwiftyGestureRecognition)|Aids with prototyping UIGestureRecognizers in Xcode Playgrounds||
 |149|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-TensorFlow**](https://github.com/PerfectlySoft/Perfect-TensorFlow)|TensorFlow C API Class Wrapper in Server Side Swift.||
 |136|[@delannoyk](https://github.com/delannoyk)/[**GIFRefreshControl**](https://github.com/delannoyk/GIFRefreshControl)|GIFRefreshControl is a pull to refresh that supports GIF images as track animations.||
-|128|[@lkzhao](https://github.com/lkzhao)/[**MotionAnimation**](https://github.com/lkzhao/MotionAnimation)|Lightweight animation library for UIKit||
+|129|[@lkzhao](https://github.com/lkzhao)/[**MotionAnimation**](https://github.com/lkzhao/MotionAnimation)|Lightweight animation library for UIKit||
 |117|[@jindulys](https://github.com/jindulys)/[**Leetcode_Solutions_Swift**](https://github.com/jindulys/Leetcode_Solutions_Swift)|Leetcode solutions with Swift||
 |110|[@honghaoz](https://github.com/honghaoz)/[**Swift-CAAnimation-Closure**](https://github.com/honghaoz/Swift-CAAnimation-Closure)|Swift extension which adds start, animating and completion closures for CAAnimation objects. Aka, CAAnimation + Closure / Block||
 |106|[@delannoyk](https://github.com/delannoyk)/[**KDEDateLabel**](https://github.com/delannoyk/KDEDateLabel)|KDEDateLabel is an UILabel subclass that updates itself to make time ago's format easier.||
@@ -52,13 +52,13 @@
 |62|[@fethica](https://github.com/fethica)/[**FRadioPlayer**](https://github.com/fethica/FRadioPlayer)|A simple radio player framework for iOS, macOS, tvOS.|[:arrow_upper_right:](https://fethica.github.io/FRadioPlayer/)|
 |56|[@cmoulton](https://github.com/cmoulton)/[**grokSwiftREST_v1.1**](https://github.com/cmoulton/grokSwiftREST_v1.1)|Demo code for iOS Apps with REST APIs book v1.1. Updated code using Alamofire 4 & Swift 3 is available at https://github.com/cmoulton/grokSwiftREST_v1.3|[:arrow_upper_right:](https://leanpub.com/iosappswithrest)|
 |54|[@jindulys](https://github.com/jindulys)/[**Eblo**](https://github.com/jindulys/Eblo)|A Fancy Engineering Blogs Reader||
-|53|[@BenEmdon](https://github.com/BenEmdon)/[**PixelArtMaker**](https://github.com/BenEmdon/PixelArtMaker)|A pixel art editor in a Swift Playground  👾 WWDC Scholarship Winner 🏅||
+|52|[@BenEmdon](https://github.com/BenEmdon)/[**PixelArtMaker**](https://github.com/BenEmdon/PixelArtMaker)|A pixel art editor in a Swift Playground  👾 WWDC Scholarship Winner 🏅||
+|52|[@jindulys](https://github.com/jindulys)/[**GithubPilot**](https://github.com/jindulys/GithubPilot)|Github API V3 Swifty Wrapper||
 |51|[@b3ll](https://github.com/b3ll)/[**tryswift2016**](https://github.com/b3ll/tryswift2016)|All the material from my talk at try! Swift 2016 in Tokyo Japan.||
-|51|[@jindulys](https://github.com/jindulys)/[**GithubPilot**](https://github.com/jindulys/GithubPilot)|Github API V3 Swifty Wrapper||
 |49|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-MongoDB**](https://github.com/PerfectlySoft/Perfect-MongoDB)|A stand-alone Swift wrapper around the mongo-c client library, enabling access to MongoDB servers.|[:arrow_upper_right:](https://www.perfect.org)|
 |46|[@cmoulton](https://github.com/cmoulton)/[**grokSwiftREST_v1.3**](https://github.com/cmoulton/grokSwiftREST_v1.3)|Demo code for iOS Apps with REST APIs book v1.3 https://leanpub.com/iosappswithrest||
 |46|[@mohamede1945](https://github.com/mohamede1945)/[**NextResponderTextField**](https://github.com/mohamede1945/NextResponderTextField)|Automatically moves to the next UITextField when tapping the keyboard action button||
-|44|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-Python**](https://github.com/PerfectlySoft/Perfect-Python)|An expressway to import Python 2.7 modules into Server Side Swift||
+|45|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-Python**](https://github.com/PerfectlySoft/Perfect-Python)|An expressway to import Python 2.7 modules into Server Side Swift||
 |43|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-PostgreSQL**](https://github.com/PerfectlySoft/Perfect-PostgreSQL)|A stand-alone Swift wrapper around the libpq client library, enabling access to PostgreSQL servers.|[:arrow_upper_right:](https://www.perfect.org)|
 |42|[@Kinglilrowrow](https://github.com/Kinglilrowrow)/[**PopcornTimeTV**](https://github.com/Kinglilrowrow/PopcornTimeTV)|PopcornTimeTV for tvOS and iOS (11.0-12.0+)||
 |41|[@cmoulton](https://github.com/cmoulton)/[**SwiftREST**](https://github.com/cmoulton/SwiftREST)|Demo Code for REST API backed tableview: http://grokswift.com/rest-tableview-in-swift/||
@@ -76,11 +76,11 @@
 |27|[@onfido](https://github.com/onfido)/[**onfido-ios-sdk**](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.||
 |26|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-FileMaker**](https://github.com/PerfectlySoft/Perfect-FileMaker)|A stand-alone Swift wrapper around the FileMaker XML Web publishing interface, enabling access to FileMaker servers.|[:arrow_upper_right:](https://www.perfect.org)|
 |26|[@kryptco](https://github.com/kryptco)/[**swift-pgp**](https://github.com/kryptco/swift-pgp)|A pure Swift library for parsing and creating PGP RFC 4880 public keys, user ids, and signatures.|[:arrow_upper_right:](https://krypt.co)|
-|24|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-Redis**](https://github.com/PerfectlySoft/Perfect-Redis)|A Swift client for Redis.|[:arrow_upper_right:](https://www.perfect.org)|
 |23|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-CURL**](https://github.com/PerfectlySoft/Perfect-CURL)|cURL support for Perfect.|[:arrow_upper_right:](https://www.perfect.org)|
 |23|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-HTTP**](https://github.com/PerfectlySoft/Perfect-HTTP)|Base HTTP Support for Perfect.|[:arrow_upper_right:](https://www.perfect.org)|
 |23|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-Mustache**](https://github.com/PerfectlySoft/Perfect-Mustache)|Mustache template support for Perfect.|[:arrow_upper_right:](https://www.perfect.org)|
 |23|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-Net**](https://github.com/PerfectlySoft/Perfect-Net)|Core asynchronous networking package used in Perfect. Includes support for TCP, SSL, UNIX socket files and IO event handling.||
+|23|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-Redis**](https://github.com/PerfectlySoft/Perfect-Redis)|A Swift client for Redis.|[:arrow_upper_right:](https://www.perfect.org)|
 |23|[@jimrutherford](https://github.com/jimrutherford)/[**TVSafeArea**](https://github.com/jimrutherford/TVSafeArea)|Using AutoLayout to Constrain AppleTV Layouts within the TV Safe Area||
 |21|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-WebSockets**](https://github.com/PerfectlySoft/Perfect-WebSockets)|WebSockets support for Perfect.|[:arrow_upper_right:](https://www.perfect.org)|
 |21|[@cmoulton](https://github.com/cmoulton)/[**grokSwiftREST_v1.2**](https://github.com/cmoulton/grokSwiftREST_v1.2)|Demo code for iOS Apps with REST APIs book v1.2 - For Swift 3 version go to https://github.com/cmoulton/grokSwiftREST_v1.3|[:arrow_upper_right:](https://leanpub.com/iosappswithrest)|
@@ -92,10 +92,10 @@
 |18|[@ustwo](https://github.com/ustwo)/[**US2MapperKit**](https://github.com/ustwo/US2MapperKit)|JSON driven object mapper developed by ustwo|[:arrow_upper_right:](http://ustwo.github.io)|
 |17|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-Crypto**](https://github.com/PerfectlySoft/Perfect-Crypto)|Cryptographic Operations||
 |17|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-Zip**](https://github.com/PerfectlySoft/Perfect-Zip)|Perfect Zip compression utility.|[:arrow_upper_right:](https://www.perfect.org)|
+|17|[@geoo993](https://github.com/geoo993)/[**ARKitExamples**](https://github.com/geoo993/ARKitExamples)|ARKit demos using Using ARKit, Core Location, MapKit, SceneKit, Unity, models, Adobe mixamo and soon shading (using post processing effects).||
 |16|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-Kafka**](https://github.com/PerfectlySoft/Perfect-Kafka)|An Express Swift Client of Apache Kafka 0.8, the Stream Processing Platform||
 |16|[@cmoulton](https://github.com/cmoulton)/[**grokAlamofireRouter**](https://github.com/cmoulton/grokAlamofireRouter)|Demo code for a simple Alamofire Router in Swift 3.0||
 |16|[@cmoulton](https://github.com/cmoulton)/[**grokRouter**](https://github.com/cmoulton/grokRouter)|Demo code for a simple Alamofire Router in Swift 2.2 - See https://github.com/cmoulton/grokAlamofireRouter for Swift 3.0 version||
-|16|[@geoo993](https://github.com/geoo993)/[**ARKitExamples**](https://github.com/geoo993/ARKitExamples)|ARKit demos using Using ARKit, Core Location, MapKit, SceneKit, Unity, models, Adobe mixamo and soon shading (using post processing effects).||
 |15|[@BenEmdon](https://github.com/BenEmdon)/[**PocketMoney**](https://github.com/BenEmdon/PocketMoney)|An iOS money management app for people who deal mostly in cash and change. (Second App)||
 |15|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-XML**](https://github.com/PerfectlySoft/Perfect-XML)|XML support for Perfect.|[:arrow_upper_right:](https://www.perfect.org)|
 |15|[@cmoulton](https://github.com/cmoulton)/[**GrokGitHubRepos**](https://github.com/cmoulton/GrokGitHubRepos)|Demo code for getting an oauth 2.0 token in Swift||
@@ -111,12 +111,12 @@
 |12|[@adityachugh](https://github.com/adityachugh)/[**WWDC-2015**](https://github.com/adityachugh/WWDC-2015)|Aditya Chugh's WWDC 2015 Scholarship Winning App|[:arrow_upper_right:](https://developer.apple.com/wwdc/scholarships/)|
 |12|[@honghaoz](https://github.com/honghaoz)/[**ZHAutoLinesLabel**](https://github.com/honghaoz/ZHAutoLinesLabel)|ZHAutoLinesLabel is a subclass of UILabel, support contentInset and automatic multiple lines||
 |11|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-Logger**](https://github.com/PerfectlySoft/Perfect-Logger)|File-Based Logging.|[:arrow_upper_right:](https://www.perfect.org)|
+|11|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-NIO**](https://github.com/PerfectlySoft/Perfect-NIO)|Perfect 4 NIO||
 |11|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-SysInfo**](https://github.com/PerfectlySoft/Perfect-SysInfo)|This project provides a Swift library to monitor system performance in essential metrics.||
 |11|[@cmoulton](https://github.com/cmoulton)/[**grokHTMLAndDownloads**](https://github.com/cmoulton/grokHTMLAndDownloads)|Demo code for HTML parsing and download PDF files. See https://grokswift.com/htmlanddownloads/||
 |11|[@honghaoz](https://github.com/honghaoz)/[**RRNCollapsableSectionTableViewSwift**](https://github.com/honghaoz/RRNCollapsableSectionTableViewSwift)|Collapsable table view sections with custom section header views.||
 |11|[@jimrutherford](https://github.com/jimrutherford)/[**Swift-Playground-Alfred-Workflow**](https://github.com/jimrutherford/Swift-Playground-Alfred-Workflow)|||
 |11|[@renatomcamilio](https://github.com/renatomcamilio)/[**CookieCrunch**](https://github.com/renatomcamilio/CookieCrunch)|CookieCrunch game (a Candy Crush-like remake)||
-|10|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-NIO**](https://github.com/PerfectlySoft/Perfect-NIO)|Perfect 4 NIO||
 |10|[@iamjono](https://github.com/iamjono)/[**perfect-file-uploads**](https://github.com/iamjono/perfect-file-uploads)|Perfect Server Side Swift File Uploads example||
 |10|[@jindulys](https://github.com/jindulys)/[**GitPocket**](https://github.com/jindulys/GitPocket)|personal github client||
 |10|[@mohamede1945](https://github.com/mohamede1945)/[**AssertionsTestingExample**](https://github.com/mohamede1945/AssertionsTestingExample)|This library is deprecated. You can use https://github.com/mattgallagher/CwlPreconditionTesting instead.||
@@ -134,6 +134,7 @@
 |9|[@ustwo](https://github.com/ustwo)/[**brunel**](https://github.com/ustwo/brunel)|A demonstration of organisation for an app that runs on both iOS and tvOS platforms using a unified code base.||
 |8|[@Melinysh](https://github.com/Melinysh)/[**NearbEYE**](https://github.com/Melinysh/NearbEYE)|Winning augmented reality iOS app for the City of Waterloo's open data hackathon ||
 |8|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-FastCGI**](https://github.com/PerfectlySoft/Perfect-FastCGI)|FastCGI server for Perfect.|[:arrow_upper_right:](https://www.perfect.org)|
+|8|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-OAuth2**](https://github.com/PerfectlySoft/Perfect-OAuth2)|OAuth2 Implementations with Facebook, Google, LinkedIn, Slack, SalesForce and GitHub providers.||
 |8|[@cmoulton](https://github.com/cmoulton)/[**UITextFieldPlaceholderDemo**](https://github.com/cmoulton/UITextFieldPlaceholderDemo)|Demo code for UITextField with placeholder text: http://grokswift.com/uitextview-placeholder||
 |8|[@delannoyk](https://github.com/delannoyk)/[**ConfigurationKit**](https://github.com/delannoyk/ConfigurationKit)|||
 |7|[@BenEmdon](https://github.com/BenEmdon)/[**RxMoya-Example**](https://github.com/BenEmdon/RxMoya-Example)|A Rx-Moya-Argo MVVM GitHub example app||
@@ -143,7 +144,6 @@
 |7|[@JALsnipe](https://github.com/JALsnipe)/[**google-news-reader**](https://github.com/JALsnipe/google-news-reader)|Google News RSS Reader in Swift 2.0||
 |7|[@JoshuaKaden](https://github.com/JoshuaKaden)/[**NavigationControllerAnimations**](https://github.com/JoshuaKaden/NavigationControllerAnimations)|An example of how to use custom transition animations with UINavigationController.||
 |7|[@Palleas](https://github.com/Palleas)/[**Rewatch**](https://github.com/Palleas/Rewatch)|Rewatch your favorite (or not) TV shows episodes.||
-|7|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-OAuth2**](https://github.com/PerfectlySoft/Perfect-OAuth2)|OAuth2 Implementations with Facebook, Google, LinkedIn, Slack, SalesForce and GitHub providers.||
 |7|[@WillsonSmith](https://github.com/WillsonSmith)/[**Swift-web-hybrid-template**](https://github.com/WillsonSmith/Swift-web-hybrid-template)|A skeleton of a hybrid web app using the Swift programming language.||
 |7|[@cmoulton](https://github.com/cmoulton)/[**PullToUpdateDemo**](https://github.com/cmoulton/PullToUpdateDemo)|Demo code for adding pull to refresh to a Swift table view||
 |7|[@honghaoz](https://github.com/honghaoz)/[**ChouTi**](https://github.com/honghaoz/ChouTi)|Chou Ti (抽屉) -  a Framework for iOS development.||
@@ -153,7 +153,6 @@
 |6|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**PerfectDocGenerator**](https://github.com/PerfectlySoft/PerfectDocGenerator)|The Perfect Documentation build process.|[:arrow_upper_right:](https://www.perfect.org)|
 |6|[@SandcastleApps](https://github.com/SandcastleApps)/[**partyup**](https://github.com/SandcastleApps/partyup)|The repository of party programmers everywhere.||
 |6|[@ankurp](https://github.com/ankurp)/[**DollarSubmoduleApp**](https://github.com/ankurp/DollarSubmoduleApp)|Demo App showing how to integrate the functional library Dollar into your Swift App||
-|6|[@backmeupplz](https://github.com/backmeupplz)/[**controlio-ios**](https://github.com/backmeupplz/controlio-ios)|Controlio iOS client|[:arrow_upper_right:](https://controlio.co)|
 |6|[@cmoulton](https://github.com/cmoulton)/[**grokRESTPageViewController**](https://github.com/cmoulton/grokRESTPageViewController)|||
 |6|[@cmoulton](https://github.com/cmoulton)/[**grokTableViewBackground**](https://github.com/cmoulton/grokTableViewBackground)|Demo code for Transparent Table View With a Background Image in Swift https://grokswift.com/transparent-table-view/||
 |6|[@george-lim](https://github.com/george-lim)/[**smooth-sketch**](https://github.com/george-lim/smooth-sketch)|An open-source Swift framework for realistic freehand drawing on SpriteKit Games.||
@@ -166,6 +165,7 @@
 |5|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-WebRedirects**](https://github.com/PerfectlySoft/Perfect-WebRedirects)|Filter for specified routes (including trailing wildcard routes) and perform redirects as instructed if a match is found.|[:arrow_upper_right:](https://github.com/PerfectExamples/Perfect-WebRedirects-Demo)|
 |5|[@PerfectlySoft](https://github.com/PerfectlySoft)/[**Perfect-ZooKeeper**](https://github.com/PerfectlySoft/Perfect-ZooKeeper)|A ZooKeeper Client in Swift (LINUX ONLY)||
 |5|[@backmeupplz](https://github.com/backmeupplz)/[**Timooo**](https://github.com/backmeupplz/Timooo)|||
+|5|[@backmeupplz](https://github.com/backmeupplz)/[**controlio-ios**](https://github.com/backmeupplz/controlio-ios)|Controlio iOS client|[:arrow_upper_right:](https://controlio.co)|
 |5|[@honghaoz](https://github.com/honghaoz)/[**2048-Solver-AI**](https://github.com/honghaoz/2048-Solver-AI)|2048 Game Solver in iOS||
 |5|[@honghaoz](https://github.com/honghaoz)/[**ZHStackView**](https://github.com/honghaoz/ZHStackView)|A simple container view that can hold any UIViews and stack them vertically, you can append, insert and remove a view at any index.It's a kind of simplified UITableView||
 |5|[@lemire](https://github.com/lemire)/[**SwiftCallingCHeader**](https://github.com/lemire/SwiftCallingCHeader)|Calling a C header from Swift (example)||

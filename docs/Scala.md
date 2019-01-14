@@ -2,14 +2,14 @@
 |---|---|---|---|
 |478|[@cvogt](https://github.com/cvogt)/[**cbt**](https://github.com/cvogt/cbt)|CBT - fun, fast, intuitive, compositional, statically checked builds written in Scala||
 |369|[@marconilanna](https://github.com/marconilanna)/[**REPLesent**](https://github.com/marconilanna/REPLesent)|A neat little tool to build presentations using the Scala REPL||
-|362|[@fosskers](https://github.com/fosskers)/[**scalaz-and-cats**](https://github.com/fosskers/scalaz-and-cats)|Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).||
+|363|[@fosskers](https://github.com/fosskers)/[**scalaz-and-cats**](https://github.com/fosskers/scalaz-and-cats)|Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).||
 |345|[@mardambey](https://github.com/mardambey)/[**mypipe**](https://github.com/mardambey/mypipe)|MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka.||
 |324|[@dcaoyuan](https://github.com/dcaoyuan)/[**chana**](https://github.com/dcaoyuan/chana)|Avro Data Store based on Akka||
 |256|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-socketio**](https://github.com/dcaoyuan/spray-socketio)|socket.io for spray||
 |224|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-websocket**](https://github.com/dcaoyuan/spray-websocket)|WebSocket for spray-can||
-|214|[@jmcardon](https://github.com/jmcardon)/[**tsec**](https://github.com/jmcardon/tsec)|Type-safe general-cryptography library - https://jmcardon.github.io/tsec/||
-|122|[@dcaoyuan](https://github.com/dcaoyuan)/[**aiotrade**](https://github.com/dcaoyuan/aiotrade)|A Trading Platform|[:arrow_upper_right:](http://blogtrader.net)|
+|217|[@jmcardon](https://github.com/jmcardon)/[**tsec**](https://github.com/jmcardon/tsec)|Type-safe general-cryptography library - https://jmcardon.github.io/tsec/||
 |121|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**ScalaKata**](https://github.com/MasseGuillaume/ScalaKata)|Moved|[:arrow_upper_right:](https://github.com/MasseGuillaume/ScalaKata2)|
+|121|[@dcaoyuan](https://github.com/dcaoyuan)/[**aiotrade**](https://github.com/dcaoyuan/aiotrade)|A Trading Platform|[:arrow_upper_right:](http://blogtrader.net)|
 |108|[@yawaramin](https://github.com/yawaramin)/[**scala-modules**](https://github.com/yawaramin/scala-modules)|Experimental implementations of ML-style modules in Scala||
 |100|[@PaytmLabs](https://github.com/PaytmLabs)/[**akka-batteries**](https://github.com/PaytmLabs/akka-batteries)|Utilities for Akka cluster in production||
 |93|[@denisrosset](https://github.com/denisrosset)/[**metal**](https://github.com/denisrosset/metal)|Metal - fast unboxed data structures for Scala||
@@ -24,7 +24,7 @@
 |41|[@shagunsodhani](https://github.com/shagunsodhani)/[**locis**](https://github.com/shagunsodhani/locis)|Implementation of  "A Parallel Spatial Co-location Mining Algorithm Based on MapReduce" paper|[:arrow_upper_right:](https://shagunsodhani.in/locis)|
 |40|[@cvogt](https://github.com/cvogt)/[**scala-extensions**](https://github.com/cvogt/scala-extensions)|Useful extensions for the Scala standard library|[:arrow_upper_right:](http://cvogt.org/scala-extensions/api/)|
 |40|[@knoldus](https://github.com/knoldus)/[**ScalaJs_Weather_Report**](https://github.com/knoldus/ScalaJs_Weather_Report)|Weather Information System- Get the mood of your city on one click using Scala.js.||
-|36|[@fosskers](https://github.com/fosskers)/[**scala-benchmarks**](https://github.com/fosskers/scala-benchmarks)|An independent set of benchmarks for testing common Scala idioms.||
+|37|[@fosskers](https://github.com/fosskers)/[**scala-benchmarks**](https://github.com/fosskers/scala-benchmarks)|An independent set of benchmarks for testing common Scala idioms.||
 |36|[@rocketraman](https://github.com/rocketraman)/[**activator-akka-scala-guice**](https://github.com/rocketraman/activator-akka-scala-guice)|Typesafe Activator demo for Akka, Scala, Guice||
 |33|[@tobyjsullivan](https://github.com/tobyjsullivan)/[**applicative-demo**](https://github.com/tobyjsullivan/applicative-demo)|Demo code for my talk at applicative conf. http://applicative.acm.org/speaker-TobySullivan.html||
 |32|[@knoldus](https://github.com/knoldus)/[**real-time-stream-processing-engine**](https://github.com/knoldus/real-time-stream-processing-engine)|This is an example of real time stream processing using Spark Streaming, Kafka & Elasticsearch.||

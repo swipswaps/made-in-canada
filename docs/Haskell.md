@@ -7,7 +7,7 @@
 |105|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
 |92|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
 |58|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
-|48|[@thephoeron](https://github.com/thephoeron)/[**quipper-language**](https://github.com/thephoeron/quipper-language)|Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)||
+|50|[@thephoeron](https://github.com/thephoeron)/[**quipper-language**](https://github.com/thephoeron/quipper-language)|Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)||
 |41|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm**](https://github.com/JoeyEremondi/haskelm)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
 |41|[@csabahruska](https://github.com/csabahruska)/[**jhc-components**](https://github.com/csabahruska/jhc-components)|JHC Haskell compiler split into reusable components||
 |28|[@avieth](https://github.com/avieth)/[**Algebraic**](https://github.com/avieth/Algebraic)|Experiments on the construction of functions||
@@ -18,7 +18,7 @@
 |18|[@PhDP](https://github.com/PhDP)/[**Faun**](https://github.com/PhDP/Faun)|Experimental ML/AI code||
 |16|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm-old**](https://github.com/JoeyEremondi/haskelm-old)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
 |16|[@WillSewell](https://github.com/WillSewell)/[**benchpress**](https://github.com/WillSewell/benchpress)|Micro-benchmarking of Haskell code with detailed execution time statistics.||
-|16|[@fosskers](https://github.com/fosskers)/[**vectortiles**](https://github.com/fosskers/vectortiles)|A native Haskell codec for Mapbox Vector Tiles.||
+|15|[@fosskers](https://github.com/fosskers)/[**vectortiles**](https://github.com/fosskers/vectortiles)|A native Haskell codec for Mapbox Vector Tiles.||
 |15|[@gregorycollins](https://github.com/gregorycollins)/[**homepage**](https://github.com/gregorycollins/homepage)|Source code for http://gregorycollins.net/ --- built on the Haskell "happstack" framework|[:arrow_upper_right:](http://gregorycollins.net/)|
 |14|[@csabahruska](https://github.com/csabahruska)/[**jhc-grin**](https://github.com/csabahruska/jhc-grin)|GRIN Haskell backend stripped out from JHC. (GRIN from scratch: https://github.com/grin-tech/grin)||
 |14|[@fosskers](https://github.com/fosskers)/[**versions**](https://github.com/fosskers/versions)|Haskell types and parsers for software version numbers.||

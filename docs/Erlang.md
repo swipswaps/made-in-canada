@@ -1,17 +1,17 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|920|[@ferd](https://github.com/ferd)/[**recon**](https://github.com/ferd/recon)|Collection of functions and scripts to debug Erlang in production.|[:arrow_upper_right:](http://ferd.github.io/recon/)|
+|923|[@ferd](https://github.com/ferd)/[**recon**](https://github.com/ferd/recon)|Collection of functions and scripts to debug Erlang in production.|[:arrow_upper_right:](http://ferd.github.io/recon/)|
 |594|[@talentdeficit](https://github.com/talentdeficit)/[**jsx**](https://github.com/talentdeficit/jsx)|an erlang application for consuming, producing and manipulating json. inspired by yajl||
-|488|[@ferd](https://github.com/ferd)/[**erlang-history**](https://github.com/ferd/erlang-history)|Hacks to add shell history to Erlang's shell||
+|487|[@ferd](https://github.com/ferd)/[**erlang-history**](https://github.com/ferd/erlang-history)|Hacks to add shell history to Erlang's shell||
 |318|[@yrashk](https://github.com/yrashk)/[**socket.io-erlang**](https://github.com/yrashk/socket.io-erlang)|Socket.IO server for Erlang|[:arrow_upper_right:](http://socket.io/)|
 |267|[@ferd](https://github.com/ferd)/[**pobox**](https://github.com/ferd/pobox)|External buffer processes to protect against mailbox overflow in Erlang||
-|214|[@ferd](https://github.com/ferd)/[**vmstats**](https://github.com/ferd/vmstats)|tiny Erlang app to generate information on the Erlang VM||
+|215|[@ferd](https://github.com/ferd)/[**vmstats**](https://github.com/ferd/vmstats)|tiny Erlang app to generate information on the Erlang VM||
 |190|[@ferd](https://github.com/ferd)/[**dispcount**](https://github.com/ferd/dispcount)|Erlang task dispatcher based on ETS counters.||
 |190|[@matehat](https://github.com/matehat)/[**cqerl**](https://github.com/matehat/cqerl)|Native Erlang CQL client for Cassandra|[:arrow_upper_right:](http://matehat.github.io/cqerl)|
 |147|[@ferd](https://github.com/ferd)/[**erlpass**](https://github.com/ferd/erlpass)|A library to handle password hashing and changing in a safe manner, independent from any kind of storage whatsoever.||
 |123|[@lpgauth](https://github.com/lpgauth)/[**shackle**](https://github.com/lpgauth/shackle)|High-Performance Erlang Network Client Framework||
 |121|[@msantos](https://github.com/msantos)/[**pkt**](https://github.com/msantos/pkt)|Erlang network protocol library|[:arrow_upper_right:](http://blog.listincomprehension.com/search/label/epcap)|
-|101|[@ferd](https://github.com/ferd)/[**backoff**](https://github.com/ferd/backoff)|Simple exponential backoffs in Erlang||
+|102|[@ferd](https://github.com/ferd)/[**backoff**](https://github.com/ferd/backoff)|Simple exponential backoffs in Erlang||
 |90|[@lpgauth](https://github.com/lpgauth)/[**statsderl**](https://github.com/lpgauth/statsderl)|High-Performance Erlang StatsD Client||
 |81|[@ferd](https://github.com/ferd)/[**fancyflow**](https://github.com/ferd/fancyflow)|Experimental library to bring pipe and maybe operator equivalents in Erlang||
 |81|[@msantos](https://github.com/msantos)/[**gen_icmp**](https://github.com/msantos/gen_icmp)|Erlang interface to ICMP sockets|[:arrow_upper_right:](http://listincomprehension.com/2010/12/icmp-ping-in-erlang-part-2.html)|
@@ -23,8 +23,8 @@
 |49|[@msantos](https://github.com/msantos)/[**verx**](https://github.com/msantos/verx)|Erlang implementation of the libvirtd remote protocol||
 |47|[@ferd](https://github.com/ferd)/[**recon_demo**](https://github.com/ferd/recon_demo)|Playground for recon, for practice and demos.||
 |47|[@jkingsbery](https://github.com/jkingsbery)/[**sighandler**](https://github.com/jkingsbery/sighandler)|Handle UNIX signals in Erlang||
+|45|[@msantos](https://github.com/msantos)/[**srly**](https://github.com/msantos/srly)|Native Erlang Unix serial interface||
 |44|[@lpgauth](https://github.com/lpgauth)/[**marina**](https://github.com/lpgauth/marina)|High-Performance Erlang Cassandra CQL Client||
-|44|[@msantos](https://github.com/msantos)/[**srly**](https://github.com/msantos/srly)|Native Erlang Unix serial interface||
 |43|[@ferd](https://github.com/ferd)/[**sups**](https://github.com/ferd/sups)|PropEr model helper library to validate implementations of supervisor trees||
 |40|[@ferd](https://github.com/ferd)/[**bertconf**](https://github.com/ferd/bertconf)|Make ETS tables out of statc BERT files that are auto-reloaded||
 |39|[@ferd](https://github.com/ferd)/[**zippers**](https://github.com/ferd/zippers)|A library for functional zipper data structures in Erlang. Read more on zippers @ http://ferd.ca/yet-another-article-on-zippers.html||
@@ -47,8 +47,8 @@
 |23|[@msantos](https://github.com/msantos)/[**erlxc**](https://github.com/msantos/erlxc)|Simple, safe erlang interface for managing Linux Containers||
 |22|[@omarkj](https://github.com/omarkj)/[**erollbar**](https://github.com/omarkj/erollbar)|Rollbar client in Erlang||
 |20|[@jkakar](https://github.com/jkakar)/[**aws-erlang**](https://github.com/jkakar/aws-erlang)|AWS clients for Erlang||
+|20|[@msantos](https://github.com/msantos)/[**wierl**](https://github.com/msantos/wierl)|Erlang interface for manipulating 802.11 wireless devices|[:arrow_upper_right:](http://blog.listincomprehension.com/2011/03/wireless-scanning-with-erlang.html)|
 |19|[@msantos](https://github.com/msantos)/[**stk500**](https://github.com/msantos/stk500)|Enough of the STK500 protocol in Erlang to control the Arduino boot loader||
-|19|[@msantos](https://github.com/msantos)/[**wierl**](https://github.com/msantos/wierl)|Erlang interface for manipulating 802.11 wireless devices|[:arrow_upper_right:](http://blog.listincomprehension.com/2011/03/wireless-scanning-with-erlang.html)|
 |18|[@FabioBatSilva](https://github.com/FabioBatSilva)/[**efrisby**](https://github.com/FabioBatSilva/efrisby)|A REST API testing framework for erlang|[:arrow_upper_right:](https://hex.pm/packages/efrisby)|
 |17|[@edescourtis](https://github.com/edescourtis)/[**ebitcoind**](https://github.com/edescourtis/ebitcoind)|Erlang to Bitcoind API||
 |17|[@ferd](https://github.com/ferd)/[**flatlog**](https://github.com/ferd/flatlog)|A custom formatter for the Erlang logger application that turns maps into single line text logs||

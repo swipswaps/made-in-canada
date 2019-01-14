@@ -11,6 +11,7 @@
 |10|[@ktonon](https://github.com/ktonon)/[**elm-aws-core**](https://github.com/ktonon/elm-aws-core)|Make authenticated REST requests to AWS services using Elm||
 |8|[@ktonon](https://github.com/ktonon)/[**elm-crypto**](https://github.com/ktonon/elm-crypto)|Cryptography with HMAC and SHA-2|[:arrow_upper_right:](http://package.elm-lang.org/packages/ktonon/elm-crypto/latest)|
 |6|[@fosskers](https://github.com/fosskers)/[**2048**](https://github.com/fosskers/2048)|An implementation of 2048 in Elm.||
+|6|[@pzp1997](https://github.com/pzp1997)/[**assoc-list**](https://github.com/pzp1997/assoc-list)|Dictionary with custom keys implemented using association lists|[:arrow_upper_right:](https://package.elm-lang.org/packages/pzp1997/assoc-list/latest/)|
 |5|[@ktonon](https://github.com/ktonon)/[**elm-jsonwebtoken**](https://github.com/ktonon/elm-jsonwebtoken)|JSON Web Token encoder and decoder||
 |5|[@ktonon](https://github.com/ktonon)/[**elm-serverless-cors**](https://github.com/ktonon/elm-serverless-cors)|CORS middleware for elm-serverless||
 |4|[@brettcannon](https://github.com/brettcannon)/[**time-clock**](https://github.com/brettcannon/time-clock)|A simple, one-page time/punch clock web app|[:arrow_upper_right:](http://time-clock.surge.sh/)|
