@@ -8,4 +8,5 @@
 |7|[@feeley](https://github.com/feeley)/[**define-library**](https://github.com/feeley/define-library)|define-library implementation for Gambit||
 |7|[@keeyon2](https://github.com/keeyon2)/[**Scheme-Interpreter**](https://github.com/keeyon2/Scheme-Interpreter)|Scheme Interpreter that will Interpret itself||
 |3|[@feeley](https://github.com/feeley)/[**univ-lib**](https://github.com/feeley/univ-lib)|Library for Gambit compiler universal backend||
+|3|[@rudolfolah](https://github.com/rudolfolah)/[**guix-node-packages**](https://github.com/rudolfolah/guix-node-packages)|GNU Guix packages for Node.js projects, an alternative to NPM.||
 

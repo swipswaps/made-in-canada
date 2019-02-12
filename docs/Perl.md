@@ -1,35 +1,35 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|179|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|A repository of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. ||
+|185|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|A repository of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. ||
 |164|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
 |123|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
-|119|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
+|120|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
 |95|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
-|89|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
-|78|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
+|95|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
+|79|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
 |71|[@mlangill](https://github.com/mlangill)/[**microbiome_helper**](https://github.com/mlangill/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |61|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
+|43|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
 |42|[@yanick](https://github.com/yanick)/[**git-cpan-patch**](https://github.com/yanick/git-cpan-patch)|System to write patches against CPAN modules via Git||
-|41|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
 |41|[@briandfoy](https://github.com/briandfoy)/[**Learning-Perl-Sample-Files**](https://github.com/briandfoy/Learning-Perl-Sample-Files)|Extra files for use with Learning Perl|[:arrow_upper_right:](http://www.learning-perl.org/)|
 |35|[@moshen](https://github.com/moshen)/[**Image-Term256Color**](https://github.com/moshen/Image-Term256Color)|Display images in your 256 color terminal! (kinda) - superseded by https://github.com/moshen/gotermimg||
-|28|[@bcgsc](https://github.com/bcgsc)/[**LINKS**](https://github.com/bcgsc/LINKS)|Long Interval Nucleotide K-mer Scaffolder||
-|26|[@bcgsc](https://github.com/bcgsc)/[**mirna**](https://github.com/bcgsc/mirna)|microRNA profiling pipeline||
+|30|[@bcgsc](https://github.com/bcgsc)/[**LINKS**](https://github.com/bcgsc/LINKS)|Long Interval Nucleotide K-mer Scaffolder||
+|27|[@bcgsc](https://github.com/bcgsc)/[**mirna**](https://github.com/bcgsc/mirna)|microRNA profiling pipeline||
 |26|[@cdrage](https://github.com/cdrage)/[**dockerfiles**](https://github.com/cdrage/dockerfiles)|🐳 My Dockerfiles||
-|25|[@sjackman](https://github.com/sjackman)/[**fastascripts**](https://github.com/sjackman/fastascripts)|Manipulate FASTA files||
+|26|[@sjackman](https://github.com/sjackman)/[**fastascripts**](https://github.com/sjackman/fastascripts)|Manipulate FASTA files||
 |23|[@briandfoy](https://github.com/briandfoy)/[**cpan-script**](https://github.com/briandfoy/cpan-script)|(Perl) Interact with CPAN from the command line|[:arrow_upper_right:](http://search.cpan.org/dist/cpan-script)|
 |22|[@sestaton](https://github.com/sestaton)/[**Transposome**](https://github.com/sestaton/Transposome)|A toolkit for annotation of transposable element families from unassembled sequence reads|[:arrow_upper_right:](http://sestaton.github.io/Transposome)|
 |21|[@hoytech](https://github.com/hoytech)/[**unliner**](https://github.com/hoytech/unliner)|Untangle your unix pipeline one-liners||
+|21|[@yanick](https://github.com/yanick)/[**Vim-X**](https://github.com/yanick/Vim-X)|Write Perl functions within Vim|[:arrow_upper_right:](https://metacpan.org/release/Vim-X)|
 |21|[@yanick](https://github.com/yanick)/[**cheatsheets**](https://github.com/yanick/cheatsheets)|My cheatsheets||
 |20|[@mlangill](https://github.com/mlangill)/[**MicrobeDB**](https://github.com/mlangill/MicrobeDB)|Provides a local database of in-house and published genomes for Bacteria and Archaea from NCBI||
-|20|[@yanick](https://github.com/yanick)/[**Vim-X**](https://github.com/yanick/Vim-X)|Write Perl functions within Vim|[:arrow_upper_right:](https://metacpan.org/release/Vim-X)|
 |18|[@bartman](https://github.com/bartman)/[**urxvt-scripts**](https://github.com/bartman/urxvt-scripts)|my urxvt scripts|[:arrow_upper_right:](http://www.jukie.net/~bart/blog/tag/urxvt)|
 |17|[@briandfoy](https://github.com/briandfoy)/[**git-github-creator**](https://github.com/briandfoy/git-github-creator)|(Perl) Create a Github repository for your Perl module|[:arrow_upper_right:](https://metacpan.org/pod/Git::GitHub::Creator)|
 |16|[@sestaton](https://github.com/sestaton)/[**HMMER2GO**](https://github.com/sestaton/HMMER2GO)|Annotate DNA sequences for Gene Ontology terms||
 |16|[@yanick](https://github.com/yanick)/[**Taskwarrior-Kusarigama**](https://github.com/yanick/Taskwarrior-Kusarigama)|plugin system for the Taskwarrior task manager|[:arrow_upper_right:](https://metacpan.org/release/Taskwarrior-Kusarigama)|
 |15|[@briandfoy](https://github.com/briandfoy)/[**Unicode-Tussle**](https://github.com/briandfoy/Unicode-Tussle)|Tom( Christiansen)'s Unicode Scripts So Life is Easier|[:arrow_upper_right:](http://search.cpan.org/dist/Unicode-Tussle)|
 |15|[@briandfoy](https://github.com/briandfoy)/[**unicode-tussle**](https://github.com/briandfoy/unicode-tussle)|Tom( Christiansen)'s Unicode Scripts So Life is Easier|[:arrow_upper_right:](https://metacpan.org/dist/Unicode::Tussle)|
-|14|[@johnlees](https://github.com/johnlees)/[**23andme-impute**](https://github.com/johnlees/23andme-impute)|Scripts and advice to run IMPUTE2 on 23 and me raw data||
+|15|[@johnlees](https://github.com/johnlees)/[**23andme-impute**](https://github.com/johnlees/23andme-impute)|Scripts and advice to run IMPUTE2 on 23 and me raw data||
 |13|[@yanick](https://github.com/yanick)/[**Perl-Achievements**](https://github.com/yanick/Perl-Achievements)|Write some perl, gather some badges of merit.||
 |12|[@briandfoy](https://github.com/briandfoy)/[**module-release**](https://github.com/briandfoy/module-release)|(Perl) Automate software releases|[:arrow_upper_right:](https://metacpan.org/pod/Module::Release)|
 |12|[@hoytech](https://github.com/hoytech)/[**Session-Token**](https://github.com/hoytech/Session-Token)|Secure, efficient, simple random session token generation||
@@ -40,6 +40,7 @@
 |11|[@carlalexander](https://github.com/carlalexander)/[**macos-nginx-php**](https://github.com/carlalexander/macos-nginx-php)|[UNMAINTAINED] Nginx and PHP config for Mac OS X||
 |11|[@karenetheridge](https://github.com/karenetheridge)/[**Acme-LookOfDisapproval**](https://github.com/karenetheridge/Acme-LookOfDisapproval)|Send warnings with ಠ_ಠ|[:arrow_upper_right:](http://metacpan.org/release/Acme-LookOfDisapproval/)|
 |11|[@sestaton](https://github.com/sestaton)/[**sesbio**](https://github.com/sestaton/sesbio)|Bioinformatics scripts for genome analysis||
+|10|[@briandfoy](https://github.com/briandfoy)/[**net-mac-vendor**](https://github.com/briandfoy/net-mac-vendor)|look up the network interface vendor by MAC||
 |10|[@briandfoy](https://github.com/briandfoy)/[**test-file**](https://github.com/briandfoy/test-file)|(Perl) Check file attributes|[:arrow_upper_right:](https://metacpan.org/pod/Test::File)|
 |10|[@bricas](https://github.com/bricas)/[**uri-template**](https://github.com/bricas/uri-template)|Object for handling URI templates|[:arrow_upper_right:](http://metacpan.org/release/URI-Template/)|
 |10|[@elecnix](https://github.com/elecnix)/[**nagios-postgresql**](https://github.com/elecnix/nagios-postgresql)|Fork of Tony Wasson's nagios plugins for PosgreSQL|[:arrow_upper_right:](http://pgfoundry.org/projects/nagiosplugins/)|
@@ -48,7 +49,6 @@
 |10|[@hoytech](https://github.com/hoytech)/[**Valence-p5**](https://github.com/hoytech/Valence-p5)|Perl interface to valence/electron GUI toolkit||
 |9|[@EOS-Nation](https://github.com/EOS-Nation)/[**bpvalidate**](https://github.com/EOS-Nation/bpvalidate)|Tools to validate BPs have set up their public configuration correctly||
 |9|[@briandfoy](https://github.com/briandfoy)/[**mac-propertylist**](https://github.com/briandfoy/mac-propertylist)|(Perl) work with Mac plists at a low level|[:arrow_upper_right:](https://metacpan.org/pod/Mac::PropertyList)|
-|9|[@briandfoy](https://github.com/briandfoy)/[**net-mac-vendor**](https://github.com/briandfoy/net-mac-vendor)|look up the network interface vendor by MAC||
 |9|[@bsandrow](https://github.com/bsandrow)/[**hn-profile**](https://github.com/bsandrow/hn-profile)|Scraping profile info from news.ycombinator.com||
 |9|[@s-rah](https://github.com/s-rah)/[**itsybitsy**](https://github.com/s-rah/itsybitsy)|The mini static site generator||
 |9|[@yanick](https://github.com/yanick)/[**Term-Caca**](https://github.com/yanick/Term-Caca)|perl interface for libcaca (Colour AsCii Art library) |[:arrow_upper_right:](http://search.cpan.org/dist/Term-Caca)|
@@ -65,13 +65,13 @@
 |7|[@briandfoy](https://github.com/briandfoy)/[**module-extract-use**](https://github.com/briandfoy/module-extract-use)|Extract the modules a Perl file uses||
 |7|[@briandfoy](https://github.com/briandfoy)/[**test-prereq**](https://github.com/briandfoy/test-prereq)|(Perl) check if Makefile.PL has the right pre-requisites|[:arrow_upper_right:](https://metacpan.org/pod/Test::Prereq)|
 |7|[@bricas](https://github.com/bricas)/[**image-textmode**](https://github.com/bricas/image-textmode)|Create, manipulate and save text mode images|[:arrow_upper_right:](http://metacpan.org/release/Image-TextMode/)|
+|7|[@jandubois](https://github.com/jandubois)/[**win32-ole**](https://github.com/jandubois/win32-ole)|||
 |6|[@0](https://github.com/0)/[**migraine**](https://github.com/0/migraine)|Transform boring monochrome bitmaps into dazzling monochrome graphics!||
 |6|[@aspiers](https://github.com/aspiers)/[**mutt**](https://github.com/aspiers/mutt)|a set of generic configuration files for mutt||
 |6|[@bcgsc](https://github.com/bcgsc)/[**RAILS**](https://github.com/bcgsc/RAILS)|RAILS and Cobbler||
 |6|[@briandfoy](https://github.com/briandfoy)/[**jobs.perl.org-jobs-counter**](https://github.com/briandfoy/jobs.perl.org-jobs-counter)|||
 |6|[@bricas](https://github.com/bricas)/[**dbix-class-indexed**](https://github.com/bricas/dbix-class-indexed)|Index data via external indexing facilities|[:arrow_upper_right:](http://search.cpan.org/dist/DBIx-Class-Indexed/)|
 |6|[@hoytech](https://github.com/hoytech)/[**Unicode-Truncate**](https://github.com/hoytech/Unicode-Truncate)|Unicode-aware efficient string truncation||
-|6|[@jandubois](https://github.com/jandubois)/[**win32-ole**](https://github.com/jandubois/win32-ole)|||
 |6|[@johnlees](https://github.com/johnlees)/[**bioinformatics**](https://github.com/johnlees/bioinformatics)|Utilities written for bioinformatics|[:arrow_upper_right:](http://leesjohn.wordpress.com/)|
 |5|[@briandfoy](https://github.com/briandfoy)/[**io-interactive**](https://github.com/briandfoy/io-interactive)|Utilities for interactive I/O|[:arrow_upper_right:](https://metacpan.org/pod/IO::Interactive)|
 |5|[@briandfoy](https://github.com/briandfoy)/[**module-extract-namespaces**](https://github.com/briandfoy/module-extract-namespaces)|(Perl) This is what the module does|[:arrow_upper_right:](https://metacpan.org/pod/Module::Extract::Namespaces)|

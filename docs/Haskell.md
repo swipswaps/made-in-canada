@@ -1,20 +1,20 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |149|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
-|143|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
+|144|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
 |130|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
-|128|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
+|129|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
 |105|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
 |92|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
-|58|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
-|50|[@thephoeron](https://github.com/thephoeron)/[**quipper-language**](https://github.com/thephoeron/quipper-language)|Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)||
+|59|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
+|51|[@thephoeron](https://github.com/thephoeron)/[**quipper-language**](https://github.com/thephoeron/quipper-language)|Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)||
+|42|[@csabahruska](https://github.com/csabahruska)/[**jhc-components**](https://github.com/csabahruska/jhc-components)|JHC Haskell compiler split into reusable components||
 |41|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm**](https://github.com/JoeyEremondi/haskelm)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
-|41|[@csabahruska](https://github.com/csabahruska)/[**jhc-components**](https://github.com/csabahruska/jhc-components)|JHC Haskell compiler split into reusable components||
 |28|[@avieth](https://github.com/avieth)/[**Algebraic**](https://github.com/avieth/Algebraic)|Experiments on the construction of functions||
 |28|[@thayerwilliams](https://github.com/thayerwilliams)/[**msi-xmonad**](https://github.com/thayerwilliams/msi-xmonad)|xmonad.hs (Xmonad >= 0.9) and related config files for my MSI Wind netbook|[:arrow_upper_right:](http://cinderwick.ca)|
 |23|[@fosskers](https://github.com/fosskers)/[**mapalgebra**](https://github.com/fosskers/mapalgebra)|Efficient, polymorphic Map Algebra in Haskell.||
-|22|[@singpolyma](https://github.com/singpolyma)/[**unexceptionalio**](https://github.com/singpolyma/unexceptionalio)|IO without any PseudoExceptions|[:arrow_upper_right:](http://hackage.haskell.org/package/unexceptionalio)|
-|20|[@csabahruska](https://github.com/csabahruska)/[**gpipe-quake3**](https://github.com/csabahruska/gpipe-quake3)|Quake 3 map viewer in Haskell using GPipe|[:arrow_upper_right:](https://wiki.haskell.org/GPipe)|
+|23|[@singpolyma](https://github.com/singpolyma)/[**unexceptionalio**](https://github.com/singpolyma/unexceptionalio)|IO without any PseudoExceptions|[:arrow_upper_right:](http://hackage.haskell.org/package/unexceptionalio)|
+|21|[@csabahruska](https://github.com/csabahruska)/[**gpipe-quake3**](https://github.com/csabahruska/gpipe-quake3)|Quake 3 map viewer in Haskell using GPipe|[:arrow_upper_right:](https://wiki.haskell.org/GPipe)|
 |18|[@PhDP](https://github.com/PhDP)/[**Faun**](https://github.com/PhDP/Faun)|Experimental ML/AI code||
 |16|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm-old**](https://github.com/JoeyEremondi/haskelm-old)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
 |16|[@WillSewell](https://github.com/WillSewell)/[**benchpress**](https://github.com/WillSewell/benchpress)|Micro-benchmarking of Haskell code with detailed execution time statistics.||
@@ -41,12 +41,12 @@
 |8|[@bbc](https://github.com/bbc)/[**haskell-workshop**](https://github.com/bbc/haskell-workshop)|Haskell workshop that will hopefully contribute something back to the open-source community||
 |8|[@gregorycollins](https://github.com/gregorycollins)/[**blaaargh**](https://github.com/gregorycollins/blaaargh)|A simple flatfile web content management system, written in Haskell + happstack|[:arrow_upper_right:](http://gregorycollins.net/)|
 |8|[@shepheb](https://github.com/shepheb)/[**go10c**](https://github.com/shepheb/go10c)|Compiler for a dialect of Go to DCPU-16 assembly||
+|7|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**lambda-pi-constraint**](https://github.com/JoeyEremondi/lambda-pi-constraint)|||
 |7|[@csabahruska](https://github.com/csabahruska)/[**GFXDemo**](https://github.com/csabahruska/GFXDemo)|||
 |7|[@diogob](https://github.com/diogob)/[**haskell-tools**](https://github.com/diogob/haskell-tools)|Website to view haskell projects from Github|[:arrow_upper_right:](http://haskelltools.com)|
 |7|[@singpolyma](https://github.com/singpolyma)/[**mustache2hs**](https://github.com/singpolyma/mustache2hs)|An attempt to compile Mustache templates to Haskell code||
 |7|[@tpetricek](https://github.com/tpetricek)/[**Haskell.Joinads**](https://github.com/tpetricek/Haskell.Joinads)|Haskell implementation of Joinads|[:arrow_upper_right:](http://www.cl.cam.ac.uk/~tp322/papers/docase.html)|
 |6|[@Gonzih](https://github.com/Gonzih)/[**hayoo-cli**](https://github.com/Gonzih/hayoo-cli)|Hayoo CLI|[:arrow_upper_right:](http://hackage.haskell.org/package/hayoo-cli)|
-|6|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**lambda-pi-constraint**](https://github.com/JoeyEremondi/lambda-pi-constraint)|||
 |6|[@alexstoick](https://github.com/alexstoick)/[**pandoc-docx-pagebreak**](https://github.com/alexstoick/pandoc-docx-pagebreak)|||
 |6|[@avieth](https://github.com/avieth)/[**Relational**](https://github.com/avieth/Relational)|Relational database types for Haskell||
 |6|[@avieth](https://github.com/avieth)/[**reactive-dom**](https://github.com/avieth/reactive-dom)|Haskell web user interfaces over reactive-banana and ghcjs-dom||
@@ -65,7 +65,10 @@
 |4|[@singpolyma](https://github.com/singpolyma)/[**route-generator**](https://github.com/singpolyma/route-generator)|Utility to generate routes for use with yesod-routes|[:arrow_upper_right:](http://hackage.haskell.org/package/route-generator)|
 |4|[@singpolyma](https://github.com/singpolyma)/[**sgx-vitelity**](https://github.com/singpolyma/sgx-vitelity)|XMPP Gateway using Vitelity as a backend.||
 |3|[@avieth](https://github.com/avieth)/[**PullRequestNagger**](https://github.com/avieth/PullRequestNagger)|Nag your peers about outstanding pull requests||
+|3|[@borsboom](https://github.com/borsboom)/[**git-embed**](https://github.com/borsboom/git-embed)|DEPRECATED: Use Template Haskell to embed Git revision, branch, and tag information.|[:arrow_upper_right:](https://hackage.haskell.org/package/git-embed)|
 |3|[@bsandrow](https://github.com/bsandrow)/[**xmonad**](https://github.com/bsandrow/xmonad)|My Xmonad Config file and Related scripts||
+|3|[@edmundnoble](https://github.com/edmundnoble)/[**jeb**](https://github.com/edmundnoble/jeb)|a journal app||
+|3|[@eschnett](https://github.com/eschnett)/[**mpi-hs**](https://github.com/eschnett/mpi-hs)|MPI bindings for Haskell||
 |3|[@inaimathi](https://github.com/inaimathi)/[**goget**](https://github.com/inaimathi/goget)|Basic haskell shopping list web-app for learning purposes||
 |3|[@samsymons](https://github.com/samsymons)/[**Playground**](https://github.com/samsymons/Playground)|A place to mess around with new languages.||
 |3|[@singpolyma](https://github.com/singpolyma)/[**simple-form-haskell**](https://github.com/singpolyma/simple-form-haskell)|||

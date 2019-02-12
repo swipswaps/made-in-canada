@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|258|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
+|260|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
 |74|[@hoytech](https://github.com/hoytech)/[**antiweb**](https://github.com/hoytech/antiweb)|Common Lisp web application server|[:arrow_upper_right:](http://hoytech.com/antiweb/)|
 |58|[@inaimathi](https://github.com/inaimathi)/[**cl-notebook**](https://github.com/inaimathi/cl-notebook)|A notebook-style editor for Common Lisp||
-|48|[@thephoeron](https://github.com/thephoeron)/[**let-over-lambda**](https://github.com/thephoeron/let-over-lambda)|Doug Hoyte's "Production" version of macros from Let Over Lambda, ready for ASDF and Quicklisp.||
+|49|[@thephoeron](https://github.com/thephoeron)/[**let-over-lambda**](https://github.com/thephoeron/let-over-lambda)|Doug Hoyte's "Production" version of macros from Let Over Lambda, ready for ASDF and Quicklisp.||
 |44|[@thephoeron](https://github.com/thephoeron)/[**black-stone**](https://github.com/thephoeron/black-stone)|Specification and Implementation of Quantum Common Lisp, for gate-model quantum computers||
-|34|[@inaimathi](https://github.com/inaimathi)/[**cl-css**](https://github.com/inaimathi/cl-css)|Non-validating, inline CSS generator for Common Lisp||
+|33|[@inaimathi](https://github.com/inaimathi)/[**cl-css**](https://github.com/inaimathi/cl-css)|Non-validating, inline CSS generator for Common Lisp||
+|29|[@thephoeron](https://github.com/thephoeron)/[**bit-smasher**](https://github.com/thephoeron/bit-smasher)|Common Lisp library for handling bit vectors, bit vector arithmetic, and type conversions.|[:arrow_upper_right:](https://thephoeron.github.io/bit-smasher/)|
 |28|[@mck-](https://github.com/mck-)/[**oneliner**](https://github.com/mck-/oneliner)|Extracts a one-liner from a piece of text.||
-|28|[@thephoeron](https://github.com/thephoeron)/[**bit-smasher**](https://github.com/thephoeron/bit-smasher)|Common Lisp library for handling bit vectors, bit vector arithmetic, and type conversions.|[:arrow_upper_right:](https://thephoeron.github.io/bit-smasher/)|
 |25|[@atgreen](https://github.com/atgreen)/[**lisp-openshift**](https://github.com/atgreen/lisp-openshift)|Run sbcl-powered lisp-based web apps on Red Hat's OpenShift|[:arrow_upper_right:](http://lisp2-atgreen.rhcloud.com)|
 |24|[@burtonsamograd](https://github.com/burtonsamograd)/[**sigil**](https://github.com/burtonsamograd/sigil)|A Parenscript to Javascript command line compiler and interpreter.||
 |18|[@inaimathi](https://github.com/inaimathi)/[**formlets**](https://github.com/inaimathi/formlets)|Automatically validating formlets for Hunchentoot + cl-who||
@@ -38,7 +38,9 @@
 |4|[@Hexstream](https://github.com/Hexstream)/[**definitions-systems**](https://github.com/Hexstream/definitions-systems)|Provides a simple unified extensible way of processing named definitions.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/definitions-systems/)|
 |4|[@Hexstream](https://github.com/Hexstream)/[**place-utils**](https://github.com/Hexstream/place-utils)|Provides a few utilities relating to setfable places.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/place-utils/)|
 |4|[@Hexstream](https://github.com/Hexstream)/[**trivial-jumptables**](https://github.com/Hexstream/trivial-jumptables)|Provides efficient O(1) jumptables on supported Common Lisp implementations and falls back to O(log(n)) on others.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/trivial-jumptables/)|
+|4|[@burtonsamograd](https://github.com/burtonsamograd)/[**med**](https://github.com/burtonsamograd/med)|med - A fork of the emacs-like text editor for the Mezzano operating system||
 |4|[@thephoeron](https://github.com/thephoeron)/[**cl-cuneiform**](https://github.com/thephoeron/cl-cuneiform)|Common Lisp library for handling and parsing unicode Sumerian and Akkadian cuneiform signs, and their ASCII and Latin representations||
+|4|[@thephoeron](https://github.com/thephoeron)/[**cl-datalog**](https://github.com/thephoeron/cl-datalog)|A Common Lisp DSL for Datalog: the declarative logic programming language||
 |4|[@thephoeron](https://github.com/thephoeron)/[**cl-datomic**](https://github.com/thephoeron/cl-datomic)|A Common Lisp Interface to Datomic: the Fully Transactional, Cloud-Ready, Distributed Database||
 |4|[@tokenrove](https://github.com/tokenrove)/[**m68k-assembler**](https://github.com/tokenrove/m68k-assembler)|A simple, mostly-DevPAC-compatible assembler for the Motorola 68k series of proccessors.||
 |3|[@Hexstream](https://github.com/Hexstream)/[**anaphoric-variants**](https://github.com/Hexstream/anaphoric-variants)|Gives access to anaphoric variants of operators through one macro: ANAPHORIC. The user explicitly provides a variable name, preserving sanity, in contrast to the traditional use of an evil implicit variable ("IT"). Some operators can bind additional handy variables when explicitly requested. (Formerly called "explicit-anaphora".)|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/anaphoric-variants/)|
@@ -46,7 +48,7 @@
 |3|[@Hexstream](https://github.com/Hexstream)/[**parse-number-range**](https://github.com/Hexstream/parse-number-range)|Parses LOOP's convenient "for-as-arithmetic" syntax into 5 simple values: from, to, limit-kind (:inclusive, :exclusive or nil if unbounded), by (step) and direction (+ or -)). Further related utilities are provided. Intended for easy implementation of analogous functionality in other constructs.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/parse-number-range/)|
 |3|[@Hexstream](https://github.com/Hexstream)/[**place-modifiers**](https://github.com/Hexstream/place-modifiers)|place-modifiers essentially gives access to hundreds of modify-macros through one single macro: MODIFY.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/place-modifiers/)|
 |3|[@Hexstream](https://github.com/Hexstream)/[**positional-lambda**](https://github.com/Hexstream/positional-lambda)|positional-lambda is a concise, intuitive and flexible syntax (macro) for trivial lambdas that eschews explicit (and often contextually-redundant) naming of parameter variables in favor of positional references, with support for a used or ignored &rest parameter and automatic declaration of ignored parameters when logical "gaps" are left in the positional references. Further convenience features are provided.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/positional-lambda/)|
-|3|[@burtonsamograd](https://github.com/burtonsamograd)/[**med**](https://github.com/burtonsamograd/med)|med - A fork of the emacs-like text editor for the Mezzano operating system||
+|3|[@burtonsamograd](https://github.com/burtonsamograd)/[**typed-cl**](https://github.com/burtonsamograd/typed-cl)|Easier type declerations for for Common Lisp.||
 |3|[@bzgeb](https://github.com/bzgeb)/[**Sudoku-Wizard**](https://github.com/bzgeb/Sudoku-Wizard)|A propositional logic based sudoku solver. Developed in Common Lisp.||
 |3|[@inaimathi](https://github.com/inaimathi)/[**cl-chan**](https://github.com/inaimathi/cl-chan)|A message/image board (eventually) written in Common Lisp, mainly for tutorial purposes||
 |3|[@inaimathi](https://github.com/inaimathi)/[**cl-web-dev**](https://github.com/inaimathi/cl-web-dev)|Minor utilities for web development in Common Lisp||
@@ -55,5 +57,4 @@
 |3|[@robmyers](https://github.com/robmyers)/[**rob-art**](https://github.com/robmyers/rob-art)|Art generation software in Lisp.||
 |3|[@sgraham](https://github.com/sgraham)/[**worksheets**](https://github.com/sgraham/worksheets)|||
 |3|[@thephoeron](https://github.com/thephoeron)/[**cl-bootstrap**](https://github.com/thephoeron/cl-bootstrap)|Common Lisp web development widget library for Twitter's Bootstrap||
-|3|[@thephoeron](https://github.com/thephoeron)/[**cl-datalog**](https://github.com/thephoeron/cl-datalog)|A Common Lisp DSL for Datalog: the declarative logic programming language||
 
