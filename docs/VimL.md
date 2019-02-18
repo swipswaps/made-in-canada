@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |193|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
-|148|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
+|149|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |90|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|:rocket: Quickly init a slightly better Vim.||
 |50|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
 |48|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
@@ -30,8 +30,8 @@
 |9|[@thayerwilliams](https://github.com/thayerwilliams)/[**msi-dotfiles**](https://github.com/thayerwilliams/msi-dotfiles)|Archlinux dotfiles for my MSI Wind U120 netbook|[:arrow_upper_right:](http://cinderwick.ca)|
 |8|[@allenhwkim](https://github.com/allenhwkim)/[**nextfile.vim**](https://github.com/allenhwkim/nextfile.vim)|vim script to open related files||
 |8|[@idbrii](https://github.com/idbrii)/[**vim-textconv**](https://github.com/idbrii/vim-textconv)|Easily apply text conversions. ||
+|8|[@rafaelrosafu](https://github.com/rafaelrosafu)/[**vimfiles**](https://github.com/rafaelrosafu/vimfiles)|My vimfiles (noobie warning)||
 |7|[@gregbell](https://github.com/gregbell)/[**dot-vim**](https://github.com/gregbell/dot-vim)|My .vimrc and .vim directory||
-|7|[@rafaelrosafu](https://github.com/rafaelrosafu)/[**vimfiles**](https://github.com/rafaelrosafu/vimfiles)|My vimfiles (noobie warning)||
 |7|[@ujihisa](https://github.com/ujihisa)/[**neochat.vim**](https://github.com/ujihisa/neochat.vim)|a comprehensive pluggable chat Vim plugin||
 |7|[@ujihisa](https://github.com/ujihisa)/[**tabpagecolorscheme**](https://github.com/ujihisa/tabpagecolorscheme)|Vim colorscheme on each tabs||
 |6|[@billkeys](https://github.com/billkeys)/[**Documentation**](https://github.com/billkeys/Documentation)|||

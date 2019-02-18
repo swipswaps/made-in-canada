@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |149|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
-|144|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
+|145|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
+|130|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
 |130|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
-|129|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
 |105|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
 |92|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
-|59|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
+|60|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
 |51|[@thephoeron](https://github.com/thephoeron)/[**quipper-language**](https://github.com/thephoeron/quipper-language)|Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)||
 |42|[@csabahruska](https://github.com/csabahruska)/[**jhc-components**](https://github.com/csabahruska/jhc-components)|JHC Haskell compiler split into reusable components||
 |41|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm**](https://github.com/JoeyEremondi/haskelm)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
@@ -20,9 +20,9 @@
 |16|[@WillSewell](https://github.com/WillSewell)/[**benchpress**](https://github.com/WillSewell/benchpress)|Micro-benchmarking of Haskell code with detailed execution time statistics.||
 |15|[@fosskers](https://github.com/fosskers)/[**vectortiles**](https://github.com/fosskers/vectortiles)|A native Haskell codec for Mapbox Vector Tiles.||
 |15|[@gregorycollins](https://github.com/gregorycollins)/[**homepage**](https://github.com/gregorycollins/homepage)|Source code for http://gregorycollins.net/ --- built on the Haskell "happstack" framework|[:arrow_upper_right:](http://gregorycollins.net/)|
+|15|[@jpittis](https://github.com/jpittis)/[**toxiproxy-haskell**](https://github.com/jpittis/toxiproxy-haskell)|A Haskell client for Toxiproxy.||
 |14|[@csabahruska](https://github.com/csabahruska)/[**jhc-grin**](https://github.com/csabahruska/jhc-grin)|GRIN Haskell backend stripped out from JHC. (GRIN from scratch: https://github.com/grin-tech/grin)||
 |14|[@fosskers](https://github.com/fosskers)/[**versions**](https://github.com/fosskers/versions)|Haskell types and parsers for software version numbers.||
-|14|[@jpittis](https://github.com/jpittis)/[**toxiproxy-haskell**](https://github.com/jpittis/toxiproxy-haskell)|A Haskell client for Toxiproxy.||
 |14|[@nitrix](https://github.com/nitrix)/[**udfs**](https://github.com/nitrix/udfs)|Ubiquitous Distributed File System||
 |14|[@singpolyma](https://github.com/singpolyma)/[**wai-session**](https://github.com/singpolyma/wai-session)|Flexible session middleware for WAI||
 |13|[@csabahruska](https://github.com/csabahruska)/[**demoscene**](https://github.com/csabahruska/demoscene)|Demoscene: Lambda Team||
@@ -42,12 +42,12 @@
 |8|[@gregorycollins](https://github.com/gregorycollins)/[**blaaargh**](https://github.com/gregorycollins/blaaargh)|A simple flatfile web content management system, written in Haskell + happstack|[:arrow_upper_right:](http://gregorycollins.net/)|
 |8|[@shepheb](https://github.com/shepheb)/[**go10c**](https://github.com/shepheb/go10c)|Compiler for a dialect of Go to DCPU-16 assembly||
 |7|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**lambda-pi-constraint**](https://github.com/JoeyEremondi/lambda-pi-constraint)|||
+|7|[@alexstoick](https://github.com/alexstoick)/[**pandoc-docx-pagebreak**](https://github.com/alexstoick/pandoc-docx-pagebreak)|||
 |7|[@csabahruska](https://github.com/csabahruska)/[**GFXDemo**](https://github.com/csabahruska/GFXDemo)|||
 |7|[@diogob](https://github.com/diogob)/[**haskell-tools**](https://github.com/diogob/haskell-tools)|Website to view haskell projects from Github|[:arrow_upper_right:](http://haskelltools.com)|
 |7|[@singpolyma](https://github.com/singpolyma)/[**mustache2hs**](https://github.com/singpolyma/mustache2hs)|An attempt to compile Mustache templates to Haskell code||
 |7|[@tpetricek](https://github.com/tpetricek)/[**Haskell.Joinads**](https://github.com/tpetricek/Haskell.Joinads)|Haskell implementation of Joinads|[:arrow_upper_right:](http://www.cl.cam.ac.uk/~tp322/papers/docase.html)|
 |6|[@Gonzih](https://github.com/Gonzih)/[**hayoo-cli**](https://github.com/Gonzih/hayoo-cli)|Hayoo CLI|[:arrow_upper_right:](http://hackage.haskell.org/package/hayoo-cli)|
-|6|[@alexstoick](https://github.com/alexstoick)/[**pandoc-docx-pagebreak**](https://github.com/alexstoick/pandoc-docx-pagebreak)|||
 |6|[@avieth](https://github.com/avieth)/[**Relational**](https://github.com/avieth/Relational)|Relational database types for Haskell||
 |6|[@avieth](https://github.com/avieth)/[**reactive-dom**](https://github.com/avieth/reactive-dom)|Haskell web user interfaces over reactive-banana and ghcjs-dom||
 |6|[@nitrix](https://github.com/nitrix)/[**ni**](https://github.com/nitrix/ni)|Ni programming language||

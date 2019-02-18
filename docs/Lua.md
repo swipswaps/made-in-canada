@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|736|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
+|737|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
 |411|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
 |349|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
-|341|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
+|347|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
 |133|[@saks](https://github.com/saks)/[**lua-resty-repl**](https://github.com/saks/lua-resty-repl)|Interactive console (REPL) for Openresty and luajit code||
 |104|[@castorini](https://github.com/castorini)/[**MP-CNN-Torch**](https://github.com/castorini/MP-CNN-Torch)|Multi-Perspective Convolutional Neural Networks for modeling textual similarity (He et al., EMNLP 2015)||
 |91|[@forhappy](https://github.com/forhappy)/[**zklua**](https://github.com/forhappy/zklua)|Lua binding of apache zookeeper.||
@@ -17,7 +17,7 @@
 |21|[@inikdom](https://github.com/inikdom)/[**seq2seq-chatbot**](https://github.com/inikdom/seq2seq-chatbot)|An implementation of Google's seq2seq architecture for building a chatbot.||
 |21|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**drmad**](https://github.com/nicholas-leonard/drmad)|Hyper-parameter Optimization with DrMAD and Hypero||
 |20|[@castorini](https://github.com/castorini)/[**VDPWI-NN-Torch**](https://github.com/castorini/VDPWI-NN-Torch)|Very Deep Pairwise Word Interaction Neural Networks for modeling textual similarity (He and Lin, NAACL/HLT 2016)||
-|17|[@yrashk](https://github.com/yrashk)/[**nix-home**](https://github.com/yrashk/nix-home)|Nix Home Manager||
+|18|[@yrashk](https://github.com/yrashk)/[**nix-home**](https://github.com/yrashk/nix-home)|Nix Home Manager||
 |16|[@pelevesque](https://github.com/pelevesque)/[**skeletor**](https://github.com/pelevesque/skeletor)|A skeletal animation system for LÖVE 2D. https://love2d.org||
 |16|[@slime73](https://github.com/slime73)/[**Lua-Event**](https://github.com/slime73/Lua-Event)|Basic event system I have been using in my LÖVE games||
 |14|[@jake100](https://github.com/jake100)/[**lua-state-machine**](https://github.com/jake100/lua-state-machine)|lua state machine taking advantage of first class functions.||

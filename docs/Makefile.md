@@ -43,6 +43,7 @@
 |3|[@bbidulock](https://github.com/bbidulock)/[**xde-helpers**](https://github.com/bbidulock/xde-helpers)|Helper .desktop files for XDE||
 |3|[@cjcliffe](https://github.com/cjcliffe)/[**CubicSDR-flatpak**](https://github.com/cjcliffe/CubicSDR-flatpak)|Flatpak build scripts for CubicSDR||
 |3|[@sjackman](https://github.com/sjackman)/[**linuxbrew-slides**](https://github.com/sjackman/linuxbrew-slides)|Linuxbrew and Homebrew-Science|[:arrow_upper_right:](http://sjackman.ca/linuxbrew-slides/)|
+|3|[@sjackman](https://github.com/sjackman)/[**pgmtdna**](https://github.com/sjackman/pgmtdna)|:evergreen_tree: Annotate the mitochondrial genome of white spruce (Picea glauca)|[:arrow_upper_right:](http://www.ncbi.nlm.nih.gov/nuccore/LKAM00000000)|
 |3|[@sjourdan](https://github.com/sjourdan)/[**toolbox**](https://github.com/sjourdan/toolbox)|a container with some utilities to use anywhere (CoreOS included)|[:arrow_upper_right:](https://hub.docker.com/r/sjourdan/toolbox)|
 |3|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_otus**](https://github.com/sultanqasim/android_device_motorola_otus)|Device tree for Motorola Styx 3G||
 |3|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_xiaomi_hennessy**](https://github.com/sultanqasim/android_device_xiaomi_hennessy)|TWRP Tree for Redmi Note 3 (Mediatek)||

@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |475|[@cvogt](https://github.com/cvogt)/[**cbt**](https://github.com/cvogt/cbt)|CBT - fun, fast, intuitive, compositional, statically checked builds written in Scala||
-|377|[@fosskers](https://github.com/fosskers)/[**scalaz-and-cats**](https://github.com/fosskers/scalaz-and-cats)|Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).||
-|370|[@marconilanna](https://github.com/marconilanna)/[**REPLesent**](https://github.com/marconilanna/REPLesent)|A neat little tool to build presentations using the Scala REPL||
-|350|[@mardambey](https://github.com/mardambey)/[**mypipe**](https://github.com/mardambey/mypipe)|MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka.||
+|379|[@fosskers](https://github.com/fosskers)/[**scalaz-and-cats**](https://github.com/fosskers/scalaz-and-cats)|Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).||
+|372|[@marconilanna](https://github.com/marconilanna)/[**REPLesent**](https://github.com/marconilanna/REPLesent)|A neat little tool to build presentations using the Scala REPL||
+|351|[@mardambey](https://github.com/mardambey)/[**mypipe**](https://github.com/mardambey/mypipe)|MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka.||
 |325|[@dcaoyuan](https://github.com/dcaoyuan)/[**chana**](https://github.com/dcaoyuan/chana)|Avro Data Store based on Akka||
 |255|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-socketio**](https://github.com/dcaoyuan/spray-socketio)|socket.io for spray||
 |224|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-websocket**](https://github.com/dcaoyuan/spray-websocket)|WebSocket for spray-can||
-|222|[@jmcardon](https://github.com/jmcardon)/[**tsec**](https://github.com/jmcardon/tsec)|Type-safe general-cryptography library - https://jmcardon.github.io/tsec/||
+|223|[@jmcardon](https://github.com/jmcardon)/[**tsec**](https://github.com/jmcardon/tsec)|Type-safe general-cryptography library - https://jmcardon.github.io/tsec/||
 |120|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**ScalaKata**](https://github.com/MasseGuillaume/ScalaKata)|Moved|[:arrow_upper_right:](https://github.com/MasseGuillaume/ScalaKata2)|
 |120|[@dcaoyuan](https://github.com/dcaoyuan)/[**aiotrade**](https://github.com/dcaoyuan/aiotrade)|A Trading Platform|[:arrow_upper_right:](http://blogtrader.net)|
 |117|[@yawaramin](https://github.com/yawaramin)/[**scala-modules**](https://github.com/yawaramin/scala-modules)|Experimental implementations of ML-style modules in Scala||
@@ -15,7 +15,7 @@
 |94|[@denisrosset](https://github.com/denisrosset)/[**metal**](https://github.com/denisrosset/metal)|Metal - fast unboxed data structures for Scala||
 |91|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**ScalaKata2**](https://github.com/MasseGuillaume/ScalaKata2)|Interactive Playground|[:arrow_upper_right:](http://scalakata.com)|
 |83|[@cvogt](https://github.com/cvogt)/[**compossible**](https://github.com/cvogt/compossible)|Scala Records: Extensible records and type-indexed maps|[:arrow_upper_right:](https://www.youtube.com/watch?v=pA2js-TV1Ck)|
-|59|[@eclipsesource](https://github.com/eclipsesource)/[**play-json-schema-validator**](https://github.com/eclipsesource/play-json-schema-validator)|JSON Schema Validation with Play JSON||
+|60|[@eclipsesource](https://github.com/eclipsesource)/[**play-json-schema-validator**](https://github.com/eclipsesource/play-json-schema-validator)|JSON Schema Validation with Play JSON||
 |52|[@knoldus](https://github.com/knoldus)/[**Lambda-Arch-Spark**](https://github.com/knoldus/Lambda-Arch-Spark)|||
 |52|[@mvogiatzis](https://github.com/mvogiatzis)/[**freq-count**](https://github.com/mvogiatzis/freq-count)|Lossy Counting and Sticky Sampling implementation for efficient frequency counts on data streams.||
 |51|[@knoldus](https://github.com/knoldus)/[**Play-Spark-Scala**](https://github.com/knoldus/Play-Spark-Scala)|||
@@ -30,9 +30,9 @@
 |33|[@tobyjsullivan](https://github.com/tobyjsullivan)/[**applicative-demo**](https://github.com/tobyjsullivan/applicative-demo)|Demo code for my talk at applicative conf. http://applicative.acm.org/speaker-TobySullivan.html||
 |31|[@cvogt](https://github.com/cvogt)/[**slick-presentation**](https://github.com/cvogt/slick-presentation)|||
 |29|[@knoldus](https://github.com/knoldus)/[**playing-reactive-mongo.g8**](https://github.com/knoldus/playing-reactive-mongo.g8)|This activator project describes a classic CRUD application in Play 2.4.x with ReactiveMongo||
+|29|[@marconilanna](https://github.com/marconilanna)/[**scala-boilerplate**](https://github.com/marconilanna/scala-boilerplate)|Starting point for Scala projects||
 |28|[@dcaoyuan](https://github.com/dcaoyuan)/[**avpath**](https://github.com/dcaoyuan/avpath)|XPath likeness for Avro||
 |28|[@knoldus](https://github.com/knoldus)/[**playing-reactjs.g8**](https://github.com/knoldus/playing-reactjs.g8)|This activator project describes a basic example to render UI using ReactJS with Play 2.4.x, Scala and Anorm. It also demonstrates the use of evolution in Play 2.4.x||
-|28|[@marconilanna](https://github.com/marconilanna)/[**scala-boilerplate**](https://github.com/marconilanna/scala-boilerplate)|Starting point for Scala projects||
 |27|[@knoldus](https://github.com/knoldus)/[**activator-play-slick-app**](https://github.com/knoldus/activator-play-slick-app)|This is an activator project providing a seed for starting with Play & Slick, how to write unit test and how to use mocking for unit testing.||
 |26|[@cvogt](https://github.com/cvogt)/[**flow-comprehensions**](https://github.com/cvogt/flow-comprehensions)|Work in progress: Simpler and more powerful alternative to Scala's built-in for-comprehension syntax||
 |21|[@dcaoyuan](https://github.com/dcaoyuan)/[**nbsbt**](https://github.com/dcaoyuan/nbsbt)|Plugin for sbt to create Netbeans project definition.||
@@ -94,10 +94,10 @@
 |6|[@knoldus](https://github.com/knoldus)/[**akka-roller**](https://github.com/knoldus/akka-roller)|Akka Training Project||
 |6|[@knoldus](https://github.com/knoldus)/[**kafka-tweet-producer.g8**](https://github.com/knoldus/kafka-tweet-producer.g8)|This is an activator project. It describes how to pull tweets from twitter and push into Kafka.||
 |6|[@knoldus](https://github.com/knoldus)/[**play-reactive-slick**](https://github.com/knoldus/play-reactive-slick)|||
-|6|[@knoldus](https://github.com/knoldus)/[**scala-solr-akkahttp.g8**](https://github.com/knoldus/scala-solr-akkahttp.g8)|||
 |6|[@knoldus](https://github.com/knoldus)/[**spark-streaming-gnip**](https://github.com/knoldus/spark-streaming-gnip)|An Apache Spark utility for pulling Tweets from Gnip's PowerTrack in realtime|[:arrow_upper_right:](http://spark-packages.org/package/knoldus/spark-streaming-gnip)|
 |6|[@knoldus](https://github.com/knoldus)/[**structured-streaming-application**](https://github.com/knoldus/structured-streaming-application)|Structured Streaming  is a reference application showing how to easily integrate structured streaming Apache Spark Structured Streaming, Apache Cassandra and Apache Kafka for fast, structured streaming computations on data.|[:arrow_upper_right:](https://spark-packages.org/package/knoldus/structured-streaming-application)|
 |6|[@yzhliu](https://github.com/yzhliu)/[**mxnet-scala**](https://github.com/yzhliu/mxnet-scala)|MXNet Scala Package||
+|5|[@AlvinCJin](https://github.com/AlvinCJin)/[**Niagara**](https://github.com/AlvinCJin/Niagara)|Niagara is a DaaS platform implemented by SDACK stack in Scala|[:arrow_upper_right:](https://alvincjin.github.io/Niagara/)|
 |5|[@briannesbitt](https://github.com/briannesbitt)/[**hockey.nesbot.com**](https://github.com/briannesbitt/hockey.nesbot.com)|Sidney Crosby Art Ross Watch and MyNHL|[:arrow_upper_right:](http://hockey.nesbot.com)|
 |5|[@cvogt](https://github.com/cvogt)/[**slick-mongo-light**](https://github.com/cvogt/slick-mongo-light)|Slick-style query building for Mongo|[:arrow_upper_right:](http://cvogt.org/slick-mongo-light/api/)|
 |5|[@denisrosset](https://github.com/denisrosset)/[**symdpoly**](https://github.com/denisrosset/symdpoly)|SymDPoly: symmetry-adapted moment relaxations for noncommutative polynomial optimization|[:arrow_upper_right:](https://denisrosset.github.io/symdpoly/)|
@@ -105,6 +105,7 @@
 |5|[@knoldus](https://github.com/knoldus)/[**atdd-cucumber-scala**](https://github.com/knoldus/atdd-cucumber-scala)|Small example of ATDD wth Cucumber and Scala||
 |5|[@knoldus](https://github.com/knoldus)/[**load-external-scala-file**](https://github.com/knoldus/load-external-scala-file)|This application will teach how to compile and load an external scala file in a scala apllication||
 |5|[@knoldus](https://github.com/knoldus)/[**playing-multipartform**](https://github.com/knoldus/playing-multipartform)|A basic example to handle and test MultipartFormData request in Play Framework 2.3.8||
+|5|[@knoldus](https://github.com/knoldus)/[**scala-solr-akkahttp.g8**](https://github.com/knoldus/scala-solr-akkahttp.g8)|||
 |5|[@knoldus](https://github.com/knoldus)/[**sicp**](https://github.com/knoldus/sicp)|Exercises of SICP solved with Scala||
 |5|[@knoldus](https://github.com/knoldus)/[**spark-scala-async**](https://github.com/knoldus/spark-scala-async)|||
 |5|[@marconilanna](https://github.com/marconilanna)/[**snippets**](https://github.com/marconilanna/snippets)|Catalogue of routinely required small units of boilerplate code||
@@ -112,7 +113,6 @@
 |5|[@overthink](https://github.com/overthink)/[**circlet**](https://github.com/overthink/circlet)|Scala HTTP server abstraction in the style of Ring||
 |5|[@thoughtworks](https://github.com/thoughtworks)/[**sbteo**](https://github.com/thoughtworks/sbteo)|Compile server for sbt||
 |5|[@yzhliu](https://github.com/yzhliu)/[**mxnet-scala-example**](https://github.com/yzhliu/mxnet-scala-example)|Examples for Using MXNet Scala Package||
-|4|[@AlvinCJin](https://github.com/AlvinCJin)/[**Niagara**](https://github.com/AlvinCJin/Niagara)|Niagara is a DaaS platform implemented by SDACK stack in Scala|[:arrow_upper_right:](https://alvincjin.github.io/Niagara/)|
 |4|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**Scala-DNS**](https://github.com/MasseGuillaume/Scala-DNS)|Domain Name System||
 |4|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**multi-platforms-javalibs**](https://github.com/MasseGuillaume/multi-platforms-javalibs)|||
 |4|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**scalameta-structure**](https://github.com/MasseGuillaume/scalameta-structure)|pretty printer for scalameta .structure||
@@ -138,6 +138,7 @@
 |3|[@edadma](https://github.com/edadma)/[**markdown**](https://github.com/edadma/markdown)|Scala Github Flavored Markdown Processor||
 |3|[@edadma](https://github.com/edadma)/[**scala-markdown**](https://github.com/edadma/scala-markdown)|Scala Github Flavored Markdown Processor||
 |3|[@fosskers](https://github.com/fosskers)/[**scalaz-vs-cats**](https://github.com/fosskers/scalaz-vs-cats)|Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).||
+|3|[@knoldus](https://github.com/knoldus)/[**FormDemoInPlayWithMysql**](https://github.com/knoldus/FormDemoInPlayWithMysql)|How to connect a Play Application with Mysql as database in Scala.Play includes a simple data access layer called Anorm that uses plain SQL to interact with the database and provides an API to parse and transform the resulting datasets.||
 |3|[@knoldus](https://github.com/knoldus)/[**akka-http-file-upload**](https://github.com/knoldus/akka-http-file-upload)|A basic application to upload a file using akka-http in Scala with its test cases||
 |3|[@knoldus](https://github.com/knoldus)/[**knolx-portal**](https://github.com/knoldus/knolx-portal)|Knolx portal is a Knolx management portal|[:arrow_upper_right:](http://knolx.knoldus.com)|
 |3|[@knoldus](https://github.com/knoldus)/[**lagom-spike**](https://github.com/knoldus/lagom-spike)|||
