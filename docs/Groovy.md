@@ -1,30 +1,31 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|126|[@yracine](https://github.com/yracine)/[**device-type.myecobee**](https://github.com/yracine/device-type.myecobee)|SmartThings-ecobee integration||
+|125|[@yracine](https://github.com/yracine)/[**device-type.myecobee**](https://github.com/yracine/device-type.myecobee)|SmartThings-ecobee integration||
 |60|[@f2prateek](https://github.com/f2prateek)/[**gradle-android-javafmt-plugin**](https://github.com/f2prateek/gradle-android-javafmt-plugin)|Augomagically format Java files (deprecated)||
-|40|[@f2prateek](https://github.com/f2prateek)/[**android-checkstyle-plugin**](https://github.com/f2prateek/android-checkstyle-plugin)|Configures the checkstyle plugin for Android projects||
+|39|[@f2prateek](https://github.com/f2prateek)/[**android-checkstyle-plugin**](https://github.com/f2prateek/android-checkstyle-plugin)|Configures the checkstyle plugin for Android projects||
 |26|[@kellyrob99](https://github.com/kellyrob99)/[**Jenkins-api-tour**](https://github.com/kellyrob99/Jenkins-api-tour)|Code demonstrating how to interact with the API layer of a Jenkins/Hudson build server.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2011/03/27/hooking-into-the-jenkinshudson-api/)|
-|20|[@mbarnathan](https://github.com/mbarnathan)/[**SmartWink**](https://github.com/mbarnathan/SmartWink)|Lutron support in SmartThings using a rooted Wink hub as a bridge||
+|21|[@mbarnathan](https://github.com/mbarnathan)/[**SmartWink**](https://github.com/mbarnathan/SmartWink)|Lutron support in SmartThings using a rooted Wink hub as a bridge||
 |16|[@yracine](https://github.com/yracine)/[**device-type.myneurio**](https://github.com/yracine/device-type.myneurio)|SmartThings-Neurio integration||
 |14|[@chaopeng](https://github.com/chaopeng)/[**grchaos**](https://github.com/chaopeng/grchaos)|application framework for hotswap||
 |14|[@kellyrob99](https://github.com/kellyrob99)/[**gradle-jslint-plugin**](https://github.com/kellyrob99/gradle-jslint-plugin)|A Gradle custom Plugin that allows running JSLint static analysis against JavaScipt code. A blog article accompanies this source code to explain its intent and implementation.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2011/04/03/a-groovygradle-jslint-plugin/)|
+|14|[@yracine](https://github.com/yracine)/[**DSC-Integration-with-Arduino-Mega-Shield-RS-232**](https://github.com/yracine/DSC-Integration-with-Arduino-Mega-Shield-RS-232)|DSC - Integration with SmartThings (RS232)||
 |14|[@yracine](https://github.com/yracine)/[**keenhome.device-type**](https://github.com/yracine/keenhome.device-type)|Keen Home Smart Vents - device handler||
-|13|[@yracine](https://github.com/yracine)/[**DSC-Integration-with-Arduino-Mega-Shield-RS-232**](https://github.com/yracine/DSC-Integration-with-Arduino-Mega-Shield-RS-232)|DSC - Integration with SmartThings (RS232)||
 |11|[@StephenOTT](https://github.com/StephenOTT)/[**camunda-prometheus-process-engine-plugin**](https://github.com/StephenOTT/camunda-prometheus-process-engine-plugin)|Monitor your KPIs!!!  Camunda BPM Process Engine Plugin providing Prometheus Monitoring, Metric classes for various BPMN use, Grafana Annotations, and HTTPServer data export: Used to generate Prometheus metrics anywhere in the Engine, including BPMN, CMN, and DMN engines and instances.||
 |11|[@kellyrob99](https://github.com/kellyrob99)/[**catcha-breaker**](https://github.com/kellyrob99/catcha-breaker)|Groovy port of a python example on how to break weak captcha using tesseract-ocr|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/03/14/breaking-weak-captcha-in-slightly-more-than-26-lines-of-groovy-code/)|
+|9|[@yracine](https://github.com/yracine)/[**device-type.myautomatic**](https://github.com/yracine/device-type.myautomatic)|SmartThings - Automatic integration||
 |8|[@yracine](https://github.com/yracine)/[**customYaleLockWithGoodTimeout**](https://github.com/yracine/customYaleLockWithGoodTimeout)|Custom Yale Lock With good timeout to avoid wrong status at Smartthings hub||
-|8|[@yracine](https://github.com/yracine)/[**device-type.myautomatic**](https://github.com/yracine/device-type.myautomatic)|SmartThings - Automatic integration||
+|7|[@DigitalState](https://github.com/DigitalState)/[**camunda-rest-jwt-authentication**](https://github.com/DigitalState/camunda-rest-jwt-authentication)|Camunda BPM plugin library providing JWT Authentication||
 |7|[@mbarnathan](https://github.com/mbarnathan)/[**Synchronized-Dimming**](https://github.com/mbarnathan/Synchronized-Dimming)|Allows many SmartThings dimmers to act as one.||
 |6|[@eclipsesource](https://github.com/eclipsesource)/[**dockerizor**](https://github.com/eclipsesource/dockerizor)|Gradle plug-in to create a Docker image that includes an Eclipse Virgo container||
 |6|[@kellyrob99](https://github.com/kellyrob99)/[**groovy-http**](https://github.com/kellyrob99/groovy-http)|||
 |5|[@DigitalState](https://github.com/DigitalState)/[**Camunda-Spock-Testing**](https://github.com/DigitalState/Camunda-Spock-Testing)|Spock Framework Specification Testing / Unit Testing for Camunda BPM Engine/Processes|[:arrow_upper_right:](https://forum.camunda.org/t/unit-testing-using-spock-framework-for-cucumber-style-testing-shared-engine-unit-testing-dmn-bpmn/5635?u=stephenott)|
-|5|[@DigitalState](https://github.com/DigitalState)/[**camunda-rest-jwt-authentication**](https://github.com/DigitalState/camunda-rest-jwt-authentication)|Camunda BPM plugin library providing JWT Authentication||
 |5|[@codetojoy](https://github.com/codetojoy)/[**talk_maritimedevcon_groovy**](https://github.com/codetojoy/talk_maritimedevcon_groovy)|Demo code for talk at Maritime DevCon 2016.||
 |5|[@dansmith65](https://github.com/dansmith65)/[**ooScriptMaster**](https://github.com/dansmith65/ooScriptMaster)|object oriented ScriptMaster|[:arrow_upper_right:](http://dansmith65.github.com/ooScriptMaster/groovydoc/)|
 |4|[@anthonydahanne](https://github.com/anthonydahanne)/[**JenkinsHudsonScripts**](https://github.com/anthonydahanne/JenkinsHudsonScripts)|Collection of scripts to interact with Jenkins and Hudson remote APIs and Update Centers||
 |4|[@codetojoy](https://github.com/codetojoy)/[**easter_eggs_for_groovy**](https://github.com/codetojoy/easter_eggs_for_groovy)|Basic examples for Groovy. Usage of 'egg' here is SSCCE: http://sscce.org||
 |4|[@davidkiss](https://github.com/davidkiss)/[**grails-todo**](https://github.com/davidkiss/grails-todo)|Sample project on building a modern web application using Grails + Spring Security + Angular JS + Twitter Bootstrap.||
 |4|[@kellyrob99](https://github.com/kellyrob99)/[**JFreeChart-POI-Groovy**](https://github.com/kellyrob99/JFreeChart-POI-Groovy)|Using JFreeChart and Apache POI in Groovy||
+|4|[@yracine](https://github.com/yracine)/[**device-type-myNext**](https://github.com/yracine/device-type-myNext)|Nest Integration with SmartThings||
 |3|[@DavidYKay](https://github.com/DavidYKay)/[**gradle-jenkins-example**](https://github.com/DavidYKay/gradle-jenkins-example)|Example of putting Gradle and Jenkins together for Android||
 |3|[@NickQiZhu](https://github.com/NickQiZhu)/[**Griffon-Validation-Plugin**](https://github.com/NickQiZhu/Griffon-Validation-Plugin)|Validation plugin for Griffin framework|[:arrow_upper_right:](http://griffon.codehaus.org/Validation+Plugin)|
 |3|[@andrewshawcare](https://github.com/andrewshawcare)/[**docker-ecosystem-jenkins**](https://github.com/andrewshawcare/docker-ecosystem-jenkins)|A Jenkins deployment with docker-compose-enabled nodes and some sample projects||
@@ -35,5 +36,4 @@
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**groovy-google-collections**](https://github.com/kellyrob99/groovy-google-collections)|A comparison of Groovy, Java and Google-Collections for brevity and fluency.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/05/15/achieving-groovy-like-fluency-in-java-with-google-collections/)|
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**running-groovy**](https://github.com/kellyrob99/running-groovy)|Examples of how to dynamically execute Groovy and Java code.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2009/11/21/different-flavors-of-embedded-groovy-in-java-apps-or-how-to-make-your-java-groovier/)|
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**stackoverflow-api-grails**](https://github.com/kellyrob99/stackoverflow-api-grails)|A demo of the StackExchange APIs|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/06/02/a-grails-app-demoing-the-stackexchange-api/)|
-|3|[@yracine](https://github.com/yracine)/[**device-type-myNext**](https://github.com/yracine/device-type-myNext)|Nest Integration with SmartThings||
 

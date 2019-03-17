@@ -11,11 +11,11 @@
 |6|[@brentvatne](https://github.com/brentvatne)/[**bs-option**](https://github.com/brentvatne/bs-option)|||
 |6|[@gnuvince](https://github.com/gnuvince)/[**ocaml-tiger**](https://github.com/gnuvince/ocaml-tiger)|||
 |6|[@tokenrove](https://github.com/tokenrove)/[**tsdl-mixer**](https://github.com/tokenrove/tsdl-mixer)|SDL2_mixer bindings to go with Tsdl||
+|6|[@yawaramin](https://github.com/yawaramin)/[**bs-webapi**](https://github.com/yawaramin/bs-webapi)|(WIP) BuckleScript Web API Bindings||
 |5|[@danieljharvey](https://github.com/danieljharvey)/[**reason-examples**](https://github.com/danieljharvey/reason-examples)|Some examples of reason code||
 |5|[@yawaramin](https://github.com/yawaramin)/[**re-hyperapp**](https://github.com/yawaramin/re-hyperapp)|Very raw bindings for the https://github.com/hyperapp/hyperapp UI library.||
 |4|[@brentvatne](https://github.com/brentvatne)/[**99-reasons**](https://github.com/brentvatne/99-reasons)|||
 |4|[@yawaramin](https://github.com/yawaramin)/[**bs-phoenix**](https://github.com/yawaramin/bs-phoenix)|BuckleScript bindings for the Phoenix.js client||
-|4|[@yawaramin](https://github.com/yawaramin)/[**bs-webapi**](https://github.com/yawaramin/bs-webapi)|(WIP) BuckleScript Web API Bindings||
 |4|[@yawaramin](https://github.com/yawaramin)/[**resilient-services**](https://github.com/yawaramin/resilient-services)|||
 |3|[@jochasinga](https://github.com/jochasinga)/[**annihilation**](https://github.com/jochasinga/annihilation)|Implementation of the Bitcoin Merkle Tree||
 |3|[@tokenrove](https://github.com/tokenrove)/[**zookicker**](https://github.com/tokenrove/zookicker)|#1GAM February backup plan||
