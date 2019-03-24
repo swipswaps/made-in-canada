@@ -1,137 +1,137 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |4827|[@ButchersBoy](https://github.com/ButchersBoy)/[**MaterialDesignInXamlToolkit**](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit)|Google's Material Design in XAML & WPF, for C# & VB.Net. |[:arrow_upper_right:](http://materialdesigninxaml.net)|
-|4090|[@Redth](https://github.com/Redth)/[**PushSharp**](https://github.com/Redth/PushSharp)|A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!||
+|4093|[@Redth](https://github.com/Redth)/[**PushSharp**](https://github.com/Redth/PushSharp)|A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!||
 |1843|[@LazoCoder](https://github.com/LazoCoder)/[**Windows-Hacks**](https://github.com/LazoCoder/Windows-Hacks)|Creative and unusual things that can be done with the Windows API.||
-|1439|[@NoelFB](https://github.com/NoelFB)/[**Celeste**](https://github.com/NoelFB/Celeste)|Celeste Bugs & Issue Tracker + some Source Code||
-|1140|[@ButchersBoy](https://github.com/ButchersBoy)/[**Dragablz**](https://github.com/ButchersBoy/Dragablz)|Dragable and tearable tab control for WPF|[:arrow_upper_right:](http://dragablz.net)|
-|736|[@MattRix](https://github.com/MattRix)/[**Futile**](https://github.com/MattRix/Futile)|A super simple Unity 2D framework|[:arrow_upper_right:](http://struct.ca/futile)|
-|669|[@Belphemur](https://github.com/Belphemur)/[**SoundSwitch**](https://github.com/Belphemur/SoundSwitch)|C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/|[:arrow_upper_right:](https://soundswitch.aaflalo.me/)|
-|651|[@Redth](https://github.com/Redth)/[**ZXing.Net.Mobile**](https://github.com/Redth/ZXing.Net.Mobile)|Zxing Barcode Scanning Library for MonoTouch, Mono for Android, and Windows Phone||
-|643|[@Krutonium](https://github.com/Krutonium)/[**Windows-10-Login-Background-Changer**](https://github.com/Krutonium/Windows-10-Login-Background-Changer)|Changes the Windows 10 Login Screen Background|[:arrow_upper_right:](http://forums.mydigitallife.info/threads/62367-Windows-10-Login-Screen-Background-Changer!-Uploading-to-GitHub!)|
+|1442|[@NoelFB](https://github.com/NoelFB)/[**Celeste**](https://github.com/NoelFB/Celeste)|Celeste Bugs & Issue Tracker + some Source Code||
+|1144|[@ButchersBoy](https://github.com/ButchersBoy)/[**Dragablz**](https://github.com/ButchersBoy/Dragablz)|Dragable and tearable tab control for WPF|[:arrow_upper_right:](http://dragablz.net)|
+|737|[@MattRix](https://github.com/MattRix)/[**Futile**](https://github.com/MattRix/Futile)|A super simple Unity 2D framework|[:arrow_upper_right:](http://struct.ca/futile)|
+|673|[@Belphemur](https://github.com/Belphemur)/[**SoundSwitch**](https://github.com/Belphemur/SoundSwitch)|C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/|[:arrow_upper_right:](https://soundswitch.aaflalo.me/)|
+|652|[@Redth](https://github.com/Redth)/[**ZXing.Net.Mobile**](https://github.com/Redth/ZXing.Net.Mobile)|Zxing Barcode Scanning Library for MonoTouch, Mono for Android, and Windows Phone||
+|644|[@Krutonium](https://github.com/Krutonium)/[**Windows-10-Login-Background-Changer**](https://github.com/Krutonium/Windows-10-Login-Background-Changer)|Changes the Windows 10 Login Screen Background|[:arrow_upper_right:](http://forums.mydigitallife.info/threads/62367-Windows-10-Login-Screen-Background-Changer!-Uploading-to-GitHub!)|
 |632|[@PFCKrutonium](https://github.com/PFCKrutonium)/[**Windows-10-Login-Background-Changer**](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)|Changes the Windows 10 Login Screen Background|[:arrow_upper_right:](http://forums.mydigitallife.info/threads/62367-Windows-10-Login-Screen-Background-Changer!-Uploading-to-GitHub!)|
-|597|[@emgucv](https://github.com/emgucv)/[**emgucv**](https://github.com/emgucv/emgucv)|Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library.||
-|577|[@aritchie](https://github.com/aritchie)/[**userdialogs**](https://github.com/aritchie/userdialogs)|A cross platform library that allows you to call for standard user dialogs from a core .net standard library,  Actionsheets, alerts, confirmations, loading, login, progress, prompt, toast... async just for fun||
-|564|[@Pathoschild](https://github.com/Pathoschild)/[**SMAPI**](https://github.com/Pathoschild/SMAPI)|The modding API for Stardew Valley.|[:arrow_upper_right:](https://smapi.io/)|
+|600|[@emgucv](https://github.com/emgucv)/[**emgucv**](https://github.com/emgucv/emgucv)|Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library.||
+|581|[@aritchie](https://github.com/aritchie)/[**userdialogs**](https://github.com/aritchie/userdialogs)|A cross platform library that allows you to call for standard user dialogs from a core .net standard library,  Actionsheets, alerts, confirmations, loading, login, progress, prompt, toast... async just for fun||
+|565|[@Pathoschild](https://github.com/Pathoschild)/[**SMAPI**](https://github.com/Pathoschild/SMAPI)|The modding API for Stardew Valley.|[:arrow_upper_right:](https://smapi.io/)|
 |559|[@svermeulen](https://github.com/svermeulen)/[**Projeny**](https://github.com/svermeulen/Projeny)|A project and package manager for Unity||
-|464|[@MisterJames](https://github.com/MisterJames)/[**GenFu**](https://github.com/MisterJames/GenFu)|GenFu is a library you can use to generate realistic test data. It is composed of several property fillers that can populate commonly named properties through reflection using an internal database of values or randomly created data. You can override any of the fillers, give GenFu hints on how to fill them.||
-|408|[@vexe](https://github.com/vexe)/[**VFW**](https://github.com/vexe/VFW)|||
-|335|[@RyanNielson](https://github.com/RyanNielson)/[**PixelCamera2D**](https://github.com/RyanNielson/PixelCamera2D)|A Pixel Perfect Camera for 2D Games in Unity.||
+|465|[@MisterJames](https://github.com/MisterJames)/[**GenFu**](https://github.com/MisterJames/GenFu)|GenFu is a library you can use to generate realistic test data. It is composed of several property fillers that can populate commonly named properties through reflection using an internal database of values or randomly created data. You can override any of the fillers, give GenFu hints on how to fill them.||
+|409|[@vexe](https://github.com/vexe)/[**VFW**](https://github.com/vexe/VFW)|||
+|336|[@RyanNielson](https://github.com/RyanNielson)/[**PixelCamera2D**](https://github.com/RyanNielson/PixelCamera2D)|A Pixel Perfect Camera for 2D Games in Unity.||
 |313|[@lextm](https://github.com/lextm)/[**obfuscar**](https://github.com/lextm/obfuscar)|Open source obfuscation tool for .NET assemblies|[:arrow_upper_right:](https://www.obfuscar.com)|
 |258|[@Redth](https://github.com/Redth)/[**APNS-Sharp**](https://github.com/Redth/APNS-Sharp)|Apple Push Notification & Feedback Services Client C# Library||
-|247|[@aritchie](https://github.com/aritchie)/[**acr-xamarin-forms**](https://github.com/aritchie/acr-xamarin-forms)|Camera/Gallery, Barcode Scanning, User Dialogs, Geo-Location, Network Utils, Device Info, Settings, E-Mail, Phone, SMS all for Xamarin.Forms||
-|247|[@aritchie](https://github.com/aritchie)/[**bluetoothle**](https://github.com/aritchie/bluetoothle)|Easy to use, cross platform, REACTIVE BluetoothLE Plugin for Xamarin||
+|249|[@aritchie](https://github.com/aritchie)/[**bluetoothle**](https://github.com/aritchie/bluetoothle)|Easy to use, cross platform, REACTIVE BluetoothLE Plugin for Xamarin||
+|246|[@aritchie](https://github.com/aritchie)/[**acr-xamarin-forms**](https://github.com/aritchie/acr-xamarin-forms)|Camera/Gallery, Barcode Scanning, User Dialogs, Geo-Location, Network Utils, Device Info, Settings, E-Mail, Phone, SMS all for Xamarin.Forms||
 |240|[@mfenniak](https://github.com/mfenniak)/[**rethinkdb-net**](https://github.com/mfenniak/rethinkdb-net)|A C# / .NET client driver for RethinkDB.||
-|225|[@majorsilence](https://github.com/majorsilence)/[**My-FyiReporting**](https://github.com/majorsilence/My-FyiReporting)|Majorsilence Reporting, .NET report designer and viewer.  Fork of fyireporting,||
-|219|[@jongallant](https://github.com/jongallant)/[**DungeonGenerator**](https://github.com/jongallant/DungeonGenerator)|A dungeon generator for Unity||
+|226|[@majorsilence](https://github.com/majorsilence)/[**My-FyiReporting**](https://github.com/majorsilence/My-FyiReporting)|Majorsilence Reporting, .NET report designer and viewer.  Fork of fyireporting,||
+|221|[@jongallant](https://github.com/jongallant)/[**DungeonGenerator**](https://github.com/jongallant/DungeonGenerator)|A dungeon generator for Unity||
 |218|[@sapiens](https://github.com/sapiens)/[**SqlFu**](https://github.com/sapiens/SqlFu)|Fast and versatile .net core data mapper/micro-orm||
-|186|[@jongallant](https://github.com/jongallant)/[**LiquidSimulator**](https://github.com/jongallant/LiquidSimulator)|Cellular Automaton 2D Liquid Simulator for Unity||
+|188|[@jongallant](https://github.com/jongallant)/[**LiquidSimulator**](https://github.com/jongallant/LiquidSimulator)|Cellular Automaton 2D Liquid Simulator for Unity||
 |177|[@Redth](https://github.com/Redth)/[**FlamedTVLauncher**](https://github.com/Redth/FlamedTVLauncher)|A replacement home launcher for Amazon FireTV||
 |177|[@lextm](https://github.com/lextm)/[**sharpsnmplib**](https://github.com/lextm/sharpsnmplib)|Sharp SNMP Library- Open Source SNMP for .NET and Mono|[:arrow_upper_right:](http://sharpsnmp.com)|
 |169|[@svermeulen](https://github.com/svermeulen)/[**Unity3dAsyncAwaitUtil**](https://github.com/svermeulen/Unity3dAsyncAwaitUtil)|A bunch of code to make using async-await easier in Unity3D||
-|159|[@Rohansi](https://github.com/Rohansi)/[**Mond**](https://github.com/Rohansi/Mond)|A scripting language for .NET|[:arrow_upper_right:](https://rohbot.net/mond/)|
+|158|[@Rohansi](https://github.com/Rohansi)/[**Mond**](https://github.com/Rohansi/Mond)|A scripting language for .NET|[:arrow_upper_right:](https://rohbot.net/mond/)|
 |155|[@humphd](https://github.com/humphd)/[**VncSharp**](https://github.com/humphd/VncSharp)|VncSharp is a GPL implementation of the VNC Remote Framebuffer (RFB) Protocol for the .NET Framework||
 |146|[@Redth](https://github.com/Redth)/[**AndHUD**](https://github.com/Redth/AndHUD)|Android Progress HUD and Dialog helpers for Xamarin.Android apps!||
-|140|[@honza](https://github.com/honza)/[**bibles**](https://github.com/honza/bibles)|Machine-readable versions of popular English translations of the Bible||
+|141|[@honza](https://github.com/honza)/[**bibles**](https://github.com/honza/bibles)|Machine-readable versions of popular English translations of the Bible||
 |132|[@juhgiyo](https://github.com/juhgiyo)/[**EpPathFinding.cs**](https://github.com/juhgiyo/EpPathFinding.cs)|A jump point search algorithm for grid based games in C#|[:arrow_upper_right:](http://www.codeproject.com/Articles/632424/EpPathFinding-cs-A-Fast-Path-Finding-Algorithm-Jum)|
-|129|[@Pathoschild](https://github.com/Pathoschild)/[**FluentHttpClient**](https://github.com/Pathoschild/FluentHttpClient)|A modern async HTTP client for REST APIs. Its fluent interface lets you send an HTTP request and parse the response in one go.||
+|130|[@Pathoschild](https://github.com/Pathoschild)/[**FluentHttpClient**](https://github.com/Pathoschild/FluentHttpClient)|A modern async HTTP client for REST APIs. Its fluent interface lets you send an HTTP request and parse the response in one go.||
 |126|[@NoelFB](https://github.com/NoelFB)/[**UnityTile3D**](https://github.com/NoelFB/UnityTile3D)|Simple 3D Tile Editor||
-|122|[@Pathoschild](https://github.com/Pathoschild)/[**StardewMods**](https://github.com/Pathoschild/StardewMods)|Mods for Stardew Valley using SMAPI.||
-|119|[@jongallant](https://github.com/jongallant)/[**WorldGeneratorFinal**](https://github.com/jongallant/WorldGeneratorFinal)|Procedural world map generator|[:arrow_upper_right:](http://www.jgallant.com/procedurally-generating-wrapping-world-maps-in-unity-csharp-part-4/)|
+|125|[@Pathoschild](https://github.com/Pathoschild)/[**StardewMods**](https://github.com/Pathoschild/StardewMods)|Mods for Stardew Valley using SMAPI.||
+|120|[@jongallant](https://github.com/jongallant)/[**WorldGeneratorFinal**](https://github.com/jongallant/WorldGeneratorFinal)|Procedural world map generator|[:arrow_upper_right:](http://www.jgallant.com/procedurally-generating-wrapping-world-maps-in-unity-csharp-part-4/)|
+|118|[@jongallant](https://github.com/jongallant)/[**CarSimulator**](https://github.com/jongallant/CarSimulator)|A Top Down 2D Car Simulator For Unity||
 |116|[@cwensley](https://github.com/cwensley)/[**Portable.Xaml**](https://github.com/cwensley/Portable.Xaml)|Portable .NET library for reading/writing xaml files.||
-|114|[@jongallant](https://github.com/jongallant)/[**CarSimulator**](https://github.com/jongallant/CarSimulator)|A Top Down 2D Car Simulator For Unity||
 |113|[@sibartlett](https://github.com/sibartlett)/[**Geo**](https://github.com/sibartlett/Geo)|A geospatial library for .NET|[:arrow_upper_right:](https://www.nuget.org/packages/Geo/)|
 |106|[@giawa](https://github.com/giawa)/[**opengl4csharp**](https://github.com/giawa/opengl4csharp)|OpenGL 4 Bindings (partially based on OpenTK) for C#||
 |98|[@tandasat](https://github.com/tandasat)/[**DotNetHooking**](https://github.com/tandasat/DotNetHooking)|Sample use cases of the .NET native code hooking technique||
 |95|[@aritchie](https://github.com/aritchie)/[**notifications**](https://github.com/aritchie/notifications)|Local notifications for iOS, Android, & Windows.  Includes badges, scheduled notifications, sounds, & context actions||
 |84|[@emgucv](https://github.com/emgucv)/[**emgutf**](https://github.com/emgucv/emgutf)|Emgu TF is a cross platform .Net wrapper for the Google Tensorflow library. Allows Tensorflow functions to be called from .NET compatible languages such as C#, VB, VC++, IronPython.||
-|80|[@cwensley](https://github.com/cwensley)/[**pablodraw**](https://github.com/cwensley/pablodraw)|PabloDraw is an Ansi/Ascii text and RIPscrip vector graphic art editor/viewer with multi-user capabilities.||
+|79|[@cwensley](https://github.com/cwensley)/[**pablodraw**](https://github.com/cwensley/pablodraw)|PabloDraw is an Ansi/Ascii text and RIPscrip vector graphic art editor/viewer with multi-user capabilities.||
 |74|[@aljazsim](https://github.com/aljazsim)/[**defensive-programming-framework-for-net**](https://github.com/aljazsim/defensive-programming-framework-for-net)|Defensive programming framework for .NET||
-|73|[@tekmaven](https://github.com/tekmaven)/[**nClam**](https://github.com/tekmaven/nClam)|nClam allows you to scan files, directories, or streams for viruses with a ClamAV server using a simple API!||
+|74|[@tekmaven](https://github.com/tekmaven)/[**nClam**](https://github.com/tekmaven/nClam)|nClam allows you to scan files, directories, or streams for viruses with a ClamAV server using a simple API!||
 |72|[@Adoxio](https://github.com/Adoxio)/[**xRM-Portals-Community-Edition**](https://github.com/Adoxio/xRM-Portals-Community-Edition)|The definitive edition of Microsoft Open Source Portals, supported by the experts in portals.||
 |72|[@aritchie](https://github.com/aritchie)/[**deviceinfo**](https://github.com/aritchie/deviceinfo)|ACR Device Information for Xamarin & Windows||
-|70|[@LazoCoder](https://github.com/LazoCoder)/[**WinAPI-Wrapper**](https://github.com/LazoCoder/WinAPI-Wrapper)|Windows API wrapper class for simulating mouse movement, clicking, and more.||
-|68|[@ChevyRay](https://github.com/ChevyRay)/[**Coroutines**](https://github.com/ChevyRay/Coroutines)|A simple system for running nested coroutines in C#.||
-|68|[@aritchie](https://github.com/aritchie)/[**jobs**](https://github.com/aritchie/jobs)|Background Jobs Framework for Xamarin & UWP||
+|71|[@LazoCoder](https://github.com/LazoCoder)/[**WinAPI-Wrapper**](https://github.com/LazoCoder/WinAPI-Wrapper)|Windows API wrapper class for simulating mouse movement, clicking, and more.||
+|70|[@aritchie](https://github.com/aritchie)/[**jobs**](https://github.com/aritchie/jobs)|Background Jobs Framework for Xamarin & UWP||
+|69|[@ChevyRay](https://github.com/ChevyRay)/[**Coroutines**](https://github.com/ChevyRay/Coroutines)|A simple system for running nested coroutines in C#.||
 |67|[@iH8sn0w](https://github.com/iH8sn0w)/[**iFaith**](https://github.com/iH8sn0w/iFaith)|A SHSH Dumper for Windows.|[:arrow_upper_right:](http://ih8sn0w.com)|
 |65|[@Icehunter](https://github.com/Icehunter)/[**ffxivapp**](https://github.com/Icehunter/ffxivapp)|Visit us on Discord! https://discord.gg/aCzSANp|[:arrow_upper_right:](https://ffxiv-app.com)|
+|65|[@aritchie](https://github.com/aritchie)/[**httptransfertasks**](https://github.com/aritchie/httptransfertasks)|Cross Platform HTTP Transfers for downloading and uploading (supports background operations)||
 |65|[@giawa](https://github.com/giawa)/[**opengl4tutorials**](https://github.com/giawa/opengl4tutorials)|Following in the style of NeHe, I'm doing some simple tutorials for the opengl4csharp library.||
-|64|[@aritchie](https://github.com/aritchie)/[**httptransfertasks**](https://github.com/aritchie/httptransfertasks)|Cross Platform HTTP Transfers for downloading and uploading (supports background operations)||
 |62|[@aritchie](https://github.com/aritchie)/[**settings**](https://github.com/aritchie/settings)|A cross platform settings plugin for Xamarin and Windows. Unlike other setting libraries in the wild, this library provides several unique features.  Store almost any object, monitor change events, iOS app groups, iCloud Provider, and Old school windows settings||
 |61|[@MisterJames](https://github.com/MisterJames)/[**BootstrappingMvc-Code**](https://github.com/MisterJames/BootstrappingMvc-Code)|All completed code for the Bootstrapping MVC Book Project||
-|58|[@aritchie](https://github.com/aritchie)/[**speechrecognition**](https://github.com/aritchie/speechrecognition)|Easy to use cross platform speech recognition (speech to text) plugin for Xamarin & UWP||
+|59|[@aritchie](https://github.com/aritchie)/[**speechrecognition**](https://github.com/aritchie/speechrecognition)|Easy to use cross platform speech recognition (speech to text) plugin for Xamarin & UWP||
 |58|[@bzgeb](https://github.com/bzgeb)/[**UnityCommonAssets**](https://github.com/bzgeb/UnityCommonAssets)|A bunch of common unity assets for all||
 |57|[@vexe](https://github.com/vexe)/[**gstring**](https://github.com/vexe/gstring)|GC Free string for C#||
 |56|[@danielcrenna](https://github.com/danielcrenna)/[**vault**](https://github.com/danielcrenna/vault)|If you're looking for one of my projects but don't see it, it's in here.||
 |54|[@iancooper](https://github.com/iancooper)/[**Microservices-Tutorial**](https://github.com/iancooper/Microservices-Tutorial)|Some example code, used to illustrate a tutorial on Microservices||
 |53|[@RyanNielson](https://github.com/RyanNielson)/[**InputBinder**](https://github.com/RyanNielson/InputBinder)|Easily bind input events to methods in Unity.||
+|52|[@JamesKovacs](https://github.com/JamesKovacs)/[**FactoryGirl.NET**](https://github.com/JamesKovacs/FactoryGirl.NET)|A .NET implementation of Thoughtbot's factory_girl for Ruby||
 |52|[@gamesbyangelina](https://github.com/gamesbyangelina)/[**Danesh**](https://github.com/gamesbyangelina/Danesh)|Danesh is a tool for running, analysing, tweaking, improving and understanding procedural generators. Written in Unity C#.||
 |51|[@ButchersBoy](https://github.com/ButchersBoy)/[**doobry**](https://github.com/ButchersBoy/doobry)|Query Development Tool for Azure DocumentDB/CosmosDB|[:arrow_upper_right:](http://materialdesigninxaml.net/doobry)|
-|51|[@JamesKovacs](https://github.com/JamesKovacs)/[**FactoryGirl.NET**](https://github.com/JamesKovacs/FactoryGirl.NET)|A .NET implementation of Thoughtbot's factory_girl for Ruby||
 |51|[@Redth](https://github.com/Redth)/[**MSSolutionLauncher**](https://github.com/Redth/MSSolutionLauncher)|Launch multiple instances of Visual Studio for Mac and/or Xamarin Studio easily!||
+|49|[@aritchie](https://github.com/aritchie)/[**geofences**](https://github.com/aritchie/geofences)|Cross platform geofencing library that works on iOS, Android, and Windows||
 |49|[@spouliot](https://github.com/spouliot)/[**Touch.Unit**](https://github.com/spouliot/Touch.Unit)|NUnitLite based runner for unit testing .NET code under iOS|[:arrow_upper_right:](http://spouliot.wordpress.com/category/touch-unit/)|
-|48|[@aritchie](https://github.com/aritchie)/[**geofences**](https://github.com/aritchie/geofences)|Cross platform geofencing library that works on iOS, Android, and Windows||
-|48|[@vexe](https://github.com/vexe)/[**Fast.Reflection**](https://github.com/vexe/Fast.Reflection)|Extension methods library emitting IL to generate delegates for fast reflection||
+|49|[@vexe](https://github.com/vexe)/[**Fast.Reflection**](https://github.com/vexe/Fast.Reflection)|Extension methods library emitting IL to generate delegates for fast reflection||
 |47|[@ChevyRay](https://github.com/ChevyRay)/[**QuadTree**](https://github.com/ChevyRay/QuadTree)|A C# QuadTree implementation specifically designed for testing AABB collisions in 2D space.||
+|47|[@adrianstevens](https://github.com/adrianstevens)/[**Xamarin-Plugins**](https://github.com/adrianstevens/Xamarin-Plugins)|Cross-platform Plugins for Xamarin, Xamarin.Forms and Windows|[:arrow_upper_right:](https://www.nuget.org/packages/Xam.Plugin.SimpleAudioPlayer/)|
 |47|[@aritchie](https://github.com/aritchie)/[**acrmvvmcross**](https://github.com/aritchie/acrmvvmcross)|Several MvvmCross plugins that I have used on a few projects||
 |47|[@dlwyatt](https://github.com/dlwyatt)/[**PowerShellLoggingModule**](https://github.com/dlwyatt/PowerShellLoggingModule)|Automatically capture and save PowerShell console output from a script (without the limitations and headaches of Start-Transcript)||
-|46|[@adrianstevens](https://github.com/adrianstevens)/[**Xamarin-Plugins**](https://github.com/adrianstevens/Xamarin-Plugins)|Cross-platform Plugins for Xamarin, Xamarin.Forms and Windows|[:arrow_upper_right:](https://www.nuget.org/packages/Xam.Plugin.SimpleAudioPlayer/)|
-|46|[@glmcdona](https://github.com/glmcdona)/[**FunctionHacker**](https://github.com/glmcdona/FunctionHacker)|Maintaining an official release at http://split-code.com/cda.html . Tool for recording, filtering, and hacking function calls within applications or games. Useful for game hacking or malware analysis.||
+|47|[@glmcdona](https://github.com/glmcdona)/[**FunctionHacker**](https://github.com/glmcdona/FunctionHacker)|Maintaining an official release at http://split-code.com/cda.html . Tool for recording, filtering, and hacking function calls within applications or games. Useful for game hacking or malware analysis.||
+|46|[@GabLeRoux](https://github.com/GabLeRoux)/[**unity3d-ci-example**](https://github.com/GabLeRoux/unity3d-ci-example)|🍴Additional remote of unity3d CI example project for Travis and CircleCI on Github|[:arrow_upper_right:](https://gitlab.com/gableroux/unity3d-gitlab-ci-example)|
 |46|[@lemire](https://github.com/lemire)/[**csharpewah**](https://github.com/lemire/csharpewah)|Compressed bitmaps in C#||
 |45|[@NotWoods](https://github.com/NotWoods)/[**unity-polygon-2d-editor**](https://github.com/NotWoods/unity-polygon-2d-editor)|Uses the collider of a PolygonCollider2D to generate a mesh for a Unity GameObject.||
 |45|[@darrelmiller](https://github.com/darrelmiller)/[**SimpleApiTemplate**](https://github.com/darrelmiller/SimpleApiTemplate)|||
 |44|[@ButchersBoy](https://github.com/ButchersBoy)/[**DragablzSamplez**](https://github.com/ButchersBoy/DragablzSamplez)|Demo applications to show Dragablz and MahApps being used together||
+|44|[@InfiniteAmmoInc](https://github.com/InfiniteAmmoInc)/[**yarn-test**](https://github.com/InfiniteAmmoInc/yarn-test)|||
 |44|[@Redth](https://github.com/Redth)/[**C2DM-Sharp**](https://github.com/Redth/C2DM-Sharp)|C# Client and Server Libraries for Android C2DM (Cloud 2 Device Messaging)||
-|43|[@InfiniteAmmoInc](https://github.com/InfiniteAmmoInc)/[**yarn-test**](https://github.com/InfiniteAmmoInc/yarn-test)|||
+|44|[@dcomartin](https://github.com/dcomartin)/[**MusicStore**](https://github.com/dcomartin/MusicStore)|Sample MusicStore application that uses MVC and Entity Framework.||
 |43|[@Redth](https://github.com/Redth)/[**FlatUI.Xamarin.Android**](https://github.com/Redth/FlatUI.Xamarin.Android)|FlatUI Port for Xamarin.Android of CengaLabs FlatUI Kit by @eluleci||
-|43|[@dcomartin](https://github.com/dcomartin)/[**MusicStore**](https://github.com/dcomartin/MusicStore)|Sample MusicStore application that uses MVC and Entity Framework.||
 |42|[@cwensley](https://github.com/cwensley)/[**JabbR.Eto**](https://github.com/cwensley/JabbR.Eto)|A cross-platform client for JabbR||
 |41|[@Rohansi](https://github.com/Rohansi)/[**RohBot**](https://github.com/Rohansi/RohBot)|Web interface for Steam group chats||
 |41|[@dantman](https://github.com/dantman)/[**elite-vr-cockpit**](https://github.com/dantman/elite-vr-cockpit)|A SteamVR Overlay providing a virtual throttle and joystick and holographic buttons for ship functions, with custom integration into Elite Dangerous||
 |41|[@svermeulen](https://github.com/svermeulen)/[**UnityCoroutinesWithoutMonoBehaviours**](https://github.com/svermeulen/UnityCoroutinesWithoutMonoBehaviours)|||
-|40|[@GabLeRoux](https://github.com/GabLeRoux)/[**unity3d-ci-example**](https://github.com/GabLeRoux/unity3d-ci-example)|🍴Additional remote of unity3d CI example project for Travis and CircleCI on Github|[:arrow_upper_right:](https://gitlab.com/gableroux/unity3d-gitlab-ci-example)|
 |40|[@danielcrenna](https://github.com/danielcrenna)/[**ChainLib**](https://github.com/danielcrenna/ChainLib)|A general purpose blockchain programming library for .NET Standard 2.0.||
-|38|[@ButchersBoy](https://github.com/ButchersBoy)/[**QSet**](https://github.com/ButchersBoy/QSet)|MSMQ Development & Monitoring Tool||
+|39|[@ButchersBoy](https://github.com/ButchersBoy)/[**QSet**](https://github.com/ButchersBoy/QSet)|MSMQ Development & Monitoring Tool||
 |38|[@Icehunter](https://github.com/Icehunter)/[**sharlayan**](https://github.com/Icehunter/sharlayan)|Visit us on Discord! https://discord.gg/aCzSANp|[:arrow_upper_right:](https://ffxiv-app.com)|
 |38|[@Redth](https://github.com/Redth)/[**MonoDroid.UrlImageViewHelper**](https://github.com/Redth/MonoDroid.UrlImageViewHelper)|C# / Mono for Android Port of koush's UrlImageViewHelper||
+|38|[@Xyene](https://github.com/Xyene)/[**Emulator.NES**](https://github.com/Xyene/Emulator.NES)|📺 Nintendo Entertainment System emulator written in C#.||
 |38|[@aritchie](https://github.com/aritchie)/[**estimotes-xplat**](https://github.com/aritchie/estimotes-xplat)|Estimotes Plugin for Xamarin to allow for cross platform development using the Estimote SDK||
-|37|[@Xyene](https://github.com/Xyene)/[**Emulator.NES**](https://github.com/Xyene/Emulator.NES)|📺 Nintendo Entertainment System emulator written in C#.||
 |37|[@adrianstevens](https://github.com/adrianstevens)/[**Xamarin-Forms**](https://github.com/adrianstevens/Xamarin-Forms)|A collection of Xamarin Forms samples||
 |37|[@majorsilence](https://github.com/majorsilence)/[**MPlayerControl**](https://github.com/majorsilence/MPlayerControl)|MPlayer c# .net library||
 |35|[@rprouse](https://github.com/rprouse)/[**GitHubExtension**](https://github.com/rprouse/GitHubExtension)|A visual studio extension for interacting with GitHub.||
 |34|[@Redth](https://github.com/Redth)/[**Resizetizer**](https://github.com/Redth/Resizetizer)|Easily automateable Image resizing for your Xamarin.iOS and Xamarin.Android app assets!||
 |34|[@aritchie](https://github.com/aritchie)/[**sensors**](https://github.com/aritchie/sensors)|Reactive mobile device sensors plugin for iOS, Android, & UWP. Support sensors - accelerometer, ambient light, barometer, compass, gyroscope, magnetometer, pedometer, and proximity||
+|34|[@juhgiyo](https://github.com/juhgiyo)/[**EpServerEngine.cs**](https://github.com/juhgiyo/EpServerEngine.cs)|Visual C# IOCP TCP Server/Client Engine|[:arrow_upper_right:](http://www.codeproject.com/Articles/832818/EpServerEngine-cs-A-lightweight-IOCP-TCP-Template)|
 |33|[@Redth](https://github.com/Redth)/[**WshLst**](https://github.com/Redth/WshLst)|Wish List App for Xamarin Developer Showdown||
 |33|[@jongallant](https://github.com/jongallant)/[**UnityColorPicker**](https://github.com/jongallant/UnityColorPicker)|A standalone color picker asset for Unity||
-|33|[@juhgiyo](https://github.com/juhgiyo)/[**EpServerEngine.cs**](https://github.com/juhgiyo/EpServerEngine.cs)|Visual C# IOCP TCP Server/Client Engine|[:arrow_upper_right:](http://www.codeproject.com/Articles/832818/EpServerEngine-cs-A-lightweight-IOCP-TCP-Template)|
 |33|[@spouliot](https://github.com/spouliot)/[**airplay**](https://github.com/spouliot/airplay)|AirPlay hacks in C#||
 |31|[@KPDwyer](https://github.com/KPDwyer)/[**SpriteMaker**](https://github.com/KPDwyer/SpriteMaker)|Tool for making sprites in Unity||
 |31|[@Redth](https://github.com/Redth)/[**Android.Signature.Tool**](https://github.com/Redth/Android.Signature.Tool)|Simple GUI tool for Mac and Windows to help find the SHA1 and MD5 hashes of your Android keystore's and apk's||
 |30|[@dcomartin](https://github.com/dcomartin)/[**Hangfire.MediatR.Demo**](https://github.com/dcomartin/Hangfire.MediatR.Demo)||[:arrow_upper_right:](http://codeopinion.com/background-commands-mediatr-hangfire/)|
 |30|[@developwithpassion](https://github.com/developwithpassion)/[**developwithpassion.specifications**](https://github.com/developwithpassion/developwithpassion.specifications)|||
+|30|[@jongallant](https://github.com/jongallant)/[**Unity-Bullet-Hell**](https://github.com/jongallant/Unity-Bullet-Hell)|An extremely efficient projectile generator for unity.||
 |30|[@jpaulm](https://github.com/jpaulm)/[**csharpfbp**](https://github.com/jpaulm/csharpfbp)|C# Implementation of Flow-Based Programming (FBP)|[:arrow_upper_right:](http://www.jpaulmorrison.com/fbp/)|
 |30|[@juhgiyo](https://github.com/juhgiyo)/[**EpForceDirectedGraph.cs**](https://github.com/juhgiyo/EpForceDirectedGraph.cs)|A 2D/3D force directed graph algorithm in C#|[:arrow_upper_right:](http://www.codeproject.com/Articles/833043/EpForceDirectedGraph-cs-A-D-D-force-directed-gra)|
 |30|[@nothingmn](https://github.com/nothingmn)/[**AGENT.Contrib**](https://github.com/nothingmn/AGENT.Contrib)|A set of useful class libraries which should help folks create amazing Faces and Apps for the AGENT SmartWatch.|[:arrow_upper_right:](http://forums.agentwatches.com/index.php?/topic/22-agentcontrib-project/)|
+|30|[@nwoltman](https://github.com/nwoltman)/[**srt-to-vtt-converter**](https://github.com/nwoltman/srt-to-vtt-converter)|A simple application for quickly converting subtitle files from SubRib (.srt) format to WebVTT (.vtt) format.||
 |29|[@DonSchenck](https://github.com/DonSchenck)/[**DotNetOnLinux**](https://github.com/DonSchenck/DotNetOnLinux)|Demonstrating how to get .NET up and running on Linux, including sample code.||
-|29|[@nwoltman](https://github.com/nwoltman)/[**srt-to-vtt-converter**](https://github.com/nwoltman/srt-to-vtt-converter)|A simple application for quickly converting subtitle files from SubRib (.srt) format to WebVTT (.vtt) format.||
+|28|[@JamieSinn](https://github.com/JamieSinn)/[**CSA-USB-Tool**](https://github.com/JamieSinn/CSA-USB-Tool)|Tool to download all files in a given FIRST season needed to support teams.||
 |28|[@agbell](https://github.com/agbell)/[**attribute-based-caching**](https://github.com/agbell/attribute-based-caching)|Cache expensive methods calls with a declarative attribute. No custom code required. Configure caching method. |[:arrow_upper_right:](https://github.com/agbell/attribute-based-caching)|
 |28|[@rnicoll](https://github.com/rnicoll)/[**ncrypto-currency-exchange**](https://github.com/rnicoll/ncrypto-currency-exchange)|C# library for calling crypto currency trading APIs (i.e. Cryptsy)||
+|27|[@CaptainCodeman](https://github.com/CaptainCodeman)/[**mongo-queue**](https://github.com/CaptainCodeman/mongo-queue)|Simple Service Bus / Message Queue with MongoDB|[:arrow_upper_right:](http://captaincodeman.com/2011/05/28/simple-service-bus-message-queue-mongodb/)|
 |27|[@dcomartin](https://github.com/dcomartin)/[**PracticalOrleans**](https://github.com/dcomartin/PracticalOrleans)|Blog Post Series|[:arrow_upper_right:](https://codeopinion.com/practical-microsoft-orleans/)|
-|26|[@CaptainCodeman](https://github.com/CaptainCodeman)/[**mongo-queue**](https://github.com/CaptainCodeman/mongo-queue)|Simple Service Bus / Message Queue with MongoDB|[:arrow_upper_right:](http://captaincodeman.com/2011/05/28/simple-service-bus-message-queue-mongodb/)|
 |26|[@ChrisAdderley](https://github.com/ChrisAdderley)/[**StationPartsExpansionRedux**](https://github.com/ChrisAdderley/StationPartsExpansionRedux)|Extensive set of space station parts for Kerbal Space Program||
-|26|[@JamieSinn](https://github.com/JamieSinn)/[**CSA-USB-Tool**](https://github.com/JamieSinn/CSA-USB-Tool)|Tool to download all files in a given FIRST season needed to support teams.||
 |26|[@dcomartin](https://github.com/dcomartin)/[**AspNetSelfHostDemo**](https://github.com/dcomartin/AspNetSelfHostDemo)|Demo of a ASP.NET Self Hosted application.||
-|26|[@jongallant](https://github.com/jongallant)/[**Unity-Bullet-Hell**](https://github.com/jongallant/Unity-Bullet-Hell)|An extremely efficient projectile generator for unity.||
 |26|[@spouliot](https://github.com/spouliot)/[**Andr.Unit**](https://github.com/spouliot/Andr.Unit)|NUnitLite Test Runner for Mono for Android||
 |25|[@sapiens](https://github.com/sapiens)/[**DominoEventStore**](https://github.com/sapiens/DominoEventStore)|Lightweight Event Store for .Net Core||
 |25|[@spouliot](https://github.com/spouliot)/[**svgpath2code**](https://github.com/spouliot/svgpath2code)|SVG path to source code conversion library, tools and sample||
 |25|[@uken](https://github.com/uken)/[**mooble**](https://github.com/uken/mooble)|Static Analysis For Unity Scenes & Prefabs||
 |24|[@darrelmiller](https://github.com/darrelmiller)/[**conference-api**](https://github.com/darrelmiller/conference-api)|||
+|24|[@gsimardnet](https://github.com/gsimardnet)/[**PowerQueryNet**](https://github.com/gsimardnet/PowerQueryNet)|Run M Language (Power Query Formula Language) from .NET (C#)||
 |24|[@pseudomuto](https://github.com/pseudomuto)/[**muto-mark**](https://github.com/pseudomuto/muto-mark)|A Mark Down Viewer for Windows||
 |23|[@LazoCoder](https://github.com/LazoCoder)/[**Image-Processing-Library**](https://github.com/LazoCoder/Image-Processing-Library)|Library for processing and manipulating images.||
 |23|[@Redth](https://github.com/Redth)/[**GCM.Client**](https://github.com/Redth/GCM.Client)|[DEPRECATED] Add Google Cloud Messaging to your Xamarin.Android application||
 |23|[@Redth](https://github.com/Redth)/[**GCMSharp**](https://github.com/Redth/GCMSharp)|Google Cloud Messaging Client & Server Libraries ported to C#||
-|23|[@gsimardnet](https://github.com/gsimardnet)/[**PowerQueryNet**](https://github.com/gsimardnet/PowerQueryNet)|Run M Language (Power Query Formula Language) from .NET (C#)||
 |22|[@KPDwyer](https://github.com/KPDwyer)/[**TextMeshEffects**](https://github.com/KPDwyer/TextMeshEffects)|Extending BaseMeshEffect for Unity's Text component||
 |22|[@MohawkMEDIC](https://github.com/MohawkMEDIC)/[**omrmarkengine**](https://github.com/MohawkMEDIC/omrmarkengine)|This project is designed to allow easy creation of OMR (Optical Mark Recognition) templates and provides a bulk scanner which can be used for processing large amounts of images from a tray fed scanner.||
 |22|[@Rintagi](https://github.com/Rintagi)/[**Low-Code-Development-Platform**](https://github.com/Rintagi/Low-Code-Development-Platform)|Rintagi is the world's first fully open source low-code development platform. Build responsive mission-critical database systems with beautiful web interface. The only code you need to worry about is unique business rules on three tiers. Both High Productivity and High Control on a patented self-generating platform.|[:arrow_upper_right:](https://www.rintagi.com)|
@@ -166,13 +166,13 @@
 |15|[@MattRix](https://github.com/MattRix)/[**Tether**](https://github.com/MattRix/Tether)|Tether - A game made for TOJam8|[:arrow_upper_right:](http://struct.ca/games/tether)|
 |14|[@ChevyRay](https://github.com/ChevyRay)/[**RectanglePacker**](https://github.com/ChevyRay/RectanglePacker)|A simple rectangle packer for C#. Designed for packing bitmaps into an atlas to be used for OpenGL rendering.||
 |14|[@Redth](https://github.com/Redth)/[**JabbRIsMobile**](https://github.com/Redth/JabbRIsMobile)|MvvmCross based set of mobile apps for JabbR||
+|14|[@vanZeben](https://github.com/vanZeben)/[**BeatSaberOnline**](https://github.com/vanZeben/BeatSaberOnline)|This mod heavily improves the online experience in Beat Saber.||
 |13|[@Redth](https://github.com/Redth)/[**EggsToGo**](https://github.com/Redth/EggsToGo)|Xamarin Cross Platform mobile library for implementing Easter Eggs!||
 |13|[@SjB](https://github.com/SjB)/[**NAudio**](https://github.com/SjB/NAudio)|NAudio is an open source .NET audio and MIDI library, containing dozens of useful audio related classes intended to speed development of audio related utilities in .NET. It has been in development since 2001 and has grown to include a wide variety of features. While some parts of the library are relatively new and incomplete, the more mature features have undergone extensive testing and can be quickly used to add audio capabilities to an existing .NET application.|[:arrow_upper_right:](http://naudio.codeplex.com/)|
 |13|[@dd86k](https://github.com/dd86k)/[**FuckingClippy**](https://github.com/dd86k/FuckingClippy)|The standalone assistant||
 |13|[@jgoz](https://github.com/jgoz)/[**crossroads-net**](https://github.com/jgoz/crossroads-net)|Crossroads I/O bindings for .NET and Mono||
 |13|[@jongallant](https://github.com/jongallant)/[**WorldGeneratorPart2**](https://github.com/jongallant/WorldGeneratorPart2)|World Generator Tutorial Part 2 - Unity C#||
 |13|[@oliparson](https://github.com/oliparson)/[**infer-hmm**](https://github.com/oliparson/infer-hmm)|C# model definition for a hidden Markov model using Infer.NET. This code makes it easy to run approximate Bayesian inference over both the model parameters and states of a hidden Markov model.||
-|13|[@vanZeben](https://github.com/vanZeben)/[**BeatSaberOnline**](https://github.com/vanZeben/BeatSaberOnline)|This mod heavily improves the online experience in Beat Saber.||
 |12|[@ButchersBoy](https://github.com/ButchersBoy)/[**LegoInXamlToolkit**](https://github.com/ButchersBoy/LegoInXamlToolkit)|Lego.  Made out of XAML.||
 |12|[@Rohansi](https://github.com/Rohansi)/[**Californium**](https://github.com/Rohansi/Californium)|Californium is a 2D game engine utilizing C# and SFML.NET.||
 |12|[@darrelmiller](https://github.com/darrelmiller)/[**ApiRouter**](https://github.com/darrelmiller/ApiRouter)|Web API Message Handler that routes requests based on URI segments||
@@ -200,6 +200,7 @@
 |10|[@danielcrenna](https://github.com/danielcrenna)/[**reactive-pipes**](https://github.com/danielcrenna/reactive-pipes)|A thin library around Reactive Extensions to simplify writing evented applications in C#.||
 |10|[@iancooper](https://github.com/iancooper)/[**ServiceDiscovery-Tutorial**](https://github.com/iancooper/ServiceDiscovery-Tutorial)|||
 |10|[@joedf](https://github.com/joedf)/[**HWSEdit**](https://github.com/joedf/HWSEdit)|Hammerwatch Save Editor|[:arrow_upper_right:](http://hammerwatch.com/forum/index.php?topic=2197.0)|
+|10|[@juhgiyo](https://github.com/juhgiyo)/[**EpLibrary.cs**](https://github.com/juhgiyo/EpLibrary.cs)|Visual C# Utility Library||
 |10|[@lextm](https://github.com/lextm)/[**msbuildlaunchpad**](https://github.com/lextm/msbuildlaunchpad)|MSBuild LaunchPad||
 |10|[@lextm](https://github.com/lextm)/[**obfuscar_example**](https://github.com/lextm/obfuscar_example)|Example repo of Obfuscar.||
 |10|[@lioncash](https://github.com/lioncash)/[**GameFormatReader**](https://github.com/lioncash/GameFormatReader)|Library for reading various game formats (mostly Nintendo ones).||
@@ -215,7 +216,6 @@
 |9|[@bordereast](https://github.com/bordereast)/[**arangodb-net-core**](https://github.com/bordereast/arangodb-net-core)|DotNetCore ArangoDB Driver||
 |9|[@eddy5641](https://github.com/eddy5641)/[**LegacyPVP**](https://github.com/eddy5641/LegacyPVP)|League of legends custom client, that is based of LegendaryClient and Wintermint|[:arrow_upper_right:](http://eddy5641.github.io/LegacyPVP/)|
 |9|[@iancooper](https://github.com/iancooper)/[**Styles**](https://github.com/iancooper/Styles)|Tutorial code for an overview of architectural styles in .NET||
-|9|[@juhgiyo](https://github.com/juhgiyo)/[**EpLibrary.cs**](https://github.com/juhgiyo/EpLibrary.cs)|Visual C# Utility Library||
 |9|[@lextm](https://github.com/lextm)/[**touchmousemate**](https://github.com/lextm/touchmousemate)|Utility that adds more features to Microsoft Touch Mouse (no longer maintained, more info at http://www.lextm.com/2012/07/my-last-post-on-touch-mouse-mate.html)|[:arrow_upper_right:](http://touchmousemate.codeplex.com)|
 |9|[@mlaban](https://github.com/mlaban)/[**IFCTest**](https://github.com/mlaban/IFCTest)|Infinite Flight Connector - Test Application||
 |9|[@nikhilnxvverma1](https://github.com/nikhilnxvverma1)/[**voronoi-fracture**](https://github.com/nikhilnxvverma1/voronoi-fracture)|Unity project that implements the voronoi fracture on a table top.|[:arrow_upper_right:](https://nikhilnxvverma1.github.io/voronoi-fracture/)|
@@ -225,6 +225,7 @@
 |9|[@rprouse](https://github.com/rprouse)/[**Exercism.VisualStudio**](https://github.com/rprouse/Exercism.VisualStudio)|A Visual Studio solution for working on Exercism.io projects.||
 |9|[@sjp](https://github.com/sjp)/[**GOMstreamer.NET**](https://github.com/sjp/GOMstreamer.NET)|A C# port of the GOMstreamer tool. Now inactive.|[:arrow_upper_right:](http://sjp.co.nz/projects/gomstreamer/)|
 |9|[@yetanotherchris](https://github.com/yetanotherchris)/[**SimpleGeneticAlgorithm**](https://github.com/yetanotherchris/SimpleGeneticAlgorithm)|Basic Genetic Algorithm example in C#||
+|9|[@yushulx](https://github.com/yushulx)/[**DirectShow.NET-Webcam-Barcode-Reader**](https://github.com/yushulx/DirectShow.NET-Webcam-Barcode-Reader)|||
 |8|[@Adoxio](https://github.com/Adoxio)/[**dynamics-portal-companion-app**](https://github.com/Adoxio/dynamics-portal-companion-app)|A starter template for a Dynamics 365 portal companion web application with Azure AD B2C authentication||
 |8|[@ChevyRay](https://github.com/ChevyRay)/[**GridMap**](https://github.com/ChevyRay/GridMap)|A simple Unity tool for organizing scenes into grids.||
 |8|[@ChrisAdderley](https://github.com/ChrisAdderley)/[**FarFutureTechnologies**](https://github.com/ChrisAdderley/FarFutureTechnologies)|||
@@ -242,7 +243,6 @@
 |8|[@svermeulen](https://github.com/svermeulen)/[**logexpert**](https://github.com/svermeulen/logexpert)|||
 |8|[@vizv](https://github.com/vizv)/[**TaiwuDecompiler**](https://github.com/vizv/TaiwuDecompiler)|太吾绘卷反编译器||
 |8|[@yetanotherchris](https://github.com/yetanotherchris)/[**SignalrTypescriptGenerator**](https://github.com/yetanotherchris/SignalrTypescriptGenerator)|A command line tool for generating typescript definitions for Signalr||
-|8|[@yushulx](https://github.com/yushulx)/[**DirectShow.NET-Webcam-Barcode-Reader**](https://github.com/yushulx/DirectShow.NET-Webcam-Barcode-Reader)|||
 |7|[@ChevyRay](https://github.com/ChevyRay)/[**PrefabPalette**](https://github.com/ChevyRay/PrefabPalette)|A simple tool for placing prefabs in your Unity scenes.||
 |7|[@ChevyRay](https://github.com/ChevyRay)/[**TileEditor3D**](https://github.com/ChevyRay/TileEditor3D)|A simple tool for creating 3D tilemaps. Please don't use it lol||
 |7|[@ChrisAdderley](https://github.com/ChrisAdderley)/[**HeatControl**](https://github.com/ChrisAdderley/HeatControl)|More radiators for Kerbal Space Program||

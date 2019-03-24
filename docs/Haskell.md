@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|151|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
+|153|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
 |148|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
 |130|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
 |130|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
@@ -16,7 +16,7 @@
 |26|[@fosskers](https://github.com/fosskers)/[**mapalgebra**](https://github.com/fosskers/mapalgebra)|Efficient, polymorphic Map Algebra in Haskell.||
 |23|[@singpolyma](https://github.com/singpolyma)/[**unexceptionalio**](https://github.com/singpolyma/unexceptionalio)|IO without any PseudoExceptions|[:arrow_upper_right:](http://hackage.haskell.org/package/unexceptionalio)|
 |22|[@csabahruska](https://github.com/csabahruska)/[**gpipe-quake3**](https://github.com/csabahruska/gpipe-quake3)|Quake 3 map viewer in Haskell using GPipe|[:arrow_upper_right:](https://wiki.haskell.org/GPipe)|
-|18|[@PhDP](https://github.com/PhDP)/[**Faun**](https://github.com/PhDP/Faun)|Experimental ML/AI code||
+|19|[@PhDP](https://github.com/PhDP)/[**Faun**](https://github.com/PhDP/Faun)|Experimental ML/AI code||
 |16|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm-old**](https://github.com/JoeyEremondi/haskelm-old)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
 |16|[@WillSewell](https://github.com/WillSewell)/[**benchpress**](https://github.com/WillSewell/benchpress)|Micro-benchmarking of Haskell code with detailed execution time statistics.||
 |15|[@fosskers](https://github.com/fosskers)/[**vectortiles**](https://github.com/fosskers/vectortiles)|A native Haskell codec for Mapbox Vector Tiles.||

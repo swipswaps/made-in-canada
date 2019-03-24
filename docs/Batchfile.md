@@ -6,4 +6,5 @@
 |14|[@dude719](https://github.com/dude719)/[**LLVM-Build-Windows**](https://github.com/dude719/LLVM-Build-Windows)|||
 |5|[@robgraves](https://github.com/robgraves)/[**dotfiles**](https://github.com/robgraves/dotfiles)|dotfiles||
 |4|[@dude719](https://github.com/dude719)/[**msbuild-llvm**](https://github.com/dude719/msbuild-llvm)|Fixes a small bug in the LLVM MSBuild targets||
+|3|[@teddy-gustiaux](https://github.com/teddy-gustiaux)/[**scripts**](https://github.com/teddy-gustiaux/scripts)|Set of miscellaneous scripts for personal use.||
 

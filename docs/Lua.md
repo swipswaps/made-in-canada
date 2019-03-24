@@ -1,19 +1,19 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|735|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
-|412|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
-|361|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
+|737|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
+|413|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
+|368|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
 |349|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
 |135|[@saks](https://github.com/saks)/[**lua-resty-repl**](https://github.com/saks/lua-resty-repl)|Interactive console (REPL) for Openresty and luajit code||
 |104|[@castorini](https://github.com/castorini)/[**MP-CNN-Torch**](https://github.com/castorini/MP-CNN-Torch)|Multi-Perspective Convolutional Neural Networks for modeling textual similarity (He et al., EMNLP 2015)||
 |92|[@forhappy](https://github.com/forhappy)/[**zklua**](https://github.com/forhappy/zklua)|Lua binding of apache zookeeper.||
 |56|[@karai17](https://github.com/karai17)/[**lapis-chan**](https://github.com/karai17/lapis-chan)|Image board software written in Lua using the Lapis web framework.|[:arrow_upper_right:](http://lapchan.moe)|
-|50|[@castorini](https://github.com/castorini)/[**NCE-CNN-Torch**](https://github.com/castorini/NCE-CNN-Torch)|Noise-Contrastive Estimation for Question Answering with Convolutional Neural Networks (Rao et al. CIKM 2016)||
+|51|[@castorini](https://github.com/castorini)/[**NCE-CNN-Torch**](https://github.com/castorini/NCE-CNN-Torch)|Noise-Contrastive Estimation for Question Answering with Convolutional Neural Networks (Rao et al. CIKM 2016)||
 |46|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**torch-in-action**](https://github.com/nicholas-leonard/torch-in-action)|Code for the Torch in Action book||
-|31|[@z3t0](https://github.com/z3t0)/[**zwm**](https://github.com/z3t0/zwm)|macOS window manager running on Hammerspoon||
+|32|[@z3t0](https://github.com/z3t0)/[**zwm**](https://github.com/z3t0/zwm)|macOS window manager running on Hammerspoon||
 |27|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**torchx**](https://github.com/nicholas-leonard/torchx)|torch extensions||
 |26|[@pelevesque](https://github.com/pelevesque)/[**draft**](https://github.com/pelevesque/draft)|A drafting module for LÖVE 2D. https://love2d.org||
-|24|[@slime73](https://github.com/slime73)/[**love-snippets**](https://github.com/slime73/love-snippets)|Snippets of Lua code useful in the LÖVE game framework.||
+|25|[@slime73](https://github.com/slime73)/[**love-snippets**](https://github.com/slime73/love-snippets)|Snippets of Lua code useful in the LÖVE game framework.||
 |22|[@castorini](https://github.com/castorini)/[**VDPWI-NN-Torch**](https://github.com/castorini/VDPWI-NN-Torch)|Very Deep Pairwise Word Interaction Neural Networks for modeling textual similarity (He and Lin, NAACL/HLT 2016)||
 |22|[@yrashk](https://github.com/yrashk)/[**nix-home**](https://github.com/yrashk/nix-home)|Nix Home Manager||
 |21|[@inikdom](https://github.com/inikdom)/[**seq2seq-chatbot**](https://github.com/inikdom/seq2seq-chatbot)|An implementation of Google's seq2seq architecture for building a chatbot.||
@@ -37,10 +37,10 @@
 |8|[@karai17](https://github.com/karai17)/[**lua-winged-edge**](https://github.com/karai17/lua-winged-edge)|Winged Edge Data Structure in Lua||
 |7|[@mverteuil](https://github.com/mverteuil)/[**windower4-addons**](https://github.com/mverteuil/windower4-addons)|FFXI Windower 4 Addons||
 |7|[@svermeulen](https://github.com/svermeulen)/[**nvim-moonmaker**](https://github.com/svermeulen/nvim-moonmaker)|Moonscript plugin support for neovim||
+|7|[@vocksel](https://github.com/vocksel)/[**prefabs**](https://github.com/vocksel/prefabs)|Roblox plugin for making reuseable assets and keeping them in sync across your game||
 |6|[@coolacid](https://github.com/coolacid)/[**ComputerCraft**](https://github.com/coolacid/ComputerCraft)|Scripts Related to Minecraft ComputerCraft||
-|6|[@dvdfu](https://github.com/dvdfu)/[**ld38**](https://github.com/dvdfu/ld38)|Ludum Dare 38 Jam submission|[:arrow_upper_right:](https://dvdfu.itch.io/honey-home)|
-|6|[@vocksel](https://github.com/vocksel)/[**prefabs**](https://github.com/vocksel/prefabs)|Roblox plugin for making reuseable assets and keeping them in sync across your game||
 |5|[@bbc](https://github.com/bbc)/[**rfc8450-vc2-dissector**](https://github.com/bbc/rfc8450-vc2-dissector)|Wireshark plugin to parse RTP streams implementing the VC-2 HQ payload specification||
+|5|[@dvdfu](https://github.com/dvdfu)/[**ld38**](https://github.com/dvdfu/ld38)|Ludum Dare 38 Jam submission|[:arrow_upper_right:](https://dvdfu.itch.io/honey-home)|
 |5|[@karai17](https://github.com/karai17)/[**Peep**](https://github.com/karai17/Peep)|View the contents of variables in LÖVE||
 |5|[@karai17](https://github.com/karai17)/[**love2d-input-manager**](https://github.com/karai17/love2d-input-manager)|AN input manager for the Love2D game engine||
 |5|[@karai17](https://github.com/karai17)/[**lua-bbcode**](https://github.com/karai17/lua-bbcode)|||

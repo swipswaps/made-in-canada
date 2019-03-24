@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1478|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
-|1389|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )|[:arrow_upper_right:](http://unibeautify.com/)|
+|1477|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
+|1390|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )|[:arrow_upper_right:](http://unibeautify.com/)|
 |427|[@keithamus](https://github.com/keithamus)/[**parallelshell**](https://github.com/keithamus/parallelshell)|Run multiple shell commands in parallel||
 |394|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls||
 |230|[@EtienneLem](https://github.com/EtienneLem)/[**skeleton**](https://github.com/EtienneLem/skeleton)|Express 3.0 framework-less app structure generator|[:arrow_upper_right:](http://etiennelem.github.com/skeleton)|
@@ -15,9 +15,9 @@
 |154|[@pcrawfor](https://github.com/pcrawfor)/[**iap_verifier**](https://github.com/pcrawfor/iap_verifier)|Node.js implementation of iOS In App Purchase receipt verification||
 |141|[@benbria](https://github.com/benbria)/[**coffee-coverage**](https://github.com/benbria/coffee-coverage)|Istanbul and JSCoverage-style instrumentation for CoffeeScript files.||
 |134|[@jescalan](https://github.com/jescalan)/[**accord**](https://github.com/jescalan/accord)|a unified interface for compiled languages and templates in javascript||
-|123|[@raganwald](https://github.com/raganwald)/[**method-combinators**](https://github.com/raganwald/method-combinators)|||
+|122|[@raganwald](https://github.com/raganwald)/[**method-combinators**](https://github.com/raganwald/method-combinators)|||
 |107|[@jaicab](https://github.com/jaicab)/[**Paraxify.js**](https://github.com/jaicab/Paraxify.js)|Progressive enhancement on parallax inspired by Spotify's|[:arrow_upper_right:](http://jaicab.com/Paraxify.js/)|
-|105|[@axiomzen](https://github.com/axiomzen)/[**Look-Alike**](https://github.com/axiomzen/Look-Alike)|A simple-yet-powerful KD-tree library for NodeJS, with support for lightning-fast k-Nearest Neighbour queries.||
+|104|[@axiomzen](https://github.com/axiomzen)/[**Look-Alike**](https://github.com/axiomzen/Look-Alike)|A simple-yet-powerful KD-tree library for NodeJS, with support for lightning-fast k-Nearest Neighbour queries.||
 |97|[@mohebifar](https://github.com/mohebifar)/[**angular-persian**](https://github.com/mohebifar/angular-persian)|:earth_asia: Persian tools for angular.js||
 |88|[@EtienneLem](https://github.com/EtienneLem)/[**atom-rdio**](https://github.com/EtienneLem/atom-rdio)|Adds Rdio controls to Atom and displays the currently playing song in the status bar|[:arrow_upper_right:](https://atom.io/packages/Rdio)|
 |85|[@ssokolow](https://github.com/ssokolow)/[**itad_importer**](https://github.com/ssokolow/itad_importer)|A userscript helper for importing game collections into IsThereAnyDeal.com|[:arrow_upper_right:](https://greasyfork.org/en/scripts/13887-isthereanydeal-com-collection-importer)|
@@ -35,7 +35,7 @@
 |41|[@raganwald](https://github.com/raganwald)/[**Underscore-Matchers-for-Jasmine**](https://github.com/raganwald/Underscore-Matchers-for-Jasmine)|||
 |38|[@dpo](https://github.com/dpo)/[**atom-python-debugger**](https://github.com/dpo/atom-python-debugger)|IDE-like Python debugger for Atom||
 |36|[@HappenApps](https://github.com/HappenApps)/[**quiver2html**](https://github.com/HappenApps/quiver2html)|A utility to convert a Quiver notebook or note to HTML.||
-|35|[@kmalakoff](https://github.com/kmalakoff)/[**json-serialize**](https://github.com/kmalakoff/json-serialize)|JSON-Serialize.js provides conventions and helpers to manage serialization and deserialization of instances to/from JSON||
+|36|[@kmalakoff](https://github.com/kmalakoff)/[**json-serialize**](https://github.com/kmalakoff/json-serialize)|JSON-Serialize.js provides conventions and helpers to manage serialization and deserialization of instances to/from JSON||
 |32|[@srsgores](https://github.com/srsgores)/[**generator-joomla-component**](https://github.com/srsgores/generator-joomla-component)|yeoman generator for joomla components||
 |31|[@raganwald](https://github.com/raganwald)/[**cafeaulife**](https://github.com/raganwald/cafeaulife)|Gosper’s HashLife in CoffeeScript|[:arrow_upper_right:](http://recursiveuniver.se)|
 |26|[@benbria](https://github.com/benbria)/[**node-bunyan-lumberjack**](https://github.com/benbria/node-bunyan-lumberjack)|Send bunyan logs to logstash using the lumberjack protocol.||
@@ -68,13 +68,13 @@
 |11|[@davemo](https://github.com/davemo)/[**react-battleplanner**](https://github.com/davemo/react-battleplanner)|react + tbs-battle-planner||
 |11|[@jescalan](https://github.com/jescalan)/[**machete**](https://github.com/jescalan/machete)|fast, beautiful slideshows in markdown|[:arrow_upper_right:](http://jenius.github.io/machete)|
 |11|[@kmalakoff](https://github.com/kmalakoff)/[**knockback-reference-app**](https://github.com/kmalakoff/knockback-reference-app)|Knockback.js Reference Application provides a sample architecure for a Knockback.js application including page routing, separation of Models/ViewModels/Views, and memory management.|[:arrow_upper_right:](http://kmalakoff.github.com/knockback-reference-app/)|
+|11|[@seblavoie](https://github.com/seblavoie)/[**adobe-illustrator-layer-renamer**](https://github.com/seblavoie/adobe-illustrator-layer-renamer)|Adobe Illustrator script to batch rename layers.||
 |11|[@unframework](https://github.com/unframework)/[**atomic-routes**](https://github.com/unframework/atomic-routes)|Decentralized nested client-side routing with Promises. Framework-agnostic, composable, simple: designed to work with component-based application UIs.||
 |10|[@Qard](https://github.com/Qard)/[**express-coffee**](https://github.com/Qard/express-coffee)|An express middleware to automatically compile and serve coffeescript files.||
 |10|[@amsul](https://github.com/amsul)/[**Load.allTheThings**](https://github.com/amsul/Load.allTheThings)|A simple JavaScript library to preload resources as they are needed|[:arrow_upper_right:](http://amsul.github.com/Load.allTheThings/)|
 |10|[@interstateone](https://github.com/interstateone)/[**polygons**](https://github.com/interstateone/polygons)|Boolean operations for polygons in Raphaël.js||
 |10|[@kieran](https://github.com/kieran)/[**votewell**](https://github.com/kieran/votewell)|strategic voting calculator||
 |10|[@raganwald](https://github.com/raganwald)/[**supervis.es**](https://github.com/raganwald/supervis.es)|||
-|10|[@seblavoie](https://github.com/seblavoie)/[**adobe-illustrator-layer-renamer**](https://github.com/seblavoie/adobe-illustrator-layer-renamer)|Adobe Illustrator script to batch rename layers.||
 |9|[@HappenApps](https://github.com/HappenApps)/[**quiver2playground**](https://github.com/HappenApps/quiver2playground)|A utility to convert a Quiver notebook or notes to Xcode 6 playground files.||
 |9|[@ankurp](https://github.com/ankurp)/[**WebChat**](https://github.com/ankurp/WebChat)|Video Conference like Video Chatting using Web RTC without Flash or Plugins|[:arrow_upper_right:](http://patellabs.com)|
 |9|[@brianmhunt](https://github.com/brianmhunt)/[**SnailMailAddressParser**](https://github.com/brianmhunt/SnailMailAddressParser)|A Javascript/Coffeescript library to parse address strings into their constituent elements ||
@@ -127,6 +127,7 @@
 |4|[@seblavoie](https://github.com/seblavoie)/[**adobe-illustrator-sublayers-cleaner**](https://github.com/seblavoie/adobe-illustrator-sublayers-cleaner)|Adobe Illustrator script to cleanup sublayers.||
 |4|[@stewart](https://github.com/stewart)/[**weather**](https://github.com/stewart/weather)|Basic weather app using HTML5 Geolocation|[:arrow_upper_right:](http://weather.andrew-stewart.ca/)|
 |4|[@travisjeffery](https://github.com/travisjeffery)/[**hal**](https://github.com/travisjeffery/hal)|Campfire bot.||
+|4|[@unframework](https://github.com/unframework)/[**eltrn**](https://github.com/unframework/eltrn)|WebAudio sampler/sequencer interface|[:arrow_upper_right:](http://unframework.github.io/eltrn/)|
 |3|[@RobLoach](https://github.com/RobLoach)/[**language-drupal**](https://github.com/RobLoach/language-drupal)|Drupal syntax highlighting and snippets for Atom.io||
 |3|[@adamhooper](https://github.com/adamhooper)/[**js-uglydb**](https://github.com/adamhooper/js-uglydb)|Pack large JSON objects into to small sizes by normalizing.||
 |3|[@aekeus](https://github.com/aekeus)/[**erasmas**](https://github.com/aekeus/erasmas)|node.js / coffee-script based MUSH / MUD||
@@ -154,7 +155,6 @@
 |3|[@sibartlett](https://github.com/sibartlett)/[**atom-raptorize**](https://github.com/sibartlett/atom-raptorize)|Raptorize your Atom.|[:arrow_upper_right:](https://atom.io/packages/raptorize)|
 |3|[@stephanos](https://github.com/stephanos)/[**screeny**](https://github.com/stephanos/screeny)|Heroku-hosted screenshot server||
 |3|[@toxtli](https://github.com/toxtli)/[**my-hubot**](https://github.com/toxtli/my-hubot)|Demo bot for hubot|[:arrow_upper_right:](http://www.carlostoxtli.com/#repo-hubot)|
-|3|[@unframework](https://github.com/unframework)/[**eltrn**](https://github.com/unframework/eltrn)|WebAudio sampler/sequencer interface|[:arrow_upper_right:](http://unframework.github.io/eltrn/)|
 |3|[@unframework](https://github.com/unframework)/[**satchel-game**](https://github.com/unframework/satchel-game)|HTML5 sample game using Angular.JS||
 |3|[@vizv](https://github.com/vizv)/[**dockerfile-editor**](https://github.com/vizv/dockerfile-editor)| Dockerfile Online Editor ||
 |3|[@walkah](https://github.com/walkah)/[**fritz**](https://github.com/walkah/fritz)|my personal robot||

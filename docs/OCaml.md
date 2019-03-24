@@ -20,4 +20,5 @@
 |3|[@jochasinga](https://github.com/jochasinga)/[**annihilation**](https://github.com/jochasinga/annihilation)|Implementation of the Bitcoin Merkle Tree||
 |3|[@tokenrove](https://github.com/tokenrove)/[**zookicker**](https://github.com/tokenrove/zookicker)|#1GAM February backup plan||
 |3|[@yawaramin](https://github.com/yawaramin)/[**bucklescript-cyclejs-test**](https://github.com/yawaramin/bucklescript-cyclejs-test)|||
+|3|[@yawaramin](https://github.com/yawaramin)/[**re-web**](https://github.com/yawaramin/re-web)|Experimental web framework for OCaml focusing on developer ergonomics||
 

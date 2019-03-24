@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |195|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
-|149|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
+|148|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |90|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|:rocket: Quickly init a slightly better Vim.||
 |51|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
 |50|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
@@ -9,17 +9,17 @@
 |40|[@ujihisa](https://github.com/ujihisa)/[**shadow.vim**](https://github.com/ujihisa/shadow.vim)|That's not the file. That's shadow.||
 |39|[@tommcdo](https://github.com/tommcdo)/[**vim-ninja-feet**](https://github.com/tommcdo/vim-ninja-feet)|Strike from the cursor to either end of a text object||
 |34|[@ujihisa](https://github.com/ujihisa)/[**vimshell-ssh**](https://github.com/ujihisa/vimshell-ssh)|the world first vimshell plugin that you can run "vim" command on ssh on vimshell||
-|30|[@tommcdo](https://github.com/tommcdo)/[**vim-fugitive-blame-ext**](https://github.com/tommcdo/vim-fugitive-blame-ext)|Extend tpope/vim-fugitive to show commit message on statusline in :Gblame||
+|29|[@tommcdo](https://github.com/tommcdo)/[**vim-fugitive-blame-ext**](https://github.com/tommcdo/vim-fugitive-blame-ext)|Extend tpope/vim-fugitive to show commit message on statusline in :Gblame||
 |24|[@gmarik](https://github.com/gmarik)/[**github-search.vim**](https://github.com/gmarik/github-search.vim)|search Github and clone repos with Vim|[:arrow_upper_right:](http://github.com/gmarik/github-search.vim)|
 |23|[@pangloss](https://github.com/pangloss)/[**vim-erlang**](https://github.com/pangloss/vim-erlang)|This repo has been superseded by the one at http://github.com/oscarh/vimerl which is maintained by the original author. Move along, nothing more to see here!||
 |23|[@svermeulen](https://github.com/svermeulen)/[**vim-extended-ft**](https://github.com/svermeulen/vim-extended-ft)|||
-|22|[@thayerwilliams](https://github.com/thayerwilliams)/[**vimbrant**](https://github.com/thayerwilliams/vimbrant)|A vibrantly dark dark colour scheme for Vim and other terminal applications||
 |22|[@ujihisa](https://github.com/ujihisa)/[**unite-locate**](https://github.com/ujihisa/unite-locate)|||
 |21|[@honza](https://github.com/honza)/[**writer.vim**](https://github.com/honza/writer.vim)|vim plugin for writing prose||
-|17|[@mrmrs](https://github.com/mrmrs)/[**vimrc**](https://github.com/mrmrs/vimrc)|||
+|21|[@thayerwilliams](https://github.com/thayerwilliams)/[**vimbrant**](https://github.com/thayerwilliams/vimbrant)|A vibrantly dark dark colour scheme for Vim and other terminal applications||
+|18|[@mrmrs](https://github.com/mrmrs)/[**vimrc**](https://github.com/mrmrs/vimrc)|||
 |17|[@tristen](https://github.com/tristen)/[**superman**](https://github.com/tristen/superman)|:art: A dark theme for Vim||
 |14|[@gmarik](https://github.com/gmarik)/[**sudo-gui.vim**](https://github.com/gmarik/sudo-gui.vim)|sudo GUI for a GUI vim|[:arrow_upper_right:](https://github.com/gmarik/sudo-gui.vim)|
-|13|[@tommcdo](https://github.com/tommcdo)/[**vim-lister**](https://github.com/tommcdo/vim-lister)|A collection of commands for manipulating Vim's lists||
+|14|[@tommcdo](https://github.com/tommcdo)/[**vim-lister**](https://github.com/tommcdo/vim-lister)|A collection of commands for manipulating Vim's lists||
 |12|[@travisjeffery](https://github.com/travisjeffery)/[**snipmate-snippets**](https://github.com/travisjeffery/snipmate-snippets)|my snippets that I use with snipmate||
 |12|[@ujihisa](https://github.com/ujihisa)/[**quicklearn**](https://github.com/ujihisa/quicklearn)|A quickrun plugin to show intermediate codes||
 |12|[@ujihisa](https://github.com/ujihisa)/[**unite-font**](https://github.com/ujihisa/unite-font)|A unite plugin||

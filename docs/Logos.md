@@ -10,6 +10,7 @@
 |9|[@codyd51](https://github.com/codyd51)/[**Grams**](https://github.com/codyd51/Grams)|Use your Force Touch screen as a scale!||
 |8|[@codyd51](https://github.com/codyd51)/[**Docker**](https://github.com/codyd51/Docker)|a minimal dock extension tweak||
 |7|[@Sticktron](https://github.com/Sticktron)/[**FrontCamUnMirror**](https://github.com/Sticktron/FrontCamUnMirror)|Un-Mirror the Front Camera's Live Preview||
+|5|[@AppleBetas](https://github.com/AppleBetas)/[**JustinPlusPro**](https://github.com/AppleBetas/JustinPlusPro)|Justin + your phone. A match made in heaven.||
 |5|[@ca13ra1](https://github.com/ca13ra1)/[**ForceInPicture**](https://github.com/ca13ra1/ForceInPicture)|Programmatically enable picture in picture feature.||
 |5|[@ca13ra1](https://github.com/ca13ra1)/[**Twitter3DShortcuts**](https://github.com/ca13ra1/Twitter3DShortcuts)|Removes useless Twitter 3d touch items.||
 |5|[@codyd51](https://github.com/codyd51)/[**ClassyLock**](https://github.com/codyd51/ClassyLock)|A classy, reimagined lockscreen||
