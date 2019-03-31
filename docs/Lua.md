@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|737|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
-|413|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
-|368|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
+|742|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
+|416|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
+|370|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
 |349|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
 |135|[@saks](https://github.com/saks)/[**lua-resty-repl**](https://github.com/saks/lua-resty-repl)|Interactive console (REPL) for Openresty and luajit code||
 |104|[@castorini](https://github.com/castorini)/[**MP-CNN-Torch**](https://github.com/castorini/MP-CNN-Torch)|Multi-Perspective Convolutional Neural Networks for modeling textual similarity (He et al., EMNLP 2015)||
@@ -20,10 +20,10 @@
 |21|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**drmad**](https://github.com/nicholas-leonard/drmad)|Hyper-parameter Optimization with DrMAD and Hypero||
 |17|[@slime73](https://github.com/slime73)/[**Lua-Event**](https://github.com/slime73/Lua-Event)|Basic event system I have been using in my LÖVE games||
 |16|[@pelevesque](https://github.com/pelevesque)/[**skeletor**](https://github.com/pelevesque/skeletor)|A skeletal animation system for LÖVE 2D. https://love2d.org||
+|15|[@burningion](https://github.com/burningion)/[**crappy-product-generator**](https://github.com/burningion/crappy-product-generator)|Generate crappy products and reviews using Amazon's dataset|[:arrow_upper_right:](http://www.kpkaiser.com/machine-learning/training-neural-networks-to-generate-crappy-amazon-products/)|
 |15|[@karai17](https://github.com/karai17)/[**lua-obj**](https://github.com/karai17/lua-obj)|Load a Wavefront Object file into Lua||
 |14|[@jake100](https://github.com/jake100)/[**lua-state-machine**](https://github.com/jake100/lua-state-machine)|lua state machine taking advantage of first class functions.||
 |14|[@tpoisot](https://github.com/tpoisot)/[**dotfiles**](https://github.com/tpoisot/dotfiles)|dotfiles||
-|13|[@burningion](https://github.com/burningion)/[**crappy-product-generator**](https://github.com/burningion/crappy-product-generator)|Generate crappy products and reviews using Amazon's dataset|[:arrow_upper_right:](http://www.kpkaiser.com/machine-learning/training-neural-networks-to-generate-crappy-amazon-products/)|
 |13|[@pelevesque](https://github.com/pelevesque)/[**gamemath**](https://github.com/pelevesque/gamemath)|A collection of Lua math functions useful for video games.||
 |11|[@james2doyle](https://github.com/james2doyle)/[**Lico**](https://github.com/james2doyle/Lico)|Lico is Pico re-written using Luvit for Lua||
 |11|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**slides**](https://github.com/nicholas-leonard/slides)|Presentations||

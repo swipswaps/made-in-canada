@@ -10,7 +10,7 @@
 |28|[@mck-](https://github.com/mck-)/[**oneliner**](https://github.com/mck-/oneliner)|Extracts a one-liner from a piece of text.||
 |25|[@atgreen](https://github.com/atgreen)/[**lisp-openshift**](https://github.com/atgreen/lisp-openshift)|Run sbcl-powered lisp-based web apps on Red Hat's OpenShift|[:arrow_upper_right:](http://lisp2-atgreen.rhcloud.com)|
 |24|[@burtonsamograd](https://github.com/burtonsamograd)/[**sigil**](https://github.com/burtonsamograd/sigil)|A Parenscript to Javascript command line compiler and interpreter.||
-|19|[@tokenrove](https://github.com/tokenrove)/[**anaphora**](https://github.com/tokenrove/anaphora)|The anaphoric macro collection from Hell|[:arrow_upper_right:](https://common-lisp.net/project/anaphora/)|
+|20|[@tokenrove](https://github.com/tokenrove)/[**anaphora**](https://github.com/tokenrove/anaphora)|The anaphoric macro collection from Hell|[:arrow_upper_right:](https://common-lisp.net/project/anaphora/)|
 |18|[@inaimathi](https://github.com/inaimathi)/[**formlets**](https://github.com/inaimathi/formlets)|Automatically validating formlets for Hunchentoot + cl-who||
 |18|[@inaimathi](https://github.com/inaimathi)/[**house**](https://github.com/inaimathi/house)|Minimal asynchronous CL web server||
 |17|[@burtonsamograd](https://github.com/burtonsamograd)/[**rsa**](https://github.com/burtonsamograd/rsa)|The RSA Encryption Algorithm written in Common Lisp||
@@ -18,8 +18,8 @@
 |15|[@inaimathi](https://github.com/inaimathi)/[**fact-base**](https://github.com/inaimathi/fact-base)|Implementation of fact bases for Common Lisp||
 |15|[@thephoeron](https://github.com/thephoeron)/[**qgame**](https://github.com/thephoeron/qgame)|QGAME: Quantum Gate and Measurement Emulator, a quantum computer simulator||
 |15|[@thephoeron](https://github.com/thephoeron)/[**wolfcoin**](https://github.com/thephoeron/wolfcoin)|Common Lisp cryptocurrency client, protocol, and wallet||
+|11|[@thephoeron](https://github.com/thephoeron)/[**silver-sword**](https://github.com/thephoeron/silver-sword)|Common Lisp interface to D-Wave's Python Pack for adiabatic quantum computer energy programming|[:arrow_upper_right:](http://thephoeron.viewdocs.io/silver-sword)|
 |10|[@thephoeron](https://github.com/thephoeron)/[**cl-isaac**](https://github.com/thephoeron/cl-isaac)|Optimized Common Lisp version of Bob Jenkins' ISAAC-32 and ISAAC-64 algorithms, fast cryptographic random number generators.||
-|10|[@thephoeron](https://github.com/thephoeron)/[**silver-sword**](https://github.com/thephoeron/silver-sword)|Common Lisp interface to D-Wave's Python Pack for adiabatic quantum computer energy programming|[:arrow_upper_right:](http://thephoeron.viewdocs.io/silver-sword)|
 |7|[@atgreen](https://github.com/atgreen)/[**wrapilator**](https://github.com/atgreen/wrapilator)|Wraps verilator output in Common Lisp for testing digital logic in Lisp||
 |7|[@bbc](https://github.com/bbc)/[**bbcrd-brirs**](https://github.com/bbc/bbcrd-brirs)| An impulse response dataset for dynamic data-based auralisation of advanced sound systems||
 |7|[@thephoeron](https://github.com/thephoeron)/[**cl-edn**](https://github.com/thephoeron/cl-edn)|Common Lisp serialization library for the EDN format||

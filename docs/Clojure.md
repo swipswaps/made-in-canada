@@ -3,18 +3,18 @@
 |688|[@gf3](https://github.com/gf3)/[**secretary**](https://github.com/gf3/secretary)|A client-side router for ClojureScript.||
 |644|[@yogthos](https://github.com/yogthos)/[**Selmer**](https://github.com/yogthos/Selmer)|A fast, Django inspired template system in Clojure.||
 |540|[@takeoutweight](https://github.com/takeoutweight)/[**clojure-scheme**](https://github.com/takeoutweight/clojure-scheme)|Clojure to Scheme to C to the bare metal.||
-|458|[@Gonzih](https://github.com/Gonzih)/[**cljs-electron**](https://github.com/Gonzih/cljs-electron)|ClojureScript + Electron + Figwheel + Reagent  = ❤❤❤||
+|459|[@Gonzih](https://github.com/Gonzih)/[**cljs-electron**](https://github.com/Gonzih/cljs-electron)|ClojureScript + Electron + Figwheel + Reagent  = ❤❤❤||
 |393|[@yogthos](https://github.com/yogthos)/[**markdown-clj**](https://github.com/yogthos/markdown-clj)|Markdown parser in Clojure||
 |331|[@yogthos](https://github.com/yogthos)/[**migratus**](https://github.com/yogthos/migratus)|MIGRATE ALL THE THINGS!||
-|203|[@yogthos](https://github.com/yogthos)/[**memory-hole**](https://github.com/yogthos/memory-hole)|Memory Hole is a support issue organizer application||
-|177|[@adambard](https://github.com/adambard)/[**failjure**](https://github.com/adambard/failjure)|Monadic error utilities for general use in Clojure projects||
+|204|[@yogthos](https://github.com/yogthos)/[**memory-hole**](https://github.com/yogthos/memory-hole)|Memory Hole is a support issue organizer application||
+|180|[@adambard](https://github.com/adambard)/[**failjure**](https://github.com/adambard/failjure)|Monadic error utilities for general use in Clojure projects||
 |153|[@yogthos](https://github.com/yogthos)/[**yuggoth**](https://github.com/yogthos/yuggoth)|my blog engine (no longer maintained)|[:arrow_upper_right:](http://yogthos.net)|
 |126|[@yogthos](https://github.com/yogthos)/[**json-html**](https://github.com/yogthos/json-html)|Provide EDN/JSON and get a DOM node with a human representation of the data||
-|119|[@Gonzih](https://github.com/Gonzih)/[**glue**](https://github.com/Gonzih/glue)|Configure Vue.js components using ClojureScript, manage global state using Atoms.||
+|121|[@Gonzih](https://github.com/Gonzih)/[**glue**](https://github.com/Gonzih/glue)|Configure Vue.js components using ClojureScript, manage global state using Atoms.||
 |107|[@yogthos](https://github.com/yogthos)/[**instant-pdf**](https://github.com/yogthos/instant-pdf)|A reporting service which generates PDFs from JSON encoded text||
+|79|[@yogthos](https://github.com/yogthos)/[**mastodon-bot**](https://github.com/yogthos/mastodon-bot)|a bot for mirroring Twitter/Tumblr accounts and RSS feeds on Mastodon|[:arrow_upper_right:](https://mastodon.social/@newsbot)|
 |78|[@yogthos](https://github.com/yogthos)/[**config**](https://github.com/yogthos/config)|Library for managing environment variables in Clojure using EDN configuration files||
-|78|[@yogthos](https://github.com/yogthos)/[**mastodon-bot**](https://github.com/yogthos/mastodon-bot)|a bot for mirroring Twitter/Tumblr accounts and RSS feeds on Mastodon|[:arrow_upper_right:](https://mastodon.social/@newsbot)|
-|76|[@yogthos](https://github.com/yogthos)/[**json-to-pdf**](https://github.com/yogthos/json-to-pdf)|A Library for easily generating PDF documents given JSON markup||
+|78|[@yogthos](https://github.com/yogthos)/[**json-to-pdf**](https://github.com/yogthos/json-to-pdf)|A Library for easily generating PDF documents given JSON markup||
 |49|[@yogthos](https://github.com/yogthos)/[**compojure-template**](https://github.com/yogthos/compojure-template)|A Leiningen template for batteries included projects using Compojure.||
 |38|[@yogthos](https://github.com/yogthos)/[**clj-tetris**](https://github.com/yogthos/clj-tetris)|Example Tetris in Clojure||
 |38|[@yogthos](https://github.com/yogthos)/[**lein-asset-minifier**](https://github.com/yogthos/lein-asset-minifier)|Leiningen plugin for CSS/Js asset minifcation||
@@ -22,7 +22,7 @@
 |32|[@Gonzih](https://github.com/Gonzih)/[**feeds2imap.clj**](https://github.com/Gonzih/feeds2imap.clj)|Pull RSS/Atom feeds to your IMAP folders with Clojure on JVM.|[:arrow_upper_right:](http://feeds2imap.gonzih.me/)|
 |32|[@gf3](https://github.com/gf3)/[**CLJBIN**](https://github.com/gf3/CLJBIN)|A Clojure pastebin with code evaluation.|[:arrow_upper_right:](http://cljbin.com/)|
 |32|[@yogthos](https://github.com/yogthos)/[**clj-rss**](https://github.com/yogthos/clj-rss)|a library for generating RSS feeds||
-|29|[@yogthos](https://github.com/yogthos)/[**cljs-eval-example**](https://github.com/yogthos/cljs-eval-example)|Example of using ClojureSript eval with Reagent||
+|30|[@yogthos](https://github.com/yogthos)/[**cljs-eval-example**](https://github.com/yogthos/cljs-eval-example)|Example of using ClojureSript eval with Reagent||
 |26|[@yogthos](https://github.com/yogthos)/[**asset-minifier**](https://github.com/yogthos/asset-minifier)|a library to minify CSS/Js resources||
 |26|[@yogthos](https://github.com/yogthos)/[**gif-to-html**](https://github.com/yogthos/gif-to-html)|converts GIFs to HTML animation||
 |25|[@yogthos](https://github.com/yogthos)/[**reagent-example**](https://github.com/yogthos/reagent-example)|||
@@ -44,10 +44,10 @@
 |14|[@yogthos](https://github.com/yogthos)/[**reagent-secretary-example**](https://github.com/yogthos/reagent-secretary-example)|||
 |13|[@adambard](https://github.com/adambard)/[**lein-kotlinc**](https://github.com/adambard/lein-kotlinc)|Compile kotlin files from Leiningen||
 |13|[@onaio](https://github.com/onaio)/[**hatti**](https://github.com/onaio/hatti)|It views data! Note: this library is not maintained||
+|13|[@yogthos](https://github.com/yogthos)/[**graviton**](https://github.com/yogthos/graviton)|||
 |13|[@yogthos](https://github.com/yogthos)/[**krueger**](https://github.com/yogthos/krueger)|federated news||
 |13|[@yogthos](https://github.com/yogthos)/[**pg-feed-demo**](https://github.com/yogthos/pg-feed-demo)|example application for push notifications from PostgreSQL||
 |12|[@ujihisa](https://github.com/ujihisa)/[**cloft**](https://github.com/ujihisa/cloft)|minecraft server mod for ujihisa||
-|12|[@yogthos](https://github.com/yogthos)/[**graviton**](https://github.com/yogthos/graviton)|||
 |12|[@yogthos](https://github.com/yogthos)/[**swagger-service**](https://github.com/yogthos/swagger-service)|swagger-service tutorial using Duct||
 |11|[@adambard](https://github.com/adambard)/[**so-many-wordcounts**](https://github.com/adambard/so-many-wordcounts)|||
 |11|[@yogthos](https://github.com/yogthos)/[**ReagentPerf**](https://github.com/yogthos/ReagentPerf)|Reagent version of the VueReactPerf benchmark||

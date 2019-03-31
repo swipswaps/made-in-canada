@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|17257|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
+|17313|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
 |135|[@syl20bnr](https://github.com/syl20bnr)/[**evil-escape**](https://github.com/syl20bnr/evil-escape)|Customizable key sequence to escape from insert state and everything else in Emacs.||
 |117|[@burtonsamograd](https://github.com/burtonsamograd)/[**emacs-jit**](https://github.com/burtonsamograd/emacs-jit)|Emacs with an Emacs Lisp JIT (Just In Time) compiler using libjit.||
 |100|[@atgreen](https://github.com/atgreen)/[**paperless**](https://github.com/atgreen/paperless)|Emacs assisted PDF document filing||
@@ -18,7 +18,7 @@
 |32|[@jimeh](https://github.com/jimeh)/[**.emacs.d**](https://github.com/jimeh/.emacs.d)|My personal Emacs config with any quirks, oddities, bugs, and man-eating errors I live with on a daily basis.||
 |31|[@rudolfolah](https://github.com/rudolfolah)/[**angularjs-mode**](https://github.com/rudolfolah/angularjs-mode)|AngularJS utilities and major modes for Emacs (angular-mode for javascript, angular-html-mode for html templates)|[:arrow_upper_right:](http://rudolfolah.github.io/angularjs-mode)|
 |25|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs-elpa-mirror**](https://github.com/syl20bnr/spacemacs-elpa-mirror)|ELPA archive for Spacemacs packages.||
-|23|[@dpo](https://github.com/dpo)/[**ampl-mode**](https://github.com/dpo/ampl-mode)|Syntax highlighting mode for the AMPL modeling language||
+|24|[@dpo](https://github.com/dpo)/[**ampl-mode**](https://github.com/dpo/ampl-mode)|Syntax highlighting mode for the AMPL modeling language||
 |23|[@honza](https://github.com/honza)/[**dotfiles**](https://github.com/honza/dotfiles)|My awesome dotfiles.|[:arrow_upper_right:](https://github.com/honza/dotfiles)|
 |19|[@syl20bnr](https://github.com/syl20bnr)/[**vi-tilde-fringe**](https://github.com/syl20bnr/vi-tilde-fringe)|Display tildes on empty lines in the Emacs fringe a la Vi.||
 |16|[@travisjeffery](https://github.com/travisjeffery)/[**dotfiles**](https://github.com/travisjeffery/dotfiles)|@travisjeffery's dotfiles. vim, zsh, tmux||

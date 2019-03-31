@@ -2,7 +2,7 @@
 |---|---|---|---|
 |159|[@ktonon](https://github.com/ktonon)/[**elm-serverless**](https://github.com/ktonon/elm-serverless)|Deploy an elm HTTP API to AWS Lambda using serverless||
 |54|[@jadpole](https://github.com/jadpole)/[**jadpole.github.io**](https://github.com/jadpole/jadpole.github.io)||[:arrow_upper_right:](https://jadpole.github.io)|
-|35|[@jxxcarlson](https://github.com/jxxcarlson)/[**minilatex**](https://github.com/jxxcarlson/minilatex)|parse MiniLaTeX source text and render it into HTML||
+|36|[@jxxcarlson](https://github.com/jxxcarlson)/[**minilatex**](https://github.com/jxxcarlson/minilatex)|parse MiniLaTeX source text and render it into HTML||
 |24|[@diogob](https://github.com/diogob)/[**elm-workshop**](https://github.com/diogob/elm-workshop)|Elm + PostgREST workshop, building a simple database query user interface.||
 |17|[@ktonon](https://github.com/ktonon)/[**elm-serverless-demo**](https://github.com/ktonon/elm-serverless-demo)|elm-serverless demo for latest release||
 |12|[@chrisbolin](https://github.com/chrisbolin)/[**skycoins**](https://github.com/chrisbolin/skycoins)|🚁💰|[:arrow_upper_right:](http://bolin.co/skycoins)|
@@ -20,6 +20,7 @@
 |4|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-stat**](https://github.com/jxxcarlson/elm-stat)|Package for statistics and working with csv data.  See demo app in the examples folder||
 |3|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**ElmObjParser**](https://github.com/JoeyEremondi/ElmObjParser)|OBJ parsing and rendering tools for Elm||
 |3|[@dat2](https://github.com/dat2)/[**elm-tile-game**](https://github.com/dat2/elm-tile-game)|A tile game written in elm||
+|3|[@jxxcarlson](https://github.com/jxxcarlson)/[**meenylatex**](https://github.com/jxxcarlson/meenylatex)|Experimental version of MiniLatex package||
 |3|[@jxxcarlson](https://github.com/jxxcarlson)/[**minilatexDemo**](https://github.com/jxxcarlson/minilatexDemo)|Demo Elm app for MiniLatex||
 |3|[@jxxcarlson](https://github.com/jxxcarlson)/[**nautilus**](https://github.com/jxxcarlson/nautilus)|Generate Nautilus image using Elm||
 |3|[@ktonon](https://github.com/ktonon)/[**elm-test-extra**](https://github.com/ktonon/elm-test-extra)|Write concise tests for JSON decoders and more||

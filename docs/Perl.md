@@ -3,13 +3,13 @@
 |195|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|A repository of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. ||
 |164|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
 |123|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
-|122|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
+|123|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
 |101|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
 |98|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
 |79|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
 |71|[@mlangill](https://github.com/mlangill)/[**microbiome_helper**](https://github.com/mlangill/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |62|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
-|43|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
+|44|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
 |42|[@yanick](https://github.com/yanick)/[**git-cpan-patch**](https://github.com/yanick/git-cpan-patch)|System to write patches against CPAN modules via Git||
 |40|[@briandfoy](https://github.com/briandfoy)/[**Learning-Perl-Sample-Files**](https://github.com/briandfoy/Learning-Perl-Sample-Files)|Extra files for use with Learning Perl|[:arrow_upper_right:](http://www.learning-perl.org/)|
 |35|[@moshen](https://github.com/moshen)/[**Image-Term256Color**](https://github.com/moshen/Image-Term256Color)|Display images in your 256 color terminal! (kinda) - superseded by https://github.com/moshen/gotermimg||
@@ -101,6 +101,7 @@
 |4|[@bricas](https://github.com/bricas)/[**gedcom-foaf**](https://github.com/bricas/gedcom-foaf)|Output FOAF files from Gedcom individuals and families|[:arrow_upper_right:](http://search.cpan.org/dist/Gedcom-FOAF/)|
 |4|[@bricas](https://github.com/bricas)/[**www-opensearch**](https://github.com/bricas/www-opensearch)|Search A9 OpenSearch compatible engines|[:arrow_upper_right:](http://metacpan.org/release/WWW-OpenSearch/)|
 |4|[@gorhill](https://github.com/gorhill)/[**paxml2kpxxml**](https://github.com/gorhill/paxml2kpxxml)|Password Agent XML file to Keepass X XML file||
+|4|[@hoytech](https://github.com/hoytech)/[**Alien-Electron**](https://github.com/hoytech/Alien-Electron)|Download and install the electron GUI framework||
 |4|[@jandubois](https://github.com/jandubois)/[**popclipext**](https://github.com/jandubois/popclipext)|My PopClip Extensions||
 |4|[@jandubois](https://github.com/jandubois)/[**win32-daemon**](https://github.com/jandubois/win32-daemon)|||
 |4|[@jandubois](https://github.com/jandubois)/[**win32-eventlog**](https://github.com/jandubois/win32-eventlog)|||
@@ -145,7 +146,6 @@
 |3|[@danijar](https://github.com/danijar)/[**dotfiles**](https://github.com/danijar/dotfiles)|My linux configuration files||
 |3|[@davepagurek](https://github.com/davepagurek)/[**Trestle**](https://github.com/davepagurek/Trestle)|A light, extensible Perl CMS||
 |3|[@delano](https://github.com/delano)/[**data-all**](https://github.com/delano/data-all)|A Perl module that provides access to data in many formats from many places|[:arrow_upper_right:](http://search.cpan.org/~delano/Data-All/)|
-|3|[@hoytech](https://github.com/hoytech)/[**Alien-Electron**](https://github.com/hoytech/Alien-Electron)|Download and install the electron GUI framework||
 |3|[@hoytech](https://github.com/hoytech)/[**Alien-LMDB**](https://github.com/hoytech/Alien-LMDB)|Build and install the LMDB embedded database||
 |3|[@hoytech](https://github.com/hoytech)/[**Alien-Thrust**](https://github.com/hoytech/Alien-Thrust)|Download and install the Thrust cross-platform GUI framework||
 |3|[@hoytech](https://github.com/hoytech)/[**IO-Vectored**](https://github.com/hoytech/IO-Vectored)|Read from or write to multiple buffers at once||

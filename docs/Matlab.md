@@ -4,8 +4,8 @@
 |42|[@bmcfee](https://github.com/bmcfee)/[**mlr**](https://github.com/bmcfee/mlr)|Metric Learning to Rank||
 |39|[@dengwirda](https://github.com/dengwirda)/[**mesh2d**](https://github.com/dengwirda/mesh2d)|MESH2D is a MATLAB-based Delaunay mesh generator for two-dimensional geometries.||
 |31|[@kmyid](https://github.com/kmyid)/[**TILDE**](https://github.com/kmyid/TILDE)|Repository for "TILDE: A Temporally Invariant Learned DEtector", CVPR2015||
-|28|[@MIT-LCP](https://github.com/MIT-LCP)/[**critical-data-book**](https://github.com/MIT-LCP/critical-data-book)|Code repository for the critical data book||
-|27|[@ashafaei](https://github.com/ashafaei)/[**ubc3v**](https://github.com/ashafaei/ubc3v)|The Matlab toolkit for UBC 3 View Dataset.|[:arrow_upper_right:](http://www.cs.ubc.ca/~shafaei/homepage/projects/crv16.php)|
+|29|[@MIT-LCP](https://github.com/MIT-LCP)/[**critical-data-book**](https://github.com/MIT-LCP/critical-data-book)|Code repository for the critical data book||
+|28|[@ashafaei](https://github.com/ashafaei)/[**ubc3v**](https://github.com/ashafaei/ubc3v)|The Matlab toolkit for UBC 3 View Dataset.|[:arrow_upper_right:](http://www.cs.ubc.ca/~shafaei/homepage/projects/crv16.php)|
 |27|[@sunghbae](https://github.com/sunghbae)/[**dcgan-matconvnet**](https://github.com/sunghbae/dcgan-matconvnet)|Deep Convolutional Generative Adversarial Network (DCGAN) implementation on MatConvNet (compliant to any MCN version)||
 |22|[@Riashat](https://github.com/Riashat)/[**Policy-Gradient-Reinforcement-Learning**](https://github.com/Riashat/Policy-Gradient-Reinforcement-Learning)|||
 |22|[@rayryeng](https://github.com/rayryeng)/[**equi2cubic**](https://github.com/rayryeng/equi2cubic)|MATLAB script that converts equirectangular images into six cube faces||

@@ -1,18 +1,19 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|568|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
-|401|[@mirego](https://github.com/mirego)/[**accent**](https://github.com/mirego/accent)|▴ Open-source, self-hosted, developer-oriented translation tool|[:arrow_upper_right:](https://www.accent.reviews)|
-|248|[@jarednorman](https://github.com/jarednorman)/[**canada**](https://github.com/jarednorman/canada)|Easy permission definitions in Elixir apps!|[:arrow_upper_right:](https://github.com/jarednorman/canada)|
-|248|[@joshnuss](https://github.com/joshnuss)/[**design-patterns-in-elixir**](https://github.com/joshnuss/design-patterns-in-elixir)|Common design patterns in Elixir||
+|569|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
+|405|[@mirego](https://github.com/mirego)/[**accent**](https://github.com/mirego/accent)|ᐱ Open-source, self-hosted, developer-oriented translation tool|[:arrow_upper_right:](https://www.accent.reviews)|
+|250|[@jarednorman](https://github.com/jarednorman)/[**canada**](https://github.com/jarednorman/canada)|Easy permission definitions in Elixir apps!|[:arrow_upper_right:](https://github.com/jarednorman/canada)|
+|250|[@joshnuss](https://github.com/joshnuss)/[**design-patterns-in-elixir**](https://github.com/joshnuss/design-patterns-in-elixir)|Common design patterns in Elixir||
 |222|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
-|182|[@jkakar](https://github.com/jkakar)/[**aws-elixir**](https://github.com/jkakar/aws-elixir)|AWS clients for Elixir||
-|172|[@expede](https://github.com/expede)/[**algae**](https://github.com/expede/algae)|Bootstrapped algebraic data types for Elixir|[:arrow_upper_right:](https://hex.pm/packages/algae)|
-|162|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
+|184|[@jkakar](https://github.com/jkakar)/[**aws-elixir**](https://github.com/jkakar/aws-elixir)|AWS clients for Elixir||
+|173|[@expede](https://github.com/expede)/[**algae**](https://github.com/expede/algae)|Bootstrapped algebraic data types for Elixir|[:arrow_upper_right:](https://hex.pm/packages/algae)|
+|163|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
 |155|[@talentdeficit](https://github.com/talentdeficit)/[**exjsx**](https://github.com/talentdeficit/exjsx)|json for elixir||
-|144|[@joshnuss](https://github.com/joshnuss)/[**commerce_billing**](https://github.com/joshnuss/commerce_billing)|A payment processing library for Elixir||
-|126|[@GesJeremie](https://github.com/GesJeremie)/[**faker-elixir**](https://github.com/GesJeremie/faker-elixir)|:droplet: FakerElixir generates fake data for you. |[:arrow_upper_right:](https://hexdocs.pm/faker_elixir_octopus/FakerElixir.html)|
-|95|[@joshnuss](https://github.com/joshnuss)/[**xml_builder**](https://github.com/joshnuss/xml_builder)|Elixir library for generating XML||
-|75|[@expede](https://github.com/expede)/[**type_class**](https://github.com/expede/type_class)|(Semi-)principled type classes for Elixir|[:arrow_upper_right:](https://hex.pm/packages/type_class)|
+|145|[@joshnuss](https://github.com/joshnuss)/[**commerce_billing**](https://github.com/joshnuss/commerce_billing)|A payment processing library for Elixir||
+|127|[@GesJeremie](https://github.com/GesJeremie)/[**faker-elixir**](https://github.com/GesJeremie/faker-elixir)|:droplet: FakerElixir generates fake data for you. |[:arrow_upper_right:](https://hexdocs.pm/faker_elixir_octopus/FakerElixir.html)|
+|96|[@joshnuss](https://github.com/joshnuss)/[**xml_builder**](https://github.com/joshnuss/xml_builder)|Elixir library for generating XML||
+|82|[@mirego](https://github.com/mirego)/[**elixir-boilerplate**](https://github.com/mirego/elixir-boilerplate)|⚗ The stable base upon which we build our Elixir projects at Mirego|[:arrow_upper_right:](https://open.mirego.com)|
+|77|[@expede](https://github.com/expede)/[**type_class**](https://github.com/expede/type_class)|(Semi-)principled type classes for Elixir|[:arrow_upper_right:](https://hex.pm/packages/type_class)|
 |67|[@EQuimper](https://github.com/EQuimper)/[**CodeChallenge**](https://github.com/EQuimper/CodeChallenge)|All my thinking about some code challenge and Free Code Camps||
 |65|[@matehat](https://github.com/matehat)/[**cqex**](https://github.com/matehat/cqex)|Idiomatic Cassandra client for Elixir||
 |62|[@jarednorman](https://github.com/jarednorman)/[**bugsnag-elixir**](https://github.com/jarednorman/bugsnag-elixir)|An Elixir interface to the Bugsnag API|[:arrow_upper_right:](https://hex.pm/packages/bugsnag)|
@@ -53,6 +54,7 @@
 |8|[@houshuang](https://github.com/houshuang)/[**elixir-prelude**](https://github.com/houshuang/elixir-prelude)|The ruby2elixir/elixir_prelude repo is now the main repo|[:arrow_upper_right:](https://github.com/ruby2elixir/elixir_prelude)|
 |8|[@quiqupltd](https://github.com/quiqupltd)/[**libelection**](https://github.com/quiqupltd/libelection)|Library to perform leader election in a cluster of containerized Elixir nodes||
 |8|[@remiprev](https://github.com/remiprev)/[**plug_best**](https://github.com/remiprev/plug_best)|PlugBest parses HTTP “Accept-*” headers and returns the best match based on a list of values.|[:arrow_upper_right:](https://hex.pm/packages/plug_best)|
+|8|[@remiprev](https://github.com/remiprev)/[**plug_canonical_host**](https://github.com/remiprev/plug_canonical_host)|PlugCanonicalHost ensures that all requests are served by a single canonical host.|[:arrow_upper_right:](https://hex.pm/packages/plug_canonical_host)|
 |8|[@yrashk](https://github.com/yrashk)/[**validatex**](https://github.com/yrashk/validatex)|Moving over to https://github.com/ElixirWerkz/validatex||
 |7|[@QuiqUpLTD](https://github.com/QuiqUpLTD)/[**libelection**](https://github.com/QuiqUpLTD/libelection)|Library to perform leader election in a cluster of containerized Elixir nodes||
 |7|[@aforward](https://github.com/aforward)/[**elixir_nats**](https://github.com/aforward/elixir_nats)|Elixir client for NATS, the cloud native messaging system. https://nats.io||
@@ -60,17 +62,15 @@
 |7|[@houshuang](https://github.com/houshuang)/[**plug_lti**](https://github.com/houshuang/plug_lti)|LTI Plug for Elixir||
 |7|[@joshnuss](https://github.com/joshnuss)/[**xuber2**](https://github.com/joshnuss/xuber2)|An example ridesharing app built with Elixir||
 |7|[@mirego](https://github.com/mirego)/[**dispatch**](https://github.com/mirego/dispatch)|🦀 Dispatch makes sure pull requests within a GitHub organization get reviewed by the right people.|[:arrow_upper_right:](https://open.mirego.com)|
-|7|[@remiprev](https://github.com/remiprev)/[**plug_canonical_host**](https://github.com/remiprev/plug_canonical_host)|PlugCanonicalHost ensures that all requests are served by a single canonical host.|[:arrow_upper_right:](https://hex.pm/packages/plug_canonical_host)|
 |7|[@yrashk](https://github.com/yrashk)/[**somlos**](https://github.com/yrashk/somlos)|Application upgrades DSL||
 |6|[@EQuimper](https://github.com/EQuimper)/[**instagram-clone-phoenix-react-native-demo**](https://github.com/EQuimper/instagram-clone-phoenix-react-native-demo)|||
 |6|[@barodeur](https://github.com/barodeur)/[**culdechouette**](https://github.com/barodeur/culdechouette)|Cul de Chouette online game from Kaamelott tv show||
 |6|[@expede](https://github.com/expede)/[**inspector_gadget**](https://github.com/expede/inspector_gadget)|Helpers for debugging & inspecting code flow||
 |6|[@xymbol](https://github.com/xymbol)/[**otp-examples**](https://github.com/xymbol/otp-examples)|Code examples for the “OTP, Concurrency and Testing Strategies” talk, as presented in Montreal Elixir, April 12th, 2017.|[:arrow_upper_right:](https://speakerdeck.com/xymbol/otp-concurrency-and-testing-strategies)|
+|5|[@EQuimper](https://github.com/EQuimper)/[**programming-phoenix-1.4**](https://github.com/EQuimper/programming-phoenix-1.4)|||
 |5|[@QuiqUpLTD](https://github.com/QuiqUpLTD)/[**ex_schedule**](https://github.com/QuiqUpLTD/ex_schedule)|Run tasks in a an interval basis||
 |5|[@aforward](https://github.com/aforward)/[**sadbus**](https://github.com/aforward/sadbus)|A dumb message bus for sharing data between microservices in a relatively decoupled mechanism||
 |5|[@leighhalliday](https://github.com/leighhalliday)/[**twitter_phoenix**](https://github.com/leighhalliday/twitter_phoenix)|||
-|5|[@mirego](https://github.com/mirego)/[**elixir-boilerplate**](https://github.com/mirego/elixir-boilerplate)|⚗ The stable base upon which we build our Elixir projects at Mirego|[:arrow_upper_right:](https://open.mirego.com)|
-|4|[@EQuimper](https://github.com/EQuimper)/[**programming-phoenix-1.4**](https://github.com/EQuimper/programming-phoenix-1.4)|||
 |4|[@GesJeremie](https://github.com/GesJeremie)/[**babysitting**](https://github.com/GesJeremie/babysitting)|:baby_bottle: Find your next babysitter|[:arrow_upper_right:](https://www.babysittinglondon.com/)|
 |4|[@aforward](https://github.com/aforward)/[**gen_template_api_client**](https://github.com/aforward/gen_template_api_client)|A template for building API clients to 3rd party REST applications||
 |4|[@aforward](https://github.com/aforward)/[**gen_template_ecto_service**](https://github.com/aforward/gen_template_ecto_service)|A template for building an elixir service based on a Postgres database using Ecto.||
@@ -88,6 +88,7 @@
 |3|[@azohra](https://github.com/azohra)/[**breadcrumbs**](https://github.com/azohra/breadcrumbs)|An Elixir application for generating release notes||
 |3|[@azohra](https://github.com/azohra)/[**elir**](https://github.com/azohra/elir)|running RSpec tests, from Elixir (prototype made for the Ruby Open Source Testing Code Hackathon 2017-09-22)||
 |3|[@bbc](https://github.com/bbc)/[**origin_simulator**](https://github.com/bbc/origin_simulator)|A tool to simulate a (flaky) upstream origin during load and stress tests.||
+|3|[@expede](https://github.com/expede)/[**up_run**](https://github.com/expede/up_run)|Course examples for Up & Running with Elixir & Phoenix||
 |3|[@harmon25](https://github.com/harmon25)/[**elixir_udp_server**](https://github.com/harmon25/elixir_udp_server)|Simple elixir supervised UDP Server||
 |3|[@houshuang](https://github.com/houshuang)/[**ot_text**](https://github.com/houshuang/ot_text)|||
 |3|[@jarednorman](https://github.com/jarednorman)/[**dismake**](https://github.com/jarednorman/dismake)|a "compiler" (as in `Mix.compilers`) for Elixir that just runs make||
