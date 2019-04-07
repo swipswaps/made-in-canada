@@ -1,44 +1,44 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|17112|[@bcit-ci](https://github.com/bcit-ci)/[**CodeIgniter**](https://github.com/bcit-ci/CodeIgniter)|Open Source PHP Framework (originally from EllisLab)|[:arrow_upper_right:](https://codeigniter.com/)|
-|12091|[@briannesbitt](https://github.com/briannesbitt)/[**Carbon**](https://github.com/briannesbitt/Carbon)|A simple PHP API extension for DateTime.|[:arrow_upper_right:](https://carbon.nesbot.com/)|
-|2906|[@michelf](https://github.com/michelf)/[**php-markdown**](https://github.com/michelf/php-markdown)|Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber.|[:arrow_upper_right:](http://michelf.ca/projects/php-markdown/)|
-|2466|[@cviebrock](https://github.com/cviebrock)/[**eloquent-sluggable**](https://github.com/cviebrock/eloquent-sluggable)|Easy creation of slugs for your Eloquent models in Laravel||
+|17136|[@bcit-ci](https://github.com/bcit-ci)/[**CodeIgniter**](https://github.com/bcit-ci/CodeIgniter)|Open Source PHP Framework (originally from EllisLab)|[:arrow_upper_right:](https://codeigniter.com/)|
+|12164|[@briannesbitt](https://github.com/briannesbitt)/[**Carbon**](https://github.com/briannesbitt/Carbon)|A simple PHP API extension for DateTime.|[:arrow_upper_right:](https://carbon.nesbot.com/)|
+|2912|[@michelf](https://github.com/michelf)/[**php-markdown**](https://github.com/michelf/php-markdown)|Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber.|[:arrow_upper_right:](http://michelf.ca/projects/php-markdown/)|
+|2472|[@cviebrock](https://github.com/cviebrock)/[**eloquent-sluggable**](https://github.com/cviebrock/eloquent-sluggable)|Easy creation of slugs for your Eloquent models in Laravel||
 |1567|[@bcit-ci](https://github.com/bcit-ci)/[**CodeIgniter4**](https://github.com/bcit-ci/CodeIgniter4)|Open Source PHP Framework (originally from EllisLab)||
-|1231|[@Pomax](https://github.com/Pomax)/[**BezierInfo-2**](https://github.com/Pomax/BezierInfo-2)|A from-the-ground-up rewrite of https://pomax.github.io/bezierinfo, using react, babel, webpack, and other modern things.||
+|1233|[@Pomax](https://github.com/Pomax)/[**BezierInfo-2**](https://github.com/Pomax/BezierInfo-2)|A from-the-ground-up rewrite of https://pomax.github.io/bezierinfo, using react, babel, webpack, and other modern things.||
 |1056|[@brandonwamboldt](https://github.com/brandonwamboldt)/[**utilphp**](https://github.com/brandonwamboldt/utilphp)|util.php is a collection of useful functions and snippets that you need or could use every day, designed to avoid conflicts with existing projects|[:arrow_upper_right:](http://brandonwamboldt.github.com/utilphp/)|
-|861|[@bmitch](https://github.com/bmitch)/[**churn-php**](https://github.com/bmitch/churn-php)|Discover files in need of refactoring.||
-|813|[@cviebrock](https://github.com/cviebrock)/[**sequel-pro-laravel-export**](https://github.com/cviebrock/sequel-pro-laravel-export)|A Sequel Pro bundle to generate Laravel migration files from existing tables.||
-|584|[@adamwathan](https://github.com/adamwathan)/[**blade-svg**](https://github.com/adamwathan/blade-svg)|||
+|862|[@bmitch](https://github.com/bmitch)/[**churn-php**](https://github.com/bmitch/churn-php)|Discover files in need of refactoring.||
+|812|[@cviebrock](https://github.com/cviebrock)/[**sequel-pro-laravel-export**](https://github.com/cviebrock/sequel-pro-laravel-export)|A Sequel Pro bundle to generate Laravel migration files from existing tables.||
+|587|[@adamwathan](https://github.com/adamwathan)/[**blade-svg**](https://github.com/adamwathan/blade-svg)|||
 |576|[@Pomax](https://github.com/Pomax)/[**bezierinfo**](https://github.com/Pomax/bezierinfo)|A Primer on Bezier Curves||
 |507|[@iliaal](https://github.com/iliaal)/[**php_excel**](https://github.com/iliaal/php_excel)|PHP Extension interface to the Excel writing/reading library|[:arrow_upper_right:](http://ilia.ws)|
 |486|[@willfarrell](https://github.com/willfarrell)/[**alfred-pkgman-workflow**](https://github.com/willfarrell/alfred-pkgman-workflow)|Package Repo Search||
-|465|[@gorhill](https://github.com/gorhill)/[**PHP-FineDiff**](https://github.com/gorhill/PHP-FineDiff)|A PHP implementation of a Fine granularity Diff engine: Diff can be computed up to character-level|[:arrow_upper_right:](http://www.raymondhill.net/finediff/)|
+|466|[@Frug](https://github.com/Frug)/[**AJAX-Chat**](https://github.com/Frug/AJAX-Chat)|A fully customizable web chat implemented in JavaScript, PHP and MySQL which integrates nicely with common forum systems like phpBB, MyBB, FluxBB, SMF and vBulletin. A Flash and Ruby based socket connection can be used to boost performance.|[:arrow_upper_right:](http://frug.github.io/AJAX-Chat/)|
+|466|[@gorhill](https://github.com/gorhill)/[**PHP-FineDiff**](https://github.com/gorhill/PHP-FineDiff)|A PHP implementation of a Fine granularity Diff engine: Diff can be computed up to character-level|[:arrow_upper_right:](http://www.raymondhill.net/finediff/)|
 |464|[@davemo](https://github.com/davemo)/[**end-to-end-with-angularjs**](https://github.com/davemo/end-to-end-with-angularjs)|An intermediate/advanced look at how to use Angular JS in conjunction with a server-side.||
-|463|[@Frug](https://github.com/Frug)/[**AJAX-Chat**](https://github.com/Frug/AJAX-Chat)|A fully customizable web chat implemented in JavaScript, PHP and MySQL which integrates nicely with common forum systems like phpBB, MyBB, FluxBB, SMF and vBulletin. A Flash and Ruby based socket connection can be used to boost performance.|[:arrow_upper_right:](http://frug.github.io/AJAX-Chat/)|
 |437|[@adamwathan](https://github.com/adamwathan)/[**bootforms**](https://github.com/adamwathan/bootforms)|Rapid form generation with Bootstrap 3 and Laravel.||
-|388|[@cviebrock](https://github.com/cviebrock)/[**laravel-elasticsearch**](https://github.com/cviebrock/laravel-elasticsearch)|An easy way to use the official Elastic Search client in your Laravel applications.||
-|385|[@bcit-ci](https://github.com/bcit-ci)/[**codeigniter3-translations**](https://github.com/bcit-ci/codeigniter3-translations)|Translations of the CodeIgniter system messages||
-|376|[@adamwathan](https://github.com/adamwathan)/[**eloquent-oauth**](https://github.com/adamwathan/eloquent-oauth)|Braindead simple social login with Laravel and Eloquent.||
+|393|[@cviebrock](https://github.com/cviebrock)/[**laravel-elasticsearch**](https://github.com/cviebrock/laravel-elasticsearch)|An easy way to use the official Elastic Search client in your Laravel applications.||
+|386|[@bcit-ci](https://github.com/bcit-ci)/[**codeigniter3-translations**](https://github.com/bcit-ci/codeigniter3-translations)|Translations of the CodeIgniter system messages||
+|377|[@adamwathan](https://github.com/adamwathan)/[**eloquent-oauth**](https://github.com/adamwathan/eloquent-oauth)|Braindead simple social login with Laravel and Eloquent.||
 |344|[@stevebauman](https://github.com/stevebauman)/[**inventory**](https://github.com/stevebauman/inventory)|Inventory Management for Laravel 4 / 5||
 |342|[@willfarrell](https://github.com/willfarrell)/[**alfred-caniuse-workflow**](https://github.com/willfarrell/alfred-caniuse-workflow)|Alfred App Workflow for caniuse.com||
 |315|[@gabrielbull](https://github.com/gabrielbull)/[**omnimail**](https://github.com/gabrielbull/omnimail)|Send email across all platforms using one interface||
-|311|[@mercuryseries](https://github.com/mercuryseries)/[**flashy**](https://github.com/mercuryseries/flashy)|Easy flash notifications https://packagist.org/packages/mercuryseries/flashy||
+|312|[@mercuryseries](https://github.com/mercuryseries)/[**flashy**](https://github.com/mercuryseries/flashy)|Easy flash notifications https://packagist.org/packages/mercuryseries/flashy||
 |310|[@dansup](https://github.com/dansup)/[**pixelfed**](https://github.com/dansup/pixelfed)|Federated Image Sharing (WIP)|[:arrow_upper_right:](https://pixelfed.org)|
 |301|[@davestewart](https://github.com/davestewart)/[**laravel-sketchpad**](https://github.com/davestewart/laravel-sketchpad)|An innovative front-end environment for interactive Laravel development||
-|290|[@willfarrell](https://github.com/willfarrell)/[**alfred-encode-decode-workflow**](https://github.com/willfarrell/alfred-encode-decode-workflow)|Encoding and decoding a sting into multiple variations.||
-|285|[@adamwathan](https://github.com/adamwathan)/[**laracon2017**](https://github.com/adamwathan/laracon2017)|||
+|293|[@willfarrell](https://github.com/willfarrell)/[**alfred-encode-decode-workflow**](https://github.com/willfarrell/alfred-encode-decode-workflow)|Encoding and decoding a sting into multiple variations.||
+|286|[@adamwathan](https://github.com/adamwathan)/[**laracon2017**](https://github.com/adamwathan/laracon2017)|||
 |284|[@cviebrock](https://github.com/cviebrock)/[**eloquent-taggable**](https://github.com/cviebrock/eloquent-taggable)|Easily add the ability to tag your Eloquent models in Laravel.||
-|279|[@gabrielbull](https://github.com/gabrielbull)/[**php-ups-api**](https://github.com/gabrielbull/php-ups-api)|PHP Wrapper for all UPS API||
+|283|[@gabrielbull](https://github.com/gabrielbull)/[**php-ups-api**](https://github.com/gabrielbull/php-ups-api)|PHP Wrapper for all UPS API||
 |265|[@adamwathan](https://github.com/adamwathan)/[**laravel-preset**](https://github.com/adamwathan/laravel-preset)|||
 |262|[@gboudreau](https://github.com/gboudreau)/[**nest-api**](https://github.com/gboudreau/nest-api)|Unofficial Nest Learning Thermostat API||
 |262|[@gburtini](https://github.com/gburtini)/[**Learning-Library-for-PHP**](https://github.com/gburtini/Learning-Library-for-PHP)|The rudimentary workings of a machine learning library in PHP.||
-|259|[@instaclick](https://github.com/instaclick)/[**php-webdriver**](https://github.com/instaclick/php-webdriver)|W3C and Selenium 2 webdriver "thin client" for php 5.3+ and namespaces.||
-|256|[@drehimself](https://github.com/drehimself)/[**laravel-ecommerce-example**](https://github.com/drehimself/laravel-ecommerce-example)|Code for YouTube series on building a Laravel E-Commerce application.|[:arrow_upper_right:](https://www.youtube.com/watch?v=o5PWIuDTgxg&list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR)|
-|253|[@tj](https://github.com/tj)/[**php-selector**](https://github.com/tj/php-selector)|PHP DOM parser / queries with CSS selectors||
+|262|[@instaclick](https://github.com/instaclick)/[**php-webdriver**](https://github.com/instaclick/php-webdriver)|W3C and Selenium 2 webdriver "thin client" for php 5.3+ and namespaces.||
+|258|[@drehimself](https://github.com/drehimself)/[**laravel-ecommerce-example**](https://github.com/drehimself/laravel-ecommerce-example)|Code for YouTube series on building a Laravel E-Commerce application.|[:arrow_upper_right:](https://www.youtube.com/watch?v=o5PWIuDTgxg&list=PLEhEHUEU3x5oPTli631ZX9cxl6cU_sDaR)|
+|254|[@tj](https://github.com/tj)/[**php-selector**](https://github.com/tj/php-selector)|PHP DOM parser / queries with CSS selectors||
+|234|[@clearos](https://github.com/clearos)/[**app-protocol-filter-deprecated**](https://github.com/clearos/app-protocol-filter-deprecated)|This has been deprecated by a new protocol filter powered by Netify|[:arrow_upper_right:](https://www.netify.ai/resources/developer/netifyd)|
 |234|[@guilhermeblanco](https://github.com/guilhermeblanco)/[**zendframework1-doctrine2**](https://github.com/guilhermeblanco/zendframework1-doctrine2)|Integration for Zend Framework and Doctrine||
-|232|[@clearos](https://github.com/clearos)/[**app-protocol-filter-deprecated**](https://github.com/clearos/app-protocol-filter-deprecated)|This has been deprecated by a new protocol filter powered by Netify|[:arrow_upper_right:](https://www.netify.ai/resources/developer/netifyd)|
-|230|[@stevebauman](https://github.com/stevebauman)/[**location**](https://github.com/stevebauman/location)|Detect a users location by their IP Address.||
+|231|[@stevebauman](https://github.com/stevebauman)/[**location**](https://github.com/stevebauman/location)|Detect a users location by their IP Address.||
 |229|[@cviebrock](https://github.com/cviebrock)/[**image-validator**](https://github.com/cviebrock/image-validator)|Laravel validator rules for image dimensions - Deprecated; see:|[:arrow_upper_right:](https://laravel.com/docs/validation#rule-dimensions)|
 |226|[@adamwathan](https://github.com/adamwathan)/[**form**](https://github.com/adamwathan/form)|Super basic form HTML builder, only really exists so I can pull it in for some other more useful projects.||
 |216|[@adamwathan](https://github.com/adamwathan)/[**eloquent-oauth-l5**](https://github.com/adamwathan/eloquent-oauth-l5)|Eloquent OAuth service provider and assets for Laravel 5||
@@ -56,23 +56,23 @@
 |143|[@ahmadnassri](https://github.com/ahmadnassri)/[**restful-zend-framework**](https://github.com/ahmadnassri/restful-zend-framework)|Extension for the popular Zend Framework, allows to create RESTful Controllers and build API endpoints with ease.||
 |141|[@wa0x6e](https://github.com/wa0x6e)/[**php-resque-ex**](https://github.com/wa0x6e/php-resque-ex)|PHP port of resque (Workers and Queueing), with phpredis support, and more logging options||
 |128|[@wa0x6e](https://github.com/wa0x6e)/[**Fresque**](https://github.com/wa0x6e/Fresque)|A command line tool to manage your php-resque workers||
+|126|[@ranacseruet](https://github.com/ranacseruet)/[**codeigniterplus**](https://github.com/ranacseruet/codeigniterplus)|The Ultimate Codeigniter Enhancements|[:arrow_upper_right:](http://demo.codesamplez.com/codeigniterplus/)|
 |125|[@atrauzzi](https://github.com/atrauzzi)/[**laravel-doctrine**](https://github.com/atrauzzi/laravel-doctrine)|An ORM for a Framework for Web Artisans||
-|125|[@ranacseruet](https://github.com/ranacseruet)/[**codeigniterplus**](https://github.com/ranacseruet/codeigniterplus)|The Ultimate Codeigniter Enhancements|[:arrow_upper_right:](http://demo.codesamplez.com/codeigniterplus/)|
 |115|[@onassar](https://github.com/onassar)/[**PHP-Pagination**](https://github.com/onassar/PHP-Pagination)|Simple and lightweight PHP pagination class that works with Twitter Bootstrap perfectly. Manages pagination variables through instantiable class, and markup rendering through view-like include file.|[:arrow_upper_right:](http://web.onassar.com/blog/2012/06/09/github-project-php-pagination/)|
 |113|[@cviebrock](https://github.com/cviebrock)/[**laravel5-package-template**](https://github.com/cviebrock/laravel5-package-template)|Boilerplate template for Laravel 5 packages||
 |101|[@jonom](https://github.com/jonom)/[**silverstripe-focuspoint**](https://github.com/jonom/silverstripe-focuspoint)|Module for improving automatic image cropping in SilverStripe. Adds simple art-direction control by allowing you to set and crop from a focus point instead of the centre point of an image.||
 |101|[@splorp](https://github.com/splorp)/[**tersus**](https://github.com/splorp/tersus)|An achingly simple WordPress theme without all the usual cruft.||
 |97|[@instaclick](https://github.com/instaclick)/[**ICBaseTestBundle**](https://github.com/instaclick/ICBaseTestBundle)|Provides lower level support for unit and functional tests in Symfony2||
 |95|[@UndefinedOffset](https://github.com/UndefinedOffset)/[**SortableGridField**](https://github.com/UndefinedOffset/SortableGridField)|Adds drag and drop functionality to SilverStripe's GridField||
-|94|[@shannah](https://github.com/shannah)/[**xataface**](https://github.com/shannah/xataface)|Framework for building data-driven web applications in PHP and MySQL|[:arrow_upper_right:](http://xataface.com)|
 |93|[@Braunson](https://github.com/Braunson)/[**laravel-html5-forms**](https://github.com/Braunson/laravel-html5-forms)|This package extends Laravel's FormBuilder to include some (soon all) HTML5 elements||
+|93|[@shannah](https://github.com/shannah)/[**xataface**](https://github.com/shannah/xataface)|Framework for building data-driven web applications in PHP and MySQL|[:arrow_upper_right:](http://xataface.com)|
 |92|[@jayelkaake](https://github.com/jayelkaake)/[**enhancedgrid**](https://github.com/jayelkaake/enhancedgrid)|The original enhanced admin product grid for Magento.|[:arrow_upper_right:](https://www.magentocommerce.com/magento-connect/enhanced-admin-product-grid.html)|
 |89|[@stevebauman](https://github.com/stevebauman)/[**purify**](https://github.com/stevebauman/purify)|An HTML Purifier / Sanitizer for Laravel||
 |87|[@michelf](https://github.com/michelf)/[**php-smartypants**](https://github.com/michelf/php-smartypants)|Web typography prettifyier tools derived from the original SmartyPants.pl by John Gruber.|[:arrow_upper_right:](http://michelf.ca/php-smartypants/)|
 |87|[@oncletom](https://github.com/oncletom)/[**wp-less**](https://github.com/oncletom/wp-less)|WordPress plugin which seemlessly compiles, caches and rebuilds your LESS stylesheets.|[:arrow_upper_right:](https://wordpress.org/plugins/wp-less/)|
 |83|[@chartjes](https://github.com/chartjes)/[**php-tricorder**](https://github.com/chartjes/php-tricorder)|CLI utility that scans phpDocumentor and makes suggestions on tests for your methods based on the parameter types||
+|82|[@drehimself](https://github.com/drehimself)/[**laravel-realtime-example**](https://github.com/drehimself/laravel-realtime-example)|Realtime 🍕 Pizza Order Tracker 🍕 - Laravel, Vue & Pusher|[:arrow_upper_right:](https://www.youtube.com/watch?v=pjK0VMTCtVg)|
 |82|[@gnugat](https://github.com/gnugat)/[**redaktilo**](https://github.com/gnugat/redaktilo)|An easy "line manipulation" PHP lib: jump, insert and do anything!|[:arrow_upper_right:](http://gnugat.github.io/redaktilo/)|
-|79|[@drehimself](https://github.com/drehimself)/[**laravel-realtime-example**](https://github.com/drehimself/laravel-realtime-example)|Realtime 🍕 Pizza Order Tracker 🍕 - Laravel, Vue & Pusher|[:arrow_upper_right:](https://www.youtube.com/watch?v=pjK0VMTCtVg)|
 |79|[@onassar](https://github.com/onassar)/[**PHP-Premailer**](https://github.com/onassar/PHP-Premailer)|A PHP proxy/wrapper for @alexdunae premailer ruby library.||
 |77|[@adamwathan](https://github.com/adamwathan)/[**test-driven-laravel-from-scratch**](https://github.com/adamwathan/test-driven-laravel-from-scratch)|||
 |77|[@harmon25](https://github.com/harmon25)/[**raspcontrol**](https://github.com/harmon25/raspcontrol)|Fork of Raspcontrol by Bioshox||
@@ -85,27 +85,27 @@
 |68|[@stevebauman](https://github.com/stevebauman)/[**translation**](https://github.com/stevebauman/translation)|An easy database driven automatic translator for Laravel 5||
 |67|[@remiprev](https://github.com/remiprev)/[**pubwich**](https://github.com/remiprev/pubwich)|(This project is non-longer maintained) Pubwich is an open-source PHP Web application that allows you to aggregate your published data from multiple Websites and services into a single HTML page.|[:arrow_upper_right:](http://pubwich.org)|
 |65|[@bradt](https://github.com/bradt)/[**git-deploy-s3**](https://github.com/bradt/git-deploy-s3)|A CLI script that keeps your git repo's assets in sync with Amazon S3.||
+|65|[@willfarrell](https://github.com/willfarrell)/[**php**](https://github.com/willfarrell/php)|collection of php classes, libraries, and include files I use||
 |64|[@willfarrell](https://github.com/willfarrell)/[**alfred-cdn-workflow**](https://github.com/willfarrell/alfred-cdn-workflow)|Check which CDNs a package is hosted on.||
-|64|[@willfarrell](https://github.com/willfarrell)/[**php**](https://github.com/willfarrell/php)|collection of php classes, libraries, and include files I use||
 |63|[@naomik](https://github.com/naomik)/[**htmlgen**](https://github.com/naomik/htmlgen)|A lightweight DSL for HTML generation in PHP||
 |63|[@paxful](https://github.com/paxful)/[**EzBitcoin-Api-Wallet**](https://github.com/paxful/EzBitcoin-Api-Wallet)|A RESTful Bitcoin API wrapper for bitcoind written in PHP and a pure Web Wallet that uses it.||
+|61|[@clearos](https://github.com/clearos)/[**app-base**](https://github.com/clearos/app-base)|The Base app provides core system libraries and tools.||
 |61|[@dcooney](https://github.com/dcooney)/[**wordpress-plugin-installer**](https://github.com/dcooney/wordpress-plugin-installer)|A PHP class for installing and activating WordPress plugins.||
 |61|[@gabrielbull](https://github.com/gabrielbull)/[**php-websocket-client**](https://github.com/gabrielbull/php-websocket-client)|A simple WebSocket WAMP client implemented in PHP||
 |61|[@twittem](https://github.com/twittem)/[**wp-bootstrap-gallery**](https://github.com/twittem/wp-bootstrap-gallery)|A custom Wordpress gallery for dynamic thumbnail layout using Twitter Bootstrap 2.2.2 (https://github.com/twitter/bootstrap/) thumbnail layouts.|[:arrow_upper_right:](http://twittem.github.com/wp-bootstrap-gallery/)|
 |60|[@adrianbj](https://github.com/adrianbj)/[**TracyDebugger**](https://github.com/adrianbj/TracyDebugger)|The ultimate debugging and development tool for ProcessWire|[:arrow_upper_right:](https://adrianbj.github.io/TracyDebugger/)|
-|60|[@clearos](https://github.com/clearos)/[**app-base**](https://github.com/clearos/app-base)|The Base app provides core system libraries and tools.||
 |60|[@thomasjbradley](https://github.com/thomasjbradley)/[**signature-to-image**](https://github.com/thomasjbradley/signature-to-image)|A supplemental script for Signature Pad that generates an image of the signature’s JSON output server-side using PHP.||
 |59|[@briannesbitt](https://github.com/briannesbitt)/[**nesbot.com**](https://github.com/briannesbitt/nesbot.com)|My personal blog developed on the Slim Framework|[:arrow_upper_right:](http://nesbot.com)|
-|55|[@carlalexander](https://github.com/carlalexander)/[**passwords-evolved**](https://github.com/carlalexander/passwords-evolved)|WordPress password authentication for the modern era|[:arrow_upper_right:](https://wordpress.org/plugins/passwords-evolved/)|
+|56|[@carlalexander](https://github.com/carlalexander)/[**passwords-evolved**](https://github.com/carlalexander/passwords-evolved)|WordPress password authentication for the modern era|[:arrow_upper_right:](https://wordpress.org/plugins/passwords-evolved/)|
 |55|[@chenkie](https://github.com/chenkie)/[**jot-bot**](https://github.com/chenkie/jot-bot)|Token-Based Authentication for AngularJS and Laravel Tutorial||
 |55|[@deiu](https://github.com/deiu)/[**rww.io**](https://github.com/deiu/rww.io)|Read Write Web semantic cloud.||
 |54|[@lukeholder](https://github.com/lukeholder)/[**craft-geo**](https://github.com/lukeholder/craft-geo)|||
 |52|[@jimeh](https://github.com/jimeh)/[**php-rack**](https://github.com/jimeh/php-rack)|An implementation of the middleware execution stack from Ruby's Rack library, for PHP.||
-|52|[@kpumuk](https://github.com/kpumuk)/[**codecolorer**](https://github.com/kpumuk/codecolorer)|WordPress plugin which allows you to insert code snippets into the post with nice syntax highlighting.|[:arrow_upper_right:](https://kpumuk.info/projects/wordpress-plugins/codecolorer/)|
+|51|[@kpumuk](https://github.com/kpumuk)/[**codecolorer**](https://github.com/kpumuk/codecolorer)|WordPress plugin which allows you to insert code snippets into the post with nice syntax highlighting.|[:arrow_upper_right:](https://kpumuk.info/projects/wordpress-plugins/codecolorer/)|
 |49|[@clearos](https://github.com/clearos)/[**clearos-framework**](https://github.com/clearos/clearos-framework)|ClearOS Webconfig Framework||
 |49|[@smartcatdev](https://github.com/smartcatdev)/[**Acid-WordPress-Customizer-Framework**](https://github.com/smartcatdev/Acid-WordPress-Customizer-Framework)|Acid Framework is a wrapper class for the WordPress Customizer API which allows you to easily create customizer API options for your theme, in a cleaner and more organized way, and also adds additional controls||
 |47|[@amacgregor](https://github.com/amacgregor)/[**mdg_imc**](https://github.com/amacgregor/mdg_imc)|IMC(Magento Interactive Console) created as help tool in the Magento Developers Guide||
-|46|[@iSimar](https://github.com/iSimar)/[**Twitter-Like-System-PHP**](https://github.com/iSimar/Twitter-Like-System-PHP)|Twitter Clone using PHP||
+|47|[@iSimar](https://github.com/iSimar)/[**Twitter-Like-System-PHP**](https://github.com/iSimar/Twitter-Like-System-PHP)|Twitter Clone using PHP||
 |46|[@iamamused](https://github.com/iamamused)/[**wp-theme-html5-boilerplate**](https://github.com/iamamused/wp-theme-html5-boilerplate)|A WordPress theme based of the awesome HTML5 boilerplate project. |[:arrow_upper_right:](http://jeffreysambells.com)|
 |45|[@alfredxing](https://github.com/alfredxing)/[**cairn**](https://github.com/alfredxing/cairn)|Simple, flat-file CMS.||
 |45|[@clearos](https://github.com/clearos)/[**app-process-viewer**](https://github.com/clearos/app-process-viewer)|The Process Viewer provides a tabular display of all processes running on the system.  Specific information on each process is listed, including process ID, running time, CPU and memory usage.||
@@ -114,12 +114,12 @@
 |45|[@infojunkie](https://github.com/infojunkie)/[**MantisBT-Slack**](https://github.com/infojunkie/MantisBT-Slack)|Slack integration for Mantis bug tracker||
 |45|[@wohali](https://github.com/wohali)/[**oauth2-discord-new**](https://github.com/wohali/oauth2-discord-new)|New Discord Provider for the OAuth 2.0 Client||
 |44|[@chartjes](https://github.com/chartjes)/[**building-testable-applications**](https://github.com/chartjes/building-testable-applications)|Code for my "Building Testable Applications in PHP" talk||
+|44|[@eXolnet](https://github.com/eXolnet)/[**laravel-heartbeat**](https://github.com/eXolnet/laravel-heartbeat)|Periodically schedule a job to send a heartbeat to a monitoring system.||
 |44|[@jonphipps](https://github.com/jonphipps)/[**laravel4-idehelper-generator**](https://github.com/jonphipps/laravel4-idehelper-generator)|Generates a helper file to assist with IDEs with code completion for Laravel 4||
 |44|[@stevebauman](https://github.com/stevebauman)/[**eloquent-table**](https://github.com/stevebauman/eloquent-table)|An HTML table generator for laravel collections||
-|43|[@eXolnet](https://github.com/eXolnet)/[**laravel-heartbeat**](https://github.com/eXolnet/laravel-heartbeat)|Periodically schedule a job to send a heartbeat to a monitoring system.||
 |43|[@willfarrell](https://github.com/willfarrell)/[**alfred-hash-workflow**](https://github.com/willfarrell/alfred-hash-workflow)|Hashing Strings||
+|42|[@falkirks](https://github.com/falkirks)/[**Specter**](https://github.com/falkirks/Specter)|Super simple debugging for PocketMine.||
 |41|[@Falkirks](https://github.com/Falkirks)/[**Specter**](https://github.com/Falkirks/Specter)|Super simple debugging for PocketMine.||
-|41|[@falkirks](https://github.com/falkirks)/[**Specter**](https://github.com/falkirks/Specter)|Super simple debugging for PocketMine.||
 |41|[@gburtini](https://github.com/gburtini)/[**Probability-Distributions-for-PHP**](https://github.com/gburtini/Probability-Distributions-for-PHP)|PHP implementation of statistical probability distributions: normal distribution, beta distribution, gamma distribution and more.||
 |41|[@onassar](https://github.com/onassar)/[**PHP-StripeOAuth**](https://github.com/onassar/PHP-StripeOAuth)|PHP library which helps perform an OAuth2 flow for Stripe, which is used when creating and interacting with a Stripe application.|[:arrow_upper_right:](http://web.onassar.com/blog/2012/10/09/github-project-php-stripeoauth/)|
 |41|[@stevewest](https://github.com/stevewest)/[**changelog**](https://github.com/stevewest/changelog)|Package to enable change logs to be parsed ||
@@ -140,9 +140,9 @@
 |36|[@guilhermeblanco](https://github.com/guilhermeblanco)/[**Doctrine2-Hierarchical-Structural-Behavior**](https://github.com/guilhermeblanco/Doctrine2-Hierarchical-Structural-Behavior)|Hierarchical Structural Behavior to support Tree structures inside Doctrine2||
 |36|[@rodolfobandeira](https://github.com/rodolfobandeira)/[**php-certification-studies**](https://github.com/rodolfobandeira/php-certification-studies)|Examples to study for Zend Certification PHP Engineer - ZCPE||
 |36|[@twittem](https://github.com/twittem)/[**wp-bootstrap-navlist-walker**](https://github.com/twittem/wp-bootstrap-navlist-walker)|Custom list navigation for WordPress themes utilizing the Bootstrap framework. The package includes a custom walker class & Less file with mixins, and support bootstraps Affix & Scrollspy|[:arrow_upper_right:](https://github.com/twittem/wp-bootstrap-navlist-walker)|
+|35|[@DrDub](https://github.com/DrDub)/[**php-nlgen**](https://github.com/DrDub/php-nlgen)|PHP Natural Language Generation helper classes||
 |35|[@Pomax](https://github.com/Pomax)/[**Usered**](https://github.com/Pomax/Usered)|A minimal PHP user authentication system||
 |35|[@afilina](https://github.com/afilina)/[**dev-community-data**](https://github.com/afilina/dev-community-data)|Collecting data on all user groups and conferences to be used by anyone.||
-|34|[@DrDub](https://github.com/DrDub)/[**php-nlgen**](https://github.com/DrDub/php-nlgen)|PHP Natural Language Generation helper classes||
 |33|[@RyanNielson](https://github.com/RyanNielson)/[**meta**](https://github.com/RyanNielson/meta)|A package that makes it easy to add meta tags to your views with easy Laravel integration.||
 |33|[@falkirks](https://github.com/falkirks)/[**MineReset**](https://github.com/falkirks/MineReset)|Powerful mine resetting tool||
 |33|[@geggleto](https://github.com/geggleto)/[**geggleto-acl**](https://github.com/geggleto/geggleto-acl)|PSR-7 Zend ACL implementation - Permission Library [ slim, psr7, acl, permissions, zend ]||
@@ -171,13 +171,13 @@
 |27|[@adrianbj](https://github.com/adrianbj)/[**ProcessMigrator**](https://github.com/adrianbj/ProcessMigrator)|ProcessWire module that facilitates automated migration and sharing of page trees along with their templates and fields.||
 |27|[@drehimself](https://github.com/drehimself)/[**basic-auth-sentry**](https://github.com/drehimself/basic-auth-sentry)|Laravel Basic Authentication with Sentry with groups||
 |27|[@mpezzi](https://github.com/mpezzi)/[**bootstrap**](https://github.com/mpezzi/bootstrap)|A Twitter Bootstrap base theme for Drupal.||
+|26|[@Corb3nik](https://github.com/Corb3nik)/[**SQLi-CTF**](https://github.com/Corb3nik/SQLi-CTF)|A training CTF covering non-blind SQL injection techniques||
 |26|[@OndrejSlamecka](https://github.com/OndrejSlamecka)/[**CoolMS**](https://github.com/OndrejSlamecka/CoolMS)|No longer developed. CMS for small web sites||
 |26|[@bauhouse](https://github.com/bauhouse)/[**sym-fluid960gs**](https://github.com/bauhouse/sym-fluid960gs)|Symphony Fluid 960 Grid System Ensemble|[:arrow_upper_right:](http://www.designinfluences.com/)|
 |26|[@bmitch](https://github.com/bmitch)/[**Codor**](https://github.com/bmitch/Codor)|Custom PHPCS sniffs to find Code Smells||
 |26|[@gorhill](https://github.com/gorhill)/[**cablegatesearch.net**](https://github.com/gorhill/cablegatesearch.net)|Cablegate's cables: Full-text search web site|[:arrow_upper_right:](https://cablegatesearch.wikileaks.org/)|
 |26|[@kerkness](https://github.com/kerkness)/[**kohana-for-wordpress**](https://github.com/kerkness/kohana-for-wordpress)|Plugin for running the Kohana 3.0 framework inside of Wordpress|[:arrow_upper_right:](http://kerkness.ca)|
 |26|[@wohali](https://github.com/wohali)/[**ips4-oauth2-server**](https://github.com/wohali/ips4-oauth2-server)|OAuth2 Server application for IPS Community Suite 4.||
-|25|[@Corb3nik](https://github.com/Corb3nik)/[**SQLi-CTF**](https://github.com/Corb3nik/SQLi-CTF)|A training CTF covering non-blind SQL injection techniques||
 |25|[@RyanNielson](https://github.com/RyanNielson)/[**shareable**](https://github.com/RyanNielson/shareable)|A Laravel 4 package to make it easy to add social sharing buttons.||
 |25|[@adampatterson](https://github.com/adampatterson)/[**Tentacle**](https://github.com/adampatterson/Tentacle)|Tentacle makes it easy to Design, Develop, and Write content for the web.|[:arrow_upper_right:](http://tentaclecms.com)|
 |25|[@afilina](https://github.com/afilina)/[**nestedsql**](https://github.com/afilina/nestedsql)|Simple function to fetch PDO statement as a nested resultset||
@@ -209,11 +209,11 @@
 |21|[@bauhouse](https://github.com/bauhouse)/[**configuration**](https://github.com/bauhouse/configuration)|Symphony Configuration Extension|[:arrow_upper_right:](http://stephenbau.com/)|
 |21|[@dbernar1](https://github.com/dbernar1)/[**kampPro2**](https://github.com/dbernar1/kampPro2)|Kamp Pro 2 theme for Project Pier||
 |21|[@falkirks](https://github.com/falkirks)/[**BuyCraft**](https://github.com/falkirks/BuyCraft)|BuyCraft port for PocketMine-MP||
+|21|[@gnugat](https://github.com/gnugat)/[**nomo-spaco**](https://github.com/gnugat/nomo-spaco)|Finds the available Fully Qualified ClassNames (fqcn) in a project.||
 |21|[@thomasjbradley](https://github.com/thomasjbradley)/[**saving-signatures-sample**](https://github.com/thomasjbradley/saving-signatures-sample)|A sample PHP and MySQL application for capturing the output of Signature Pad and saving it into a database.||
 |20|[@BCcampus](https://github.com/BCcampus)/[**pressbooks-textbook**](https://github.com/BCcampus/pressbooks-textbook)|A plugin that extends Pressbooks for textbook authoring||
 |20|[@cboden](https://github.com/cboden)/[**Binky**](https://github.com/cboden/Binky)|AMQP producer/consumer through stdin/stdout||
 |20|[@ckimrie](https://github.com/ckimrie)/[**RequireJS-for-EE**](https://github.com/ckimrie/RequireJS-for-EE)|Extension that loads RequireJS in the ExpressionEngine CP and makes it available via a PHP API to all addon types through the entire CP.||
-|20|[@gnugat](https://github.com/gnugat)/[**nomo-spaco**](https://github.com/gnugat/nomo-spaco)|Finds the available Fully Qualified ClassNames (fqcn) in a project.||
 |20|[@jonathanbardo](https://github.com/jonathanbardo)/[**WP-Image-Hotspot**](https://github.com/jonathanbardo/WP-Image-Hotspot)|Image hotspot helps you control how WordPress generates the various image size in your site.||
 |20|[@sprice](https://github.com/sprice)/[**classic**](https://github.com/sprice/classic)|Drupal install profile testing with Behat/Mink, Selenium, & TravisCI||
 |20|[@willfarrell](https://github.com/willfarrell)/[**alfred-blank-workflow**](https://github.com/willfarrell/alfred-blank-workflow)|A template Alfred Workflow repo to get your next workflow started.||
@@ -249,6 +249,7 @@
 |17|[@paxful](https://github.com/paxful)/[**CoinBack.io**](https://github.com/paxful/CoinBack.io)|||
 |16|[@Falkirks](https://github.com/Falkirks)/[**RankUp**](https://github.com/Falkirks/RankUp)|A comically full-featured prison rankup plugin for PocketMine-MP||
 |16|[@Falkirks](https://github.com/Falkirks)/[**spoondetector**](https://github.com/Falkirks/spoondetector)|Detect all the SPOONS!||
+|16|[@FortAwesome](https://github.com/FortAwesome)/[**wordpress-fontawesome**](https://github.com/FortAwesome/wordpress-fontawesome)|Font Awesome Official WordPress Plugin||
 |16|[@ckimrie](https://github.com/ckimrie)/[**cki.member_list.ee_addon**](https://github.com/ckimrie/cki.member_list.ee_addon)|ExpressionEngine 2.0 custom field of your current members, with flexible options for publishing that member's data in templates|[:arrow_upper_right:](http://www.christopherimrie.com)|
 |16|[@envex](https://github.com/envex)/[**laravel-pagoda**](https://github.com/envex/laravel-pagoda)|Laravel Quickstart for Pagoda Box||
 |16|[@gapple](https://github.com/gapple)/[**drupalreleasedate**](https://github.com/gapple/drupalreleasedate)|System for tracking the development progress of Drupal 8|[:arrow_upper_right:](http://drupalreleasedate.com)|
@@ -259,7 +260,6 @@
 |16|[@mercuryseries](https://github.com/mercuryseries)/[**laracarte**](https://github.com/mercuryseries/laracarte)|A kind of Laramap (laramap.com) Clone||
 |16|[@michaelmior](https://github.com/michaelmior)/[**zotero-remarkable**](https://github.com/michaelmior/zotero-remarkable)|Sync papers from Zotero to a reMarkable tablet|[:arrow_upper_right:](https://michael.mior.ca/blog/zotero-remarkable-sync/)|
 |16|[@srsgores](https://github.com/srsgores)/[**generator-wordpress-plugin**](https://github.com/srsgores/generator-wordpress-plugin)|Yeoman Wordpress plugin generator||
-|15|[@FortAwesome](https://github.com/FortAwesome)/[**wordpress-fontawesome**](https://github.com/FortAwesome/wordpress-fontawesome)|Font Awesome Official WordPress Plugin||
 |15|[@Pomax](https://github.com/Pomax)/[**EasyPageComments**](https://github.com/Pomax/EasyPageComments)|A simple instant-comments-section for pages based on PHP at the server, and _optionally_ JavaScript at the front end||
 |15|[@atrauzzi](https://github.com/atrauzzi)/[**laravel-serializer**](https://github.com/atrauzzi/laravel-serializer)|An integration of JMS Serializer with Laravel!||
 |15|[@brandonwamboldt](https://github.com/brandonwamboldt)/[**simple-php-router**](https://github.com/brandonwamboldt/simple-php-router)|Very simple router written in PHP||
@@ -436,6 +436,7 @@
 |7|[@cboden](https://github.com/cboden)/[**gClient**](https://github.com/cboden/gClient)|PHP Google API (Calendar) Client||
 |7|[@dansmith65](https://github.com/dansmith65)/[**CodeIgniter-Filemaker-helper**](https://github.com/dansmith65/CodeIgniter-Filemaker-helper)|||
 |7|[@dcooney](https://github.com/dcooney)/[**unsplash-wp**](https://github.com/dcooney/unsplash-wp)|WordPress plugin for one click uploading of unsplash.com stock photos directly to your media library|[:arrow_upper_right:](http://connekthq.com/unsplash/)|
+|7|[@drehimself](https://github.com/drehimself)/[**stripe-elements-with-laravel**](https://github.com/drehimself/stripe-elements-with-laravel)|Code for YouTube video on using Stripe Elements with Laravel|[:arrow_upper_right:](https://www.youtube.com/watch?v=BB-nXTPyNtE)|
 |7|[@falkirks](https://github.com/falkirks)/[**DisguiseMe**](https://github.com/falkirks/DisguiseMe)|Disguise yourself as mobs in PocketMine-MP||
 |7|[@falkirks](https://github.com/falkirks)/[**PluginNinja**](https://github.com/falkirks/PluginNinja)|A better way to manage PocketMine plugins (project on hold)||
 |7|[@falkirks](https://github.com/falkirks)/[**ShogChat**](https://github.com/falkirks/ShogChat)|(ShogChat)->shogAllTheChats()||
@@ -486,7 +487,6 @@
 |6|[@dcooney](https://github.com/dcooney)/[**wordpress-easy-query**](https://github.com/dcooney/wordpress-easy-query)| Easy Query is the fastest and simplest way to build WordPress queries without writing a single line of code. ||
 |6|[@dooglus](https://github.com/dooglus)/[**sdbot**](https://github.com/dooglus/sdbot)|PHP Bot for playing SatoshiDice||
 |6|[@drehimself](https://github.com/drehimself)/[**laravel-ajax-validation-example**](https://github.com/drehimself/laravel-ajax-validation-example)|||
-|6|[@drehimself](https://github.com/drehimself)/[**stripe-elements-with-laravel**](https://github.com/drehimself/stripe-elements-with-laravel)|Code for YouTube video on using Stripe Elements with Laravel|[:arrow_upper_right:](https://www.youtube.com/watch?v=BB-nXTPyNtE)|
 |6|[@dudleystorey](https://github.com/dudleystorey)/[**tipster**](https://github.com/dudleystorey/tipster)|Easy worldwide tipping percentages and practices||
 |6|[@eXolnet](https://github.com/eXolnet)/[**laravel-envoy**](https://github.com/eXolnet/laravel-envoy)|Automated deployment template for Laravel Envoy based on Capistrano.||
 |6|[@eftakhairul](https://github.com/eftakhairul)/[**scholarship-management**](https://github.com/eftakhairul/scholarship-management)|Simple web application for managing scholarship of a university||

@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |1477|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
-|1390|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )|[:arrow_upper_right:](http://unibeautify.com/)|
+|1394|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )|[:arrow_upper_right:](http://unibeautify.com/)|
 |427|[@keithamus](https://github.com/keithamus)/[**parallelshell**](https://github.com/keithamus/parallelshell)|Run multiple shell commands in parallel||
 |394|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls||
 |230|[@EtienneLem](https://github.com/EtienneLem)/[**skeleton**](https://github.com/EtienneLem/skeleton)|Express 3.0 framework-less app structure generator|[:arrow_upper_right:](http://etiennelem.github.com/skeleton)|
@@ -34,8 +34,8 @@
 |43|[@wvanbergen](https://github.com/wvanbergen)/[**node-vertica**](https://github.com/wvanbergen/node-vertica)|Pure javascript Vertica database client. Except it is written in CoffeeScript.||
 |41|[@raganwald](https://github.com/raganwald)/[**Underscore-Matchers-for-Jasmine**](https://github.com/raganwald/Underscore-Matchers-for-Jasmine)|||
 |37|[@dpo](https://github.com/dpo)/[**atom-python-debugger**](https://github.com/dpo/atom-python-debugger)|IDE-like Python debugger for Atom||
-|36|[@HappenApps](https://github.com/HappenApps)/[**quiver2html**](https://github.com/HappenApps/quiver2html)|A utility to convert a Quiver notebook or note to HTML.||
 |36|[@kmalakoff](https://github.com/kmalakoff)/[**json-serialize**](https://github.com/kmalakoff/json-serialize)|JSON-Serialize.js provides conventions and helpers to manage serialization and deserialization of instances to/from JSON||
+|35|[@HappenApps](https://github.com/HappenApps)/[**quiver2html**](https://github.com/HappenApps/quiver2html)|A utility to convert a Quiver notebook or note to HTML.||
 |32|[@srsgores](https://github.com/srsgores)/[**generator-joomla-component**](https://github.com/srsgores/generator-joomla-component)|yeoman generator for joomla components||
 |31|[@raganwald](https://github.com/raganwald)/[**cafeaulife**](https://github.com/raganwald/cafeaulife)|Gosper’s HashLife in CoffeeScript|[:arrow_upper_right:](http://recursiveuniver.se)|
 |26|[@benbria](https://github.com/benbria)/[**node-bunyan-lumberjack**](https://github.com/benbria/node-bunyan-lumberjack)|Send bunyan logs to logstash using the lumberjack protocol.||

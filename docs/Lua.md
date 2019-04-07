@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|742|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
-|416|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
-|370|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
-|349|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
-|135|[@saks](https://github.com/saks)/[**lua-resty-repl**](https://github.com/saks/lua-resty-repl)|Interactive console (REPL) for Openresty and luajit code||
+|741|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
+|421|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
+|374|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
+|350|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
+|136|[@saks](https://github.com/saks)/[**lua-resty-repl**](https://github.com/saks/lua-resty-repl)|Interactive console (REPL) for Openresty and luajit code||
 |104|[@castorini](https://github.com/castorini)/[**MP-CNN-Torch**](https://github.com/castorini/MP-CNN-Torch)|Multi-Perspective Convolutional Neural Networks for modeling textual similarity (He et al., EMNLP 2015)||
 |92|[@forhappy](https://github.com/forhappy)/[**zklua**](https://github.com/forhappy/zklua)|Lua binding of apache zookeeper.||
 |56|[@karai17](https://github.com/karai17)/[**lapis-chan**](https://github.com/karai17/lapis-chan)|Image board software written in Lua using the Lapis web framework.|[:arrow_upper_right:](http://lapchan.moe)|
@@ -35,8 +35,8 @@
 |8|[@bartman](https://github.com/bartman)/[**wmii-lua**](https://github.com/bartman/wmii-lua)|Wmii extended with lua scripts|[:arrow_upper_right:](http://www.jukie.net/~bart/blog/tag/wmiirc-lua)|
 |8|[@karai17](https://github.com/karai17)/[**love-spriter**](https://github.com/karai17/love-spriter)|A Spriter implementation for LOVE||
 |8|[@karai17](https://github.com/karai17)/[**lua-winged-edge**](https://github.com/karai17/lua-winged-edge)|Winged Edge Data Structure in Lua||
+|8|[@svermeulen](https://github.com/svermeulen)/[**nvim-moonmaker**](https://github.com/svermeulen/nvim-moonmaker)|Moonscript plugin support for neovim||
 |7|[@mverteuil](https://github.com/mverteuil)/[**windower4-addons**](https://github.com/mverteuil/windower4-addons)|FFXI Windower 4 Addons||
-|7|[@svermeulen](https://github.com/svermeulen)/[**nvim-moonmaker**](https://github.com/svermeulen/nvim-moonmaker)|Moonscript plugin support for neovim||
 |7|[@vocksel](https://github.com/vocksel)/[**prefabs**](https://github.com/vocksel/prefabs)|Roblox plugin for making reuseable assets and keeping them in sync across your game||
 |6|[@coolacid](https://github.com/coolacid)/[**ComputerCraft**](https://github.com/coolacid/ComputerCraft)|Scripts Related to Minecraft ComputerCraft||
 |5|[@bbc](https://github.com/bbc)/[**rfc8450-vc2-dissector**](https://github.com/bbc/rfc8450-vc2-dissector)|Wireshark plugin to parse RTP streams implementing the VC-2 HQ payload specification||
@@ -48,6 +48,7 @@
 |4|[@james2doyle](https://github.com/james2doyle)/[**luvstache**](https://github.com/james2doyle/luvstache)|Mustache templates for Luvit||
 |4|[@jhawthorn](https://github.com/jhawthorn)/[**dotfiles**](https://github.com/jhawthorn/dotfiles)|my configs||
 |4|[@karai17](https://github.com/karai17)/[**love-eh**](https://github.com/karai17/love-eh)|LOVE API localized to en_CA||
+|4|[@mvdan](https://github.com/mvdan)/[**dotfiles**](https://github.com/mvdan/dotfiles)|Here be dragons||
 |4|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**equanimity**](https://github.com/nicholas-leonard/equanimity)|Experimental research for distributed conditional computation||
 |4|[@slime73](https://github.com/slime73)/[**love-mutex**](https://github.com/slime73/love-mutex)|Mutex semantics for threads in LÖVE 0.9.0+||
 |3|[@DonBatman](https://github.com/DonBatman)/[**myadmin**](https://github.com/DonBatman/myadmin)|Admin tools and chat commands for Minetest||
@@ -61,6 +62,5 @@
 |3|[@dvdfu](https://github.com/dvdfu)/[**sushi-ninja**](https://github.com/dvdfu/sushi-ninja)|GI Jam, Spring 2015||
 |3|[@francois](https://github.com/francois)/[**baby-pow**](https://github.com/francois/baby-pow)|A keyboard basher for kids; does fireworks style stuff.  Uses LÖVE game engine||
 |3|[@jarednorman](https://github.com/jarednorman)/[**knight**](https://github.com/jarednorman/knight)|Knight is a dependency manager/injector for Lua.|[:arrow_upper_right:](https://github.com/jarednorman/knight)|
-|3|[@mvdan](https://github.com/mvdan)/[**dotfiles**](https://github.com/mvdan/dotfiles)|Here be dragons||
 |3|[@thesuicidalrobot](https://github.com/thesuicidalrobot)/[**Super-Hero-Chronicles**](https://github.com/thesuicidalrobot/Super-Hero-Chronicles)|||
 

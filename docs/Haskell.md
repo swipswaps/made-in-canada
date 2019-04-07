@@ -2,14 +2,14 @@
 |---|---|---|---|
 |153|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
 |149|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
-|130|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
+|131|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
 |130|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
 |105|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
-|96|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
-|72|[@zhangchiqing](https://github.com/zhangchiqing)/[**beginner-friendly-haskell-for-web-development**](https://github.com/zhangchiqing/beginner-friendly-haskell-for-web-development)|A book about real world web development in beginner friendly Haskell||
+|97|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
+|74|[@zhangchiqing](https://github.com/zhangchiqing)/[**beginner-friendly-haskell-for-web-development**](https://github.com/zhangchiqing/beginner-friendly-haskell-for-web-development)|A book about real world web development in beginner friendly Haskell||
 |61|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
 |51|[@thephoeron](https://github.com/thephoeron)/[**quipper-language**](https://github.com/thephoeron/quipper-language)|Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)||
-|43|[@csabahruska](https://github.com/csabahruska)/[**jhc-components**](https://github.com/csabahruska/jhc-components)|JHC Haskell compiler split into reusable components||
+|45|[@csabahruska](https://github.com/csabahruska)/[**jhc-components**](https://github.com/csabahruska/jhc-components)|JHC Haskell compiler split into reusable components||
 |41|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm**](https://github.com/JoeyEremondi/haskelm)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
 |28|[@avieth](https://github.com/avieth)/[**Algebraic**](https://github.com/avieth/Algebraic)|Experiments on the construction of functions||
 |28|[@thayerwilliams](https://github.com/thayerwilliams)/[**msi-xmonad**](https://github.com/thayerwilliams/msi-xmonad)|xmonad.hs (Xmonad >= 0.9) and related config files for my MSI Wind netbook|[:arrow_upper_right:](http://cinderwick.ca)|
@@ -32,11 +32,11 @@
 |11|[@gregorycollins](https://github.com/gregorycollins)/[**attoparsec-iteratee**](https://github.com/gregorycollins/attoparsec-iteratee)|An adapter to convert attoparsec Parsers into blazing-fast Iteratees||
 |10|[@avieth](https://github.com/avieth)/[**diplomacy**](https://github.com/avieth/diplomacy)|The board game Diplomacy, spoken in Haskell||
 |10|[@fosskers](https://github.com/fosskers)/[**microlens-aeson**](https://github.com/fosskers/microlens-aeson)|Lenses and Traversals for Aeson, based on Microlens.||
+|10|[@singpolyma](https://github.com/singpolyma)/[**cheogram**](https://github.com/singpolyma/cheogram)|Groupchat for everyone|[:arrow_upper_right:](https://cheogram.com)|
 |9|[@avieth](https://github.com/avieth)/[**type-lambda**](https://github.com/avieth/type-lambda)|First-class type-level functions||
 |9|[@fosskers](https://github.com/fosskers)/[**nanq**](https://github.com/fosskers/nanq)|Haskell suite for determining what 級 (level) of the 漢字検定 (national Kanji exam) a given Kanji belongs to.||
 |9|[@fosskers](https://github.com/fosskers)/[**streaming-osm**](https://github.com/fosskers/streaming-osm)|A hand-written streaming byte parser for OpenStreetMap Protobuf data.||
 |9|[@singpolyma](https://github.com/singpolyma)/[**OpenPGP-Haskell**](https://github.com/singpolyma/OpenPGP-Haskell)||[:arrow_upper_right:](http://hackage.haskell.org/package/openpgp)|
-|9|[@singpolyma](https://github.com/singpolyma)/[**cheogram**](https://github.com/singpolyma/cheogram)|Groupchat for everyone|[:arrow_upper_right:](https://cheogram.com)|
 |9|[@ujihisa](https://github.com/ujihisa)/[**haskell-workshop-project-eular**](https://github.com/ujihisa/haskell-workshop-project-eular)|||
 |8|[@avieth](https://github.com/avieth)/[**type-function**](https://github.com/avieth/type-function)|Type-level functional programming||
 |8|[@bbc](https://github.com/bbc)/[**haskell-workshop**](https://github.com/bbc/haskell-workshop)|Haskell workshop that will hopefully contribute something back to the open-source community||

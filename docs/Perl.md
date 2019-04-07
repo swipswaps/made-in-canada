@@ -1,17 +1,17 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|195|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|A repository of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. ||
+|196|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|A repository of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. ||
 |164|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
+|124|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
 |123|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
-|123|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
-|101|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
+|103|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
 |98|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
-|79|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
+|80|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
 |71|[@mlangill](https://github.com/mlangill)/[**microbiome_helper**](https://github.com/mlangill/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |62|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
-|44|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
+|45|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
 |42|[@yanick](https://github.com/yanick)/[**git-cpan-patch**](https://github.com/yanick/git-cpan-patch)|System to write patches against CPAN modules via Git||
-|40|[@briandfoy](https://github.com/briandfoy)/[**Learning-Perl-Sample-Files**](https://github.com/briandfoy/Learning-Perl-Sample-Files)|Extra files for use with Learning Perl|[:arrow_upper_right:](http://www.learning-perl.org/)|
+|39|[@briandfoy](https://github.com/briandfoy)/[**Learning-Perl-Sample-Files**](https://github.com/briandfoy/Learning-Perl-Sample-Files)|Extra files for use with Learning Perl|[:arrow_upper_right:](http://www.learning-perl.org/)|
 |35|[@moshen](https://github.com/moshen)/[**Image-Term256Color**](https://github.com/moshen/Image-Term256Color)|Display images in your 256 color terminal! (kinda) - superseded by https://github.com/moshen/gotermimg||
 |31|[@bcgsc](https://github.com/bcgsc)/[**LINKS**](https://github.com/bcgsc/LINKS)|Long Interval Nucleotide K-mer Scaffolder||
 |27|[@bcgsc](https://github.com/bcgsc)/[**mirna**](https://github.com/bcgsc/mirna)|microRNA profiling pipeline||
@@ -24,10 +24,10 @@
 |21|[@yanick](https://github.com/yanick)/[**Vim-X**](https://github.com/yanick/Vim-X)|Write Perl functions within Vim|[:arrow_upper_right:](https://metacpan.org/release/Vim-X)|
 |20|[@yanick](https://github.com/yanick)/[**cheatsheets**](https://github.com/yanick/cheatsheets)|My cheatsheets||
 |18|[@bartman](https://github.com/bartman)/[**urxvt-scripts**](https://github.com/bartman/urxvt-scripts)|my urxvt scripts|[:arrow_upper_right:](http://www.jukie.net/~bart/blog/tag/urxvt)|
+|18|[@sestaton](https://github.com/sestaton)/[**HMMER2GO**](https://github.com/sestaton/HMMER2GO)|Annotate DNA sequences for Gene Ontology terms||
 |18|[@yanick](https://github.com/yanick)/[**Taskwarrior-Kusarigama**](https://github.com/yanick/Taskwarrior-Kusarigama)|plugin system for the Taskwarrior task manager|[:arrow_upper_right:](https://metacpan.org/release/Taskwarrior-Kusarigama)|
 |17|[@briandfoy](https://github.com/briandfoy)/[**git-github-creator**](https://github.com/briandfoy/git-github-creator)|(Perl) Create a Github repository for your Perl module|[:arrow_upper_right:](https://metacpan.org/pod/Git::GitHub::Creator)|
-|17|[@sestaton](https://github.com/sestaton)/[**HMMER2GO**](https://github.com/sestaton/HMMER2GO)|Annotate DNA sequences for Gene Ontology terms||
-|16|[@johnlees](https://github.com/johnlees)/[**23andme-impute**](https://github.com/johnlees/23andme-impute)|Scripts and advice to run IMPUTE2 on 23 and me raw data||
+|17|[@johnlees](https://github.com/johnlees)/[**23andme-impute**](https://github.com/johnlees/23andme-impute)|Scripts and advice to run IMPUTE2 on 23 and me raw data||
 |15|[@briandfoy](https://github.com/briandfoy)/[**Unicode-Tussle**](https://github.com/briandfoy/Unicode-Tussle)|Tom( Christiansen)'s Unicode Scripts So Life is Easier|[:arrow_upper_right:](http://search.cpan.org/dist/Unicode-Tussle)|
 |15|[@briandfoy](https://github.com/briandfoy)/[**unicode-tussle**](https://github.com/briandfoy/unicode-tussle)|Tom( Christiansen)'s Unicode Scripts So Life is Easier|[:arrow_upper_right:](https://metacpan.org/dist/Unicode::Tussle)|
 |13|[@yanick](https://github.com/yanick)/[**Perl-Achievements**](https://github.com/yanick/Perl-Achievements)|Write some perl, gather some badges of merit.||

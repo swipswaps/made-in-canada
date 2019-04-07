@@ -14,6 +14,7 @@
 |13|[@fserb](https://github.com/fserb)/[**sfxr**](https://github.com/fserb/sfxr)|sfxr port for Haxe|[:arrow_upper_right:](http://fserb.com/vault)|
 |12|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**luxe_tusk_old_deprecated**](https://github.com/FuzzyWuzzie/luxe_tusk_old_deprecated)|My personal game engine||
 |12|[@Ohmnivore](https://github.com/Ohmnivore)/[**Monsieur-Moustache**](https://github.com/Ohmnivore/Monsieur-Moustache)|Open-source cross-platform endless jumper game (HaxeFlixel engine)|[:arrow_upper_right:](http://ohmnivore.itch.io/monsieur-moustache)|
+|12|[@chfoo](https://github.com/chfoo)/[**cobbles**](https://github.com/chfoo/cobbles)|Text layout/rendering engine library for Haxe applications running under a 3D graphics API||
 |10|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxeSightLights**](https://github.com/FuzzyWuzzie/LuxeSightLights)|Luxe implementation of Sight & Light by the wonderfully talented Nicky Case||
 |10|[@Ohmnivore](https://github.com/Ohmnivore)/[**ClientSidePredictionAndServerReconciliation**](https://github.com/Ohmnivore/ClientSidePredictionAndServerReconciliation)|Haxe port of http://www.gabrielgambetta.com/fpm_live.html||
 |10|[@Ohmnivore](https://github.com/Ohmnivore)/[**FlxShell**](https://github.com/Ohmnivore/FlxShell)|An abstracted Linux environment for HaxeFlixel - a file system in tandem with a shell.||

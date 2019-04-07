@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|195|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
-|148|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
+|196|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
+|149|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |90|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|:rocket: Quickly init a slightly better Vim.||
 |52|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
 |50|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||

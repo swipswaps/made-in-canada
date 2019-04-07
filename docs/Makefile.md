@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |2111|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
-|322|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
+|321|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
 |104|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/library/composer/)|
 |70|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
 |40|[@sjackman](https://github.com/sjackman)/[**lambdar**](https://github.com/sjackman/lambdar)|ƛR: Run R on AWS Lambda|[:arrow_upper_right:](http://lambdar.sjackman.ca/?e=stem(rnorm(100)))|
@@ -35,6 +35,7 @@
 |4|[@karnauskas](https://github.com/karnauskas)/[**openwrt-mdns-repeater**](https://github.com/karnauskas/openwrt-mdns-repeater)|mdns-repeater build for OpenWrt||
 |4|[@maruel](https://github.com/maruel)/[**hugo-tidy**](https://github.com/maruel/hugo-tidy)|Docker image to generate the fastest (minified, gzipped) web site via Hugo||
 |4|[@northox](https://github.com/northox)/[**rump-npfer**](https://github.com/northox/rump-npfer)|A Rumprun firewall unikernel for Qubes OS (c)||
+|4|[@sjackman](https://github.com/sjackman)/[**picea-glauca-mitochondrion**](https://github.com/sjackman/picea-glauca-mitochondrion)|Mitochondrial genome of white spruce (Picea glauca)|[:arrow_upper_right:](http://www.ncbi.nlm.nih.gov/nuccore/LKAM00000000)|
 |4|[@tj](https://github.com/tj)/[**foo**](https://github.com/tj/foo)|||
 |3|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_system_sepolicy**](https://github.com/CopperheadOS/platform_system_sepolicy)|||
 |3|[@arteymix](https://github.com/arteymix)/[**kohana-makefile**](https://github.com/arteymix/kohana-makefile)|Automate common boring tasks related to the Kohana framework||
