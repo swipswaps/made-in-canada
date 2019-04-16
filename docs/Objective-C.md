@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2732|[@travisjeffery](https://github.com/travisjeffery)/[**ClangFormat-Xcode**](https://github.com/travisjeffery/ClangFormat-Xcode)|Xcode plug-in to to use clang-format from in Xcode and consistently format your code with Clang|[:arrow_upper_right:](https://twitter.com/travisjeffery)|
-|2509|[@agilebits](https://github.com/agilebits)/[**onepassword-app-extension**](https://github.com/agilebits/onepassword-app-extension)|1Password Extension for iOS Apps||
+|2731|[@travisjeffery](https://github.com/travisjeffery)/[**ClangFormat-Xcode**](https://github.com/travisjeffery/ClangFormat-Xcode)|Xcode plug-in to to use clang-format from in Xcode and consistently format your code with Clang|[:arrow_upper_right:](https://twitter.com/travisjeffery)|
+|2510|[@agilebits](https://github.com/agilebits)/[**onepassword-app-extension**](https://github.com/agilebits/onepassword-app-extension)|1Password Extension for iOS Apps||
 |2366|[@gmoledina](https://github.com/gmoledina)/[**GMGridView**](https://github.com/gmoledina/GMGridView)|A performant Grid-View for iOS (iPhone/iPad) that allows sorting of views with gestures (the user can move the items with his finger to sort them) and pinching/rotating/panning gestures allow the user to play with the view and toggle from the cellview to a fullsize display.||
-|1301|[@mtonio91](https://github.com/mtonio91)/[**AMSmoothAlert**](https://github.com/mtonio91/AMSmoothAlert)|Cool AlertView||
-|1190|[@alinz](https://github.com/alinz)/[**react-native-webview-bridge**](https://github.com/alinz/react-native-webview-bridge)|React Native Webview with Javascript Bridge ||
-|954|[@naoufal](https://github.com/naoufal)/[**react-native-payments**](https://github.com/naoufal/react-native-payments)|Accept Payments with Apple Pay and Android Pay using the Payment Request API.|[:arrow_upper_right:](https://www.npmjs.com/package/react-native-payments)|
+|1299|[@mtonio91](https://github.com/mtonio91)/[**AMSmoothAlert**](https://github.com/mtonio91/AMSmoothAlert)|Cool AlertView||
+|1192|[@alinz](https://github.com/alinz)/[**react-native-webview-bridge**](https://github.com/alinz/react-native-webview-bridge)|React Native Webview with Javascript Bridge ||
+|964|[@naoufal](https://github.com/naoufal)/[**react-native-payments**](https://github.com/naoufal/react-native-payments)|Accept Payments with Apple Pay and Android Pay using the Payment Request API.|[:arrow_upper_right:](https://www.npmjs.com/package/react-native-payments)|
 |838|[@500px](https://github.com/500px)/[**greedo-layout-for-ios**](https://github.com/500px/greedo-layout-for-ios)|Full aspect ratio grid layout for iOS||
 |835|[@fortinmike](https://github.com/fortinmike)/[**XcodeBoost**](https://github.com/fortinmike/XcodeBoost)|An Xcode plugin that aims to make altering and inspecting code quick and easy.||
 |738|[@tristanhimmelman](https://github.com/tristanhimmelman)/[**THSpringyCollectionView**](https://github.com/tristanhimmelman/THSpringyCollectionView)|A memory and CPU efficient implementation of a collection view with cells that bounce around like they do in the iOS 7 messages app ||
@@ -15,7 +15,7 @@
 |612|[@ustwo](https://github.com/ustwo)/[**US2FormValidator**](https://github.com/ustwo/US2FormValidator)|Form validation framework for iOS.||
 |581|[@alunbestor](https://github.com/alunbestor)/[**Boxer**](https://github.com/alunbestor/Boxer)|The DOS game emulator that's fit for your Mac.|[:arrow_upper_right:](http://boxerapp.com/)|
 |448|[@naoufal](https://github.com/naoufal)/[**react-native-activity-view**](https://github.com/naoufal/react-native-activity-view)|iOS share and action sheets for React Native|[:arrow_upper_right:](https://www.npmjs.com/package/react-native-activity-view)|
-|423|[@naoufal](https://github.com/naoufal)/[**react-native-safari-view**](https://github.com/naoufal/react-native-safari-view)|A React Native wrapper for Safari View Controller.|[:arrow_upper_right:](https://www.npmjs.com/package/react-native-safari-view)|
+|424|[@naoufal](https://github.com/naoufal)/[**react-native-safari-view**](https://github.com/naoufal/react-native-safari-view)|A React Native wrapper for Safari View Controller.|[:arrow_upper_right:](https://www.npmjs.com/package/react-native-safari-view)|
 |404|[@matehat](https://github.com/matehat)/[**Objective-LevelDB**](https://github.com/matehat/Objective-LevelDB)|An Objective-C database library built over Google's LevelDB|[:arrow_upper_right:](http://matehat.github.io/Objective-LevelDB)|
 |394|[@st3fan](https://github.com/st3fan)/[**ios-openssl**](https://github.com/st3fan/ios-openssl)|Port of OpenSSL for iOS||
 |340|[@qasim](https://github.com/qasim)/[**Airstream**](https://github.com/qasim/Airstream)|A framework for streaming audio between Apple devices using AirPlay.||
@@ -26,15 +26,15 @@
 |260|[@naoufal](https://github.com/naoufal)/[**react-native-speech**](https://github.com/naoufal/react-native-speech)|A text-to-speech library for React Native.|[:arrow_upper_right:](https://www.npmjs.com/package/react-native-speech)|
 |245|[@agilebits](https://github.com/agilebits)/[**AgileCloudSDK**](https://github.com/agilebits/AgileCloudSDK)|AgileCloudSDK is our CloudKit JS implementation of the CloudKit framework. It is used in 1Password for Mac.||
 |235|[@Sticktron](https://github.com/Sticktron)/[**g0blin**](https://github.com/Sticktron/g0blin)|a work-in-progress jailbreak for iOS 10.3.x (A7-A9)||
-|233|[@irccloud](https://github.com/irccloud)/[**ios**](https://github.com/irccloud/ios)|IRCCloud iOS App||
+|234|[@irccloud](https://github.com/irccloud)/[**ios**](https://github.com/irccloud/ios)|IRCCloud iOS App||
 |202|[@fictorial](https://github.com/fictorial)/[**BHTabBar**](https://github.com/fictorial/BHTabBar)|A web-browser like tab bar implementation for iOS4+||
-|197|[@roustem](https://github.com/roustem)/[**AsyncSocket**](https://github.com/roustem/AsyncSocket)|A place to pull or collaborate on AsyncSocket, the public domain Cocoa socket framework.|[:arrow_upper_right:](http://code.google.com/p/cocoaasyncsocket/)|
-|192|[@macdonst](https://github.com/macdonst)/[**SpeechRecognitionPlugin**](https://github.com/macdonst/SpeechRecognitionPlugin)|W3C Web Speech API - Speech Recognition plugin for PhoneGap||
+|198|[@roustem](https://github.com/roustem)/[**AsyncSocket**](https://github.com/roustem/AsyncSocket)|A place to pull or collaborate on AsyncSocket, the public domain Cocoa socket framework.|[:arrow_upper_right:](http://code.google.com/p/cocoaasyncsocket/)|
+|191|[@macdonst](https://github.com/macdonst)/[**SpeechRecognitionPlugin**](https://github.com/macdonst/SpeechRecognitionPlugin)|W3C Web Speech API - Speech Recognition plugin for PhoneGap||
 |182|[@ankurp](https://github.com/ankurp)/[**APDropDownNavToolbar**](https://github.com/ankurp/APDropDownNavToolbar)|iOS7 Messages App style toolbar that drops down from navigation bar when tapping on the UIBarButton item||
 |171|[@mattvague](https://github.com/mattvague)/[**three20-iPhone-tutorials**](https://github.com/mattvague/three20-iPhone-tutorials)|The accompanying code for my three20 iPhone tutorials at http://www.mattvague.com/blog|[:arrow_upper_right:](http://www.mattvague.com/blog)|
 |160|[@DylanVann](https://github.com/DylanVann)/[**react-native-progressive-image**](https://github.com/DylanVann/react-native-progressive-image)|🌁 ProgressiveImage, progressively load images with React Native.||
 |157|[@travisjeffery](https://github.com/travisjeffery)/[**TRVSNavigationControllerTransition**](https://github.com/travisjeffery/TRVSNavigationControllerTransition)|Push/pop transition entire UINavigationController views.|[:arrow_upper_right:](http://twitter.com/travisjeffery)|
-|155|[@davidmurray](https://github.com/davidmurray)/[**wifi**](https://github.com/davidmurray/wifi)|The missing iOS WiFi manager.||
+|154|[@davidmurray](https://github.com/davidmurray)/[**wifi**](https://github.com/davidmurray/wifi)|The missing iOS WiFi manager.||
 |154|[@kmalakoff](https://github.com/kmalakoff)/[**_.m**](https://github.com/kmalakoff/_.m)|_.m is a port of Underscore.js to Objective-C.|[:arrow_upper_right:](http://kmalakoff.github.com/_.m)|
 |149|[@lemire](https://github.com/lemire)/[**streamvbyte**](https://github.com/lemire/streamvbyte)|Fast integer compression in C using the StreamVByte codec||
 |145|[@shiki](https://github.com/shiki)/[**STableViewController**](https://github.com/shiki/STableViewController)|A custom UIViewController with a UITableView which supports "pull to refresh" and "load more"||
@@ -52,7 +52,7 @@
 |96|[@b3ll](https://github.com/b3ll)/[**NyanCat**](https://github.com/b3ll/NyanCat)|Puts Nyan Cat in the iOS 8 Notification Center :D||
 |93|[@naoufal](https://github.com/naoufal)/[**react-native-passcode-auth**](https://github.com/naoufal/react-native-passcode-auth)|React Native authentication with iOS Passcode.||
 |90|[@st3fan](https://github.com/st3fan)/[**iphone-twitter**](https://github.com/st3fan/iphone-twitter)|iPhone Twitter Framework||
-|88|[@michelf](https://github.com/michelf)/[**sim-daltonism**](https://github.com/michelf/sim-daltonism)|A color blindness simulator for Mac and iOS||
+|89|[@michelf](https://github.com/michelf)/[**sim-daltonism**](https://github.com/michelf/sim-daltonism)|A color blindness simulator for Mac and iOS||
 |87|[@ricmoo](https://github.com/ricmoo)/[**GMEllipticCurveCrypto**](https://github.com/ricmoo/GMEllipticCurveCrypto)|Elliptic Curve Cryptography library for iOS (ECDSA and ECDH)||
 |85|[@ankurp](https://github.com/ankurp)/[**APAvatarImageView**](https://github.com/ankurp/APAvatarImageView)|Subclass of UIImageView to create a circle avatar image view with configuration border width and border color||
 |84|[@ondrej-rafaj](https://github.com/ondrej-rafaj)/[**FTShare**](https://github.com/ondrej-rafaj/FTShare)|sharing with Facebook, Twitter and email in few lines||
@@ -75,8 +75,8 @@
 |47|[@brentvatne](https://github.com/brentvatne)/[**PeekPopAttempt**](https://github.com/brentvatne/PeekPopAttempt)|||
 |44|[@kmalakoff](https://github.com/kmalakoff)/[**SubjectiveScript.m**](https://github.com/kmalakoff/SubjectiveScript.m)|Subjective-Script makes Objective-C more scripty!||
 |43|[@trishume](https://github.com/trishume)/[**stashline**](https://github.com/trishume/stashline)|A long term personal finance planning timeline app for IOS||
+|41|[@b3ll](https://github.com/b3ll)/[**Xcode-Theos**](https://github.com/b3ll/Xcode-Theos)|Attempts to use Theos/Logos with Xcode||
 |40|[@madebyjeffrey](https://github.com/madebyjeffrey)/[**OrganicUI**](https://github.com/madebyjeffrey/OrganicUI)|Cocoa User Interface Additions||
-|39|[@b3ll](https://github.com/b3ll)/[**Xcode-Theos**](https://github.com/b3ll/Xcode-Theos)|Attempts to use Theos/Logos with Xcode||
 |39|[@lkzhao](https://github.com/lkzhao)/[**AppStoreTransition**](https://github.com/lkzhao/AppStoreTransition)|Card transition demo similar to iOS 11 App Store. Build with Hero||
 |39|[@st3fan](https://github.com/st3fan)/[**cocoa-utils**](https://github.com/st3fan/cocoa-utils)|Misc utility classes for Cocoa||
 |38|[@fdstevex](https://github.com/fdstevex)/[**FDSFontDownloader**](https://github.com/fdstevex/FDSFontDownloader)|A simple class that handles font downloading in iOS 7.||
@@ -124,13 +124,13 @@
 |16|[@rafaelsteil](https://github.com/rafaelsteil)/[**tbxmlex**](https://github.com/rafaelsteil/tbxmlex)|An Objective-C XML parser which runs on iOS. Based on TBXML, with enhancements of my own||
 |16|[@st3fan](https://github.com/st3fan)/[**iphone-animation**](https://github.com/st3fan/iphone-animation)|iPhone Animation Framework||
 |15|[@alinz](https://github.com/alinz)/[**react-native-updater**](https://github.com/alinz/react-native-updater)|an open source version of AppHub!||
+|15|[@samsymons](https://github.com/samsymons)/[**Modules**](https://github.com/samsymons/Modules)|An example of Objective-C static library & framework modules||
 |15|[@travisjeffery](https://github.com/travisjeffery)/[**TRVSRainbowRoad**](https://github.com/travisjeffery/TRVSRainbowRoad)|iOS lib to animate your labels like Mario Kart's Rainbow Road|[:arrow_upper_right:](http://twitter.com/travisjeffery)|
 |14|[@Sn0wCh1ld](https://github.com/Sn0wCh1ld)/[**Tube-Player**](https://github.com/Sn0wCh1ld/Tube-Player)|A YouTube video viewer, manager and downloader||
 |14|[@b3ll](https://github.com/b3ll)/[**PostOffice**](https://github.com/b3ll/PostOffice)|Post Office||
 |14|[@iamamused](https://github.com/iamamused)/[**Example-Dismiss-Segue**](https://github.com/iamamused/Example-Dismiss-Segue)|||
 |14|[@infil00p](https://github.com/infil00p)/[**phonegap-iphone**](https://github.com/infil00p/phonegap-iphone)|iPhone OS implementation of the PhoneGap API|[:arrow_upper_right:](http://phonegap.com)|
 |14|[@jescalan](https://github.com/jescalan)/[**Fontforge-Installer**](https://github.com/jescalan/Fontforge-Installer)|The most ghetto installer you will ever lay eyes on||
-|14|[@samsymons](https://github.com/samsymons)/[**Modules**](https://github.com/samsymons/Modules)|An example of Objective-C static library & framework modules||
 |14|[@sinofool](https://github.com/sinofool)/[**cordova-alipay-plugin**](https://github.com/sinofool/cordova-alipay-plugin)|||
 |14|[@travisjeffery](https://github.com/travisjeffery)/[**ios-how-to-mask-and-shadow**](https://github.com/travisjeffery/ios-how-to-mask-and-shadow)|iOS-How-to-MaskAndShadow||
 |13|[@Sticktron](https://github.com/Sticktron)/[**RegisterUTIsForLogos**](https://github.com/Sticktron/RegisterUTIsForLogos)|An empty app that registers .xm and .x filetypes in OS X.||
@@ -222,6 +222,7 @@
 |6|[@nhamming](https://github.com/nhamming)/[**iPhoneHeartRateMonitor**](https://github.com/nhamming/iPhoneHeartRateMonitor)|Ported the OS X HeartRateMonitor app to the iPhone||
 |6|[@philipbarnes](https://github.com/philipbarnes)/[**quantlib-on-iOS**](https://github.com/philipbarnes/quantlib-on-iOS)|This is a set of scripts that enable the QuantLib library to be built as a framework for iOS for inclusion in iPhone and iPad applications.|[:arrow_upper_right:](http://stridingedgetechnologies.blogspot.co.uk/)|
 |6|[@ssaw](https://github.com/ssaw)/[**peacock**](https://github.com/ssaw/peacock)|The set of Categories that will help you clean, reduce, order and separate all you styling code, removing it from your Views and ViewControllers to put it on a separate styling file.||
+|6|[@ustwo](https://github.com/ustwo)/[**ibeacon-demo**](https://github.com/ustwo/ibeacon-demo)|||
 |5|[@BuddyBuild](https://github.com/BuddyBuild)/[**Custom-Testing**](https://github.com/BuddyBuild/Custom-Testing)|||
 |5|[@DavidBriglio](https://github.com/DavidBriglio)/[**cordova-banner-notification**](https://github.com/DavidBriglio/cordova-banner-notification)|Cordova iOS Foreground Banner Notification Plugin||
 |5|[@DylanVann](https://github.com/DylanVann)/[**react-native-camera-roll**](https://github.com/DylanVann/react-native-camera-roll)|Native module to get photos from the device.||
@@ -245,7 +246,6 @@
 |5|[@tilomitra](https://github.com/tilomitra)/[**Peekaboo**](https://github.com/tilomitra/Peekaboo)|Peekaboo Face Recognition iOS App was my 4th year design project. See website for details.|[:arrow_upper_right:](http://tilomitra.com/presenting-peekaboo/)|
 |5|[@travisjeffery](https://github.com/travisjeffery)/[**TRVSKit**](https://github.com/travisjeffery/TRVSKit)|a collection of useful apis for objc, ios, mac hacking||
 |5|[@ustwo](https://github.com/ustwo)/[**US2KeyboardType**](https://github.com/ustwo/US2KeyboardType)|||
-|5|[@ustwo](https://github.com/ustwo)/[**ibeacon-demo**](https://github.com/ustwo/ibeacon-demo)|||
 |4|[@BlakeBrown](https://github.com/BlakeBrown)/[**Noflix**](https://github.com/BlakeBrown/Noflix)|Hackathon project for Hack the North||
 |4|[@Cykey](https://github.com/Cykey)/[**Ghostbin-ActionMenu**](https://github.com/Cykey/Ghostbin-ActionMenu)|Ghostbin plugin for Action Menu.||
 |4|[@McSpider](https://github.com/McSpider)/[**Starmap**](https://github.com/McSpider/Starmap)|Random starmap generator.||

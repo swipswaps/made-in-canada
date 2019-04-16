@@ -5,7 +5,7 @@
 |131|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
 |130|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
 |105|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
-|97|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
+|98|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
 |74|[@zhangchiqing](https://github.com/zhangchiqing)/[**beginner-friendly-haskell-for-web-development**](https://github.com/zhangchiqing/beginner-friendly-haskell-for-web-development)|A book about real world web development in beginner friendly Haskell||
 |61|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
 |51|[@thephoeron](https://github.com/thephoeron)/[**quipper-language**](https://github.com/thephoeron/quipper-language)|Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)||
@@ -33,6 +33,7 @@
 |10|[@avieth](https://github.com/avieth)/[**diplomacy**](https://github.com/avieth/diplomacy)|The board game Diplomacy, spoken in Haskell||
 |10|[@fosskers](https://github.com/fosskers)/[**microlens-aeson**](https://github.com/fosskers/microlens-aeson)|Lenses and Traversals for Aeson, based on Microlens.||
 |10|[@singpolyma](https://github.com/singpolyma)/[**cheogram**](https://github.com/singpolyma/cheogram)|Groupchat for everyone|[:arrow_upper_right:](https://cheogram.com)|
+|9|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**lambda-pi-constraint**](https://github.com/JoeyEremondi/lambda-pi-constraint)|||
 |9|[@avieth](https://github.com/avieth)/[**type-lambda**](https://github.com/avieth/type-lambda)|First-class type-level functions||
 |9|[@fosskers](https://github.com/fosskers)/[**nanq**](https://github.com/fosskers/nanq)|Haskell suite for determining what 級 (level) of the 漢字検定 (national Kanji exam) a given Kanji belongs to.||
 |9|[@fosskers](https://github.com/fosskers)/[**streaming-osm**](https://github.com/fosskers/streaming-osm)|A hand-written streaming byte parser for OpenStreetMap Protobuf data.||
@@ -42,7 +43,6 @@
 |8|[@bbc](https://github.com/bbc)/[**haskell-workshop**](https://github.com/bbc/haskell-workshop)|Haskell workshop that will hopefully contribute something back to the open-source community||
 |8|[@gregorycollins](https://github.com/gregorycollins)/[**blaaargh**](https://github.com/gregorycollins/blaaargh)|A simple flatfile web content management system, written in Haskell + happstack|[:arrow_upper_right:](http://gregorycollins.net/)|
 |8|[@shepheb](https://github.com/shepheb)/[**go10c**](https://github.com/shepheb/go10c)|Compiler for a dialect of Go to DCPU-16 assembly||
-|7|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**lambda-pi-constraint**](https://github.com/JoeyEremondi/lambda-pi-constraint)|||
 |7|[@alexstoick](https://github.com/alexstoick)/[**pandoc-docx-pagebreak**](https://github.com/alexstoick/pandoc-docx-pagebreak)|||
 |7|[@csabahruska](https://github.com/csabahruska)/[**GFXDemo**](https://github.com/csabahruska/GFXDemo)|||
 |7|[@diogob](https://github.com/diogob)/[**haskell-tools**](https://github.com/diogob/haskell-tools)|Website to view haskell projects from Github|[:arrow_upper_right:](http://haskelltools.com)|
@@ -69,6 +69,7 @@
 |3|[@avieth](https://github.com/avieth)/[**PullRequestNagger**](https://github.com/avieth/PullRequestNagger)|Nag your peers about outstanding pull requests||
 |3|[@borsboom](https://github.com/borsboom)/[**git-embed**](https://github.com/borsboom/git-embed)|DEPRECATED: Use Template Haskell to embed Git revision, branch, and tag information.|[:arrow_upper_right:](https://hackage.haskell.org/package/git-embed)|
 |3|[@bsandrow](https://github.com/bsandrow)/[**xmonad**](https://github.com/bsandrow/xmonad)|My Xmonad Config file and Related scripts||
+|3|[@diogob](https://github.com/diogob)/[**reader-tutorial**](https://github.com/diogob/reader-tutorial)|Tutorial using ReaderT and mock IO functions for testing||
 |3|[@edmundnoble](https://github.com/edmundnoble)/[**jeb**](https://github.com/edmundnoble/jeb)|a journal app||
 |3|[@eschnett](https://github.com/eschnett)/[**mpi-hs**](https://github.com/eschnett/mpi-hs)|MPI bindings for Haskell||
 |3|[@inaimathi](https://github.com/inaimathi)/[**goget**](https://github.com/inaimathi/goget)|Basic haskell shopping list web-app for learning purposes||

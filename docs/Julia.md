@@ -19,6 +19,7 @@
 |4|[@alice-si](https://github.com/alice-si)/[**TcrSimulation.jl**](https://github.com/alice-si/TcrSimulation.jl)|Simulating the TCR protocol||
 |4|[@christopher-dG](https://github.com/christopher-dG)/[**Chatter.jl**](https://github.com/christopher-dG/Chatter.jl)|Talk to stuff, and talk to more stuff when I am less lazy||
 |4|[@eschnett](https://github.com/eschnett)/[**FastArrays.jl**](https://github.com/eschnett/FastArrays.jl)|Multi-dimensional arrays with arbitrary upper and lower bounds that can be fixed at compile time.|[:arrow_upper_right:](http://eschnett.github.io/FastArrays.jl/)|
+|4|[@hessammehr](https://github.com/hessammehr)/[**Logic.jl**](https://github.com/hessammehr/Logic.jl)|Sketch of a Prolog interpreter in Julia||
 |4|[@tpoisot](https://github.com/tpoisot)/[**Viridis.jl**](https://github.com/tpoisot/Viridis.jl)|Viridis (et al.) palettes for Julia||
 |3|[@eschnett](https://github.com/eschnett)/[**Contracts.jl**](https://github.com/eschnett/Contracts.jl)|||
 |3|[@jiahao](https://github.com/jiahao)/[**ArbRadixFloatingPoints.jl**](https://github.com/jiahao/ArbRadixFloatingPoints.jl)|Floating point numbers with arbitrary radixes (may be negative or nonreal)||

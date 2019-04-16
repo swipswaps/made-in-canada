@@ -1,14 +1,14 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|18392|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
-|731|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
+|18465|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
+|732|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
 |290|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
 |282|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
-|273|[@jennybc](https://github.com/jennybc)/[**happy-git-with-r**](https://github.com/jennybc/happy-git-with-r)|Using Git and GitHub with R, Rstudio, and R Markdown|[:arrow_upper_right:](https://happygitwithr.com)|
+|274|[@jennybc](https://github.com/jennybc)/[**happy-git-with-r**](https://github.com/jennybc/happy-git-with-r)|Using Git and GitHub with R, Rstudio, and R Markdown|[:arrow_upper_right:](https://happygitwithr.com)|
 |220|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
-|198|[@bob-carpenter](https://github.com/bob-carpenter)/[**prob-stats**](https://github.com/bob-carpenter/prob-stats)|Probability and Statistics: a simulation-based introduction.  An open-access book.||
+|197|[@bob-carpenter](https://github.com/bob-carpenter)/[**prob-stats**](https://github.com/bob-carpenter/prob-stats)|Probability and Statistics: a simulation-based introduction.  An open-access book.||
 |154|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execushares**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
-|101|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
+|102|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
 |60|[@patmorin](https://github.com/patmorin)/[**arraylayout**](https://github.com/patmorin/arraylayout)|Experiments with array layouts for comparison-based searching|[:arrow_upper_right:](http://cglab.ca/~morin/misc/arraylayout-v2/)|
 |44|[@christhomson](https://github.com/christhomson)/[**lecture-notes**](https://github.com/christhomson/lecture-notes)|LaTeX notes for a few courses I've taken at the University of Waterloo.|[:arrow_upper_right:](http://cthomson.ca/notes)|
 |23|[@lyst](https://github.com/lyst)/[**lightfm-paper**](https://github.com/lyst/lightfm-paper)|||
@@ -25,9 +25,9 @@
 |10|[@PhDP](https://github.com/PhDP)/[**article_preprint**](https://github.com/PhDP/article_preprint)|An article on preprints in biology (published in PLOS Biology).||
 |10|[@Pomax](https://github.com/Pomax)/[**ucharclasses**](https://github.com/Pomax/ucharclasses)|A XeLaTeX package that lets you insert arbitrary code between characters from different unicode blocks||
 |10|[@gaborbernat](https://github.com/gaborbernat)/[**ropi_jegyzet_latex**](https://github.com/gaborbernat/ropi_jegyzet_latex)|Rendszeroptimizálás||
-|9|[@hadim](https://github.com/hadim)/[**phd_thesis**](https://github.com/hadim/phd_thesis)|My PhD thesis source code (markdown + latex + pandoc)||
 |9|[@seananderson](https://github.com/seananderson)/[**heavy-tails**](https://github.com/seananderson/heavy-tails)|Black-swan events in animal populations||
 |8|[@bmcfee](https://github.com/bmcfee)/[**playlist_recommender**](https://github.com/bmcfee/playlist_recommender)|Personalized generative playlist models||
+|8|[@hadim](https://github.com/hadim)/[**phd_thesis**](https://github.com/hadim/phd_thesis)|My PhD thesis source code (markdown + latex + pandoc)||
 |8|[@qrwteyrutiyoup](https://github.com/qrwteyrutiyoup)/[**modelo-latex-uece**](https://github.com/qrwteyrutiyoup/modelo-latex-uece)|Modelo de monografia em LaTeX da Universidade Estadual do Ceará (UECE)||
 |7|[@ctn-archive](https://github.com/ctn-archive)/[**bekolay-jneurosci2014**](https://github.com/ctn-archive/bekolay-jneurosci2014)|Files related to "A spiking neural integrator model of the adaptive control of action by the medial prefrontal cortex"||
 |7|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan-2016**](https://github.com/gavinsimpson/esa-advanced-vegan-2016)|Advanced Vegan Workshop at ESA 2016||
@@ -42,10 +42,10 @@
 |5|[@patmorin](https://github.com/patmorin)/[**tds**](https://github.com/patmorin/tds)|Notes from my Advanced Data Structure class.||
 |5|[@seananderson](https://github.com/seananderson)/[**pandoc-template**](https://github.com/seananderson/pandoc-template)|An example manuscript setup in Pandoc||
 |5|[@sjackman](https://github.com/sjackman)/[**white-spruce-organelles-paper**](https://github.com/sjackman/white-spruce-organelles-paper)|:evergreen_tree: Organellar Genomes of White Spruce (Picea glauca)|[:arrow_upper_right:](http://gbe.oxfordjournals.org/content/8/1/29)|
+|4|[@MIT-LCP](https://github.com/MIT-LCP)/[**physionet-build**](https://github.com/MIT-LCP/physionet-build)|The new PhysioNet platform.|[:arrow_upper_right:](https://alpha.physionet.org/)|
 |4|[@peeterjoot](https://github.com/peeterjoot)/[**classicalmechanics**](https://github.com/peeterjoot/classicalmechanics)|classicalmechanics notes compilation||
 |4|[@tpetricek](https://github.com/tpetricek)/[**Research.TypeProviders**](https://github.com/tpetricek/Research.TypeProviders)|||
 |4|[@tpoisot](https://github.com/tpoisot)/[**response_agrawal**](https://github.com/tpoisot/response_agrawal)|||
-|3|[@MIT-LCP](https://github.com/MIT-LCP)/[**physionet-build**](https://github.com/MIT-LCP/physionet-build)|The new PhysioNet platform.|[:arrow_upper_right:](https://alpha.physionet.org/)|
 |3|[@PhDP](https://github.com/PhDP)/[**ms_transfer_def**](https://github.com/PhDP/ms_transfer_def)|The problem of knowledge transfer in machine learning||
 |3|[@bmcfee](https://github.com/bmcfee)/[**ismir2016_eval**](https://github.com/bmcfee/ismir2016_eval)|A plan for sustainable, community-driven evaluation of MIR methods||
 |3|[@dankelley](https://github.com/dankelley)/[**dal-oce-thesis**](https://github.com/dankelley/dal-oce-thesis)|latex style for MSc / PhD theses at Dalhousie University (esp. in Oceanography)|[:arrow_upper_right:](http://dankelley.github.io/dal-oce-thesis/index.html)|

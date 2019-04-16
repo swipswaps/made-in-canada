@@ -1,11 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2069|[@Caiyeon](https://github.com/Caiyeon)/[**goldfish**](https://github.com/Caiyeon/goldfish)|A HashiCorp Vault UI written with VueJS and Vault native Go API|[:arrow_upper_right:](https://vault-ui.io)|
-|318|[@chmln](https://github.com/chmln)/[**vue-wysiwyg**](https://github.com/chmln/vue-wysiwyg)|A lightweight WYSIWYG HTML editor for Vue.js|[:arrow_upper_right:](https://chmln.github.io/vue-wysiwyg/)|
+|2076|[@Caiyeon](https://github.com/Caiyeon)/[**goldfish**](https://github.com/Caiyeon/goldfish)|A HashiCorp Vault UI written with VueJS and Vault native Go API|[:arrow_upper_right:](https://vault-ui.io)|
+|320|[@chmln](https://github.com/chmln)/[**vue-wysiwyg**](https://github.com/chmln/vue-wysiwyg)|A lightweight WYSIWYG HTML editor for Vue.js|[:arrow_upper_right:](https://chmln.github.io/vue-wysiwyg/)|
 |123|[@Braunson](https://github.com/Braunson)/[**laravel-coreui-vue**](https://github.com/Braunson/laravel-coreui-vue)|Laravel 5.6 with CoreUI (VueJS Full Starter Template)||
-|78|[@james2doyle](https://github.com/james2doyle)/[**nuxt-firebase-auth**](https://github.com/james2doyle/nuxt-firebase-auth)|An example of using Nuxt with Firebase to auth users without a server||
+|79|[@james2doyle](https://github.com/james2doyle)/[**nuxt-firebase-auth**](https://github.com/james2doyle/nuxt-firebase-auth)|An example of using Nuxt with Firebase to auth users without a server||
 |61|[@remixz](https://github.com/remixz)/[**umi**](https://github.com/remixz/umi)|📺 Watch Crunchyroll together, and more|[:arrow_upper_right:](https://umi.party)|
 |33|[@adamwathan](https://github.com/adamwathan)/[**vueconfto-demo**](https://github.com/adamwathan/vueconfto-demo)|||
+|29|[@drehimself](https://github.com/drehimself)/[**gridsome-portfolio-starter**](https://github.com/drehimself/gridsome-portfolio-starter)|A simple portfolio theme for Gridsome powered by Tailwind CSS 1.0|[:arrow_upper_right:](https://gridsome-portfolio-starter.netlify.com)|
 |14|[@adamwathan](https://github.com/adamwathan)/[**vue-cli-tailwind-1.0**](https://github.com/adamwathan/vue-cli-tailwind-1.0)|||
 |14|[@yanick](https://github.com/yanick)/[**vue-svg-pan-zoom**](https://github.com/yanick/vue-svg-pan-zoom)|Vue component using SvgPanZoom||
 |11|[@Ratismal](https://github.com/Ratismal)/[**DiscordMungeon**](https://github.com/Ratismal/DiscordMungeon)|A panel for DiscordRPG||

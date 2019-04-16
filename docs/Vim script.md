@@ -1,26 +1,26 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3061|[@pangloss](https://github.com/pangloss)/[**vim-javascript**](https://github.com/pangloss/vim-javascript)|Vastly improved Javascript indentation and syntax support in Vim.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4452)|
-|846|[@jpalardy](https://github.com/jpalardy)/[**vim-slime**](https://github.com/jpalardy/vim-slime)|A vim plugin to give you some slime. (Emacs)|[:arrow_upper_right:](http://technotales.wordpress.com/2007/10/03/like-slime-for-vim/)|
+|3066|[@pangloss](https://github.com/pangloss)/[**vim-javascript**](https://github.com/pangloss/vim-javascript)|Vastly improved Javascript indentation and syntax support in Vim.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4452)|
+|848|[@jpalardy](https://github.com/jpalardy)/[**vim-slime**](https://github.com/jpalardy/vim-slime)|A vim plugin to give you some slime. (Emacs)|[:arrow_upper_right:](http://technotales.wordpress.com/2007/10/03/like-slime-for-vim/)|
 |834|[@gf3](https://github.com/gf3)/[**dotfiles**](https://github.com/gf3/dotfiles)|config for neovim, tmux, molotov colourscheme, and more||
-|698|[@myusuf3](https://github.com/myusuf3)/[**numbers.vim**](https://github.com/myusuf3/numbers.vim)|numbers.vim is a vim plugin for better line numbers|[:arrow_upper_right:](http://myusuf3.github.com/numbers.vim/)|
-|514|[@svermeulen](https://github.com/svermeulen)/[**vim-easyclip**](https://github.com/svermeulen/vim-easyclip)|Simplified clipboard functionality for Vim||
-|429|[@tommcdo](https://github.com/tommcdo)/[**vim-exchange**](https://github.com/tommcdo/vim-exchange)|Easy text exchange operator for Vim||
-|335|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
-|313|[@amacgregor](https://github.com/amacgregor)/[**dot-files**](https://github.com/amacgregor/dot-files)|Dotfiles repository||
+|699|[@myusuf3](https://github.com/myusuf3)/[**numbers.vim**](https://github.com/myusuf3/numbers.vim)|numbers.vim is a vim plugin for better line numbers|[:arrow_upper_right:](http://myusuf3.github.com/numbers.vim/)|
+|516|[@svermeulen](https://github.com/svermeulen)/[**vim-easyclip**](https://github.com/svermeulen/vim-easyclip)|Simplified clipboard functionality for Vim||
+|430|[@tommcdo](https://github.com/tommcdo)/[**vim-exchange**](https://github.com/tommcdo/vim-exchange)|Easy text exchange operator for Vim||
+|336|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
+|314|[@amacgregor](https://github.com/amacgregor)/[**dot-files**](https://github.com/amacgregor/dot-files)|Dotfiles repository||
 |217|[@dgryski](https://github.com/dgryski)/[**vim-godef**](https://github.com/dgryski/vim-godef)|vim plugin providing godef support||
 |177|[@juliosueiras](https://github.com/juliosueiras)/[**vim-terraform-completion**](https://github.com/juliosueiras/vim-terraform-completion)|A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool||
 |135|[@myusuf3](https://github.com/myusuf3)/[**dotfiles**](https://github.com/myusuf3/dotfiles)|myusuf3's dotfiles||
 |87|[@lfilho](https://github.com/lfilho)/[**cosco.vim**](https://github.com/lfilho/cosco.vim)|VIM colon and semicolon insertion bliss||
-|78|[@martinda](https://github.com/martinda)/[**Jenkinsfile-vim-syntax**](https://github.com/martinda/Jenkinsfile-vim-syntax)|Jenkinsfile DSL vim syntax||
+|80|[@martinda](https://github.com/martinda)/[**Jenkinsfile-vim-syntax**](https://github.com/martinda/Jenkinsfile-vim-syntax)|Jenkinsfile DSL vim syntax||
 |76|[@idbrii](https://github.com/idbrii)/[**AsyncCommand**](https://github.com/idbrii/AsyncCommand)|AsyncCommand allows you to execute shell commands without waiting for them  to complete. When the application terminates, its output can be loaded into  a vim buffer.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3431)|
 |74|[@jpalardy](https://github.com/jpalardy)/[**dotfiles**](https://github.com/jpalardy/dotfiles)|My collection of config files (bash, vim, …)||
-|73|[@svermeulen](https://github.com/svermeulen)/[**vim-subversive**](https://github.com/svermeulen/vim-subversive)|Vim plugin providing operator motions to quickly replace text||
-|62|[@svermeulen](https://github.com/svermeulen)/[**vim-yoink**](https://github.com/svermeulen/vim-yoink)|Vim plugin that maintains a yank history to cycle between when pasting||
+|74|[@svermeulen](https://github.com/svermeulen)/[**vim-subversive**](https://github.com/svermeulen/vim-subversive)|Vim plugin providing operator motions to quickly replace text||
+|63|[@svermeulen](https://github.com/svermeulen)/[**vim-yoink**](https://github.com/svermeulen/vim-yoink)|Vim plugin that maintains a yank history to cycle between when pasting||
 |58|[@MilesCranmer](https://github.com/MilesCranmer)/[**gso**](https://github.com/MilesCranmer/gso)|🏃  Automatic programming in Vim. Works by copy-pasting Stack Overflow answers.||
 |55|[@jperras](https://github.com/jperras)/[**dotfiles**](https://github.com/jperras/dotfiles)|Carefully crafted, curated and somewhat Python-oriented Vim development environment||
 |55|[@jperras](https://github.com/jperras)/[**vim-dotfiles**](https://github.com/jperras/vim-dotfiles)|Carefully crafted, curated and somewhat Python-oriented Vim development environment||
-|53|[@honza](https://github.com/honza)/[**dockerfile.vim**](https://github.com/honza/dockerfile.vim)|Syntax highlighting for Dockerfiles||
+|54|[@honza](https://github.com/honza)/[**dockerfile.vim**](https://github.com/honza/dockerfile.vim)|Syntax highlighting for Dockerfiles||
 |47|[@AGhost-7](https://github.com/AGhost-7)/[**critiq.vim**](https://github.com/AGhost-7/critiq.vim)|Github code reviews from Neovim||
 |45|[@ujihisa](https://github.com/ujihisa)/[**repl.vim**](https://github.com/ujihisa/repl.vim)|irb, ghci, and anything else. in Vim.||
 |43|[@ujihisa](https://github.com/ujihisa)/[**config**](https://github.com/ujihisa/config)|||
@@ -42,8 +42,8 @@
 |13|[@curtismchale](https://github.com/curtismchale)/[**WPTT-Vim-Config**](https://github.com/curtismchale/WPTT-Vim-Config)|My WordPress vim config||
 |11|[@idbrii](https://github.com/idbrii)/[**vim-endoscope**](https://github.com/idbrii/vim-endoscope)|A single keystroke to end your scope. Like autoclose plugins, but less automatic.||
 |11|[@kevinjalbert](https://github.com/kevinjalbert)/[**dotfiles**](https://github.com/kevinjalbert/dotfiles)|My dotfiles|[:arrow_upper_right:](https://kevinjalbert.com/synchronizing-my-dotfiles/)|
+|11|[@tommcdo](https://github.com/tommcdo)/[**vimfiles**](https://github.com/tommcdo/vimfiles)|A copy of my ~/.vim directory||
 |11|[@tylerball](https://github.com/tylerball)/[**dotfiles**](https://github.com/tylerball/dotfiles)|files with dots.||
-|10|[@tommcdo](https://github.com/tommcdo)/[**vimfiles**](https://github.com/tommcdo/vimfiles)|A copy of my ~/.vim directory||
 |10|[@vinibaggio](https://github.com/vinibaggio)/[**vinibaggio-dotfiles**](https://github.com/vinibaggio/vinibaggio-dotfiles)|This is my vim configuration, a big mix from a lot of what I've seen on the net.|[:arrow_upper_right:](http://www.vinibaggio.net)|
 |10|[@vinibaggio](https://github.com/vinibaggio)/[**vinibaggio-vimfiles**](https://github.com/vinibaggio/vinibaggio-vimfiles)|This is my vim configuration, a big mix from a lot of what I've seen on the net.|[:arrow_upper_right:](http://www.vinibaggio.net)|
 |9|[@0xfe](https://github.com/0xfe)/[**evil**](https://github.com/0xfe/evil)|Profiles, scripts, and other shared code.||

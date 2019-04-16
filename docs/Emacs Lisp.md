@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|17366|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
-|135|[@syl20bnr](https://github.com/syl20bnr)/[**evil-escape**](https://github.com/syl20bnr/evil-escape)|Customizable key sequence to escape from insert state and everything else in Emacs.||
+|17412|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
+|136|[@syl20bnr](https://github.com/syl20bnr)/[**evil-escape**](https://github.com/syl20bnr/evil-escape)|Customizable key sequence to escape from insert state and everything else in Emacs.||
 |118|[@burtonsamograd](https://github.com/burtonsamograd)/[**emacs-jit**](https://github.com/burtonsamograd/emacs-jit)|Emacs with an Emacs Lisp JIT (Just In Time) compiler using libjit.||
 |100|[@atgreen](https://github.com/atgreen)/[**paperless**](https://github.com/atgreen/paperless)|Emacs assisted PDF document filing||
 |78|[@aspiers](https://github.com/aspiers)/[**smooth-scrolling**](https://github.com/aspiers/smooth-scrolling)|Emacs smooth scrolling package||
@@ -24,11 +24,11 @@
 |16|[@travisjeffery](https://github.com/travisjeffery)/[**dotfiles**](https://github.com/travisjeffery/dotfiles)|@travisjeffery's dotfiles. vim, zsh, tmux||
 |15|[@j0ni](https://github.com/j0ni)/[**phoenix-dark-pink**](https://github.com/j0ni/phoenix-dark-pink)|Phoenix Dark Pink theme port for emacs||
 |12|[@cbbrowne](https://github.com/cbbrowne)/[**pg.el**](https://github.com/cbbrowne/pg.el)|PostgreSQL Elisp interface||
+|11|[@gnuvince](https://github.com/gnuvince)/[**purp**](https://github.com/gnuvince/purp)|A theme for Emacs with few colors||
 |11|[@rspivak](https://github.com/rspivak)/[**httpcode.el**](https://github.com/rspivak/httpcode.el)|Explains the meaning of an HTTP status code in minibuffer||
 |10|[@danp](https://github.com/danp)/[**confluence-el**](https://github.com/danp/confluence-el)|confluence emacs integration|[:arrow_upper_right:](http://code.google.com/p/confluence-el/)|
-|10|[@gnuvince](https://github.com/gnuvince)/[**purp**](https://github.com/gnuvince/purp)|A theme for Emacs with few colors||
+|10|[@practicalli](https://github.com/practicalli)/[**spacemacs-config**](https://github.com/practicalli/spacemacs-config)|My configuration for spacemacs||
 |9|[@onaio](https://github.com/onaio)/[**meow**](https://github.com/onaio/meow)|||
-|9|[@practicalli](https://github.com/practicalli)/[**spacemacs-config**](https://github.com/practicalli/spacemacs-config)|My configuration for spacemacs||
 |8|[@rudolfolah](https://github.com/rudolfolah)/[**emacs-flow-jsx**](https://github.com/rudolfolah/emacs-flow-jsx)|Emacs mode for handling JavaScript that uses Flow type annotations and has some React JSX syntax in it. (MIRROR)|[:arrow_upper_right:](https://gitlab.com/rudolfo/emacs-flow-jsx)|
 |7|[@j0ni](https://github.com/j0ni)/[**phoenix-dark-mono**](https://github.com/j0ni/phoenix-dark-mono)|Mono version of the Phoenix Dark theme||
 |7|[@jimeh](https://github.com/jimeh)/[**rubocopfmt.el**](https://github.com/jimeh/rubocopfmt.el)|Emacs minor-mode to format Ruby code with RuboCop on save.||
