@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |235|[@b3ll](https://github.com/b3ll)/[**Ignition**](https://github.com/b3ll/Ignition)|Runs the CarPlay UI directly on top of SpringBoard on an iOS device, no need for a car!||
-|50|[@b3ll](https://github.com/b3ll)/[**MessageBox**](https://github.com/b3ll/MessageBox)|Break Facebook's Chat Heads out of the iOS Sandbox!||
+|51|[@b3ll](https://github.com/b3ll)/[**MessageBox**](https://github.com/b3ll/MessageBox)|Break Facebook's Chat Heads out of the iOS Sandbox!||
 |32|[@b3ll](https://github.com/b3ll)/[**Spectral**](https://github.com/b3ll/Spectral)|Make the iOS lockscreen proper with blurred album artwork!||
 |21|[@AppleBetas](https://github.com/AppleBetas)/[**Melody**](https://github.com/AppleBetas/Melody)|Restore the iOS 9 Music app on iOS 10.|[:arrow_upper_right:](https://repo.applebetas.co/depiction/co.dynastic.ios.tweak.melody/)|
 |17|[@ca13ra1](https://github.com/ca13ra1)/[**CCRecord**](https://github.com/ca13ra1/CCRecord)|Screen recording accessible from CC.||
@@ -11,8 +11,8 @@
 |8|[@codyd51](https://github.com/codyd51)/[**Docker**](https://github.com/codyd51/Docker)|a minimal dock extension tweak||
 |7|[@Sticktron](https://github.com/Sticktron)/[**FrontCamUnMirror**](https://github.com/Sticktron/FrontCamUnMirror)|Un-Mirror the Front Camera's Live Preview||
 |6|[@AppleBetas](https://github.com/AppleBetas)/[**JustinPlusPro**](https://github.com/AppleBetas/JustinPlusPro)|Justin + your phone. A match made in heaven.||
+|6|[@ca13ra1](https://github.com/ca13ra1)/[**ForceInPicture**](https://github.com/ca13ra1/ForceInPicture)|Programmatically enable picture in picture feature.||
 |6|[@davidmurray](https://github.com/davidmurray)/[**Uninstall-Application-Size**](https://github.com/davidmurray/Uninstall-Application-Size)|Shows an application's size when prompting to uninstall||
-|5|[@ca13ra1](https://github.com/ca13ra1)/[**ForceInPicture**](https://github.com/ca13ra1/ForceInPicture)|Programmatically enable picture in picture feature.||
 |5|[@ca13ra1](https://github.com/ca13ra1)/[**Twitter3DShortcuts**](https://github.com/ca13ra1/Twitter3DShortcuts)|Removes useless Twitter 3d touch items.||
 |5|[@codyd51](https://github.com/codyd51)/[**ClassyLock**](https://github.com/codyd51/ClassyLock)|A classy, reimagined lockscreen||
 |5|[@codyd51](https://github.com/codyd51)/[**Helius**](https://github.com/codyd51/Helius)|A music player, I guess||
