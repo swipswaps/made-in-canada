@@ -4,8 +4,8 @@
 |42|[@bmcfee](https://github.com/bmcfee)/[**mlr**](https://github.com/bmcfee/mlr)|Metric Learning to Rank||
 |39|[@dengwirda](https://github.com/dengwirda)/[**mesh2d**](https://github.com/dengwirda/mesh2d)|MESH2D is a MATLAB-based Delaunay mesh generator for two-dimensional geometries.||
 |31|[@kmyid](https://github.com/kmyid)/[**TILDE**](https://github.com/kmyid/TILDE)|Repository for "TILDE: A Temporally Invariant Learned DEtector", CVPR2015||
+|30|[@ashafaei](https://github.com/ashafaei)/[**ubc3v**](https://github.com/ashafaei/ubc3v)|The Matlab toolkit for UBC 3 View Dataset.|[:arrow_upper_right:](http://www.cs.ubc.ca/~shafaei/homepage/projects/crv16.php)|
 |29|[@MIT-LCP](https://github.com/MIT-LCP)/[**critical-data-book**](https://github.com/MIT-LCP/critical-data-book)|Code repository for the critical data book||
-|28|[@ashafaei](https://github.com/ashafaei)/[**ubc3v**](https://github.com/ashafaei/ubc3v)|The Matlab toolkit for UBC 3 View Dataset.|[:arrow_upper_right:](http://www.cs.ubc.ca/~shafaei/homepage/projects/crv16.php)|
 |28|[@sunghbae](https://github.com/sunghbae)/[**dcgan-matconvnet**](https://github.com/sunghbae/dcgan-matconvnet)|Deep Convolutional Generative Adversarial Network (DCGAN) implementation on MatConvNet (compliant to any MCN version)||
 |22|[@Riashat](https://github.com/Riashat)/[**Policy-Gradient-Reinforcement-Learning**](https://github.com/Riashat/Policy-Gradient-Reinforcement-Learning)|||
 |22|[@rayryeng](https://github.com/rayryeng)/[**equi2cubic**](https://github.com/rayryeng/equi2cubic)|MATLAB script that converts equirectangular images into six cube faces||
@@ -21,10 +21,10 @@
 |9|[@ch237](https://github.com/ch237)/[**BayesPoissonFactor**](https://github.com/ch237/BayesPoissonFactor)|Bayesian Poisson Tensor Factorization||
 |7|[@susanli2016](https://github.com/susanli2016)/[**Machine-Learning-with-AndrewNg**](https://github.com/susanli2016/Machine-Learning-with-AndrewNg)|Programming assignments for Coursera's Machine Learning Course.||
 |6|[@abhineet123](https://github.com/abhineet123)/[**MDP_Tracking**](https://github.com/abhineet123/MDP_Tracking)| Reinforcement learning based multi object tracker |[:arrow_upper_right:](http://cvgl.stanford.edu/projects/MDP_tracking/)|
+|6|[@dhingratul](https://github.com/dhingratul)/[**Face-Recognition-Algorithms**](https://github.com/dhingratul/Face-Recognition-Algorithms)|Implemented and evaluated four basic face recognition algorithms: Eigenfaces, Fisherfaces, Support Vector Machine (SVM), and Sparse Representation-based Classification (SRC) on YaleB dataset|[:arrow_upper_right:](https://drive.google.com/file/d/0B_bJrFXp111QblpZMnM0bU9zLTQ/view)|
 |6|[@ustunb](https://github.com/ustunb)/[**slim-matlab**](https://github.com/ustunb/slim-matlab)|Optimized scoring systems for classification problems in MATLAB||
 |5|[@abhineet123](https://github.com/abhineet123)/[**PTF**](https://github.com/abhineet123/PTF)|Python Tracking Framework||
 |5|[@dengwirda](https://github.com/dengwirda)/[**inpoly**](https://github.com/dengwirda/inpoly)|A fast 'point-in-polygon' test for MATLAB / OCTAVE.||
-|5|[@dhingratul](https://github.com/dhingratul)/[**Face-Recognition-Algorithms**](https://github.com/dhingratul/Face-Recognition-Algorithms)|Implemented and evaluated four basic face recognition algorithms: Eigenfaces, Fisherfaces, Support Vector Machine (SVM), and Sparse Representation-based Classification (SRC) on YaleB dataset|[:arrow_upper_right:](https://drive.google.com/file/d/0B_bJrFXp111QblpZMnM0bU9zLTQ/view)|
 |5|[@mycarta](https://github.com/mycarta)/[**PMKMP**](https://github.com/mycarta/PMKMP)|Matlab function to create perceptual colormaps|[:arrow_upper_right:](http://www.mathworks.com/matlabcentral/fileexchange/28982-perceptually-improved-colormaps)|
 |4|[@MIT-LCP](https://github.com/MIT-LCP)/[**PhysioNetChallengePublic**](https://github.com/MIT-LCP/PhysioNetChallengePublic)|Public Software for the PhysioNet/CinC Challenge Series||
 |4|[@ch237](https://github.com/ch237)/[**BinaryTensorFactorization**](https://github.com/ch237/BinaryTensorFactorization)|||
