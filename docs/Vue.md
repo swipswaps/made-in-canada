@@ -1,26 +1,27 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2092|[@Caiyeon](https://github.com/Caiyeon)/[**goldfish**](https://github.com/Caiyeon/goldfish)|A HashiCorp Vault UI written with VueJS and Vault native Go API|[:arrow_upper_right:](https://vault-ui.io)|
-|325|[@chmln](https://github.com/chmln)/[**vue-wysiwyg**](https://github.com/chmln/vue-wysiwyg)|A lightweight WYSIWYG HTML editor for Vue.js|[:arrow_upper_right:](https://chmln.github.io/vue-wysiwyg/)|
-|261|[@adamwathan](https://github.com/adamwathan)/[**vue-tailwind-examples**](https://github.com/adamwathan/vue-tailwind-examples)|||
+|2100|[@Caiyeon](https://github.com/Caiyeon)/[**goldfish**](https://github.com/Caiyeon/goldfish)|A HashiCorp Vault UI written with VueJS and Vault native Go API|[:arrow_upper_right:](https://vault-ui.io)|
+|330|[@chmln](https://github.com/chmln)/[**vue-wysiwyg**](https://github.com/chmln/vue-wysiwyg)|A lightweight WYSIWYG HTML editor for Vue.js|[:arrow_upper_right:](https://chmln.github.io/vue-wysiwyg/)|
+|274|[@adamwathan](https://github.com/adamwathan)/[**vue-tailwind-examples**](https://github.com/adamwathan/vue-tailwind-examples)|||
 |127|[@Braunson](https://github.com/Braunson)/[**laravel-coreui-vue**](https://github.com/Braunson/laravel-coreui-vue)|Laravel 5.6 with CoreUI (VueJS Full Starter Template)||
-|81|[@james2doyle](https://github.com/james2doyle)/[**nuxt-firebase-auth**](https://github.com/james2doyle/nuxt-firebase-auth)|An example of using Nuxt with Firebase to auth users without a server||
-|63|[@remixz](https://github.com/remixz)/[**umi**](https://github.com/remixz/umi)|📺 Watch Crunchyroll together, and more|[:arrow_upper_right:](https://umi.party)|
-|49|[@drehimself](https://github.com/drehimself)/[**gridsome-portfolio-starter**](https://github.com/drehimself/gridsome-portfolio-starter)|A simple portfolio theme for Gridsome powered by Tailwind CSS v1.0|[:arrow_upper_right:](https://gridsome-portfolio-starter.netlify.com)|
+|82|[@james2doyle](https://github.com/james2doyle)/[**nuxt-firebase-auth**](https://github.com/james2doyle/nuxt-firebase-auth)|An example of using Nuxt with Firebase to auth users without a server||
+|64|[@remixz](https://github.com/remixz)/[**umi**](https://github.com/remixz/umi)|📺 Watch Crunchyroll together, and more|[:arrow_upper_right:](https://umi.party)|
+|55|[@drehimself](https://github.com/drehimself)/[**gridsome-portfolio-starter**](https://github.com/drehimself/gridsome-portfolio-starter)|A simple portfolio theme for Gridsome powered by Tailwind CSS v1.0|[:arrow_upper_right:](https://gridsome-portfolio-starter.netlify.com)|
 |35|[@adamwathan](https://github.com/adamwathan)/[**vueconfto-demo**](https://github.com/adamwathan/vueconfto-demo)|||
-|14|[@yanick](https://github.com/yanick)/[**vue-svg-pan-zoom**](https://github.com/yanick/vue-svg-pan-zoom)|Vue component using SvgPanZoom||
+|15|[@yanick](https://github.com/yanick)/[**vue-svg-pan-zoom**](https://github.com/yanick/vue-svg-pan-zoom)|Vue component using SvgPanZoom||
+|12|[@allenhwkim](https://github.com/allenhwkim)/[**vue-nuxt-practice**](https://github.com/allenhwkim/vue-nuxt-practice)|Code Example Of VueJS/Nuxt Implementation||
 |12|[@eddyerburgh](https://github.com/eddyerburgh)/[**parcel-vue-starter**](https://github.com/eddyerburgh/parcel-vue-starter)|A parcel Vue starter project||
 |11|[@Ratismal](https://github.com/Ratismal)/[**DiscordMungeon**](https://github.com/Ratismal/DiscordMungeon)|A panel for DiscordRPG||
-|11|[@allenhwkim](https://github.com/allenhwkim)/[**vue-nuxt-practice**](https://github.com/allenhwkim/vue-nuxt-practice)|Code Example Of VueJS/Nuxt Implementation||
+|11|[@ginpei](https://github.com/ginpei)/[**giclock**](https://github.com/ginpei/giclock)|An analog and digital clock with "pomodoro" timer.|[:arrow_upper_right:](https://clock.ginpei.info/)|
+|10|[@biojs](https://github.com/biojs)/[**biojs-frontend**](https://github.com/biojs/biojs-frontend)|Frontend repository for BioJS.|[:arrow_upper_right:](https://biojs.net)|
 |10|[@drehimself](https://github.com/drehimself)/[**nativescript-vue-example**](https://github.com/drehimself/nativescript-vue-example)|||
-|10|[@ginpei](https://github.com/ginpei)/[**giclock**](https://github.com/ginpei/giclock)|An analog and digital clock with "pomodoro" timer.|[:arrow_upper_right:](https://clock.ginpei.info/)|
-|9|[@biojs](https://github.com/biojs)/[**biojs-frontend**](https://github.com/biojs/biojs-frontend)|Frontend repository for BioJS.|[:arrow_upper_right:](https://biojs.net)|
 |9|[@davestewart](https://github.com/davestewart)/[**vuex-pathify-demos**](https://github.com/davestewart/vuex-pathify-demos)|A set of demos for the Vuex Pathify plugin||
 |8|[@drehimself](https://github.com/drehimself)/[**disneyplus-clone**](https://github.com/drehimself/disneyplus-clone)|||
 |7|[@drehimself](https://github.com/drehimself)/[**bootstrap-vue-example**](https://github.com/drehimself/bootstrap-vue-example)|||
+|7|[@drehimself](https://github.com/drehimself)/[**ionic-vue-example**](https://github.com/drehimself/ionic-vue-example)|||
 |7|[@drehimself](https://github.com/drehimself)/[**vuenative-example**](https://github.com/drehimself/vuenative-example)|||
+|6|[@adamwathan](https://github.com/adamwathan)/[**tailwind-docs-vuepress**](https://github.com/adamwathan/tailwind-docs-vuepress)|||
 |6|[@drehimself](https://github.com/drehimself)/[**element-vue-example**](https://github.com/drehimself/element-vue-example)|||
-|6|[@drehimself](https://github.com/drehimself)/[**ionic-vue-example**](https://github.com/drehimself/ionic-vue-example)|||
 |6|[@eddyerburgh](https://github.com/eddyerburgh)/[**vue-test-loader-example**](https://github.com/eddyerburgh/vue-test-loader-example)|An example project using vue-test-loader to extract tests||
 |6|[@ryanramage](https://github.com/ryanramage)/[**vue-joi**](https://github.com/ryanramage/vue-joi)|create forms with joi||
 |5|[@EddYerburgh](https://github.com/EddYerburgh)/[**vue-test-loader-example**](https://github.com/EddYerburgh/vue-test-loader-example)|An example project using vue-test-loader to extract tests||
@@ -31,6 +32,5 @@
 |4|[@adamwathan](https://github.com/adamwathan)/[**tailwind-1-nuxt-test**](https://github.com/adamwathan/tailwind-1-nuxt-test)|||
 |4|[@drehimself](https://github.com/drehimself)/[**vue-apollo-auth-example**](https://github.com/drehimself/vue-apollo-auth-example)|||
 |4|[@stormwarning](https://github.com/stormwarning)/[**polychroma**](https://github.com/stormwarning/polychroma)|🌈 Generate better CSS gradients using alternative colour spaces & Bezier interpolation.|[:arrow_upper_right:](https://polychroma.now.sh/)|
-|3|[@adamwathan](https://github.com/adamwathan)/[**tailwind-docs-vuepress**](https://github.com/adamwathan/tailwind-docs-vuepress)|||
 |3|[@drehimself](https://github.com/drehimself)/[**gridsome-example**](https://github.com/drehimself/gridsome-example)|||
 

@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|46|[@joedf](https://github.com/joedf)/[**Qonsole**](https://github.com/joedf/Qonsole)|A Quake-like Console Emulator written in AutoHotkey.|[:arrow_upper_right:](http://qonsole-ahk.sourceforge.net/)|
-|43|[@joedf](https://github.com/joedf)/[**Webapp.ahk**](https://github.com/joedf/Webapp.ahk)|"AHK-Webkit" / Webapp.ahk - Library for developing web-based apps with AutoHotkey.|[:arrow_upper_right:](https://autohotkey.com/boards/viewtopic.php?f=6&t=21516)|
+|45|[@joedf](https://github.com/joedf)/[**Qonsole**](https://github.com/joedf/Qonsole)|A Quake-like Console Emulator written in AutoHotkey.|[:arrow_upper_right:](http://qonsole-ahk.sourceforge.net/)|
+|44|[@joedf](https://github.com/joedf)/[**Webapp.ahk**](https://github.com/joedf/Webapp.ahk)|"AHK-Webkit" / Webapp.ahk - Library for developing web-based apps with AutoHotkey.|[:arrow_upper_right:](https://autohotkey.com/boards/viewtopic.php?f=6&t=21516)|
 |40|[@joedf](https://github.com/joedf)/[**LibCon.ahk**](https://github.com/joedf/LibCon.ahk)|LibCon - AutoHotkey Library For Console Support|[:arrow_upper_right:](http://joedf.github.io/libcon/)|
 |15|[@joedf](https://github.com/joedf)/[**MCode4GCC**](https://github.com/joedf/MCode4GCC)|MCode4GCC is an MCode generator using the GCC Compiler.||
 |10|[@joedf](https://github.com/joedf)/[**AEI.ahk**](https://github.com/joedf/AEI.ahk)|AutoHotkey Environment Information|[:arrow_upper_right:](http://ahkscript.org/boards/viewtopic.php?f=6&t=5825)|
-|8|[@joedf](https://github.com/joedf)/[**ahk_LoaderBar**](https://github.com/joedf/ahk_LoaderBar)|Cool Gradient progress bar class by joedf (using CreateDIB by SKAN)||
+|9|[@joedf](https://github.com/joedf)/[**ahk_LoaderBar**](https://github.com/joedf/ahk_LoaderBar)|Cool Gradient progress bar class by joedf (using CreateDIB by SKAN)||
 |6|[@dansmith65](https://github.com/dansmith65)/[**FileMaker-Automation**](https://github.com/dansmith65/FileMaker-Automation)|Automate tasks in FileMaker Pro||
 |4|[@pyarmak](https://github.com/pyarmak)/[**Roshan-Timer**](https://github.com/pyarmak/Roshan-Timer)|AutoHotkey script to create an OSD roshan timer for DOTA 2.||
 |3|[@agbell](https://github.com/agbell)/[**TECK**](https://github.com/agbell/TECK)|truly ergonomic keyboard customizations||
