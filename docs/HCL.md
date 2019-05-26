@@ -2,8 +2,8 @@
 |---|---|---|---|
 |90|[@nicolai86](https://github.com/nicolai86)/[**awesome-codepipeline-ci**](https://github.com/nicolai86/awesome-codepipeline-ci)|an AWS CodePipeline, AWS CodeBuild, AWS APIGateway & AWS Lambda CI||
 |59|[@sjourdan](https://github.com/sjourdan)/[**docker-vault**](https://github.com/sjourdan/docker-vault)|Docker Container for Hashicorp's Vault|[:arrow_upper_right:](https://hub.docker.com/r/sjourdan/vault/)|
-|39|[@nicolai86](https://github.com/nicolai86)/[**scaleway-terraform-demo**](https://github.com/nicolai86/scaleway-terraform-demo)|example using terraform for scaleway with nomad, consul & fabio|[:arrow_upper_right:](https://nicolai86.eu/)|
-|35|[@monzo](https://github.com/monzo)/[**etcd3-terraform**](https://github.com/monzo/etcd3-terraform)|A Terraform recipe for a robust etcd cluster, based on how Monzo runs its clusters. 💪||
+|40|[@nicolai86](https://github.com/nicolai86)/[**scaleway-terraform-demo**](https://github.com/nicolai86/scaleway-terraform-demo)|example using terraform for scaleway with nomad, consul & fabio|[:arrow_upper_right:](https://nicolai86.eu/)|
+|36|[@monzo](https://github.com/monzo)/[**etcd3-terraform**](https://github.com/monzo/etcd3-terraform)|A Terraform recipe for a robust etcd cluster, based on how Monzo runs its clusters. 💪||
 |25|[@OJFord](https://github.com/OJFord)/[**signed-blogs**](https://github.com/OJFord/signed-blogs)|Deprecated, now supported in Keybase itself @ keybase.pub! ~Crypto-signed blog posts; powered by Keybase.io filesystem~||
 |24|[@crielly](https://github.com/crielly)/[**bless**](https://github.com/crielly/bless)|Terraform deployment of the Netflix BLESS Cert Authority||
 |22|[@sjourdan](https://github.com/sjourdan)/[**vault-ssh-backend**](https://github.com/sjourdan/vault-ssh-backend)|This is a demo of a Terraform-lead infrastructure on Digital Ocean, using Vault w/Consul Docker containers and Vault SSH OTP for logins||

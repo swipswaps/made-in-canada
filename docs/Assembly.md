@@ -9,7 +9,7 @@
 |8|[@dgryski](https://github.com/dgryski)/[**go-speck**](https://github.com/dgryski/go-speck)|SPECK cipher||
 |8|[@shepheb](https://github.com/shepheb)/[**forth-arm**](https://github.com/shepheb/forth-arm)|Custom Forth implementation for ARMv6 (RasPi)||
 |7|[@bzgeb](https://github.com/bzgeb)/[**pd-for-unity**](https://github.com/bzgeb/pd-for-unity)|A sample unity project with pure data embedded.  Currently iOS only. ||
-|4|[@hsoft](https://github.com/hsoft)/[**avra**](https://github.com/hsoft/avra)|Assember for the Atmel AVR microcontroller family||
+|6|[@hsoft](https://github.com/hsoft)/[**avra**](https://github.com/hsoft/avra)|Assember for the Atmel AVR microcontroller family||
 |4|[@shepheb](https://github.com/shepheb)/[**fcc**](https://github.com/shepheb/fcc)|Forth interpreter and compiler - a standard, portable, optimized Forth||
 |4|[@tokenrove](https://github.com/tokenrove)/[**convergence**](https://github.com/tokenrove/convergence)|Personal archaeology: a GBA game in literate assembly||
 |3|[@MockbaTheBorg](https://github.com/MockbaTheBorg)/[**MicroMumps**](https://github.com/MockbaTheBorg/MicroMumps)|Restoration of the Z80 MicroMumps for CP/M||

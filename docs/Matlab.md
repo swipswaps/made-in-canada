@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|98|[@Elyorcv](https://github.com/Elyorcv)/[**SAE**](https://github.com/Elyorcv/SAE)|Semantic Autoencoder for Zero-shot Learning (Spotlight), CVPR 2017|[:arrow_upper_right:](https://elyorcv.github.io/projects/sae)|
+|99|[@Elyorcv](https://github.com/Elyorcv)/[**SAE**](https://github.com/Elyorcv/SAE)|Semantic Autoencoder for Zero-shot Learning (Spotlight), CVPR 2017|[:arrow_upper_right:](https://elyorcv.github.io/projects/sae)|
 |42|[@bmcfee](https://github.com/bmcfee)/[**mlr**](https://github.com/bmcfee/mlr)|Metric Learning to Rank||
 |39|[@dengwirda](https://github.com/dengwirda)/[**mesh2d**](https://github.com/dengwirda/mesh2d)|MESH2D is a MATLAB-based Delaunay mesh generator for two-dimensional geometries.||
 |31|[@kmyid](https://github.com/kmyid)/[**TILDE**](https://github.com/kmyid/TILDE)|Repository for "TILDE: A Temporally Invariant Learned DEtector", CVPR2015||
 |29|[@MIT-LCP](https://github.com/MIT-LCP)/[**critical-data-book**](https://github.com/MIT-LCP/critical-data-book)|Code repository for the critical data book||
 |29|[@ashafaei](https://github.com/ashafaei)/[**ubc3v**](https://github.com/ashafaei/ubc3v)|The Matlab toolkit for UBC 3 View Dataset.|[:arrow_upper_right:](http://www.cs.ubc.ca/~shafaei/homepage/projects/crv16.php)|
-|28|[@sunghbae](https://github.com/sunghbae)/[**dcgan-matconvnet**](https://github.com/sunghbae/dcgan-matconvnet)|Deep Convolutional Generative Adversarial Network (DCGAN) implementation on MatConvNet (compliant to any MCN version)||
+|29|[@sunghbae](https://github.com/sunghbae)/[**dcgan-matconvnet**](https://github.com/sunghbae/dcgan-matconvnet)|Deep Convolutional Generative Adversarial Network (DCGAN) implementation on MatConvNet (compliant to any MCN version)||
 |22|[@Riashat](https://github.com/Riashat)/[**Policy-Gradient-Reinforcement-Learning**](https://github.com/Riashat/Policy-Gradient-Reinforcement-Learning)|||
 |22|[@rayryeng](https://github.com/rayryeng)/[**equi2cubic**](https://github.com/rayryeng/equi2cubic)|MATLAB script that converts equirectangular images into six cube faces||
 |18|[@terryum](https://github.com/terryum)/[**Athletic_Movement_Detection**](https://github.com/terryum/Athletic_Movement_Detection)|The source codes for the paper, "An unsupervised approach to detecting and isolating athletic movements", EMBC2016||
@@ -37,6 +37,7 @@
 |3|[@MIT-LCP](https://github.com/MIT-LCP)/[**patienttracking**](https://github.com/MIT-LCP/patienttracking)|MIMIC II Patient Tracking||
 |3|[@NathanUA](https://github.com/NathanUA)/[**BuildingFacadeGrouping**](https://github.com/NathanUA/BuildingFacadeGrouping)|This is the implementation of the algorithm for building facade recognition using perceptual grouping method. The paper was published in ICPR 2016, Cancun, Mexico.||
 |3|[@compsust](https://github.com/compsust)/[**ALIP_NILM**](https://github.com/compsust/ALIP_NILM)|An aided linear integer programming (ALIP) non-intrusive load monitoring (NILM) algorithm.||
+|3|[@danijar](https://github.com/danijar)/[**couse-ml-stanford**](https://github.com/danijar/couse-ml-stanford)|Programming assignments for the Stanford Machine Learning course by Andrew Ng||
 |3|[@dengwirda](https://github.com/dengwirda)/[**find-tria**](https://github.com/dengwirda/find-tria)|Spatial queries for collections of triangles, tetrahedrons and general d-simplexes in MATLAB.||
 |3|[@luster](https://github.com/luster)/[**genre-classification**](https://github.com/luster/genre-classification)|Genre Classification Project, ECE414 Machine Learning||
 |3|[@terryum](https://github.com/terryum)/[**Tutorial_MachineLearning_Matlab**](https://github.com/terryum/Tutorial_MachineLearning_Matlab)|A tutorial on machine learning from scratch with Matlab||

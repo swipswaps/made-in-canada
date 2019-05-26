@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|94|[@tpetricek](https://github.com/tpetricek)/[**elmish-spreadsheet**](https://github.com/tpetricek/elmish-spreadsheet)|Implement your own Excel 365 in 100 lines of F#!||
+|95|[@tpetricek](https://github.com/tpetricek)/[**elmish-spreadsheet**](https://github.com/tpetricek/elmish-spreadsheet)|Implement your own Excel 365 in 100 lines of F#!||
 |69|[@tpetricek](https://github.com/tpetricek)/[**Documents**](https://github.com/tpetricek/Documents)|Includes samples for my blog posts, source code and slides for my talks and other resources.|[:arrow_upper_right:](http://tomasp.net/blog)|
 |55|[@tpetricek](https://github.com/tpetricek)/[**DeepDives**](https://github.com/tpetricek/DeepDives)|F# DeepDives||
 |39|[@tpetricek](https://github.com/tpetricek)/[**FSharp.AsyncExtensions**](https://github.com/tpetricek/FSharp.AsyncExtensions)|[ARCHIVED] Extensions for asynchronous programming in F#||
