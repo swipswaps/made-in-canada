@@ -18,19 +18,19 @@
 |8|[@tiredofit](https://github.com/tiredofit)/[**docker-lemonldap**](https://github.com/tiredofit/docker-lemonldap)|Docker LemonLDAP-NG Image w/S6 overlay, Zabbix Monitoring based on Debian or Alpine||
 |7|[@ebiwd](https://github.com/ebiwd)/[**alpine-ssh**](https://github.com/ebiwd/alpine-ssh)|Docker image based on alpine for use in CI/CD pipelines|[:arrow_upper_right:](https://hub.docker.com/r/ebiwd/alpine-ssh/)|
 |7|[@tiredofit](https://github.com/tiredofit)/[**docker-alpine**](https://github.com/tiredofit/docker-alpine)|Docker Alpine Linux Base Images||
+|7|[@tiredofit](https://github.com/tiredofit)/[**docker-fusiondirectory**](https://github.com/tiredofit/docker-fusiondirectory)|FusionDirectory LDAP Manager w/S6 Init, Zabbix Monitoring, Nginx, PHP7 based on Alpine||
 |7|[@tiredofit](https://github.com/tiredofit)/[**docker-gitlab**](https://github.com/tiredofit/docker-gitlab)|Dockerized Gitlab CE w/Alpine Linux, Zabbix Monitoring and S6 Overlay||
 |7|[@tiredofit](https://github.com/tiredofit)/[**docker-nginx-ldap**](https://github.com/tiredofit/docker-nginx-ldap)|Docker Nginx Image w/LDAP Authentication, Zabbix agent monitoring, S6 init, logrotate based on Alpine||
 |6|[@codingtony](https://github.com/codingtony)/[**dr-elephant-docker**](https://github.com/codingtony/dr-elephant-docker)|Docker files for Linkedin's Dr. Elephant https://github.com/linkedin/dr-elephant||
 |6|[@floatschedule](https://github.com/floatschedule)/[**docker-php-apache**](https://github.com/floatschedule/docker-php-apache)|dockerized php with Yii extensions||
-|6|[@tiredofit](https://github.com/tiredofit)/[**docker-fusiondirectory**](https://github.com/tiredofit/docker-fusiondirectory)|FusionDirectory LDAP Manager w/S6 Init, Zabbix Monitoring, Nginx, PHP7 based on Alpine||
 |6|[@tiredofit](https://github.com/tiredofit)/[**docker-spamassassin**](https://github.com/tiredofit/docker-spamassassin)|Docker Spamassassin Spam filtering based on Alpine Linux||
 |5|[@fethica](https://github.com/fethica)/[**jikan-rest-docker**](https://github.com/fethica/jikan-rest-docker)|🐳 A docker stack for Jikan REST API|[:arrow_upper_right:](https://github.com/jikan-me/jikan-rest)|
 |5|[@humphd](https://github.com/humphd)/[**browser-vm**](https://github.com/humphd/browser-vm)|A small Linux x86 VM meant for use in the browser||
 |5|[@tiredofit](https://github.com/tiredofit)/[**docker-nginx-proxy-cloudflare-companion**](https://github.com/tiredofit/docker-nginx-proxy-cloudflare-companion)|Automatically update CNAME records when Docker container starts via Cloudflare||
+|5|[@tiredofit](https://github.com/tiredofit)/[**docker-staytus**](https://github.com/tiredofit/docker-staytus)|Docker Staytus Image w/s6 overlay, zabbix monitoring based on Alpine||
 |4|[@GabLeRoux](https://github.com/GabLeRoux)/[**ansible-docker-image**](https://github.com/GabLeRoux/ansible-docker-image)|Docker image to use ansible and ssh in a CI 👍|[:arrow_upper_right:](https://hub.docker.com/r/gableroux/ansible/)|
 |4|[@onaio](https://github.com/onaio)/[**docker-builds**](https://github.com/onaio/docker-builds)|||
 |4|[@tiredofit](https://github.com/tiredofit)/[**docker-clamav**](https://github.com/tiredofit/docker-clamav)|Docker ClamAV Image based on Alpine w/s6 init, Zabbix Monitoring and Customizable Configuration||
-|4|[@tiredofit](https://github.com/tiredofit)/[**docker-staytus**](https://github.com/tiredofit/docker-staytus)|Docker Staytus Image w/s6 overlay, zabbix monitoring based on Alpine||
 |4|[@turbolent](https://github.com/turbolent)/[**postgrest-small**](https://github.com/turbolent/postgrest-small)|A small PostgREST Docker image||
 |4|[@ucalgary](https://github.com/ucalgary)/[**docker-python-librdkafka**](https://github.com/ucalgary/docker-python-librdkafka)|Dockerfile for Python with librdkafka installed.|[:arrow_upper_right:](https://hub.docker.com/r/ucalgary/python-librdkafka/)|
 |3|[@DigitalState](https://github.com/DigitalState)/[**Discovery**](https://github.com/DigitalState/Discovery)|The DigitalState Discovery Microservice||

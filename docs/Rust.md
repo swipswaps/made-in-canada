@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3857|[@benfred](https://github.com/benfred)/[**py-spy**](https://github.com/benfred/py-spy)|Sampling profiler for Python programs||
-|1888|[@jmacdonald](https://github.com/jmacdonald)/[**amp**](https://github.com/jmacdonald/amp)|A complete text editor for your terminal.|[:arrow_upper_right:](https://amp.rs)|
-|718|[@chmln](https://github.com/chmln)/[**sd**](https://github.com/chmln/sd)|Intuitive find & replace CLI (sed alternative)||
-|568|[@trishume](https://github.com/trishume)/[**syntect**](https://github.com/trishume/syntect)|Rust library for syntax highlighting using Sublime Text syntax definitions.|[:arrow_upper_right:](https://docs.rs/syntect)|
+|3873|[@benfred](https://github.com/benfred)/[**py-spy**](https://github.com/benfred/py-spy)|Sampling profiler for Python programs||
+|1892|[@jmacdonald](https://github.com/jmacdonald)/[**amp**](https://github.com/jmacdonald/amp)|A complete text editor for your terminal.|[:arrow_upper_right:](https://amp.rs)|
+|721|[@chmln](https://github.com/chmln)/[**sd**](https://github.com/chmln/sd)|Intuitive find & replace CLI (sed alternative)||
+|571|[@trishume](https://github.com/trishume)/[**syntect**](https://github.com/trishume/syntect)|Rust library for syntax highlighting using Sublime Text syntax definitions.|[:arrow_upper_right:](https://docs.rs/syntect)|
 |388|[@MitMaro](https://github.com/MitMaro)/[**git-interactive-rebase-tool**](https://github.com/MitMaro/git-interactive-rebase-tool)|Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.|[:arrow_upper_right:](https://gitrebasetool.mitmaro.ca/)|
-|355|[@mystor](https://github.com/mystor)/[**rust-cpp**](https://github.com/mystor/rust-cpp)|Embed C++ directly inside your rust code!||
-|262|[@programble](https://github.com/programble)/[**scraper**](https://github.com/programble/scraper)|HTML parsing and querying with CSS selectors|[:arrow_upper_right:](https://docs.rs/scraper)|
+|356|[@mystor](https://github.com/mystor)/[**rust-cpp**](https://github.com/mystor/rust-cpp)|Embed C++ directly inside your rust code!||
+|264|[@programble](https://github.com/programble)/[**scraper**](https://github.com/programble/scraper)|HTML parsing and querying with CSS selectors|[:arrow_upper_right:](https://docs.rs/scraper)|
 |156|[@luqmana](https://github.com/luqmana)/[**rust-opencl**](https://github.com/luqmana/rust-opencl)|OpenCL bindings for Rust.||
 |119|[@thestinger](https://github.com/thestinger)/[**rust-core**](https://github.com/thestinger/rust-core)|a lightweight standard library for rust with freestanding support (deprecated in favour of libcore upstream)||
-|69|[@jmacdonald](https://github.com/jmacdonald)/[**scribe**](https://github.com/jmacdonald/scribe)|Text editor components||
+|70|[@jmacdonald](https://github.com/jmacdonald)/[**scribe**](https://github.com/jmacdonald/scribe)|Text editor components||
 |69|[@luqmana](https://github.com/luqmana)/[**rust-psp-hello**](https://github.com/luqmana/rust-psp-hello)|Simple Hello World in Rust to run on a PSP.||
 |52|[@mystor](https://github.com/mystor)/[**slag**](https://github.com/mystor/slag)|A whitespace-sensitive syntax for rust||
 |52|[@mystor](https://github.com/mystor)/[**synstructure**](https://github.com/mystor/synstructure)|Utilities for dealing with substructures within syn macros||
@@ -28,15 +28,15 @@
 |20|[@tokenrove](https://github.com/tokenrove)/[**fixie-trie**](https://github.com/tokenrove/fixie-trie)|Compact tries for fixed-width keys||
 |20|[@trishume](https://github.com/trishume)/[**dayder**](https://github.com/trishume/dayder)|Search lots of data sets for spurious correlations|[:arrow_upper_right:](http://dayder.thume.ca/)|
 |20|[@yrashk](https://github.com/yrashk)/[**serde_fs**](https://github.com/yrashk/serde_fs)|[De]serializing data structures as files||
+|19|[@gnuvince](https://github.com/gnuvince)/[**ppbert**](https://github.com/gnuvince/ppbert)|A simple pretty printer for Erlang's External Term Format||
 |19|[@palfrey](https://github.com/palfrey)/[**maiden**](https://github.com/palfrey/maiden)|Rockstar interpreter in Rust|[:arrow_upper_right:](https://tech.labs.oliverwyman.com/blog/2018/07/30/how-to-be-a-rockstar-developer/)|
 |19|[@trishume](https://github.com/trishume)/[**FusionMouse**](https://github.com/trishume/FusionMouse)|Combines Tobii eye tracking with TrackIR head tracking for a fast hands-free mouse replacement, in Rust!||
+|19|[@uiri](https://github.com/uiri)/[**SEGIMAP**](https://github.com/uiri/SEGIMAP)|IMAP (and LMTP) Server written in Rust||
 |18|[@OJFord](https://github.com/OJFord)/[**passbase**](https://github.com/OJFord/passbase)|Keybase File System (KBFS)-backed CLI-based password manager||
 |18|[@bacongobbler](https://github.com/bacongobbler)/[**treemap-rs**](https://github.com/bacongobbler/treemap-rs)|Squarified Treemap algorithm written in Rust.|[:arrow_upper_right:](https://crates.io/crates/treemap)|
-|18|[@gnuvince](https://github.com/gnuvince)/[**ppbert**](https://github.com/gnuvince/ppbert)|A simple pretty printer for Erlang's External Term Format||
-|18|[@uiri](https://github.com/uiri)/[**SEGIMAP**](https://github.com/uiri/SEGIMAP)|IMAP (and LMTP) Server written in Rust||
 |17|[@fnichol](https://github.com/fnichol)/[**names**](https://github.com/fnichol/names)|Random name generator for Rust||
+|17|[@kryptco](https://github.com/kryptco)/[**sigchain**](https://github.com/kryptco/sigchain)|A signed hash chain implementation for zero-trust data management.|[:arrow_upper_right:](https://krypt.co/docs/sigchain/team-sigchain.html)|
 |16|[@chasinglogic](https://github.com/chasinglogic)/[**cargo-hublish**](https://github.com/chasinglogic/cargo-hublish)|A cargo subcommand for publishing Rust projects to github.||
-|16|[@kryptco](https://github.com/kryptco)/[**sigchain**](https://github.com/kryptco/sigchain)|A signed hash chain implementation for zero-trust data management.|[:arrow_upper_right:](https://krypt.co/docs/sigchain/team-sigchain.html)|
 |16|[@mhsjlw](https://github.com/mhsjlw)/[**native-voxel-generator**](https://github.com/mhsjlw/native-voxel-generator)|A voxel world generator written in Rust, with bindings for Node||
 |16|[@saks](https://github.com/saks)/[**actix_web_async_compat**](https://github.com/saks/actix_web_async_compat)|Adds proc macro that converts async fn to a compatible actix-web request handler||
 |15|[@borsboom](https://github.com/borsboom)/[**cli-for-ynab**](https://github.com/borsboom/cli-for-ynab)|Complete command-line interface for YNAB.|[:arrow_upper_right:](https://borsboom.io/cli-for-ynab/)|
@@ -53,8 +53,8 @@
 |11|[@benfred](https://github.com/benfred)/[**py-cpp-demangle**](https://github.com/benfred/py-cpp-demangle)|A python package for demangling C++ linker symbols||
 |11|[@brettcannon](https://github.com/brettcannon)/[**riscv-harmony**](https://github.com/brettcannon/riscv-harmony)|A RISC-V ISA simulator written in Rust||
 |11|[@dashed](https://github.com/dashed)/[**rebalance-app**](https://github.com/dashed/rebalance-app)|💸 Optimal lazy portfolio rebalancing calculator (in Rust)||
+|11|[@kevincox](https://github.com/kevincox)/[**rustymedia**](https://github.com/kevincox/rustymedia)|A Transcoding DLNA Server||
 |10|[@iKevinY](https://github.com/iKevinY)/[**ultra**](https://github.com/iKevinY/ultra)|Cryptanalysis of the Enigma machine in Rust.||
-|10|[@kevincox](https://github.com/kevincox)/[**rustymedia**](https://github.com/kevincox/rustymedia)|A Transcoding DLNA Server||
 |10|[@onatm](https://github.com/onatm)/[**hackerman**](https://github.com/onatm/hackerman)|An assembler for 16-bit Hack machine language written in Rust||
 |10|[@trishume](https://github.com/trishume)/[**seqalign_pathing**](https://github.com/trishume/seqalign_pathing)|Rust implementation of sequence alignment / Levenshtein distance by A* acceleration of the DP algorithm||
 |9|[@OJFord](https://github.com/OJFord)/[**tapioca**](https://github.com/OJFord/tapioca)|Type-safe REST-focused HTTP client for Rust - via the OpenAPI Specification||
@@ -63,6 +63,7 @@
 |8|[@Dooskington](https://github.com/Dooskington)/[**Rostige-Schlange**](https://github.com/Dooskington/Rostige-Schlange)|:snake: A rusty snake game, using OpenGL for rendering.||
 |8|[@chmln](https://github.com/chmln)/[**asciimath-rs**](https://github.com/chmln/asciimath-rs)|Mathematical expression parser and evaluator|[:arrow_upper_right:](https://docs.rs/asciimath/)|
 |8|[@fnichol](https://github.com/fnichol)/[**features-rs**](https://github.com/fnichol/features-rs)|features - A Rust library for runtime feature toggles||
+|8|[@knoldus](https://github.com/knoldus)/[**hawk**](https://github.com/knoldus/hawk)|||
 |8|[@luqmana](https://github.com/luqmana)/[**rray**](https://github.com/luqmana/rray)|Raytracer written in rust.||
 |8|[@nbigaouette](https://github.com/nbigaouette)/[**gitlab-api-rs**](https://github.com/nbigaouette/gitlab-api-rs)|Rust wrapper to the GitLab API.||
 |7|[@46bit](https://github.com/46bit)/[**tilewater**](https://github.com/46bit/tilewater)|Miniature city simulator.||
@@ -73,7 +74,6 @@
 |7|[@tokenrove](https://github.com/tokenrove)/[**magic-ringbuffer-rs**](https://github.com/tokenrove/magic-ringbuffer-rs)|Attempt at implementing the Magic Ringbuffer in Rust||
 |6|[@dashed](https://github.com/dashed)/[**technical_indicators**](https://github.com/dashed/technical_indicators)|📈 Library of technical indicators in Rust. (work in progress)||
 |6|[@dat2](https://github.com/dat2)/[**ecmascript**](https://github.com/dat2/ecmascript)|A rust implementation of an EcmaScript Parser||
-|6|[@knoldus](https://github.com/knoldus)/[**hawk**](https://github.com/knoldus/hawk)|||
 |5|[@dashed](https://github.com/dashed)/[**esparser**](https://github.com/dashed/esparser)|JavaScript Parser in Rust||
 |5|[@gnuvince](https://github.com/gnuvince)/[**minilang-rs**](https://github.com/gnuvince/minilang-rs)|||
 |5|[@nbigaouette](https://github.com/nbigaouette)/[**rust-sorting**](https://github.com/nbigaouette/rust-sorting)|Sorting algorithms implementation in Rust.||
@@ -82,6 +82,7 @@
 |4|[@46bit](https://github.com/46bit)/[**bind_before_connect**](https://github.com/46bit/bind_before_connect)|Produces a std::net::TCPStream bound to a specified local address (Unix only).||
 |4|[@Dooskington](https://github.com/Dooskington)/[**Mail-Journal**](https://github.com/Dooskington/Mail-Journal)|:love_letter: Helps you keep a daily journal and reflect on the past||
 |4|[@benfred](https://github.com/benfred)/[**proc-maps**](https://github.com/benfred/proc-maps)|||
+|4|[@chasinglogic](https://github.com/chasinglogic)/[**cargo-mod**](https://github.com/chasinglogic/cargo-mod)|A cargo sub command for generating modules.||
 |4|[@chasinglogic](https://github.com/chasinglogic)/[**fnd**](https://github.com/chasinglogic/fnd)|A simpler way to find files in the terminal.|[:arrow_upper_right:](http://github.com/chasinglogic/fnd)|
 |4|[@emilyhorsman](https://github.com/emilyhorsman)/[**rust-raytracer**](https://github.com/emilyhorsman/rust-raytracer)|||
 |4|[@gnuvince](https://github.com/gnuvince)/[**sudoku-rs**](https://github.com/gnuvince/sudoku-rs)|Brute-force, backtracking Sudoku solver||
@@ -93,9 +94,9 @@
 |4|[@yjerem](https://github.com/yjerem)/[**cykas**](https://github.com/yjerem/cykas)|a Bitcoin offline wallet||
 |4|[@zsck](https://github.com/zsck)/[**tegami**](https://github.com/zsck/tegami)|A framework for asynchronous Rust applications built on the Actor model with influences from Elm and Erlang||
 |3|[@1vn](https://github.com/1vn)/[**wifi_doorbell**](https://github.com/1vn/wifi_doorbell)|plays sound when someone connects to your wifi||
-|3|[@chasinglogic](https://github.com/chasinglogic)/[**cargo-mod**](https://github.com/chasinglogic/cargo-mod)|A cargo sub command for generating modules.||
 |3|[@chasinglogic](https://github.com/chasinglogic)/[**fnd-rs**](https://github.com/chasinglogic/fnd-rs)|A simpler way to find files in the terminal. Deprecated maintained version found here: https://github.com/chasinglogic/fnd||
 |3|[@dashed](https://github.com/dashed)/[**tangerine-transactions-to-ledger**](https://github.com/dashed/tangerine-transactions-to-ledger)|Convert Tangerine Bank transactions to ledger-cli compatible transactions||
+|3|[@dat2](https://github.com/dat2)/[**financial-planner-cli**](https://github.com/dat2/financial-planner-cli)|A financial planner tool||
 |3|[@defcronyke](https://github.com/defcronyke)/[**blockchain-rust**](https://github.com/defcronyke/blockchain-rust)|The simplest type of blockchain.||
 |3|[@itarato](https://github.com/itarato)/[**neo4j_rust_client**](https://github.com/itarato/neo4j_rust_client)|Unofficial Neo4j client for Rust language.||
 |3|[@jmacdonald](https://github.com/jmacdonald)/[**bloodhound**](https://github.com/jmacdonald/bloodhound)|Fuzzy file path matching library||

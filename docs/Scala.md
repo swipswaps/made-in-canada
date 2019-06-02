@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |477|[@cvogt](https://github.com/cvogt)/[**cbt**](https://github.com/cvogt/cbt)|CBT - fun, fast, intuitive, compositional, statically checked builds written in Scala||
-|405|[@fosskers](https://github.com/fosskers)/[**scalaz-and-cats**](https://github.com/fosskers/scalaz-and-cats)|Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).||
-|381|[@marconilanna](https://github.com/marconilanna)/[**REPLesent**](https://github.com/marconilanna/REPLesent)|A neat little tool to build presentations using the Scala REPL||
-|363|[@mardambey](https://github.com/mardambey)/[**mypipe**](https://github.com/mardambey/mypipe)|MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka.||
+|409|[@fosskers](https://github.com/fosskers)/[**scalaz-and-cats**](https://github.com/fosskers/scalaz-and-cats)|Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).||
+|380|[@marconilanna](https://github.com/marconilanna)/[**REPLesent**](https://github.com/marconilanna/REPLesent)|A neat little tool to build presentations using the Scala REPL||
+|364|[@mardambey](https://github.com/mardambey)/[**mypipe**](https://github.com/mardambey/mypipe)|MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka.||
 |328|[@dcaoyuan](https://github.com/dcaoyuan)/[**chana**](https://github.com/dcaoyuan/chana)|Avro Data Store based on Akka||
 |260|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-socketio**](https://github.com/dcaoyuan/spray-socketio)|socket.io for spray||
-|244|[@jmcardon](https://github.com/jmcardon)/[**tsec**](https://github.com/jmcardon/tsec)|Type-safe general-cryptography library - https://jmcardon.github.io/tsec/||
+|245|[@jmcardon](https://github.com/jmcardon)/[**tsec**](https://github.com/jmcardon/tsec)|Type-safe general-cryptography library - https://jmcardon.github.io/tsec/||
 |225|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-websocket**](https://github.com/dcaoyuan/spray-websocket)|WebSocket for spray-can||
 |121|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**ScalaKata**](https://github.com/MasseGuillaume/ScalaKata)|Moved|[:arrow_upper_right:](https://github.com/MasseGuillaume/ScalaKata2)|
 |121|[@dcaoyuan](https://github.com/dcaoyuan)/[**aiotrade**](https://github.com/dcaoyuan/aiotrade)|A Trading Platform|[:arrow_upper_right:](http://blogtrader.net)|
@@ -18,11 +18,11 @@
 |64|[@eclipsesource](https://github.com/eclipsesource)/[**play-json-schema-validator**](https://github.com/eclipsesource/play-json-schema-validator)|JSON Schema Validation with Play JSON||
 |58|[@knoldus](https://github.com/knoldus)/[**Lambda-Arch-Spark**](https://github.com/knoldus/Lambda-Arch-Spark)|||
 |57|[@fosskers](https://github.com/fosskers)/[**scala-benchmarks**](https://github.com/fosskers/scala-benchmarks)|An independent set of benchmarks for testing common Scala idioms.||
-|52|[@mvogiatzis](https://github.com/mvogiatzis)/[**freq-count**](https://github.com/mvogiatzis/freq-count)|Lossy Counting and Sticky Sampling implementation for efficient frequency counts on data streams.||
+|53|[@mvogiatzis](https://github.com/mvogiatzis)/[**freq-count**](https://github.com/mvogiatzis/freq-count)|Lossy Counting and Sticky Sampling implementation for efficient frequency counts on data streams.||
 |51|[@knoldus](https://github.com/knoldus)/[**Play-Spark-Scala**](https://github.com/knoldus/Play-Spark-Scala)|||
 |47|[@knoldus](https://github.com/knoldus)/[**playing-microservices.g8**](https://github.com/knoldus/playing-microservices.g8)|This activator project describes Microservice architecture design using Play 2.4.x and Scala||
-|43|[@mvogiatzis](https://github.com/mvogiatzis)/[**spark-anomaly-detection**](https://github.com/mvogiatzis/spark-anomaly-detection)|Detecting outliers in a dataset using Spark||
-|43|[@shagunsodhani](https://github.com/shagunsodhani)/[**locis**](https://github.com/shagunsodhani/locis)|Implementation of  "A Parallel Spatial Co-location Mining Algorithm Based on MapReduce" paper|[:arrow_upper_right:](https://shagunsodhani.in/locis)|
+|42|[@mvogiatzis](https://github.com/mvogiatzis)/[**spark-anomaly-detection**](https://github.com/mvogiatzis/spark-anomaly-detection)|Detecting outliers in a dataset using Spark||
+|42|[@shagunsodhani](https://github.com/shagunsodhani)/[**locis**](https://github.com/shagunsodhani/locis)|Implementation of  "A Parallel Spatial Co-location Mining Algorithm Based on MapReduce" paper|[:arrow_upper_right:](https://shagunsodhani.in/locis)|
 |40|[@cvogt](https://github.com/cvogt)/[**scala-extensions**](https://github.com/cvogt/scala-extensions)|Useful extensions for the Scala standard library|[:arrow_upper_right:](http://cvogt.org/scala-extensions/api/)|
 |39|[@knoldus](https://github.com/knoldus)/[**ScalaJs_Weather_Report**](https://github.com/knoldus/ScalaJs_Weather_Report)|Weather Information System- Get the mood of your city on one click using Scala.js.||
 |37|[@rocketraman](https://github.com/rocketraman)/[**activator-akka-scala-guice**](https://github.com/rocketraman/activator-akka-scala-guice)|Typesafe Activator demo for Akka, Scala, Guice||
@@ -99,6 +99,7 @@
 |6|[@knoldus](https://github.com/knoldus)/[**spark-streaming-gnip**](https://github.com/knoldus/spark-streaming-gnip)|An Apache Spark utility for pulling Tweets from Gnip's PowerTrack in realtime|[:arrow_upper_right:](http://spark-packages.org/package/knoldus/spark-streaming-gnip)|
 |6|[@thoughtworks](https://github.com/thoughtworks)/[**sbteo**](https://github.com/thoughtworks/sbteo)|Compile server for sbt||
 |6|[@yzhliu](https://github.com/yzhliu)/[**mxnet-scala**](https://github.com/yzhliu/mxnet-scala)|MXNet Scala Package||
+|6|[@yzhliu](https://github.com/yzhliu)/[**mxnet-scala-example**](https://github.com/yzhliu/mxnet-scala-example)|Examples for Using MXNet Scala Package||
 |5|[@AlvinCJin](https://github.com/AlvinCJin)/[**Niagara**](https://github.com/AlvinCJin/Niagara)|Niagara is a DaaS platform implemented by SDACK stack in Scala|[:arrow_upper_right:](https://alvincjin.github.io/Niagara/)|
 |5|[@NeQuissimus](https://github.com/NeQuissimus)/[**posh**](https://github.com/NeQuissimus/posh)|Refined types are so posh!||
 |5|[@briannesbitt](https://github.com/briannesbitt)/[**hockey.nesbot.com**](https://github.com/briannesbitt/hockey.nesbot.com)|Sidney Crosby Art Ross Watch and MyNHL|[:arrow_upper_right:](http://hockey.nesbot.com)|
@@ -114,7 +115,6 @@
 |5|[@marconilanna](https://github.com/marconilanna)/[**snippets**](https://github.com/marconilanna/snippets)|Catalogue of routinely required small units of boilerplate code||
 |5|[@mkonicek](https://github.com/mkonicek)/[**scala-99-problems**](https://github.com/mkonicek/scala-99-problems)|Solutions of some of the Ninety-Nine Scala problems||
 |5|[@overthink](https://github.com/overthink)/[**circlet**](https://github.com/overthink/circlet)|Scala HTTP server abstraction in the style of Ring||
-|5|[@yzhliu](https://github.com/yzhliu)/[**mxnet-scala-example**](https://github.com/yzhliu/mxnet-scala-example)|Examples for Using MXNet Scala Package||
 |4|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**Scala-DNS**](https://github.com/MasseGuillaume/Scala-DNS)|Domain Name System||
 |4|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**multi-platforms-javalibs**](https://github.com/MasseGuillaume/multi-platforms-javalibs)|||
 |4|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**scalameta-structure**](https://github.com/MasseGuillaume/scalameta-structure)|pretty printer for scalameta .structure||
@@ -138,6 +138,7 @@
 |3|[@cvogt](https://github.com/cvogt)/[**scalacheck-extensions**](https://github.com/cvogt/scalacheck-extensions)||[:arrow_upper_right:](http://cvogt.org/scalacheck-extensions/api/)|
 |3|[@cvogt](https://github.com/cvogt)/[**siq**](https://github.com/cvogt/siq)|||
 |3|[@denisrosset](https://github.com/denisrosset)/[**consolidate**](https://github.com/denisrosset/consolidate)|Data consolidation algebra for Scala||
+|3|[@denisrosset](https://github.com/denisrosset)/[**cyclo**](https://github.com/denisrosset/cyclo)|Cyclotomic numbers for Scala, add-on for the Spire library||
 |3|[@denisrosset](https://github.com/denisrosset)/[**faacets**](https://github.com/denisrosset/faacets)|Faacets umbrella repository|[:arrow_upper_right:](http://www.faacets.com)|
 |3|[@denisrosset](https://github.com/denisrosset)/[**faacets-gamma**](https://github.com/denisrosset/faacets-gamma)|Faacets (gamma version)||
 |3|[@edadma](https://github.com/edadma)/[**markdown**](https://github.com/edadma/markdown)|Scala Github Flavored Markdown Processor||

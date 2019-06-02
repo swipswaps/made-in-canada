@@ -1,16 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|263|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
+|262|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
 |74|[@hoytech](https://github.com/hoytech)/[**antiweb**](https://github.com/hoytech/antiweb)|Common Lisp web application server|[:arrow_upper_right:](http://hoytech.com/antiweb/)|
-|63|[@inaimathi](https://github.com/inaimathi)/[**cl-notebook**](https://github.com/inaimathi/cl-notebook)|A notebook-style editor for Common Lisp||
-|61|[@thephoeron](https://github.com/thephoeron)/[**let-over-lambda**](https://github.com/thephoeron/let-over-lambda)|Doug Hoyte's "Production" version of macros from Let Over Lambda, ready for ASDF and Quicklisp.||
+|64|[@inaimathi](https://github.com/inaimathi)/[**cl-notebook**](https://github.com/inaimathi/cl-notebook)|A notebook-style editor for Common Lisp||
+|62|[@thephoeron](https://github.com/thephoeron)/[**let-over-lambda**](https://github.com/thephoeron/let-over-lambda)|Doug Hoyte's "Production" version of macros from Let Over Lambda, ready for ASDF and Quicklisp.||
 |46|[@thephoeron](https://github.com/thephoeron)/[**black-stone**](https://github.com/thephoeron/black-stone)|Specification and Implementation of Quantum Common Lisp, for gate-model quantum computers||
 |34|[@thephoeron](https://github.com/thephoeron)/[**bit-smasher**](https://github.com/thephoeron/bit-smasher)|Common Lisp library for handling bit vectors, bit vector arithmetic, and type conversions.|[:arrow_upper_right:](https://thephoeron.github.io/bit-smasher/)|
 |33|[@inaimathi](https://github.com/inaimathi)/[**cl-css**](https://github.com/inaimathi/cl-css)|Non-validating, inline CSS generator for Common Lisp||
 |28|[@mck-](https://github.com/mck-)/[**oneliner**](https://github.com/mck-/oneliner)|Extracts a one-liner from a piece of text.||
 |25|[@atgreen](https://github.com/atgreen)/[**lisp-openshift**](https://github.com/atgreen/lisp-openshift)|Run sbcl-powered lisp-based web apps on Red Hat's OpenShift|[:arrow_upper_right:](http://lisp2-atgreen.rhcloud.com)|
 |24|[@burtonsamograd](https://github.com/burtonsamograd)/[**sigil**](https://github.com/burtonsamograd/sigil)|A Parenscript to Javascript command line compiler and interpreter.||
-|22|[@tokenrove](https://github.com/tokenrove)/[**anaphora**](https://github.com/tokenrove/anaphora)|The anaphoric macro collection from Hell|[:arrow_upper_right:](https://common-lisp.net/project/anaphora/)|
+|23|[@tokenrove](https://github.com/tokenrove)/[**anaphora**](https://github.com/tokenrove/anaphora)|The anaphoric macro collection from Hell|[:arrow_upper_right:](https://common-lisp.net/project/anaphora/)|
 |18|[@inaimathi](https://github.com/inaimathi)/[**formlets**](https://github.com/inaimathi/formlets)|Automatically validating formlets for Hunchentoot + cl-who||
 |18|[@inaimathi](https://github.com/inaimathi)/[**house**](https://github.com/inaimathi/house)|Minimal asynchronous CL web server||
 |18|[@tokenrove](https://github.com/tokenrove)/[**series**](https://github.com/tokenrove/series)|unofficial mirror of git://git.code.sf.net/p/series/series (Richard C. Waters' SERIES package for Common Lisp)|[:arrow_upper_right:](http://series.sourceforge.net/)|
@@ -18,13 +18,14 @@
 |16|[@inaimathi](https://github.com/inaimathi)/[**fact-base**](https://github.com/inaimathi/fact-base)|Implementation of fact bases for Common Lisp||
 |16|[@thephoeron](https://github.com/thephoeron)/[**qgame**](https://github.com/thephoeron/qgame)|QGAME: Quantum Gate and Measurement Emulator, a quantum computer simulator||
 |15|[@thephoeron](https://github.com/thephoeron)/[**wolfcoin**](https://github.com/thephoeron/wolfcoin)|Common Lisp cryptocurrency client, protocol, and wallet||
-|12|[@thephoeron](https://github.com/thephoeron)/[**silver-sword**](https://github.com/thephoeron/silver-sword)|Common Lisp interface to D-Wave's Python Pack for adiabatic quantum computer energy programming|[:arrow_upper_right:](http://thephoeron.viewdocs.io/silver-sword)|
 |11|[@thephoeron](https://github.com/thephoeron)/[**cl-isaac**](https://github.com/thephoeron/cl-isaac)|Optimized Common Lisp version of Bob Jenkins' ISAAC-32 and ISAAC-64 algorithms, fast cryptographic random number generators.||
+|11|[@thephoeron](https://github.com/thephoeron)/[**silver-sword**](https://github.com/thephoeron/silver-sword)|Common Lisp interface to D-Wave's Python Pack for adiabatic quantum computer energy programming|[:arrow_upper_right:](http://thephoeron.viewdocs.io/silver-sword)|
 |7|[@atgreen](https://github.com/atgreen)/[**wrapilator**](https://github.com/atgreen/wrapilator)|Wraps verilator output in Common Lisp for testing digital logic in Lisp||
 |7|[@bbc](https://github.com/bbc)/[**bbcrd-brirs**](https://github.com/bbc/bbcrd-brirs)| An impulse response dataset for dynamic data-based auralisation of advanced sound systems||
 |7|[@thephoeron](https://github.com/thephoeron)/[**cl-edn**](https://github.com/thephoeron/cl-edn)|Common Lisp serialization library for the EDN format||
 |7|[@tokenrove](https://github.com/tokenrove)/[**imago**](https://github.com/tokenrove/imago)|image manipulation library for Common Lisp|[:arrow_upper_right:](http://common-lisp.net/project/imago)|
 |6|[@burtonsamograd](https://github.com/burtonsamograd)/[**autograph**](https://github.com/burtonsamograd/autograph)|Autograph is a CSS generation language that uses s-expressions for styling rules and allows for the use of variables and functions written in Common Lisp.||
+|6|[@burtonsamograd](https://github.com/burtonsamograd)/[**med**](https://github.com/burtonsamograd/med)|med - A fork of the emacs-like text editor for the Mezzano operating system||
 |6|[@inaimathi](https://github.com/inaimathi)/[**cl-congregate**](https://github.com/inaimathi/cl-congregate)|A service and protocol for coordinating recurring get-togethers between many humans||
 |6|[@inaimathi](https://github.com/inaimathi)/[**test-utils**](https://github.com/inaimathi/test-utils)|Convenience functions and macros for testing Common Lisp applications via Prove and Quickcheck||
 |6|[@mck-](https://github.com/mck-)/[**hunch**](https://github.com/mck-/hunch)|Boilerplate API-only server on Hunchentoot||
@@ -39,7 +40,6 @@
 |4|[@Hexstream](https://github.com/Hexstream)/[**definitions-systems**](https://github.com/Hexstream/definitions-systems)|Provides a simple unified extensible way of processing named definitions.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/definitions-systems/)|
 |4|[@Hexstream](https://github.com/Hexstream)/[**place-utils**](https://github.com/Hexstream/place-utils)|Provides a few utilities relating to setfable places.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/place-utils/)|
 |4|[@Hexstream](https://github.com/Hexstream)/[**trivial-jumptables**](https://github.com/Hexstream/trivial-jumptables)|Provides efficient O(1) jumptables on supported Common Lisp implementations and falls back to O(log(n)) on others.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/trivial-jumptables/)|
-|4|[@burtonsamograd](https://github.com/burtonsamograd)/[**med**](https://github.com/burtonsamograd/med)|med - A fork of the emacs-like text editor for the Mezzano operating system||
 |4|[@thephoeron](https://github.com/thephoeron)/[**cl-cuneiform**](https://github.com/thephoeron/cl-cuneiform)|Common Lisp library for handling and parsing unicode Sumerian and Akkadian cuneiform signs, and their ASCII and Latin representations||
 |4|[@thephoeron](https://github.com/thephoeron)/[**cl-datalog**](https://github.com/thephoeron/cl-datalog)|A Common Lisp DSL for Datalog: the declarative logic programming language||
 |4|[@tokenrove](https://github.com/tokenrove)/[**m68k-assembler**](https://github.com/tokenrove/m68k-assembler)|A simple, mostly-DevPAC-compatible assembler for the Motorola 68k series of proccessors.||

@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |2113|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
-|323|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
+|322|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
 |104|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/library/composer/)|
 |74|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
 |40|[@sjackman](https://github.com/sjackman)/[**lambdar**](https://github.com/sjackman/lambdar)|ƛR: Run R on AWS Lambda|[:arrow_upper_right:](http://lambdar.sjackman.ca/?e=stem(rnorm(100)))|
@@ -21,15 +21,15 @@
 |10|[@ustwo](https://github.com/ustwo)/[**docker-sauce-connect**](https://github.com/ustwo/docker-sauce-connect)|Builds a Sauce Labs Connect image||
 |9|[@oncletom](https://github.com/oncletom)/[**coursera-ml**](https://github.com/oncletom/coursera-ml)|Setup to evolve through the Machine Learning course.||
 |8|[@jasonish](https://github.com/jasonish)/[**suricata-rpms**](https://github.com/jasonish/suricata-rpms)|Suricata RPMs for CentOS/EL|[:arrow_upper_right:](http://codemonkey.net/suricata-rpms/)|
-|7|[@datacratic](https://github.com/datacratic)/[**platform-deps**](https://github.com/datacratic/platform-deps)|Container repo for Datacratic platform dependencies to be installed per-user||
 |7|[@kaustavha](https://github.com/kaustavha)/[**luvit-docs**](https://github.com/kaustavha/luvit-docs)|Documentation for the luvit api||
 |7|[@maruel](https://github.com/maruel)/[**hugo-tidy**](https://github.com/maruel/hugo-tidy)|Docker image to generate the fastest (minified, gzipped) web site via Hugo||
 |7|[@seananderson](https://github.com/seananderson)/[**ggplot2-FISH554**](https://github.com/seananderson/ggplot2-FISH554)|Course notes and exercises on ggplot2 for the FISH554 class at the University of Washington||
 |6|[@AmarOk1412](https://github.com/AmarOk1412)/[**RORI**](https://github.com/AmarOk1412/RORI)|a modulable chatterbot platform|[:arrow_upper_right:](https://enconn.fr/rori)|
+|6|[@KleinYuan](https://github.com/KleinYuan)/[**train-crfasrnn**](https://github.com/KleinYuan/train-crfasrnn)|Detailed guide to help you understand how to train CRF as RNN||
 |6|[@bcgsc](https://github.com/bcgsc)/[**abyss-2.0-giab**](https://github.com/bcgsc/abyss-2.0-giab)|:baby_bottle: Assemble the Genome in a Bottle sequencing data|[:arrow_upper_right:](http://dx.doi.org/10.1101/068338)|
+|6|[@datacratic](https://github.com/datacratic)/[**platform-deps**](https://github.com/datacratic/platform-deps)|Container repo for Datacratic platform dependencies to be installed per-user||
 |6|[@gpaterno](https://github.com/gpaterno)/[**openstack_explained**](https://github.com/gpaterno/openstack_explained)|OpenStack Explained e-book - An humanitarian initiative||
 |6|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_harpia**](https://github.com/sultanqasim/android_device_motorola_harpia)|TWRP device tree for Moto G Play||
-|5|[@KleinYuan](https://github.com/KleinYuan)/[**train-crfasrnn**](https://github.com/KleinYuan/train-crfasrnn)|Detailed guide to help you understand how to train CRF as RNN||
 |5|[@northox](https://github.com/northox)/[**rump-npfer**](https://github.com/northox/rump-npfer)|A Rumprun firewall unikernel for Qubes OS (c)||
 |5|[@rillian](https://github.com/rillian)/[**afl-ffmpeg-opus**](https://github.com/rillian/afl-ffmpeg-opus)|Fuzzing script for ffmpeg's opus decoder||
 |5|[@rosshamish](https://github.com/rosshamish)/[**goodcatan**](https://github.com/rosshamish/goodcatan)|tries not to play bad catan||
