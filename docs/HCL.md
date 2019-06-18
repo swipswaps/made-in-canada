@@ -11,8 +11,8 @@
 |8|[@sjourdan](https://github.com/sjourdan)/[**docker-swarm-mode-demo**](https://github.com/sjourdan/docker-swarm-mode-demo)|An automatic Terraform demo using Docker Swarm 1.12 mode||
 |7|[@nicolai86](https://github.com/nicolai86)/[**scaleway-kubernetes-demo**](https://github.com/nicolai86/scaleway-kubernetes-demo)|setup a Kubernetes cluster on Scaleway via terraform||
 |6|[@lesaux](https://github.com/lesaux)/[**terraform-aws-rancher-ha**](https://github.com/lesaux/terraform-aws-rancher-ha)|Spin up rancher-ha cluster in AWS||
+|6|[@travisjeffery](https://github.com/travisjeffery)/[**datadog-terraform-example**](https://github.com/travisjeffery/datadog-terraform-example)|Managing Datadog with Terraform example|[:arrow_upper_right:](http://twitter.com/travisjeffery)|
 |5|[@olivoil](https://github.com/olivoil)/[**standup-lambda**](https://github.com/olivoil/standup-lambda)|serverless backend for a standup status app that integrates with slack||
-|5|[@travisjeffery](https://github.com/travisjeffery)/[**datadog-terraform-example**](https://github.com/travisjeffery/datadog-terraform-example)|Managing Datadog with Terraform example|[:arrow_upper_right:](http://twitter.com/travisjeffery)|
 |4|[@crielly](https://github.com/crielly)/[**rancher-ha-aws**](https://github.com/crielly/rancher-ha-aws)|A highly available rancher deployment using AWS||
 |4|[@mcgonagle](https://github.com/mcgonagle)/[**terraform_f5**](https://github.com/mcgonagle/terraform_f5)|terraform scripts to instantiate a big ip in AWS||
 |4|[@paybyphone](https://github.com/paybyphone)/[**terraform_aws_vpc**](https://github.com/paybyphone/terraform_aws_vpc)|A Terraform module for creating AWS VPCs, with public subnets||

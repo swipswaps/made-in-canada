@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2113|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
+|2112|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
 |322|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
-|104|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/library/composer/)|
+|105|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/library/composer/)|
 |74|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
 |40|[@sjackman](https://github.com/sjackman)/[**lambdar**](https://github.com/sjackman/lambdar)|ƛR: Run R on AWS Lambda|[:arrow_upper_right:](http://lambdar.sjackman.ca/?e=stem(rnorm(100)))|
 |39|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_build**](https://github.com/CopperheadOS/platform_build)|||
@@ -14,9 +14,9 @@
 |18|[@sjackman](https://github.com/sjackman)/[**makefile-example**](https://github.com/sjackman/makefile-example)|An example of a data analysis pipeline using Make|[:arrow_upper_right:](http://sjackman.ca/makefile-example/)|
 |15|[@sjackman](https://github.com/sjackman)/[**docker-linuxbrew**](https://github.com/sjackman/docker-linuxbrew)|:skull: Defunct. Use https://github.com/Linuxbrew/docker||
 |14|[@sjourdan](https://github.com/sjourdan)/[**ffmpeg-docker**](https://github.com/sjourdan/ffmpeg-docker)|FFmpeg on Alpine Docker Image||
-|12|[@sjackman](https://github.com/sjackman)/[**assembly-graph**](https://github.com/sjackman/assembly-graph)|Compare assembly graph file formats||
-|12|[@sjourdan](https://github.com/sjourdan)/[**strace-docker**](https://github.com/sjourdan/strace-docker)|strace in docker||
-|12|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_osprey**](https://github.com/sultanqasim/android_device_motorola_osprey)|Device tree for 2015 Moto G (osprey)||
+|13|[@sjackman](https://github.com/sjackman)/[**assembly-graph**](https://github.com/sjackman/assembly-graph)|Compare assembly graph file formats||
+|13|[@sjourdan](https://github.com/sjourdan)/[**strace-docker**](https://github.com/sjourdan/strace-docker)|strace in docker||
+|11|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_osprey**](https://github.com/sultanqasim/android_device_motorola_osprey)|Device tree for 2015 Moto G (osprey)||
 |10|[@RobLoach](https://github.com/RobLoach)/[**composer.deb**](https://github.com/RobLoach/composer.deb)|Build a Debian package to install and use Composer.|[:arrow_upper_right:](http://getcomposer.org)|
 |10|[@ustwo](https://github.com/ustwo)/[**docker-sauce-connect**](https://github.com/ustwo/docker-sauce-connect)|Builds a Sauce Labs Connect image||
 |9|[@oncletom](https://github.com/oncletom)/[**coursera-ml**](https://github.com/oncletom/coursera-ml)|Setup to evolve through the Machine Learning course.||
@@ -29,13 +29,12 @@
 |6|[@bcgsc](https://github.com/bcgsc)/[**abyss-2.0-giab**](https://github.com/bcgsc/abyss-2.0-giab)|:baby_bottle: Assemble the Genome in a Bottle sequencing data|[:arrow_upper_right:](http://dx.doi.org/10.1101/068338)|
 |6|[@datacratic](https://github.com/datacratic)/[**platform-deps**](https://github.com/datacratic/platform-deps)|Container repo for Datacratic platform dependencies to be installed per-user||
 |6|[@gpaterno](https://github.com/gpaterno)/[**openstack_explained**](https://github.com/gpaterno/openstack_explained)|OpenStack Explained e-book - An humanitarian initiative||
+|6|[@rillian](https://github.com/rillian)/[**afl-ffmpeg-opus**](https://github.com/rillian/afl-ffmpeg-opus)|Fuzzing script for ffmpeg's opus decoder||
 |6|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_harpia**](https://github.com/sultanqasim/android_device_motorola_harpia)|TWRP device tree for Moto G Play||
 |5|[@northox](https://github.com/northox)/[**rump-npfer**](https://github.com/northox/rump-npfer)|A Rumprun firewall unikernel for Qubes OS (c)||
-|5|[@rillian](https://github.com/rillian)/[**afl-ffmpeg-opus**](https://github.com/rillian/afl-ffmpeg-opus)|Fuzzing script for ffmpeg's opus decoder||
 |5|[@rosshamish](https://github.com/rosshamish)/[**goodcatan**](https://github.com/rosshamish/goodcatan)|tries not to play bad catan||
 |4|[@aminb](https://github.com/aminb)/[**dotfiles**](https://github.com/aminb/dotfiles)|[OUTDATED] repository now located at https://git.sr.ht/~bandali/dotfiles||
 |4|[@karnauskas](https://github.com/karnauskas)/[**openwrt-mdns-repeater**](https://github.com/karnauskas/openwrt-mdns-repeater)|mdns-repeater build for OpenWrt||
-|4|[@karnauskas](https://github.com/karnauskas)/[**openwrt-packages**](https://github.com/karnauskas/openwrt-packages)|mdns-repeater build for OpenWrt||
 |4|[@sjackman](https://github.com/sjackman)/[**picea-glauca-mitochondrion**](https://github.com/sjackman/picea-glauca-mitochondrion)|Mitochondrial genome of white spruce (Picea glauca)|[:arrow_upper_right:](http://www.ncbi.nlm.nih.gov/nuccore/LKAM00000000)|
 |4|[@tj](https://github.com/tj)/[**foo**](https://github.com/tj/foo)|||
 |3|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_system_sepolicy**](https://github.com/CopperheadOS/platform_system_sepolicy)|||
@@ -43,8 +42,10 @@
 |3|[@bbc](https://github.com/bbc)/[**alpha**](https://github.com/bbc/alpha)|The alpha.bbc platform||
 |3|[@bbidulock](https://github.com/bbidulock)/[**xde-helpers**](https://github.com/bbidulock/xde-helpers)|Helper .desktop files for XDE||
 |3|[@cjcliffe](https://github.com/cjcliffe)/[**CubicSDR-flatpak**](https://github.com/cjcliffe/CubicSDR-flatpak)|Flatpak build scripts for CubicSDR||
+|3|[@karnauskas](https://github.com/karnauskas)/[**openwrt-packages**](https://github.com/karnauskas/openwrt-packages)|mdns-repeater build for OpenWrt||
 |3|[@sjackman](https://github.com/sjackman)/[**linuxbrew-slides**](https://github.com/sjackman/linuxbrew-slides)|Linuxbrew and Homebrew-Science|[:arrow_upper_right:](http://sjackman.ca/linuxbrew-slides/)|
 |3|[@sjackman](https://github.com/sjackman)/[**pgmtdna**](https://github.com/sjackman/pgmtdna)|:evergreen_tree: Annotate the mitochondrial genome of white spruce (Picea glauca)|[:arrow_upper_right:](http://www.ncbi.nlm.nih.gov/nuccore/LKAM00000000)|
+|3|[@sjackman](https://github.com/sjackman)/[**picea-sitchensis-mitochondrion**](https://github.com/sjackman/picea-sitchensis-mitochondrion)|🌲 Mitochondrial genome of Sitka spruce (Picea sitchensis)||
 |3|[@sjourdan](https://github.com/sjourdan)/[**toolbox**](https://github.com/sjourdan/toolbox)|a container with some utilities to use anywhere (CoreOS included)|[:arrow_upper_right:](https://hub.docker.com/r/sjourdan/toolbox)|
 |3|[@snormore](https://github.com/snormore)/[**kperf**](https://github.com/snormore/kperf)|Run a suite of network performance tests between a given client/server pair.||
 |3|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_otus**](https://github.com/sultanqasim/android_device_motorola_otus)|Device tree for Motorola Styx 3G||

@@ -1,17 +1,17 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|164|[@ktonon](https://github.com/ktonon)/[**elm-serverless**](https://github.com/ktonon/elm-serverless)|Deploy an elm HTTP API to AWS Lambda using serverless||
+|166|[@ktonon](https://github.com/ktonon)/[**elm-serverless**](https://github.com/ktonon/elm-serverless)|Deploy an elm HTTP API to AWS Lambda using serverless||
 |55|[@jadpole](https://github.com/jadpole)/[**jadpole.github.io**](https://github.com/jadpole/jadpole.github.io)||[:arrow_upper_right:](https://jadpole.github.io)|
-|36|[@jxxcarlson](https://github.com/jxxcarlson)/[**minilatex**](https://github.com/jxxcarlson/minilatex)|parse MiniLaTeX source text and render it into HTML||
+|37|[@jxxcarlson](https://github.com/jxxcarlson)/[**minilatex**](https://github.com/jxxcarlson/minilatex)|parse MiniLaTeX source text and render it into HTML||
 |25|[@diogob](https://github.com/diogob)/[**elm-workshop**](https://github.com/diogob/elm-workshop)|Elm + PostgREST workshop, building a simple database query user interface.||
 |17|[@ktonon](https://github.com/ktonon)/[**elm-serverless-demo**](https://github.com/ktonon/elm-serverless-demo)|elm-serverless demo for latest release||
 |12|[@chrisbolin](https://github.com/chrisbolin)/[**skycoins**](https://github.com/chrisbolin/skycoins)|🚁💰|[:arrow_upper_right:](http://bolin.co/skycoins)|
 |12|[@fosskers](https://github.com/fosskers)/[**elm-touch**](https://github.com/fosskers/elm-touch)|Extended Touch library for Elm. ||
+|12|[@pzp1997](https://github.com/pzp1997)/[**assoc-list**](https://github.com/pzp1997/assoc-list)|Dictionary with custom keys implemented using association lists|[:arrow_upper_right:](https://package.elm-lang.org/packages/pzp1997/assoc-list/latest/)|
 |11|[@jxxcarlson](https://github.com/jxxcarlson)/[**quad**](https://github.com/jxxcarlson/quad)|Generative art project in Elm based on subdivision of quadrilaterals||
 |11|[@ktonon](https://github.com/ktonon)/[**elm-aws-core**](https://github.com/ktonon/elm-aws-core)|Make authenticated REST requests to AWS services using Elm||
 |10|[@ktonon](https://github.com/ktonon)/[**aws-sdk-elm**](https://github.com/ktonon/aws-sdk-elm)|Deprecated. Replaced by elm-aws-core and elm-aws-generate||
-|10|[@pzp1997](https://github.com/pzp1997)/[**assoc-list**](https://github.com/pzp1997/assoc-list)|Dictionary with custom keys implemented using association lists|[:arrow_upper_right:](https://package.elm-lang.org/packages/pzp1997/assoc-list/latest/)|
-|8|[@ktonon](https://github.com/ktonon)/[**elm-crypto**](https://github.com/ktonon/elm-crypto)|Cryptography with HMAC and SHA-2|[:arrow_upper_right:](http://package.elm-lang.org/packages/ktonon/elm-crypto/latest)|
+|9|[@ktonon](https://github.com/ktonon)/[**elm-crypto**](https://github.com/ktonon/elm-crypto)|Cryptography with HMAC and SHA-2|[:arrow_upper_right:](http://package.elm-lang.org/packages/ktonon/elm-crypto/latest)|
 |6|[@ktonon](https://github.com/ktonon)/[**elm-jsonwebtoken**](https://github.com/ktonon/elm-jsonwebtoken)|JSON Web Token encoder and decoder||
 |5|[@fosskers](https://github.com/fosskers)/[**2048**](https://github.com/fosskers/2048)|An implementation of 2048 in Elm.||
 |5|[@jxxcarlson](https://github.com/jxxcarlson)/[**pobox**](https://github.com/jxxcarlson/pobox)|Elm demo of PO Box concept for exchanging data between apps living in the same browser||

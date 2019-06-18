@@ -1,20 +1,20 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|744|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
-|436|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
-|405|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
-|351|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
-|137|[@saks](https://github.com/saks)/[**lua-resty-repl**](https://github.com/saks/lua-resty-repl)|Interactive console (REPL) for Openresty and luajit code||
-|105|[@castorini](https://github.com/castorini)/[**MP-CNN-Torch**](https://github.com/castorini/MP-CNN-Torch)|Multi-Perspective Convolutional Neural Networks for modeling textual similarity (He et al., EMNLP 2015)||
-|93|[@forhappy](https://github.com/forhappy)/[**zklua**](https://github.com/forhappy/zklua)|Lua binding of apache zookeeper.||
-|58|[@karai17](https://github.com/karai17)/[**lapis-chan**](https://github.com/karai17/lapis-chan)|Image board software written in Lua using the Lapis web framework.|[:arrow_upper_right:](http://lapchan.moe)|
+|743|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
+|439|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
+|411|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
+|352|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
+|139|[@saks](https://github.com/saks)/[**lua-resty-repl**](https://github.com/saks/lua-resty-repl)|Interactive console (REPL) for Openresty and luajit code||
+|106|[@castorini](https://github.com/castorini)/[**MP-CNN-Torch**](https://github.com/castorini/MP-CNN-Torch)|Multi-Perspective Convolutional Neural Networks for modeling textual similarity (He et al., EMNLP 2015)||
+|94|[@forhappy](https://github.com/forhappy)/[**zklua**](https://github.com/forhappy/zklua)|Lua binding of apache zookeeper.||
+|59|[@karai17](https://github.com/karai17)/[**lapis-chan**](https://github.com/karai17/lapis-chan)|Image board software written in Lua using the Lapis web framework.|[:arrow_upper_right:](http://lapchan.moe)|
 |52|[@castorini](https://github.com/castorini)/[**NCE-CNN-Torch**](https://github.com/castorini/NCE-CNN-Torch)|Noise-Contrastive Estimation for Question Answering with Convolutional Neural Networks (Rao et al. CIKM 2016)||
 |47|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**torch-in-action**](https://github.com/nicholas-leonard/torch-in-action)|Code for the Torch in Action book||
 |32|[@z3t0](https://github.com/z3t0)/[**zwm**](https://github.com/z3t0/zwm)|macOS window manager running on Hammerspoon||
+|28|[@pelevesque](https://github.com/pelevesque)/[**draft**](https://github.com/pelevesque/draft)|A drafting module for LÖVE 2D. https://love2d.org||
 |27|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**torchx**](https://github.com/nicholas-leonard/torchx)|torch extensions||
-|26|[@pelevesque](https://github.com/pelevesque)/[**draft**](https://github.com/pelevesque/draft)|A drafting module for LÖVE 2D. https://love2d.org||
+|27|[@yrashk](https://github.com/yrashk)/[**nix-home**](https://github.com/yrashk/nix-home)|Nix Home Manager||
 |26|[@slime73](https://github.com/slime73)/[**love-snippets**](https://github.com/slime73/love-snippets)|Snippets of Lua code useful in the LÖVE game framework.||
-|25|[@yrashk](https://github.com/yrashk)/[**nix-home**](https://github.com/yrashk/nix-home)|Nix Home Manager||
 |22|[@castorini](https://github.com/castorini)/[**VDPWI-NN-Torch**](https://github.com/castorini/VDPWI-NN-Torch)|Very Deep Pairwise Word Interaction Neural Networks for modeling textual similarity (He and Lin, NAACL/HLT 2016)||
 |22|[@inikdom](https://github.com/inikdom)/[**seq2seq-chatbot**](https://github.com/inikdom/seq2seq-chatbot)|An implementation of Google's seq2seq architecture for building a chatbot.||
 |21|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**drmad**](https://github.com/nicholas-leonard/drmad)|Hyper-parameter Optimization with DrMAD and Hypero||
@@ -37,17 +37,17 @@
 |8|[@karai17](https://github.com/karai17)/[**lua-winged-edge**](https://github.com/karai17/lua-winged-edge)|Winged Edge Data Structure in Lua||
 |8|[@svermeulen](https://github.com/svermeulen)/[**nvim-moonmaker**](https://github.com/svermeulen/nvim-moonmaker)|Moonscript plugin support for neovim||
 |8|[@vocksel](https://github.com/vocksel)/[**prefabs**](https://github.com/vocksel/prefabs)|Roblox plugin for making reuseable assets and keeping them in sync across your game||
+|7|[@coolacid](https://github.com/coolacid)/[**ComputerCraft**](https://github.com/coolacid/ComputerCraft)|Scripts Related to Minecraft ComputerCraft||
 |7|[@mverteuil](https://github.com/mverteuil)/[**windower4-addons**](https://github.com/mverteuil/windower4-addons)|FFXI Windower 4 Addons||
-|6|[@coolacid](https://github.com/coolacid)/[**ComputerCraft**](https://github.com/coolacid/ComputerCraft)|Scripts Related to Minecraft ComputerCraft||
 |5|[@bbc](https://github.com/bbc)/[**rfc8450-vc2-dissector**](https://github.com/bbc/rfc8450-vc2-dissector)|Wireshark plugin to parse RTP streams implementing the VC-2 HQ payload specification||
 |5|[@dvdfu](https://github.com/dvdfu)/[**ld38**](https://github.com/dvdfu/ld38)|Ludum Dare 38 Jam submission|[:arrow_upper_right:](https://dvdfu.itch.io/honey-home)|
+|5|[@jhawthorn](https://github.com/jhawthorn)/[**dotfiles**](https://github.com/jhawthorn/dotfiles)|my configs||
 |5|[@joezeng](https://github.com/joezeng)/[**cambridge**](https://github.com/joezeng/cambridge)|An open-source falling-block game engine!||
 |5|[@karai17](https://github.com/karai17)/[**love2d-input-manager**](https://github.com/karai17/love2d-input-manager)|AN input manager for the Love2D game engine||
 |5|[@karai17](https://github.com/karai17)/[**lua-bbcode**](https://github.com/karai17/lua-bbcode)|||
 |4|[@ReikaKalseki](https://github.com/ReikaKalseki)/[**EndgameCombat**](https://github.com/ReikaKalseki/EndgameCombat)|A mod to add much more powerful endgame weaponry and defences, to stand up to mods like Natural Evolution and DyTech.||
 |4|[@dvdfu](https://github.com/dvdfu)/[**packer**](https://github.com/dvdfu/packer)|Texture atlases for Lua using Love2D||
 |4|[@james2doyle](https://github.com/james2doyle)/[**luvstache**](https://github.com/james2doyle/luvstache)|Mustache templates for Luvit||
-|4|[@jhawthorn](https://github.com/jhawthorn)/[**dotfiles**](https://github.com/jhawthorn/dotfiles)|my configs||
 |4|[@karai17](https://github.com/karai17)/[**Peep**](https://github.com/karai17/Peep)|View the contents of variables in LÖVE||
 |4|[@karai17](https://github.com/karai17)/[**love-eh**](https://github.com/karai17/love-eh)|LOVE API localized to en_CA||
 |4|[@mvdan](https://github.com/mvdan)/[**dotfiles**](https://github.com/mvdan/dotfiles)|Here be dragons||

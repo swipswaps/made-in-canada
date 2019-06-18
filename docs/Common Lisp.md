@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|262|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
+|263|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
 |74|[@hoytech](https://github.com/hoytech)/[**antiweb**](https://github.com/hoytech/antiweb)|Common Lisp web application server|[:arrow_upper_right:](http://hoytech.com/antiweb/)|
-|64|[@inaimathi](https://github.com/inaimathi)/[**cl-notebook**](https://github.com/inaimathi/cl-notebook)|A notebook-style editor for Common Lisp||
+|63|[@inaimathi](https://github.com/inaimathi)/[**cl-notebook**](https://github.com/inaimathi/cl-notebook)|A notebook-style editor for Common Lisp||
 |62|[@thephoeron](https://github.com/thephoeron)/[**let-over-lambda**](https://github.com/thephoeron/let-over-lambda)|Doug Hoyte's "Production" version of macros from Let Over Lambda, ready for ASDF and Quicklisp.||
 |46|[@thephoeron](https://github.com/thephoeron)/[**black-stone**](https://github.com/thephoeron/black-stone)|Specification and Implementation of Quantum Common Lisp, for gate-model quantum computers||
 |34|[@thephoeron](https://github.com/thephoeron)/[**bit-smasher**](https://github.com/thephoeron/bit-smasher)|Common Lisp library for handling bit vectors, bit vector arithmetic, and type conversions.|[:arrow_upper_right:](https://thephoeron.github.io/bit-smasher/)|
@@ -40,6 +40,7 @@
 |4|[@Hexstream](https://github.com/Hexstream)/[**definitions-systems**](https://github.com/Hexstream/definitions-systems)|Provides a simple unified extensible way of processing named definitions.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/definitions-systems/)|
 |4|[@Hexstream](https://github.com/Hexstream)/[**place-utils**](https://github.com/Hexstream/place-utils)|Provides a few utilities relating to setfable places.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/place-utils/)|
 |4|[@Hexstream](https://github.com/Hexstream)/[**trivial-jumptables**](https://github.com/Hexstream/trivial-jumptables)|Provides efficient O(1) jumptables on supported Common Lisp implementations and falls back to O(log(n)) on others.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/trivial-jumptables/)|
+|4|[@burtonsamograd](https://github.com/burtonsamograd)/[**typed-cl**](https://github.com/burtonsamograd/typed-cl)|Easier type declerations for for Common Lisp.||
 |4|[@thephoeron](https://github.com/thephoeron)/[**cl-cuneiform**](https://github.com/thephoeron/cl-cuneiform)|Common Lisp library for handling and parsing unicode Sumerian and Akkadian cuneiform signs, and their ASCII and Latin representations||
 |4|[@thephoeron](https://github.com/thephoeron)/[**cl-datalog**](https://github.com/thephoeron/cl-datalog)|A Common Lisp DSL for Datalog: the declarative logic programming language||
 |4|[@tokenrove](https://github.com/tokenrove)/[**m68k-assembler**](https://github.com/tokenrove/m68k-assembler)|A simple, mostly-DevPAC-compatible assembler for the Motorola 68k series of proccessors.||
@@ -48,7 +49,6 @@
 |3|[@Hexstream](https://github.com/Hexstream)/[**parse-number-range**](https://github.com/Hexstream/parse-number-range)|Parses LOOP's convenient "for-as-arithmetic" syntax into 5 simple values: from, to, limit-kind (:inclusive, :exclusive or nil if unbounded), by (step) and direction (+ or -)). Further related utilities are provided. Intended for easy implementation of analogous functionality in other constructs.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/parse-number-range/)|
 |3|[@Hexstream](https://github.com/Hexstream)/[**place-modifiers**](https://github.com/Hexstream/place-modifiers)|place-modifiers essentially gives access to hundreds of modify-macros through one single macro: MODIFY.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/place-modifiers/)|
 |3|[@Hexstream](https://github.com/Hexstream)/[**positional-lambda**](https://github.com/Hexstream/positional-lambda)|positional-lambda is a concise, intuitive and flexible syntax (macro) for trivial lambdas that eschews explicit (and often contextually-redundant) naming of parameter variables in favor of positional references, with support for a used or ignored &rest parameter and automatic declaration of ignored parameters when logical "gaps" are left in the positional references. Further convenience features are provided.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/positional-lambda/)|
-|3|[@burtonsamograd](https://github.com/burtonsamograd)/[**typed-cl**](https://github.com/burtonsamograd/typed-cl)|Easier type declerations for for Common Lisp.||
 |3|[@bzgeb](https://github.com/bzgeb)/[**Sudoku-Wizard**](https://github.com/bzgeb/Sudoku-Wizard)|A propositional logic based sudoku solver. Developed in Common Lisp.||
 |3|[@inaimathi](https://github.com/inaimathi)/[**cl-chan**](https://github.com/inaimathi/cl-chan)|A message/image board (eventually) written in Common Lisp, mainly for tutorial purposes||
 |3|[@inaimathi](https://github.com/inaimathi)/[**cl-web-dev**](https://github.com/inaimathi/cl-web-dev)|Minor utilities for web development in Common Lisp||

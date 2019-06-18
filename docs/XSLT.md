@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|25|[@MechanisM](https://github.com/MechanisM)/[**jquery-icecast**](https://github.com/MechanisM/jquery-icecast)|jQuery Plugin for Icecast||
+|26|[@MechanisM](https://github.com/MechanisM)/[**jquery-icecast**](https://github.com/MechanisM/jquery-icecast)|jQuery Plugin for Icecast||
 |8|[@clothbot](https://github.com/clothbot)/[**makerbot**](https://github.com/clothbot/makerbot)|MakerBot Related Designs|[:arrow_upper_right:](http://clothbot.com/wiki/MakerBotNumberNine)|
 |4|[@BCcampus](https://github.com/BCcampus)/[**pressbooks-openstax-import**](https://github.com/BCcampus/pressbooks-openstax-import)|[UNMAINTAINED] Pressbooks Plugin for OpenStax Textbook Import||
 |4|[@bcgov](https://github.com/bcgov)/[**bc-laws-api**](https://github.com/bcgov/bc-laws-api)|||

@@ -1,47 +1,47 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3106|[@pangloss](https://github.com/pangloss)/[**vim-javascript**](https://github.com/pangloss/vim-javascript)|Vastly improved Javascript indentation and syntax support in Vim.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4452)|
-|870|[@jpalardy](https://github.com/jpalardy)/[**vim-slime**](https://github.com/jpalardy/vim-slime)|A vim plugin to give you some slime. (Emacs)|[:arrow_upper_right:](http://technotales.wordpress.com/2007/10/03/like-slime-for-vim/)|
-|836|[@gf3](https://github.com/gf3)/[**dotfiles**](https://github.com/gf3/dotfiles)|config for neovim, tmux, molotov colourscheme, and more||
+|3125|[@pangloss](https://github.com/pangloss)/[**vim-javascript**](https://github.com/pangloss/vim-javascript)|Vastly improved Javascript indentation and syntax support in Vim.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4452)|
+|885|[@jpalardy](https://github.com/jpalardy)/[**vim-slime**](https://github.com/jpalardy/vim-slime)|A vim plugin to give you some slime. (Emacs)|[:arrow_upper_right:](http://technotales.wordpress.com/2007/10/03/like-slime-for-vim/)|
+|838|[@gf3](https://github.com/gf3)/[**dotfiles**](https://github.com/gf3/dotfiles)|config for neovim, tmux, molotov colourscheme, and more||
 |705|[@myusuf3](https://github.com/myusuf3)/[**numbers.vim**](https://github.com/myusuf3/numbers.vim)|numbers.vim is a vim plugin for better line numbers|[:arrow_upper_right:](http://myusuf3.github.com/numbers.vim/)|
-|521|[@svermeulen](https://github.com/svermeulen)/[**vim-easyclip**](https://github.com/svermeulen/vim-easyclip)|Simplified clipboard functionality for Vim||
-|440|[@tommcdo](https://github.com/tommcdo)/[**vim-exchange**](https://github.com/tommcdo/vim-exchange)|Easy text exchange operator for Vim||
-|346|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
-|325|[@amacgregor](https://github.com/amacgregor)/[**dot-files**](https://github.com/amacgregor/dot-files)|Dotfiles repository||
+|524|[@svermeulen](https://github.com/svermeulen)/[**vim-easyclip**](https://github.com/svermeulen/vim-easyclip)|Simplified clipboard functionality for Vim||
+|442|[@tommcdo](https://github.com/tommcdo)/[**vim-exchange**](https://github.com/tommcdo/vim-exchange)|Easy text exchange operator for Vim||
+|352|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
+|327|[@amacgregor](https://github.com/amacgregor)/[**dot-files**](https://github.com/amacgregor/dot-files)|Dotfiles repository||
 |217|[@dgryski](https://github.com/dgryski)/[**vim-godef**](https://github.com/dgryski/vim-godef)|vim plugin providing godef support||
-|191|[@juliosueiras](https://github.com/juliosueiras)/[**vim-terraform-completion**](https://github.com/juliosueiras/vim-terraform-completion)|A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool||
+|194|[@juliosueiras](https://github.com/juliosueiras)/[**vim-terraform-completion**](https://github.com/juliosueiras/vim-terraform-completion)|A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool||
 |137|[@myusuf3](https://github.com/myusuf3)/[**dotfiles**](https://github.com/myusuf3/dotfiles)|myusuf3's dotfiles||
 |90|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|:rocket: Quickly init a slightly better Vim.||
 |88|[@lfilho](https://github.com/lfilho)/[**cosco.vim**](https://github.com/lfilho/cosco.vim)|VIM colon and semicolon insertion bliss||
-|87|[@martinda](https://github.com/martinda)/[**Jenkinsfile-vim-syntax**](https://github.com/martinda/Jenkinsfile-vim-syntax)|Jenkinsfile DSL vim syntax||
-|80|[@svermeulen](https://github.com/svermeulen)/[**vim-subversive**](https://github.com/svermeulen/vim-subversive)|Vim plugin providing operator motions to quickly replace text||
+|88|[@martinda](https://github.com/martinda)/[**Jenkinsfile-vim-syntax**](https://github.com/martinda/Jenkinsfile-vim-syntax)|Jenkinsfile DSL vim syntax||
+|81|[@svermeulen](https://github.com/svermeulen)/[**vim-subversive**](https://github.com/svermeulen/vim-subversive)|Vim plugin providing operator motions to quickly replace text||
 |76|[@idbrii](https://github.com/idbrii)/[**AsyncCommand**](https://github.com/idbrii/AsyncCommand)|AsyncCommand allows you to execute shell commands without waiting for them  to complete. When the application terminates, its output can be loaded into  a vim buffer.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3431)|
 |76|[@jpalardy](https://github.com/jpalardy)/[**dotfiles**](https://github.com/jpalardy/dotfiles)|My collection of config files (bash, vim, …)||
 |73|[@svermeulen](https://github.com/svermeulen)/[**vim-yoink**](https://github.com/svermeulen/vim-yoink)|Vim plugin that maintains a yank history to cycle between when pasting||
 |65|[@MilesCranmer](https://github.com/MilesCranmer)/[**gso**](https://github.com/MilesCranmer/gso)|🏃  Google StackOverflow in Vim. Copy-pastes the code directly in your script.||
 |56|[@jperras](https://github.com/jperras)/[**dotfiles**](https://github.com/jperras/dotfiles)|Carefully crafted, curated and somewhat Python-oriented Vim development environment||
+|55|[@honza](https://github.com/honza)/[**dockerfile.vim**](https://github.com/honza/dockerfile.vim)|Syntax highlighting for Dockerfiles||
 |55|[@jperras](https://github.com/jperras)/[**vim-dotfiles**](https://github.com/jperras/vim-dotfiles)|Carefully crafted, curated and somewhat Python-oriented Vim development environment||
-|54|[@honza](https://github.com/honza)/[**dockerfile.vim**](https://github.com/honza/dockerfile.vim)|Syntax highlighting for Dockerfiles||
 |49|[@AGhost-7](https://github.com/AGhost-7)/[**critiq.vim**](https://github.com/AGhost-7/critiq.vim)|Github code reviews from Neovim||
 |47|[@tommcdo](https://github.com/tommcdo)/[**vim-ninja-feet**](https://github.com/tommcdo/vim-ninja-feet)|Strike from the cursor to either end of a text object||
 |45|[@ujihisa](https://github.com/ujihisa)/[**repl.vim**](https://github.com/ujihisa/repl.vim)|irb, ghci, and anything else. in Vim.||
 |43|[@ujihisa](https://github.com/ujihisa)/[**config**](https://github.com/ujihisa/config)|||
-|39|[@remiprev](https://github.com/remiprev)/[**dotfiles**](https://github.com/remiprev/dotfiles)|All my dotfiles (vim, zsh, tmux, etc.) in a single place||
+|38|[@remiprev](https://github.com/remiprev)/[**dotfiles**](https://github.com/remiprev/dotfiles)|All my dotfiles (vim, zsh, tmux, etc.) in a single place||
 |37|[@robbles](https://github.com/robbles)/[**logstash.vim**](https://github.com/robbles/logstash.vim)|highlights logstash configuration files||
 |37|[@ujihisa](https://github.com/ujihisa)/[**neoclojure.vim**](https://github.com/ujihisa/neoclojure.vim)|Clojure completion/unite-source Vim plugin, using vital.ProcessManager and Leiningen||
 |30|[@idbrii](https://github.com/idbrii)/[**daveconfig**](https://github.com/idbrii/daveconfig)|A collection of settings and tiny scripts for many things. Note: only master branch is safe!||
 |24|[@joedf](https://github.com/joedf)/[**PlasticCodeWrap**](https://github.com/joedf/PlasticCodeWrap)|a theme ported to over 20 code editors!|[:arrow_upper_right:](http://joedf.github.io/plasticcodewrap)|
 |24|[@tommcdo](https://github.com/tommcdo)/[**vim-express**](https://github.com/tommcdo/vim-express)|Easily create custom Vim operators using expressions and substitutions||
 |21|[@svermeulen](https://github.com/svermeulen)/[**vim-NotableFt**](https://github.com/svermeulen/vim-NotableFt)|||
-|16|[@idbrii](https://github.com/idbrii)/[**vim-remarkjs**](https://github.com/idbrii/vim-remarkjs)|Turn Markdown into self-contained html slideshows (using remark.js)||
 |15|[@ababaian](https://github.com/ababaian)/[**bioSyntax-archive**](https://github.com/ababaian/bioSyntax-archive)|Syntax highlighting for computational biology|[:arrow_upper_right:](http://bioSyntax.org)|
+|15|[@idbrii](https://github.com/idbrii)/[**vim-remarkjs**](https://github.com/idbrii/vim-remarkjs)|Turn Markdown into self-contained html slideshows (using remark.js)||
 |15|[@prurigro](https://github.com/prurigro)/[**darkcloud-vimconfig**](https://github.com/prurigro/darkcloud-vimconfig)|A Vim distribution with sane, modern defaults, a custom theme, and a collection of tightly integrated and configured development-oriented plugins||
 |15|[@tommcdo](https://github.com/tommcdo)/[**vim-kangaroo**](https://github.com/tommcdo/vim-kangaroo)|Vim plugin: Maintain a manually-defined jump stack||
+|15|[@yanick](https://github.com/yanick)/[**environment**](https://github.com/yanick/environment)|environment stuff I use on my different boxen/projects||
 |14|[@ababaian](https://github.com/ababaian)/[**bioSyntax**](https://github.com/ababaian/bioSyntax)|Syntax highlighting for computational biology|[:arrow_upper_right:](http://bioSyntax.org)|
+|14|[@curtismchale](https://github.com/curtismchale)/[**WPTT-Vim-Config**](https://github.com/curtismchale/WPTT-Vim-Config)|My WordPress vim config||
 |14|[@moshen](https://github.com/moshen)/[**vimconfig**](https://github.com/moshen/vimconfig)|My vim configuration...||
-|14|[@yanick](https://github.com/yanick)/[**environment**](https://github.com/yanick/environment)|environment stuff I use on my different boxen/projects||
 |13|[@amcgregor](https://github.com/amcgregor)/[**dotfiles**](https://github.com/amcgregor/dotfiles)|Personal code snippits, etc.|[:arrow_upper_right:](http://www.gothcandy.com/)|
-|13|[@curtismchale](https://github.com/curtismchale)/[**WPTT-Vim-Config**](https://github.com/curtismchale/WPTT-Vim-Config)|My WordPress vim config||
 |13|[@ujihisa](https://github.com/ujihisa)/[**unite-haskellimport**](https://github.com/ujihisa/unite-haskellimport)|:Unite haskellimport||
 |11|[@idbrii](https://github.com/idbrii)/[**vim-endoscope**](https://github.com/idbrii/vim-endoscope)|A single keystroke to end your scope. Like autoclose plugins, but less automatic.||
 |11|[@kevinjalbert](https://github.com/kevinjalbert)/[**dotfiles**](https://github.com/kevinjalbert/dotfiles)|My dotfiles|[:arrow_upper_right:](https://kevinjalbert.com/synchronizing-my-dotfiles/)|
@@ -63,14 +63,16 @@
 |6|[@programble](https://github.com/programble)/[**itchy.vim**](https://github.com/programble/itchy.vim)|Scratch buffers for Vim||
 |6|[@stewart](https://github.com/stewart)/[**dotfiles**](https://github.com/stewart/dotfiles)|.dotfiles||
 |5|[@aybabtme](https://github.com/aybabtme)/[**.config**](https://github.com/aybabtme/.config)|||
+|5|[@idbrii](https://github.com/idbrii)/[**vim-tagimposter**](https://github.com/idbrii/vim-tagimposter)|Forge tag jumps so tag alternatives can populate the tagstack.||
 |5|[@kbaribeau](https://github.com/kbaribeau)/[**dotfiles**](https://github.com/kbaribeau/dotfiles)|~/.* files for my mac (git, autotest, etc.)||
 |5|[@t6d](https://github.com/t6d)/[**dotfiles**](https://github.com/t6d/dotfiles)|My Shell Environment||
 |5|[@tiagonbotelho](https://github.com/tiagonbotelho)/[**vimrc**](https://github.com/tiagonbotelho/vimrc)|My personal .vimrc configuration||
 |4|[@horse-latitudes](https://github.com/horse-latitudes)/[**horse-vimfiles**](https://github.com/horse-latitudes/horse-vimfiles)|dotfiles & somesuch|[:arrow_upper_right:](https://github.com/horse-latitudes/horse-vimfiles.git)|
-|4|[@idbrii](https://github.com/idbrii)/[**vim-tagimposter**](https://github.com/idbrii/vim-tagimposter)|Forge tag jumps so tag alternatives can populate the tagstack.||
 |4|[@idbrii](https://github.com/idbrii)/[**vim-unreal**](https://github.com/idbrii/vim-unreal)|Using vim with Unreal Engine.||
 |4|[@interstateone](https://github.com/interstateone)/[**dotfiles**](https://github.com/interstateone/dotfiles)|||
 |4|[@nbosco](https://github.com/nbosco)/[**vim2go**](https://github.com/nbosco/vim2go)|Vim starter pack, everything you need to get started. 👐🏽 🍦|[:arrow_upper_right:](https://nbosco.github.io/vim2go/)|
+|4|[@pseudomuto](https://github.com/pseudomuto)/[**dotfiles**](https://github.com/pseudomuto/dotfiles)|You know...dotfiles and such||
+|4|[@rosshamish](https://github.com/rosshamish)/[**dotfiles**](https://github.com/rosshamish/dotfiles)|mac os system setup||
 |4|[@ruyadorno](https://github.com/ruyadorno)/[**dotfiles**](https://github.com/ruyadorno/dotfiles)|||
 |4|[@sjackman](https://github.com/sjackman)/[**dotfiles**](https://github.com/sjackman/dotfiles)|~/.*|[:arrow_upper_right:](http://dotfiles.github.io/)|
 |4|[@svermeulen](https://github.com/svermeulen)/[**nvim-yoink**](https://github.com/svermeulen/nvim-yoink)|Vim plugin to provide a yank history||
@@ -90,10 +92,8 @@
 |3|[@jpcaissy](https://github.com/jpcaissy)/[**vimrc**](https://github.com/jpcaissy/vimrc)|||
 |3|[@mdeering](https://github.com/mdeering)/[**homefiles**](https://github.com/mdeering/homefiles)|My Linux setup||
 |3|[@meagar](https://github.com/meagar)/[**dotfiles**](https://github.com/meagar/dotfiles)|||
-|3|[@pseudomuto](https://github.com/pseudomuto)/[**dotfiles**](https://github.com/pseudomuto/dotfiles)|You know...dotfiles and such||
 |3|[@qrwteyrutiyoup](https://github.com/qrwteyrutiyoup)/[**dotfiles**](https://github.com/qrwteyrutiyoup/dotfiles)|Infamous dotfiles repository - everyone seems to have one these days...||
 |3|[@rey](https://github.com/rey)/[**.vim**](https://github.com/rey/.vim)|This is my Vim config.||
 |3|[@robbles](https://github.com/robbles)/[**dotfiles**](https://github.com/robbles/dotfiles)|my config files. for survival in harsh climates and other computers.||
-|3|[@rosshamish](https://github.com/rosshamish)/[**dotfiles**](https://github.com/rosshamish/dotfiles)|mac os system setup||
 |3|[@takkyuuplayer](https://github.com/takkyuuplayer)/[**dotfiles**](https://github.com/takkyuuplayer/dotfiles)|||
 

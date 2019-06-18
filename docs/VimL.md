@@ -2,7 +2,7 @@
 |---|---|---|---|
 |196|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
 |149|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
-|53|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
+|54|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
 |50|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
 |45|[@ujihisa](https://github.com/ujihisa)/[**unite-colorscheme**](https://github.com/ujihisa/unite-colorscheme)|A unite.vim plugin||
 |40|[@ujihisa](https://github.com/ujihisa)/[**shadow.vim**](https://github.com/ujihisa/shadow.vim)|That's not the file. That's shadow.||
@@ -19,10 +19,10 @@
 |14|[@gmarik](https://github.com/gmarik)/[**sudo-gui.vim**](https://github.com/gmarik/sudo-gui.vim)|sudo GUI for a GUI vim|[:arrow_upper_right:](https://github.com/gmarik/sudo-gui.vim)|
 |14|[@tommcdo](https://github.com/tommcdo)/[**vim-lister**](https://github.com/tommcdo/vim-lister)|A collection of commands for manipulating Vim's lists||
 |12|[@travisjeffery](https://github.com/travisjeffery)/[**snipmate-snippets**](https://github.com/travisjeffery/snipmate-snippets)|my snippets that I use with snipmate||
-|12|[@ujihisa](https://github.com/ujihisa)/[**quicklearn**](https://github.com/ujihisa/quicklearn)|A quickrun plugin to show intermediate codes||
 |12|[@ujihisa](https://github.com/ujihisa)/[**unite-font**](https://github.com/ujihisa/unite-font)|A unite plugin||
 |11|[@gf3](https://github.com/gf3)/[**peg.vim**](https://github.com/gf3/peg.vim)|PEG Syntax for Vim||
 |11|[@mgrouchy](https://github.com/mgrouchy)/[**oldvim**](https://github.com/mgrouchy/oldvim)|my old vimfiles|[:arrow_upper_right:](http://mikegrouchy.com)|
+|11|[@ujihisa](https://github.com/ujihisa)/[**quicklearn**](https://github.com/ujihisa/quicklearn)|A quickrun plugin to show intermediate codes||
 |10|[@idbrii](https://github.com/idbrii)/[**vim-hiinterestingword**](https://github.com/idbrii/vim-hiinterestingword)|[Deprecated in favour of https://github.com/idbrii/vim-mark]||
 |9|[@mricon](https://github.com/mricon)/[**puppet-eyes**](https://github.com/mricon/puppet-eyes)|Vim plugin to alert when a file being edited is managed by puppet||
 |9|[@thayerwilliams](https://github.com/thayerwilliams)/[**msi-dotfiles**](https://github.com/thayerwilliams/msi-dotfiles)|Archlinux dotfiles for my MSI Wind U120 netbook|[:arrow_upper_right:](http://cinderwick.ca)|
@@ -45,6 +45,7 @@
 |5|[@ujihisa](https://github.com/ujihisa)/[**unite-gem**](https://github.com/ujihisa/unite-gem)|A Unite plugin for RubyGems||
 |5|[@ujihisa](https://github.com/ujihisa)/[**unite-launch**](https://github.com/ujihisa/unite-launch)|powered by quickrun||
 |4|[@bigfish](https://github.com/bigfish)/[**vim4js**](https://github.com/bigfish/vim4js)|Vim goodies for Javascript||
+|4|[@blakehilscher](https://github.com/blakehilscher)/[**dotfiles**](https://github.com/blakehilscher/dotfiles)|dotfiles||
 |4|[@garyharan](https://github.com/garyharan)/[**vim-proto**](https://github.com/garyharan/vim-proto)|Protobuf syntax highlighting bundled for Vim||
 |4|[@idbrii](https://github.com/idbrii)/[**vim-perforce**](https://github.com/idbrii/vim-perforce)|Control Perforce from vim|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=240)|
 |4|[@pangloss](https://github.com/pangloss)/[**vim-simplefold**](https://github.com/pangloss/vim-simplefold)|Fork of SimpleFold.vim by Mauricio Fernandez. Space-optimized, configurable code folding for vim.|[:arrow_upper_right:](http://eigenclass.org/hiki/simplefold)|
@@ -58,7 +59,7 @@
 |3|[@SilverTab](https://github.com/SilverTab)/[**vimfiles**](https://github.com/SilverTab/vimfiles)|My vim config...||
 |3|[@adam12](https://github.com/adam12)/[**dotfiles**](https://github.com/adam12/dotfiles)|My dotfiles||
 |3|[@bigfish](https://github.com/bigfish)/[**vim-jshint**](https://github.com/bigfish/vim-jshint)|vim plugin to run jshint on filesave and show errors||
-|3|[@blakehilscher](https://github.com/blakehilscher)/[**dotfiles**](https://github.com/blakehilscher/dotfiles)|dotfiles||
+|3|[@bsandrow](https://github.com/bsandrow)/[**dotfiles**](https://github.com/bsandrow/dotfiles)|My dotfiles||
 |3|[@colindecarlo](https://github.com/colindecarlo)/[**dot-files**](https://github.com/colindecarlo/dot-files)|My dot files||
 |3|[@dimitriwalters](https://github.com/dimitriwalters)/[**dotfiles**](https://github.com/dimitriwalters/dotfiles)|Current .vimrc and .vim||
 |3|[@gmarik](https://github.com/gmarik)/[**hlmatch.vim**](https://github.com/gmarik/hlmatch.vim)|opinionated Vim highlighting utils.||

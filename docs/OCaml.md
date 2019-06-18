@@ -3,7 +3,7 @@
 |40|[@berke](https://github.com/berke)/[**aurochs**](https://github.com/berke/aurochs)|Aurochs is a parser generator that uses the parse expression grammar  (PEG) or "packrat" approach. It takes a grammar in a BNF-like notation (a .peg file) and produces bytecode (a .nog file) for a stack automaton. This bytecode is later interpreted on the input to parse using a C library. Bindings are given for Ocaml, Java and Exascript.|[:arrow_upper_right:](http://aurochs.fr/)|
 |35|[@berke](https://github.com/berke)/[**jsure**](https://github.com/berke/jsure)|JSure is a fast, standalone Javascript checker.||
 |20|[@janicduplessis](https://github.com/janicduplessis)/[**bs-graphql-js**](https://github.com/janicduplessis/bs-graphql-js)|Bucklescript bindings for https://github.com/graphql/graphql-js||
-|14|[@yawaramin](https://github.com/yawaramin)/[**re-hyperapp**](https://github.com/yawaramin/re-hyperapp)|Almost zero-cost bindings for the https://github.com/hyperapp/hyperapp UI library.||
+|15|[@yawaramin](https://github.com/yawaramin)/[**re-hyperapp**](https://github.com/yawaramin/re-hyperapp)|Almost zero-cost bindings for the https://github.com/hyperapp/hyperapp UI library.||
 |12|[@tokenrove](https://github.com/tokenrove)/[**tsdl-image**](https://github.com/tokenrove/tsdl-image)|OCaml SDL2_image bindings to go with Tsdl||
 |8|[@yawaramin](https://github.com/yawaramin)/[**bs-hyperapp**](https://github.com/yawaramin/bs-hyperapp)|DEPRECATED - see https://github.com/yawaramin/re-hyperapp for a more recent (experimental) attempt||
 |7|[@adrianmcli](https://github.com/adrianmcli)/[**rehydrate-workshop**](https://github.com/adrianmcli/rehydrate-workshop)|A small collection of basic components built with Rehydrate 💧.||
@@ -15,9 +15,9 @@
 |6|[@yawaramin](https://github.com/yawaramin)/[**bs-webapi**](https://github.com/yawaramin/bs-webapi)|(WIP) BuckleScript Web API Bindings||
 |6|[@yawaramin](https://github.com/yawaramin)/[**dbc**](https://github.com/yawaramin/dbc)|Design-by-contract programming for JavaScript and ReasonML||
 |5|[@danieljharvey](https://github.com/danieljharvey)/[**reason-examples**](https://github.com/danieljharvey/reason-examples)|Some examples of reason code||
+|5|[@yawaramin](https://github.com/yawaramin)/[**bs-phoenix**](https://github.com/yawaramin/bs-phoenix)|BuckleScript bindings for the Phoenix.js client||
 |5|[@yawaramin](https://github.com/yawaramin)/[**resilient-services**](https://github.com/yawaramin/resilient-services)|||
 |4|[@brentvatne](https://github.com/brentvatne)/[**99-reasons**](https://github.com/brentvatne/99-reasons)|||
-|4|[@yawaramin](https://github.com/yawaramin)/[**bs-phoenix**](https://github.com/yawaramin/bs-phoenix)|BuckleScript bindings for the Phoenix.js client||
 |3|[@jochasinga](https://github.com/jochasinga)/[**annihilation**](https://github.com/jochasinga/annihilation)|Implementation of the Bitcoin Merkle Tree||
 |3|[@tokenrove](https://github.com/tokenrove)/[**zookicker**](https://github.com/tokenrove/zookicker)|#1GAM February backup plan||
 |3|[@yawaramin](https://github.com/yawaramin)/[**bs-pouchdb**](https://github.com/yawaramin/bs-pouchdb)|||
