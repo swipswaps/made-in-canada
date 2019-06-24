@@ -6,13 +6,13 @@
 |394|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls||
 |230|[@EtienneLem](https://github.com/EtienneLem)/[**skeleton**](https://github.com/EtienneLem/skeleton)|Express 3.0 framework-less app structure generator|[:arrow_upper_right:](http://etiennelem.github.com/skeleton)|
 |221|[@axiomzen](https://github.com/axiomzen)/[**Alike**](https://github.com/axiomzen/Alike)|A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances||
-|203|[@fw42](https://github.com/fw42)/[**honeymap**](https://github.com/fw42/honeymap)|Real-time websocket stream of GPS events on a fancy SVG world map|[:arrow_upper_right:](http://map.honeynet.org/)|
 |202|[@benbria](https://github.com/benbria)/[**aliasify**](https://github.com/benbria/aliasify)|Rewrite require calls in browserify modules.||
+|202|[@fw42](https://github.com/fw42)/[**honeymap**](https://github.com/fw42/honeymap)|Real-time websocket stream of GPS events on a fancy SVG world map|[:arrow_upper_right:](http://map.honeynet.org/)|
 |188|[@raganwald](https://github.com/raganwald)/[**YouAreDaChef**](https://github.com/raganwald/YouAreDaChef)|Coffeescript/Javascript method combinations for Underscore projects||
 |185|[@zaidka](https://github.com/zaidka)/[**genieacs**](https://github.com/zaidka/genieacs)|A fast and lightweight TR-069 Auto Configuration Server (ACS)|[:arrow_upper_right:](https://genieacs.com)|
 |182|[@adamhooper](https://github.com/adamhooper)/[**js-priority-queue**](https://github.com/adamhooper/js-priority-queue)|Priority queues in JavaScript||
 |179|[@raganwald](https://github.com/raganwald)/[**Katy**](https://github.com/raganwald/Katy)|CoffeeScript and JavaScript Combinators||
-|155|[@pcrawfor](https://github.com/pcrawfor)/[**iap_verifier**](https://github.com/pcrawfor/iap_verifier)|Node.js implementation of iOS In App Purchase receipt verification||
+|156|[@pcrawfor](https://github.com/pcrawfor)/[**iap_verifier**](https://github.com/pcrawfor/iap_verifier)|Node.js implementation of iOS In App Purchase receipt verification||
 |141|[@benbria](https://github.com/benbria)/[**coffee-coverage**](https://github.com/benbria/coffee-coverage)|Istanbul and JSCoverage-style instrumentation for CoffeeScript files.||
 |135|[@jescalan](https://github.com/jescalan)/[**accord**](https://github.com/jescalan/accord)|a unified interface for compiled languages and templates in javascript||
 |121|[@raganwald](https://github.com/raganwald)/[**method-combinators**](https://github.com/raganwald/method-combinators)|||
@@ -87,13 +87,13 @@
 |8|[@shovon](https://github.com/shovon)/[**jade-static**](https://github.com/shovon/jade-static)|Serve static Jade files from an Express server.||
 |8|[@walkah](https://github.com/walkah)/[**hubot-plex**](https://github.com/walkah/hubot-plex)|A hubot script to interact with a Plex Media Server||
 |7|[@EtienneLem](https://github.com/EtienneLem)/[**gauges-events**](https://github.com/EtienneLem/gauges-events)|Gauges custom events tracker (unofficial)|[:arrow_upper_right:](http://get.gaug.es)|
-|7|[@EtienneLem](https://github.com/EtienneLem)/[**rdio-display**](https://github.com/EtienneLem/rdio-display)|Screensaver ala AppleTV that displays currently playing song.|[:arrow_upper_right:](http://rdio-display.herokuapp.com)|
 |7|[@Glavin001](https://github.com/Glavin001)/[**TorrentAutomator**](https://github.com/Glavin001/TorrentAutomator)|Automate the task of searching for Torrents and sending them to your Torrent Client to download.||
 |7|[@RobLoach](https://github.com/RobLoach)/[**docpad-plugin-consolidate**](https://github.com/RobLoach/docpad-plugin-consolidate)|:pencil2: Template Engine Consolidation for DocPad|[:arrow_upper_right:](http://github.com/visionmedia/consolidate.js)|
 |7|[@ben-z](https://github.com/ben-z)/[**Silent-Sync**](https://github.com/ben-z/Silent-Sync)|Automatically takes care of the file syncing while you work.|[:arrow_upper_right:](https://atom.io/packages/silent-sync)|
 |7|[@benjie](https://github.com/benjie)/[**rf-experiments**](https://github.com/benjie/rf-experiments)|Capturing RF data using a cheap receiver and Arduino; attempting to decode it.||
 |7|[@tpoisot](https://github.com/tpoisot)/[**language-julia**](https://github.com/tpoisot/language-julia)|||
 |7|[@travisjeffery](https://github.com/travisjeffery)/[**hubot-socket.io**](https://github.com/travisjeffery/hubot-socket.io)|Socket IO adapter for Hubot.||
+|6|[@EtienneLem](https://github.com/EtienneLem)/[**rdio-display**](https://github.com/EtienneLem/rdio-display)|Screensaver ala AppleTV that displays currently playing song.|[:arrow_upper_right:](http://rdio-display.herokuapp.com)|
 |6|[@WillsonSmith](https://github.com/WillsonSmith)/[**AtomCodePenEditor**](https://github.com/WillsonSmith/AtomCodePenEditor)|u can edit ur codepenz in atom editor thing||
 |6|[@bencentra](https://github.com/bencentra)/[**hubot-giphy-gifme**](https://github.com/bencentra/hubot-giphy-gifme)|"gif me" command for Hubot, get random GIFs from Giphy!||
 |6|[@kmalakoff](https://github.com/kmalakoff)/[**tinker**](https://github.com/kmalakoff/tinker)|||
@@ -155,6 +155,7 @@
 |3|[@sibartlett](https://github.com/sibartlett)/[**atom-raptorize**](https://github.com/sibartlett/atom-raptorize)|Raptorize your Atom.|[:arrow_upper_right:](https://atom.io/packages/raptorize)|
 |3|[@stephanos](https://github.com/stephanos)/[**screeny**](https://github.com/stephanos/screeny)|Heroku-hosted screenshot server||
 |3|[@toxtli](https://github.com/toxtli)/[**my-hubot**](https://github.com/toxtli/my-hubot)|Demo bot for hubot|[:arrow_upper_right:](http://www.carlostoxtli.com/#repo-hubot)|
+|3|[@unframework](https://github.com/unframework)/[**dtmf-detect**](https://github.com/unframework/dtmf-detect)|WebAudio demo to detect touch-tone DTMF codes (phone keys)|[:arrow_upper_right:](https://unframework.github.io/dtmf-detect/)|
 |3|[@unframework](https://github.com/unframework)/[**satchel-game**](https://github.com/unframework/satchel-game)|HTML5 sample game using Angular.JS||
 |3|[@vizv](https://github.com/vizv)/[**dockerfile-editor**](https://github.com/vizv/dockerfile-editor)| Dockerfile Online Editor ||
 |3|[@walkah](https://github.com/walkah)/[**fritz**](https://github.com/walkah/fritz)|my personal robot||

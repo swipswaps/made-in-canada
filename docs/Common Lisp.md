@@ -22,10 +22,10 @@
 |11|[@thephoeron](https://github.com/thephoeron)/[**silver-sword**](https://github.com/thephoeron/silver-sword)|Common Lisp interface to D-Wave's Python Pack for adiabatic quantum computer energy programming|[:arrow_upper_right:](http://thephoeron.viewdocs.io/silver-sword)|
 |7|[@atgreen](https://github.com/atgreen)/[**wrapilator**](https://github.com/atgreen/wrapilator)|Wraps verilator output in Common Lisp for testing digital logic in Lisp||
 |7|[@bbc](https://github.com/bbc)/[**bbcrd-brirs**](https://github.com/bbc/bbcrd-brirs)| An impulse response dataset for dynamic data-based auralisation of advanced sound systems||
+|7|[@burtonsamograd](https://github.com/burtonsamograd)/[**med**](https://github.com/burtonsamograd/med)|med - A fork of the emacs-like text editor for the Mezzano operating system||
 |7|[@thephoeron](https://github.com/thephoeron)/[**cl-edn**](https://github.com/thephoeron/cl-edn)|Common Lisp serialization library for the EDN format||
 |7|[@tokenrove](https://github.com/tokenrove)/[**imago**](https://github.com/tokenrove/imago)|image manipulation library for Common Lisp|[:arrow_upper_right:](http://common-lisp.net/project/imago)|
 |6|[@burtonsamograd](https://github.com/burtonsamograd)/[**autograph**](https://github.com/burtonsamograd/autograph)|Autograph is a CSS generation language that uses s-expressions for styling rules and allows for the use of variables and functions written in Common Lisp.||
-|6|[@burtonsamograd](https://github.com/burtonsamograd)/[**med**](https://github.com/burtonsamograd/med)|med - A fork of the emacs-like text editor for the Mezzano operating system||
 |6|[@inaimathi](https://github.com/inaimathi)/[**cl-congregate**](https://github.com/inaimathi/cl-congregate)|A service and protocol for coordinating recurring get-togethers between many humans||
 |6|[@inaimathi](https://github.com/inaimathi)/[**test-utils**](https://github.com/inaimathi/test-utils)|Convenience functions and macros for testing Common Lisp applications via Prove and Quickcheck||
 |6|[@mck-](https://github.com/mck-)/[**hunch**](https://github.com/mck-/hunch)|Boilerplate API-only server on Hunchentoot||
