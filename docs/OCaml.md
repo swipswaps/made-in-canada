@@ -9,10 +9,10 @@
 |7|[@adrianmcli](https://github.com/adrianmcli)/[**rehydrate-workshop**](https://github.com/adrianmcli/rehydrate-workshop)|A small collection of basic components built with Rehydrate 💧.||
 |7|[@tokenrove](https://github.com/tokenrove)/[**shred-for-satan**](https://github.com/tokenrove/shred-for-satan)|MIDI-driven metronome||
 |7|[@tokenrove](https://github.com/tokenrove)/[**tsdl-ttf**](https://github.com/tokenrove/tsdl-ttf)|SDL2_ttf bindings for Ocaml with Tsdl||
+|7|[@yawaramin](https://github.com/yawaramin)/[**bs-webapi**](https://github.com/yawaramin/bs-webapi)|(WIP) BuckleScript Web API Bindings||
 |6|[@brentvatne](https://github.com/brentvatne)/[**bs-option**](https://github.com/brentvatne/bs-option)|||
 |6|[@gnuvince](https://github.com/gnuvince)/[**ocaml-tiger**](https://github.com/gnuvince/ocaml-tiger)|||
 |6|[@tokenrove](https://github.com/tokenrove)/[**tsdl-mixer**](https://github.com/tokenrove/tsdl-mixer)|SDL2_mixer bindings to go with Tsdl||
-|6|[@yawaramin](https://github.com/yawaramin)/[**bs-webapi**](https://github.com/yawaramin/bs-webapi)|(WIP) BuckleScript Web API Bindings||
 |6|[@yawaramin](https://github.com/yawaramin)/[**dbc**](https://github.com/yawaramin/dbc)|Design-by-contract programming for JavaScript and ReasonML||
 |5|[@danieljharvey](https://github.com/danieljharvey)/[**reason-examples**](https://github.com/danieljharvey/reason-examples)|Some examples of reason code||
 |5|[@yawaramin](https://github.com/yawaramin)/[**bs-phoenix**](https://github.com/yawaramin/bs-phoenix)|BuckleScript bindings for the Phoenix.js client||
