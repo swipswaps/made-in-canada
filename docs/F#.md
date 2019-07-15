@@ -4,6 +4,7 @@
 |69|[@tpetricek](https://github.com/tpetricek)/[**Documents**](https://github.com/tpetricek/Documents)|Includes samples for my blog posts, source code and slides for my talks and other resources.|[:arrow_upper_right:](http://tomasp.net/blog)|
 |55|[@tpetricek](https://github.com/tpetricek)/[**DeepDives**](https://github.com/tpetricek/DeepDives)|F# DeepDives||
 |39|[@tpetricek](https://github.com/tpetricek)/[**FSharp.AsyncExtensions**](https://github.com/tpetricek/FSharp.AsyncExtensions)|[ARCHIVED] Extensions for asynchronous programming in F#||
+|31|[@gerardtoconnor](https://github.com/gerardtoconnor)/[**Skylight**](https://github.com/gerardtoconnor/Skylight)|A composable high level window library for F# and WPF to explore using Computation Expression UI||
 |16|[@tpetricek](https://github.com/tpetricek)/[**Dojo-Suave-FsHome**](https://github.com/tpetricek/Dojo-Suave-FsHome)|F# Coding Dojo in which you learn how to build an F# homepage web site using Suave and deploy it to Heroku or Azure||
 |12|[@tpetricek](https://github.com/tpetricek)/[**TryJoinads**](https://github.com/tpetricek/TryJoinads)|Source code of the www.tryjoinads.org project (web page only)|[:arrow_upper_right:](http://tryjoinads.org)|
 |11|[@yawaramin](https://github.com/yawaramin)/[**fsharp-typeclasses**](https://github.com/yawaramin/fsharp-typeclasses)|||
@@ -15,6 +16,7 @@
 |4|[@tpetricek](https://github.com/tpetricek)/[**fable-tutorial**](https://github.com/tpetricek/fable-tutorial)|Fable tutorial for Progressive F# 2016||
 |4|[@tpetricek](https://github.com/tpetricek)/[**suave-fshome**](https://github.com/tpetricek/suave-fshome)|Suave demo building F# homepage||
 |3|[@ChrisBallard](https://github.com/ChrisBallard)/[**ThePeopleWhoChat**](https://github.com/ChrisBallard/ThePeopleWhoChat)|Basic chat client written mostly in F# on the .NET stack||
+|3|[@Loonman](https://github.com/Loonman)/[**AdventOfCode-2018**](https://github.com/Loonman/AdventOfCode-2018)|Advent of Code 2018 - In F#||
 |3|[@tpetricek](https://github.com/tpetricek)/[**PasswordValidator**](https://github.com/tpetricek/PasswordValidator)|Building stuff that works demo||
 |3|[@tpetricek](https://github.com/tpetricek)/[**Pollz**](https://github.com/tpetricek/Pollz)|||
 |3|[@tpetricek](https://github.com/tpetricek)/[**SocialDrawing**](https://github.com/tpetricek/SocialDrawing)|Minimal Fable + Suave sample application||

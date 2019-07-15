@@ -2,9 +2,9 @@
 |---|---|---|---|
 |227|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|A repository of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. ||
 |166|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
-|129|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
+|130|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
 |123|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
-|115|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
+|116|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
 |109|[@trentm](https://github.com/trentm)/[**node-ldapauth**](https://github.com/trentm/node-ldapauth)|Simple node.js module to authenticate against an LDAP server||
 |99|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
 |80|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
@@ -13,12 +13,12 @@
 |47|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
 |42|[@yanick](https://github.com/yanick)/[**git-cpan-patch**](https://github.com/yanick/git-cpan-patch)|System to write patches against CPAN modules via Git||
 |40|[@briandfoy](https://github.com/briandfoy)/[**Learning-Perl-Sample-Files**](https://github.com/briandfoy/Learning-Perl-Sample-Files)|Extra files for use with Learning Perl|[:arrow_upper_right:](http://www.learning-perl.org/)|
+|35|[@bcgsc](https://github.com/bcgsc)/[**LINKS**](https://github.com/bcgsc/LINKS)|⛓Long Interval Nucleotide K-mer Scaffolder||
 |35|[@moshen](https://github.com/moshen)/[**Image-Term256Color**](https://github.com/moshen/Image-Term256Color)|Display images in your 256 color terminal! (kinda) - superseded by https://github.com/moshen/gotermimg||
-|34|[@bcgsc](https://github.com/bcgsc)/[**LINKS**](https://github.com/bcgsc/LINKS)|⛓Long Interval Nucleotide K-mer Scaffolder||
-|28|[@cdrage](https://github.com/cdrage)/[**dockerfiles**](https://github.com/cdrage/dockerfiles)|🐳 My Dockerfiles||
 |27|[@bcgsc](https://github.com/bcgsc)/[**mirna**](https://github.com/bcgsc/mirna)|microRNA profiling pipeline||
+|27|[@cdrage](https://github.com/cdrage)/[**dockerfiles**](https://github.com/cdrage/dockerfiles)|🐳 My Dockerfiles||
 |27|[@sjackman](https://github.com/sjackman)/[**fastascripts**](https://github.com/sjackman/fastascripts)|Manipulate FASTA files||
-|24|[@briandfoy](https://github.com/briandfoy)/[**cpan-script**](https://github.com/briandfoy/cpan-script)|(Perl) Interact with CPAN from the command line|[:arrow_upper_right:](http://search.cpan.org/dist/cpan-script)|
+|23|[@briandfoy](https://github.com/briandfoy)/[**cpan-script**](https://github.com/briandfoy/cpan-script)|(Perl) Interact with CPAN from the command line|[:arrow_upper_right:](http://search.cpan.org/dist/cpan-script)|
 |23|[@sestaton](https://github.com/sestaton)/[**Transposome**](https://github.com/sestaton/Transposome)|A toolkit for annotation of transposable element families from unassembled sequence reads|[:arrow_upper_right:](http://sestaton.github.io/Transposome)|
 |22|[@yanick](https://github.com/yanick)/[**cheatsheets**](https://github.com/yanick/cheatsheets)|My cheatsheets||
 |21|[@hoytech](https://github.com/hoytech)/[**unliner**](https://github.com/hoytech/unliner)|Untangle your unix pipeline one-liners||
@@ -31,6 +31,7 @@
 |16|[@johnlees](https://github.com/johnlees)/[**23andme-impute**](https://github.com/johnlees/23andme-impute)|Scripts and advice to run IMPUTE2 on 23 and me raw data||
 |15|[@briandfoy](https://github.com/briandfoy)/[**Unicode-Tussle**](https://github.com/briandfoy/Unicode-Tussle)|Tom( Christiansen)'s Unicode Scripts So Life is Easier|[:arrow_upper_right:](http://search.cpan.org/dist/Unicode-Tussle)|
 |15|[@briandfoy](https://github.com/briandfoy)/[**unicode-tussle**](https://github.com/briandfoy/unicode-tussle)|Tom( Christiansen)'s Unicode Scripts So Life is Easier|[:arrow_upper_right:](https://metacpan.org/dist/Unicode::Tussle)|
+|14|[@bcgsc](https://github.com/bcgsc)/[**RAILS**](https://github.com/bcgsc/RAILS)|🚝RAILS and 👞Cobbler: Assembly Improvement by Long Sequence Scaffolding/Gap-filling||
 |13|[@sestaton](https://github.com/sestaton)/[**tephra**](https://github.com/sestaton/tephra)|A tool for discovering transposable elements and describing patterns of genome evolution||
 |13|[@yanick](https://github.com/yanick)/[**Perl-Achievements**](https://github.com/yanick/Perl-Achievements)|Write some perl, gather some badges of merit.||
 |12|[@briandfoy](https://github.com/briandfoy)/[**module-release**](https://github.com/briandfoy/module-release)|(Perl) Automate software releases|[:arrow_upper_right:](https://metacpan.org/pod/Module::Release)|
@@ -43,16 +44,15 @@
 |11|[@briandfoy](https://github.com/briandfoy)/[**net-mac-vendor**](https://github.com/briandfoy/net-mac-vendor)|look up the network interface vendor by MAC||
 |11|[@bricas](https://github.com/bricas)/[**uri-template**](https://github.com/bricas/uri-template)|Object for handling URI templates|[:arrow_upper_right:](http://metacpan.org/release/URI-Template/)|
 |11|[@carlalexander](https://github.com/carlalexander)/[**macos-nginx-php**](https://github.com/carlalexander/macos-nginx-php)|[UNMAINTAINED] Nginx and PHP config for Mac OS X||
-|10|[@bcgsc](https://github.com/bcgsc)/[**RAILS**](https://github.com/bcgsc/RAILS)|🚝RAILS and 👞Cobbler: Assembly Improvement by Long Sequence Scaffolding/Gap-filling||
-|10|[@briandfoy](https://github.com/briandfoy)/[**mac-propertylist**](https://github.com/briandfoy/mac-propertylist)|(Perl) work with Mac plists at a low level|[:arrow_upper_right:](https://metacpan.org/pod/Mac::PropertyList)|
 |10|[@briandfoy](https://github.com/briandfoy)/[**test-file**](https://github.com/briandfoy/test-file)|(Perl) Check file attributes|[:arrow_upper_right:](https://metacpan.org/pod/Test::File)|
 |10|[@elecnix](https://github.com/elecnix)/[**nagios-postgresql**](https://github.com/elecnix/nagios-postgresql)|Fork of Tony Wasson's nagios plugins for PosgreSQL|[:arrow_upper_right:](http://pgfoundry.org/projects/nagiosplugins/)|
-|10|[@fnichol](https://github.com/fnichol)/[**dotfiles**](https://github.com/fnichol/dotfiles)|dotties naughty bodies. or maybe just dotfiles||
+|10|[@fnichol](https://github.com/fnichol)/[**dotfiles**](https://github.com/fnichol/dotfiles)|A personal set of Unix "dotfiles" to configure various programs.||
 |10|[@hoytech](https://github.com/hoytech)/[**Thrust**](https://github.com/hoytech/Thrust)|Perl language bindings for Thrust  https://github.com/breach/thrust||
 |10|[@hoytech](https://github.com/hoytech)/[**Valence-p5**](https://github.com/hoytech/Valence-p5)|Perl interface to valence/electron GUI toolkit||
 |10|[@yanick](https://github.com/yanick)/[**Term-Caca**](https://github.com/yanick/Term-Caca)|perl interface for libcaca (Colour AsCii Art library) |[:arrow_upper_right:](http://search.cpan.org/dist/Term-Caca)|
 |9|[@EOS-Nation](https://github.com/EOS-Nation)/[**bpvalidate**](https://github.com/EOS-Nation/bpvalidate)|Tools to validate BPs have set up their public configuration correctly||
 |9|[@bbidulock](https://github.com/bbidulock)/[**perlpanel**](https://github.com/bbidulock/perlpanel)|Panel for the X Desktop Environment (XDE) based on PerlPanel||
+|9|[@briandfoy](https://github.com/briandfoy)/[**mac-propertylist**](https://github.com/briandfoy/mac-propertylist)|(Perl) work with Mac plists at a low level|[:arrow_upper_right:](https://metacpan.org/pod/Mac::PropertyList)|
 |9|[@bsandrow](https://github.com/bsandrow)/[**hn-profile**](https://github.com/bsandrow/hn-profile)|Scraping profile info from news.ycombinator.com||
 |9|[@johnlees](https://github.com/johnlees)/[**bioinformatics**](https://github.com/johnlees/bioinformatics)|Utilities written for bioinformatics|[:arrow_upper_right:](http://leesjohn.wordpress.com/)|
 |9|[@kpumuk](https://github.com/kpumuk)/[**mysqlsla-bdb**](https://github.com/kpumuk/mysqlsla-bdb)|MySQL Slow Logs Analyzer optimized to work with huge logs (use BerkeleyDB instead of perl hashes)|[:arrow_upper_right:](http://hackmysql.com/mysqlsla)|
@@ -68,12 +68,14 @@
 |7|[@briandfoy](https://github.com/briandfoy)/[**module-extract-use**](https://github.com/briandfoy/module-extract-use)|Extract the modules a Perl file uses||
 |7|[@briandfoy](https://github.com/briandfoy)/[**test-prereq**](https://github.com/briandfoy/test-prereq)|(Perl) check if Makefile.PL has the right pre-requisites|[:arrow_upper_right:](https://metacpan.org/pod/Test::Prereq)|
 |7|[@bricas](https://github.com/bricas)/[**image-textmode**](https://github.com/bricas/image-textmode)|Create, manipulate and save text mode images|[:arrow_upper_right:](http://metacpan.org/release/Image-TextMode/)|
+|7|[@byjg](https://github.com/byjg)/[**usdocker**](https://github.com/byjg/usdocker)|A collection of Useful Scripts for Docker|[:arrow_upper_right:](http://usdocker.com)|
 |7|[@hoytech](https://github.com/hoytech)/[**Vcdiff**](https://github.com/hoytech/Vcdiff)|Vcdiff - diff and patch for binary data||
 |7|[@jandubois](https://github.com/jandubois)/[**win32-ole**](https://github.com/jandubois/win32-ole)|||
 |6|[@0](https://github.com/0)/[**migraine**](https://github.com/0/migraine)|Transform boring monochrome bitmaps into dazzling monochrome graphics!||
 |6|[@aspiers](https://github.com/aspiers)/[**mutt**](https://github.com/aspiers/mutt)|a set of generic configuration files for mutt||
 |6|[@briandfoy](https://github.com/briandfoy)/[**jobs.perl.org-jobs-counter**](https://github.com/briandfoy/jobs.perl.org-jobs-counter)|||
 |6|[@bricas](https://github.com/bricas)/[**dbix-class-indexed**](https://github.com/bricas/dbix-class-indexed)|Index data via external indexing facilities|[:arrow_upper_right:](http://search.cpan.org/dist/DBIx-Class-Indexed/)|
+|6|[@dlitz](https://github.com/dlitz)/[**geoip-tcpd**](https://github.com/dlitz/geoip-tcpd)|A tcpd-like wrapper for inetd that attempts to block incoming connections based on their country of origin.||
 |6|[@hoytech](https://github.com/hoytech)/[**Unicode-Truncate**](https://github.com/hoytech/Unicode-Truncate)|Unicode-aware efficient string truncation||
 |5|[@briandfoy](https://github.com/briandfoy)/[**brick**](https://github.com/briandfoy/brick)|(Perl) Complex business rule data validation|[:arrow_upper_right:](https://metacpan.org/pod/Brick)|
 |5|[@briandfoy](https://github.com/briandfoy)/[**io-interactive**](https://github.com/briandfoy/io-interactive)|Utilities for interactive I/O|[:arrow_upper_right:](https://metacpan.org/pod/IO::Interactive)|
@@ -148,6 +150,7 @@
 |3|[@danijar](https://github.com/danijar)/[**dotfiles**](https://github.com/danijar/dotfiles)|My linux configuration files||
 |3|[@davepagurek](https://github.com/davepagurek)/[**Trestle**](https://github.com/davepagurek/Trestle)|A light, extensible Perl CMS||
 |3|[@delano](https://github.com/delano)/[**data-all**](https://github.com/delano/data-all)|A Perl module that provides access to data in many formats from many places|[:arrow_upper_right:](http://search.cpan.org/~delano/Data-All/)|
+|3|[@felixhandte](https://github.com/felixhandte)/[**LaTeX-Grapher**](https://github.com/felixhandte/LaTeX-Grapher)|Turn CSVs into pretty LaTeX/TiKZ graphs.||
 |3|[@hoytech](https://github.com/hoytech)/[**Alien-LMDB**](https://github.com/hoytech/Alien-LMDB)|Build and install the LMDB embedded database||
 |3|[@hoytech](https://github.com/hoytech)/[**Alien-Thrust**](https://github.com/hoytech/Alien-Thrust)|Download and install the Thrust cross-platform GUI framework||
 |3|[@hoytech](https://github.com/hoytech)/[**IO-Vectored**](https://github.com/hoytech/IO-Vectored)|Read from or write to multiple buffers at once||

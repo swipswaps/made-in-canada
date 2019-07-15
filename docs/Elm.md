@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|168|[@ktonon](https://github.com/ktonon)/[**elm-serverless**](https://github.com/ktonon/elm-serverless)|Deploy an elm HTTP API to AWS Lambda using serverless||
-|55|[@jadpole](https://github.com/jadpole)/[**jadpole.github.io**](https://github.com/jadpole/jadpole.github.io)||[:arrow_upper_right:](https://jadpole.github.io)|
-|37|[@jxxcarlson](https://github.com/jxxcarlson)/[**minilatex**](https://github.com/jxxcarlson/minilatex)|parse MiniLaTeX source text and render it into HTML||
+|170|[@ktonon](https://github.com/ktonon)/[**elm-serverless**](https://github.com/ktonon/elm-serverless)|Deploy an elm HTTP API to AWS Lambda using serverless||
+|56|[@jadpole](https://github.com/jadpole)/[**jadpole.github.io**](https://github.com/jadpole/jadpole.github.io)||[:arrow_upper_right:](https://jadpole.github.io)|
+|38|[@jxxcarlson](https://github.com/jxxcarlson)/[**minilatex**](https://github.com/jxxcarlson/minilatex)|parse MiniLaTeX source text and render it into HTML||
 |26|[@diogob](https://github.com/diogob)/[**elm-workshop**](https://github.com/diogob/elm-workshop)|Elm + PostgREST workshop, building a simple database query user interface.||
 |17|[@ktonon](https://github.com/ktonon)/[**elm-serverless-demo**](https://github.com/ktonon/elm-serverless-demo)|elm-serverless demo for latest release||
 |12|[@chrisbolin](https://github.com/chrisbolin)/[**skycoins**](https://github.com/chrisbolin/skycoins)|🚁💰|[:arrow_upper_right:](http://bolin.co/skycoins)|
@@ -16,10 +16,12 @@
 |5|[@fosskers](https://github.com/fosskers)/[**2048**](https://github.com/fosskers/2048)|An implementation of 2048 in Elm.||
 |5|[@jxxcarlson](https://github.com/jxxcarlson)/[**pobox**](https://github.com/jxxcarlson/pobox)|Elm demo of PO Box concept for exchanging data between apps living in the same browser||
 |5|[@ktonon](https://github.com/ktonon)/[**elm-serverless-cors**](https://github.com/ktonon/elm-serverless-cors)|CORS middleware for elm-serverless||
+|4|[@akbiggs](https://github.com/akbiggs)/[**elm-example-platformer**](https://github.com/akbiggs/elm-example-platformer)|Platformer game being developed on stream.||
 |4|[@brettcannon](https://github.com/brettcannon)/[**time-clock**](https://github.com/brettcannon/time-clock)|A simple, one-page time/punch clock web app|[:arrow_upper_right:](http://time-clock.surge.sh/)|
 |4|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-graph**](https://github.com/jxxcarlson/elm-graph)|Simple charts in Elm (line bar)||
 |4|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-stat**](https://github.com/jxxcarlson/elm-stat)|Package for statistics and working with csv data.  See demo app in the examples folder||
 |3|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**ElmObjParser**](https://github.com/JoeyEremondi/ElmObjParser)|OBJ parsing and rendering tools for Elm||
+|3|[@akbiggs](https://github.com/akbiggs)/[**elm-effects**](https://github.com/akbiggs/elm-effects)|Package for broadcasting messages to parent components and side-effects.||
 |3|[@dat2](https://github.com/dat2)/[**elm-tile-game**](https://github.com/dat2/elm-tile-game)|A tile game written in elm||
 |3|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-tar**](https://github.com/jxxcarlson/elm-tar)|Elm library for creating tar files||
 |3|[@jxxcarlson](https://github.com/jxxcarlson)/[**meenylatex**](https://github.com/jxxcarlson/meenylatex)|Experimental version of MiniLatex package||

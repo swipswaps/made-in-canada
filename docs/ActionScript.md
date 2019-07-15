@@ -9,12 +9,15 @@
 |18|[@apenwarr](https://github.com/apenwarr)/[**flashlight-vnc**](https://github.com/apenwarr/flashlight-vnc)|A VNC viewer for Adobe Flash - forked from the official non-git version.|[:arrow_upper_right:](http://www.wizhelp.com/flashlight-vnc)|
 |18|[@h3xstream](https://github.com/h3xstream)/[**rtmfp-api**](https://github.com/h3xstream/rtmfp-api)|Provide an easy API for rtmfp capabilities from Flash for Javascript applications.|[:arrow_upper_right:](http://h3xstream.github.com/rtmfp-api/)|
 |18|[@skywardarts](https://github.com/skywardarts)/[**pomelo-flashclient**](https://github.com/skywardarts/pomelo-flashclient)|Pomelo client for Adobe Flash Player.||
+|16|[@djipco](https://github.com/djipco)/[**Metronome**](https://github.com/djipco/Metronome)|An ActionScript metronome library|[:arrow_upper_right:](http://cote.cc/projects/metronome)|
 |12|[@ryancampbell](https://github.com/ryancampbell)/[**swiz-urlmapping**](https://github.com/ryancampbell/swiz-urlmapping)|||
+|8|[@djipco](https://github.com/djipco)/[**SoftKeyboard**](https://github.com/djipco/SoftKeyboard)|SoftKeyboard – An on-screen virtual keyboard (Feathers component)||
 |8|[@peterarmstrong](https://github.com/peterarmstrong)/[**helloflex**](https://github.com/peterarmstrong/helloflex)|Source code for Hello Flex book||
 |5|[@idreyn](https://github.com/idreyn)/[**quiero**](https://github.com/idreyn/quiero)|URLRequests made awesome in AS3||
 |5|[@nicolai86](https://github.com/nicolai86)/[**as3.iCal**](https://github.com/nicolai86/as3.iCal)|iCal parser written in ActionScript 3||
 |5|[@peterarmstrong](https://github.com/peterarmstrong)/[**twitterscript**](https://github.com/peterarmstrong/twitterscript)|A fork of http://code.google.com/p/twitterscript/ for use in Hello! Flex 3.||
 |4|[@Ohmnivore](https://github.com/Ohmnivore)/[**HeadRush**](https://github.com/Ohmnivore/HeadRush)|Adobe AIR online multiplayer open-source game|[:arrow_upper_right:](http://ohmnivore.elementfx.com/)|
+|4|[@djipco](https://github.com/djipco)/[**Jmulator**](https://github.com/djipco/Jmulator)|An ActionScript 3 library to simplify working with keyboard emulators (aka encoders) such as those made by Ultimarc.||
 |4|[@itarato](https://github.com/itarato)/[**Kitten**](https://github.com/itarato/Kitten)|Small Actionscript library for handling Drupal - Services communication|[:arrow_upper_right:](http://itarato.blogspot.com/2011/02/kitten-actionsript-based-drupal.html)|
 |3|[@MattRix](https://github.com/MattRix)/[**iCadeManager**](https://github.com/MattRix/iCadeManager)|A single AS3 class that makes it easy to use the iCade with Flash games|[:arrow_upper_right:](http://struct.ca/2011/icademanager)|
 |3|[@davestewart](https://github.com/davestewart)/[**flash-wowza-demo**](https://github.com/davestewart/flash-wowza-demo)|OO version of the Wowza record / play demo||
