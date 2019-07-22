@@ -1,21 +1,21 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|227|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|A repository of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. ||
+|230|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|A repository of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. ||
 |166|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
-|130|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
+|129|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
 |123|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
 |116|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
-|109|[@trentm](https://github.com/trentm)/[**node-ldapauth**](https://github.com/trentm/node-ldapauth)|Simple node.js module to authenticate against an LDAP server||
+|110|[@trentm](https://github.com/trentm)/[**node-ldapauth**](https://github.com/trentm/node-ldapauth)|Simple node.js module to authenticate against an LDAP server||
 |99|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
-|80|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
-|72|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
+|81|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
+|73|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
 |71|[@mlangill](https://github.com/mlangill)/[**microbiome_helper**](https://github.com/mlangill/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |47|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
 |42|[@yanick](https://github.com/yanick)/[**git-cpan-patch**](https://github.com/yanick/git-cpan-patch)|System to write patches against CPAN modules via Git||
 |40|[@briandfoy](https://github.com/briandfoy)/[**Learning-Perl-Sample-Files**](https://github.com/briandfoy/Learning-Perl-Sample-Files)|Extra files for use with Learning Perl|[:arrow_upper_right:](http://www.learning-perl.org/)|
 |35|[@bcgsc](https://github.com/bcgsc)/[**LINKS**](https://github.com/bcgsc/LINKS)|⛓Long Interval Nucleotide K-mer Scaffolder||
 |35|[@moshen](https://github.com/moshen)/[**Image-Term256Color**](https://github.com/moshen/Image-Term256Color)|Display images in your 256 color terminal! (kinda) - superseded by https://github.com/moshen/gotermimg||
-|27|[@bcgsc](https://github.com/bcgsc)/[**mirna**](https://github.com/bcgsc/mirna)|microRNA profiling pipeline||
+|29|[@bcgsc](https://github.com/bcgsc)/[**mirna**](https://github.com/bcgsc/mirna)|microRNA profiling pipeline||
 |27|[@cdrage](https://github.com/cdrage)/[**dockerfiles**](https://github.com/cdrage/dockerfiles)|🐳 My Dockerfiles||
 |27|[@sjackman](https://github.com/sjackman)/[**fastascripts**](https://github.com/sjackman/fastascripts)|Manipulate FASTA files||
 |23|[@briandfoy](https://github.com/briandfoy)/[**cpan-script**](https://github.com/briandfoy/cpan-script)|(Perl) Interact with CPAN from the command line|[:arrow_upper_right:](http://search.cpan.org/dist/cpan-script)|
@@ -23,8 +23,8 @@
 |22|[@yanick](https://github.com/yanick)/[**cheatsheets**](https://github.com/yanick/cheatsheets)|My cheatsheets||
 |21|[@hoytech](https://github.com/hoytech)/[**unliner**](https://github.com/hoytech/unliner)|Untangle your unix pipeline one-liners||
 |21|[@mlangill](https://github.com/mlangill)/[**MicrobeDB**](https://github.com/mlangill/MicrobeDB)|Provides a local database of in-house and published genomes for Bacteria and Archaea from NCBI||
+|21|[@sestaton](https://github.com/sestaton)/[**HMMER2GO**](https://github.com/sestaton/HMMER2GO)|Annotate DNA sequences for Gene Ontology terms||
 |21|[@yanick](https://github.com/yanick)/[**Vim-X**](https://github.com/yanick/Vim-X)|Write Perl functions within Vim|[:arrow_upper_right:](https://metacpan.org/release/Vim-X)|
-|20|[@sestaton](https://github.com/sestaton)/[**HMMER2GO**](https://github.com/sestaton/HMMER2GO)|Annotate DNA sequences for Gene Ontology terms||
 |19|[@yanick](https://github.com/yanick)/[**Taskwarrior-Kusarigama**](https://github.com/yanick/Taskwarrior-Kusarigama)|plugin system for the Taskwarrior task manager|[:arrow_upper_right:](https://metacpan.org/release/Taskwarrior-Kusarigama)|
 |18|[@bartman](https://github.com/bartman)/[**urxvt-scripts**](https://github.com/bartman/urxvt-scripts)|my urxvt scripts|[:arrow_upper_right:](http://www.jukie.net/~bart/blog/tag/urxvt)|
 |17|[@briandfoy](https://github.com/briandfoy)/[**git-github-creator**](https://github.com/briandfoy/git-github-creator)|(Perl) Create a Github repository for your Perl module|[:arrow_upper_right:](https://metacpan.org/pod/Git::GitHub::Creator)|
@@ -55,11 +55,11 @@
 |9|[@briandfoy](https://github.com/briandfoy)/[**mac-propertylist**](https://github.com/briandfoy/mac-propertylist)|(Perl) work with Mac plists at a low level|[:arrow_upper_right:](https://metacpan.org/pod/Mac::PropertyList)|
 |9|[@bsandrow](https://github.com/bsandrow)/[**hn-profile**](https://github.com/bsandrow/hn-profile)|Scraping profile info from news.ycombinator.com||
 |9|[@johnlees](https://github.com/johnlees)/[**bioinformatics**](https://github.com/johnlees/bioinformatics)|Utilities written for bioinformatics|[:arrow_upper_right:](http://leesjohn.wordpress.com/)|
-|9|[@kpumuk](https://github.com/kpumuk)/[**mysqlsla-bdb**](https://github.com/kpumuk/mysqlsla-bdb)|MySQL Slow Logs Analyzer optimized to work with huge logs (use BerkeleyDB instead of perl hashes)|[:arrow_upper_right:](http://hackmysql.com/mysqlsla)|
 |9|[@s-rah](https://github.com/s-rah)/[**itsybitsy**](https://github.com/s-rah/itsybitsy)|The mini static site generator||
 |9|[@zoffixznet](https://github.com/zoffixznet)/[**JavaScript-Minifier**](https://github.com/zoffixznet/JavaScript-Minifier)|JavaScript::Minifier perl module||
 |8|[@briandfoy](https://github.com/briandfoy)/[**modulino-demo**](https://github.com/briandfoy/modulino-demo)|The Perl Modulino::Demo module||
 |8|[@hoytech](https://github.com/hoytech)/[**Qstruct**](https://github.com/hoytech/Qstruct)|Quick structure serialisation||
+|8|[@kpumuk](https://github.com/kpumuk)/[**mysqlsla-bdb**](https://github.com/kpumuk/mysqlsla-bdb)|MySQL Slow Logs Analyzer optimized to work with huge logs (use BerkeleyDB instead of perl hashes)|[:arrow_upper_right:](http://hackmysql.com/mysqlsla)|
 |8|[@yanick](https://github.com/yanick)/[**PPIx-EditorTools**](https://github.com/yanick/PPIx-EditorTools)|||
 |8|[@yanick](https://github.com/yanick)/[**netpacket**](https://github.com/yanick/netpacket)|(Perl) |[:arrow_upper_right:](http://search.cpan.org/dist/NetPacket)|
 |7|[@bob-carpenter](https://github.com/bob-carpenter)/[**java-arithcode**](https://github.com/bob-carpenter/java-arithcode)|A Java implementation of arithmetic coding and PPM compression.||
@@ -90,7 +90,6 @@
 |5|[@hoytech](https://github.com/hoytech)/[**Log-Defer**](https://github.com/hoytech/Log-Defer)|Deferred logs and timers||
 |5|[@hoytech](https://github.com/hoytech)/[**String-Compare-ConstantTime**](https://github.com/hoytech/String-Compare-ConstantTime)|Timing side-channel protected string compare||
 |5|[@yanick](https://github.com/yanick)/[**Catalyst-Plugin-Sitemap**](https://github.com/yanick/Catalyst-Plugin-Sitemap)|Add sitemap support for your Catalyst application||
-|5|[@yanick](https://github.com/yanick)/[**dfw-contest**](https://github.com/yanick/dfw-contest)|||
 |5|[@yanick](https://github.com/yanick)/[**pod-manual**](https://github.com/yanick/pod-manual)|Aggregates several Perl PODs into a single manual||
 |5|[@yanick](https://github.com/yanick)/[**www-ohloh-api**](https://github.com/yanick/www-ohloh-api)|Ohloh API implementation for Perl||
 |4|[@briandfoy](https://github.com/briandfoy)/[**app-ppi-dumper**](https://github.com/briandfoy/app-ppi-dumper)|(Perl) This is what the module does|[:arrow_upper_right:](https://metacpan.org/pod/App::PPI::Dumper)|
@@ -116,6 +115,7 @@
 |4|[@yanick](https://github.com/yanick)/[**Dist-Zilla-Plugin-HelpWanted**](https://github.com/yanick/Dist-Zilla-Plugin-HelpWanted)|||
 |4|[@yanick](https://github.com/yanick)/[**Games-DungeonBuilder**](https://github.com/yanick/Games-DungeonBuilder)|generate dungeon maps||
 |4|[@yanick](https://github.com/yanick)/[**Template-Caribou**](https://github.com/yanick/Template-Caribou)|Because the world needs another templating system||
+|4|[@yanick](https://github.com/yanick)/[**dfw-contest**](https://github.com/yanick/dfw-contest)|||
 |4|[@zaidka](https://github.com/zaidka)/[**dhcp_api**](https://github.com/zaidka/dhcp_api)|A simple Perl script that acts as a HTTP API to query information from DHCP leases file.||
 |3|[@AAFC-MBB](https://github.com/AAFC-MBB)/[**Galaxy**](https://github.com/AAFC-MBB/Galaxy)|Galaxy tool wrappers, tool dependencies, and workflows.||
 |3|[@MIT-LCP](https://github.com/MIT-LCP)/[**edema**](https://github.com/MIT-LCP/edema)|||

@@ -65,6 +65,7 @@
 |3|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**hx-blender-api**](https://github.com/FuzzyWuzzie/hx-blender-api)|Haxe externs for the Blender API||
 |3|[@adireddy](https://github.com/adireddy)/[**perf**](https://github.com/adireddy/perf)|Simple JavaScript Performance Monitor||
 |3|[@chfoo](https://github.com/chfoo)/[**fogchamp**](https://github.com/chfoo/fogchamp)|Pokémon Battle Revolution Matchup Visualizer for Twitch Plays Pokemon.|[:arrow_upper_right:](https://chfoo.github.io/fogchamp/)|
+|3|[@chfoo](https://github.com/chfoo)/[**trandom**](https://github.com/chfoo/trandom)|Cross-platform Haxe library for accessing cryptographic secure numbers ||
 |3|[@hamaluik](https://github.com/hamaluik)/[**Luxe3D**](https://github.com/hamaluik/Luxe3D)|Experiments in 3D in Luxe||
 |3|[@starburst997](https://github.com/starburst997)/[**SWFTY**](https://github.com/starburst997/SWFTY)|Convert a SWF to an Atlas Spritesheet Tilemap Bitmap Font single zipped file||
 |3|[@underscorediscovery](https://github.com/underscorediscovery)/[**nme-TexturePackerJSON**](https://github.com/underscorediscovery/nme-TexturePackerJSON)|An implementation of a haxelib/spritesheet Loader for TexturePacker||

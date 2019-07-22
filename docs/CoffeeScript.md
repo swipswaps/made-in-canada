@@ -1,17 +1,17 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |1477|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
-|1415|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )|[:arrow_upper_right:](http://unibeautify.com/)|
+|1413|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )|[:arrow_upper_right:](http://unibeautify.com/)|
 |427|[@keithamus](https://github.com/keithamus)/[**parallelshell**](https://github.com/keithamus/parallelshell)|Run multiple shell commands in parallel||
-|394|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls||
+|393|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls||
 |229|[@EtienneLem](https://github.com/EtienneLem)/[**skeleton**](https://github.com/EtienneLem/skeleton)|Express 3.0 framework-less app structure generator|[:arrow_upper_right:](http://etiennelem.github.com/skeleton)|
-|221|[@axiomzen](https://github.com/axiomzen)/[**Alike**](https://github.com/axiomzen/Alike)|A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances||
+|220|[@axiomzen](https://github.com/axiomzen)/[**Alike**](https://github.com/axiomzen/Alike)|A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances||
 |202|[@fw42](https://github.com/fw42)/[**honeymap**](https://github.com/fw42/honeymap)|Real-time websocket stream of GPS events on a fancy SVG world map|[:arrow_upper_right:](http://map.honeynet.org/)|
 |201|[@benbria](https://github.com/benbria)/[**aliasify**](https://github.com/benbria/aliasify)|Rewrite require calls in browserify modules.||
-|188|[@raganwald](https://github.com/raganwald)/[**YouAreDaChef**](https://github.com/raganwald/YouAreDaChef)|Coffeescript/Javascript method combinations for Underscore projects||
+|187|[@raganwald](https://github.com/raganwald)/[**YouAreDaChef**](https://github.com/raganwald/YouAreDaChef)|Coffeescript/Javascript method combinations for Underscore projects||
 |185|[@zaidka](https://github.com/zaidka)/[**genieacs**](https://github.com/zaidka/genieacs)|A fast and lightweight TR-069 Auto Configuration Server (ACS)|[:arrow_upper_right:](https://genieacs.com)|
 |184|[@adamhooper](https://github.com/adamhooper)/[**js-priority-queue**](https://github.com/adamhooper/js-priority-queue)|Priority queues in JavaScript||
-|179|[@raganwald](https://github.com/raganwald)/[**Katy**](https://github.com/raganwald/Katy)|CoffeeScript and JavaScript Combinators||
+|178|[@raganwald](https://github.com/raganwald)/[**Katy**](https://github.com/raganwald/Katy)|CoffeeScript and JavaScript Combinators||
 |156|[@pcrawfor](https://github.com/pcrawfor)/[**iap_verifier**](https://github.com/pcrawfor/iap_verifier)|Node.js implementation of iOS In App Purchase receipt verification||
 |141|[@benbria](https://github.com/benbria)/[**coffee-coverage**](https://github.com/benbria/coffee-coverage)|Istanbul and JSCoverage-style instrumentation for CoffeeScript files.||
 |136|[@jescalan](https://github.com/jescalan)/[**accord**](https://github.com/jescalan/accord)|a unified interface for compiled languages and templates in javascript||
@@ -20,36 +20,36 @@
 |103|[@axiomzen](https://github.com/axiomzen)/[**Look-Alike**](https://github.com/axiomzen/Look-Alike)|A simple-yet-powerful KD-tree library for NodeJS, with support for lightning-fast k-Nearest Neighbour queries.||
 |97|[@mohebifar](https://github.com/mohebifar)/[**angular-persian**](https://github.com/mohebifar/angular-persian)|:earth_asia: Persian tools for angular.js||
 |88|[@EtienneLem](https://github.com/EtienneLem)/[**atom-rdio**](https://github.com/EtienneLem/atom-rdio)|Adds Rdio controls to Atom and displays the currently playing song in the status bar|[:arrow_upper_right:](https://atom.io/packages/Rdio)|
-|87|[@ssokolow](https://github.com/ssokolow)/[**itad_importer**](https://github.com/ssokolow/itad_importer)|A userscript helper for importing game collections into IsThereAnyDeal.com|[:arrow_upper_right:](https://greasyfork.org/en/scripts/13887-isthereanydeal-com-collection-importer)|
+|86|[@ssokolow](https://github.com/ssokolow)/[**itad_importer**](https://github.com/ssokolow/itad_importer)|A userscript helper for importing game collections into IsThereAnyDeal.com|[:arrow_upper_right:](https://greasyfork.org/en/scripts/13887-isthereanydeal-com-collection-importer)|
 |84|[@kmalakoff](https://github.com/kmalakoff)/[**mixin**](https://github.com/kmalakoff/mixin)|Mixin.js is the 'reuse more' Javascript nano-framework. Stay DRY...mixin!|[:arrow_upper_right:](http://braincode.tumblr.com/post/11026285083/mixin-js-the-javascript-nano-framework)|
-|78|[@brianmhunt](https://github.com/brianmhunt)/[**casper-chai**](https://github.com/brianmhunt/casper-chai)|Extends Chai with assertions for the CasperJS/PhantomJS headless browser.||
+|79|[@brianmhunt](https://github.com/brianmhunt)/[**casper-chai**](https://github.com/brianmhunt/casper-chai)|Extends Chai with assertions for the CasperJS/PhantomJS headless browser.||
 |69|[@fictorial](https://github.com/fictorial)/[**linode-api**](https://github.com/fictorial/linode-api)|Linode API client for Node.js||
 |66|[@benbria](https://github.com/benbria)/[**browserify-transform-tools**](https://github.com/benbria/browserify-transform-tools)|Utilities for writing browserify transforms.||
 |66|[@kmalakoff](https://github.com/kmalakoff)/[**background**](https://github.com/kmalakoff/background)|CoffeeScript / JavaScript background job / task / worker library. Provides implementations for jobs, a job queue, a job list, and single and multiple array iterators.|[:arrow_upper_right:](http://braincode.tumblr.com/post/9449127004/background-js)|
 |64|[@andykent](https://github.com/andykent)/[**river**](https://github.com/andykent/river)|Unbounded stream processing in node.js||
 |63|[@darkhelmet](https://github.com/darkhelmet)/[**kindlebility**](https://github.com/darkhelmet/kindlebility)|Readability to PDF to Kindle. A Javascript turducken!|[:arrow_upper_right:](http://kindlebility.darkhax.com/)|
-|57|[@kmalakoff](https://github.com/kmalakoff)/[**backbone-modelref**](https://github.com/kmalakoff/backbone-modelref)|Backbone-ModelRef.js provides a mechanism to respond to lazy-loaded Backbone.js models.||
-|54|[@Glavin001](https://github.com/Glavin001)/[**atom-preview**](https://github.com/Glavin001/atom-preview)|:construction: (NO LONGER MAINTAINED) :construction: -  :eyeglasses: Ultimate previewer of source code in Atom.|[:arrow_upper_right:](https://atom.io/packages/preview)|
-|49|[@wmora](https://github.com/wmora)/[**angular-espresso**](https://github.com/wmora/angular-espresso)|Based on angular-seed, a starting point for writing an AngularJS app running on an Express backend, written in CoffeeScript||
+|56|[@kmalakoff](https://github.com/kmalakoff)/[**backbone-modelref**](https://github.com/kmalakoff/backbone-modelref)|Backbone-ModelRef.js provides a mechanism to respond to lazy-loaded Backbone.js models.||
+|53|[@Glavin001](https://github.com/Glavin001)/[**atom-preview**](https://github.com/Glavin001/atom-preview)|:construction: (NO LONGER MAINTAINED) :construction: -  :eyeglasses: Ultimate previewer of source code in Atom.|[:arrow_upper_right:](https://atom.io/packages/preview)|
+|48|[@wmora](https://github.com/wmora)/[**angular-espresso**](https://github.com/wmora/angular-espresso)|Based on angular-seed, a starting point for writing an AngularJS app running on an Express backend, written in CoffeeScript||
 |47|[@0xfe](https://github.com/0xfe)/[**fretboard**](https://github.com/0xfe/fretboard)|Vex Fretboard as seen on my.vexflow.com.||
 |42|[@wvanbergen](https://github.com/wvanbergen)/[**node-vertica**](https://github.com/wvanbergen/node-vertica)|Pure javascript Vertica database client. Except it is written in CoffeeScript.||
-|41|[@raganwald](https://github.com/raganwald)/[**Underscore-Matchers-for-Jasmine**](https://github.com/raganwald/Underscore-Matchers-for-Jasmine)|||
+|40|[@raganwald](https://github.com/raganwald)/[**Underscore-Matchers-for-Jasmine**](https://github.com/raganwald/Underscore-Matchers-for-Jasmine)|||
 |39|[@dpo](https://github.com/dpo)/[**atom-python-debugger**](https://github.com/dpo/atom-python-debugger)|IDE-like Python debugger for Atom||
 |36|[@HappenApps](https://github.com/HappenApps)/[**quiver2html**](https://github.com/HappenApps/quiver2html)|A utility to convert a Quiver notebook or note to HTML.||
 |36|[@kmalakoff](https://github.com/kmalakoff)/[**json-serialize**](https://github.com/kmalakoff/json-serialize)|JSON-Serialize.js provides conventions and helpers to manage serialization and deserialization of instances to/from JSON||
 |32|[@srsgores](https://github.com/srsgores)/[**generator-joomla-component**](https://github.com/srsgores/generator-joomla-component)|yeoman generator for joomla components||
 |31|[@raganwald](https://github.com/raganwald)/[**cafeaulife**](https://github.com/raganwald/cafeaulife)|Gosper’s HashLife in CoffeeScript|[:arrow_upper_right:](http://recursiveuniver.se)|
+|26|[@Electroid](https://github.com/Electroid)/[**mojang-api**](https://github.com/Electroid/mojang-api)|Bundle multiple Minecraft APIs into a single GET request.|[:arrow_upper_right:](https://api.ashcon.app/mojang/v2/user/Notch)|
 |26|[@benbria](https://github.com/benbria)/[**node-bunyan-lumberjack**](https://github.com/benbria/node-bunyan-lumberjack)|Send bunyan logs to logstash using the lumberjack protocol.||
-|25|[@Electroid](https://github.com/Electroid)/[**mojang-api**](https://github.com/Electroid/mojang-api)|Bundle multiple Minecraft APIs into a single GET request.|[:arrow_upper_right:](https://api.ashcon.app/mojang/v2/user/Notch)|
 |25|[@Glavin001](https://github.com/Glavin001)/[**atom-gitter**](https://github.com/Glavin001/atom-gitter)|(UNMAINTAINED) :calling: Gitter chat integration with Atom.io|[:arrow_upper_right:](https://atom.io/packages/gitter)|
 |25|[@benbria](https://github.com/benbria)/[**dashing-client**](https://github.com/benbria/dashing-client)|Client for sending data to Dashing from node.js||
 |24|[@adam-p](https://github.com/adam-p)/[**text-file-follower**](https://github.com/adam-p/text-file-follower)|A Node.js module for getting each new last line of a text file as it appears. Think `tail -f`.||
 |24|[@wa0x6e](https://github.com/wa0x6e)/[**dashing-resque**](https://github.com/wa0x6e/dashing-resque)|Resque dashing widget to monitor resque jobs, queues and worker activities.||
 |23|[@radekstepan](https://github.com/radekstepan)/[**ukraine**](https://github.com/radekstepan/ukraine)|Node.js PaaS based on Haibu||
+|22|[@adamhooper](https://github.com/adamhooper)/[**js-sorted-set**](https://github.com/adamhooper/js-sorted-set)|Sorted set data structures in JavaScript||
 |22|[@axiomzen](https://github.com/axiomzen)/[**zenbase-angular**](https://github.com/axiomzen/zenbase-angular)|Opinionated gulp-angular-coffee-stylus-jade boilerplate||
 |22|[@benbria](https://github.com/benbria)/[**bunyan-debug-stream**](https://github.com/benbria/bunyan-debug-stream)|A stream for bunyan that writes log entries as human readable output.||
 |22|[@kmalakoff](https://github.com/kmalakoff)/[**backbone-articulation**](https://github.com/kmalakoff/backbone-articulation)|Add custom attribute serialization and deserialization to your Backbone.Models.|[:arrow_upper_right:](http://braincode.tumblr.com/post/10682432555/introducing-backbone-articulation)|
-|21|[@adamhooper](https://github.com/adamhooper)/[**js-sorted-set**](https://github.com/adamhooper/js-sorted-set)|Sorted set data structures in JavaScript||
 |21|[@andykent](https://github.com/andykent)/[**Deliverable**](https://github.com/andykent/Deliverable)|Async HTTP friendly WebHooks delivery server||
 |21|[@andykent](https://github.com/andykent)/[**creek**](https://github.com/andykent/creek)|Configurable streaming aggregator||
 |18|[@EtienneLem](https://github.com/EtienneLem)/[**commandz**](https://github.com/EtienneLem/commandz)|⌘Z adds commands history support to your web app|[:arrow_upper_right:](http://etiennelem.github.io/commandz)|
@@ -77,7 +77,7 @@
 |10|[@Qard](https://github.com/Qard)/[**express-coffee**](https://github.com/Qard/express-coffee)|An express middleware to automatically compile and serve coffeescript files.||
 |10|[@amsul](https://github.com/amsul)/[**Load.allTheThings**](https://github.com/amsul/Load.allTheThings)|A simple JavaScript library to preload resources as they are needed|[:arrow_upper_right:](http://amsul.github.com/Load.allTheThings/)|
 |10|[@interstateone](https://github.com/interstateone)/[**polygons**](https://github.com/interstateone/polygons)|Boolean operations for polygons in Raphaël.js||
-|10|[@kieran](https://github.com/kieran)/[**votewell**](https://github.com/kieran/votewell)|strategic voting calculator||
+|10|[@kieran](https://github.com/kieran)/[**votewell**](https://github.com/kieran/votewell)|strategic voting calculator|[:arrow_upper_right:](https://votewell.ca)|
 |10|[@radekstepan](https://github.com/radekstepan)/[**nzb-grabber-js**](https://github.com/radekstepan/nzb-grabber-js)|Download/grab binary posts from NNTP (Usenet) servers using Node.js||
 |10|[@raganwald](https://github.com/raganwald)/[**supervis.es**](https://github.com/raganwald/supervis.es)|||
 |9|[@HappenApps](https://github.com/HappenApps)/[**quiver2playground**](https://github.com/HappenApps/quiver2playground)|A utility to convert a Quiver notebook or notes to Xcode 6 playground files.||
@@ -106,7 +106,6 @@
 |6|[@matehat](https://github.com/matehat)/[**aneth**](https://github.com/matehat/aneth)|Quick and Dirty home cluster using Zeroconf|[:arrow_upper_right:](http://matehat.github.io/aneth/)|
 |6|[@remiprev](https://github.com/remiprev)/[**venyr**](https://github.com/remiprev/venyr)|Broadcast your current Rdio playback via WebSockets and let others listen to it.|[:arrow_upper_right:](https://github.com/remiprev/venyr)|
 |6|[@rileyjshaw](https://github.com/rileyjshaw)/[**2p-snake**](https://github.com/rileyjshaw/2p-snake)|:snake: Snake for 2 players on the same keyboard! Saucy.||
-|6|[@rowanmanning](https://github.com/rowanmanning)/[**hubot-dogeme**](https://github.com/rowanmanning/hubot-dogeme)|Wow. Such Doge. So Hubot.||
 |6|[@sibartlett](https://github.com/sibartlett)/[**atom-clippy**](https://github.com/sibartlett/atom-clippy)|Clippy for your Atom.|[:arrow_upper_right:](https://atom.io/packages/clippy)|
 |5|[@Glavin001](https://github.com/Glavin001)/[**atom-coffeescript-preview**](https://github.com/Glavin001/atom-coffeescript-preview)|DEPRECATED: Preview what your CoffeeScript will look like as JavaScript|[:arrow_upper_right:](https://atom.io/packages/coffeescript-preview)|
 |5|[@briannesbitt](https://github.com/briannesbitt)/[**QuicksortMicrobenchmark**](https://github.com/briannesbitt/QuicksortMicrobenchmark)|I wrote a blog post about benchmarking the quicksort sorting algorithm in several languages.|[:arrow_upper_right:](http://nesbot.com/2012/2/8/a-quick-microbenchmark)|
@@ -116,6 +115,7 @@
 |5|[@lawrencejones](https://github.com/lawrencejones)/[**webcrawler**](https://github.com/lawrencejones/webcrawler)|A simple tool designed to crawl websites, producing data on what each page links to and what static assets they depend on.||
 |5|[@radekstepan](https://github.com/radekstepan)/[**grunt-sandbox-css**](https://github.com/radekstepan/grunt-sandbox-css)|Sandbox a CSS library by prefixing its selectors||
 |5|[@rowanmanning](https://github.com/rowanmanning)/[**express-coffee-template**](https://github.com/rowanmanning/express-coffee-template)|[UNMAINTAINED] An Express + CoffeeScript + Mustache application template for Node||
+|5|[@rowanmanning](https://github.com/rowanmanning)/[**hubot-dogeme**](https://github.com/rowanmanning/hubot-dogeme)|Wow. Such Doge. So Hubot.||
 |5|[@seblavoie](https://github.com/seblavoie)/[**esy**](https://github.com/seblavoie/esy)|A tiny ExtendScript helpers library||
 |4|[@EtienneLem](https://github.com/EtienneLem)/[**opencode-css-animations**](https://github.com/EtienneLem/opencode-css-animations)|OpenCode 5th edition: CSS Animations|[:arrow_upper_right:](http://etiennelem.github.com/opencode-css-animations)|
 |4|[@Gonzih](https://github.com/Gonzih)/[**shelr-hubot**](https://github.com/Gonzih/shelr-hubot)|Hubot for #shelr at irc.freenode.net||

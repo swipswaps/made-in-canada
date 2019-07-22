@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3385|[@gnunn1](https://github.com/gnunn1)/[**tilix**](https://github.com/gnunn1/tilix)|A tiling terminal emulator for Linux using GTK+ 3|[:arrow_upper_right:](https://gnunn1.github.io/tilix-web)|
+|3391|[@gnunn1](https://github.com/gnunn1)/[**tilix**](https://github.com/gnunn1/tilix)|A tiling terminal emulator for Linux using GTK+ 3|[:arrow_upper_right:](https://gnunn1.github.io/tilix-web)|
 |131|[@etcimon](https://github.com/etcimon)/[**libasync**](https://github.com/etcimon/libasync)|Cross-platform event loop library of asynchronous objects||
 |66|[@etcimon](https://github.com/etcimon)/[**botan**](https://github.com/etcimon/botan)|Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc.||
 |36|[@dd86k](https://github.com/dd86k)/[**dd86**](https://github.com/dd86k/dd86)|Small IBM PC Virtual Machine and DOS Emulation Layer ** WIP **|[:arrow_upper_right:](https://git.dd86k.space/dd86k/dd86)|
@@ -12,7 +12,7 @@
 |13|[@etcimon](https://github.com/etcimon)/[**windows-headers**](https://github.com/etcimon/windows-headers)|windows.h for D projects||
 |11|[@dd86k](https://github.com/dd86k)/[**ddcpuid**](https://github.com/dd86k/ddcpuid)|x86 CPUID Information Tool + Quality Manual|[:arrow_upper_right:](https://git.dd86k.space/dd86k/ddcpuid)|
 |10|[@dd86k](https://github.com/dd86k)/[**dfile**](https://github.com/dd86k/dfile)|Cross-platform and fast file scanner||
-|7|[@dd86k](https://github.com/dd86k)/[**ddos**](https://github.com/dd86k/ddos)|We all need our dose of baremetal||
+|8|[@dd86k](https://github.com/dd86k)/[**ddos**](https://github.com/dd86k/ddos)|An OS to satisfy my dose of baremetal||
 |6|[@OniDaito](https://github.com/OniDaito)/[**PythonCourse**](https://github.com/OniDaito/PythonCourse)|The Hackspace Python|[:arrow_upper_right:](http://www.section9.co.uk)|
 |6|[@etcimon](https://github.com/etcimon)/[**spd**](https://github.com/etcimon/spd)|Library of tools using ScopedPool RAII garbage collection with the GC as fallback||
 |6|[@etcimon](https://github.com/etcimon)/[**vibe.0**](https://github.com/etcimon/vibe.0)|Old Vibe.d stripped & repackaged with PGSQL, SQLite, XML, CookieJar, HTTP/2, botan, libasync, Daemonize, etc.||

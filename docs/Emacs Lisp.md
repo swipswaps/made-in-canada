@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|18034|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
-|146|[@syl20bnr](https://github.com/syl20bnr)/[**evil-escape**](https://github.com/syl20bnr/evil-escape)|Customizable key sequence to escape from insert state and everything else in Emacs.||
+|18124|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
+|145|[@syl20bnr](https://github.com/syl20bnr)/[**evil-escape**](https://github.com/syl20bnr/evil-escape)|Customizable key sequence to escape from insert state and everything else in Emacs.||
 |119|[@burtonsamograd](https://github.com/burtonsamograd)/[**emacs-jit**](https://github.com/burtonsamograd/emacs-jit)|Emacs with an Emacs Lisp JIT (Just In Time) compiler using libjit.||
 |102|[@atgreen](https://github.com/atgreen)/[**paperless**](https://github.com/atgreen/paperless)|Emacs assisted PDF document filing||
 |82|[@aspiers](https://github.com/aspiers)/[**smooth-scrolling**](https://github.com/aspiers/smooth-scrolling)|Emacs smooth scrolling package||
 |74|[@syl20bnr](https://github.com/syl20bnr)/[**evil-lisp-state**](https://github.com/syl20bnr/evil-lisp-state)|An evil state to navigate Lisp code and modify it with smartparens||
-|65|[@syl20bnr](https://github.com/syl20bnr)/[**spacelpa**](https://github.com/syl20bnr/spacelpa)|ELPA repository for stable versions of Spacemacs||
+|68|[@syl20bnr](https://github.com/syl20bnr)/[**spacelpa**](https://github.com/syl20bnr/spacelpa)|ELPA repository for stable versions of Spacemacs||
 |62|[@rudolfolah](https://github.com/rudolfolah)/[**emacs-sos**](https://github.com/rudolfolah/emacs-sos)|StackOverflow Search (SOS) mode for Emacs.||
 |57|[@arthurnn](https://github.com/arthurnn)/[**howdoi-emacs**](https://github.com/arthurnn/howdoi-emacs)|Search code from StackOverflow and paste it in emacs.||
 |50|[@rudolfolah](https://github.com/rudolfolah)/[**org-doing**](https://github.com/rudolfolah/org-doing)|keep track of what you're doing right now and what you've worked on before|[:arrow_upper_right:](http://omouse.github.io/org-doing)|
@@ -20,14 +20,14 @@
 |33|[@burke](https://github.com/burke)/[**color-theme-ir-black**](https://github.com/burke/color-theme-ir-black)|[abandoned] IR Black Color Theme for Emacs.||
 |33|[@jimeh](https://github.com/jimeh)/[**.emacs.d**](https://github.com/jimeh/.emacs.d)|My personal Emacs config with any quirks, oddities, bugs, and man-eating errors I live with on a daily basis.||
 |31|[@rudolfolah](https://github.com/rudolfolah)/[**angularjs-mode**](https://github.com/rudolfolah/angularjs-mode)|AngularJS utilities and major modes for Emacs (angular-mode for javascript, angular-html-mode for html templates)|[:arrow_upper_right:](http://rudolfolah.github.io/angularjs-mode)|
-|26|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs-elpa-mirror**](https://github.com/syl20bnr/spacemacs-elpa-mirror)|ELPA archive for Spacemacs packages.||
 |25|[@dpo](https://github.com/dpo)/[**ampl-mode**](https://github.com/dpo/ampl-mode)|Syntax highlighting mode for the AMPL modeling language||
+|25|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs-elpa-mirror**](https://github.com/syl20bnr/spacemacs-elpa-mirror)|ELPA archive for Spacemacs packages.||
 |24|[@honza](https://github.com/honza)/[**dotfiles**](https://github.com/honza/dotfiles)|My awesome dotfiles.|[:arrow_upper_right:](https://github.com/honza/dotfiles)|
 |19|[@syl20bnr](https://github.com/syl20bnr)/[**vi-tilde-fringe**](https://github.com/syl20bnr/vi-tilde-fringe)|Display tildes on empty lines in the Emacs fringe a la Vi.||
-|18|[@travisjeffery](https://github.com/travisjeffery)/[**dotfiles**](https://github.com/travisjeffery/dotfiles)|@travisjeffery's dotfiles. emacs, zsh, tmux||
+|17|[@travisjeffery](https://github.com/travisjeffery)/[**dotfiles**](https://github.com/travisjeffery/dotfiles)|@travisjeffery's dotfiles. emacs, zsh, tmux||
 |15|[@j0ni](https://github.com/j0ni)/[**phoenix-dark-pink**](https://github.com/j0ni/phoenix-dark-pink)|Phoenix Dark Pink theme port for emacs||
+|14|[@practicalli](https://github.com/practicalli)/[**spacemacs-config**](https://github.com/practicalli/spacemacs-config)|My configuration for spacemacs||
 |13|[@cbbrowne](https://github.com/cbbrowne)/[**pg.el**](https://github.com/cbbrowne/pg.el)|PostgreSQL Elisp interface||
-|13|[@practicalli](https://github.com/practicalli)/[**spacemacs-config**](https://github.com/practicalli/spacemacs-config)|My configuration for spacemacs||
 |12|[@gnuvince](https://github.com/gnuvince)/[**purp**](https://github.com/gnuvince/purp)|A theme for Emacs with few colors||
 |11|[@rspivak](https://github.com/rspivak)/[**httpcode.el**](https://github.com/rspivak/httpcode.el)|Explains the meaning of an HTTP status code in minibuffer||
 |10|[@danp](https://github.com/danp)/[**confluence-el**](https://github.com/danp/confluence-el)|confluence emacs integration|[:arrow_upper_right:](http://code.google.com/p/confluence-el/)|

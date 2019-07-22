@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|263|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
+|264|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
 |74|[@hoytech](https://github.com/hoytech)/[**antiweb**](https://github.com/hoytech/antiweb)|Common Lisp web application server|[:arrow_upper_right:](http://hoytech.com/antiweb/)|
-|64|[@inaimathi](https://github.com/inaimathi)/[**cl-notebook**](https://github.com/inaimathi/cl-notebook)|A notebook-style editor for Common Lisp||
-|62|[@thephoeron](https://github.com/thephoeron)/[**let-over-lambda**](https://github.com/thephoeron/let-over-lambda)|Doug Hoyte's "Production" version of macros from Let Over Lambda, ready for ASDF and Quicklisp.||
+|65|[@inaimathi](https://github.com/inaimathi)/[**cl-notebook**](https://github.com/inaimathi/cl-notebook)|A notebook-style editor for Common Lisp||
+|64|[@thephoeron](https://github.com/thephoeron)/[**let-over-lambda**](https://github.com/thephoeron/let-over-lambda)|Doug Hoyte's "Production" version of macros from Let Over Lambda, ready for ASDF and Quicklisp.||
 |46|[@thephoeron](https://github.com/thephoeron)/[**black-stone**](https://github.com/thephoeron/black-stone)|Specification and Implementation of Quantum Common Lisp, for gate-model quantum computers||
 |34|[@thephoeron](https://github.com/thephoeron)/[**bit-smasher**](https://github.com/thephoeron/bit-smasher)|Common Lisp library for handling bit vectors, bit vector arithmetic, and type conversions.|[:arrow_upper_right:](https://thephoeron.github.io/bit-smasher/)|
 |33|[@inaimathi](https://github.com/inaimathi)/[**cl-css**](https://github.com/inaimathi/cl-css)|Non-validating, inline CSS generator for Common Lisp||
@@ -15,15 +15,15 @@
 |18|[@inaimathi](https://github.com/inaimathi)/[**house**](https://github.com/inaimathi/house)|Minimal asynchronous CL web server||
 |18|[@tokenrove](https://github.com/tokenrove)/[**series**](https://github.com/tokenrove/series)|unofficial mirror of git://git.code.sf.net/p/series/series (Richard C. Waters' SERIES package for Common Lisp)|[:arrow_upper_right:](http://series.sourceforge.net/)|
 |17|[@burtonsamograd](https://github.com/burtonsamograd)/[**rsa**](https://github.com/burtonsamograd/rsa)|The RSA Encryption Algorithm written in Common Lisp||
+|17|[@thephoeron](https://github.com/thephoeron)/[**qgame**](https://github.com/thephoeron/qgame)|QGAME: Quantum Gate and Measurement Emulator, a quantum computer simulator||
 |16|[@inaimathi](https://github.com/inaimathi)/[**fact-base**](https://github.com/inaimathi/fact-base)|Implementation of fact bases for Common Lisp||
-|16|[@thephoeron](https://github.com/thephoeron)/[**qgame**](https://github.com/thephoeron/qgame)|QGAME: Quantum Gate and Measurement Emulator, a quantum computer simulator||
 |15|[@thephoeron](https://github.com/thephoeron)/[**wolfcoin**](https://github.com/thephoeron/wolfcoin)|Common Lisp cryptocurrency client, protocol, and wallet||
 |11|[@thephoeron](https://github.com/thephoeron)/[**cl-isaac**](https://github.com/thephoeron/cl-isaac)|Optimized Common Lisp version of Bob Jenkins' ISAAC-32 and ISAAC-64 algorithms, fast cryptographic random number generators.||
 |11|[@thephoeron](https://github.com/thephoeron)/[**silver-sword**](https://github.com/thephoeron/silver-sword)|Common Lisp interface to D-Wave's Python Pack for adiabatic quantum computer energy programming|[:arrow_upper_right:](http://thephoeron.viewdocs.io/silver-sword)|
+|8|[@thephoeron](https://github.com/thephoeron)/[**cl-edn**](https://github.com/thephoeron/cl-edn)|Common Lisp serialization library for the EDN format||
 |7|[@atgreen](https://github.com/atgreen)/[**wrapilator**](https://github.com/atgreen/wrapilator)|Wraps verilator output in Common Lisp for testing digital logic in Lisp||
 |7|[@bbc](https://github.com/bbc)/[**bbcrd-brirs**](https://github.com/bbc/bbcrd-brirs)| An impulse response dataset for dynamic data-based auralisation of advanced sound systems||
 |7|[@burtonsamograd](https://github.com/burtonsamograd)/[**med**](https://github.com/burtonsamograd/med)|med - A fork of the emacs-like text editor for the Mezzano operating system||
-|7|[@thephoeron](https://github.com/thephoeron)/[**cl-edn**](https://github.com/thephoeron/cl-edn)|Common Lisp serialization library for the EDN format||
 |7|[@tokenrove](https://github.com/tokenrove)/[**imago**](https://github.com/tokenrove/imago)|image manipulation library for Common Lisp|[:arrow_upper_right:](http://common-lisp.net/project/imago)|
 |6|[@burtonsamograd](https://github.com/burtonsamograd)/[**autograph**](https://github.com/burtonsamograd/autograph)|Autograph is a CSS generation language that uses s-expressions for styling rules and allows for the use of variables and functions written in Common Lisp.||
 |6|[@inaimathi](https://github.com/inaimathi)/[**cl-congregate**](https://github.com/inaimathi/cl-congregate)|A service and protocol for coordinating recurring get-togethers between many humans||
@@ -50,6 +50,7 @@
 |3|[@Hexstream](https://github.com/Hexstream)/[**parse-number-range**](https://github.com/Hexstream/parse-number-range)|Parses LOOP's convenient "for-as-arithmetic" syntax into 5 simple values: from, to, limit-kind (:inclusive, :exclusive or nil if unbounded), by (step) and direction (+ or -)). Further related utilities are provided. Intended for easy implementation of analogous functionality in other constructs.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/parse-number-range/)|
 |3|[@Hexstream](https://github.com/Hexstream)/[**place-modifiers**](https://github.com/Hexstream/place-modifiers)|place-modifiers essentially gives access to hundreds of modify-macros through one single macro: MODIFY.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/place-modifiers/)|
 |3|[@Hexstream](https://github.com/Hexstream)/[**positional-lambda**](https://github.com/Hexstream/positional-lambda)|positional-lambda is a concise, intuitive and flexible syntax (macro) for trivial lambdas that eschews explicit (and often contextually-redundant) naming of parameter variables in favor of positional references, with support for a used or ignored &rest parameter and automatic declaration of ignored parameters when logical "gaps" are left in the positional references. Further convenience features are provided.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/positional-lambda/)|
+|3|[@burtonsamograd](https://github.com/burtonsamograd)/[**cl-active-variables**](https://github.com/burtonsamograd/cl-active-variables)|Variables with read and write callbacks in Common Lisp.||
 |3|[@bzgeb](https://github.com/bzgeb)/[**Sudoku-Wizard**](https://github.com/bzgeb/Sudoku-Wizard)|A propositional logic based sudoku solver. Developed in Common Lisp.||
 |3|[@inaimathi](https://github.com/inaimathi)/[**cl-chan**](https://github.com/inaimathi/cl-chan)|A message/image board (eventually) written in Common Lisp, mainly for tutorial purposes||
 |3|[@inaimathi](https://github.com/inaimathi)/[**cl-web-dev**](https://github.com/inaimathi/cl-web-dev)|Minor utilities for web development in Common Lisp||

@@ -1,82 +1,82 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|7057|[@lemire](https://github.com/lemire)/[**simdjson**](https://github.com/lemire/simdjson)|Parsing gigabytes of JSON per second |[:arrow_upper_right:](https://arxiv.org/abs/1902.08318)|
-|2618|[@z3t0](https://github.com/z3t0)/[**Arduino-IRremote**](https://github.com/z3t0/Arduino-IRremote)|Infrared remote library for Arduino: send and receive infrared signals with multiple protocols|[:arrow_upper_right:](http://z3t0.github.io/Arduino-IRremote/)|
-|2374|[@forhappy](https://github.com/forhappy)/[**Cplusplus-Concurrency-In-Practice**](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)|A Detailed Cplusplus Concurrency Tutorial 《C++ 并发编程指南》||
-|2233|[@thestinger](https://github.com/thestinger)/[**termite**](https://github.com/thestinger/termite)|A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.||
-|1662|[@JohnSully](https://github.com/JohnSully)/[**KeyDB**](https://github.com/JohnSully/KeyDB)|A Multithreaded Fork of Redis|[:arrow_upper_right:](https://keydb.dev)|
-|1182|[@mgbellemare](https://github.com/mgbellemare)/[**Arcade-Learning-Environment**](https://github.com/mgbellemare/Arcade-Learning-Environment)|The Arcade Learning Environment (ALE) -- a platform for AI research.||
-|908|[@cjcliffe](https://github.com/cjcliffe)/[**CubicSDR**](https://github.com/cjcliffe/CubicSDR)|Cross-Platform Software-Defined Radio Application|[:arrow_upper_right:](http://www.cubicsdr.com)|
-|785|[@CedricGuillemet](https://github.com/CedricGuillemet)/[**ImGuizmo**](https://github.com/CedricGuillemet/ImGuizmo)|Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui||
-|710|[@bbc](https://github.com/bbc)/[**audiowaveform**](https://github.com/bbc/audiowaveform)|C++ program to generate waveform data and render waveform images from audio files|[:arrow_upper_right:](https://waveform.prototyping.bbc.co.uk)|
-|708|[@tangjianpku](https://github.com/tangjianpku)/[**LINE**](https://github.com/tangjianpku/LINE)|LINE: Large-scale information network embedding||
-|643|[@tzutalin](https://github.com/tzutalin)/[**dlib-android**](https://github.com/tzutalin/dlib-android)|:dragon: Port dlib to Android||
-|636|[@trishume](https://github.com/trishume)/[**eyeLike**](https://github.com/trishume/eyeLike)|A webcam based pupil tracking implementation.||
-|633|[@tandasat](https://github.com/tandasat)/[**HyperPlatform**](https://github.com/tandasat/HyperPlatform)|Intel VT-x based hypervisor aiming to provide a thin VM-exit filtering platform on Windows.||
-|556|[@fungos](https://github.com/fungos)/[**cr**](https://github.com/fungos/cr)|cr.h: A Simple C Hot Reload Header-only Library|[:arrow_upper_right:](https://fungos.github.io/blog/2017/11/20/cr.h-a-simple-c-hot-reload-header-only-library/)|
-|502|[@AlwaysGeeky](https://github.com/AlwaysGeeky)/[**Vox**](https://github.com/AlwaysGeeky/Vox)|Voxel Engine and Voxel Game Development||
-|487|[@lemire](https://github.com/lemire)/[**FastPFor**](https://github.com/lemire/FastPFor)|The FastPFOR C++ library: Fast integer compression||
-|481|[@ldionne](https://github.com/ldionne)/[**dyno**](https://github.com/ldionne/dyno)|Runtime polymorphism done right||
-|474|[@perone](https://github.com/perone)/[**euclidesdb**](https://github.com/perone/euclidesdb)|A multi-model machine learning feature embedding database|[:arrow_upper_right:](http://euclidesdb.readthedocs.io)|
-|426|[@glmcdona](https://github.com/glmcdona)/[**Process-Dump**](https://github.com/glmcdona/Process-Dump)|Windows tool for dumping malware PE files from memory back to disk for analysis.|[:arrow_upper_right:](http://split-code.com/processdump.html)|
+|7125|[@lemire](https://github.com/lemire)/[**simdjson**](https://github.com/lemire/simdjson)|Parsing gigabytes of JSON per second |[:arrow_upper_right:](https://arxiv.org/abs/1902.08318)|
+|2637|[@z3t0](https://github.com/z3t0)/[**Arduino-IRremote**](https://github.com/z3t0/Arduino-IRremote)|Infrared remote library for Arduino: send and receive infrared signals with multiple protocols|[:arrow_upper_right:](http://z3t0.github.io/Arduino-IRremote/)|
+|2388|[@forhappy](https://github.com/forhappy)/[**Cplusplus-Concurrency-In-Practice**](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)|A Detailed Cplusplus Concurrency Tutorial 《C++ 并发编程指南》||
+|2262|[@thestinger](https://github.com/thestinger)/[**termite**](https://github.com/thestinger/termite)|A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.||
+|1667|[@JohnSully](https://github.com/JohnSully)/[**KeyDB**](https://github.com/JohnSully/KeyDB)|A Multithreaded Fork of Redis|[:arrow_upper_right:](https://keydb.dev)|
+|1189|[@mgbellemare](https://github.com/mgbellemare)/[**Arcade-Learning-Environment**](https://github.com/mgbellemare/Arcade-Learning-Environment)|The Arcade Learning Environment (ALE) -- a platform for AI research.||
+|910|[@cjcliffe](https://github.com/cjcliffe)/[**CubicSDR**](https://github.com/cjcliffe/CubicSDR)|Cross-Platform Software-Defined Radio Application|[:arrow_upper_right:](http://www.cubicsdr.com)|
+|790|[@CedricGuillemet](https://github.com/CedricGuillemet)/[**ImGuizmo**](https://github.com/CedricGuillemet/ImGuizmo)|Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui||
+|722|[@tangjianpku](https://github.com/tangjianpku)/[**LINE**](https://github.com/tangjianpku/LINE)|LINE: Large-scale information network embedding||
+|711|[@bbc](https://github.com/bbc)/[**audiowaveform**](https://github.com/bbc/audiowaveform)|C++ program to generate waveform data and render waveform images from audio files|[:arrow_upper_right:](https://waveform.prototyping.bbc.co.uk)|
+|648|[@tzutalin](https://github.com/tzutalin)/[**dlib-android**](https://github.com/tzutalin/dlib-android)|:dragon: Port dlib to Android||
+|642|[@tandasat](https://github.com/tandasat)/[**HyperPlatform**](https://github.com/tandasat/HyperPlatform)|Intel VT-x based hypervisor aiming to provide a thin VM-exit filtering platform on Windows.||
+|639|[@trishume](https://github.com/trishume)/[**eyeLike**](https://github.com/trishume/eyeLike)|A webcam based pupil tracking implementation.||
+|555|[@fungos](https://github.com/fungos)/[**cr**](https://github.com/fungos/cr)|cr.h: A Simple C Hot Reload Header-only Library|[:arrow_upper_right:](https://fungos.github.io/blog/2017/11/20/cr.h-a-simple-c-hot-reload-header-only-library/)|
+|503|[@AlwaysGeeky](https://github.com/AlwaysGeeky)/[**Vox**](https://github.com/AlwaysGeeky/Vox)|Voxel Engine and Voxel Game Development||
+|494|[@lemire](https://github.com/lemire)/[**FastPFor**](https://github.com/lemire/FastPFor)|The FastPFOR C++ library: Fast integer compression||
+|485|[@perone](https://github.com/perone)/[**euclidesdb**](https://github.com/perone/euclidesdb)|A multi-model machine learning feature embedding database|[:arrow_upper_right:](http://euclidesdb.readthedocs.io)|
+|483|[@ldionne](https://github.com/ldionne)/[**dyno**](https://github.com/ldionne/dyno)|Runtime polymorphism done right||
+|427|[@glmcdona](https://github.com/glmcdona)/[**Process-Dump**](https://github.com/glmcdona/Process-Dump)|Windows tool for dumping malware PE files from memory back to disk for analysis.|[:arrow_upper_right:](http://split-code.com/processdump.html)|
+|423|[@tandasat](https://github.com/tandasat)/[**DdiMon**](https://github.com/tandasat/DdiMon)|Monitoring and controlling kernel API calls with stealth hook using EPT||
 |421|[@Dooskington](https://github.com/Dooskington)/[**GameLad**](https://github.com/Dooskington/GameLad)|:tv: An (almost) fully featured Game Boy emulator.||
-|416|[@tandasat](https://github.com/tandasat)/[**DdiMon**](https://github.com/tandasat/DdiMon)|Monitoring and controlling kernel API calls with stealth hook using EPT||
 |398|[@tj](https://github.com/tj)/[**node-jscoverage**](https://github.com/tj/node-jscoverage)|jscoverage modified to support SSJS ||
-|392|[@ajkhoury](https://github.com/ajkhoury)/[**ReClassEx**](https://github.com/ajkhoury/ReClassEx)|ReClassEx||
-|369|[@eddieantonio](https://github.com/eddieantonio)/[**imgcat**](https://github.com/eddieantonio/imgcat)|It's like cat, but for images.||
-|349|[@TMRh20](https://github.com/TMRh20)/[**TMRpcm**](https://github.com/TMRh20/TMRpcm)|Arduino library for asynchronous playback of PCM/WAV files direct from SD card. Arduino Uno,Nano,Mega etc supported|[:arrow_upper_right:](http://tmrh20.blogspot.com)|
+|395|[@ajkhoury](https://github.com/ajkhoury)/[**ReClassEx**](https://github.com/ajkhoury/ReClassEx)|ReClassEx||
+|372|[@eddieantonio](https://github.com/eddieantonio)/[**imgcat**](https://github.com/eddieantonio/imgcat)|It's like cat, but for images.||
+|351|[@TMRh20](https://github.com/TMRh20)/[**TMRpcm**](https://github.com/TMRh20/TMRpcm)|Arduino library for asynchronous playback of PCM/WAV files direct from SD card. Arduino Uno,Nano,Mega etc supported|[:arrow_upper_right:](http://tmrh20.blogspot.com)|
 |344|[@cboulay](https://github.com/cboulay)/[**PSMoveService**](https://github.com/cboulay/PSMoveService)|A background service that communicates with the psmove and stores pose and button data.||
 |343|[@lemire](https://github.com/lemire)/[**EWAHBoolArray**](https://github.com/lemire/EWAHBoolArray)|A compressed bitmap class in C++. ||
 |271|[@clechasseur](https://github.com/clechasseur)/[**pathcopycopy**](https://github.com/clechasseur/pathcopycopy)|Copy file paths from Windows explorer's contextual menu|[:arrow_upper_right:](https://pathcopycopy.github.io)|
 |269|[@christopherbatty](https://github.com/christopherbatty)/[**SDFGen**](https://github.com/christopherbatty/SDFGen)|A simple commandline utility to generate grid-based signed distance field (level set) generator from triangle meshes, using code from Robert Bridson's website.||
 |269|[@dude719](https://github.com/dude719)/[**ReClassEx**](https://github.com/dude719/ReClassEx)|ReClassEx||
 |267|[@maximecb](https://github.com/maximecb)/[**zetavm**](https://github.com/maximecb/zetavm)|Multi-Language Platform for Dynamic Programming Languages|[:arrow_upper_right:](https://pointersgonewild.com)|
-|247|[@mostafa-saad](https://github.com/mostafa-saad)/[**ArabicCompetitiveProgramming**](https://github.com/mostafa-saad/ArabicCompetitiveProgramming)|The repository contains the ENGLISH description files attached to the video series in my ARABIC algorithms channel.|[:arrow_upper_right:](https://www.youtube.com/user/nobody123497)|
-|245|[@graeme-hill](https://github.com/graeme-hill)/[**crossguid**](https://github.com/graeme-hill/crossguid)|Lightweight cross platform C++ GUID/UUID library||
-|244|[@jts](https://github.com/jts)/[**nanopolish**](https://github.com/jts/nanopolish)|Signal-level algorithms for MinION data||
-|244|[@rtv](https://github.com/rtv)/[**Stage**](https://github.com/rtv/Stage)|Mobile robot simulator||
-|213|[@lemire](https://github.com/lemire)/[**SIMDCompressionAndIntersection**](https://github.com/lemire/SIMDCompressionAndIntersection)|A C++ library to compress and intersect sorted lists of integers using SIMD instructions ||
+|254|[@mostafa-saad](https://github.com/mostafa-saad)/[**ArabicCompetitiveProgramming**](https://github.com/mostafa-saad/ArabicCompetitiveProgramming)|The repository contains the ENGLISH description files attached to the video series in my ARABIC algorithms channel.|[:arrow_upper_right:](https://www.youtube.com/user/nobody123497)|
+|247|[@graeme-hill](https://github.com/graeme-hill)/[**crossguid**](https://github.com/graeme-hill/crossguid)|Lightweight cross platform C++ GUID/UUID library||
+|245|[@jts](https://github.com/jts)/[**nanopolish**](https://github.com/jts/nanopolish)|Signal-level algorithms for MinION data||
+|245|[@rtv](https://github.com/rtv)/[**Stage**](https://github.com/rtv/Stage)|Mobile robot simulator||
+|214|[@lemire](https://github.com/lemire)/[**SIMDCompressionAndIntersection**](https://github.com/lemire/SIMDCompressionAndIntersection)|A C++ library to compress and intersect sorted lists of integers using SIMD instructions ||
 |207|[@KleinYuan](https://github.com/KleinYuan)/[**Caffe2-iOS**](https://github.com/KleinYuan/Caffe2-iOS)|Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.||
-|200|[@tandasat](https://github.com/tandasat)/[**PgResarch**](https://github.com/tandasat/PgResarch)|PatchGuard Research||
-|198|[@jts](https://github.com/jts)/[**sga**](https://github.com/jts/sga)|de novo sequence assembler using string graphs|[:arrow_upper_right:](http://genome.cshlp.org/content/22/3/549)|
+|201|[@tandasat](https://github.com/tandasat)/[**PgResarch**](https://github.com/tandasat/PgResarch)|PatchGuard Research||
+|199|[@jts](https://github.com/jts)/[**sga**](https://github.com/jts/sga)|de novo sequence assembler using string graphs|[:arrow_upper_right:](http://genome.cshlp.org/content/22/3/549)|
+|198|[@underscorediscovery](https://github.com/underscorediscovery)/[**v8-tutorials**](https://github.com/underscorediscovery/v8-tutorials)|A set of introductory tutorials for the v8 javascript engine|[:arrow_upper_right:](https://underscorediscovery.ca)|
 |197|[@bbidulock](https://github.com/bbidulock)/[**icewm**](https://github.com/bbidulock/icewm)|A window manager designed for speed, usability, and consistency||
-|197|[@underscorediscovery](https://github.com/underscorediscovery)/[**v8-tutorials**](https://github.com/underscorediscovery/v8-tutorials)|A set of introductory tutorials for the v8 javascript engine|[:arrow_upper_right:](https://underscorediscovery.ca)|
-|182|[@adamstark](https://github.com/adamstark)/[**AudioFile**](https://github.com/adamstark/AudioFile)|A simple C++ library for reading and writing audio files||
+|184|[@adamstark](https://github.com/adamstark)/[**AudioFile**](https://github.com/adamstark/AudioFile)|A simple C++ library for reading and writing audio files||
 |168|[@bcgsc](https://github.com/bcgsc)/[**abyss**](https://github.com/bcgsc/abyss)|:microscope: Assemble large genomes using short reads|[:arrow_upper_right:](http://www.bcgsc.ca/platform/bioinfo/software/abyss)|
 |168|[@lemire](https://github.com/lemire)/[**fastmod**](https://github.com/lemire/fastmod)|A C/C++ header file for fast 32-bit division remainders (and divisibility tests) on 64-bit hardware.||
 |166|[@orlandov](https://github.com/orlandov)/[**node-mongodb**](https://github.com/orlandov/node-mongodb)|mongodb bindings for node.js||
-|160|[@ricmoo](https://github.com/ricmoo)/[**QRCode**](https://github.com/ricmoo/QRCode)|QR code generation library in C, optimized for low-power devices, such as Arduino.||
+|165|[@ricmoo](https://github.com/ricmoo)/[**QRCode**](https://github.com/ricmoo/QRCode)|QR code generation library in C, optimized for low-power devices, such as Arduino.||
 |148|[@BlakeBrown](https://github.com/BlakeBrown)/[**HackerRank-Solutions**](https://github.com/BlakeBrown/HackerRank-Solutions)|HackerRank concepts & solutions||
-|140|[@adamstark](https://github.com/adamstark)/[**Gist**](https://github.com/adamstark/Gist)|A C++ Library for Audio Analysis|[:arrow_upper_right:](http://www.adamstark.co.uk/project/gist/)|
-|138|[@tandasat](https://github.com/tandasat)/[**MemoryMon**](https://github.com/tandasat/MemoryMon)|Detecting execution of kernel memory where is not backed by any image file||
-|137|[@ajkhoury](https://github.com/ajkhoury)/[**SigMaker-x64**](https://github.com/ajkhoury/SigMaker-x64)|IDA Pro 7.0 compatible SigMaker plugin||
+|141|[@adamstark](https://github.com/adamstark)/[**Gist**](https://github.com/adamstark/Gist)|A C++ Library for Audio Analysis|[:arrow_upper_right:](http://www.adamstark.co.uk/project/gist/)|
+|140|[@tandasat](https://github.com/tandasat)/[**MemoryMon**](https://github.com/tandasat/MemoryMon)|Detecting execution of kernel memory where is not backed by any image file||
+|138|[@ajkhoury](https://github.com/ajkhoury)/[**SigMaker-x64**](https://github.com/ajkhoury/SigMaker-x64)|IDA Pro 7.0 compatible SigMaker plugin||
 |130|[@ChevyRay](https://github.com/ChevyRay)/[**crunch**](https://github.com/ChevyRay/crunch)|Command line texture packer created for Celeste.||
-|121|[@adamstark](https://github.com/adamstark)/[**BTrack**](https://github.com/adamstark/BTrack)|A Real-Time Beat Tracker||
+|123|[@adamstark](https://github.com/adamstark)/[**BTrack**](https://github.com/adamstark/BTrack)|A Real-Time Beat Tracker||
 |117|[@lemire](https://github.com/lemire)/[**rollinghashcpp**](https://github.com/lemire/rollinghashcpp)|Rolling Hash C++ Library||
 |115|[@jverkoey](https://github.com/jverkoey)/[**liteqr**](https://github.com/jverkoey/liteqr)|Lite QR Reader in Objective C ported from zxing||
 |114|[@gwihlidal](https://github.com/gwihlidal)/[**QNodeView**](https://github.com/gwihlidal/QNodeView)|Qt5 suite that supports displaying and editing nodes in a graph-like flow. Similar to Unreal Kismet, Frostbite 3 Schematics or Allegorithmic Substance Designer UIs.||
 |111|[@bbc](https://github.com/bbc)/[**turingcodec**](https://github.com/bbc/turingcodec)|Source code for the Turing codec, an HEVC software encoder optimised for fast encoding of large resolution video content|[:arrow_upper_right:](http://turingcodec.org/)|
 |111|[@bcaramiaux](https://github.com/bcaramiaux)/[**ofxGVF**](https://github.com/bcaramiaux/ofxGVF)|Gesture Variation Follower: oF add-on, MaxMSP, PureData||
+|111|[@burke](https://github.com/burke)/[**howto-go-with-cpp**](https://github.com/burke/howto-go-with-cpp)|[abandoned] ||
 |110|[@lemire](https://github.com/lemire)/[**StronglyUniversalStringHashing**](https://github.com/lemire/StronglyUniversalStringHashing)|Benchmark showing the we can randomly hash strings very quickly with good universality ||
-|108|[@burke](https://github.com/burke)/[**howto-go-with-cpp**](https://github.com/burke/howto-go-with-cpp)|[abandoned] ||
-|108|[@firefly](https://github.com/firefly)/[**wallet**](https://github.com/firefly/wallet)|The Firefly hardware wallet source code||
-|107|[@adamstark](https://github.com/adamstark)/[**Chord-Detector-and-Chromagram**](https://github.com/adamstark/Chord-Detector-and-Chromagram)|A Chord Detection and Chromagram Estimation Algorithm||
-|107|[@bbc](https://github.com/bbc)/[**bbc-vamp-plugins**](https://github.com/bbc/bbc-vamp-plugins)|A collection of audio feature extraction algorithms written in the Vamp plugin format.||
+|109|[@bbc](https://github.com/bbc)/[**bbc-vamp-plugins**](https://github.com/bbc/bbc-vamp-plugins)|A collection of audio feature extraction algorithms written in the Vamp plugin format.||
+|109|[@firefly](https://github.com/firefly)/[**wallet**](https://github.com/firefly/wallet)|The Firefly hardware wallet source code||
+|108|[@adamstark](https://github.com/adamstark)/[**Chord-Detector-and-Chromagram**](https://github.com/adamstark/Chord-Detector-and-Chromagram)|A Chord Detection and Chromagram Estimation Algorithm||
 |105|[@CedricGuillemet](https://github.com/CedricGuillemet)/[**LibGizmo**](https://github.com/CedricGuillemet/LibGizmo)|Gizmo control library for 3D object manipulation (4x4 matrix)|[:arrow_upper_right:](http://skaven.fr)|
 |103|[@jacres](https://github.com/jacres)/[**of-DeferredRendering**](https://github.com/jacres/of-DeferredRendering)|OpenGL 2.1/GLSL 1.20 deferred rendering implementation in openFrameworks||
-|95|[@Kamnitsask](https://github.com/Kamnitsask)/[**dense3dCrf**](https://github.com/Kamnitsask/dense3dCrf)|Fully-connected (dense) 3D CRF for processing biomedical scans||
-|95|[@tandasat](https://github.com/tandasat)/[**SimpleSvm**](https://github.com/tandasat/SimpleSvm)|A minimalistic educational hypervisor for Windows on AMD processors.||
-|94|[@atraczyk](https://github.com/atraczyk)/[**2d-engine**](https://github.com/atraczyk/2d-engine)|2D Game Engine C++ OpenGL||
-|94|[@tandasat](https://github.com/tandasat)/[**ExploitCapcom**](https://github.com/tandasat/ExploitCapcom)|This is a standalone exploit for a vulnerable feature in Capcom.sys||
+|97|[@Kamnitsask](https://github.com/Kamnitsask)/[**dense3dCrf**](https://github.com/Kamnitsask/dense3dCrf)|Fully-connected (dense) 3D CRF for processing biomedical scans||
+|96|[@tandasat](https://github.com/tandasat)/[**SimpleSvm**](https://github.com/tandasat/SimpleSvm)|A minimalistic educational hypervisor for Windows on AMD processors.||
+|95|[@atraczyk](https://github.com/atraczyk)/[**2d-engine**](https://github.com/atraczyk/2d-engine)|2D Game Engine C++ OpenGL||
+|95|[@mostafa-saad](https://github.com/mostafa-saad)/[**MyCompetitiveProgramming**](https://github.com/mostafa-saad/MyCompetitiveProgramming)|This repository contains a subset of pointers to solutions with editorials and notes to my trainees (ACM ICPC, OJs, IOI, POI, CEOI, JOI, etc). For IOI/OI, I organized what I found on the web from official solutions and materials.|[:arrow_upper_right:](http://codeforces.com/blog/entry/59131)|
+|95|[@tandasat](https://github.com/tandasat)/[**ExploitCapcom**](https://github.com/tandasat/ExploitCapcom)|This is a standalone exploit for a vulnerable feature in Capcom.sys||
 |94|[@tandasat](https://github.com/tandasat)/[**Sushi**](https://github.com/tandasat/Sushi)|a Japanese food keeps you sane||
+|90|[@glmcdona](https://github.com/glmcdona)/[**strings2**](https://github.com/glmcdona/strings2)|strings2: An improved strings extraction tool.|[:arrow_upper_right:](http://split-code.com/strings2.html)|
 |90|[@ldionne](https://github.com/ldionne)/[**mpl11**](https://github.com/ldionne/mpl11)|Enjoy template metaprogramming||
-|89|[@glmcdona](https://github.com/glmcdona)/[**strings2**](https://github.com/glmcdona/strings2)|strings2: An improved strings extraction tool.|[:arrow_upper_right:](http://split-code.com/strings2.html)|
-|87|[@abhineet123](https://github.com/abhineet123)/[**ORB_SLAM2**](https://github.com/abhineet123/ORB_SLAM2)|||
-|85|[@mostafa-saad](https://github.com/mostafa-saad)/[**MyCompetitiveProgramming**](https://github.com/mostafa-saad/MyCompetitiveProgramming)|This repository contains a subset of pointers to solutions with editorials and notes to my trainees (ACM ICPC, OJs, IOI, POI, CEOI, JOI, etc). For IOI/OI, I organized what I found on the web from official solutions and materials.|[:arrow_upper_right:](http://codeforces.com/blog/entry/59131)|
-|85|[@mostafa-saad](https://github.com/mostafa-saad)/[**deep-activity-rec**](https://github.com/mostafa-saad/deep-activity-rec)|Paper ibrahim et al, cvpr 2016 - A Hierarchical Deep Temporal Model for Group Activity Recognition - ||
+|88|[@abhineet123](https://github.com/abhineet123)/[**ORB_SLAM2**](https://github.com/abhineet123/ORB_SLAM2)|||
+|87|[@mostafa-saad](https://github.com/mostafa-saad)/[**deep-activity-rec**](https://github.com/mostafa-saad/deep-activity-rec)|Paper ibrahim et al, cvpr 2016 - A Hierarchical Deep Temporal Model for Group Activity Recognition - ||
+|86|[@tandasat](https://github.com/tandasat)/[**SimpleSvmHook**](https://github.com/tandasat/SimpleSvmHook)|SimpleSvmHook is a research purpose hypervisor for Windows on AMD processors.||
+|85|[@tandasat](https://github.com/tandasat)/[**GuardMon**](https://github.com/tandasat/GuardMon)|Hypervisor based tool for monitoring system register accesses.||
 |85|[@ttvd](https://github.com/ttvd)/[**spatial-collision-datastructures**](https://github.com/ttvd/spatial-collision-datastructures)|Benchmark of various spatial data structures for collision detection. ||
-|84|[@tandasat](https://github.com/tandasat)/[**GuardMon**](https://github.com/tandasat/GuardMon)|Hypervisor based tool for monitoring system register accesses.||
-|84|[@tandasat](https://github.com/tandasat)/[**SimpleSvmHook**](https://github.com/tandasat/SimpleSvmHook)|SimpleSvmHook is a research purpose hypervisor for Windows on AMD processors.||
 |81|[@Coldcard](https://github.com/Coldcard)/[**firmware**](https://github.com/Coldcard/firmware)|❄️ Firmware and simulator for Coldcard Hardware Wallet|[:arrow_upper_right:](http://coldcardwallet.com)|
 |79|[@dude719](https://github.com/dude719)/[**SigMaker-x64**](https://github.com/dude719/SigMaker-x64)|IDA Pro 7.0 compatible SigMaker plugin||
 |79|[@tandasat](https://github.com/tandasat)/[**findpg**](https://github.com/tandasat/findpg)|Windbg extension to find PatchGuard pages||
@@ -84,35 +84,35 @@
 |77|[@gbmhunter](https://github.com/gbmhunter)/[**MFixedPoint**](https://github.com/gbmhunter/MFixedPoint)|MFixedPoint is a header-only fixed-point C++ library suitable for fast arithmetic operations on systems which don't have a FPU (e.g. embedded systems).. Suitable for performing computationally intensive operations on a computing platform that does not have a floating-point unit (like most smaller embedded systems, such as Cortex-M3, CortexM0, ATmega, PSoC 5, PSoC 5 LP, PSoC 4, Arduino platforms e.t.c). Common applications include BLDC motor control and image processing. Best performance on a 32-bit or higher architecture (although 8-bit architectures should still be fine).||
 |72|[@abhineet123](https://github.com/abhineet123)/[**MTF**](https://github.com/abhineet123/MTF)|Modular Tracking Framework|[:arrow_upper_right:](http://webdocs.cs.ualberta.ca/~vis/mtf/)|
 |70|[@ezaquarii](https://github.com/ezaquarii)/[**bison-flex-cpp-example**](https://github.com/ezaquarii/bison-flex-cpp-example)|GNU Bison and GNU Flex C++ example||
+|70|[@tandasat](https://github.com/tandasat)/[**EopMon**](https://github.com/tandasat/EopMon)|Elevation of privilege detector based on HyperPlatform||
+|69|[@alexismorin](https://github.com/alexismorin)/[**Auto-Lightmap-Adjuster**](https://github.com/alexismorin/Auto-Lightmap-Adjuster)|UE4 & Unity plugin to Automatically adjust lightmap scale for meshes in your scene ||
 |69|[@nayuki](https://github.com/nayuki)/[**Bitcoin-Cryptography-Library**](https://github.com/nayuki/Bitcoin-Cryptography-Library)|Nayuki's implementation of cryptographic primitives used in Bitcoin.|[:arrow_upper_right:](https://www.nayuki.io/page/bitcoin-cryptography-library)|
-|68|[@alexismorin](https://github.com/alexismorin)/[**Auto-Lightmap-Adjuster**](https://github.com/alexismorin/Auto-Lightmap-Adjuster)|UE4 & Unity plugin to Automatically adjust lightmap scale for meshes in your scene ||
-|68|[@tandasat](https://github.com/tandasat)/[**EopMon**](https://github.com/tandasat/EopMon)|Elevation of privilege detector based on HyperPlatform||
-|67|[@marco9999](https://github.com/marco9999)/[**orbum**](https://github.com/marco9999/orbum)|Update PCSX2's codebase to an OOP design and document everything.||
+|69|[@pushrax](https://github.com/pushrax)/[**OpenVR-SpaceCalibrator**](https://github.com/pushrax/OpenVR-SpaceCalibrator)|Use tracked VR devices from one company with any other.||
+|68|[@marco9999](https://github.com/marco9999)/[**orbum**](https://github.com/marco9999/orbum)|Update PCSX2's codebase to an OOP design and document everything.||
 |67|[@paulbovbel](https://github.com/paulbovbel)/[**frontier_exploration**](https://github.com/paulbovbel/frontier_exploration)|ROS Node and Costmap 2D plugin layer for frontier exploration|[:arrow_upper_right:](http://wiki.ros.org/frontier_exploration)|
 |66|[@forhappy](https://github.com/forhappy)/[**c-recipes**](https://github.com/forhappy/c-recipes)|c/c++ language useful recipes||
 |66|[@macournoyer](https://github.com/macournoyer)/[**rbv8**](https://github.com/macournoyer/rbv8)|A Ruby VM running on Google V8 super VM.||
-|64|[@pushrax](https://github.com/pushrax)/[**OpenVR-SpaceCalibrator**](https://github.com/pushrax/OpenVR-SpaceCalibrator)|Use tracked VR devices from one company with any other.||
 |64|[@tzutalin](https://github.com/tzutalin)/[**ros_caffe**](https://github.com/tzutalin/ros_caffe)| :coffee: Integrate Caffe model into ROS||
-|63|[@CedricGuillemet](https://github.com/CedricGuillemet)/[**ImHotKey**](https://github.com/CedricGuillemet/ImHotKey)|Single Header Hotkey editor for dear imgui||
 |63|[@ldionne](https://github.com/ldionne)/[**libawful**](https://github.com/ldionne/libawful)|A collection of awful archetypes to ease the testing of generic C++ libraries||
 |63|[@lemire](https://github.com/lemire)/[**lbimproved**](https://github.com/lemire/lbimproved)|Dynamic Time Warping (DTW) library implementing lower bounds (LB_Keogh, LB_Improved...)||
+|62|[@CedricGuillemet](https://github.com/CedricGuillemet)/[**ImHotKey**](https://github.com/CedricGuillemet/ImHotKey)|Single Header Hotkey editor for dear imgui||
 |62|[@cjcliffe](https://github.com/cjcliffe)/[**CubicVR**](https://github.com/cjcliffe/CubicVR)|CubicVR 3D Engine, C++ version|[:arrow_upper_right:](http://www.cubicvr.org/)|
 |62|[@hoytech](https://github.com/hoytech)/[**ephemerand**](https://github.com/hoytech/ephemerand)|global randomness beacon||
+|61|[@tandasat](https://github.com/tandasat)/[**DebugLogger**](https://github.com/tandasat/DebugLogger)|A software driver that lets you log kernel-mode debug output into a file on Windows.||
 |60|[@dengwirda](https://github.com/dengwirda)/[**jigsaw**](https://github.com/dengwirda/jigsaw)|JIGSAW is a Delaunay-based unstructured mesh generator for two- and three-dimensional geometries.||
 |60|[@jiapei100](https://github.com/jiapei100)/[**VOSM**](https://github.com/jiapei100/VOSM)|Vision Open Statistical Model, namely, ASMs, AAMs|[:arrow_upper_right:](http://www.visionopen.com/download/vosm/)|
-|60|[@tandasat](https://github.com/tandasat)/[**DebugLogger**](https://github.com/tandasat/DebugLogger)|A software driver that lets you log kernel-mode debug output into a file on Windows.||
+|60|[@lemire](https://github.com/lemire)/[**dictionary**](https://github.com/lemire/dictionary)|High-performance dictionary coding||
 |59|[@christopherbatty](https://github.com/christopherbatty)/[**Fluid3D**](https://github.com/christopherbatty/Fluid3D)|A simple 3d grid-based simulator for animating inviscid free surface liquids in irregular domains.||
-|59|[@lemire](https://github.com/lemire)/[**dictionary**](https://github.com/lemire/dictionary)|High-performance dictionary coding||
+|57|[@MarcBoule](https://github.com/MarcBoule)/[**ImpromptuModular**](https://github.com/MarcBoule/ImpromptuModular)|Impromptu Modular - Modules for VCV Rack||
 |57|[@adamstark](https://github.com/adamstark)/[**Sound-Analyser**](https://github.com/adamstark/Sound-Analyser)|A VST/AU Plug-in For Audio Analysis|[:arrow_upper_right:](http://www.adamstark.co.uk/sound-analyser)|
-|56|[@MarcBoule](https://github.com/MarcBoule)/[**ImpromptuModular**](https://github.com/MarcBoule/ImpromptuModular)|Impromptu Modular - Modules for VCV Rack||
+|57|[@tzutalin](https://github.com/tzutalin)/[**OpenCV-RgbdOdometry**](https://github.com/tzutalin/OpenCV-RgbdOdometry)|:snowman: OpenCV RGBD-Odometry (Visual Odometry based RGB-D images)||
 |56|[@kmyid](https://github.com/kmyid)/[**fastMCD**](https://github.com/kmyid/fastMCD)| implementation of the paper "Detection of Moving Objects with Non-stationary Cameras in 5.8ms: Bringing Motion Detection to Your Mobile Device", CVPRW13||
-|56|[@tzutalin](https://github.com/tzutalin)/[**OpenCV-RgbdOdometry**](https://github.com/tzutalin/OpenCV-RgbdOdometry)|:snowman: OpenCV RGBD-Odometry (Visual Odometry based RGB-D images)||
 |53|[@tandasat](https://github.com/tandasat)/[**meow**](https://github.com/tandasat/meow)|nyā||
 |51|[@jacres](https://github.com/jacres)/[**of-ESMShadowMapping**](https://github.com/jacres/of-ESMShadowMapping)|Exponential Shadow Mapping in openFrameworks||
 |51|[@laganiere](https://github.com/laganiere)/[**OpenCV3Cookbook**](https://github.com/laganiere/OpenCV3Cookbook)|Source code for the book OpenCV3 Computer Vision Application Programming Cookbook 2016||
 |50|[@bhagman](https://github.com/bhagman)/[**Tone**](https://github.com/bhagman/Tone)|A Wiring Library to produce square wave tones on arbitrary pins.||
+|49|[@apenwarr](https://github.com/apenwarr)/[**wvtest**](https://github.com/apenwarr/wvtest)|The "as stupid as possible" cross-platform unit testing framework for C, C++, C#, python, and sh.||
 |48|[@BidhanRoy](https://github.com/BidhanRoy)/[**Algorithm-Code-Library**](https://github.com/BidhanRoy/Algorithm-Code-Library)|C++ Algorithm Library.||
-|48|[@apenwarr](https://github.com/apenwarr)/[**wvtest**](https://github.com/apenwarr/wvtest)|The "as stupid as possible" cross-platform unit testing framework for C, C++, C#, python, and sh.||
 |48|[@bcgsc](https://github.com/bcgsc)/[**ntCard**](https://github.com/bcgsc/ntCard)|Estimating k-mer coverage histogram of genomics data|[:arrow_upper_right:](http://www.bcgsc.ca/platform/bioinfo/software/ntcard)|
 |48|[@defuse](https://github.com/defuse)/[**passgen**](https://github.com/defuse/passgen)|A password generator.||
 |47|[@benhj](https://github.com/benhj)/[**knoxcrypt**](https://github.com/benhj/knoxcrypt)|An encrypted filesystem ||
@@ -123,18 +123,17 @@
 |44|[@TechnikEmpire](https://github.com/TechnikEmpire)/[**HttpFilteringEngine**](https://github.com/TechnikEmpire/HttpFilteringEngine)|Transparent filtering TLS proxy.||
 |44|[@nwoltman](https://github.com/nwoltman)/[**srt-to-vtt-cl**](https://github.com/nwoltman/srt-to-vtt-cl)|A command line tool that converts subtitle files from SubRib (.srt) format to WebVTT (.vtt) format||
 |44|[@tandasat](https://github.com/tandasat)/[**RemoteWriteMonitor**](https://github.com/tandasat/RemoteWriteMonitor)|A tool to help malware analysts tell that the sample is injecting code into other process.||
-|43|[@bhagman](https://github.com/bhagman)/[**SoftPWM**](https://github.com/bhagman/SoftPWM)|A Wiring (and Arduino) Library to produce PWM signals on arbitrary pins.||
+|42|[@ArekSredzki](https://github.com/ArekSredzki)/[**dstar-lite**](https://github.com/ArekSredzki/dstar-lite)|A basic implementation of the D* lite algorithm||
 |42|[@SDChain](https://github.com/SDChain)/[**SDChain-Core**](https://github.com/SDChain/SDChain-Core)|Official C++ implementation of the Six Domain Chain ||
 |42|[@ScruffyFurn](https://github.com/ScruffyFurn)/[**SumoDX**](https://github.com/ScruffyFurn/SumoDX)|Demo game created to show how begin Windows Store development using C++/CX and DirectX 11.1||
-|41|[@ArekSredzki](https://github.com/ArekSredzki)/[**dstar-lite**](https://github.com/ArekSredzki/dstar-lite)|A basic implementation of the D* lite algorithm||
-|40|[@Fishrock123](https://github.com/Fishrock123)/[**bob**](https://github.com/Fishrock123/bob)|🚰 binary data "streams+" via data producers, data consumers, and pull flow.||
+|42|[@bhagman](https://github.com/bhagman)/[**SoftPWM**](https://github.com/bhagman/SoftPWM)|A Wiring (and Arduino) Library to produce PWM signals on arbitrary pins.||
+|40|[@CedricGuillemet](https://github.com/CedricGuillemet)/[**imgInspect**](https://github.com/CedricGuillemet/imgInspect)|imgui control to inspect image pixels||
+|40|[@MarcBoule](https://github.com/MarcBoule)/[**Geodesics**](https://github.com/MarcBoule/Geodesics)|Geodesics - A Modular Collection for VCV Rack||
 |40|[@bcgsc](https://github.com/bcgsc)/[**arcs**](https://github.com/bcgsc/arcs)|🌈Scaffold genome sequence assemblies using 10x Genomics data||
 |40|[@pkourany](https://github.com/pkourany)/[**MFRC522_RFID_Library**](https://github.com/pkourany/MFRC522_RFID_Library)|RC522 RFID library adapted for Spark||
 |39|[@AndreLouisCaron](https://github.com/AndreLouisCaron)/[**httpxx**](https://github.com/AndreLouisCaron/httpxx)|C++ wrapper for C-based HTTP parser||
-|39|[@CedricGuillemet](https://github.com/CedricGuillemet)/[**imgInspect**](https://github.com/CedricGuillemet/imgInspect)|imgui control to inspect image pixels||
-|39|[@MarcBoule](https://github.com/MarcBoule)/[**Geodesics**](https://github.com/MarcBoule/Geodesics)|Geodesics - A Modular Collection for VCV Rack||
 |39|[@TechnikEmpire](https://github.com/TechnikEmpire)/[**Divert.Net**](https://github.com/TechnikEmpire/Divert.Net)|.NET Wrapper for WinDivert||
-|38|[@atlas-jj](https://github.com/atlas-jj)/[**ORB_Line_SLAM**](https://github.com/atlas-jj/ORB_Line_SLAM)|line feature based SLAM, modified based on the famous ORB-SLAM2||
+|39|[@atlas-jj](https://github.com/atlas-jj)/[**ORB_Line_SLAM**](https://github.com/atlas-jj/ORB_Line_SLAM)|line feature based SLAM, modified based on the famous ORB-SLAM2||
 |38|[@qgeissmann](https://github.com/qgeissmann)/[**OpenCFU**](https://github.com/qgeissmann/OpenCFU)|An easy-to-use  C++ application to count bacterial colonies (i.e. CFU).|[:arrow_upper_right:](http://opencfu.sourceforge.net)|
 |37|[@jeremyroman](https://github.com/jeremyroman)/[**llvm-brainfuck**](https://github.com/jeremyroman/llvm-brainfuck)|An LLVM-based compiler for Brainfuck.||
 |37|[@stormbrew](https://github.com/stormbrew)/[**cloudbridge**](https://github.com/stormbrew/cloudbridge)|Daemon for zero-configuration management of a heterogeneous cluster of backend web servers and the accompanying libraries.||
@@ -144,19 +143,20 @@
 |36|[@wlach](https://github.com/wlach)/[**wvdial**](https://github.com/wlach/wvdial)|PPP dialer with built-in intelligence|[:arrow_upper_right:](http://alumnit.ca/wiki/index.php?page=WvDial)|
 |35|[@benhj](https://github.com/benhj)/[**bigd**](https://github.com/benhj/bigd)|The big downloader of concurrent downloading||
 |35|[@juhgiyo](https://github.com/juhgiyo)/[**EpLibrary**](https://github.com/juhgiyo/EpLibrary)|Visual C++ Utility Library||
+|35|[@trishume](https://github.com/trishume)/[**PolyMouse**](https://github.com/trishume/PolyMouse)|Fusion of gaze and head tracking for fast & accurate hands-free pointing||
 |34|[@amirbawab](https://github.com/amirbawab)/[**BashClass**](https://github.com/amirbawab/BashClass)|BashClass is an Object Oriented Programming language that compiles to BASH 4.4|[:arrow_upper_right:](https://amirbawab.github.io/BashClass/)|
 |34|[@pkourany](https://github.com/pkourany)/[**RC522_RFID**](https://github.com/pkourany/RC522_RFID)|RC522_RFID library ported to Spark Core with added support for Software SPI||
-|34|[@trishume](https://github.com/trishume)/[**PolyMouse**](https://github.com/trishume/PolyMouse)|Fusion of gaze and head tracking for fast & accurate hands-free pointing||
 |33|[@PortableApps](https://github.com/PortableApps)/[**Toucan**](https://github.com/PortableApps/Toucan)|sync, backup and secure, all in one place|[:arrow_upper_right:](http://portableapps.com/apps/utilities/toucan)|
 |33|[@candu](https://github.com/candu)/[**node-int64-native**](https://github.com/candu/node-int64-native)|A simple uint64_t wrapper for node.js.||
 |33|[@datacratic](https://github.com/datacratic)/[**curlpp**](https://github.com/datacratic/curlpp)|C++ bindings for cURL|[:arrow_upper_right:](http://www.curlpp.org/)|
+|32|[@AttilioProvenzano](https://github.com/AttilioProvenzano)/[**goma-engine**](https://github.com/AttilioProvenzano/goma-engine)| A simple C++ 3D game engine with Vulkan support.||
 |31|[@Engenuics](https://github.com/Engenuics)/[**Razor_Atmel**](https://github.com/Engenuics/Razor_Atmel)|An IAR project comprising of the source code for the Engenuics Razor Atmel development boards||
 |31|[@danijar](https://github.com/danijar)/[**computer-game**](https://github.com/danijar/computer-game)|Data-oriented voxel game engine||
 |31|[@dengwirda](https://github.com/dengwirda)/[**jigsaw-matlab**](https://github.com/dengwirda/jigsaw-matlab)|JIGSAW is a Delaunay-based unstructured mesh generator for two- and three-dimensional geometries.||
+|31|[@perone](https://github.com/perone)/[**nanopipe**](https://github.com/perone/nanopipe)|Nanopipe: connecting the modern babel|[:arrow_upper_right:](http://nanopipe.readthedocs.io)|
 |30|[@caitp](https://github.com/caitp)/[**TwitchSwitcher**](https://github.com/caitp/TwitchSwitcher)|OBS-Studio plugin to switch Twitch.tv game name and channel status automatically||
 |30|[@cujomalainey](https://github.com/cujomalainey)/[**ant-arduino**](https://github.com/cujomalainey/ant-arduino)|An implementation of a ANT network processing UART driver for Arduino||
 |30|[@glmcdona](https://github.com/glmcdona)/[**MALM**](https://github.com/glmcdona/MALM)|MALM: Malware Monitor|[:arrow_upper_right:](http://www.split-code.com/files/malm-v1_2.zip)|
-|30|[@perone](https://github.com/perone)/[**nanopipe**](https://github.com/perone/nanopipe)|Nanopipe: connecting the modern babel|[:arrow_upper_right:](http://nanopipe.readthedocs.io)|
 |30|[@st3fan](https://github.com/st3fan)/[**usbmux-proxy**](https://github.com/st3fan/usbmux-proxy)|Proxy to run on OS X that allows direct communications with iPhone or iPod Touch devices||
 |30|[@tandasat](https://github.com/tandasat)/[**DrvLoader**](https://github.com/tandasat/DrvLoader)|A command line tool to load and unload a device driver.||
 |29|[@bbidulock](https://github.com/bbidulock)/[**blackboxwm**](https://github.com/bbidulock/blackboxwm)|A window manager for X11||
@@ -166,32 +166,32 @@
 |29|[@tzutalin](https://github.com/tzutalin)/[**miniglog**](https://github.com/tzutalin/miniglog)|Portable glog for cross-platforms: Windows, Linux, Android, and iOS||
 |29|[@willyd](https://github.com/willyd)/[**caffe-windows-dependencies**](https://github.com/willyd/caffe-windows-dependencies)|Build scripts to compile caffe dependencies on Windows||
 |29|[@yinyanghu](https://github.com/yinyanghu)/[**RSA**](https://github.com/yinyanghu/RSA)|RSA generator and Digital Signature||
+|28|[@jrmuizel](https://github.com/jrmuizel)/[**memcpy-find**](https://github.com/jrmuizel/memcpy-find)|A tool for finding large memcpy's in llvm ir||
+|28|[@pkourany](https://github.com/pkourany)/[**Adafruit_SSD1306**](https://github.com/pkourany/Adafruit_SSD1306)|Adafruit_SSD1306 library ported for Spark||
 |28|[@pkourany](https://github.com/pkourany)/[**RGBmatrixPanel_IDE**](https://github.com/pkourany/RGBmatrixPanel_IDE)|Adafruit 16x32 and 32x32 RGB LED matrix panel library adapted for Spark||
-|27|[@AttilioProvenzano](https://github.com/AttilioProvenzano)/[**goma-engine**](https://github.com/AttilioProvenzano/goma-engine)| A simple C++ 3D game engine with Vulkan support.||
+|28|[@tandasat](https://github.com/tandasat)/[**DumpVTable**](https://github.com/tandasat/DumpVTable)|Generates a Python script to give public interface names in an ActiveX file to an IDB file.||
 |27|[@TMRh20](https://github.com/TMRh20)/[**AutoAnalogAudio**](https://github.com/TMRh20/AutoAnalogAudio)|Create a wide range of sampling and audio related applications with simple API for onboard DAC (or PWM), ADC, DMA & Timers on Arduino devices (AVR & SAM)|[:arrow_upper_right:](http://tmrh20.github.io/AAAudio)|
 |27|[@ajkhoury](https://github.com/ajkhoury)/[**Dude-Loader**](https://github.com/ajkhoury/Dude-Loader)|Class implementation of PowerLoader injection technique||
 |27|[@dkemp](https://github.com/dkemp)/[**Vulndev**](https://github.com/dkemp/Vulndev)|Vulnerability research and development.||
 |27|[@nVoid](https://github.com/nVoid)/[**Pixel-Packing-Examples**](https://github.com/nVoid/Pixel-Packing-Examples)|Pixel Packing Data Transfer with TouchDesigner, openFrameworks, and Processing||
-|27|[@pkourany](https://github.com/pkourany)/[**Adafruit_SSD1306**](https://github.com/pkourany/Adafruit_SSD1306)|Adafruit_SSD1306 library ported for Spark||
-|27|[@tandasat](https://github.com/tandasat)/[**DumpVTable**](https://github.com/tandasat/DumpVTable)|Generates a Python script to give public interface names in an ActiveX file to an IDB file.||
+|26|[@bbc](https://github.com/bbc)/[**qtff-parameter-editor**](https://github.com/bbc/qtff-parameter-editor)|QuickTime file parameter editor for modifying transfer function, colour primary and matrix characteristics||
 |26|[@beached](https://github.com/beached)/[**daw_json_link**](https://github.com/beached/daw_json_link)|Easy C++ JSON Bindings without the Macro's or Inheritance||
 |26|[@lim0606](https://github.com/lim0606)/[**ndsb**](https://github.com/lim0606/ndsb)|Kaggle NDSB competition with deep learning||
 |25|[@Furkanzmc](https://github.com/Furkanzmc)/[**ofxTextSuite**](https://github.com/Furkanzmc/ofxTextSuite)|Openframeworks Text Manipulation Suite||
-|25|[@bbc](https://github.com/bbc)/[**qtff-parameter-editor**](https://github.com/bbc/qtff-parameter-editor)|QuickTime file parameter editor for modifying transfer function, colour primary and matrix characteristics||
 |24|[@Furkanzmc](https://github.com/Furkanzmc)/[**qutils**](https://github.com/Furkanzmc/qutils)|A set of tools to help Qt mobile development||
 |24|[@apenwarr](https://github.com/apenwarr)/[**wvstreams**](https://github.com/apenwarr/wvstreams)|C++ networking library including UniConf and a convenient D-Bus API|[:arrow_upper_right:](http://code.google.com/p/wvstreams)|
-|24|[@ericmuyser](https://github.com/ericmuyser)/[**proto**](https://github.com/ericmuyser/proto)|Community-driven Google Protobuf definitions for a game client/server. Check profile for associated game server and client.||
+|24|[@ericmuyser](https://github.com/ericmuyser)/[**proto**](https://github.com/ericmuyser/proto)|Community-driven Google Protobuf definitions for a game client/server. Check profile for associated game server and client.|[:arrow_upper_right:](https://discord.gg/hCUG4ZE)|
 |24|[@fire](https://github.com/fire)/[**SensibleEditorSourceCodeAccess**](https://github.com/fire/SensibleEditorSourceCodeAccess)|||
+|24|[@laganiere](https://github.com/laganiere)/[**OpenCV2Cookbook2ndEd**](https://github.com/laganiere/OpenCV2Cookbook2ndEd)|Example programs from the OpenCV2 cookbook 2nd Edition||
 |24|[@lemire](https://github.com/lemire)/[**runningmaxmin**](https://github.com/lemire/runningmaxmin)|Fast maximum-minimum filters implemented in C++||
 |24|[@mohebifar](https://github.com/mohebifar)/[**openbabel-node**](https://github.com/mohebifar/openbabel-node)|OpenBabel Bindings for Node.js||
 |24|[@pkourany](https://github.com/pkourany)/[**clickButton**](https://github.com/pkourany/clickButton)|A button library that handles multi-clicks, long clicks and click-and-hold||
 |23|[@Dooskington](https://github.com/Dooskington)/[**Raycaster**](https://github.com/Dooskington/Raycaster)|:feelsgood: A simple raycasting experiment.||
 |23|[@PhDP](https://github.com/PhDP)/[**alchemy2**](https://github.com/PhDP/alchemy2)|A copy of Alchemy 2, a set of tools to handle Markov Logic Networks.||
+|23|[@beached](https://github.com/beached)/[**json_to_cpp**](https://github.com/beached/json_to_cpp)|Generate C++ class from JSON data||
 |23|[@christopherbatty](https://github.com/christopherbatty)/[**SimplexMesh**](https://github.com/christopherbatty/SimplexMesh)|A simplicial mesh structure that supports general non-manifold meshes and associated data||
 |23|[@forhappy](https://github.com/forhappy)/[**lua-snappy**](https://github.com/forhappy/lua-snappy)|Lua binding of google's snappy compressor.||
-|23|[@laganiere](https://github.com/laganiere)/[**OpenCV2Cookbook2ndEd**](https://github.com/laganiere/OpenCV2Cookbook2ndEd)|Example programs from the OpenCV2 cookbook 2nd Edition||
 |23|[@marco9999](https://github.com/marco9999)/[**Super8_jitcore**](https://github.com/marco9999/Super8_jitcore)|Chip8 emulator with a JIT core (dynamic recompilation, target x86-32)||
-|23|[@nbigaouette](https://github.com/nbigaouette)/[**oclutils**](https://github.com/nbigaouette/oclutils)|C++ OpenCL initialization helper library.||
 |23|[@pkourany](https://github.com/pkourany)/[**Adafruit_mfGFX_Library**](https://github.com/pkourany/Adafruit_mfGFX_Library)|Multifont version of Adafruit_GFX library with Sharp Memory Display drivers and demo||
 |23|[@pkourany](https://github.com/pkourany)/[**JSMNSpark**](https://github.com/pkourany/JSMNSpark)|JSMN is a small JSON parser adapted for the Spark||
 |22|[@PR2](https://github.com/PR2)/[**pr2_controllers**](https://github.com/PR2/pr2_controllers)|The controllers that run in realtime on the PR2 and supporting packages.||
@@ -201,47 +201,48 @@
 |22|[@datacratic](https://github.com/datacratic)/[**hintly_ensemble**](https://github.com/datacratic/hintly_ensemble)|||
 |22|[@dwbuiten](https://github.com/dwbuiten)/[**d2vsource**](https://github.com/dwbuiten/d2vsource)|D2V parser and decoder for VapourSynth||
 |22|[@johnlees](https://github.com/johnlees)/[**seer**](https://github.com/johnlees/seer)|sequence element (kmer) enrichment analysis||
-|22|[@seananderson](https://github.com/seananderson)/[**glmmfields**](https://github.com/seananderson/glmmfields)|R package for Bayesian spatial and spatiotemporal GLMMs with possible extremes||
+|22|[@nbigaouette](https://github.com/nbigaouette)/[**oclutils**](https://github.com/nbigaouette/oclutils)|C++ OpenCL initialization helper library.||
+|22|[@tandasat](https://github.com/tandasat)/[**CVE-2014-0816**](https://github.com/tandasat/CVE-2014-0816)|CVE-2014-0816||
 |22|[@trishume](https://github.com/trishume)/[**SmartGaze**](https://github.com/trishume/SmartGaze)|WIP Open source IR eye tracker for the Eye Tribe tracker hardware||
 |21|[@KleinYuan](https://github.com/KleinYuan)/[**tensorflow-yolo-ios**](https://github.com/KleinYuan/tensorflow-yolo-ios)|Real time object detection demo App with Yolo on iOS based on tensorflow framework||
-|21|[@beached](https://github.com/beached)/[**json_to_cpp**](https://github.com/beached/json_to_cpp)|Generate C++ class from JSON data||
 |21|[@pgoodman](https://github.com/pgoodman)/[**rcu**](https://github.com/pgoodman/rcu)|C++ implementation of RCU based on reference counting and hazard pointers.||
 |21|[@rillian](https://github.com/rillian)/[**webrtc**](https://github.com/rillian/webrtc)|Fork of webrtc.org upstream. Check out into './trunk' before running gclient config. |[:arrow_upper_right:](http://www.webrtc.org/)|
-|21|[@tandasat](https://github.com/tandasat)/[**CVE-2014-0816**](https://github.com/tandasat/CVE-2014-0816)|CVE-2014-0816||
+|21|[@seananderson](https://github.com/seananderson)/[**glmmfields**](https://github.com/seananderson/glmmfields)|R package for Bayesian spatial and spatiotemporal GLMMs with possible extremes||
 |20|[@MarshallOfSound](https://github.com/MarshallOfSound)/[**node-lowlevel-keyboard-hook-win**](https://github.com/MarshallOfSound/node-lowlevel-keyboard-hook-win)|Low level keyboard hook for node.js||
 |20|[@TechnikEmpire](https://github.com/TechnikEmpire)/[**GQ**](https://github.com/TechnikEmpire/GQ)|CSS Selector Engine for Gumbo Parser||
 |20|[@aalex](https://github.com/aalex)/[**toonloop**](https://github.com/aalex/toonloop)|Live animation software|[:arrow_upper_right:](http://www.toonloop.com)|
+|20|[@bcgsc](https://github.com/bcgsc)/[**ntEdit**](https://github.com/bcgsc/ntEdit)|✏️scalable genome assembly polishing||
 |20|[@c-smile](https://github.com/c-smile)/[**cpp-generators**](https://github.com/c-smile/cpp-generators)|Generators/corroutines for C++||
 |20|[@cujomalainey](https://github.com/cujomalainey)/[**antplus-arduino**](https://github.com/cujomalainey/antplus-arduino)|An Implementation of the ANT+ Network on top of ant-arduino||
 |20|[@davidcarne](https://github.com/davidcarne)/[**dismember**](https://github.com/davidcarne/dismember)|Open source reverse-engineering tool, mainly targeted towards embedded systems||
 |20|[@nayuki](https://github.com/nayuki)/[**NetPerSec**](https://github.com/nayuki/NetPerSec)|Nayuki's updated version of NetPerSec.|[:arrow_upper_right:](https://www.nayuki.io/page/netpersec-nayukis-version)|
 |20|[@pyarmak](https://github.com/pyarmak)/[**cmake-gtest-coverage-example**](https://github.com/pyarmak/cmake-gtest-coverage-example)|A sample C++ CMake project demonstrating google testing framework with mocks and coverage.||
 |19|[@ColinGilbert](https://github.com/ColinGilbert)/[**pixeltoaster**](https://github.com/ColinGilbert/pixeltoaster)|Automatically exported from code.google.com/p/pixeltoaster||
+|19|[@NathanUA](https://github.com/NathanUA)/[**ByLabel**](https://github.com/NathanUA/ByLabel)|This is a tool for image and video annotation.||
 |19|[@OnionIoT](https://github.com/OnionIoT)/[**fast-gpio**](https://github.com/OnionIoT/fast-gpio)|Provides access to GPIOs by directly writing to the hw registers, implements sw PWM as well||
 |19|[@audiokinetic](https://github.com/audiokinetic)/[**WwiseUE4Plugin**](https://github.com/audiokinetic/WwiseUE4Plugin)|Repository containing the Unreal Engine 4 plug-in for Wwise||
-|19|[@bcgsc](https://github.com/bcgsc)/[**ntEdit**](https://github.com/bcgsc/ntEdit)|✏️scalable genome assembly polishing||
 |19|[@beached](https://github.com/beached)/[**nodepp**](https://github.com/beached/nodepp)|High level C++ library with a focus on event I/O||
 |19|[@codebrainz](https://github.com/codebrainz)/[**grinder**](https://github.com/codebrainz/grinder)|Simple C++ event loop library||
 |19|[@csabahruska](https://github.com/csabahruska)/[**bullet**](https://github.com/csabahruska/bullet)|Haskell binding for Bullet physics engine||
 |19|[@dengwirda](https://github.com/dengwirda)/[**jigsaw-geo-matlab**](https://github.com/dengwirda/jigsaw-geo-matlab)|JIGSAW(GEO) is an unstructured mesh generator for geoscientific modelling.||
 |19|[@dlitz](https://github.com/dlitz)/[**bitcoin-debian**](https://github.com/dlitz/bitcoin-debian)|Experimental fork of the Debian bitcoin source package from git.debian.org:/git/collab-maint/bitcoin.git||
 |19|[@dude719](https://github.com/dude719)/[**Dude-Loader**](https://github.com/dude719/Dude-Loader)|Class implementation of PowerLoader injection technique||
-|19|[@jrmuizel](https://github.com/jrmuizel)/[**memcpy-find**](https://github.com/jrmuizel/memcpy-find)|||
 |19|[@krrish94](https://github.com/krrish94)/[**ICRA2017**](https://github.com/krrish94/ICRA2017)|Code release for the ICRA 2017 paper "Reconstructing vehicles from a single image: shape priors for road scene understanding"||
 |19|[@luisibanez](https://github.com/luisibanez)/[**ImageReconstruction**](https://github.com/luisibanez/ImageReconstruction)|Reconstruction of 3D volumetric dataset from a collection of 2D slices|[:arrow_upper_right:](http://www.itk.org)|
 |18|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_system_core**](https://github.com/CopperheadOS/platform_system_core)|||
-|18|[@NathanUA](https://github.com/NathanUA)/[**ByLabel**](https://github.com/NathanUA/ByLabel)|This is a tool for image and video annotation.||
 |18|[@bbc](https://github.com/bbc)/[**vc2-reference**](https://github.com/bbc/vc2-reference)|A reference encoder and decoder for SMPTE ST 2042-1 "VC-2 Video Compression"||
 |18|[@benhj](https://github.com/benhj)/[**CryptoStreamPP**](https://github.com/benhj/CryptoStreamPP)|Encrypted, seekable, file streams for C++||
 |18|[@pkourany](https://github.com/pkourany)/[**RGBPongClock**](https://github.com/pkourany/RGBPongClock)|Adaptation of RGBPongClock for Spark Core including webhooks||
 |18|[@priologic](https://github.com/priologic)/[**easyrtc_ie_plugin**](https://github.com/priologic/easyrtc_ie_plugin)|WebRTC Plugin for Internet Explorer|[:arrow_upper_right:](http://www.easyrtc.com)|
 |18|[@rtv](https://github.com/rtv)/[**universe**](https://github.com/rtv/universe)|A very simple multi-agent simulator for exploring emergent flocking behaviour||
+|17|[@Belphemur](https://github.com/Belphemur)/[**AudioEndPointLibrary**](https://github.com/Belphemur/AudioEndPointLibrary)|A library based on DefSound to provides access to Default Sound Devices.||
 |17|[@ColinGilbert](https://github.com/ColinGilbert)/[**noobwerkz-engine**](https://github.com/ColinGilbert/noobwerkz-engine)|My happy playground of programmer fun.||
 |17|[@OpenGamma](https://github.com/OpenGamma)/[**OG-Maths**](https://github.com/OpenGamma/OG-Maths)|||
 |17|[@christopherbatty](https://github.com/christopherbatty)/[**VariationalViscosity3D**](https://github.com/christopherbatty/VariationalViscosity3D)|An implementation of the variational viscosity method from the SCA paper [Batty and Bridson 2008]: "Accurate Viscous Free Surfaces for Buckling,  Coiling, and Rotating Liquids"||
-|16|[@Belphemur](https://github.com/Belphemur)/[**AudioEndPointLibrary**](https://github.com/Belphemur/AudioEndPointLibrary)|A library based on DefSound to provides access to Default Sound Devices.||
 |16|[@PhDP](https://github.com/PhDP)/[**Randamu**](https://github.com/PhDP/Randamu)|Random C code about random stuff||
+|16|[@RobLoach](https://github.com/RobLoach)/[**node-raylib**](https://github.com/RobLoach/node-raylib)|Node.js bindings for Raylib|[:arrow_upper_right:](https://github.com/raysan5/raylib)|
 |16|[@cjdb](https://github.com/cjdb)/[**applied-modern-cpp**](https://github.com/cjdb/applied-modern-cpp)|This is the repository for the C++ course 'Applied Modern C++'||
+|16|[@danijar](https://github.com/danijar)/[**voxel-smoothing-2d**](https://github.com/danijar/voxel-smoothing-2d)|Orientation independent bézier smoothing of voxel grids||
 |16|[@luisibanez](https://github.com/luisibanez)/[**ITK-V3D-Plugins**](https://github.com/luisibanez/ITK-V3D-Plugins)|Plugins for the V3D application, that provide ITK image segmentation and registration functionalities.  Please note that the official repository for this code has now moved to https://svn.janelia.org/penglab/projects/v3d|[:arrow_upper_right:](http://www.itk.org)|
 |16|[@tzutalin](https://github.com/tzutalin)/[**caffe_test**](https://github.com/tzutalin/caffe_test)|:coffee: Include Caffe to predict in C++||
 |16|[@wlach](https://github.com/wlach)/[**wvtftpd**](https://github.com/wlach/wvtftpd)|TFTP Server employing negative latency|[:arrow_upper_right:](http://alumnit.ca/wiki/index.php?page=WvTftp)|
@@ -249,8 +250,6 @@
 |15|[@Nalinc](https://github.com/Nalinc)/[**codefights**](https://github.com/Nalinc/codefights)|repo for my codefight solo solutions||
 |15|[@Ohmnivore](https://github.com/Ohmnivore)/[**FlxSpriter**](https://github.com/Ohmnivore/FlxSpriter)|Tool designed to complement various image-editing software (for spritesheet animators)||
 |15|[@QiMa](https://github.com/QiMa)/[**Cocos2dWindows**](https://github.com/QiMa/Cocos2dWindows)|Cocos2d-x for Windows Phone, built using C++||
-|15|[@RobLoach](https://github.com/RobLoach)/[**node-raylib**](https://github.com/RobLoach/node-raylib)|Node.js bindings for Raylib|[:arrow_upper_right:](https://github.com/raysan5/raylib)|
-|15|[@danijar](https://github.com/danijar)/[**voxel-smoothing-2d**](https://github.com/danijar/voxel-smoothing-2d)|Orientation independent bézier smoothing of voxel grids||
 |15|[@davidcarne](https://github.com/davidcarne)/[**DRCBotV2**](https://github.com/davidcarne/DRCBotV2)|Gerber Design-rule-check bot, as used by SparkFun Electronics||
 |15|[@lemire](https://github.com/lemire)/[**FastShuffleExperiments**](https://github.com/lemire/FastShuffleExperiments)|How fast can we shuffle values?||
 |14|[@SgtCoDFish](https://github.com/SgtCoDFish)/[**AshleyCPP**](https://github.com/SgtCoDFish/AshleyCPP)|A C++ clone of Ashley, a Java entity framework.||
@@ -270,6 +269,7 @@
 |13|[@Furkanzmc](https://github.com/Furkanzmc)/[**ofxActionManager**](https://github.com/Furkanzmc/ofxActionManager)|A port of the action system used by Cocos2dx to openFrameworks||
 |13|[@OnionIoT](https://github.com/OnionIoT)/[**i2c-exp-node-addons**](https://github.com/OnionIoT/i2c-exp-node-addons)|Node.JS modules for the Onion I2C Expansions||
 |13|[@PR2](https://github.com/PR2)/[**pr2_mechanism**](https://github.com/PR2/pr2_mechanism)|Infrastructure to control the PR2 robot in a hard realtime control loop.||
+|13|[@gwihlidal](https://github.com/gwihlidal)/[**dxil-signing**](https://github.com/gwihlidal/dxil-signing)|Utility to sign DXIL code after compilation||
 |13|[@lemire](https://github.com/lemire)/[**PiecewiseLinearTimeSeriesApproximation**](https://github.com/lemire/PiecewiseLinearTimeSeriesApproximation)|code from Daniel Lemire, A Better Alternative to Piecewise Linear Time Series Segmentation, SIAM Data Mining 2007, 2007.||
 |13|[@tandasat](https://github.com/tandasat)/[**hyperplatform_log_parser**](https://github.com/tandasat/hyperplatform_log_parser)|User-mode program parsing logs created by HyperPlatform||
 |12|[@IvanIsCoding](https://github.com/IvanIsCoding)/[**OlympiadSolutions**](https://github.com/IvanIsCoding/OlympiadSolutions)|Solutions to 1500+ problems from DMOJ, SPOJ and URI Online Judge||
@@ -279,12 +279,14 @@
 |12|[@bcaramiaux](https://github.com/bcaramiaux)/[**Myo-maxpd**](https://github.com/bcaramiaux/Myo-maxpd)|MaxMSP and PureData objects to get raw EMG data from the Thalmic Myo||
 |12|[@burtonsamograd](https://github.com/burtonsamograd)/[**anser**](https://github.com/burtonsamograd/anser)|A header only Boolean Propagator Network framework for the omni-directional computation of Integer mathematical functions and computation graph analysis.||
 |12|[@datacratic](https://github.com/datacratic)/[**soa**](https://github.com/datacratic/soa)|Repository for service oriented architecture code and components.||
-|12|[@gwihlidal](https://github.com/gwihlidal)/[**dxil-signing**](https://github.com/gwihlidal/dxil-signing)|Utility to sign DXIL code after compilation||
+|12|[@defuse](https://github.com/defuse)/[**cuda-md5**](https://github.com/defuse/cuda-md5)|Old NVIDIA CUDA implementation of salted MD5 brute-force||
 |12|[@hallamlab](https://github.com/hallamlab)/[**LAST-Plus**](https://github.com/hallamlab/LAST-Plus)|Parallel implementation of the LAST aligner||
 |12|[@iobond](https://github.com/iobond)/[**aib**](https://github.com/iobond/aib)|Advanced Internet Blockchain Technology - Values by multiple blockchain projects|[:arrow_upper_right:](https://www.aib.one)|
 |12|[@mcmachado](https://github.com/mcmachado)/[**b-pro**](https://github.com/mcmachado/b-pro)|||
+|12|[@pkourany](https://github.com/pkourany)/[**I2CDEV_MPU6050**](https://github.com/pkourany/I2CDEV_MPU6050)|I2CDEV MPU6050 Arduino Library adapted for Spark Core||
 |12|[@popekim](https://github.com/popekim)/[**ShaderPrimerKR**](https://github.com/popekim/ShaderPrimerKR)|Source Code for the Korean version of Shader Programming Primer Book. ||
 |12|[@tandasat](https://github.com/tandasat)/[**ListWorkItems**](https://github.com/tandasat/ListWorkItems)|Lists work items being queued currently.|[:arrow_upper_right:](http://standa-note.blogspot.ca/2015/06/reverse-engineering-winbg-for-profit.html)|
+|11|[@Furkanzmc](https://github.com/Furkanzmc)/[**ofxFFmpegRecorder**](https://github.com/Furkanzmc/ofxFFmpegRecorder)|A utility to record video/audio with ffmpeg||
 |11|[@JohnSully](https://github.com/JohnSully)/[**Trinity**](https://github.com/JohnSully/Trinity)|Ternary Computer||
 |11|[@QuLogic](https://github.com/QuLogic)/[**jot-lib**](https://github.com/QuLogic/jot-lib)|C++ libraries for 3D graphics, especially NPR||
 |11|[@TMRh20](https://github.com/TMRh20)/[**AnalogFrequency**](https://github.com/TMRh20/AnalogFrequency)|AC Signal Frequency & Amplitude detection using Arduino ADC||
@@ -295,17 +297,15 @@
 |11|[@brandonto](https://github.com/brandonto)/[**sdl-space-shooter**](https://github.com/brandonto/sdl-space-shooter)|A 2D space shooter written in C++ using SDL2||
 |11|[@codebrainz](https://github.com/codebrainz)/[**GtkScintilla**](https://github.com/codebrainz/GtkScintilla)|A GTK+ based source code editing Widget.|[:arrow_upper_right:](http://codebrainz.github.com/GtkScintilla/)|
 |11|[@csabahruska](https://github.com/csabahruska)/[**proteaaudio**](https://github.com/csabahruska/proteaaudio)|Simple audio library for Windows, Linux, OSX. Supports Ogg and Wav playback and multichannel mixing.||
-|11|[@defuse](https://github.com/defuse)/[**cuda-md5**](https://github.com/defuse/cuda-md5)|Old NVIDIA CUDA implementation of salted MD5 brute-force||
 |11|[@g12mcgov](https://github.com/g12mcgov)/[**Barbeque**](https://github.com/g12mcgov/Barbeque)|A C++ libcurl HTTP Request wrapper to make life easier.||
 |11|[@jts](https://github.com/jts)/[**bam2fastq**](https://github.com/jts/bam2fastq)|Simple convertor from bam to FASTQ||
-|11|[@lemire](https://github.com/lemire)/[**SIMDIntersections**](https://github.com/lemire/SIMDIntersections)|Vectorized intersections (research code)||
 |11|[@perone](https://github.com/perone)/[**shine**](https://github.com/perone/shine)|Shine - A symbolic regression machine||
 |11|[@pkourany](https://github.com/pkourany)/[**Manchester_Library**](https://github.com/pkourany/Manchester_Library)|Manchester library for 315/433Mhz transmitter/receivers adapted for Spark||
 |11|[@pkourany](https://github.com/pkourany)/[**ModBus_RS485_Slave**](https://github.com/pkourany/ModBus_RS485_Slave)|Library for communicating with Modbus devices over RS232/USB/485 via RTU protocol||
+|11|[@pushrax](https://github.com/pushrax)/[**VRC-Knuckles-Emulator**](https://github.com/pushrax/VRC-Knuckles-Emulator)|Natural gestures with Knuckles (aka Index Controllers) in VRChat||
 |11|[@tbl3rd](https://github.com/tbl3rd)/[**Pyramids**](https://github.com/tbl3rd/Pyramids)|Magnify motion in videos with Riesz pyramids.||
 |10|[@BuckeyeSoftware](https://github.com/BuckeyeSoftware)/[**rex**](https://github.com/BuckeyeSoftware/rex)|rex engine and game||
 |10|[@ClassicBitcoins](https://github.com/ClassicBitcoins)/[**classicbitcoin-initialbtcfork**](https://github.com/ClassicBitcoins/classicbitcoin-initialbtcfork)|OBSOLETE Do Not Use. ClassicBitcoin Old Bitcoin fork. All clients must upgrade to the new blockchain. |[:arrow_upper_right:](https://bitclassic.info)|
-|10|[@Furkanzmc](https://github.com/Furkanzmc)/[**ofxFFmpegRecorder**](https://github.com/Furkanzmc/ofxFFmpegRecorder)|A utility to record video/audio with ffmpeg||
 |10|[@JohnSully](https://github.com/JohnSully)/[**modssl**](https://github.com/JohnSully/modssl)|An SSL Module for Redis and KeyDB|[:arrow_upper_right:](https://keydb.dev/)|
 |10|[@LoganBarnes](https://github.com/LoganBarnes)/[**LightBender**](https://github.com/LoganBarnes/LightBender)|A multi-platform, GPU-accelerated, C++ rendering application written around the NVIDIA OptiX Ray Tracing API.||
 |10|[@PR2](https://github.com/PR2)/[**pr2_apps**](https://github.com/PR2/pr2_apps)|||
@@ -318,18 +318,16 @@
 |10|[@gregkepler](https://github.com/gregkepler)/[**CinderPathFitter**](https://github.com/gregkepler/CinderPathFitter)|Path Fitting Algorithm for the Cinder C++ Framework||
 |10|[@hpssjellis](https://github.com/hpssjellis)/[**particle.io-photon-high-school-robotics**](https://github.com/hpssjellis/particle.io-photon-high-school-robotics)|Most of the important files from my High School Robotics course using the particle.io photon a wifi out of the box arduino.|[:arrow_upper_right:](https://hpssjellis.github.io/particle.io-photon-high-school-robotics/)|
 |10|[@krontech](https://github.com/krontech)/[**chronos-cam-app**](https://github.com/krontech/chronos-cam-app)|Chronos Camera App||
+|10|[@lemire](https://github.com/lemire)/[**SIMDIntersections**](https://github.com/lemire/SIMDIntersections)|Vectorized intersections (research code)||
 |10|[@luisibanez](https://github.com/luisibanez)/[**ContourToSurfaceRegistration**](https://github.com/luisibanez/ContourToSurfaceRegistration)|Registration between 2D contour and a 3D image based on ITK|[:arrow_upper_right:](http://www.itk.org)|
 |10|[@marco9999](https://github.com/marco9999)/[**PCSX2_rewrite**](https://github.com/marco9999/PCSX2_rewrite)|Update PCSX2's codebase to an OOP design and document everything.||
 |10|[@maruel](https://github.com/maruel)/[**bolide-esp8266**](https://github.com/maruel/bolide-esp8266)|A automatisable 40$ wifi enabled race car :car:||
 |10|[@nVoid](https://github.com/nVoid)/[**ofxAwesomiumToTD**](https://github.com/nVoid/ofxAwesomiumToTD)|openFrameworks app that renders full webpages and sends them as textures to TouchDesigner via Spout v2.|[:arrow_upper_right:](http://nvoid.com)|
 |10|[@pgoodman](https://github.com/pgoodman)/[**Grail-Plus**](https://github.com/pgoodman/Grail-Plus)|Grail+ is a set of command line tools for manipulating non-deterministic finite automata (NFAs), non-deterministic pushdown automata (PDAs), and context-free grammars (CFGs). Grail+ is built on top of the Formal Language Template Library (FLTL), a library for representing and symbolically manipulating CFGs, NFAs, and PDAs.||
-|10|[@pkourany](https://github.com/pkourany)/[**I2CDEV_MPU6050**](https://github.com/pkourany/I2CDEV_MPU6050)|I2CDEV MPU6050 Arduino Library adapted for Spark Core||
 |10|[@pkourany](https://github.com/pkourany)/[**elapsedMillis**](https://github.com/pkourany/elapsedMillis)|elapsedMillis for Spark||
-|10|[@pushrax](https://github.com/pushrax)/[**VRC-Knuckles-Emulator**](https://github.com/pushrax/VRC-Knuckles-Emulator)|Natural gestures with Knuckles (aka Index Controllers) in VRChat||
 |9|[@CaoManhDat](https://github.com/CaoManhDat)/[**TSP-TabuSearch**](https://github.com/CaoManhDat/TSP-TabuSearch)|Solve Travelling salesman problem using tabu search||
 |9|[@Furkanzmc](https://github.com/Furkanzmc)/[**ofxProjectGenerator**](https://github.com/Furkanzmc/ofxProjectGenerator)|openFrameworks project generator with support for CMake and Qmake||
 |9|[@JeffreyRacine](https://github.com/JeffreyRacine)/[**R-Package-crs**](https://github.com/JeffreyRacine/R-Package-crs)|R package crs (Categorical Regression Splines)|[:arrow_upper_right:](http://www.economics.mcmaster.ca/faculty/racinej)|
-|9|[@KevinHock](https://github.com/KevinHock)/[**blowfish**](https://github.com/KevinHock/blowfish)|||
 |9|[@OnionIoT](https://github.com/OnionIoT)/[**Onion-Arduino-Library**](https://github.com/OnionIoT/Onion-Arduino-Library)|Onion library for use with the Arduino IDE and the Arduino Dock||
 |9|[@SaoYan](https://github.com/SaoYan)/[**VehicleCounting**](https://github.com/SaoYan/VehicleCounting)|This is my implementation of the paper 'Vehicle counting based on double virtual lines'|[:arrow_upper_right:](https://link.springer.com/article/10.1007/s11760-016-1038-7)|
 |9|[@bcgsc](https://github.com/bcgsc)/[**ChopStitch**](https://github.com/bcgsc/ChopStitch)|Finding putative exons and constructing splicegraphs using Trans-ABySS contigs|[:arrow_upper_right:](http://www.bcgsc.ca/platform/bioinfo/software/chopstitch)|
@@ -345,14 +343,13 @@
 |9|[@sinofool](https://github.com/sinofool)/[**xlog**](https://github.com/sinofool/xlog)|A log system, can use hadoop as backend storage.||
 |9|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_htc_pme**](https://github.com/sultanqasim/android_device_htc_pme)|CyanogenMod device tree for HTC 10||
 |9|[@tandasat](https://github.com/tandasat)/[**CheckSDL**](https://github.com/tandasat/CheckSDL)|A tool evaluates security configurations of a given PE based on SDL without source code||
-|9|[@trishume](https://github.com/trishume)/[**PopClick**](https://github.com/trishume/PopClick)|Detecting lip popping noises to trigger an action.||
 |9|[@vonture](https://github.com/vonture)/[**DeferredRenderer**](https://github.com/vonture/DeferredRenderer)|A sample deferred renderer using D3D11.||
 |8|[@AndreLouisCaron](https://github.com/AndreLouisCaron)/[**pcrexx**](https://github.com/AndreLouisCaron/pcrexx)|C++ wrapper for the PCRE library||
 |8|[@Blackaddr](https://github.com/Blackaddr)/[**BALibrary**](https://github.com/Blackaddr/BALibrary)|Provides additional effects and utility classes for use with the Teensy Guitar Audio Pro||
 |8|[@ColinGilbert](https://github.com/ColinGilbert)/[**ozz-assimp-loader**](https://github.com/ColinGilbert/ozz-assimp-loader)|Preps skeletal meshes to ozz-animation format while also creating fast-loading binary of mesh data for your engine||
+|8|[@KevinHock](https://github.com/KevinHock)/[**blowfish**](https://github.com/KevinHock/blowfish)|||
 |8|[@NathanUA](https://github.com/NathanUA)/[**Edge-based-Salient-Boundary-Tracking**](https://github.com/NathanUA/Edge-based-Salient-Boundary-Tracking)|Real-time salient closed boundary tracking using perceptual grouping and shape priors (BMVC 2017)||
 |8|[@PixelClear](https://github.com/PixelClear)/[**Order-Independent-Trasparency**](https://github.com/PixelClear/Order-Independent-Trasparency)|Linked List Based Implementation||
-|8|[@RobLoach](https://github.com/RobLoach)/[**ecwolf**](https://github.com/RobLoach/ecwolf)|Git mirror of ECWolf|[:arrow_upper_right:](https://bitbucket.org/Blzut3/ecwolf)|
 |8|[@RodgerLeblanc](https://github.com/RodgerLeblanc)/[**TheUnexposedAPIs**](https://github.com/RodgerLeblanc/TheUnexposedAPIs)|The Unexposed APIs is a collection of easy-to-implement C++ code snippets built in wrapper classes, every properties and functions are also available in QML so even a developer with almost no experience with C++ will be able to use these classes.||
 |8|[@WeyCoin](https://github.com/WeyCoin)/[**WeyCoin**](https://github.com/WeyCoin/WeyCoin)|Da wae of da coin to show u da wey.|[:arrow_upper_right:](https://weycoin.org)|
 |8|[@aalex](https://github.com/aalex)/[**tempi**](https://github.com/aalex/tempi)|Tempi is a dataflow programming C++ library aimed at multimodal sampling.||
@@ -363,7 +360,7 @@
 |8|[@beached](https://github.com/beached)/[**header_libraries**](https://github.com/beached/header_libraries)|Various header libraries ||
 |8|[@burke](https://github.com/burke)/[**mesos-ruby**](https://github.com/burke/mesos-ruby)|[abandoned] ||
 |8|[@cjcliffe](https://github.com/cjcliffe)/[**beatdetektor-audiolab**](https://github.com/cjcliffe/beatdetektor-audiolab)|Application for researching and improving the BeatDetektor BPM detection algorithm|[:arrow_upper_right:](http://www.beatdetektor.com)|
-|8|[@ericmuyser](https://github.com/ericmuyser)/[**node-flash**](https://github.com/ericmuyser/node-flash)|Library which runs .swf Flash files natively in Node.js|[:arrow_upper_right:](http://eric.muyser.com/work/nodejs)|
+|8|[@ericmuyser](https://github.com/ericmuyser)/[**node-flash**](https://github.com/ericmuyser/node-flash)|Library which runs .swf Flash files natively in Node.js|[:arrow_upper_right:](https://discord.gg/hCUG4ZE)|
 |8|[@fungos](https://github.com/fungos)/[**seed1_demos**](https://github.com/fungos/seed1_demos)|Demos and Samples using Seed Framework|[:arrow_upper_right:](http://www.seedframework.org/)|
 |8|[@fungos](https://github.com/fungos)/[**seed1_tools**](https://github.com/fungos/seed1_tools)|Tools to use with Seed Framework|[:arrow_upper_right:](http://www.seedframework.org/)|
 |8|[@harrybraviner](https://github.com/harrybraviner)/[**PIC18Fprogrammer_for_blog**](https://github.com/harrybraviner/PIC18Fprogrammer_for_blog)|A modification of Jose and Kirill's PIC18F programmer. Includes an example hex file, and removes the test for whether the chip is an 18F2550.||
@@ -374,6 +371,7 @@
 |8|[@mhsjlw](https://github.com/mhsjlw)/[**node-leveldb-mcpe**](https://github.com/mhsjlw/node-leveldb-mcpe)|Node bindings for Mojang's fork of LevelDB||
 |8|[@mojio](https://github.com/mojio)/[**mojio-ios-sdk**](https://github.com/mojio/mojio-ios-sdk)|An ios client to the Mojio API||
 |8|[@rtv](https://github.com/rtv)/[**Antix**](https://github.com/rtv/Antix)|foraging simulator||
+|8|[@trishume](https://github.com/trishume)/[**PopClick**](https://github.com/trishume/PopClick)|Detecting lip popping noises to trigger an action.||
 |8|[@weycoin](https://github.com/weycoin)/[**weycoin**](https://github.com/weycoin/weycoin)|Da wae of da coin to show u da wey.|[:arrow_upper_right:](https://weycoinproject.org)|
 |7|[@AndrewKvalheim](https://github.com/AndrewKvalheim)/[**treemaker**](https://github.com/AndrewKvalheim/treemaker)|A computational origami tool for generating crease patterns from tree diagrams||
 |7|[@CopperheadOS](https://github.com/CopperheadOS)/[**device_lge_bullhead**](https://github.com/CopperheadOS/device_lge_bullhead)|||
@@ -383,15 +381,18 @@
 |7|[@PR2](https://github.com/PR2)/[**pr2_ethercat_drivers**](https://github.com/PR2/pr2_ethercat_drivers)|Drivers for the ethercat system and the peripherals on the PR2.||
 |7|[@PixelClear](https://github.com/PixelClear)/[**ComputeTracer**](https://github.com/PixelClear/ComputeTracer)|Compute Shader Based Ray Tracer||
 |7|[@PixelClear](https://github.com/PixelClear)/[**Deferred-renderer**](https://github.com/PixelClear/Deferred-renderer)|Deferred Renderer with many point lights||
+|7|[@RobLoach](https://github.com/RobLoach)/[**ecwolf**](https://github.com/RobLoach/ecwolf)|Git mirror of ECWolf|[:arrow_upper_right:](https://bitbucket.org/Blzut3/ecwolf)|
 |7|[@ScruffyFurn](https://github.com/ScruffyFurn)/[**SumoDX2**](https://github.com/ScruffyFurn/SumoDX2)|||
 |7|[@apenwarr](https://github.com/apenwarr)/[**jfauth**](https://github.com/apenwarr/jfauth)|Just Fast Authentication - an auth daemon with a PAM client that talks to it, and replication over SSL.||
 |7|[@arthurpham](https://github.com/arthurpham)/[**quantlib-full**](https://github.com/arthurpham/quantlib-full)|Unofficial QuantLib mirror that replicates the entire https://quantlib.svn.sourceforge.net/svnroot/quantlib/ Check continuous integration at https://travis-ci.org/arthurpham/quantlib-full|[:arrow_upper_right:](http://quantlib.org)|
 |7|[@bbc](https://github.com/bbc)/[**bbcat-base**](https://github.com/bbc/bbcat-base)|Base library for the BBC Audio Toolbox||
 |7|[@bbc](https://github.com/bbc)/[**vampeyer**](https://github.com/bbc/vampeyer)|A program and plugin framework for generating images from audio files, using Vamp audio analysis plugins||
 |7|[@benfred](https://github.com/benfred)/[**nmsbind**](https://github.com/benfred/nmsbind)|nmsbind: pybind11 bindings for the Non-Metric Space Library (NMSLIB)||
+|7|[@bhagman](https://github.com/bhagman)/[**WireData**](https://github.com/bhagman/WireData)|Send data via I2C/TWI, using the Wire library.||
 |7|[@codebrainz](https://github.com/codebrainz)/[**libutfxx**](https://github.com/codebrainz/libutfxx)|C++ UTF encoding conversion routines||
 |7|[@codyd51](https://github.com/codyd51)/[**asmblr**](https://github.com/codyd51/asmblr)|Assembly goes in, executables come out. You can't explain that!||
 |7|[@coveo](https://github.com/coveo)/[**Blitz2018**](https://github.com/coveo/Blitz2018)|The CoveoBlitz 2018 backend ||
+|7|[@darienmt](https://github.com/darienmt)/[**CarND-Extended-Kalman-Filter-P1**](https://github.com/darienmt/CarND-Extended-Kalman-Filter-P1)|Udacity Self-Driving Car Nanodegree - Extended Kalman Filter implementation||
 |7|[@datacratic](https://github.com/datacratic)/[**protobuf**](https://github.com/datacratic/protobuf)|Google's Protocol Buffers|[:arrow_upper_right:](http://code.google.com/p/protobuf/)|
 |7|[@dude719](https://github.com/dude719)/[**IDA_WaitBoxEx-7.0**](https://github.com/dude719/IDA_WaitBoxEx-7.0)|||
 |7|[@errordeveloper](https://github.com/errordeveloper)/[**qpd**](https://github.com/errordeveloper/qpd)|Pure Data QT interface||
@@ -423,7 +424,6 @@
 |6|[@WilsonWangTHU](https://github.com/WilsonWangTHU)/[**pedestrian-detection-thu2015**](https://github.com/WilsonWangTHU/pedestrian-detection-thu2015)|||
 |6|[@ajkhoury](https://github.com/ajkhoury)/[**IDA_WaitBoxEx-7.0**](https://github.com/ajkhoury/IDA_WaitBoxEx-7.0)|||
 |6|[@bbc](https://github.com/bbc)/[**bbcat-dsp**](https://github.com/bbc/bbcat-dsp)|DSP library for the BBC Audio Toolbox||
-|6|[@bhagman](https://github.com/bhagman)/[**WireData**](https://github.com/bhagman/WireData)|Send data via I2C/TWI, using the Wire library.||
 |6|[@christopherbatty](https://github.com/christopherbatty)/[**VariationalViscosity2D**](https://github.com/christopherbatty/VariationalViscosity2D)|A 2D implementation of the SCA 2008 paper "Accurate Viscous Free Surfaces[...]" by Batty & Bridson.||
 |6|[@dynamsoft-dwt](https://github.com/dynamsoft-dwt)/[**cplusplus-webcam-barcode-reader**](https://github.com/dynamsoft-dwt/cplusplus-webcam-barcode-reader)|||
 |6|[@eoscanada](https://github.com/eoscanada)/[**shine**](https://github.com/eoscanada/shine)|||
@@ -442,10 +442,10 @@
 |6|[@pkourany](https://github.com/pkourany)/[**DigoleGeo**](https://github.com/pkourany/DigoleGeo)|Digole for Spark Core with adapted UTFT Geometry library||
 |6|[@pkourany](https://github.com/pkourany)/[**FreqPeriodCounter**](https://github.com/pkourany/FreqPeriodCounter)|Frequency and Period Counter library adapted for Spark||
 |6|[@polymonster](https://github.com/polymonster)/[**pmtech**](https://github.com/polymonster/pmtech)|Lightweight, cross platform, multithreaded game engine||
+|6|[@r1cebank](https://github.com/r1cebank)/[**ofxMMDX**](https://github.com/r1cebank/ofxMMDX)|Miku Miku Dance on openframeworks||
 |6|[@ricmoo](https://github.com/ricmoo)/[**GMClipper**](https://github.com/ricmoo/GMClipper)|An Objective-C wrapper for the Clipper polygon clipping and offsetting library.||
 |6|[@themaplelab](https://github.com/themaplelab)/[**swan**](https://github.com/themaplelab/swan)|A Swift Program Analysis Framework||
 |6|[@thestinger](https://github.com/thestinger)/[**util**](https://github.com/thestinger/util)|various utility functions and classes||
-|6|[@tzutalin](https://github.com/tzutalin)/[**ros_sample_image_transport**](https://github.com/tzutalin/ros_sample_image_transport)|ROS Receive and publish different topics about image||
 |6|[@yasith](https://github.com/yasith)/[**Problems**](https://github.com/yasith/Problems)|Solutions for coding problems from various contests. (UVa/TopCoder/USACO/CodeForces/CodeJam)||
 |5|[@AerialX](https://github.com/AerialX)/[**libbricks**](https://github.com/AerialX/libbricks)|When you see it, you'll shit bricks.||
 |5|[@Alictronix](https://github.com/Alictronix)/[**Lora_ESP32_OLED_Tx_Rx**](https://github.com/Alictronix/Lora_ESP32_OLED_Tx_Rx)|||
@@ -481,6 +481,7 @@
 |5|[@kintel](https://github.com/kintel)/[**QOsgWidget**](https://github.com/kintel/QOsgWidget)|A cleaner Qt widget for OpenSceneGraph||
 |5|[@ldionne](https://github.com/ldionne)/[**duck**](https://github.com/ldionne/duck)|A template metaprogramming library for concept-based overloading in C++11.||
 |5|[@ldionne](https://github.com/ldionne)/[**react**](https://github.com/ldionne/react)|A C++11 framework for incremental computation.||
+|5|[@lemire](https://github.com/lemire)/[**iossimdjson**](https://github.com/lemire/iossimdjson)|ios app to benchmark simdjson||
 |5|[@lemire](https://github.com/lemire)/[**vectorclass**](https://github.com/lemire/vectorclass)|Random number generator for large applications using vector instructions||
 |5|[@lxfontes](https://github.com/lxfontes)/[**lbtt**](https://github.com/lxfontes/lbtt)|Bittorrent Tracker using Google's v8 engine|[:arrow_upper_right:](http://www.thetorrentbot.com/)|
 |5|[@mcmachado](https://github.com/mcmachado)/[**ALEResearch**](https://github.com/mcmachado/ALEResearch)|||
@@ -495,7 +496,6 @@
 |5|[@pkourany](https://github.com/pkourany)/[**One-Wire_18B20_Sensor**](https://github.com/pkourany/One-Wire_18B20_Sensor)|18B20 temperature sensor demo using One-Wire library||
 |5|[@pkourany](https://github.com/pkourany)/[**SharpMemFRAM**](https://github.com/pkourany/SharpMemFRAM)|Sharp Memory display driver using only FRAM as display buffer||
 |5|[@purnimamehta](https://github.com/purnimamehta)/[**Articles-n-Algorithms**](https://github.com/purnimamehta/Articles-n-Algorithms)|Interesting papers and algorithms||
-|5|[@r1cebank](https://github.com/r1cebank)/[**ofxMMDX**](https://github.com/r1cebank/ofxMMDX)|Miku Miku Dance on openframeworks||
 |5|[@rtv](https://github.com/rtv)/[**autolab-fasr**](https://github.com/rtv/autolab-fasr)|Autolab experiment: Fast and Frugal Sustain and Resupply, robot controllers and worldfiles|[:arrow_upper_right:](http://rtv.github.com/autolab-fasr/)|
 |5|[@rudolfolah](https://github.com/rudolfolah)/[**learning-jsoncpp**](https://github.com/rudolfolah/learning-jsoncpp)|experimenting with C++ and JsonCpp to serialize/deserialize classes to and from JSON format||
 |5|[@sjackman](https://github.com/sjackman)/[**fastgtools**](https://github.com/sjackman/fastgtools)|Tools to manipulate FASTG files|[:arrow_upper_right:](http://fastg.sourceforge.net)|
@@ -505,6 +505,7 @@
 |5|[@tbl3rd](https://github.com/tbl3rd)/[**opencv-tutorials**](https://github.com/tbl3rd/opencv-tutorials)|Work through some of the OpenCV tutorials.||
 |5|[@trishume](https://github.com/trishume)/[**PolyType**](https://github.com/trishume/PolyType)|Firmware for my custom keyboard running on the Teensy 3.1||
 |5|[@trishume](https://github.com/trishume)/[**SmartHeadTracker**](https://github.com/trishume/SmartHeadTracker)|WIP OpenCV webcam head tracker based on coloured markers||
+|5|[@tzutalin](https://github.com/tzutalin)/[**ros_sample_image_transport**](https://github.com/tzutalin/ros_sample_image_transport)|ROS Receive and publish different topics about image||
 |5|[@vexparadox](https://github.com/vexparadox)/[**Axilya**](https://github.com/vexparadox/Axilya)|A light weight 2D C++ game development library|[:arrow_upper_right:](http://axilya.com)|
 |5|[@wlach](https://github.com/wlach)/[**retchmail**](https://github.com/wlach/retchmail)|Stupidly fast POP3 retriever|[:arrow_upper_right:](http://alumnit.ca/wiki/index.php?page=RetchMail)|
 |4|[@46bit](https://github.com/46bit)/[**uarm-quickstart**](https://github.com/46bit/uarm-quickstart)|Programming examples for the µArm robot arm.||
@@ -551,6 +552,7 @@
 |4|[@coveo](https://github.com/coveo)/[**lazy**](https://github.com/coveo/lazy)|C++14 associative containers that perform lazy sorting|[:arrow_upper_right:](https://coveo.github.io/lazy)|
 |4|[@danielsnider](https://github.com/danielsnider)/[**structured-OCR**](https://github.com/danielsnider/structured-OCR)|Algorithms to understand structure of tables in images and perform OCR||
 |4|[@dankelley](https://github.com/dankelley)/[**gri**](https://github.com/dankelley/gri)|gri graphics language|[:arrow_upper_right:](http://gri.sourceforge.net/)|
+|4|[@darienmt](https://github.com/darienmt)/[**CarND-MPC-Project-P5**](https://github.com/darienmt/CarND-MPC-Project-P5)|Udacity Self-Driving Car Nanodegree - Model Predictive Control (MPC) Project||
 |4|[@datacratic](https://github.com/datacratic)/[**mongo-cxx-driver**](https://github.com/datacratic/mongo-cxx-driver)|||
 |4|[@davideanastasia](https://github.com/davideanastasia)/[**coding-exercises**](https://github.com/davideanastasia/coding-exercises)|Coding experiments: it is always good to make exercises because, soon or later, they will be useful!||
 |4|[@davideanastasia](https://github.com/davideanastasia)/[**intel-tbb-experiments**](https://github.com/davideanastasia/intel-tbb-experiments)|A collection of experiments using Intel Threading Blocks (TBB)||
@@ -567,7 +569,6 @@
 |4|[@laganiere](https://github.com/laganiere)/[**OpenCV2Cookbook**](https://github.com/laganiere/OpenCV2Cookbook)|||
 |4|[@ldionne](https://github.com/ldionne)/[**hawick_circuits**](https://github.com/ldionne/hawick_circuits)|Implementation of an algorithm to find all the elementary circuits in a directed (multi)graph.||
 |4|[@lemire](https://github.com/lemire)/[**iosbitmapdecoding**](https://github.com/lemire/iosbitmapdecoding)|Experimenting with bitmap decoding on ios ||
-|4|[@lemire](https://github.com/lemire)/[**iossimdjson**](https://github.com/lemire/iossimdjson)|ios app to benchmark simdjson||
 |4|[@lf-](https://github.com/lf-)/[**mediapad**](https://github.com/lf-/mediapad)|A *tiny* piece of code for implementing a media keypad/macropad with an arduino and a cheap keypad||
 |4|[@luisibanez](https://github.com/luisibanez)/[**CommunityAnalyzer**](https://github.com/luisibanez/CommunityAnalyzer)|Scripts for analyzing community activity and structure||
 |4|[@luisibanez](https://github.com/luisibanez)/[**ITKWebPImageIO**](https://github.com/luisibanez/ITKWebPImageIO)|ITK Support for reading and writing WebP images|[:arrow_upper_right:](http://www.itk.org)|

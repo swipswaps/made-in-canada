@@ -5,7 +5,6 @@
 |8|[@DigitalState](https://github.com/DigitalState)/[**Services**](https://github.com/DigitalState/Services)|The DigitalState Services Microservice||
 |6|[@DigitalState](https://github.com/DigitalState)/[**Authentication**](https://github.com/DigitalState/Authentication)|The DigitalState Authentication Microservice||
 |4|[@DigitalState](https://github.com/DigitalState)/[**Cms**](https://github.com/DigitalState/Cms)|The DigitalState Cms Microservice||
-|4|[@DigitalState](https://github.com/DigitalState)/[**Identities**](https://github.com/DigitalState/Identities)|The DigitalState Identities Microservice||
 |3|[@DigitalState](https://github.com/DigitalState)/[**Cases**](https://github.com/DigitalState/Cases)|The DigitalState Cases Microservice||
 |3|[@DigitalState](https://github.com/DigitalState)/[**Records**](https://github.com/DigitalState/Records)|The DigitalState Records Microservice||
 |3|[@ankyra](https://github.com/ankyra)/[**escape-integration-tests**](https://github.com/ankyra/escape-integration-tests)|Integration tests for Escape and the Escape Inventory||

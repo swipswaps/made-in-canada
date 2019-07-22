@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2109|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
-|322|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
-|105|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/library/composer/)|
-|74|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
+|2108|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
+|321|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
+|104|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/library/composer/)|
+|76|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
 |40|[@sjackman](https://github.com/sjackman)/[**lambdar**](https://github.com/sjackman/lambdar)|ƛR: Run R on AWS Lambda|[:arrow_upper_right:](http://lambdar.sjackman.ca/?e=stem(rnorm(100)))|
 |39|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_build**](https://github.com/CopperheadOS/platform_build)|||
 |36|[@RobLoach](https://github.com/RobLoach)/[**base16-geany**](https://github.com/RobLoach/base16-geany)|:crystal_ball: Base16 Scheme for Geany|[:arrow_upper_right:](https://github.com/chriskempson/base16)|
-|30|[@tj](https://github.com/tj)/[**make**](https://github.com/tj/make)|Makefiles||
+|29|[@tj](https://github.com/tj)/[**make**](https://github.com/tj/make)|Makefiles||
 |28|[@pramsey](https://github.com/pramsey)/[**pgsql-addressing-dictionary**](https://github.com/pramsey/pgsql-addressing-dictionary)|TSearch dictionaries for addresses ||
 |27|[@jasonish](https://github.com/jasonish)/[**docker-snort**](https://github.com/jasonish/docker-snort)|[ARCHIVED] A ready to run Snort and PulledPork docker image.||
 |22|[@sjackman](https://github.com/sjackman)/[**docker-bio**](https://github.com/sjackman/docker-bio)|Docker images of bioinformatics software||
@@ -43,6 +43,7 @@
 |4|[@karnauskas](https://github.com/karnauskas)/[**openwrt-mdns-repeater**](https://github.com/karnauskas/openwrt-mdns-repeater)|mdns-repeater build for OpenWrt||
 |4|[@mabgnu](https://github.com/mabgnu)/[**dotfiles**](https://github.com/mabgnu/dotfiles)|[OUTDATED] repository now located at https://git.sr.ht/~bandali/dotfiles||
 |4|[@sjackman](https://github.com/sjackman)/[**picea-glauca-mitochondrion**](https://github.com/sjackman/picea-glauca-mitochondrion)|Mitochondrial genome of white spruce (Picea glauca)|[:arrow_upper_right:](http://www.ncbi.nlm.nih.gov/nuccore/LKAM00000000)|
+|4|[@sjourdan](https://github.com/sjourdan)/[**toolbox**](https://github.com/sjourdan/toolbox)|a container with some utilities to use anywhere (CoreOS included)|[:arrow_upper_right:](https://hub.docker.com/r/sjourdan/toolbox)|
 |4|[@tj](https://github.com/tj)/[**foo**](https://github.com/tj/foo)|||
 |3|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_system_sepolicy**](https://github.com/CopperheadOS/platform_system_sepolicy)|||
 |3|[@anarsoul](https://github.com/anarsoul)/[**rtl8723bt-firmware**](https://github.com/anarsoul/rtl8723bt-firmware)|Firmware for rtl8723bs and rtl8723cs||
@@ -55,7 +56,6 @@
 |3|[@sjackman](https://github.com/sjackman)/[**linuxbrew-slides**](https://github.com/sjackman/linuxbrew-slides)|Linuxbrew and Homebrew-Science|[:arrow_upper_right:](http://sjackman.ca/linuxbrew-slides/)|
 |3|[@sjackman](https://github.com/sjackman)/[**pgmtdna**](https://github.com/sjackman/pgmtdna)|:evergreen_tree: Annotate the mitochondrial genome of white spruce (Picea glauca)|[:arrow_upper_right:](http://www.ncbi.nlm.nih.gov/nuccore/LKAM00000000)|
 |3|[@sjackman](https://github.com/sjackman)/[**picea-sitchensis-mitochondrion**](https://github.com/sjackman/picea-sitchensis-mitochondrion)|🌲 Mitochondrial genome of Sitka spruce (Picea sitchensis)||
-|3|[@sjourdan](https://github.com/sjourdan)/[**toolbox**](https://github.com/sjourdan/toolbox)|a container with some utilities to use anywhere (CoreOS included)|[:arrow_upper_right:](https://hub.docker.com/r/sjourdan/toolbox)|
 |3|[@snormore](https://github.com/snormore)/[**kperf**](https://github.com/snormore/kperf)|Run a suite of network performance tests between a given client/server pair.||
 |3|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_otus**](https://github.com/sultanqasim/android_device_motorola_otus)|Device tree for Motorola Styx 3G||
 |3|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_xiaomi_hennessy**](https://github.com/sultanqasim/android_device_xiaomi_hennessy)|TWRP Tree for Redmi Note 3 (Mediatek)||

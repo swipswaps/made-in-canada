@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|211|[@amlwwalker](https://github.com/amlwwalker)/[**got-qt**](https://github.com/amlwwalker/got-qt)|A framework for building cross platform GUI interfaces in Go and QML||
+|212|[@amlwwalker](https://github.com/amlwwalker)/[**got-qt**](https://github.com/amlwwalker/got-qt)|A framework for building cross platform GUI interfaces in Go and QML||
 |107|[@Furkanzmc](https://github.com/Furkanzmc)/[**QML-UI-Animations**](https://github.com/Furkanzmc/QML-UI-Animations)|QML implementations of various UI concepts by various artists||
-|98|[@Furkanzmc](https://github.com/Furkanzmc)/[**QML-Loaders**](https://github.com/Furkanzmc/QML-Loaders)|Loading animation implementations in QML||
+|100|[@Furkanzmc](https://github.com/Furkanzmc)/[**QML-Loaders**](https://github.com/Furkanzmc/QML-Loaders)|Loading animation implementations in QML||
 |74|[@Zren](https://github.com/Zren)/[**plasma-applet-eventcalendar**](https://github.com/Zren/plasma-applet-eventcalendar)||[:arrow_upper_right:](https://store.kde.org/p/998901/)|
 |22|[@Furkanzmc](https://github.com/Furkanzmc)/[**Everyday-QML**](https://github.com/Furkanzmc/Everyday-QML)|This is a repository in which I store my QML examples that I do (hopefully) everyday||
 |20|[@Zren](https://github.com/Zren)/[**plasma-applet-tiledmenu**](https://github.com/Zren/plasma-applet-tiledmenu)||[:arrow_upper_right:](https://store.kde.org/p/1160672/)|

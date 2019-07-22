@@ -1,14 +1,14 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|176|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
+|177|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
 |153|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
 |131|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
 |130|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
 |106|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
 |105|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
 |102|[@larrytheliquid](https://github.com/larrytheliquid)/[**Lemmachine**](https://github.com/larrytheliquid/Lemmachine)|REST'ful web framework in Agda||
-|76|[@zhangchiqing](https://github.com/zhangchiqing)/[**beginner-friendly-haskell-for-web-development**](https://github.com/zhangchiqing/beginner-friendly-haskell-for-web-development)|A book about real world web development in beginner friendly Haskell||
-|65|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
+|74|[@zhangchiqing](https://github.com/zhangchiqing)/[**beginner-friendly-haskell-for-web-development**](https://github.com/zhangchiqing/beginner-friendly-haskell-for-web-development)|A book about real world web development in beginner friendly Haskell||
+|67|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
 |53|[@thephoeron](https://github.com/thephoeron)/[**quipper-language**](https://github.com/thephoeron/quipper-language)|Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)||
 |47|[@csabahruska](https://github.com/csabahruska)/[**jhc-components**](https://github.com/csabahruska/jhc-components)|JHC Haskell compiler split into reusable components||
 |41|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm**](https://github.com/JoeyEremondi/haskelm)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
@@ -19,7 +19,7 @@
 |25|[@csabahruska](https://github.com/csabahruska)/[**gpipe-quake3**](https://github.com/csabahruska/gpipe-quake3)|Quake 3 map viewer in Haskell using GPipe|[:arrow_upper_right:](https://wiki.haskell.org/GPipe)|
 |23|[@singpolyma](https://github.com/singpolyma)/[**unexceptionalio**](https://github.com/singpolyma/unexceptionalio)|IO without any PseudoExceptions|[:arrow_upper_right:](http://hackage.haskell.org/package/unexceptionalio)|
 |19|[@PhDP](https://github.com/PhDP)/[**Faun**](https://github.com/PhDP/Faun)|Experimental ML/AI code||
-|17|[@Aiden01](https://github.com/Aiden01)/[**iris-lang**](https://github.com/Aiden01/iris-lang)|A simple programing language for my own learning||
+|16|[@Aiden01](https://github.com/Aiden01)/[**iris-lang**](https://github.com/Aiden01/iris-lang)|A simple programing language for my own learning||
 |16|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm-old**](https://github.com/JoeyEremondi/haskelm-old)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
 |16|[@WillSewell](https://github.com/WillSewell)/[**benchpress**](https://github.com/WillSewell/benchpress)|Micro-benchmarking of Haskell code with detailed execution time statistics.||
 |15|[@fosskers](https://github.com/fosskers)/[**vectortiles**](https://github.com/fosskers/vectortiles)|A native Haskell codec for Mapbox Vector Tiles.||
@@ -76,6 +76,7 @@
 |5|[@larrytheliquid](https://github.com/larrytheliquid)/[**pigit**](https://github.com/larrytheliquid/pigit)|seeing what Epigram looks like after a darcs-fastconvert (NOT AN OFFICIAL MIRROR)||
 |5|[@larrytheliquid](https://github.com/larrytheliquid)/[**uAgda**](https://github.com/larrytheliquid/uAgda)|[UNOFFICIAL FORK] Making uAgda work with ghc 7.4.1|[:arrow_upper_right:](http://hackage.haskell.org/package/uAgda)|
 |5|[@singpolyma](https://github.com/singpolyma)/[**OpenPGP-CryptoAPI**](https://github.com/singpolyma/OpenPGP-CryptoAPI)|Implementation of cryptography for use with OpenPGP using the crypto-api libraries||
+|4|[@csabahruska](https://github.com/csabahruska)/[**p4f-control-flow-analysis**](https://github.com/csabahruska/p4f-control-flow-analysis)|Haskell implementation of P4F Control-Flow Analysis||
 |4|[@fosskers](https://github.com/fosskers)/[**servant-xml**](https://github.com/fosskers/servant-xml)|Servant support for the XML Content-Type.||
 |4|[@levex](https://github.com/levex)/[**wacc**](https://github.com/levex/wacc)|A compiler for a language, see the operating system kernel written in it: https://github.com/levex/wacc-os||
 |4|[@singpolyma](https://github.com/singpolyma)/[**plivo-haskell**](https://github.com/singpolyma/plivo-haskell)|Plivo API wrapper for Haskell||
