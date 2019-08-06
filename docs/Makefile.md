@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |2108|[@gaearon](https://github.com/gaearon)/[**react-makes-you-sad**](https://github.com/gaearon/react-makes-you-sad)|Here’s a flowchart to make you happy again!||
-|321|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
+|322|[@tj](https://github.com/tj)/[**react-fatigue-dev**](https://github.com/tj/react-fatigue-dev)|Module of modules for making modules||
 |104|[@RobLoach](https://github.com/RobLoach)/[**docker-composer**](https://github.com/RobLoach/docker-composer)|:ok_woman: Docker container to install and run Composer.|[:arrow_upper_right:](https://hub.docker.com/r/library/composer/)|
-|76|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
+|77|[@OnionIoT](https://github.com/OnionIoT)/[**OpenWRT-Packages**](https://github.com/OnionIoT/OpenWRT-Packages)|Onion Packages Feed for OpenWRT||
 |40|[@sjackman](https://github.com/sjackman)/[**lambdar**](https://github.com/sjackman/lambdar)|ƛR: Run R on AWS Lambda|[:arrow_upper_right:](http://lambdar.sjackman.ca/?e=stem(rnorm(100)))|
 |39|[@CopperheadOS](https://github.com/CopperheadOS)/[**platform_build**](https://github.com/CopperheadOS/platform_build)|||
-|36|[@RobLoach](https://github.com/RobLoach)/[**base16-geany**](https://github.com/RobLoach/base16-geany)|:crystal_ball: Base16 Scheme for Geany|[:arrow_upper_right:](https://github.com/chriskempson/base16)|
+|35|[@RobLoach](https://github.com/RobLoach)/[**base16-geany**](https://github.com/RobLoach/base16-geany)|:crystal_ball: Base16 Scheme for Geany|[:arrow_upper_right:](https://github.com/chriskempson/base16)|
 |29|[@tj](https://github.com/tj)/[**make**](https://github.com/tj/make)|Makefiles||
 |28|[@pramsey](https://github.com/pramsey)/[**pgsql-addressing-dictionary**](https://github.com/pramsey/pgsql-addressing-dictionary)|TSearch dictionaries for addresses ||
 |27|[@jasonish](https://github.com/jasonish)/[**docker-snort**](https://github.com/jasonish/docker-snort)|[ARCHIVED] A ready to run Snort and PulledPork docker image.||
@@ -26,11 +26,10 @@
 |9|[@oncletom](https://github.com/oncletom)/[**coursera-ml**](https://github.com/oncletom/coursera-ml)|Setup to evolve through the Machine Learning course.||
 |8|[@jasonish](https://github.com/jasonish)/[**suricata-rpms**](https://github.com/jasonish/suricata-rpms)|Suricata RPMs for CentOS/EL|[:arrow_upper_right:](http://codemonkey.net/suricata-rpms/)|
 |7|[@KleinYuan](https://github.com/KleinYuan)/[**train-crfasrnn**](https://github.com/KleinYuan/train-crfasrnn)|Detailed guide to help you understand how to train CRF as RNN||
+|7|[@ReturnInfinity](https://github.com/ReturnInfinity)/[**BareMetal-newlib**](https://github.com/ReturnInfinity/BareMetal-newlib)|newlib for BareMetal||
 |7|[@kaustavha](https://github.com/kaustavha)/[**luvit-docs**](https://github.com/kaustavha/luvit-docs)|Documentation for the luvit api||
-|7|[@maruel](https://github.com/maruel)/[**hugo-tidy**](https://github.com/maruel/hugo-tidy)|Docker image to generate the fastest (minified, gzipped) web site via Hugo||
 |7|[@seananderson](https://github.com/seananderson)/[**ggplot2-FISH554**](https://github.com/seananderson/ggplot2-FISH554)|Course notes and exercises on ggplot2 for the FISH554 class at the University of Washington||
 |6|[@AmarOk1412](https://github.com/AmarOk1412)/[**RORI**](https://github.com/AmarOk1412/RORI)|a modulable chatterbot platform|[:arrow_upper_right:](https://enconn.fr/rori)|
-|6|[@ReturnInfinity](https://github.com/ReturnInfinity)/[**BareMetal-newlib**](https://github.com/ReturnInfinity/BareMetal-newlib)|newlib for BareMetal||
 |6|[@bcgsc](https://github.com/bcgsc)/[**abyss-2.0-giab**](https://github.com/bcgsc/abyss-2.0-giab)|:baby_bottle: Assemble the Genome in a Bottle sequencing data|[:arrow_upper_right:](http://dx.doi.org/10.1101/068338)|
 |6|[@consensus-enterprises](https://github.com/consensus-enterprises)/[**drumkit**](https://github.com/consensus-enterprises/drumkit)|Makefiles everywhere!|[:arrow_upper_right:](http://drumk.it)|
 |6|[@datacratic](https://github.com/datacratic)/[**platform-deps**](https://github.com/datacratic/platform-deps)|Container repo for Datacratic platform dependencies to be installed per-user||

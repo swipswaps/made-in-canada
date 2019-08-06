@@ -2,7 +2,7 @@
 |---|---|---|---|
 |264|[@mck-](https://github.com/mck-)/[**Open-VRP**](https://github.com/mck-/Open-VRP)|Open-source framework for modeling Vehicle Routing Problems.||
 |74|[@hoytech](https://github.com/hoytech)/[**antiweb**](https://github.com/hoytech/antiweb)|Common Lisp web application server|[:arrow_upper_right:](http://hoytech.com/antiweb/)|
-|65|[@inaimathi](https://github.com/inaimathi)/[**cl-notebook**](https://github.com/inaimathi/cl-notebook)|A notebook-style editor for Common Lisp||
+|66|[@inaimathi](https://github.com/inaimathi)/[**cl-notebook**](https://github.com/inaimathi/cl-notebook)|A notebook-style editor for Common Lisp||
 |64|[@thephoeron](https://github.com/thephoeron)/[**let-over-lambda**](https://github.com/thephoeron/let-over-lambda)|Doug Hoyte's "Production" version of macros from Let Over Lambda, ready for ASDF and Quicklisp.||
 |46|[@thephoeron](https://github.com/thephoeron)/[**black-stone**](https://github.com/thephoeron/black-stone)|Specification and Implementation of Quantum Common Lisp, for gate-model quantum computers||
 |34|[@thephoeron](https://github.com/thephoeron)/[**bit-smasher**](https://github.com/thephoeron/bit-smasher)|Common Lisp library for handling bit vectors, bit vector arithmetic, and type conversions.|[:arrow_upper_right:](https://thephoeron.github.io/bit-smasher/)|
@@ -11,9 +11,9 @@
 |25|[@atgreen](https://github.com/atgreen)/[**lisp-openshift**](https://github.com/atgreen/lisp-openshift)|Run sbcl-powered lisp-based web apps on Red Hat's OpenShift|[:arrow_upper_right:](http://lisp2-atgreen.rhcloud.com)|
 |24|[@burtonsamograd](https://github.com/burtonsamograd)/[**sigil**](https://github.com/burtonsamograd/sigil)|A Parenscript to Javascript command line compiler and interpreter.||
 |23|[@tokenrove](https://github.com/tokenrove)/[**anaphora**](https://github.com/tokenrove/anaphora)|The anaphoric macro collection from Hell|[:arrow_upper_right:](https://common-lisp.net/project/anaphora/)|
+|19|[@tokenrove](https://github.com/tokenrove)/[**series**](https://github.com/tokenrove/series)|unofficial mirror of git://git.code.sf.net/p/series/series (Richard C. Waters' SERIES package for Common Lisp)|[:arrow_upper_right:](http://series.sourceforge.net/)|
 |18|[@inaimathi](https://github.com/inaimathi)/[**formlets**](https://github.com/inaimathi/formlets)|Automatically validating formlets for Hunchentoot + cl-who||
 |18|[@inaimathi](https://github.com/inaimathi)/[**house**](https://github.com/inaimathi/house)|Minimal asynchronous CL web server||
-|18|[@tokenrove](https://github.com/tokenrove)/[**series**](https://github.com/tokenrove/series)|unofficial mirror of git://git.code.sf.net/p/series/series (Richard C. Waters' SERIES package for Common Lisp)|[:arrow_upper_right:](http://series.sourceforge.net/)|
 |17|[@burtonsamograd](https://github.com/burtonsamograd)/[**rsa**](https://github.com/burtonsamograd/rsa)|The RSA Encryption Algorithm written in Common Lisp||
 |17|[@thephoeron](https://github.com/thephoeron)/[**qgame**](https://github.com/thephoeron/qgame)|QGAME: Quantum Gate and Measurement Emulator, a quantum computer simulator||
 |16|[@inaimathi](https://github.com/inaimathi)/[**fact-base**](https://github.com/inaimathi/fact-base)|Implementation of fact bases for Common Lisp||

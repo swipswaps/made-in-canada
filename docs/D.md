@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3391|[@gnunn1](https://github.com/gnunn1)/[**tilix**](https://github.com/gnunn1/tilix)|A tiling terminal emulator for Linux using GTK+ 3|[:arrow_upper_right:](https://gnunn1.github.io/tilix-web)|
-|131|[@etcimon](https://github.com/etcimon)/[**libasync**](https://github.com/etcimon/libasync)|Cross-platform event loop library of asynchronous objects||
+|3425|[@gnunn1](https://github.com/gnunn1)/[**tilix**](https://github.com/gnunn1/tilix)|A tiling terminal emulator for Linux using GTK+ 3|[:arrow_upper_right:](https://gnunn1.github.io/tilix-web)|
+|130|[@etcimon](https://github.com/etcimon)/[**libasync**](https://github.com/etcimon/libasync)|Cross-platform event loop library of asynchronous objects||
 |66|[@etcimon](https://github.com/etcimon)/[**botan**](https://github.com/etcimon/botan)|Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc.||
-|36|[@dd86k](https://github.com/dd86k)/[**dd86**](https://github.com/dd86k/dd86)|Small IBM PC Virtual Machine and DOS Emulation Layer ** WIP **|[:arrow_upper_right:](https://git.dd86k.space/dd86k/dd86)|
+|35|[@dd86k](https://github.com/dd86k)/[**dd86**](https://github.com/dd86k/dd86)|Small IBM PC Virtual Machine and DOS Emulation Layer ** WIP **|[:arrow_upper_right:](https://git.dd86k.space/dd86k/dd86)|
 |34|[@etcimon](https://github.com/etcimon)/[**libhttp2**](https://github.com/etcimon/libhttp2)|HTTP/2 library in D, translated from nghttp2||
 |33|[@etcimon](https://github.com/etcimon)/[**memutils**](https://github.com/etcimon/memutils)|Overhead allocators, allocator-aware containers and lifetime management for D objects||
 |30|[@dd86k](https://github.com/dd86k)/[**dd-dos**](https://github.com/dd86k/dd-dos)|Small IBM PC Virtual Machine and DOS Emulation Layer|[:arrow_upper_right:](https://git.dd86k.space/dd86k/dd-dos)|
@@ -24,4 +24,5 @@
 |3|[@Herringway](https://github.com/Herringway)/[**vircd**](https://github.com/Herringway/vircd)|garbage ircd||
 |3|[@ankitkv](https://github.com/ankitkv)/[**NUI**](https://github.com/ankitkv/NUI)|3D Natural User Interface for Operating Systems||
 |3|[@dd86k](https://github.com/dd86k)/[**ggf**](https://github.com/dd86k/ggf)|Simple disk information tool for Windows|[:arrow_upper_right:](https://git.dd86k.space/dd86k/ggf)|
+|3|[@michelf](https://github.com/michelf)/[**mfr-xml-d**](https://github.com/michelf/mfr-xml-d)|Fast and versatile XML parser for D||
 

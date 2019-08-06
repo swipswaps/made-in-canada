@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|150|[@willyd](https://github.com/willyd)/[**caffe-builder**](https://github.com/willyd/caffe-builder)|CMake build scripts to automate building the Caffe library and its dependencies.||
+|152|[@willyd](https://github.com/willyd)/[**caffe-builder**](https://github.com/willyd/caffe-builder)|CMake build scripts to automate building the Caffe library and its dependencies.||
 |112|[@ldionne](https://github.com/ldionne)/[**metabench**](https://github.com/ldionne/metabench)|A simple framework for compile-time benchmarks||
 |53|[@corngood](https://github.com/corngood)/[**SDL_vulkan**](https://github.com/corngood/SDL_vulkan)|A library for creating Vulkan surfaces for SDL2 windows.||
-|43|[@Devolutions](https://github.com/Devolutions)/[**CMakeRust**](https://github.com/Devolutions/CMakeRust)|CMake Rust Language Support||
+|44|[@Devolutions](https://github.com/Devolutions)/[**CMakeRust**](https://github.com/Devolutions/CMakeRust)|CMake Rust Language Support||
 |21|[@PR2](https://github.com/PR2)/[**pr2_common**](https://github.com/PR2/pr2_common)|||
 |21|[@dgovil](https://github.com/dgovil)/[**MeshCompare**](https://github.com/dgovil/MeshCompare)|Comparison tools for Maya meshes, to help visualize the differences between similar meshes.||
 |10|[@cjdb](https://github.com/cjdb)/[**project_template**](https://github.com/cjdb/project_template)|A starting point for C++ projects.||

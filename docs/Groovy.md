@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|126|[@yracine](https://github.com/yracine)/[**device-type.myecobee**](https://github.com/yracine/device-type.myecobee)|SmartThings-ecobee integration||
+|128|[@yracine](https://github.com/yracine)/[**device-type.myecobee**](https://github.com/yracine/device-type.myecobee)|SmartThings-ecobee integration||
 |60|[@f2prateek](https://github.com/f2prateek)/[**gradle-android-javafmt-plugin**](https://github.com/f2prateek/gradle-android-javafmt-plugin)|Augomagically format Java files (deprecated)||
 |39|[@f2prateek](https://github.com/f2prateek)/[**android-checkstyle-plugin**](https://github.com/f2prateek/android-checkstyle-plugin)|Configures the checkstyle plugin for Android projects||
 |26|[@kellyrob99](https://github.com/kellyrob99)/[**Jenkins-api-tour**](https://github.com/kellyrob99/Jenkins-api-tour)|Code demonstrating how to interact with the API layer of a Jenkins/Hudson build server.|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2011/03/27/hooking-into-the-jenkinshudson-api/)|
@@ -13,10 +13,10 @@
 |14|[@yracine](https://github.com/yracine)/[**keenhome.device-type**](https://github.com/yracine/keenhome.device-type)|Keen Home Smart Vents - device handler||
 |11|[@kellyrob99](https://github.com/kellyrob99)/[**catcha-breaker**](https://github.com/kellyrob99/catcha-breaker)|Groovy port of a python example on how to break weak captcha using tesseract-ocr|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/03/14/breaking-weak-captcha-in-slightly-more-than-26-lines-of-groovy-code/)|
 |10|[@yracine](https://github.com/yracine)/[**device-type.myautomatic**](https://github.com/yracine/device-type.myautomatic)|SmartThings - Automatic integration||
+|8|[@DigitalState](https://github.com/DigitalState)/[**camunda-rest-jwt-authentication**](https://github.com/DigitalState/camunda-rest-jwt-authentication)|Camunda BPM plugin library providing JWT Authentication||
 |8|[@coollog](https://github.com/coollog)/[**micronaut-jib**](https://github.com/coollog/micronaut-jib)|Dockerize and run a "Hello World" Micronaut app.|[:arrow_upper_right:](https://github.com/GoogleContainerTools/jib)|
 |8|[@yracine](https://github.com/yracine)/[**customYaleLockWithGoodTimeout**](https://github.com/yracine/customYaleLockWithGoodTimeout)|Custom Yale Lock With good timeout to avoid wrong status at Smartthings hub||
 |8|[@yracine](https://github.com/yracine)/[**device-type-myNext**](https://github.com/yracine/device-type-myNext)|Nest Integration with SmartThings||
-|7|[@DigitalState](https://github.com/DigitalState)/[**camunda-rest-jwt-authentication**](https://github.com/DigitalState/camunda-rest-jwt-authentication)|Camunda BPM plugin library providing JWT Authentication||
 |7|[@mbarnathan](https://github.com/mbarnathan)/[**Synchronized-Dimming**](https://github.com/mbarnathan/Synchronized-Dimming)|Allows many SmartThings dimmers to act as one.||
 |6|[@codetojoy](https://github.com/codetojoy)/[**talk_maritimedevcon_groovy**](https://github.com/codetojoy/talk_maritimedevcon_groovy)|Demo code for talk at Maritime DevCon 2016.||
 |6|[@eclipsesource](https://github.com/eclipsesource)/[**dockerizor**](https://github.com/eclipsesource/dockerizor)|Gradle plug-in to create a Docker image that includes an Eclipse Virgo container||
@@ -26,6 +26,7 @@
 |5|[@dansmith65](https://github.com/dansmith65)/[**ooScriptMaster**](https://github.com/dansmith65/ooScriptMaster)|object oriented ScriptMaster|[:arrow_upper_right:](http://dansmith65.github.com/ooScriptMaster/groovydoc/)|
 |4|[@NickQiZhu](https://github.com/NickQiZhu)/[**Griffon-Validation-Plugin**](https://github.com/NickQiZhu/Griffon-Validation-Plugin)|Validation plugin for Griffin framework|[:arrow_upper_right:](http://griffon.codehaus.org/Validation+Plugin)|
 |4|[@anthonydahanne](https://github.com/anthonydahanne)/[**JenkinsHudsonScripts**](https://github.com/anthonydahanne/JenkinsHudsonScripts)|Collection of scripts to interact with Jenkins and Hudson remote APIs and Update Centers||
+|4|[@breandan](https://github.com/breandan)/[**jooq-gradle-demo**](https://github.com/breandan/jooq-gradle-demo)|||
 |4|[@codetojoy](https://github.com/codetojoy)/[**easter_eggs_for_gradle**](https://github.com/codetojoy/easter_eggs_for_gradle)|Basic examples for Gradle. Usage of 'egg' here is SSCCE: http://sscce.org Edit Add topics||
 |4|[@codetojoy](https://github.com/codetojoy)/[**easter_eggs_for_groovy**](https://github.com/codetojoy/easter_eggs_for_groovy)|Basic examples for Groovy. Usage of 'egg' here is SSCCE: http://sscce.org||
 |4|[@davidkiss](https://github.com/davidkiss)/[**grails-todo**](https://github.com/davidkiss/grails-todo)|Sample project on building a modern web application using Grails + Spring Security + Angular JS + Twitter Bootstrap.||
@@ -33,7 +34,6 @@
 |4|[@kellyrob99](https://github.com/kellyrob99)/[**JFreeChart-POI-Groovy**](https://github.com/kellyrob99/JFreeChart-POI-Groovy)|Using JFreeChart and Apache POI in Groovy||
 |3|[@DavidYKay](https://github.com/DavidYKay)/[**gradle-jenkins-example**](https://github.com/DavidYKay/gradle-jenkins-example)|Example of putting Gradle and Jenkins together for Android||
 |3|[@andrewshawcare](https://github.com/andrewshawcare)/[**docker-ecosystem-jenkins**](https://github.com/andrewshawcare/docker-ecosystem-jenkins)|A Jenkins deployment with docker-compose-enabled nodes and some sample projects||
-|3|[@breandan](https://github.com/breandan)/[**jooq-gradle-demo**](https://github.com/breandan/jooq-gradle-demo)|||
 |3|[@gpottepalem](https://github.com/gpottepalem)/[**giri-api**](https://github.com/gpottepalem/giri-api)|A sample RESTful API application exploring Grails 3 features and plugins||
 |3|[@hariprasadms](https://github.com/hariprasadms)/[**katalon-with-rest-assured**](https://github.com/hariprasadms/katalon-with-rest-assured)|||
 |3|[@kellyrob99](https://github.com/kellyrob99)/[**Groovy-Testing-Presentation**](https://github.com/kellyrob99/Groovy-Testing-Presentation)|A test Griffon application for delivering a slideshow style presentation using the slideware plugin|[:arrow_upper_right:](http://www.kellyrob99.com/blog/2010/02/11/a-one-day-griffon-applicationpresentation/)|

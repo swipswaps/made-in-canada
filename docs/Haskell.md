@@ -1,15 +1,15 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|177|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
+|180|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
 |153|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
 |131|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
 |130|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
 |106|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
 |105|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
-|102|[@larrytheliquid](https://github.com/larrytheliquid)/[**Lemmachine**](https://github.com/larrytheliquid/Lemmachine)|REST'ful web framework in Agda||
+|104|[@larrytheliquid](https://github.com/larrytheliquid)/[**Lemmachine**](https://github.com/larrytheliquid/Lemmachine)|REST'ful web framework in Agda||
 |74|[@zhangchiqing](https://github.com/zhangchiqing)/[**beginner-friendly-haskell-for-web-development**](https://github.com/zhangchiqing/beginner-friendly-haskell-for-web-development)|A book about real world web development in beginner friendly Haskell||
-|67|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
-|53|[@thephoeron](https://github.com/thephoeron)/[**quipper-language**](https://github.com/thephoeron/quipper-language)|Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)||
+|68|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
+|54|[@thephoeron](https://github.com/thephoeron)/[**quipper-language**](https://github.com/thephoeron/quipper-language)|Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)||
 |47|[@csabahruska](https://github.com/csabahruska)/[**jhc-components**](https://github.com/csabahruska/jhc-components)|JHC Haskell compiler split into reusable components||
 |41|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm**](https://github.com/JoeyEremondi/haskelm)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
 |28|[@avieth](https://github.com/avieth)/[**Algebraic**](https://github.com/avieth/Algebraic)|Experiments on the construction of functions||
@@ -19,9 +19,10 @@
 |25|[@csabahruska](https://github.com/csabahruska)/[**gpipe-quake3**](https://github.com/csabahruska/gpipe-quake3)|Quake 3 map viewer in Haskell using GPipe|[:arrow_upper_right:](https://wiki.haskell.org/GPipe)|
 |23|[@singpolyma](https://github.com/singpolyma)/[**unexceptionalio**](https://github.com/singpolyma/unexceptionalio)|IO without any PseudoExceptions|[:arrow_upper_right:](http://hackage.haskell.org/package/unexceptionalio)|
 |19|[@PhDP](https://github.com/PhDP)/[**Faun**](https://github.com/PhDP/Faun)|Experimental ML/AI code||
-|16|[@Aiden01](https://github.com/Aiden01)/[**iris-lang**](https://github.com/Aiden01/iris-lang)|A simple programing language for my own learning||
+|18|[@Aiden01](https://github.com/Aiden01)/[**iris-lang**](https://github.com/Aiden01/iris-lang)|A simple, statically-typed programming language||
 |16|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm-old**](https://github.com/JoeyEremondi/haskelm-old)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
 |16|[@WillSewell](https://github.com/WillSewell)/[**benchpress**](https://github.com/WillSewell/benchpress)|Micro-benchmarking of Haskell code with detailed execution time statistics.||
+|15|[@fosskers](https://github.com/fosskers)/[**kanji**](https://github.com/fosskers/kanji)|Haskell suite for determining what 級 (level) of the 漢字検定 (national Kanji exam) a given Kanji belongs to.||
 |15|[@fosskers](https://github.com/fosskers)/[**vectortiles**](https://github.com/fosskers/vectortiles)|A native Haskell codec for Mapbox Vector Tiles.||
 |15|[@gregorycollins](https://github.com/gregorycollins)/[**homepage**](https://github.com/gregorycollins/homepage)|Source code for http://gregorycollins.net/ --- built on the Haskell "happstack" framework|[:arrow_upper_right:](http://gregorycollins.net/)|
 |15|[@jpittis](https://github.com/jpittis)/[**toxiproxy-haskell**](https://github.com/jpittis/toxiproxy-haskell)|A Haskell client for Toxiproxy.||
@@ -29,7 +30,6 @@
 |15|[@levex](https://github.com/levex)/[**haskell-doom**](https://github.com/levex/haskell-doom)|doom||
 |14|[@aycanirican](https://github.com/aycanirican)/[**hweblib**](https://github.com/aycanirican/hweblib)|Haskell Web Library||
 |14|[@csabahruska](https://github.com/csabahruska)/[**demoscene**](https://github.com/csabahruska/demoscene)|Demoscene: Lambda Team||
-|14|[@fosskers](https://github.com/fosskers)/[**kanji**](https://github.com/fosskers/kanji)|Haskell suite for determining what 級 (level) of the 漢字検定 (national Kanji exam) a given Kanji belongs to.||
 |14|[@fosskers](https://github.com/fosskers)/[**versions**](https://github.com/fosskers/versions)|Haskell types and parsers for software version numbers.||
 |14|[@nitrix](https://github.com/nitrix)/[**udfs**](https://github.com/nitrix/udfs)|Ubiquitous Distributed File System||
 |14|[@singpolyma](https://github.com/singpolyma)/[**wai-session**](https://github.com/singpolyma/wai-session)|Flexible session middleware for WAI||
@@ -55,6 +55,7 @@
 |8|[@shepheb](https://github.com/shepheb)/[**go10c**](https://github.com/shepheb/go10c)|Compiler for a dialect of Go to DCPU-16 assembly||
 |7|[@alexstoick](https://github.com/alexstoick)/[**pandoc-docx-pagebreak**](https://github.com/alexstoick/pandoc-docx-pagebreak)|||
 |7|[@csabahruska](https://github.com/csabahruska)/[**GFXDemo**](https://github.com/csabahruska/GFXDemo)|||
+|7|[@csabahruska](https://github.com/csabahruska)/[**p4f-control-flow-analysis**](https://github.com/csabahruska/p4f-control-flow-analysis)|Haskell implementation of P4F Control-Flow Analysis||
 |7|[@singpolyma](https://github.com/singpolyma)/[**mustache2hs**](https://github.com/singpolyma/mustache2hs)|An attempt to compile Mustache templates to Haskell code||
 |7|[@tpetricek](https://github.com/tpetricek)/[**Haskell.Joinads**](https://github.com/tpetricek/Haskell.Joinads)|Haskell implementation of Joinads|[:arrow_upper_right:](http://www.cl.cam.ac.uk/~tp322/papers/docase.html)|
 |6|[@Gonzih](https://github.com/Gonzih)/[**hayoo-cli**](https://github.com/Gonzih/hayoo-cli)|Hayoo CLI|[:arrow_upper_right:](http://hackage.haskell.org/package/hayoo-cli)|
@@ -67,7 +68,6 @@
 |6|[@nitrix](https://github.com/nitrix)/[**ni**](https://github.com/nitrix/ni)|Ni programming language||
 |6|[@pbevin](https://github.com/pbevin)/[**cardelli**](https://github.com/pbevin/cardelli)|Cardelli type inferencer translated to Javascript||
 |5|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**elm-build-lib**](https://github.com/JoeyEremondi/elm-build-lib)|A library for compiling Elm to JavaScript from within Haskell||
-|5|[@csabahruska](https://github.com/csabahruska)/[**game-logic-experiment**](https://github.com/csabahruska/game-logic-experiment)|experiment with game logic representation in haskell||
 |5|[@csabahruska](https://github.com/csabahruska)/[**lambdacube-stunts**](https://github.com/csabahruska/lambdacube-stunts)|Remake of Stunts 4D Sports Driving in Haskell||
 |5|[@csabahruska](https://github.com/csabahruska)/[**stunts**](https://github.com/csabahruska/stunts)|Remake of Stunts 4D Sports Driving in Haskell||
 |5|[@diogob](https://github.com/diogob)/[**reader-tutorial**](https://github.com/diogob/reader-tutorial)|Tutorial using ReaderT and mock IO functions for testing||
@@ -76,7 +76,7 @@
 |5|[@larrytheliquid](https://github.com/larrytheliquid)/[**pigit**](https://github.com/larrytheliquid/pigit)|seeing what Epigram looks like after a darcs-fastconvert (NOT AN OFFICIAL MIRROR)||
 |5|[@larrytheliquid](https://github.com/larrytheliquid)/[**uAgda**](https://github.com/larrytheliquid/uAgda)|[UNOFFICIAL FORK] Making uAgda work with ghc 7.4.1|[:arrow_upper_right:](http://hackage.haskell.org/package/uAgda)|
 |5|[@singpolyma](https://github.com/singpolyma)/[**OpenPGP-CryptoAPI**](https://github.com/singpolyma/OpenPGP-CryptoAPI)|Implementation of cryptography for use with OpenPGP using the crypto-api libraries||
-|4|[@csabahruska](https://github.com/csabahruska)/[**p4f-control-flow-analysis**](https://github.com/csabahruska/p4f-control-flow-analysis)|Haskell implementation of P4F Control-Flow Analysis||
+|4|[@csabahruska](https://github.com/csabahruska)/[**game-logic-experiment**](https://github.com/csabahruska/game-logic-experiment)|experiment with game logic representation in haskell||
 |4|[@fosskers](https://github.com/fosskers)/[**servant-xml**](https://github.com/fosskers/servant-xml)|Servant support for the XML Content-Type.||
 |4|[@levex](https://github.com/levex)/[**wacc**](https://github.com/levex/wacc)|A compiler for a language, see the operating system kernel written in it: https://github.com/levex/wacc-os||
 |4|[@singpolyma](https://github.com/singpolyma)/[**plivo-haskell**](https://github.com/singpolyma/plivo-haskell)|Plivo API wrapper for Haskell||

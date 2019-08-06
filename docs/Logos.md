@@ -11,8 +11,8 @@
 |9|[@codyd51](https://github.com/codyd51)/[**Grams**](https://github.com/codyd51/Grams)|Use your Force Touch screen as a scale!||
 |7|[@Sticktron](https://github.com/Sticktron)/[**FrontCamUnMirror**](https://github.com/Sticktron/FrontCamUnMirror)|Un-Mirror the Front Camera's Live Preview||
 |6|[@AppleBetas](https://github.com/AppleBetas)/[**JustinPlusPro**](https://github.com/AppleBetas/JustinPlusPro)|Justin + your phone. A match made in heaven.||
-|6|[@ca13ra1](https://github.com/ca13ra1)/[**ForceInPicture**](https://github.com/ca13ra1/ForceInPicture)|Programmatically enable picture in picture feature.||
 |6|[@davidmurray](https://github.com/davidmurray)/[**Uninstall-Application-Size**](https://github.com/davidmurray/Uninstall-Application-Size)|Shows an application's size when prompting to uninstall||
+|5|[@ca13ra1](https://github.com/ca13ra1)/[**ForceInPicture**](https://github.com/ca13ra1/ForceInPicture)|Programmatically enable picture in picture feature.||
 |5|[@ca13ra1](https://github.com/ca13ra1)/[**MessageTypingIndicators**](https://github.com/ca13ra1/MessageTypingIndicators)|enable/disable typing indicators for iMessages.||
 |5|[@ca13ra1](https://github.com/ca13ra1)/[**Twitter3DShortcuts**](https://github.com/ca13ra1/Twitter3DShortcuts)|Removes useless Twitter 3d touch items.||
 |5|[@codyd51](https://github.com/codyd51)/[**ClassyLock**](https://github.com/codyd51/ClassyLock)|A classy, reimagined lockscreen||

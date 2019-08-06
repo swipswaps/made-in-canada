@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|230|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|A repository of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. ||
+|234|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|A repository of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. ||
 |166|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
-|129|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
+|131|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
 |123|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
-|116|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
-|110|[@trentm](https://github.com/trentm)/[**node-ldapauth**](https://github.com/trentm/node-ldapauth)|Simple node.js module to authenticate against an LDAP server||
+|119|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
+|111|[@trentm](https://github.com/trentm)/[**node-ldapauth**](https://github.com/trentm/node-ldapauth)|Simple node.js module to authenticate against an LDAP server||
 |99|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
 |81|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
 |73|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
@@ -29,10 +29,10 @@
 |18|[@bartman](https://github.com/bartman)/[**urxvt-scripts**](https://github.com/bartman/urxvt-scripts)|my urxvt scripts|[:arrow_upper_right:](http://www.jukie.net/~bart/blog/tag/urxvt)|
 |17|[@briandfoy](https://github.com/briandfoy)/[**git-github-creator**](https://github.com/briandfoy/git-github-creator)|(Perl) Create a Github repository for your Perl module|[:arrow_upper_right:](https://metacpan.org/pod/Git::GitHub::Creator)|
 |16|[@johnlees](https://github.com/johnlees)/[**23andme-impute**](https://github.com/johnlees/23andme-impute)|Scripts and advice to run IMPUTE2 on 23 and me raw data||
+|15|[@bcgsc](https://github.com/bcgsc)/[**RAILS**](https://github.com/bcgsc/RAILS)|🚝RAILS and 👞Cobbler: Assembly Improvement by Long Sequence Scaffolding/Gap-filling||
 |15|[@briandfoy](https://github.com/briandfoy)/[**Unicode-Tussle**](https://github.com/briandfoy/Unicode-Tussle)|Tom( Christiansen)'s Unicode Scripts So Life is Easier|[:arrow_upper_right:](http://search.cpan.org/dist/Unicode-Tussle)|
 |15|[@briandfoy](https://github.com/briandfoy)/[**unicode-tussle**](https://github.com/briandfoy/unicode-tussle)|Tom( Christiansen)'s Unicode Scripts So Life is Easier|[:arrow_upper_right:](https://metacpan.org/dist/Unicode::Tussle)|
-|14|[@bcgsc](https://github.com/bcgsc)/[**RAILS**](https://github.com/bcgsc/RAILS)|🚝RAILS and 👞Cobbler: Assembly Improvement by Long Sequence Scaffolding/Gap-filling||
-|13|[@sestaton](https://github.com/sestaton)/[**tephra**](https://github.com/sestaton/tephra)|A tool for discovering transposable elements and describing patterns of genome evolution||
+|15|[@sestaton](https://github.com/sestaton)/[**tephra**](https://github.com/sestaton/tephra)|A tool for discovering transposable elements and describing patterns of genome evolution||
 |13|[@yanick](https://github.com/yanick)/[**Perl-Achievements**](https://github.com/yanick/Perl-Achievements)|Write some perl, gather some badges of merit.||
 |12|[@briandfoy](https://github.com/briandfoy)/[**module-release**](https://github.com/briandfoy/module-release)|(Perl) Automate software releases|[:arrow_upper_right:](https://metacpan.org/pod/Module::Release)|
 |12|[@bricas](https://github.com/bricas)/[**statistics-r**](https://github.com/bricas/statistics-r)|Controls the R (R-project) interpreter through Perl|[:arrow_upper_right:](http://metacpan.org/release/Statistics-R/)|
@@ -86,6 +86,7 @@
 |5|[@bricas](https://github.com/bricas)/[**cql-parser**](https://github.com/bricas/cql-parser)|A Perl module for working with the Common Query Language|[:arrow_upper_right:](http://search.cpan.org/dist/CQL-Parser)|
 |5|[@bricas](https://github.com/bricas)/[**games-nes-emulator**](https://github.com/bricas/games-nes-emulator)|An object-oriented NES (6502) emulator|[:arrow_upper_right:](http://search.cpan.org/dist/Games-NES-Emulator)|
 |5|[@bricas](https://github.com/bricas)/[**geo-ipfree**](https://github.com/bricas/geo-ipfree)|Look up the country of an IPv4 address|[:arrow_upper_right:](http://metacpan.org/release/Geo-IPfree)|
+|5|[@davepagurek](https://github.com/davepagurek)/[**Sari-Wallpaper**](https://github.com/davepagurek/Sari-Wallpaper)|A joke I'm playing on my sister where I remotely change her wallpaper to pictures of me.||
 |5|[@hoytech](https://github.com/hoytech)/[**AnyEvent-Task**](https://github.com/hoytech/AnyEvent-Task)|Client/server-based asynchronous worker pool||
 |5|[@hoytech](https://github.com/hoytech)/[**Log-Defer**](https://github.com/hoytech/Log-Defer)|Deferred logs and timers||
 |5|[@hoytech](https://github.com/hoytech)/[**String-Compare-ConstantTime**](https://github.com/hoytech/String-Compare-ConstantTime)|Timing side-channel protected string compare||
@@ -102,7 +103,6 @@
 |4|[@bricas](https://github.com/bricas)/[**finance-wesabe**](https://github.com/bricas/finance-wesabe)|Access your wesabe.com account information|[:arrow_upper_right:](http://search.cpan.org/dist/Finance-Wesabe/)|
 |4|[@bricas](https://github.com/bricas)/[**gedcom-foaf**](https://github.com/bricas/gedcom-foaf)|Output FOAF files from Gedcom individuals and families|[:arrow_upper_right:](http://search.cpan.org/dist/Gedcom-FOAF/)|
 |4|[@bricas](https://github.com/bricas)/[**www-opensearch**](https://github.com/bricas/www-opensearch)|Search A9 OpenSearch compatible engines|[:arrow_upper_right:](http://metacpan.org/release/WWW-OpenSearch/)|
-|4|[@davepagurek](https://github.com/davepagurek)/[**Sari-Wallpaper**](https://github.com/davepagurek/Sari-Wallpaper)|A joke I'm playing on my sister where I remotely change her wallpaper to pictures of me.||
 |4|[@gorhill](https://github.com/gorhill)/[**paxml2kpxxml**](https://github.com/gorhill/paxml2kpxxml)|Password Agent XML file to Keepass X XML file||
 |4|[@hoytech](https://github.com/hoytech)/[**Alien-Electron**](https://github.com/hoytech/Alien-Electron)|Download and install the electron GUI framework||
 |4|[@jandubois](https://github.com/jandubois)/[**popclipext**](https://github.com/jandubois/popclipext)|My PopClip Extensions||
