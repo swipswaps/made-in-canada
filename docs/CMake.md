@@ -4,9 +4,9 @@
 |112|[@ldionne](https://github.com/ldionne)/[**metabench**](https://github.com/ldionne/metabench)|A simple framework for compile-time benchmarks||
 |53|[@corngood](https://github.com/corngood)/[**SDL_vulkan**](https://github.com/corngood/SDL_vulkan)|A library for creating Vulkan surfaces for SDL2 windows.||
 |44|[@Devolutions](https://github.com/Devolutions)/[**CMakeRust**](https://github.com/Devolutions/CMakeRust)|CMake Rust Language Support||
-|21|[@PR2](https://github.com/PR2)/[**pr2_common**](https://github.com/PR2/pr2_common)|||
+|22|[@PR2](https://github.com/PR2)/[**pr2_common**](https://github.com/PR2/pr2_common)|||
 |21|[@dgovil](https://github.com/dgovil)/[**MeshCompare**](https://github.com/dgovil/MeshCompare)|Comparison tools for Maya meshes, to help visualize the differences between similar meshes.||
-|10|[@cjdb](https://github.com/cjdb)/[**project_template**](https://github.com/cjdb/project_template)|A starting point for C++ projects.||
+|11|[@cjdb](https://github.com/cjdb)/[**project_template**](https://github.com/cjdb/project_template)|A starting point for C++ projects.||
 |9|[@babelouest](https://github.com/babelouest)/[**yder**](https://github.com/babelouest/yder)|Logging library for C applications||
 |4|[@cjdb](https://github.com/cjdb)/[**basic_project**](https://github.com/cjdb/basic_project)|A starting point for C++ projects.||
 |4|[@fire](https://github.com/fire)/[**com-chibifire-fbx-plugin**](https://github.com/fire/com-chibifire-fbx-plugin)|||

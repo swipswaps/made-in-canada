@@ -1,40 +1,40 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|196|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
+|195|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
 |149|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |107|[@colepeters](https://github.com/colepeters)/[**spacemacs-theme.vim**](https://github.com/colepeters/spacemacs-theme.vim)|Spacemacs-flavoured colorscheme for Vim and iTerm||
 |55|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
-|51|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
+|50|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
 |45|[@ujihisa](https://github.com/ujihisa)/[**unite-colorscheme**](https://github.com/ujihisa/unite-colorscheme)|A unite.vim plugin||
 |40|[@ujihisa](https://github.com/ujihisa)/[**shadow.vim**](https://github.com/ujihisa/shadow.vim)|That's not the file. That's shadow.||
 |34|[@ujihisa](https://github.com/ujihisa)/[**vimshell-ssh**](https://github.com/ujihisa/vimshell-ssh)|the world first vimshell plugin that you can run "vim" command on ssh on vimshell||
-|29|[@tommcdo](https://github.com/tommcdo)/[**vim-fugitive-blame-ext**](https://github.com/tommcdo/vim-fugitive-blame-ext)|Extend tpope/vim-fugitive to show commit message on statusline in :Gblame||
+|28|[@tommcdo](https://github.com/tommcdo)/[**vim-fugitive-blame-ext**](https://github.com/tommcdo/vim-fugitive-blame-ext)|Extend tpope/vim-fugitive to show commit message on statusline in :Gblame||
 |26|[@gmarik](https://github.com/gmarik)/[**github-search.vim**](https://github.com/gmarik/github-search.vim)|search Github and clone repos with Vim|[:arrow_upper_right:](http://github.com/gmarik/github-search.vim)|
-|23|[@pangloss](https://github.com/pangloss)/[**vim-erlang**](https://github.com/pangloss/vim-erlang)|This repo has been superseded by the one at http://github.com/oscarh/vimerl which is maintained by the original author. Move along, nothing more to see here!||
 |23|[@svermeulen](https://github.com/svermeulen)/[**vim-extended-ft**](https://github.com/svermeulen/vim-extended-ft)|||
+|22|[@pangloss](https://github.com/pangloss)/[**vim-erlang**](https://github.com/pangloss/vim-erlang)|This repo has been superseded by the one at http://github.com/oscarh/vimerl which is maintained by the original author. Move along, nothing more to see here!||
 |22|[@ujihisa](https://github.com/ujihisa)/[**unite-locate**](https://github.com/ujihisa/unite-locate)|||
 |21|[@honza](https://github.com/honza)/[**writer.vim**](https://github.com/honza/writer.vim)|vim plugin for writing prose||
-|21|[@thayerwilliams](https://github.com/thayerwilliams)/[**vimbrant**](https://github.com/thayerwilliams/vimbrant)|A vibrantly dark dark colour scheme for Vim and other terminal applications||
+|20|[@thayerwilliams](https://github.com/thayerwilliams)/[**vimbrant**](https://github.com/thayerwilliams/vimbrant)|A vibrantly dark dark colour scheme for Vim and other terminal applications||
 |18|[@mrmrs](https://github.com/mrmrs)/[**vimrc**](https://github.com/mrmrs/vimrc)|||
 |17|[@tristen](https://github.com/tristen)/[**superman**](https://github.com/tristen/superman)|:art: A dark theme for Vim||
 |14|[@gmarik](https://github.com/gmarik)/[**sudo-gui.vim**](https://github.com/gmarik/sudo-gui.vim)|sudo GUI for a GUI vim|[:arrow_upper_right:](https://github.com/gmarik/sudo-gui.vim)|
 |14|[@tommcdo](https://github.com/tommcdo)/[**vim-lister**](https://github.com/tommcdo/vim-lister)|A collection of commands for manipulating Vim's lists||
-|12|[@travisjeffery](https://github.com/travisjeffery)/[**snipmate-snippets**](https://github.com/travisjeffery/snipmate-snippets)|my snippets that I use with snipmate||
 |12|[@ujihisa](https://github.com/ujihisa)/[**unite-font**](https://github.com/ujihisa/unite-font)|A unite plugin||
 |11|[@gf3](https://github.com/gf3)/[**peg.vim**](https://github.com/gf3/peg.vim)|PEG Syntax for Vim||
-|11|[@mgrouchy](https://github.com/mgrouchy)/[**oldvim**](https://github.com/mgrouchy/oldvim)|my old vimfiles|[:arrow_upper_right:](http://mikegrouchy.com)|
+|11|[@travisjeffery](https://github.com/travisjeffery)/[**snipmate-snippets**](https://github.com/travisjeffery/snipmate-snippets)|my snippets that I use with snipmate||
 |11|[@ujihisa](https://github.com/ujihisa)/[**quicklearn**](https://github.com/ujihisa/quicklearn)|A quickrun plugin to show intermediate codes||
 |10|[@idbrii](https://github.com/idbrii)/[**vim-hiinterestingword**](https://github.com/idbrii/vim-hiinterestingword)|[Deprecated in favour of https://github.com/idbrii/vim-mark]||
+|10|[@mgrouchy](https://github.com/mgrouchy)/[**oldvim**](https://github.com/mgrouchy/oldvim)|my old vimfiles|[:arrow_upper_right:](http://mikegrouchy.com)|
 |9|[@mricon](https://github.com/mricon)/[**puppet-eyes**](https://github.com/mricon/puppet-eyes)|Vim plugin to alert when a file being edited is managed by puppet||
 |9|[@thayerwilliams](https://github.com/thayerwilliams)/[**msi-dotfiles**](https://github.com/thayerwilliams/msi-dotfiles)|Archlinux dotfiles for my MSI Wind U120 netbook|[:arrow_upper_right:](http://cinderwick.ca)|
 |8|[@rafaelrosafu](https://github.com/rafaelrosafu)/[**vimfiles**](https://github.com/rafaelrosafu/vimfiles)|My vimfiles (noobie warning)||
 |7|[@gregbell](https://github.com/gregbell)/[**dot-vim**](https://github.com/gregbell/dot-vim)|My .vimrc and .vim directory||
-|7|[@ujihisa](https://github.com/ujihisa)/[**neochat.vim**](https://github.com/ujihisa/neochat.vim)|a comprehensive pluggable chat Vim plugin||
 |7|[@ujihisa](https://github.com/ujihisa)/[**tabpagecolorscheme**](https://github.com/ujihisa/tabpagecolorscheme)|Vim colorscheme on each tabs||
 |6|[@billkeys](https://github.com/billkeys)/[**Documentation**](https://github.com/billkeys/Documentation)|||
 |6|[@gmarik](https://github.com/gmarik)/[**ingretu**](https://github.com/gmarik/ingretu)|a Vim GUI color scheme|[:arrow_upper_right:](http://github.com/gmarik/ingretu)|
 |6|[@travisjeffery](https://github.com/travisjeffery)/[**vim-auto-mkdir**](https://github.com/travisjeffery/vim-auto-mkdir)|vim: automatically mkdir when writing file in nonexistent directory|[:arrow_upper_right:](http://twitter.com/travisjeffery)|
 |6|[@ujihisa](https://github.com/ujihisa)/[**nclipper.vim**](https://github.com/ujihisa/nclipper.vim)|copy lines into clipboard with the line numbers||
+|6|[@ujihisa](https://github.com/ujihisa)/[**neochat.vim**](https://github.com/ujihisa/neochat.vim)|a comprehensive pluggable chat Vim plugin||
 |6|[@ujihisa](https://github.com/ujihisa)/[**unite-rake**](https://github.com/ujihisa/unite-rake)|A Unite.vim plugin to run tasks or to view descriptions easily, using rake command||
 |5|[@chasinglogic](https://github.com/chasinglogic)/[**ChasingLogic-colorscheme-vim**](https://github.com/chasinglogic/ChasingLogic-colorscheme-vim)|The color scheme I created for myself. Thought it might be of use to others.||
 |5|[@idbrii](https://github.com/idbrii)/[**vim-focusclip**](https://github.com/idbrii/vim-focusclip)|Integrate vim and system clipboard without breaking your workflow.||
@@ -53,7 +53,6 @@
 |4|[@ujihisa](https://github.com/ujihisa)/[**camelcasemotion**](https://github.com/ujihisa/camelcasemotion)|A personal fork of camelcasemotion made by a great Vim programmer Ingo Karkat|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=1905)|
 |4|[@ujihisa](https://github.com/ujihisa)/[**neco-rubymf**](https://github.com/ujihisa/neco-rubymf)|||
 |4|[@ujihisa](https://github.com/ujihisa)/[**ref-hoogle**](https://github.com/ujihisa/ref-hoogle)|A ref plugin for Haskell, using hoogle command||
-|4|[@ujihisa](https://github.com/ujihisa)/[**vim-kami**](https://github.com/ujihisa/vim-kami)|“Kami” vim version.||
 |4|[@ujihisa](https://github.com/ujihisa)/[**vimshell-repl**](https://github.com/ujihisa/vimshell-repl)|(experimental)||
 |3|[@SilverTab](https://github.com/SilverTab)/[**vimfiles**](https://github.com/SilverTab/vimfiles)|My vim config...||
 |3|[@adam12](https://github.com/adam12)/[**dotfiles**](https://github.com/adam12/dotfiles)|My dotfiles||
@@ -78,6 +77,7 @@
 |3|[@travisjeffery](https://github.com/travisjeffery)/[**vim-testee**](https://github.com/travisjeffery/vim-testee)|super duper testing plugin/extension for Vim||
 |3|[@ujihisa](https://github.com/ujihisa)/[**keeprun.vim**](https://github.com/ujihisa/keeprun.vim)|! This project is abandoned since I made patch to make quickrun.vim keep running !||
 |3|[@ujihisa](https://github.com/ujihisa)/[**vehearse**](https://github.com/ujihisa/vehearse)|Vim Rehearse||
+|3|[@ujihisa](https://github.com/ujihisa)/[**vim-kami**](https://github.com/ujihisa/vim-kami)|“Kami” vim version.||
 |3|[@vexe](https://github.com/vexe)/[**vim**](https://github.com/vexe/vim)|Everything related about my vim setup (plugins, vimrc etc)||
 |3|[@vinibaggio](https://github.com/vinibaggio)/[**vim-tubaina**](https://github.com/vinibaggio/vim-tubaina)|A syntax highlight and autoclose for tubaina markup language.||
 |3|[@z3t0](https://github.com/z3t0)/[**arduvim**](https://github.com/z3t0/arduvim)|A vim plugin for automatic Arduino syntax generation and more...|[:arrow_upper_right:](http://z3t0.github.io/arduvim)|

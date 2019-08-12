@@ -1,24 +1,24 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|19474|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
+|19508|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
 |779|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
-|303|[@jennybc](https://github.com/jennybc)/[**happy-git-with-r**](https://github.com/jennybc/happy-git-with-r)|Using Git and GitHub with R, Rstudio, and R Markdown|[:arrow_upper_right:](https://happygitwithr.com)|
+|304|[@jennybc](https://github.com/jennybc)/[**happy-git-with-r**](https://github.com/jennybc/happy-git-with-r)|Using Git and GitHub with R, Rstudio, and R Markdown|[:arrow_upper_right:](https://happygitwithr.com)|
 |292|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
 |290|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
 |244|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
-|225|[@bob-carpenter](https://github.com/bob-carpenter)/[**prob-stats**](https://github.com/bob-carpenter/prob-stats)|Probability and Statistics: a simulation-based introduction.  An open-access book.||
-|186|[@hamaluik](https://github.com/hamaluik)/[**Beamer-Theme-Execushares**](https://github.com/hamaluik/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
+|226|[@bob-carpenter](https://github.com/bob-carpenter)/[**prob-stats**](https://github.com/bob-carpenter/prob-stats)|Probability and Statistics: a simulation-based introduction.  An open-access book.||
+|187|[@hamaluik](https://github.com/hamaluik)/[**Beamer-Theme-Execushares**](https://github.com/hamaluik/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
 |154|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execushares**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
 |106|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
 |60|[@patmorin](https://github.com/patmorin)/[**arraylayout**](https://github.com/patmorin/arraylayout)|Experiments with array layouts for comparison-based searching|[:arrow_upper_right:](http://cglab.ca/~morin/misc/arraylayout-v2/)|
 |51|[@breandan](https://github.com/breandan)/[**kotlingrad**](https://github.com/breandan/kotlingrad)|Kotlin𝛁: Differentiable Functional Programming with Algebraic Data Types|[:arrow_upper_right:](https://github.com/breandan/kotlingrad/blob/master/latex/cser/cser_pres.pdf)|
-|50|[@iandennismiller](https://github.com/iandennismiller)/[**mueller-report**](https://github.com/iandennismiller/mueller-report)|Open Source Mueller Report is an enhanced edition of the Mueller Report.|[:arrow_upper_right:](http://opensourcemuellerreport.com)|
+|51|[@iandennismiller](https://github.com/iandennismiller)/[**mueller-report**](https://github.com/iandennismiller/mueller-report)|Open Source Mueller Report is an enhanced edition of the Mueller Report.|[:arrow_upper_right:](http://opensourcemuellerreport.com)|
 |44|[@christhomson](https://github.com/christhomson)/[**lecture-notes**](https://github.com/christhomson/lecture-notes)|LaTeX notes for a few courses I've taken at the University of Waterloo.|[:arrow_upper_right:](http://cthomson.ca/notes)|
 |29|[@jihoonog](https://github.com/jihoonog)/[**School-Notes-Public**](https://github.com/jihoonog/School-Notes-Public)|This is the public repository of all my school notes from the University of Alberta (and some from the University of Lethbridge)||
 |27|[@lyst](https://github.com/lyst)/[**lightfm-paper**](https://github.com/lyst/lightfm-paper)|||
 |23|[@peeterjoot](https://github.com/peeterjoot)/[**physicsplay**](https://github.com/peeterjoot/physicsplay)|Latex source for geometric algebra and physics notes.|[:arrow_upper_right:](http://peeterjoot.com/)|
-|19|[@mcantelon](https://github.com/mcantelon)/[**fashion-quest**](https://github.com/mcantelon/fashion-quest)|Shoes-dependent, YAML-driven interactive fiction framework for fashion adventures|[:arrow_upper_right:](http://mcantelon.github.io/fashion-quest/)|
 |18|[@AllanWang](https://github.com/AllanWang)/[**McGill-Public**](https://github.com/AllanWang/McGill-Public)|Part of McGill U3/U4 that can be made public|[:arrow_upper_right:](https://allanwang.github.io/McGill-Public/)|
+|18|[@mcantelon](https://github.com/mcantelon)/[**fashion-quest**](https://github.com/mcantelon/fashion-quest)|Shoes-dependent, YAML-driven interactive fiction framework for fashion adventures|[:arrow_upper_right:](http://mcantelon.github.io/fashion-quest/)|
 |15|[@tpoisot](https://github.com/tpoisot)/[**ecobiblatex**](https://github.com/tpoisot/ecobiblatex)|Biblatex styles for ecology journals||
 |14|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan**](https://github.com/gavinsimpson/esa-advanced-vegan)|Advanced Vegan Workshop for ESA||
 |14|[@gavinsimpson](https://github.com/gavinsimpson)/[**frontiers-palaeo-additive-modelling**](https://github.com/gavinsimpson/frontiers-palaeo-additive-modelling)|Modelling and feature detection in palaeoenvironmental time series using additive models||
@@ -28,26 +28,26 @@
 |12|[@gdevenyi](https://github.com/gdevenyi)/[**mcmaster.latex**](https://github.com/gdevenyi/mcmaster.latex)|LaTeX Template Satisfying McMaster Thesis Formatting Requirements||
 |11|[@PhDP](https://github.com/PhDP)/[**ms_open_licenses**](https://github.com/PhDP/ms_open_licenses)|A defence of permissive licenses (CC0, CC-BY, BSD, MIT, ...) in science||
 |11|[@Pomax](https://github.com/Pomax)/[**ucharclasses**](https://github.com/Pomax/ucharclasses)|A XeLaTeX package that lets you insert arbitrary code between characters from different unicode blocks||
+|11|[@ldionne](https://github.com/ldionne)/[**wg21**](https://github.com/ldionne/wg21)|My proposals for the C++ standard||
 |11|[@levex](https://github.com/levex)/[**debugger-talk**](https://github.com/levex/debugger-talk)|Let's write a Debugger!|[:arrow_upper_right:](http://osdev.me/)|
 |10|[@PhDP](https://github.com/PhDP)/[**article_preprint**](https://github.com/PhDP/article_preprint)|An article on preprints in biology (published in PLOS Biology).||
 |10|[@gaborbernat](https://github.com/gaborbernat)/[**ropi_jegyzet_latex**](https://github.com/gaborbernat/ropi_jegyzet_latex)|Rendszeroptimizálás||
-|10|[@ldionne](https://github.com/ldionne)/[**wg21**](https://github.com/ldionne/wg21)|My proposals for the C++ standard||
 |9|[@seananderson](https://github.com/seananderson)/[**heavy-tails**](https://github.com/seananderson/heavy-tails)|Black-swan events in animal populations||
 |8|[@EbTech](https://github.com/EbTech)/[**EloR**](https://github.com/EbTech/EloR)|Estimating strengths of Codeforces members||
 |8|[@bmcfee](https://github.com/bmcfee)/[**playlist_recommender**](https://github.com/bmcfee/playlist_recommender)|Personalized generative playlist models||
 |8|[@hadim](https://github.com/hadim)/[**phd_thesis**](https://github.com/hadim/phd_thesis)|My PhD thesis source code (markdown + latex + pandoc)||
-|8|[@larrytheliquid](https://github.com/larrytheliquid)/[**generic-elim**](https://github.com/larrytheliquid/generic-elim)|Source code accompanying the paper "Generic Constructors and Eliminators from Descriptions"|[:arrow_upper_right:](http://dl.acm.org/citation.cfm?id=2633630)|
 |8|[@qrwteyrutiyoup](https://github.com/qrwteyrutiyoup)/[**modelo-latex-uece**](https://github.com/qrwteyrutiyoup/modelo-latex-uece)|Modelo de monografia em LaTeX da Universidade Estadual do Ceará (UECE)||
 |7|[@ctn-archive](https://github.com/ctn-archive)/[**bekolay-jneurosci2014**](https://github.com/ctn-archive/bekolay-jneurosci2014)|Files related to "A spiking neural integrator model of the adaptive control of action by the medial prefrontal cortex"||
 |7|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan-2016**](https://github.com/gavinsimpson/esa-advanced-vegan-2016)|Advanced Vegan Workshop at ESA 2016||
+|7|[@larrytheliquid](https://github.com/larrytheliquid)/[**generic-elim**](https://github.com/larrytheliquid/generic-elim)|Source code accompanying the paper "Generic Constructors and Eliminators from Descriptions"|[:arrow_upper_right:](http://dl.acm.org/citation.cfm?id=2633630)|
 |6|[@Glavin001](https://github.com/Glavin001)/[**VirtualAgent**](https://github.com/Glavin001/VirtualAgent)|(No longer maintained :warning:) Let your virtual, personal agent find and apply to jobs for you! Including writing your Resume and Cover Letter! (1st place winner at Volta Hackathon, May 2016)||
 |6|[@Tandysony](https://github.com/Tandysony)/[**LaTeX-Thesis-Template-for-Concordia-University-Students**](https://github.com/Tandysony/LaTeX-Thesis-Template-for-Concordia-University-Students)|A LaTex thesis template and style for ENCS graduate student from Concordia University||
-|6|[@apetresc](https://github.com/apetresc)/[**Lecons-Sur-La-Theorie-Generale-Des-Surfaces**](https://github.com/apetresc/Lecons-Sur-La-Theorie-Generale-Des-Surfaces)|A collaborative effort to produce an English translation of Darboux's seminal 1887 text "Leçons Sur La Théorie Générale Des Surfaces Et Les Applications Géométriques Du Calcul Infinitésimal"||
 |6|[@gpcarlos](https://github.com/gpcarlos)/[**PresentacionGit**](https://github.com/gpcarlos/PresentacionGit)|Presentación para el Taller de Git (Avanzado) y la charla Introducción a Git y GitHub||
 |6|[@patmorin](https://github.com/patmorin)/[**tds**](https://github.com/patmorin/tds)|Notes from my Advanced Data Structure class.||
 |6|[@sqrlab](https://github.com/sqrlab)/[**uoit-thesis-template**](https://github.com/sqrlab/uoit-thesis-template)|A UOIT LaTeX thesis template.|[:arrow_upper_right:](http://cs.science.uoit.ca)|
 |6|[@sx-archipelagos](https://github.com/sx-archipelagos)/[**sxa**](https://github.com/sx-archipelagos/sxa)|||
 |5|[@MathML](https://github.com/MathML)/[**MathMLinHTML5**](https://github.com/MathML/MathMLinHTML5)|(we migrated to GitLab) Draft for a detailed technical document to implement MathML in Web rendering engines.|[:arrow_upper_right:](http://www.mathml-association.org/MathMLinHTML5/)|
+|5|[@apetresc](https://github.com/apetresc)/[**Lecons-Sur-La-Theorie-Generale-Des-Surfaces**](https://github.com/apetresc/Lecons-Sur-La-Theorie-Generale-Des-Surfaces)|A collaborative effort to produce an English translation of Darboux's seminal 1887 text "Leçons Sur La Théorie Générale Des Surfaces Et Les Applications Géométriques Du Calcul Infinitésimal"||
 |5|[@dpo](https://github.com/dpo)/[**latex-styles**](https://github.com/dpo/latex-styles)|Customizations of LaTeX Styles Useful for Scientific Papers||
 |5|[@larrytheliquid](https://github.com/larrytheliquid)/[**generic-reuse**](https://github.com/larrytheliquid/generic-reuse)|Source code accompanying the draft paper "Generic Zero-Cost Reuse for Dependent Types" |[:arrow_upper_right:](https://arxiv.org/abs/1803.08150)|
 |5|[@lemire](https://github.com/lemire)/[**arraylayout**](https://github.com/lemire/arraylayout)|Pat Morin's arraylayout|[:arrow_upper_right:](http://arxiv.org/abs/1509.05053)|
@@ -67,6 +67,7 @@
 |3|[@bmcfee](https://github.com/bmcfee)/[**ismir2016_eval**](https://github.com/bmcfee/ismir2016_eval)|A plan for sustainable, community-driven evaluation of MIR methods||
 |3|[@dankelley](https://github.com/dankelley)/[**dal-oce-thesis**](https://github.com/dankelley/dal-oce-thesis)|latex style for MSc / PhD theses at Dalhousie University (esp. in Oceanography)|[:arrow_upper_right:](http://dankelley.github.io/dal-oce-thesis/index.html)|
 |3|[@dankelley](https://github.com/dankelley)/[**latex-jmr**](https://github.com/dankelley/latex-jmr)|LaTeX style sheet for Journal of Marine Research|[:arrow_upper_right:](http://dankelley.github.com/latex-jmr)|
+|3|[@eddyerburgh](https://github.com/eddyerburgh)/[**notes**](https://github.com/eddyerburgh/notes)|📚Notes on computer science https://notes.eddyerburgh.me/||
 |3|[@fredrikbk](https://github.com/fredrikbk)/[**6.867-project**](https://github.com/fredrikbk/6.867-project)|Class project in MIT 6.867 Machine Learning||
 |3|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan-2015**](https://github.com/gavinsimpson/esa-advanced-vegan-2015)|Materials for an advanced workshop on using vegan in R for conducting community ecology analyses. To be held in Baltimore in 2015 as part of the ESA conference.||
 |3|[@honza](https://github.com/honza)/[**1689**](https://github.com/honza/1689)|||

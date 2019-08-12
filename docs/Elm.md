@@ -15,11 +15,11 @@
 |9|[@ktonon](https://github.com/ktonon)/[**elm-crypto**](https://github.com/ktonon/elm-crypto)|Cryptography with HMAC and SHA-2|[:arrow_upper_right:](http://package.elm-lang.org/packages/ktonon/elm-crypto/latest)|
 |6|[@ktonon](https://github.com/ktonon)/[**elm-jsonwebtoken**](https://github.com/ktonon/elm-jsonwebtoken)|JSON Web Token encoder and decoder||
 |5|[@fosskers](https://github.com/fosskers)/[**2048**](https://github.com/fosskers/2048)|An implementation of 2048 in Elm.||
+|5|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-graph**](https://github.com/jxxcarlson/elm-graph)|Simple charts in Elm (line bar)||
 |5|[@jxxcarlson](https://github.com/jxxcarlson)/[**pobox**](https://github.com/jxxcarlson/pobox)|Elm demo of PO Box concept for exchanging data between apps living in the same browser||
 |5|[@ktonon](https://github.com/ktonon)/[**elm-serverless-cors**](https://github.com/ktonon/elm-serverless-cors)|CORS middleware for elm-serverless||
 |4|[@akbiggs](https://github.com/akbiggs)/[**elm-example-platformer**](https://github.com/akbiggs/elm-example-platformer)|Platformer game being developed on stream.||
 |4|[@brettcannon](https://github.com/brettcannon)/[**time-clock**](https://github.com/brettcannon/time-clock)|A simple, one-page time/punch clock web app|[:arrow_upper_right:](http://time-clock.surge.sh/)|
-|4|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-graph**](https://github.com/jxxcarlson/elm-graph)|Simple charts in Elm (line bar)||
 |4|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-stat**](https://github.com/jxxcarlson/elm-stat)|Package for statistics and working with csv data.  See demo app in the examples folder||
 |3|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**ElmObjParser**](https://github.com/JoeyEremondi/ElmObjParser)|OBJ parsing and rendering tools for Elm||
 |3|[@akbiggs](https://github.com/akbiggs)/[**elm-effects**](https://github.com/akbiggs/elm-effects)|Package for broadcasting messages to parent components and side-effects.||

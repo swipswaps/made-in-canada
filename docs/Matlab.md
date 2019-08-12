@@ -22,7 +22,7 @@
 |10|[@cpmusco](https://github.com/cpmusco)/[**bksvd**](https://github.com/cpmusco/bksvd)|Fast randomized block Krylov method for the singular value decomposition||
 |10|[@luster](https://github.com/luster)/[**guitar-effects**](https://github.com/luster/guitar-effects)|Guitar Effects project for Music & Engineering, Fall 2012 at Cooper Union||
 |9|[@ch237](https://github.com/ch237)/[**BayesPoissonFactor**](https://github.com/ch237/BayesPoissonFactor)|Bayesian Poisson Tensor Factorization||
-|8|[@susanli2016](https://github.com/susanli2016)/[**Machine-Learning-with-AndrewNg**](https://github.com/susanli2016/Machine-Learning-with-AndrewNg)|Programming assignments for Coursera's Machine Learning Course.||
+|9|[@susanli2016](https://github.com/susanli2016)/[**Machine-Learning-with-AndrewNg**](https://github.com/susanli2016/Machine-Learning-with-AndrewNg)|Programming assignments for Coursera's Machine Learning Course.||
 |6|[@abhineet123](https://github.com/abhineet123)/[**MDP_Tracking**](https://github.com/abhineet123/MDP_Tracking)| Reinforcement learning based multi object tracker |[:arrow_upper_right:](http://cvgl.stanford.edu/projects/MDP_tracking/)|
 |6|[@dengwirda](https://github.com/dengwirda)/[**inpoly**](https://github.com/dengwirda/inpoly)|A fast 'point-in-polygon' test for MATLAB / OCTAVE.||
 |6|[@dhingratul](https://github.com/dhingratul)/[**Face-Recognition-Algorithms**](https://github.com/dhingratul/Face-Recognition-Algorithms)|Implemented and evaluated four basic face recognition algorithms: Eigenfaces, Fisherfaces, Support Vector Machine (SVM), and Sparse Representation-based Classification (SRC) on YaleB dataset|[:arrow_upper_right:](https://drive.google.com/file/d/0B_bJrFXp111QblpZMnM0bU9zLTQ/view)|
