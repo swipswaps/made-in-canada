@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|152|[@willyd](https://github.com/willyd)/[**caffe-builder**](https://github.com/willyd/caffe-builder)|CMake build scripts to automate building the Caffe library and its dependencies.||
+|153|[@willyd](https://github.com/willyd)/[**caffe-builder**](https://github.com/willyd/caffe-builder)|CMake build scripts to automate building the Caffe library and its dependencies.||
 |112|[@ldionne](https://github.com/ldionne)/[**metabench**](https://github.com/ldionne/metabench)|A simple framework for compile-time benchmarks||
 |53|[@corngood](https://github.com/corngood)/[**SDL_vulkan**](https://github.com/corngood/SDL_vulkan)|A library for creating Vulkan surfaces for SDL2 windows.||
 |44|[@Devolutions](https://github.com/Devolutions)/[**CMakeRust**](https://github.com/Devolutions/CMakeRust)|CMake Rust Language Support||
@@ -15,6 +15,7 @@
 |3|[@awakecoding](https://github.com/awakecoding)/[**CMakeSharp**](https://github.com/awakecoding/CMakeSharp)|CMake C# Language Support||
 |3|[@danijar](https://github.com/danijar)/[**modurale**](https://github.com/danijar/modurale)|Modular real time engine for computer graphics applications||
 |3|[@fire](https://github.com/fire)/[**Urho3dHunterTest**](https://github.com/fire/Urho3dHunterTest)|||
+|3|[@fungos](https://github.com/fungos)/[**fips-nanovg**](https://github.com/fungos/fips-nanovg)|fipsified version of nanovg (https://github.com/memononen/nanovg.git)||
 |3|[@fungos](https://github.com/fungos)/[**fips-turbobadger**](https://github.com/fungos/fips-turbobadger)|Fipsified turbobadger (https://github.com/fruxo/turbobadger) ||
 |3|[@glouw](https://github.com/glouw)/[**gr-pv**](https://github.com/glouw/gr-pv)|The Per Vices Functional Test System||
 

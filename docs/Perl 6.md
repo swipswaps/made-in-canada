@@ -12,8 +12,8 @@
 |8|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-CoreHackers-Sourcery**](https://github.com/zoffixznet/perl6-CoreHackers-Sourcery)|Perl 6 module: show source locations of core methods and subs||
 |8|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Twitter**](https://github.com/zoffixznet/perl6-Twitter)|Perl 6 module: Twitter API||
 |7|[@zoffixznet](https://github.com/zoffixznet)/[**z**](https://github.com/zoffixznet/z)|Helper script for Rakudo Perl 6 core development||
+|6|[@briandfoy](https://github.com/briandfoy)/[**perl6-PrettyDump**](https://github.com/briandfoy/perl6-PrettyDump)|Format a Perl 6 data structure for human inspection||
 |6|[@supernovus](https://github.com/supernovus)/[**perl6-fastcgi**](https://github.com/supernovus/perl6-fastcgi)|FastCGI application library for Perl 6||
-|5|[@briandfoy](https://github.com/briandfoy)/[**perl6-PrettyDump**](https://github.com/briandfoy/perl6-PrettyDump)|Format a Perl 6 data structure for human inspection||
 |4|[@briandfoy](https://github.com/briandfoy)/[**perl6-chemistry-elements**](https://github.com/briandfoy/perl6-chemistry-elements)|Perl 6 extension for working with the Periodic Table of Elements||
 |4|[@davepagurek](https://github.com/davepagurek)/[**English**](https://github.com/davepagurek/English)|English parsing for Perl 6||
 |4|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Games-TauStation-DateTime**](https://github.com/zoffixznet/perl6-Games-TauStation-DateTime)|Convert TauStation's ( https://taustation.space ) Galactic Central Time to Old Earth Time||

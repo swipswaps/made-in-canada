@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|177|[@samuelcolvin](https://github.com/samuelcolvin)/[**JuliaByExample**](https://github.com/samuelcolvin/JuliaByExample)|Examples of Julia|[:arrow_upper_right:](https://juliabyexample.helpmanual.io/)|
+|179|[@samuelcolvin](https://github.com/samuelcolvin)/[**JuliaByExample**](https://github.com/samuelcolvin/JuliaByExample)|Examples of Julia|[:arrow_upper_right:](https://juliabyexample.helpmanual.io/)|
 |61|[@una-dinosauria](https://github.com/una-dinosauria)/[**local-search-quantization**](https://github.com/una-dinosauria/local-search-quantization)|State-of-the-art method for large-scale ANN search as of Oct 2016. Presented at ECCV 16.||
-|54|[@eschnett](https://github.com/eschnett)/[**SIMD.jl**](https://github.com/eschnett/SIMD.jl)|Explicit SIMD vector operations for Julia||
+|55|[@eschnett](https://github.com/eschnett)/[**SIMD.jl**](https://github.com/eschnett/SIMD.jl)|Explicit SIMD vector operations for Julia||
 |28|[@una-dinosauria](https://github.com/una-dinosauria)/[**Rayuela.jl**](https://github.com/una-dinosauria/Rayuela.jl)|Code for my PhD thesis. Library of quantization-based methods for fast similarity search in high dimensions. Presented at ECCV 18.||
 |24|[@jiahao](https://github.com/jiahao)/[**GSL.jl**](https://github.com/jiahao/GSL.jl)|Julia interface to the GNU Scientific Library (GSL)||
 |19|[@jiahao](https://github.com/jiahao)/[**RandomMatrices.jl**](https://github.com/jiahao/RandomMatrices.jl)|Random matrices package for Julia||
@@ -25,6 +25,7 @@
 |4|[@christopher-dG](https://github.com/christopher-dG)/[**Chatter.jl**](https://github.com/christopher-dG/Chatter.jl)|Talk to stuff, and talk to more stuff when I am less lazy||
 |4|[@tpoisot](https://github.com/tpoisot)/[**Viridis.jl**](https://github.com/tpoisot/Viridis.jl)|Viridis (et al.) palettes for Julia||
 |3|[@0](https://github.com/0)/[**LatticeSweeper.jl**](https://github.com/0/LatticeSweeper.jl)|Simple two-site DMRG.||
+|3|[@jfsantos](https://github.com/jfsantos)/[**IJuliaNotebooks**](https://github.com/jfsantos/IJuliaNotebooks)|Simple Julia tutorials as IJulia notebooks||
 |3|[@jiahao](https://github.com/jiahao)/[**ArbRadixFloatingPoints.jl**](https://github.com/jiahao/ArbRadixFloatingPoints.jl)|Floating point numbers with arbitrary radixes (may be negative or nonreal)||
 |3|[@jiahao](https://github.com/jiahao)/[**BigFinance.jl**](https://github.com/jiahao/BigFinance.jl)|Analysis of high frequency quantitative data in Julia||
 |3|[@jiahao](https://github.com/jiahao)/[**NetflixPrize.jl**](https://github.com/jiahao/NetflixPrize.jl)|Julia package for handling the Netflix Prize data set of 2006||

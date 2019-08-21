@@ -1,4 +1,5 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|42|[@alexismorin](https://github.com/alexismorin)/[**Photosynthesizer**](https://github.com/alexismorin/Photosynthesizer)|Unity plugin to procedurally sprout foliage throughout your scene.||
+|45|[@alexismorin](https://github.com/alexismorin)/[**Photosynthesizer**](https://github.com/alexismorin/Photosynthesizer)|Unity plugin to procedurally sprout foliage throughout your scene.||
+|4|[@alexismorin](https://github.com/alexismorin)/[**Shoegazer**](https://github.com/alexismorin/Shoegazer)|VR Guitar Jam Session||
 

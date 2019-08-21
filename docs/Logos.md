@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|240|[@b3ll](https://github.com/b3ll)/[**Ignition**](https://github.com/b3ll/Ignition)|Runs the CarPlay UI directly on top of SpringBoard on an iOS device, no need for a car!||
-|48|[@b3ll](https://github.com/b3ll)/[**MessageBox**](https://github.com/b3ll/MessageBox)|Break Facebook's Chat Heads out of the iOS Sandbox!||
+|241|[@b3ll](https://github.com/b3ll)/[**Ignition**](https://github.com/b3ll/Ignition)|Runs the CarPlay UI directly on top of SpringBoard on an iOS device, no need for a car!||
+|49|[@b3ll](https://github.com/b3ll)/[**MessageBox**](https://github.com/b3ll/MessageBox)|Break Facebook's Chat Heads out of the iOS Sandbox!||
 |32|[@b3ll](https://github.com/b3ll)/[**Spectral**](https://github.com/b3ll/Spectral)|Make the iOS lockscreen proper with blurred album artwork!||
 |22|[@AppleBetas](https://github.com/AppleBetas)/[**Melody**](https://github.com/AppleBetas/Melody)|Restore the iOS 9 Music app on iOS 10.|[:arrow_upper_right:](https://repo.applebetas.co/depiction/co.dynastic.ios.tweak.melody/)|
 |17|[@ca13ra1](https://github.com/ca13ra1)/[**CCRecord**](https://github.com/ca13ra1/CCRecord)|Screen recording accessible from CC.||
@@ -21,6 +21,7 @@
 |4|[@Sticktron](https://github.com/Sticktron)/[**SSHIcon**](https://github.com/Sticktron/SSHIcon)|An iOS statusbar indicator for SSH connections.|[:arrow_upper_right:](https://repo.sticktron.net)|
 |4|[@b3ll](https://github.com/b3ll)/[**GottaCatchMALL**](https://github.com/b3ll/GottaCatchMALL)|Add Missingno as an obtainable pokémon in the Google Maps' Pokémon Challenge!||
 |4|[@codyd51](https://github.com/codyd51)/[**AVSimulator2k15**](https://github.com/codyd51/AVSimulator2k15)|It's just like a real antivirus!||
+|4|[@codyd51](https://github.com/codyd51)/[**Hue**](https://github.com/codyd51/Hue)|Gradually shift your iPhone's text color throughout the day||
 |4|[@codyd51](https://github.com/codyd51)/[**TapTheAt**](https://github.com/codyd51/TapTheAt)|Hold the '@' key to quickly enter your email||
 |3|[@Cykey](https://github.com/Cykey)/[**Uninstall-Application-Size**](https://github.com/Cykey/Uninstall-Application-Size)|Shows an application's size when prompting to uninstall||
 |3|[@Sticktron](https://github.com/Sticktron)/[**Croutons**](https://github.com/Sticktron/Croutons)|App icons instead of breadcrumbs.||
@@ -30,7 +31,6 @@
 |3|[@ca13ra1](https://github.com/ca13ra1)/[**ScreenshotBanners**](https://github.com/ca13ra1/ScreenshotBanners)|Replace screenshot with banners.||
 |3|[@ca13ra1](https://github.com/ca13ra1)/[**VibrantCC**](https://github.com/ca13ra1/VibrantCC)|Vibrant blur effect for control center.||
 |3|[@codyd51](https://github.com/codyd51)/[**CallConnect**](https://github.com/codyd51/CallConnect)|Vibrate when your call connects||
-|3|[@codyd51](https://github.com/codyd51)/[**Hue**](https://github.com/codyd51/Hue)|Gradually shift your iPhone's text color throughout the day||
 |3|[@codyd51](https://github.com/codyd51)/[**TouchPass**](https://github.com/codyd51/TouchPass)|Unlocking your device is just a tap away||
 |3|[@codyd51](https://github.com/codyd51)/[**conformity**](https://github.com/codyd51/conformity)|Replacement for the call controller||
 

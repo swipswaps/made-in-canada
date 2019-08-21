@@ -13,7 +13,7 @@
 |11|[@jxxcarlson](https://github.com/jxxcarlson)/[**quad**](https://github.com/jxxcarlson/quad)|Generative art project in Elm based on subdivision of quadrilaterals||
 |10|[@ktonon](https://github.com/ktonon)/[**aws-sdk-elm**](https://github.com/ktonon/aws-sdk-elm)|Deprecated. Replaced by elm-aws-core and elm-aws-generate||
 |9|[@ktonon](https://github.com/ktonon)/[**elm-crypto**](https://github.com/ktonon/elm-crypto)|Cryptography with HMAC and SHA-2|[:arrow_upper_right:](http://package.elm-lang.org/packages/ktonon/elm-crypto/latest)|
-|6|[@ktonon](https://github.com/ktonon)/[**elm-jsonwebtoken**](https://github.com/ktonon/elm-jsonwebtoken)|JSON Web Token encoder and decoder||
+|7|[@ktonon](https://github.com/ktonon)/[**elm-jsonwebtoken**](https://github.com/ktonon/elm-jsonwebtoken)|JSON Web Token encoder and decoder||
 |5|[@fosskers](https://github.com/fosskers)/[**2048**](https://github.com/fosskers/2048)|An implementation of 2048 in Elm.||
 |5|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-graph**](https://github.com/jxxcarlson/elm-graph)|Simple charts in Elm (line bar)||
 |5|[@jxxcarlson](https://github.com/jxxcarlson)/[**pobox**](https://github.com/jxxcarlson/pobox)|Elm demo of PO Box concept for exchanging data between apps living in the same browser||
