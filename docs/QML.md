@@ -1,13 +1,13 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|213|[@amlwwalker](https://github.com/amlwwalker)/[**got-qt**](https://github.com/amlwwalker/got-qt)|A framework for building cross platform GUI interfaces in Go and QML||
-|111|[@Furkanzmc](https://github.com/Furkanzmc)/[**QML-UI-Animations**](https://github.com/Furkanzmc/QML-UI-Animations)|QML implementations of various UI concepts by various artists||
+|214|[@amlwwalker](https://github.com/amlwwalker)/[**got-qt**](https://github.com/amlwwalker/got-qt)|A framework for building cross platform GUI interfaces in Go and QML||
+|112|[@Furkanzmc](https://github.com/Furkanzmc)/[**QML-UI-Animations**](https://github.com/Furkanzmc/QML-UI-Animations)|QML implementations of various UI concepts by various artists||
 |104|[@Furkanzmc](https://github.com/Furkanzmc)/[**QML-Loaders**](https://github.com/Furkanzmc/QML-Loaders)|Loading animation implementations in QML||
-|82|[@Zren](https://github.com/Zren)/[**plasma-applet-eventcalendar**](https://github.com/Zren/plasma-applet-eventcalendar)||[:arrow_upper_right:](https://store.kde.org/p/998901/)|
+|83|[@Zren](https://github.com/Zren)/[**plasma-applet-eventcalendar**](https://github.com/Zren/plasma-applet-eventcalendar)||[:arrow_upper_right:](https://store.kde.org/p/998901/)|
 |23|[@Furkanzmc](https://github.com/Furkanzmc)/[**Everyday-QML**](https://github.com/Furkanzmc/Everyday-QML)|This is a repository in which I store my QML examples that I do (hopefully) everyday||
 |22|[@Zren](https://github.com/Zren)/[**plasma-applet-tiledmenu**](https://github.com/Zren/plasma-applet-tiledmenu)||[:arrow_upper_right:](https://store.kde.org/p/1160672/)|
 |16|[@Zren](https://github.com/Zren)/[**plasma-wallpapers**](https://github.com/Zren/plasma-wallpapers)|||
-|13|[@Zren](https://github.com/Zren)/[**plasma-applet-todolist**](https://github.com/Zren/plasma-applet-todolist)||[:arrow_upper_right:](https://store.kde.org/p/1152230/)|
+|14|[@Zren](https://github.com/Zren)/[**plasma-applet-todolist**](https://github.com/Zren/plasma-applet-todolist)||[:arrow_upper_right:](https://store.kde.org/p/1152230/)|
 |11|[@nickgermaine](https://github.com/nickgermaine)/[**vinyl-music**](https://github.com/nickgermaine/vinyl-music)|Vinyl Music is now Liri Vinyl|[:arrow_upper_right:](https://github.com/liri-project/liri-vinyl)|
 |8|[@Zren](https://github.com/Zren)/[**plasma-applet-commandoutput**](https://github.com/Zren/plasma-applet-commandoutput)||[:arrow_upper_right:](https://store.kde.org/p/1166510/)|
 |7|[@Zren](https://github.com/Zren)/[**plasma-applet-githubissues**](https://github.com/Zren/plasma-applet-githubissues)||[:arrow_upper_right:](https://store.kde.org/p/1271237/)|

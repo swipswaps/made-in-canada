@@ -18,8 +18,8 @@
 |25|[@WillSewell](https://github.com/WillSewell)/[**pusher-http-haskell**](https://github.com/WillSewell/pusher-http-haskell)|Pusher Haskell HTTP Library||
 |25|[@csabahruska](https://github.com/csabahruska)/[**gpipe-quake3**](https://github.com/csabahruska/gpipe-quake3)|Quake 3 map viewer in Haskell using GPipe|[:arrow_upper_right:](https://wiki.haskell.org/GPipe)|
 |23|[@singpolyma](https://github.com/singpolyma)/[**unexceptionalio**](https://github.com/singpolyma/unexceptionalio)|IO without any PseudoExceptions|[:arrow_upper_right:](http://hackage.haskell.org/package/unexceptionalio)|
+|19|[@Aiden01](https://github.com/Aiden01)/[**iris-lang**](https://github.com/Aiden01/iris-lang)|A simple, statically-typed programming language||
 |19|[@PhDP](https://github.com/PhDP)/[**Faun**](https://github.com/PhDP/Faun)|Experimental ML/AI code||
-|18|[@Aiden01](https://github.com/Aiden01)/[**iris-lang**](https://github.com/Aiden01/iris-lang)|A simple, statically-typed programming language||
 |16|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm-old**](https://github.com/JoeyEremondi/haskelm-old)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
 |16|[@WillSewell](https://github.com/WillSewell)/[**benchpress**](https://github.com/WillSewell/benchpress)|Micro-benchmarking of Haskell code with detailed execution time statistics.||
 |15|[@fosskers](https://github.com/fosskers)/[**kanji**](https://github.com/fosskers/kanji)|Haskell suite for determining what 級 (level) of the 漢字検定 (national Kanji exam) a given Kanji belongs to.||

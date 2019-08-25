@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|513|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base! see the website for details - https://luxeengine.com/|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
+|515|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base! see the website for details - https://luxeengine.com/|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
 |41|[@Ohmnivore](https://github.com/Ohmnivore)/[**SkullRush**](https://github.com/Ohmnivore/SkullRush)|A 2D online multiplayer shooter written in Haxe||
 |41|[@hamaluik](https://github.com/hamaluik)/[**haxe-glm**](https://github.com/hamaluik/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |37|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-glm**](https://github.com/FuzzyWuzzie/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
@@ -42,6 +42,7 @@
 |7|[@starburst997](https://github.com/starburst997)/[**haxe-zip**](https://github.com/starburst997/haxe-zip)|Library to provide a cross-platform streaming Zip Writer / Reader experience.||
 |6|[@Ohmnivore](https://github.com/Ohmnivore)/[**TileSetter**](https://github.com/Ohmnivore/TileSetter)|UI application for editing tile properties for tilesets||
 |6|[@adireddy](https://github.com/adireddy)/[**haxe-hammer**](https://github.com/adireddy/haxe-hammer)|Externs of hammer.js for Haxe ||
+|6|[@chfoo](https://github.com/chfoo)/[**thenshim**](https://github.com/chfoo/thenshim)|Adapter/shim for cross-target JavaScript-style ('thenable') promises Haxe library ||
 |6|[@hamaluik](https://github.com/hamaluik)/[**haxe-pako**](https://github.com/hamaluik/haxe-pako)|Haxe externs for the https://github.com/nodeca/pako library.||
 |6|[@underscorediscovery](https://github.com/underscorediscovery)/[**hxpromise**](https://github.com/underscorediscovery/hxpromise)|hxpromise||
 |5|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**FeatherRock**](https://github.com/FuzzyWuzzie/FeatherRock)|My LD32 entry!||
@@ -56,7 +57,6 @@
 |4|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-pako**](https://github.com/FuzzyWuzzie/haxe-pako)|Haxe externs for the https://github.com/nodeca/pako library.||
 |4|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-partials**](https://github.com/FuzzyWuzzie/haxe-partials)|A simple macro library for writing classes as partials (splitting a single class into multiple source files).||
 |4|[@adireddy](https://github.com/adireddy)/[**perf**](https://github.com/adireddy/perf)|Simple JavaScript Performance Monitor||
-|4|[@chfoo](https://github.com/chfoo)/[**thenshim**](https://github.com/chfoo/thenshim)|Adapter/shim for cross-target JavaScript-style ('thenable') promises Haxe library ||
 |4|[@hamaluik](https://github.com/hamaluik)/[**LuxePong**](https://github.com/hamaluik/LuxePong)|A single game of pong, written using Luxe as a learning excercise||
 |4|[@hamaluik](https://github.com/hamaluik)/[**RegisAgro**](https://github.com/hamaluik/RegisAgro)|A Luxe implementation of hnefatafl||
 |4|[@hamaluik](https://github.com/hamaluik)/[**haxe-partials**](https://github.com/hamaluik/haxe-partials)|A simple macro library for writing classes as partials (splitting a single class into multiple source files).||

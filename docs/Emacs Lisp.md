@@ -1,12 +1,12 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|18288|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
+|18320|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
 |148|[@syl20bnr](https://github.com/syl20bnr)/[**evil-escape**](https://github.com/syl20bnr/evil-escape)|Customizable key sequence to escape from insert state and everything else in Emacs.||
 |118|[@burtonsamograd](https://github.com/burtonsamograd)/[**emacs-jit**](https://github.com/burtonsamograd/emacs-jit)|Emacs with an Emacs Lisp JIT (Just In Time) compiler using libjit.||
 |102|[@atgreen](https://github.com/atgreen)/[**paperless**](https://github.com/atgreen/paperless)|Emacs assisted PDF document filing||
 |82|[@aspiers](https://github.com/aspiers)/[**smooth-scrolling**](https://github.com/aspiers/smooth-scrolling)|Emacs smooth scrolling package||
-|74|[@syl20bnr](https://github.com/syl20bnr)/[**evil-lisp-state**](https://github.com/syl20bnr/evil-lisp-state)|An evil state to navigate Lisp code and modify it with smartparens||
-|72|[@syl20bnr](https://github.com/syl20bnr)/[**spacelpa**](https://github.com/syl20bnr/spacelpa)|ELPA repository for stable versions of Spacemacs||
+|75|[@syl20bnr](https://github.com/syl20bnr)/[**evil-lisp-state**](https://github.com/syl20bnr/evil-lisp-state)|An evil state to navigate Lisp code and modify it with smartparens||
+|73|[@syl20bnr](https://github.com/syl20bnr)/[**spacelpa**](https://github.com/syl20bnr/spacelpa)|ELPA repository for stable versions of Spacemacs||
 |62|[@rudolfolah](https://github.com/rudolfolah)/[**emacs-sos**](https://github.com/rudolfolah/emacs-sos)|StackOverflow Search (SOS) mode for Emacs.||
 |57|[@arthurnn](https://github.com/arthurnn)/[**howdoi-emacs**](https://github.com/arthurnn/howdoi-emacs)|Search code from StackOverflow and paste it in emacs.||
 |50|[@rudolfolah](https://github.com/rudolfolah)/[**org-doing**](https://github.com/rudolfolah/org-doing)|keep track of what you're doing right now and what you've worked on before|[:arrow_upper_right:](http://omouse.github.io/org-doing)|
@@ -19,7 +19,7 @@
 |37|[@jimeh](https://github.com/jimeh)/[**birds-of-paradise-plus-theme.el**](https://github.com/jimeh/birds-of-paradise-plus-theme.el)|A Emacs port of Joseph Bergantine's light-on-dark theme by the same name.||
 |33|[@burke](https://github.com/burke)/[**color-theme-ir-black**](https://github.com/burke/color-theme-ir-black)|[abandoned] IR Black Color Theme for Emacs.||
 |33|[@jimeh](https://github.com/jimeh)/[**.emacs.d**](https://github.com/jimeh/.emacs.d)|My personal Emacs config with any quirks, oddities, bugs, and man-eating errors I live with on a daily basis.||
-|30|[@rudolfolah](https://github.com/rudolfolah)/[**angularjs-mode**](https://github.com/rudolfolah/angularjs-mode)|AngularJS utilities and major modes for Emacs (angular-mode for javascript, angular-html-mode for html templates)|[:arrow_upper_right:](http://rudolfolah.github.io/angularjs-mode)|
+|31|[@rudolfolah](https://github.com/rudolfolah)/[**angularjs-mode**](https://github.com/rudolfolah/angularjs-mode)|AngularJS utilities and major modes for Emacs (angular-mode for javascript, angular-html-mode for html templates)|[:arrow_upper_right:](http://rudolfolah.github.io/angularjs-mode)|
 |25|[@dpo](https://github.com/dpo)/[**ampl-mode**](https://github.com/dpo/ampl-mode)|Syntax highlighting mode for the AMPL modeling language||
 |25|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs-elpa-mirror**](https://github.com/syl20bnr/spacemacs-elpa-mirror)|ELPA archive for Spacemacs packages.||
 |24|[@honza](https://github.com/honza)/[**dotfiles**](https://github.com/honza/dotfiles)|My awesome dotfiles.|[:arrow_upper_right:](https://github.com/honza/dotfiles)|
@@ -37,6 +37,7 @@
 |7|[@j0ni](https://github.com/j0ni)/[**phoenix-dark-mono**](https://github.com/j0ni/phoenix-dark-mono)|Mono version of the Phoenix Dark theme||
 |7|[@jimeh](https://github.com/jimeh)/[**tomorrow-night-paradise-theme.el**](https://github.com/jimeh/tomorrow-night-paradise-theme.el)|A light-on-dark Emacs theme which is essentially a tweaked version of Chris Kempson's Tomorrow Night Bright theme.||
 |7|[@thephoeron](https://github.com/thephoeron)/[**slime-pack**](https://github.com/thephoeron/slime-pack)|SLIME pack for Emacs Live||
+|7|[@travisjeffery](https://github.com/travisjeffery)/[**proced-narrow**](https://github.com/travisjeffery/proced-narrow)|Live-narrowing of search results for proced in Emacs.||
 |6|[@Ailrun](https://github.com/Ailrun)/[**coq-commenter**](https://github.com/Ailrun/coq-commenter)|Coq commenter for Emacs||
 |6|[@tokenrove](https://github.com/tokenrove)/[**goose-theme**](https://github.com/tokenrove/goose-theme)|A gray color theme|[:arrow_upper_right:](https://github.com/thwg/goose-theme)|
 |6|[@travisjeffery](https://github.com/travisjeffery)/[**emacs-tumblr**](https://github.com/travisjeffery/emacs-tumblr)|Post to Tumblr using Emacs.||
@@ -47,7 +48,6 @@
 |5|[@aspiers](https://github.com/aspiers)/[**worg**](https://github.com/aspiers/worg)|Adam's personal mirror of Worg - user documentation of orgmode for emacs|[:arrow_upper_right:](http://orgmode.org/worg/)|
 |5|[@jkakar](https://github.com/jkakar)/[**emacs-configuration**](https://github.com/jkakar/emacs-configuration)|My emacs configuration||
 |5|[@robmyers](https://github.com/robmyers)/[**lll-mode**](https://github.com/robmyers/lll-mode)|  A GNU Emacs mode for editing Low Level Language code for the Ethereum Virtual Machine.||
-|5|[@travisjeffery](https://github.com/travisjeffery)/[**proced-narrow**](https://github.com/travisjeffery/proced-narrow)|Live-narrowing of search results for proced in Emacs.||
 |4|[@aspiers](https://github.com/aspiers)/[**orgmode**](https://github.com/aspiers/orgmode)|personal repository for patches to orgmode upstream|[:arrow_upper_right:](http://orgmode.org/)|
 |4|[@aycanirican](https://github.com/aycanirican)/[**.emacs.d**](https://github.com/aycanirican/.emacs.d)|My emacs setup||
 |4|[@jdufresne](https://github.com/jdufresne)/[**emacs-init**](https://github.com/jdufresne/emacs-init)|My Emacs init.el||
