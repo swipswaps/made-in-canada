@@ -1,24 +1,24 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|19578|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
-|787|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
+|19646|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
+|789|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
 |305|[@jennybc](https://github.com/jennybc)/[**happy-git-with-r**](https://github.com/jennybc/happy-git-with-r)|Using Git and GitHub with R, Rstudio, and R Markdown|[:arrow_upper_right:](https://happygitwithr.com)|
-|294|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
+|293|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
 |290|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
 |248|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
-|228|[@bob-carpenter](https://github.com/bob-carpenter)/[**prob-stats**](https://github.com/bob-carpenter/prob-stats)|Probability and Statistics: a simulation-based introduction.  An open-access book.||
-|186|[@hamaluik](https://github.com/hamaluik)/[**Beamer-Theme-Execushares**](https://github.com/hamaluik/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
+|231|[@bob-carpenter](https://github.com/bob-carpenter)/[**prob-stats**](https://github.com/bob-carpenter/prob-stats)|Probability and Statistics: a simulation-based introduction.  An open-access book.||
+|187|[@hamaluik](https://github.com/hamaluik)/[**Beamer-Theme-Execushares**](https://github.com/hamaluik/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
 |154|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execushares**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
-|107|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
+|106|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
 |60|[@patmorin](https://github.com/patmorin)/[**arraylayout**](https://github.com/patmorin/arraylayout)|Experiments with array layouts for comparison-based searching|[:arrow_upper_right:](http://cglab.ca/~morin/misc/arraylayout-v2/)|
-|57|[@breandan](https://github.com/breandan)/[**kotlingrad**](https://github.com/breandan/kotlingrad)|Kotlin𝛁: Differentiable Functional Programming with Algebraic Data Types|[:arrow_upper_right:](https://github.com/breandan/kotlingrad/blob/master/latex/cser/cser_pres.pdf)|
+|59|[@breandan](https://github.com/breandan)/[**kotlingrad**](https://github.com/breandan/kotlingrad)|Kotlin𝛁: Differentiable Functional Programming with Algebraic Data Types|[:arrow_upper_right:](https://github.com/breandan/kotlingrad/blob/master/latex/cser/cser_pres.pdf)|
 |51|[@iandennismiller](https://github.com/iandennismiller)/[**mueller-report**](https://github.com/iandennismiller/mueller-report)|Open Source Mueller Report is an enhanced edition of the Mueller Report.|[:arrow_upper_right:](http://opensourcemuellerreport.com)|
 |44|[@christhomson](https://github.com/christhomson)/[**lecture-notes**](https://github.com/christhomson/lecture-notes)|LaTeX notes for a few courses I've taken at the University of Waterloo.|[:arrow_upper_right:](http://cthomson.ca/notes)|
 |29|[@jihoonog](https://github.com/jihoonog)/[**School-Notes-Public**](https://github.com/jihoonog/School-Notes-Public)|This is the public repository of all my school notes from the University of Alberta (and some from the University of Lethbridge)||
 |28|[@lyst](https://github.com/lyst)/[**lightfm-paper**](https://github.com/lyst/lightfm-paper)|||
 |23|[@peeterjoot](https://github.com/peeterjoot)/[**physicsplay**](https://github.com/peeterjoot/physicsplay)|Latex source for geometric algebra and physics notes.|[:arrow_upper_right:](http://peeterjoot.com/)|
+|19|[@AllanWang](https://github.com/AllanWang)/[**McGill-Public**](https://github.com/AllanWang/McGill-Public)|Part of McGill U3/U4 that can be made public|[:arrow_upper_right:](https://allanwang.github.io/McGill-Public/)|
 |19|[@mcantelon](https://github.com/mcantelon)/[**fashion-quest**](https://github.com/mcantelon/fashion-quest)|Shoes-dependent, YAML-driven interactive fiction framework for fashion adventures|[:arrow_upper_right:](http://mcantelon.github.io/fashion-quest/)|
-|18|[@AllanWang](https://github.com/AllanWang)/[**McGill-Public**](https://github.com/AllanWang/McGill-Public)|Part of McGill U3/U4 that can be made public|[:arrow_upper_right:](https://allanwang.github.io/McGill-Public/)|
 |15|[@tpoisot](https://github.com/tpoisot)/[**ecobiblatex**](https://github.com/tpoisot/ecobiblatex)|Biblatex styles for ecology journals||
 |14|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan**](https://github.com/gavinsimpson/esa-advanced-vegan)|Advanced Vegan Workshop for ESA||
 |14|[@gavinsimpson](https://github.com/gavinsimpson)/[**frontiers-palaeo-additive-modelling**](https://github.com/gavinsimpson/frontiers-palaeo-additive-modelling)|Modelling and feature detection in palaeoenvironmental time series using additive models||
@@ -50,11 +50,11 @@
 |6|[@sx-archipelagos](https://github.com/sx-archipelagos)/[**sxa**](https://github.com/sx-archipelagos/sxa)|||
 |5|[@MathML](https://github.com/MathML)/[**MathMLinHTML5**](https://github.com/MathML/MathMLinHTML5)|(we migrated to GitLab) Draft for a detailed technical document to implement MathML in Web rendering engines.|[:arrow_upper_right:](http://www.mathml-association.org/MathMLinHTML5/)|
 |5|[@dpo](https://github.com/dpo)/[**latex-styles**](https://github.com/dpo/latex-styles)|Customizations of LaTeX Styles Useful for Scientific Papers||
+|5|[@eddyerburgh](https://github.com/eddyerburgh)/[**notes**](https://github.com/eddyerburgh/notes)|📚Notes on computer science https://notes.eddyerburgh.me/||
 |5|[@larrytheliquid](https://github.com/larrytheliquid)/[**generic-reuse**](https://github.com/larrytheliquid/generic-reuse)|Source code accompanying the draft paper "Generic Zero-Cost Reuse for Dependent Types" |[:arrow_upper_right:](https://arxiv.org/abs/1803.08150)|
 |5|[@seananderson](https://github.com/seananderson)/[**pandoc-template**](https://github.com/seananderson/pandoc-template)|An example manuscript setup in Pandoc||
 |5|[@sjackman](https://github.com/sjackman)/[**white-spruce-organelles-paper**](https://github.com/sjackman/white-spruce-organelles-paper)|:evergreen_tree: Organellar Genomes of White Spruce (Picea glauca)|[:arrow_upper_right:](http://gbe.oxfordjournals.org/content/8/1/29)|
 |4|[@amallia](https://github.com/amallia)/[**ML-cheatsheet**](https://github.com/amallia/ML-cheatsheet)|Machine Learning cheatsheet||
-|4|[@eddyerburgh](https://github.com/eddyerburgh)/[**notes**](https://github.com/eddyerburgh/notes)|📚Notes on computer science https://notes.eddyerburgh.me/||
 |4|[@gnewton](https://github.com/gnewton)/[**lusql**](https://github.com/gnewton/lusql)|High performance extract, transform, load (ETL) initially for JDBC-->Lucene, now supports other paths through plugins||
 |4|[@larrytheliquid](https://github.com/larrytheliquid)/[**zero-cost-coercions**](https://github.com/larrytheliquid/zero-cost-coercions)|Source code accompanying the draft paper "Zero-Cost Coercions for Program and Proof Reuse"|[:arrow_upper_right:](https://arxiv.org/pdf/1802.00787.pdf)|
 |4|[@peeterjoot](https://github.com/peeterjoot)/[**classicalmechanics**](https://github.com/peeterjoot/classicalmechanics)|classicalmechanics notes compilation||

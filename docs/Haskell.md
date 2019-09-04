@@ -1,24 +1,24 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|180|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
+|185|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
 |153|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
 |131|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
 |130|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
 |106|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
 |105|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
-|105|[@larrytheliquid](https://github.com/larrytheliquid)/[**Lemmachine**](https://github.com/larrytheliquid/Lemmachine)|REST'ful web framework in Agda||
-|74|[@zhangchiqing](https://github.com/zhangchiqing)/[**beginner-friendly-haskell-for-web-development**](https://github.com/zhangchiqing/beginner-friendly-haskell-for-web-development)|A book about real world web development in beginner friendly Haskell||
+|104|[@larrytheliquid](https://github.com/larrytheliquid)/[**Lemmachine**](https://github.com/larrytheliquid/Lemmachine)|REST'ful web framework in Agda||
+|75|[@zhangchiqing](https://github.com/zhangchiqing)/[**beginner-friendly-haskell-for-web-development**](https://github.com/zhangchiqing/beginner-friendly-haskell-for-web-development)|A book about real world web development in beginner friendly Haskell||
 |68|[@baig](https://github.com/baig)/[**pandoc-csv2table**](https://github.com/baig/pandoc-csv2table)|A Pandoc filter that renders CSV as Pandoc Markdown Tables.||
 |53|[@thephoeron](https://github.com/thephoeron)/[**quipper-language**](https://github.com/thephoeron/quipper-language)|Quipper: embedded, scalable functional programming language for quantum computing (unofficial fork)||
 |47|[@csabahruska](https://github.com/csabahruska)/[**jhc-components**](https://github.com/csabahruska/jhc-components)|JHC Haskell compiler split into reusable components||
-|41|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm**](https://github.com/JoeyEremondi/haskelm)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
+|40|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm**](https://github.com/JoeyEremondi/haskelm)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
 |28|[@avieth](https://github.com/avieth)/[**Algebraic**](https://github.com/avieth/Algebraic)|Experiments on the construction of functions||
 |28|[@thayerwilliams](https://github.com/thayerwilliams)/[**msi-xmonad**](https://github.com/thayerwilliams/msi-xmonad)|xmonad.hs (Xmonad >= 0.9) and related config files for my MSI Wind netbook|[:arrow_upper_right:](http://cinderwick.ca)|
 |27|[@fosskers](https://github.com/fosskers)/[**mapalgebra**](https://github.com/fosskers/mapalgebra)|Efficient, polymorphic Map Algebra in Haskell.||
+|26|[@csabahruska](https://github.com/csabahruska)/[**gpipe-quake3**](https://github.com/csabahruska/gpipe-quake3)|Quake 3 map viewer in Haskell using GPipe|[:arrow_upper_right:](https://wiki.haskell.org/GPipe)|
 |25|[@WillSewell](https://github.com/WillSewell)/[**pusher-http-haskell**](https://github.com/WillSewell/pusher-http-haskell)|Pusher Haskell HTTP Library||
-|25|[@csabahruska](https://github.com/csabahruska)/[**gpipe-quake3**](https://github.com/csabahruska/gpipe-quake3)|Quake 3 map viewer in Haskell using GPipe|[:arrow_upper_right:](https://wiki.haskell.org/GPipe)|
 |23|[@singpolyma](https://github.com/singpolyma)/[**unexceptionalio**](https://github.com/singpolyma/unexceptionalio)|IO without any PseudoExceptions|[:arrow_upper_right:](http://hackage.haskell.org/package/unexceptionalio)|
-|19|[@Aiden01](https://github.com/Aiden01)/[**iris-lang**](https://github.com/Aiden01/iris-lang)|A simple, statically-typed programming language||
+|20|[@Aiden01](https://github.com/Aiden01)/[**iris-lang**](https://github.com/Aiden01/iris-lang)|A simple, statically-typed programming language||
 |19|[@PhDP](https://github.com/PhDP)/[**Faun**](https://github.com/PhDP/Faun)|Experimental ML/AI code||
 |16|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**haskelm-old**](https://github.com/JoeyEremondi/haskelm-old)|Haskell to Elm translation using Template Haskell. Contains both a library and executable.||
 |16|[@WillSewell](https://github.com/WillSewell)/[**benchpress**](https://github.com/WillSewell/benchpress)|Micro-benchmarking of Haskell code with detailed execution time statistics.||
@@ -82,6 +82,8 @@
 |4|[@singpolyma](https://github.com/singpolyma)/[**plivo-haskell**](https://github.com/singpolyma/plivo-haskell)|Plivo API wrapper for Haskell||
 |4|[@singpolyma](https://github.com/singpolyma)/[**route-generator**](https://github.com/singpolyma/route-generator)|Utility to generate routes for use with yesod-routes|[:arrow_upper_right:](http://hackage.haskell.org/package/route-generator)|
 |4|[@singpolyma](https://github.com/singpolyma)/[**sgx-vitelity**](https://github.com/singpolyma/sgx-vitelity)|XMPP Gateway using Vitelity as a backend.||
+|3|[@Aiden01](https://github.com/Aiden01)/[**hastebin**](https://github.com/Aiden01/hastebin)|A simple CLI for Hastebin written in Haskell||
+|3|[@Aiden01](https://github.com/Aiden01)/[**paste-api**](https://github.com/Aiden01/paste-api)|Code sharing platform (API)||
 |3|[@aminb](https://github.com/aminb)/[**blog-old**](https://github.com/aminb/blog-old)|Source code of a previous version of aminb.org||
 |3|[@avieth](https://github.com/avieth)/[**PullRequestNagger**](https://github.com/avieth/PullRequestNagger)|Nag your peers about outstanding pull requests||
 |3|[@ba205](https://github.com/ba205)/[**ml-conduit**](https://github.com/ba205/ml-conduit)|Online ML Algorithms with Conduit||

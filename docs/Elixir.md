@@ -1,17 +1,17 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |616|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
-|470|[@mirego](https://github.com/mirego)/[**accent**](https://github.com/mirego/accent)|ᐱ Open-source, self-hosted, developer-oriented translation tool|[:arrow_upper_right:](https://www.accent.reviews)|
-|324|[@mirego](https://github.com/mirego)/[**elixir-boilerplate**](https://github.com/mirego/elixir-boilerplate)|⚗ The stable base upon which we build our Elixir projects at Mirego.|[:arrow_upper_right:](https://open.mirego.com)|
-|303|[@jarednorman](https://github.com/jarednorman)/[**canada**](https://github.com/jarednorman/canada)|Easy permission definitions in Elixir apps!|[:arrow_upper_right:](https://github.com/jarednorman/canada)|
-|294|[@joshnuss](https://github.com/joshnuss)/[**design-patterns-in-elixir**](https://github.com/joshnuss/design-patterns-in-elixir)|Common design patterns in Elixir||
+|471|[@mirego](https://github.com/mirego)/[**accent**](https://github.com/mirego/accent)|▴ Open-source, self-hosted, developer-oriented translation tool|[:arrow_upper_right:](https://www.accent.reviews)|
+|329|[@mirego](https://github.com/mirego)/[**elixir-boilerplate**](https://github.com/mirego/elixir-boilerplate)|⚗ The stable base upon which we build our Elixir projects at Mirego.|[:arrow_upper_right:](https://open.mirego.com)|
+|308|[@jarednorman](https://github.com/jarednorman)/[**canada**](https://github.com/jarednorman/canada)|Easy permission definitions in Elixir apps!|[:arrow_upper_right:](https://github.com/jarednorman/canada)|
+|295|[@joshnuss](https://github.com/joshnuss)/[**design-patterns-in-elixir**](https://github.com/joshnuss/design-patterns-in-elixir)|Common design patterns in Elixir||
 |240|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
 |197|[@expede](https://github.com/expede)/[**algae**](https://github.com/expede/algae)|Bootstrapped algebraic data types for Elixir|[:arrow_upper_right:](https://hex.pm/packages/algae)|
 |185|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
 |184|[@jkakar](https://github.com/jkakar)/[**aws-elixir**](https://github.com/jkakar/aws-elixir)|AWS clients for Elixir||
 |154|[@talentdeficit](https://github.com/talentdeficit)/[**exjsx**](https://github.com/talentdeficit/exjsx)|json for elixir||
 |151|[@joshnuss](https://github.com/joshnuss)/[**commerce_billing**](https://github.com/joshnuss/commerce_billing)|A payment processing library for Elixir||
-|133|[@GesJeremie](https://github.com/GesJeremie)/[**faker-elixir**](https://github.com/GesJeremie/faker-elixir)|:droplet: FakerElixir generates fake data for you. |[:arrow_upper_right:](https://hexdocs.pm/faker_elixir_octopus/FakerElixir.html)|
+|134|[@GesJeremie](https://github.com/GesJeremie)/[**faker-elixir**](https://github.com/GesJeremie/faker-elixir)|:droplet: FakerElixir generates fake data for you. |[:arrow_upper_right:](https://hexdocs.pm/faker_elixir_octopus/FakerElixir.html)|
 |102|[@joshnuss](https://github.com/joshnuss)/[**xml_builder**](https://github.com/joshnuss/xml_builder)|Elixir library for generating XML||
 |88|[@EQuimper](https://github.com/EQuimper)/[**CodeChallenge**](https://github.com/EQuimper/CodeChallenge)|All my thinking about some code challenge and Free Code Camps||
 |82|[@expede](https://github.com/expede)/[**type_class**](https://github.com/expede/type_class)|(Semi-)principled type classes for Elixir|[:arrow_upper_right:](https://hex.pm/packages/type_class)|
@@ -25,7 +25,7 @@
 |47|[@nicbet](https://github.com/nicbet)/[**essence**](https://github.com/nicbet/essence)|Essence is a library for Natural Language Processing and Text Summarization in Elixir.||
 |46|[@ChrisYammine](https://github.com/ChrisYammine)/[**ex_trello**](https://github.com/ChrisYammine/ex_trello)|An Elixir library for interfacing with the Trello API||
 |44|[@yrashk](https://github.com/yrashk)/[**genx**](https://github.com/yrashk/genx)|Elixir-style library for most important OTP functionality||
-|39|[@GBH](https://github.com/GBH)/[**loaded.bike**](https://github.com/GBH/loaded.bike)|Phoenix/Elixir web app for exploring and sharing bicycle touring routes|[:arrow_upper_right:](http://loaded.bike)|
+|40|[@GBH](https://github.com/GBH)/[**loaded.bike**](https://github.com/GBH/loaded.bike)|Phoenix/Elixir web app for exploring and sharing bicycle touring routes|[:arrow_upper_right:](http://loaded.bike)|
 |35|[@jkakar](https://github.com/jkakar)/[**aws-codegen**](https://github.com/jkakar/aws-codegen)|Code generator for AWS clients in Elixir.||
 |31|[@GBH](https://github.com/GBH)/[**phoenix_bootstrap_form**](https://github.com/GBH/phoenix_bootstrap_form)|Bootstrap 4 Forms for Phoenix/Elixir Applications||
 |31|[@mirego](https://github.com/mirego)/[**credo_filename_consistency**](https://github.com/mirego/credo_filename_consistency)|📚 A Credo check to ensure filename consistency across an Elixir project|[:arrow_upper_right:](https://open.mirego.com)|
@@ -33,9 +33,9 @@
 |24|[@adam12](https://github.com/adam12)/[**ecto_network**](https://github.com/adam12/ecto_network)|Ecto types to support MACADDR and Network extensions provided by Postgrex.||
 |23|[@joshnuss](https://github.com/joshnuss)/[**blip**](https://github.com/joshnuss/blip)|A fault-tolerant and concurrent StatsD server||
 |22|[@expede](https://github.com/expede)/[**quick_chat**](https://github.com/expede/quick_chat)|A quick demo CLI chat app for a workshop||
+|22|[@mirego](https://github.com/mirego)/[**absinthe_error_payload**](https://github.com/mirego/absinthe_error_payload)|Bridges the gap between Ecto and Absinthe for mutation payload||
 |22|[@ttvd](https://github.com/ttvd)/[**elixir-xxhash**](https://github.com/ttvd/elixir-xxhash)|Pure Elixir implementation of xxHash.||
 |21|[@adam12](https://github.com/adam12)/[**phoenix_mtm**](https://github.com/adam12/phoenix_mtm)|A small collection of functions to make it easier working with many_to_many Ecto associations and checkboxes to create them.|[:arrow_upper_right:](https://hex.pm/packages/phoenix_mtm)|
-|20|[@mirego](https://github.com/mirego)/[**absinthe_error_payload**](https://github.com/mirego/absinthe_error_payload)|Bridges the gap between Ecto and Absinthe for mutation payload||
 |19|[@eljojo](https://github.com/eljojo)/[**ex_chain**](https://github.com/eljojo/ex_chain)|Simple Markov Chain written in Elixir||
 |16|[@aforward](https://github.com/aforward)/[**safetybox**](https://github.com/aforward/safetybox)|Security oriented helper functions for Elixir||
 |16|[@yrashk](https://github.com/yrashk)/[**properex**](https://github.com/yrashk/properex)|PropEr support for Elixir||
@@ -61,12 +61,12 @@
 |9|[@yawaramin](https://github.com/yawaramin)/[**stubbex**](https://github.com/yawaramin/stubbex)|Stub and validate HTTP endpoints with ease.||
 |9|[@yrashk](https://github.com/yrashk)/[**cage**](https://github.com/yrashk/cage)|Rack-inspired HTTP stack handling library for Elixir||
 |9|[@yrashk](https://github.com/yrashk)/[**exrecord**](https://github.com/yrashk/exrecord)|A tiny library to facilitate record upgrades in Elixir||
+|8|[@azohra](https://github.com/azohra)/[**SlackDB**](https://github.com/azohra/SlackDB)|A key/value database courtesy of Slack 🙃||
 |8|[@harmon25](https://github.com/harmon25)/[**sonex**](https://github.com/harmon25/sonex)|Elixir Sonos Controller||
 |8|[@houshuang](https://github.com/houshuang)/[**elixir-prelude**](https://github.com/houshuang/elixir-prelude)|The ruby2elixir/elixir_prelude repo is now the main repo|[:arrow_upper_right:](https://github.com/ruby2elixir/elixir_prelude)|
 |8|[@yrashk](https://github.com/yrashk)/[**validatex**](https://github.com/yrashk/validatex)|Moving over to https://github.com/ElixirWerkz/validatex||
 |7|[@QuiqUpLTD](https://github.com/QuiqUpLTD)/[**libelection**](https://github.com/QuiqUpLTD/libelection)|Library to perform leader election in a cluster of containerized Elixir nodes||
 |7|[@aforward](https://github.com/aforward)/[**elixir_nats**](https://github.com/aforward/elixir_nats)|Elixir client for NATS, the cloud native messaging system. https://nats.io||
-|7|[@azohra](https://github.com/azohra)/[**SlackDB**](https://github.com/azohra/SlackDB)|A key/value database courtesy of Slack 🙃||
 |7|[@azohra](https://github.com/azohra)/[**quack**](https://github.com/azohra/quack)|An Elixir Logger backend for slack||
 |7|[@expede](https://github.com/expede)/[**inspector_gadget**](https://github.com/expede/inspector_gadget)|Helpers for debugging & inspecting code flow||
 |7|[@houshuang](https://github.com/houshuang)/[**plug_lti**](https://github.com/houshuang/plug_lti)|LTI Plug for Elixir||

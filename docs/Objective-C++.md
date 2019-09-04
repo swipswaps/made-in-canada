@@ -1,8 +1,8 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |26|[@codyd51](https://github.com/codyd51)/[**Snakebite**](https://github.com/codyd51/Snakebite)|Force Touch quick app launcher||
+|24|[@MarshallOfSound](https://github.com/MarshallOfSound)/[**electron-media-service**](https://github.com/MarshallOfSound/electron-media-service)|OS Media Service integration for Electron apps||
 |23|[@codyd51](https://github.com/codyd51)/[**Popcorn**](https://github.com/codyd51/Popcorn)|Peek and Pop on icons at your home screen||
-|22|[@MarshallOfSound](https://github.com/MarshallOfSound)/[**electron-media-service**](https://github.com/MarshallOfSound/electron-media-service)|OS Media Service integration for Electron apps||
 |19|[@codyd51](https://github.com/codyd51)/[**Freyr**](https://github.com/codyd51/Freyr)|Get a quick look at your weather forecast||
 |12|[@gontovnik](https://github.com/gontovnik)/[**DGDrawingLabel**](https://github.com/gontovnik/DGDrawingLabel)|Label which allows to pre-calculate text layout with a great performance.||
 |9|[@benhj](https://github.com/benhj)/[**OSXLoginNotifier**](https://github.com/benhj/OSXLoginNotifier)|A simple notifier that will pop up a new message when a user logs in (e.g. via SSH)||

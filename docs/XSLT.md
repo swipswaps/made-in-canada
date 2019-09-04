@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|25|[@MechanisM](https://github.com/MechanisM)/[**jquery-icecast**](https://github.com/MechanisM/jquery-icecast)|jQuery Plugin for Icecast||
+|24|[@MechanisM](https://github.com/MechanisM)/[**jquery-icecast**](https://github.com/MechanisM/jquery-icecast)|jQuery Plugin for Icecast||
 |8|[@clothbot](https://github.com/clothbot)/[**makerbot**](https://github.com/clothbot/makerbot)|MakerBot Related Designs|[:arrow_upper_right:](http://clothbot.com/wiki/MakerBotNumberNine)|
 |5|[@sebastien](https://github.com/sebastien)/[**jsxml**](https://github.com/sebastien/jsxml)|A set of XSLT stylesheets to write JSX-equivalent in pure XML||
 |4|[@BCcampus](https://github.com/BCcampus)/[**pressbooks-openstax-import**](https://github.com/BCcampus/pressbooks-openstax-import)|[UNMAINTAINED] Pressbooks Plugin for OpenStax Textbook Import||

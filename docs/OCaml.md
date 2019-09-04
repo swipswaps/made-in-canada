@@ -18,6 +18,7 @@
 |5|[@yawaramin](https://github.com/yawaramin)/[**bs-phoenix**](https://github.com/yawaramin/bs-phoenix)|BuckleScript bindings for the Phoenix.js client||
 |5|[@yawaramin](https://github.com/yawaramin)/[**resilient-services**](https://github.com/yawaramin/resilient-services)|||
 |4|[@brentvatne](https://github.com/brentvatne)/[**99-reasons**](https://github.com/brentvatne/99-reasons)|||
+|3|[@abramhindle](https://github.com/abramhindle)/[**24bit-allrgb**](https://github.com/abramhindle/24bit-allrgb)|Convert and generate images that use all of the RGB colorspace||
 |3|[@jochasinga](https://github.com/jochasinga)/[**annihilation**](https://github.com/jochasinga/annihilation)|Implementation of the Bitcoin Merkle Tree||
 |3|[@tokenrove](https://github.com/tokenrove)/[**zookicker**](https://github.com/tokenrove/zookicker)|#1GAM February backup plan||
 |3|[@yawaramin](https://github.com/yawaramin)/[**bs-pouchdb**](https://github.com/yawaramin/bs-pouchdb)|||
