@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|96|[@nicolai86](https://github.com/nicolai86)/[**awesome-codepipeline-ci**](https://github.com/nicolai86/awesome-codepipeline-ci)|an AWS CodePipeline, AWS CodeBuild, AWS APIGateway & AWS Lambda CI||
+|97|[@nicolai86](https://github.com/nicolai86)/[**awesome-codepipeline-ci**](https://github.com/nicolai86/awesome-codepipeline-ci)|an AWS CodePipeline, AWS CodeBuild, AWS APIGateway & AWS Lambda CI||
 |59|[@sjourdan](https://github.com/sjourdan)/[**docker-vault**](https://github.com/sjourdan/docker-vault)|Docker Container for Hashicorp's Vault|[:arrow_upper_right:](https://hub.docker.com/r/sjourdan/vault/)|
 |40|[@nicolai86](https://github.com/nicolai86)/[**scaleway-terraform-demo**](https://github.com/nicolai86/scaleway-terraform-demo)|example using terraform for scaleway with nomad, consul & fabio|[:arrow_upper_right:](https://nicolai86.eu/)|
 |39|[@monzo](https://github.com/monzo)/[**etcd3-terraform**](https://github.com/monzo/etcd3-terraform)|A Terraform recipe for a robust etcd cluster, based on how Monzo runs its clusters. 💪||
@@ -17,6 +17,7 @@
 |4|[@crielly](https://github.com/crielly)/[**rancher-ha-aws**](https://github.com/crielly/rancher-ha-aws)|A highly available rancher deployment using AWS||
 |4|[@mcgonagle](https://github.com/mcgonagle)/[**terraform_f5**](https://github.com/mcgonagle/terraform_f5)|terraform scripts to instantiate a big ip in AWS||
 |4|[@paybyphone](https://github.com/paybyphone)/[**terraform_aws_vpc**](https://github.com/paybyphone/terraform_aws_vpc)|A Terraform module for creating AWS VPCs, with public subnets||
+|3|[@ComputeCanada](https://github.com/ComputeCanada)/[**magic_castle**](https://github.com/ComputeCanada/magic_castle)|Terraform modules to replicate a Compute Canada cluster in the cloud||
 |3|[@adv4000](https://github.com/adv4000)/[**terraform**](https://github.com/adv4000/terraform)|My Terraform||
 |3|[@aka7](https://github.com/aka7)/[**alerta-terraform**](https://github.com/aka7/alerta-terraform)|||
 |3|[@jaymickey](https://github.com/jaymickey)/[**terraform-demo**](https://github.com/jaymickey/terraform-demo)|Basic terraform example for demonstration purposes||

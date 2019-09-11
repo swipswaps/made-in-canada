@@ -1,18 +1,18 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|18385|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
+|18427|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
 |148|[@syl20bnr](https://github.com/syl20bnr)/[**evil-escape**](https://github.com/syl20bnr/evil-escape)|Customizable key sequence to escape from insert state and everything else in Emacs.||
 |118|[@burtonsamograd](https://github.com/burtonsamograd)/[**emacs-jit**](https://github.com/burtonsamograd/emacs-jit)|Emacs with an Emacs Lisp JIT (Just In Time) compiler using libjit.||
 |102|[@atgreen](https://github.com/atgreen)/[**paperless**](https://github.com/atgreen/paperless)|Emacs assisted PDF document filing||
 |82|[@aspiers](https://github.com/aspiers)/[**smooth-scrolling**](https://github.com/aspiers/smooth-scrolling)|Emacs smooth scrolling package||
+|76|[@syl20bnr](https://github.com/syl20bnr)/[**spacelpa**](https://github.com/syl20bnr/spacelpa)|ELPA repository for stable versions of Spacemacs||
 |75|[@syl20bnr](https://github.com/syl20bnr)/[**evil-lisp-state**](https://github.com/syl20bnr/evil-lisp-state)|An evil state to navigate Lisp code and modify it with smartparens||
-|75|[@syl20bnr](https://github.com/syl20bnr)/[**spacelpa**](https://github.com/syl20bnr/spacelpa)|ELPA repository for stable versions of Spacemacs||
 |63|[@rudolfolah](https://github.com/rudolfolah)/[**emacs-sos**](https://github.com/rudolfolah/emacs-sos)|StackOverflow Search (SOS) mode for Emacs.||
 |57|[@arthurnn](https://github.com/arthurnn)/[**howdoi-emacs**](https://github.com/arthurnn/howdoi-emacs)|Search code from StackOverflow and paste it in emacs.||
 |50|[@rudolfolah](https://github.com/rudolfolah)/[**org-doing**](https://github.com/rudolfolah/org-doing)|keep track of what you're doing right now and what you've worked on before|[:arrow_upper_right:](http://omouse.github.io/org-doing)|
+|47|[@syl20bnr](https://github.com/syl20bnr)/[**evil-tutor**](https://github.com/syl20bnr/evil-tutor)|Vimtutor adapted to Emacs+Evil and wrapped in a major mode.||
 |46|[@hassy](https://github.com/hassy)/[**http-twiddle**](https://github.com/hassy/http-twiddle)|HTTP debugging tool (Emacs mode)||
 |46|[@jimeh](https://github.com/jimeh)/[**twilight-bright-theme.el**](https://github.com/jimeh/twilight-bright-theme.el)|A Emacs port of the TextMate theme by the same name with some minor tweaks and additions.||
-|46|[@syl20bnr](https://github.com/syl20bnr)/[**evil-tutor**](https://github.com/syl20bnr/evil-tutor)|Vimtutor adapted to Emacs+Evil and wrapped in a major mode.||
 |45|[@syl20bnr](https://github.com/syl20bnr)/[**evil-iedit-state**](https://github.com/syl20bnr/evil-iedit-state)|Slick Evil states for iedit.||
 |38|[@jimeh](https://github.com/jimeh)/[**twilight-anti-bright-theme**](https://github.com/jimeh/twilight-anti-bright-theme)|A light-on-dark Emacs and TextMate theme inspired by the dark-on-light Twilight Bright TextMate theme.||
 |37|[@arthurnn](https://github.com/arthurnn)/[**minitest-emacs**](https://github.com/arthurnn/minitest-emacs)|A minitest mode for emacs||
@@ -31,14 +31,15 @@
 |11|[@rspivak](https://github.com/rspivak)/[**httpcode.el**](https://github.com/rspivak/httpcode.el)|Explains the meaning of an HTTP status code in minibuffer||
 |10|[@Ailrun](https://github.com/Ailrun)/[**magit-lfs**](https://github.com/Ailrun/magit-lfs)|Git LFS for magit!||
 |10|[@danp](https://github.com/danp)/[**confluence-el**](https://github.com/danp/confluence-el)|confluence emacs integration|[:arrow_upper_right:](http://code.google.com/p/confluence-el/)|
+|10|[@travisjeffery](https://github.com/travisjeffery)/[**proced-narrow**](https://github.com/travisjeffery/proced-narrow)|Live-narrowing of search results for proced in Emacs.||
 |9|[@onaio](https://github.com/onaio)/[**meow**](https://github.com/onaio/meow)|||
 |9|[@rudolfolah](https://github.com/rudolfolah)/[**emacs-flow-jsx**](https://github.com/rudolfolah/emacs-flow-jsx)|Emacs mode for handling JavaScript that uses Flow type annotations and has some React JSX syntax in it. (MIRROR)|[:arrow_upper_right:](https://gitlab.com/rudolfo/emacs-flow-jsx)|
-|9|[@travisjeffery](https://github.com/travisjeffery)/[**proced-narrow**](https://github.com/travisjeffery/proced-narrow)|Live-narrowing of search results for proced in Emacs.||
 |8|[@jimeh](https://github.com/jimeh)/[**rubocopfmt.el**](https://github.com/jimeh/rubocopfmt.el)|Emacs minor-mode to format Ruby code with RuboCop on save.||
 |7|[@j0ni](https://github.com/j0ni)/[**phoenix-dark-mono**](https://github.com/j0ni/phoenix-dark-mono)|Mono version of the Phoenix Dark theme||
 |7|[@jimeh](https://github.com/jimeh)/[**tomorrow-night-paradise-theme.el**](https://github.com/jimeh/tomorrow-night-paradise-theme.el)|A light-on-dark Emacs theme which is essentially a tweaked version of Chris Kempson's Tomorrow Night Bright theme.||
 |7|[@thephoeron](https://github.com/thephoeron)/[**slime-pack**](https://github.com/thephoeron/slime-pack)|SLIME pack for Emacs Live||
 |6|[@Ailrun](https://github.com/Ailrun)/[**coq-commenter**](https://github.com/Ailrun/coq-commenter)|Coq commenter for Emacs||
+|6|[@jkakar](https://github.com/jkakar)/[**emacs-configuration**](https://github.com/jkakar/emacs-configuration)|My emacs configuration||
 |6|[@tokenrove](https://github.com/tokenrove)/[**goose-theme**](https://github.com/tokenrove/goose-theme)|A gray color theme|[:arrow_upper_right:](https://github.com/thwg/goose-theme)|
 |6|[@travisjeffery](https://github.com/travisjeffery)/[**emacs-tumblr**](https://github.com/travisjeffery/emacs-tumblr)|Post to Tumblr using Emacs.||
 |6|[@travisjeffery](https://github.com/travisjeffery)/[**eshell-z.el**](https://github.com/travisjeffery/eshell-z.el)|quickly jump to directories in emacs's eshell|[:arrow_upper_right:](https://twitter.com/travisjeffery)|
@@ -46,7 +47,6 @@
 |6|[@yrashk](https://github.com/yrashk)/[**emacsd**](https://github.com/yrashk/emacsd)|my .emacs.d||
 |5|[@aspiers](https://github.com/aspiers)/[**vc-osc**](https://github.com/aspiers/vc-osc)|osc backend for emacs vc mode||
 |5|[@aspiers](https://github.com/aspiers)/[**worg**](https://github.com/aspiers/worg)|Adam's personal mirror of Worg - user documentation of orgmode for emacs|[:arrow_upper_right:](http://orgmode.org/worg/)|
-|5|[@jkakar](https://github.com/jkakar)/[**emacs-configuration**](https://github.com/jkakar/emacs-configuration)|My emacs configuration||
 |5|[@robmyers](https://github.com/robmyers)/[**lll-mode**](https://github.com/robmyers/lll-mode)|  A GNU Emacs mode for editing Low Level Language code for the Ethereum Virtual Machine.||
 |4|[@aspiers](https://github.com/aspiers)/[**orgmode**](https://github.com/aspiers/orgmode)|personal repository for patches to orgmode upstream|[:arrow_upper_right:](http://orgmode.org/)|
 |4|[@aycanirican](https://github.com/aycanirican)/[**.emacs.d**](https://github.com/aycanirican/.emacs.d)|My emacs setup||

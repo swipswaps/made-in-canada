@@ -2,7 +2,7 @@
 |---|---|---|---|
 |197|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
 |149|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
-|108|[@colepeters](https://github.com/colepeters)/[**spacemacs-theme.vim**](https://github.com/colepeters/spacemacs-theme.vim)|Spacemacs-flavoured colorscheme for Vim and iTerm||
+|109|[@colepeters](https://github.com/colepeters)/[**spacemacs-theme.vim**](https://github.com/colepeters/spacemacs-theme.vim)|Spacemacs-flavoured colorscheme for Vim and iTerm||
 |56|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
 |51|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
 |45|[@ujihisa](https://github.com/ujihisa)/[**unite-colorscheme**](https://github.com/ujihisa/unite-colorscheme)|A unite.vim plugin||
@@ -25,7 +25,7 @@
 |11|[@mgrouchy](https://github.com/mgrouchy)/[**oldvim**](https://github.com/mgrouchy/oldvim)|my old vimfiles|[:arrow_upper_right:](http://mikegrouchy.com)|
 |11|[@ujihisa](https://github.com/ujihisa)/[**quicklearn**](https://github.com/ujihisa/quicklearn)|A quickrun plugin to show intermediate codes||
 |10|[@idbrii](https://github.com/idbrii)/[**vim-hiinterestingword**](https://github.com/idbrii/vim-hiinterestingword)|[Deprecated in favour of https://github.com/idbrii/vim-mark]||
-|9|[@mricon](https://github.com/mricon)/[**puppet-eyes**](https://github.com/mricon/puppet-eyes)|Vim plugin to alert when a file being edited is managed by puppet||
+|10|[@mricon](https://github.com/mricon)/[**puppet-eyes**](https://github.com/mricon/puppet-eyes)|Vim plugin to alert when a file being edited is managed by puppet||
 |9|[@thayerwilliams](https://github.com/thayerwilliams)/[**msi-dotfiles**](https://github.com/thayerwilliams/msi-dotfiles)|Archlinux dotfiles for my MSI Wind U120 netbook|[:arrow_upper_right:](http://cinderwick.ca)|
 |8|[@rafaelrosafu](https://github.com/rafaelrosafu)/[**vimfiles**](https://github.com/rafaelrosafu/vimfiles)|My vimfiles (noobie warning)||
 |7|[@gregbell](https://github.com/gregbell)/[**dot-vim**](https://github.com/gregbell/dot-vim)|My .vimrc and .vim directory||
@@ -55,6 +55,7 @@
 |4|[@ujihisa](https://github.com/ujihisa)/[**ref-hoogle**](https://github.com/ujihisa/ref-hoogle)|A ref plugin for Haskell, using hoogle command||
 |4|[@ujihisa](https://github.com/ujihisa)/[**vim-kami**](https://github.com/ujihisa/vim-kami)|“Kami” vim version.||
 |4|[@ujihisa](https://github.com/ujihisa)/[**vimshell-repl**](https://github.com/ujihisa/vimshell-repl)|(experimental)||
+|4|[@z3t0](https://github.com/z3t0)/[**arduvim**](https://github.com/z3t0/arduvim)|A vim plugin for automatic Arduino syntax generation and more...|[:arrow_upper_right:](http://z3t0.github.io/arduvim)|
 |3|[@SilverTab](https://github.com/SilverTab)/[**vimfiles**](https://github.com/SilverTab/vimfiles)|My vim config...||
 |3|[@adam12](https://github.com/adam12)/[**dotfiles**](https://github.com/adam12/dotfiles)|My dotfiles||
 |3|[@bigfish](https://github.com/bigfish)/[**vim-jshint**](https://github.com/bigfish/vim-jshint)|vim plugin to run jshint on filesave and show errors||
@@ -80,5 +81,4 @@
 |3|[@ujihisa](https://github.com/ujihisa)/[**vehearse**](https://github.com/ujihisa/vehearse)|Vim Rehearse||
 |3|[@vexe](https://github.com/vexe)/[**vim**](https://github.com/vexe/vim)|Everything related about my vim setup (plugins, vimrc etc)||
 |3|[@vinibaggio](https://github.com/vinibaggio)/[**vim-tubaina**](https://github.com/vinibaggio/vim-tubaina)|A syntax highlight and autoclose for tubaina markup language.||
-|3|[@z3t0](https://github.com/z3t0)/[**arduvim**](https://github.com/z3t0/arduvim)|A vim plugin for automatic Arduino syntax generation and more...|[:arrow_upper_right:](http://z3t0.github.io/arduvim)|
 
