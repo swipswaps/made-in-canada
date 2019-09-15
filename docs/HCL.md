@@ -14,10 +14,10 @@
 |6|[@lesaux](https://github.com/lesaux)/[**terraform-aws-rancher-ha**](https://github.com/lesaux/terraform-aws-rancher-ha)|Spin up rancher-ha cluster in AWS||
 |6|[@travisjeffery](https://github.com/travisjeffery)/[**datadog-terraform-example**](https://github.com/travisjeffery/datadog-terraform-example)|Managing Datadog with Terraform example|[:arrow_upper_right:](http://twitter.com/travisjeffery)|
 |5|[@olivoil](https://github.com/olivoil)/[**standup-lambda**](https://github.com/olivoil/standup-lambda)|serverless backend for a standup status app that integrates with slack||
+|4|[@ComputeCanada](https://github.com/ComputeCanada)/[**magic_castle**](https://github.com/ComputeCanada/magic_castle)|Terraform modules to replicate a Compute Canada cluster in the cloud||
 |4|[@crielly](https://github.com/crielly)/[**rancher-ha-aws**](https://github.com/crielly/rancher-ha-aws)|A highly available rancher deployment using AWS||
 |4|[@mcgonagle](https://github.com/mcgonagle)/[**terraform_f5**](https://github.com/mcgonagle/terraform_f5)|terraform scripts to instantiate a big ip in AWS||
 |4|[@paybyphone](https://github.com/paybyphone)/[**terraform_aws_vpc**](https://github.com/paybyphone/terraform_aws_vpc)|A Terraform module for creating AWS VPCs, with public subnets||
-|3|[@ComputeCanada](https://github.com/ComputeCanada)/[**magic_castle**](https://github.com/ComputeCanada/magic_castle)|Terraform modules to replicate a Compute Canada cluster in the cloud||
 |3|[@adv4000](https://github.com/adv4000)/[**terraform**](https://github.com/adv4000/terraform)|My Terraform||
 |3|[@aka7](https://github.com/aka7)/[**alerta-terraform**](https://github.com/aka7/alerta-terraform)|||
 |3|[@jaymickey](https://github.com/jaymickey)/[**terraform-demo**](https://github.com/jaymickey/terraform-demo)|Basic terraform example for demonstration purposes||

@@ -15,9 +15,9 @@
 |19|[@gwihlidal](https://github.com/gwihlidal)/[**docker-shader**](https://github.com/gwihlidal/docker-shader)|Docker image with a range of shader compilers available||
 |14|[@RobLoach](https://github.com/RobLoach)/[**docker-pa11y**](https://github.com/RobLoach/docker-pa11y)|pa11y Docker Container||
 |13|[@FortAwesome](https://github.com/FortAwesome)/[**phoenix-app**](https://github.com/FortAwesome/phoenix-app)|Base Docker container for our Phoenix framework-based apps||
+|13|[@tiredofit](https://github.com/tiredofit)/[**docker-tinc**](https://github.com/tiredofit/docker-tinc)|Docker Tinc VPN Mesh server w/S6 Overlay Init, Zabbix Monitoring, and distributed configuration updating based on Alpine||
 |12|[@benhylau](https://github.com/benhylau)/[**ssbc-grants-scuttlemesh**](https://github.com/benhylau/ssbc-grants-scuttlemesh)|SSBC grant for RPi ScuttleMesh workshop||
 |12|[@tiredofit](https://github.com/tiredofit)/[**docker-freescout**](https://github.com/tiredofit/docker-freescout)|Dockerized Freescout Helpdesk based on Alpine||
-|12|[@tiredofit](https://github.com/tiredofit)/[**docker-tinc**](https://github.com/tiredofit/docker-tinc)|Docker Tinc VPN Mesh server w/S6 Overlay Init, Zabbix Monitoring, and distributed configuration updating based on Alpine||
 |10|[@tiredofit](https://github.com/tiredofit)/[**docker-fusiondirectory**](https://github.com/tiredofit/docker-fusiondirectory)|FusionDirectory LDAP Manager w/S6 Init, Zabbix Monitoring, Nginx, PHP7 based on Alpine||
 |10|[@tiredofit](https://github.com/tiredofit)/[**docker-mongodb-backup**](https://github.com/tiredofit/docker-mongodb-backup)|Docker MongoDB Backup Container based on Alpine w/S6 init, Zabbix Monitoring||
 |9|[@DigitalState](https://github.com/DigitalState)/[**Workflow**](https://github.com/DigitalState/Workflow)|The DigitalState Workflow Microservice||
@@ -51,6 +51,7 @@
 |3|[@hairyhenderson](https://github.com/hairyhenderson)/[**dockerfiles**](https://github.com/hairyhenderson/dockerfiles)|Random Dockerfiles...||
 |3|[@hairyhenderson](https://github.com/hairyhenderson)/[**markdowntopdf**](https://github.com/hairyhenderson/markdowntopdf)|A markdown-to-PDF conversion tool||
 |3|[@martindsouza](https://github.com/martindsouza)/[**docker-node-red-oracle**](https://github.com/martindsouza/docker-node-red-oracle)|||
+|3|[@rudolfolah](https://github.com/rudolfolah)/[**guix-docker**](https://github.com/rudolfolah/guix-docker)|Dockerfile for GNU Guix||
 |3|[@tiredofit](https://github.com/tiredofit)/[**docker-gitlab-ee**](https://github.com/tiredofit/docker-gitlab-ee)|Dockerized Gitlab EE w/Alpine Linux, Zabbix Monitoring and S6 Overlay||
 |3|[@tiredofit](https://github.com/tiredofit)/[**docker-insync**](https://github.com/tiredofit/docker-insync)|Docker Insync Headless Client||
 |3|[@tiredofit](https://github.com/tiredofit)/[**docker-otrs**](https://github.com/tiredofit/docker-otrs)|Dockerized OTRS ITSM Helpdesk/Ticketing System based on Alpine w/Nginx||
