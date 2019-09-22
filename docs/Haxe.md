@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |515|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base! see the website for details - https://luxeengine.com/|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
-|41|[@Ohmnivore](https://github.com/Ohmnivore)/[**SkullRush**](https://github.com/Ohmnivore/SkullRush)|A 2D online multiplayer shooter written in Haxe||
+|41|[@Ohmnivore](https://github.com/Ohmnivore)/[**SkullRush**](https://github.com/Ohmnivore/SkullRush)|:skull: A 2D online multiplayer shooter written in Haxe|[:arrow_upper_right:](http://ohmnivore.github.io)|
 |41|[@hamaluik](https://github.com/hamaluik)/[**haxe-glm**](https://github.com/hamaluik/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |37|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-glm**](https://github.com/FuzzyWuzzie/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |30|[@ashes999](https://github.com/ashes999)/[**butterfly**](https://github.com/ashes999/butterfly)|Haxe generator for simple, static blogs.||
@@ -18,7 +18,7 @@
 |14|[@underscorediscovery](https://github.com/underscorediscovery)/[**openfl-simple-particles**](https://github.com/underscorediscovery/openfl-simple-particles)|A simple particle system for openfl||
 |13|[@fserb](https://github.com/fserb)/[**sfxr**](https://github.com/fserb/sfxr)|sfxr port for Haxe|[:arrow_upper_right:](http://fserb.com/vault)|
 |12|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**luxe_tusk_old_deprecated**](https://github.com/FuzzyWuzzie/luxe_tusk_old_deprecated)|My personal game engine||
-|12|[@Ohmnivore](https://github.com/Ohmnivore)/[**Monsieur-Moustache**](https://github.com/Ohmnivore/Monsieur-Moustache)|Open-source cross-platform endless jumper game (HaxeFlixel engine)|[:arrow_upper_right:](http://ohmnivore.itch.io/monsieur-moustache)|
+|12|[@Ohmnivore](https://github.com/Ohmnivore)/[**Monsieur-Moustache**](https://github.com/Ohmnivore/Monsieur-Moustache)|:tophat: Open-source cross-platform endless jumper game (HaxeFlixel engine)|[:arrow_upper_right:](http://ohmnivore.itch.io/monsieur-moustache)|
 |12|[@adireddy](https://github.com/adireddy)/[**haxe-chart**](https://github.com/adireddy/haxe-chart)|Externs of Chart.js for Haxe|[:arrow_upper_right:](http://www.chartjs.org)|
 |12|[@hamaluik](https://github.com/hamaluik)/[**luxe_tusk_old_deprecated**](https://github.com/hamaluik/luxe_tusk_old_deprecated)|My personal game engine||
 |11|[@Ohmnivore](https://github.com/Ohmnivore)/[**ClientSidePredictionAndServerReconciliation**](https://github.com/Ohmnivore/ClientSidePredictionAndServerReconciliation)|Haxe port of http://www.gabrielgambetta.com/fpm_live.html||

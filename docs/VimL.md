@@ -28,9 +28,9 @@
 |10|[@mricon](https://github.com/mricon)/[**puppet-eyes**](https://github.com/mricon/puppet-eyes)|Vim plugin to alert when a file being edited is managed by puppet||
 |9|[@thayerwilliams](https://github.com/thayerwilliams)/[**msi-dotfiles**](https://github.com/thayerwilliams/msi-dotfiles)|Archlinux dotfiles for my MSI Wind U120 netbook|[:arrow_upper_right:](http://cinderwick.ca)|
 |8|[@rafaelrosafu](https://github.com/rafaelrosafu)/[**vimfiles**](https://github.com/rafaelrosafu/vimfiles)|My vimfiles (noobie warning)||
+|8|[@ujihisa](https://github.com/ujihisa)/[**tabpagecolorscheme**](https://github.com/ujihisa/tabpagecolorscheme)|Vim colorscheme on each tabs||
 |7|[@gregbell](https://github.com/gregbell)/[**dot-vim**](https://github.com/gregbell/dot-vim)|My .vimrc and .vim directory||
 |7|[@ujihisa](https://github.com/ujihisa)/[**neochat.vim**](https://github.com/ujihisa/neochat.vim)|a comprehensive pluggable chat Vim plugin||
-|7|[@ujihisa](https://github.com/ujihisa)/[**tabpagecolorscheme**](https://github.com/ujihisa/tabpagecolorscheme)|Vim colorscheme on each tabs||
 |6|[@billkeys](https://github.com/billkeys)/[**Documentation**](https://github.com/billkeys/Documentation)|||
 |6|[@gmarik](https://github.com/gmarik)/[**ingretu**](https://github.com/gmarik/ingretu)|a Vim GUI color scheme|[:arrow_upper_right:](http://github.com/gmarik/ingretu)|
 |6|[@travisjeffery](https://github.com/travisjeffery)/[**vim-auto-mkdir**](https://github.com/travisjeffery/vim-auto-mkdir)|vim: automatically mkdir when writing file in nonexistent directory|[:arrow_upper_right:](http://twitter.com/travisjeffery)|

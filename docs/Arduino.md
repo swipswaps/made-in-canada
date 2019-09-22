@@ -13,6 +13,7 @@
 |4|[@bjpirt](https://github.com/bjpirt)/[**flashingButtons**](https://github.com/bjpirt/flashingButtons)|A simple Arduino and Node project providing a basic physical UI with buttons and LEDs||
 |4|[@jakplugg](https://github.com/jakplugg)/[**Dodeca**](https://github.com/jakplugg/Dodeca)|Neutron sound / Magpie modular "Dodeca" versatile MIDI out eurorack module.||
 |4|[@mbarnathan](https://github.com/mbarnathan)/[**BlindsShield**](https://github.com/mbarnathan/BlindsShield)|SmartThings Automation for the Blinds.com Economy Motorized Cellular Shade||
+|3|[@hoytech](https://github.com/hoytech)/[**morse-code-keyer**](https://github.com/hoytech/morse-code-keyer)|Morse code keyer||
 |3|[@i-make-robots](https://github.com/i-make-robots)/[**CanDo-Line-Following-Robot**](https://github.com/i-make-robots/CanDo-Line-Following-Robot)|||
 |3|[@jsivakumaran](https://github.com/jsivakumaran)/[**Anti-Text**](https://github.com/jsivakumaran/Anti-Text)|Anti-Text IoT device built using Intel Edison, Autodesk Fusion 360, Relayr.io Wunderbar||
 |3|[@puskyer](https://github.com/puskyer)/[**GPSPotHoleTrack**](https://github.com/puskyer/GPSPotHoleTrack)|For tracking Pot Holes on the streets||

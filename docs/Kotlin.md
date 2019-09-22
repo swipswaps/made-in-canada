@@ -1,28 +1,28 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1427|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatMagician**](https://github.com/Gh0u1L5/WechatMagician)|WechatMagician is a Xposed module written in Kotlin, that allows you to completely control your Wechat.|[:arrow_upper_right:](http://repo.xposed.info/module/com.gh0u1l5.wechatmagician)|
-|1156|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatSpellbook**](https://github.com/Gh0u1L5/WechatSpellbook)|Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架，底层需要 Xposed 或 VirtualXposed 等Hooking框架的支持，而顶层可以轻松对接Java、Kotlin、Scala等JVM系语言。让程序员能够在几分钟内编写出简单的微信插件，随意揉捏微信的内部逻辑。||
-|401|[@rock3r](https://github.com/rock3r)/[**deep-clean**](https://github.com/rock3r/deep-clean)|A Kotlin script that nukes all build caches from Gradle/Android projects. Useful when Gradle or the IDE let you down 💔||
+|1434|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatMagician**](https://github.com/Gh0u1L5/WechatMagician)|WechatMagician is a Xposed module written in Kotlin, that allows you to completely control your Wechat.|[:arrow_upper_right:](http://repo.xposed.info/module/com.gh0u1l5.wechatmagician)|
+|1162|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**WechatSpellbook**](https://github.com/Gh0u1L5/WechatSpellbook)|Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架，底层需要 Xposed 或 VirtualXposed 等Hooking框架的支持，而顶层可以轻松对接Java、Kotlin、Scala等JVM系语言。让程序员能够在几分钟内编写出简单的微信插件，随意揉捏微信的内部逻辑。||
+|410|[@rock3r](https://github.com/rock3r)/[**deep-clean**](https://github.com/rock3r/deep-clean)|A Kotlin script that nukes all build caches from Gradle/Android projects. Useful when Gradle or the IDE let you down 💔||
 |392|[@gurleensethi](https://github.com/gurleensethi)/[**LiteUtilities**](https://github.com/gurleensethi/LiteUtilities)|Speed up your android development by removing boilerplate code||
-|265|[@AllanWang](https://github.com/AllanWang)/[**Frost-for-Facebook**](https://github.com/AllanWang/Frost-for-Facebook)|An extensive and functional third party app for Facebook|[:arrow_upper_right:](https://allanwang.github.io/Frost-for-Facebook/)|
-|229|[@rock3r](https://github.com/rock3r)/[**uplift**](https://github.com/rock3r/uplift)|A playground for elevation on Android||
+|272|[@AllanWang](https://github.com/AllanWang)/[**Frost-for-Facebook**](https://github.com/AllanWang/Frost-for-Facebook)|An extensive and functional third party app for Facebook|[:arrow_upper_right:](https://allanwang.github.io/Frost-for-Facebook/)|
+|230|[@rock3r](https://github.com/rock3r)/[**uplift**](https://github.com/rock3r/uplift)|A playground for elevation on Android||
 |155|[@cesarferreira](https://github.com/cesarferreira)/[**android-rocket-launcher**](https://github.com/cesarferreira/android-rocket-launcher)|:rocket: Launch android modules from the terminal||
-|136|[@gurleensethi](https://github.com/gurleensethi)/[**kotlin-weather**](https://github.com/gurleensethi/kotlin-weather)|Simple android weather app developed in kotlin, demonstrating the use of RxJava, Retrofit and implementing MVP.||
+|137|[@gurleensethi](https://github.com/gurleensethi)/[**kotlin-weather**](https://github.com/gurleensethi/kotlin-weather)|Simple android weather app developed in kotlin, demonstrating the use of RxJava, Retrofit and implementing MVP.||
 |135|[@Jerry1211](https://github.com/Jerry1211)/[**RadarProject**](https://github.com/Jerry1211/RadarProject)|Very Meme Radar|[:arrow_upper_right:](http://VMRadar.net)|
-|125|[@AllanWang](https://github.com/AllanWang)/[**KAU**](https://github.com/AllanWang/KAU)|An extensive collection of Kotlin Android Utils|[:arrow_upper_right:](https://allanwang.github.io/KAU/)|
-|117|[@kanawish](https://github.com/kanawish)/[**android-mvi-sample**](https://github.com/kanawish/android-mvi-sample)|Example MVI implementation, based off of Google's architectural samples.||
+|126|[@AllanWang](https://github.com/AllanWang)/[**KAU**](https://github.com/AllanWang/KAU)|An extensive collection of Kotlin Android Utils|[:arrow_upper_right:](https://allanwang.github.io/KAU/)|
+|121|[@kanawish](https://github.com/kanawish)/[**android-mvi-sample**](https://github.com/kanawish/android-mvi-sample)|Example MVI implementation, based off of Google's architectural samples.||
 |95|[@henrytao-me](https://github.com/henrytao-me)/[**livedata-ktx**](https://github.com/henrytao-me/livedata-ktx)|Kotlin extension for LiveData, chaining like RxJava||
-|78|[@cesarferreira](https://github.com/cesarferreira)/[**MaterialComponent.Banner**](https://github.com/cesarferreira/MaterialComponent.Banner)|Material component for Android: Banner||
-|68|[@BracketCove](https://github.com/BracketCove)/[**PosTrainer**](https://github.com/BracketCove/PosTrainer)|Open source AlarmManager App, designed to help users reminder themselves to sit up straight at predefined intervals during the day.||
+|77|[@cesarferreira](https://github.com/cesarferreira)/[**MaterialComponent.Banner**](https://github.com/cesarferreira/MaterialComponent.Banner)|Material component for Android: Banner||
+|69|[@BracketCove](https://github.com/BracketCove)/[**PosTrainer**](https://github.com/BracketCove/PosTrainer)|Open source AlarmManager App, designed to help users reminder themselves to sit up straight at predefined intervals during the day.||
 |63|[@breandan](https://github.com/breandan)/[**kotlingrad**](https://github.com/breandan/kotlingrad)|Kotlin𝛁: Differentiable Functional Programming with Algebraic Data Types|[:arrow_upper_right:](https://github.com/breandan/kotlingrad/blob/master/latex/cser/cser_pres.pdf)|
 |56|[@cesarferreira](https://github.com/cesarferreira)/[**faker**](https://github.com/cesarferreira/faker)|A kotlin extension to load images asynchronously on android||
 |48|[@f2prateek](https://github.com/f2prateek)/[**android-bee**](https://github.com/f2prateek/android-bee)||[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.f2prateek.bee)|
-|40|[@Babylonpartners](https://github.com/Babylonpartners)/[**certificate-transparency-android**](https://github.com/Babylonpartners/certificate-transparency-android)|Certificate transparency for Android and Java||
-|39|[@BracketCove](https://github.com/BracketCove)/[**KotlinMVPCalculator**](https://github.com/BracketCove/KotlinMVPCalculator)|README coming soon.||
+|42|[@Babylonpartners](https://github.com/Babylonpartners)/[**certificate-transparency-android**](https://github.com/Babylonpartners/certificate-transparency-android)|Certificate transparency for Android and Java||
+|40|[@BracketCove](https://github.com/BracketCove)/[**KotlinMVPCalculator**](https://github.com/BracketCove/KotlinMVPCalculator)|README coming soon.||
 |35|[@BracketCove](https://github.com/BracketCove)/[**SpaceNotes**](https://github.com/BracketCove/SpaceNotes)|SpacesNotes, by Ryan M. Kay, with inspiration from Martin Fowler, Robert C. Martin, and Darel Bitsy for architecture.||
 |34|[@cesarferreira](https://github.com/cesarferreira)/[**kotlin-pluralizer**](https://github.com/cesarferreira/kotlin-pluralizer)|:sunny: Kotlin extension to pluralize and singularize strings||
 |33|[@cesarferreira](https://github.com/cesarferreira)/[**seguro**](https://github.com/cesarferreira/seguro)|Secure persistence using AES+CBC encryption on Android with no dependencies.||
-|29|[@BracketCove](https://github.com/BracketCove)/[**JetpackNotesMvvmKotlin**](https://github.com/BracketCove/JetpackNotesMvvmKotlin)|Demo project by request: Firebase, MVVM, Coroutines, Android Architecture Components, and so forth||
+|30|[@BracketCove](https://github.com/BracketCove)/[**JetpackNotesMvvmKotlin**](https://github.com/BracketCove/JetpackNotesMvvmKotlin)|Demo project by request: Firebase, MVVM, Coroutines, Android Architecture Components, and so forth||
 |27|[@kanawish](https://github.com/kanawish)/[**upvote**](https://github.com/kanawish/upvote)|Simplest possible demo MVI App||
 |24|[@rock3r](https://github.com/rock3r)/[**elevation-tester**](https://github.com/rock3r/elevation-tester)|A playground for elevation on Android||
 |22|[@swankjesse](https://github.com/swankjesse)/[**jsonexplained**](https://github.com/swankjesse/jsonexplained)|Code examples from my 2019 tech talk on JSON||
@@ -56,6 +56,7 @@
 |3|[@AllanWang](https://github.com/AllanWang)/[**GitDroid**](https://github.com/AllanWang/GitDroid)|Git meets Android||
 |3|[@Amejia481](https://github.com/Amejia481)/[**DroidTalksAndroid**](https://github.com/Amejia481/DroidTalksAndroid)|The android app for http://www.droidtalks.pro/||
 |3|[@BracketCove](https://github.com/BracketCove)/[**Catalyft**](https://github.com/BracketCove/Catalyft)|Open source version of Catalyft - Workout Log, by Ryan Kay. You may use the code, but not the assets or name. Full ReadMe to come soon.||
+|3|[@BracketCove](https://github.com/BracketCove)/[**KotlinCourseSamples**](https://github.com/BracketCove/KotlinCourseSamples)|Source code samples for Application Programming Fundamentals w/ Kotlin, by Ryan Michael Kay (C)||
 |3|[@Trumeet](https://github.com/Trumeet)/[**Desktop**](https://github.com/Trumeet/Desktop)|An experimental Windows Secure Desktop APIs demo in Kotlin Native||
 |3|[@Trumeet](https://github.com/Trumeet)/[**SuicideBot**](https://github.com/Trumeet/SuicideBot)|Just for fun :D||
 |3|[@cesarferreira](https://github.com/cesarferreira)/[**generator-kotlin-mvp-dagger**](https://github.com/cesarferreira/generator-kotlin-mvp-dagger)|generator-kotlin-starterkit||

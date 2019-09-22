@@ -4,7 +4,7 @@
 |153|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
 |131|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
 |130|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
-|106|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
+|107|[@gregorycollins](https://github.com/gregorycollins)/[**hashtables**](https://github.com/gregorycollins/hashtables)|Mutable hash tables for Haskell, in the ST monad||
 |106|[@larrytheliquid](https://github.com/larrytheliquid)/[**Lemmachine**](https://github.com/larrytheliquid/Lemmachine)|REST'ful web framework in Agda||
 |105|[@diogob](https://github.com/diogob)/[**postgrest-ws**](https://github.com/diogob/postgrest-ws)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgrest-ws)|
 |75|[@zhangchiqing](https://github.com/zhangchiqing)/[**beginner-friendly-haskell-for-web-development**](https://github.com/zhangchiqing/beginner-friendly-haskell-for-web-development)|A book about real world web development in beginner friendly Haskell||
@@ -75,10 +75,10 @@
 |5|[@gregorycollins](https://github.com/gregorycollins)/[**cabal2macpkg**](https://github.com/gregorycollins/cabal2macpkg)|A program to generate OSX installer files for Cabal libraries (Haskell Platform)||
 |5|[@larrytheliquid](https://github.com/larrytheliquid)/[**pigit**](https://github.com/larrytheliquid/pigit)|seeing what Epigram looks like after a darcs-fastconvert (NOT AN OFFICIAL MIRROR)||
 |5|[@larrytheliquid](https://github.com/larrytheliquid)/[**uAgda**](https://github.com/larrytheliquid/uAgda)|[UNOFFICIAL FORK] Making uAgda work with ghc 7.4.1|[:arrow_upper_right:](http://hackage.haskell.org/package/uAgda)|
+|5|[@levex](https://github.com/levex)/[**wacc**](https://github.com/levex/wacc)|A compiler for a language, see the operating system kernel written in it: https://github.com/levex/wacc-os||
 |5|[@singpolyma](https://github.com/singpolyma)/[**OpenPGP-CryptoAPI**](https://github.com/singpolyma/OpenPGP-CryptoAPI)|Implementation of cryptography for use with OpenPGP using the crypto-api libraries||
 |4|[@csabahruska](https://github.com/csabahruska)/[**game-logic-experiment**](https://github.com/csabahruska/game-logic-experiment)|experiment with game logic representation in haskell||
 |4|[@fosskers](https://github.com/fosskers)/[**servant-xml**](https://github.com/fosskers/servant-xml)|Servant support for the XML Content-Type.||
-|4|[@levex](https://github.com/levex)/[**wacc**](https://github.com/levex/wacc)|A compiler for a language, see the operating system kernel written in it: https://github.com/levex/wacc-os||
 |4|[@singpolyma](https://github.com/singpolyma)/[**plivo-haskell**](https://github.com/singpolyma/plivo-haskell)|Plivo API wrapper for Haskell||
 |4|[@singpolyma](https://github.com/singpolyma)/[**route-generator**](https://github.com/singpolyma/route-generator)|Utility to generate routes for use with yesod-routes|[:arrow_upper_right:](http://hackage.haskell.org/package/route-generator)|
 |4|[@singpolyma](https://github.com/singpolyma)/[**sgx-vitelity**](https://github.com/singpolyma/sgx-vitelity)|XMPP Gateway using Vitelity as a backend.||
