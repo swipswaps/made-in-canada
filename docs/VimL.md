@@ -3,7 +3,7 @@
 |197|[@gmarik](https://github.com/gmarik)/[**vimfiles**](https://github.com/gmarik/vimfiles)|My Vim configuration||
 |149|[@bigfish](https://github.com/bigfish)/[**vim-js-context-coloring**](https://github.com/bigfish/vim-js-context-coloring)|JavaScript Context Coloring in Vim||
 |110|[@colepeters](https://github.com/colepeters)/[**spacemacs-theme.vim**](https://github.com/colepeters/spacemacs-theme.vim)|Spacemacs-flavoured colorscheme for Vim and iTerm||
-|56|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
+|58|[@tommcdo](https://github.com/tommcdo)/[**vim-fubitive**](https://github.com/tommcdo/vim-fubitive)|Add Bitbucket URL support to fugitive.vim's :Gbrowse command||
 |51|[@ujihisa](https://github.com/ujihisa)/[**quickrun**](https://github.com/ujihisa/quickrun)|quick vim quick||
 |45|[@ujihisa](https://github.com/ujihisa)/[**unite-colorscheme**](https://github.com/ujihisa/unite-colorscheme)|A unite.vim plugin||
 |40|[@ujihisa](https://github.com/ujihisa)/[**shadow.vim**](https://github.com/ujihisa/shadow.vim)|That's not the file. That's shadow.||
@@ -44,6 +44,7 @@
 |5|[@ujihisa](https://github.com/ujihisa)/[**correr**](https://github.com/ujihisa/correr)|correr.vim: run a command later||
 |5|[@ujihisa](https://github.com/ujihisa)/[**unite-gem**](https://github.com/ujihisa/unite-gem)|A Unite plugin for RubyGems||
 |5|[@ujihisa](https://github.com/ujihisa)/[**unite-launch**](https://github.com/ujihisa/unite-launch)|powered by quickrun||
+|5|[@z3t0](https://github.com/z3t0)/[**arduvim**](https://github.com/z3t0/arduvim)|A vim plugin for automatic Arduino syntax generation and more...|[:arrow_upper_right:](http://z3t0.github.io/arduvim)|
 |4|[@bigfish](https://github.com/bigfish)/[**vim4js**](https://github.com/bigfish/vim4js)|Vim goodies for Javascript||
 |4|[@garyharan](https://github.com/garyharan)/[**vim-proto**](https://github.com/garyharan/vim-proto)|Protobuf syntax highlighting bundled for Vim||
 |4|[@idbrii](https://github.com/idbrii)/[**vim-perforce**](https://github.com/idbrii/vim-perforce)|Control Perforce from vim|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=240)|
@@ -55,7 +56,6 @@
 |4|[@ujihisa](https://github.com/ujihisa)/[**ref-hoogle**](https://github.com/ujihisa/ref-hoogle)|A ref plugin for Haskell, using hoogle command||
 |4|[@ujihisa](https://github.com/ujihisa)/[**vim-kami**](https://github.com/ujihisa/vim-kami)|“Kami” vim version.||
 |4|[@ujihisa](https://github.com/ujihisa)/[**vimshell-repl**](https://github.com/ujihisa/vimshell-repl)|(experimental)||
-|4|[@z3t0](https://github.com/z3t0)/[**arduvim**](https://github.com/z3t0/arduvim)|A vim plugin for automatic Arduino syntax generation and more...|[:arrow_upper_right:](http://z3t0.github.io/arduvim)|
 |3|[@SilverTab](https://github.com/SilverTab)/[**vimfiles**](https://github.com/SilverTab/vimfiles)|My vim config...||
 |3|[@adam12](https://github.com/adam12)/[**dotfiles**](https://github.com/adam12/dotfiles)|My dotfiles||
 |3|[@bigfish](https://github.com/bigfish)/[**vim-jshint**](https://github.com/bigfish/vim-jshint)|vim plugin to run jshint on filesave and show errors||

@@ -4,7 +4,7 @@
 |39|[@berke](https://github.com/berke)/[**jsure**](https://github.com/berke/jsure)|JSure is a fast, standalone Javascript checker.||
 |20|[@janicduplessis](https://github.com/janicduplessis)/[**bs-graphql-js**](https://github.com/janicduplessis/bs-graphql-js)|Bucklescript bindings for https://github.com/graphql/graphql-js||
 |15|[@yawaramin](https://github.com/yawaramin)/[**re-hyperapp**](https://github.com/yawaramin/re-hyperapp)|Almost zero-cost bindings for the https://github.com/hyperapp/hyperapp UI library.||
-|12|[@tokenrove](https://github.com/tokenrove)/[**tsdl-image**](https://github.com/tokenrove/tsdl-image)|OCaml SDL2_image bindings to go with Tsdl||
+|11|[@tokenrove](https://github.com/tokenrove)/[**tsdl-image**](https://github.com/tokenrove/tsdl-image)|OCaml SDL2_image bindings to go with Tsdl||
 |8|[@yawaramin](https://github.com/yawaramin)/[**bs-hyperapp**](https://github.com/yawaramin/bs-hyperapp)|DEPRECATED - see https://github.com/yawaramin/re-hyperapp for a more recent (experimental) attempt||
 |7|[@adrianmcli](https://github.com/adrianmcli)/[**rehydrate-workshop**](https://github.com/adrianmcli/rehydrate-workshop)|A small collection of basic components built with Rehydrate 💧.||
 |7|[@gnuvince](https://github.com/gnuvince)/[**ocaml-tiger**](https://github.com/gnuvince/ocaml-tiger)|||

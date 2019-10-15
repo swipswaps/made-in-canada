@@ -2,16 +2,16 @@
 |---|---|---|---|
 |112|[@Elyorcv](https://github.com/Elyorcv)/[**SAE**](https://github.com/Elyorcv/SAE)|Semantic Autoencoder for Zero-shot Learning (Spotlight), CVPR 2017|[:arrow_upper_right:](https://elyorcv.github.io/projects/sae)|
 |46|[@dengwirda](https://github.com/dengwirda)/[**mesh2d**](https://github.com/dengwirda/mesh2d)|MESH2D is a MATLAB-based Delaunay mesh generator for two-dimensional geometries.||
-|44|[@graytowne](https://github.com/graytowne)/[**caser**](https://github.com/graytowne/caser)|A Matlab implementation of Convolutional Sequence Embedding Recommendation Model (Caser)||
+|45|[@graytowne](https://github.com/graytowne)/[**caser**](https://github.com/graytowne/caser)|A Matlab implementation of Convolutional Sequence Embedding Recommendation Model (Caser)||
 |43|[@bmcfee](https://github.com/bmcfee)/[**mlr**](https://github.com/bmcfee/mlr)|Metric Learning to Rank||
+|32|[@MIT-LCP](https://github.com/MIT-LCP)/[**critical-data-book**](https://github.com/MIT-LCP/critical-data-book)|Code repository for the critical data book||
 |31|[@ashafaei](https://github.com/ashafaei)/[**ubc3v**](https://github.com/ashafaei/ubc3v)|The Matlab toolkit for UBC 3 View Dataset.|[:arrow_upper_right:](http://www.cs.ubc.ca/~shafaei/homepage/projects/crv16.php)|
 |31|[@kmyid](https://github.com/kmyid)/[**TILDE**](https://github.com/kmyid/TILDE)|Repository for "TILDE: A Temporally Invariant Learned DEtector", CVPR2015||
-|30|[@MIT-LCP](https://github.com/MIT-LCP)/[**critical-data-book**](https://github.com/MIT-LCP/critical-data-book)|Code repository for the critical data book||
-|30|[@sunghbae](https://github.com/sunghbae)/[**dcgan-matconvnet**](https://github.com/sunghbae/dcgan-matconvnet)|Deep Convolutional Generative Adversarial Network (DCGAN) implementation on MatConvNet (compliant to any MCN version)||
+|31|[@sunghbae](https://github.com/sunghbae)/[**dcgan-matconvnet**](https://github.com/sunghbae/dcgan-matconvnet)|Deep Convolutional Generative Adversarial Network (DCGAN) implementation on MatConvNet (compliant to any MCN version)||
 |24|[@Riashat](https://github.com/Riashat)/[**Policy-Gradient-Reinforcement-Learning**](https://github.com/Riashat/Policy-Gradient-Reinforcement-Learning)|||
 |22|[@rayryeng](https://github.com/rayryeng)/[**equi2cubic**](https://github.com/rayryeng/equi2cubic)|MATLAB script that converts equirectangular images into six cube faces||
+|20|[@Riashat](https://github.com/Riashat)/[**Q-Learning-SARSA-Policy-and-Value-Iteration**](https://github.com/Riashat/Q-Learning-SARSA-Policy-and-Value-Iteration)|Implementation of basic reinforcement learning algorithms (Q-learning, SARSA, Policy iteration and Value Iteration) on benchmark RL MDPs (GridWorld, SmallWorld and CliffWorld)||
 |19|[@PyojinKim](https://github.com/PyojinKim)/[**OPVO**](https://github.com/PyojinKim/OPVO)|Sample code of BMVC 2017 paper: "Visual Odometry with Drift-Free Rotation Estimation Using Indoor Scene Regularities"||
-|19|[@Riashat](https://github.com/Riashat)/[**Q-Learning-SARSA-Policy-and-Value-Iteration**](https://github.com/Riashat/Q-Learning-SARSA-Policy-and-Value-Iteration)|Implementation of basic reinforcement learning algorithms (Q-learning, SARSA, Policy iteration and Value Iteration) on benchmark RL MDPs (GridWorld, SmallWorld and CliffWorld)||
 |19|[@terryum](https://github.com/terryum)/[**Athletic_Movement_Detection**](https://github.com/terryum/Athletic_Movement_Detection)|The source codes for the paper, "An unsupervised approach to detecting and isolating athletic movements", EMBC2016||
 |15|[@Sable](https://github.com/Sable)/[**mcbench-benchmarks**](https://github.com/Sable/mcbench-benchmarks)|Repo containing a copy of mcbench benchmarks||
 |14|[@luster](https://github.com/luster)/[**tawfDereverb**](https://github.com/luster/tawfDereverb)|Fast Audio Dereverberation MATLAB System||
@@ -46,6 +46,7 @@
 |3|[@G-Wang](https://github.com/G-Wang)/[**Matlab_LSTM**](https://github.com/G-Wang/Matlab_LSTM)|practice lstm implementation in Matlab||
 |3|[@MIT-LCP](https://github.com/MIT-LCP)/[**hdlvef**](https://github.com/MIT-LCP/hdlvef)|LCP project investigating hyperdynamic ejection fraction in critically ill patients||
 |3|[@MIT-LCP](https://github.com/MIT-LCP)/[**patienttracking**](https://github.com/MIT-LCP/patienttracking)|MIMIC II Patient Tracking||
+|3|[@Yifeng-He](https://github.com/Yifeng-He)/[**Optimal-Scheduling-for-Charging-and-Discharging-of-Electric-Vehicles**](https://github.com/Yifeng-He/Optimal-Scheduling-for-Charging-and-Discharging-of-Electric-Vehicles)|This project develops an optimal scheduling algorithm to minimize the total cost for charging and discharging of electric vehicles.||
 |3|[@alexadusei](https://github.com/alexadusei)/[**andrew-ng-machine-learning**](https://github.com/alexadusei/andrew-ng-machine-learning)|Repo for all of the assignment's source code on Andrew Ng's "Intro to Machine Learning" Coursera course||
 |3|[@danijar](https://github.com/danijar)/[**couse-ml-stanford**](https://github.com/danijar/couse-ml-stanford)|Programming assignments for the Stanford Machine Learning course by Andrew Ng||
 |3|[@dengwirda](https://github.com/dengwirda)/[**find-tria**](https://github.com/dengwirda/find-tria)|Spatial queries for collections of triangles, tetrahedrons and general d-simplexes in MATLAB.||

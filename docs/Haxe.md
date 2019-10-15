@@ -5,8 +5,8 @@
 |41|[@hamaluik](https://github.com/hamaluik)/[**haxe-glm**](https://github.com/hamaluik/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |37|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-glm**](https://github.com/FuzzyWuzzie/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |30|[@ashes999](https://github.com/ashes999)/[**butterfly**](https://github.com/ashes999/butterfly)|Haxe generator for simple, static blogs.||
+|21|[@hamaluik](https://github.com/hamaluik)/[**headbutt**](https://github.com/hamaluik/headbutt)|A GJK and EPA collision engine made with pure Haxe.||
 |20|[@fserb](https://github.com/fserb)/[**sketch**](https://github.com/fserb/sketch)|game sketches|[:arrow_upper_right:](http://fserb.com/vault)|
-|20|[@hamaluik](https://github.com/hamaluik)/[**headbutt**](https://github.com/hamaluik/headbutt)|A GJK and EPA collision engine made with pure Haxe.||
 |19|[@underscorediscovery](https://github.com/underscorediscovery)/[**structural**](https://github.com/underscorediscovery/structural)|An unencumbered haxe data structures library||
 |16|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxeParticleDesigner**](https://github.com/FuzzyWuzzie/LuxeParticleDesigner)|A tool for quickly designing / tweaking particle systems in Luxe.||
 |16|[@hamaluik](https://github.com/hamaluik)/[**LuxeParticleDesigner**](https://github.com/hamaluik/LuxeParticleDesigner)|A tool for quickly designing / tweaking particle systems in Luxe.||
@@ -20,10 +20,10 @@
 |12|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**luxe_tusk_old_deprecated**](https://github.com/FuzzyWuzzie/luxe_tusk_old_deprecated)|My personal game engine||
 |12|[@Ohmnivore](https://github.com/Ohmnivore)/[**Monsieur-Moustache**](https://github.com/Ohmnivore/Monsieur-Moustache)|:tophat: Open-source cross-platform endless jumper game (HaxeFlixel engine)|[:arrow_upper_right:](http://ohmnivore.itch.io/monsieur-moustache)|
 |12|[@adireddy](https://github.com/adireddy)/[**haxe-chart**](https://github.com/adireddy/haxe-chart)|Externs of Chart.js for Haxe|[:arrow_upper_right:](http://www.chartjs.org)|
+|12|[@hamaluik](https://github.com/hamaluik)/[**baldrick**](https://github.com/hamaluik/baldrick)|Entity-component-system (ECS) framework, based heavily on edge||
 |12|[@hamaluik](https://github.com/hamaluik)/[**luxe_tusk_old_deprecated**](https://github.com/hamaluik/luxe_tusk_old_deprecated)|My personal game engine||
 |11|[@Ohmnivore](https://github.com/Ohmnivore)/[**ClientSidePredictionAndServerReconciliation**](https://github.com/Ohmnivore/ClientSidePredictionAndServerReconciliation)|Haxe port of http://www.gabrielgambetta.com/fpm_live.html||
 |11|[@hamaluik](https://github.com/hamaluik)/[**LuxeSightLights**](https://github.com/hamaluik/LuxeSightLights)|Luxe implementation of Sight & Light by the wonderfully talented Nicky Case||
-|11|[@hamaluik](https://github.com/hamaluik)/[**baldrick**](https://github.com/hamaluik/baldrick)|Entity-component-system (ECS) framework, based heavily on edge||
 |10|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxeSightLights**](https://github.com/FuzzyWuzzie/LuxeSightLights)|Luxe implementation of Sight & Light by the wonderfully talented Nicky Case||
 |10|[@Ohmnivore](https://github.com/Ohmnivore)/[**FlxShell**](https://github.com/Ohmnivore/FlxShell)|An abstracted Linux environment for HaxeFlixel - a file system in tandem with a shell.||
 |10|[@fserb](https://github.com/fserb)/[**vault**](https://github.com/fserb/vault)|Vault game development library|[:arrow_upper_right:](http://fserb.com/vault)|
@@ -33,13 +33,13 @@
 |9|[@Ohmnivore](https://github.com/Ohmnivore)/[**HxCLAP**](https://github.com/Ohmnivore/HxCLAP)|Haxe port of CLAP, a command line argument parser||
 |9|[@hamaluik](https://github.com/hamaluik)/[**LuxeLights**](https://github.com/hamaluik/LuxeLights)|A simple demo showing how to use render textures and shaders to create a _very basic_ 2D lighting effect (no shadows, no light "clipping").||
 |8|[@Ohmnivore](https://github.com/Ohmnivore)/[**ChopEngine**](https://github.com/Ohmnivore/ChopEngine)|A Haxe cross-platform 3D game engine built on top of Snow||
+|8|[@starburst997](https://github.com/starburst997)/[**haxe-zip**](https://github.com/starburst997/haxe-zip)|Library to provide a cross-platform streaming Zip Writer / Reader experience.||
 |8|[@underscorediscovery](https://github.com/underscorediscovery)/[**arguable**](https://github.com/underscorediscovery/arguable)|A simple `--argument value` parsing library for Haxe.||
 |8|[@underscorediscovery](https://github.com/underscorediscovery)/[**hxtypedarray**](https://github.com/underscorediscovery/hxtypedarray)|TypedArray implementation for haxe ||
 |8|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe-assetpacker**](https://github.com/underscorediscovery/luxe-assetpacker)|An asset packing tool for luxe and haxe projects||
 |7|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxeLights**](https://github.com/FuzzyWuzzie/LuxeLights)|A simple demo showing how to use render textures and shaders to create a _very basic_ 2D lighting effect (no shadows, no light "clipping").||
 |7|[@adireddy](https://github.com/adireddy)/[**haxe-p2**](https://github.com/adireddy/haxe-p2)|Externs of p2.js for Haxe|[:arrow_upper_right:](http://schteppe.github.io/p2.js/)|
 |7|[@chfoo](https://github.com/chfoo)/[**seedyrng**](https://github.com/chfoo/seedyrng)|Pseudorandom number generator library for Haxe||
-|7|[@starburst997](https://github.com/starburst997)/[**haxe-zip**](https://github.com/starburst997/haxe-zip)|Library to provide a cross-platform streaming Zip Writer / Reader experience.||
 |6|[@Ohmnivore](https://github.com/Ohmnivore)/[**TileSetter**](https://github.com/Ohmnivore/TileSetter)|UI application for editing tile properties for tilesets||
 |6|[@adireddy](https://github.com/adireddy)/[**haxe-hammer**](https://github.com/adireddy/haxe-hammer)|Externs of hammer.js for Haxe ||
 |6|[@chfoo](https://github.com/chfoo)/[**thenshim**](https://github.com/chfoo/thenshim)|Adapter/shim for cross-target JavaScript-style ('thenable') promises Haxe library ||

@@ -8,8 +8,8 @@
 |6|[@supernovus](https://github.com/supernovus)/[**SCGI**](https://github.com/supernovus/SCGI)|A SCGI library for Perl 6||
 |6|[@supernovus](https://github.com/supernovus)/[**flower**](https://github.com/supernovus/flower)|XML Application Languages (including TAL/METAL) for Perl 6||
 |5|[@supernovus](https://github.com/supernovus)/[**perl6-psgi**](https://github.com/supernovus/perl6-psgi)|PSGI Helper Library for Perl 6||
+|5|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-666**](https://github.com/zoffixznet/perl6-666)|Perl 6 Module: ווו||
 |4|[@supernovus](https://github.com/supernovus)/[**perl6-db-model-easy**](https://github.com/supernovus/perl6-db-model-easy)|Build database models in Perl 6, easily.||
-|4|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-666**](https://github.com/zoffixznet/perl6-666)|Perl 6 Module: ווו||
 |4|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Pretty-Topic**](https://github.com/zoffixznet/perl6-Pretty-Topic)|Perl 6 module: alias $_ topical variable to something prettier||
 |3|[@davepagurek](https://github.com/davepagurek)/[**Kandinsky**](https://github.com/davepagurek/Kandinsky)|A declarative language for programming generative art||
 |3|[@supernovus](https://github.com/supernovus)/[**perl6-datetime-math**](https://github.com/supernovus/perl6-datetime-math)|DateTime::Math -- provides common math operations on DateTime objects||
