@@ -1,7 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |15|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-Acme-Anguish**](https://github.com/zoffixznet/perl6-Acme-Anguish)|Perl 6 module: interpreter for Anguish programming language||
-|11|[@supernovus](https://github.com/supernovus)/[**PSpec**](https://github.com/supernovus/PSpec)|An RSpec-like BDD test framework for Perl 6.|[:arrow_upper_right:](http://huri.net/articles/2010/01/pspec.html)|
 |9|[@supernovus](https://github.com/supernovus)/[**template6**](https://github.com/supernovus/template6)|Template6: A TT-like template engine for Perl 6||
 |7|[@zoffixznet](https://github.com/zoffixznet)/[**perl6-GlotIO**](https://github.com/zoffixznet/perl6-GlotIO)|Perl 6 module implementing http://glot.io API||
 |6|[@briandfoy](https://github.com/briandfoy)/[**Perl6PowerTools**](https://github.com/briandfoy/Perl6PowerTools)|The Perl Power Tools, but in Perl 6||

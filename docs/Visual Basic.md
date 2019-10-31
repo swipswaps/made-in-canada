@@ -33,4 +33,5 @@
 |3|[@Krutonium](https://github.com/Krutonium)/[**XKCDViewer**](https://github.com/Krutonium/XKCDViewer)|Allows you to view XKCD Comics without opening a Browser||
 |3|[@PFCKrutonium](https://github.com/PFCKrutonium)/[**XKCDViewer**](https://github.com/PFCKrutonium/XKCDViewer)|Allows you to view XKCD Comics without opening a Browser||
 |3|[@PFCKrutonium](https://github.com/PFCKrutonium)/[**Yggdrasil**](https://github.com/PFCKrutonium/Yggdrasil)|Simple Library for Authenticating against Mojang's Login server (Called Yggdrasil) in .Net||
+|3|[@retailcoder](https://github.com/retailcoder)/[**VBA-StringBuilder**](https://github.com/retailcoder/VBA-StringBuilder)|A 100% VBA StringBuilder class||
 
