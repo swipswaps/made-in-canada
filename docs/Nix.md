@@ -1,5 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
+|33|[@burke](https://github.com/burke)/[**b**](https://github.com/burke/b)|Collection of configuration stuff.||
 |13|[@NeQuissimus](https://github.com/NeQuissimus)/[**DevSetup**](https://github.com/NeQuissimus/DevSetup)|dotfiles and NixOS setups|[:arrow_upper_right:](http://nequissimus.com/DevSetup)|
 |7|[@corngood](https://github.com/corngood)/[**nixos-mesa-git**](https://github.com/corngood/nixos-mesa-git)|||
 |5|[@johnramsden](https://github.com/johnramsden)/[**nixos**](https://github.com/johnramsden/nixos)|My NixOS configuration.||

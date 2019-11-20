@@ -6,12 +6,12 @@
 |27|[@Krutonium](https://github.com/Krutonium)/[**OpenRCT2Launcher**](https://github.com/Krutonium/OpenRCT2Launcher)|An Open Source Launcher & Updater for OpenRCT2||
 |26|[@retailcoder](https://github.com/retailcoder)/[**VBTools**](https://github.com/retailcoder/VBTools)|A handful class modules for VB6/VBA||
 |23|[@PFCKrutonium](https://github.com/PFCKrutonium)/[**SkypeAdvertRemover**](https://github.com/PFCKrutonium/SkypeAdvertRemover)|Removes all those pesky advertisements from Skype||
-|21|[@Krutonium](https://github.com/Krutonium)/[**SkypeAdvertRemover**](https://github.com/Krutonium/SkypeAdvertRemover)|Removes all those pesky advertisements from Skype||
+|20|[@Krutonium](https://github.com/Krutonium)/[**SkypeAdvertRemover**](https://github.com/Krutonium/SkypeAdvertRemover)|Removes all those pesky advertisements from Skype||
 |15|[@Krutonium](https://github.com/Krutonium)/[**ESD-Download-Link-Generator**](https://github.com/Krutonium/ESD-Download-Link-Generator)|Generates Download Links to ESD Files, whether  from from Windows Updates or Supplied Information.||
 |15|[@Lynxmotion](https://github.com/Lynxmotion)/[**Arms**](https://github.com/Lynxmotion/Arms)|Contains all code for the AL5 Series Arms.|[:arrow_upper_right:](http://www.lynxmotion.com/c-27-robotic-arms.aspx)|
+|14|[@ThaisenPM](https://github.com/ThaisenPM)/[**Loader1**](https://github.com/ThaisenPM/Loader1)|Nova Hook is an open source VB.NET cheat loader currently built for CS:GO||
 |14|[@iH8sn0w](https://github.com/iH8sn0w)/[**iREB-2.0**](https://github.com/iH8sn0w/iREB-2.0)|A cleaner and more stable version of iDevice from xpwn.||
 |13|[@PFCKrutonium](https://github.com/PFCKrutonium)/[**ESD-Download-Link-Generator**](https://github.com/PFCKrutonium/ESD-Download-Link-Generator)|Generates Download Links to ESD Files, whether  from from Windows Updates or Supplied Information.||
-|13|[@ThaisenPM](https://github.com/ThaisenPM)/[**Loader1**](https://github.com/ThaisenPM/Loader1)|Nova Hook is an open source VB.NET cheat loader currently built for CS:GO||
 |13|[@iH8sn0w](https://github.com/iH8sn0w)/[**iBooty**](https://github.com/iH8sn0w/iBooty)|A Quick & Easy Tethered Boot utility.|[:arrow_upper_right:](http://ih8sn0w.com)|
 |12|[@Lynxmotion](https://github.com/Lynxmotion)/[**3DOF-4DOF-Hex**](https://github.com/Lynxmotion/3DOF-4DOF-Hex)|Contains code for 3DoF and 4Dof hexapod robots|[:arrow_upper_right:](http://www.lynxmotion.com/c-3-hexapods.aspx)|
 |9|[@iH8sn0w](https://github.com/iH8sn0w)/[**null_shsh**](https://github.com/iH8sn0w/null_shsh)|Nullify the SHSH blob in a signed img3|[:arrow_upper_right:](http://ih8sn0w.com)|
@@ -30,8 +30,9 @@
 |4|[@PeterTheHe](https://github.com/PeterTheHe)/[**VBML**](https://github.com/PeterTheHe/VBML)|Some mad machine learning tings in the most hipster language known to man: Visual Basic||
 |4|[@iH8sn0w](https://github.com/iH8sn0w)/[**iDetector**](https://github.com/iH8sn0w/iDetector)|A simple tool that detects if your device is New Bootrom or Old Bootrom in DFU.|[:arrow_upper_right:](http://ih8sn0w.com)|
 |4|[@iH8sn0w](https://github.com/iH8sn0w)/[**iREB----sn0wbreeze-version**](https://github.com/iH8sn0w/iREB----sn0wbreeze-version)|iREB for sn0wbreeze integration|[:arrow_upper_right:](http://ih8sn0w.com)|
+|4|[@retailcoder](https://github.com/retailcoder)/[**VBA-StringBuilder**](https://github.com/retailcoder/VBA-StringBuilder)|A 100% VBA StringBuilder class||
 |3|[@Krutonium](https://github.com/Krutonium)/[**XKCDViewer**](https://github.com/Krutonium/XKCDViewer)|Allows you to view XKCD Comics without opening a Browser||
 |3|[@PFCKrutonium](https://github.com/PFCKrutonium)/[**XKCDViewer**](https://github.com/PFCKrutonium/XKCDViewer)|Allows you to view XKCD Comics without opening a Browser||
 |3|[@PFCKrutonium](https://github.com/PFCKrutonium)/[**Yggdrasil**](https://github.com/PFCKrutonium/Yggdrasil)|Simple Library for Authenticating against Mojang's Login server (Called Yggdrasil) in .Net||
-|3|[@retailcoder](https://github.com/retailcoder)/[**VBA-StringBuilder**](https://github.com/retailcoder/VBA-StringBuilder)|A 100% VBA StringBuilder class||
+|3|[@ThaisenPM](https://github.com/ThaisenPM)/[**VB.NET-Login-Form**](https://github.com/ThaisenPM/VB.NET-Login-Form)|A VB.NET Login Form that is HWID locked, built around MyBB but is easily modifiable||
 

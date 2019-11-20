@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|516|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base! see the website for details - https://luxeengine.com/|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
+|514|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base! see the website for details - https://luxeengine.com/|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
 |41|[@Ohmnivore](https://github.com/Ohmnivore)/[**SkullRush**](https://github.com/Ohmnivore/SkullRush)|:skull: A 2D online multiplayer shooter written in Haxe|[:arrow_upper_right:](http://ohmnivore.github.io)|
 |41|[@hamaluik](https://github.com/hamaluik)/[**haxe-glm**](https://github.com/hamaluik/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |37|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-glm**](https://github.com/FuzzyWuzzie/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
@@ -61,6 +61,7 @@
 |4|[@hamaluik](https://github.com/hamaluik)/[**RegisAgro**](https://github.com/hamaluik/RegisAgro)|A Luxe implementation of hnefatafl||
 |4|[@hamaluik](https://github.com/hamaluik)/[**haxe-partials**](https://github.com/hamaluik/haxe-partials)|A simple macro library for writing classes as partials (splitting a single class into multiple source files).||
 |4|[@hamaluik](https://github.com/hamaluik)/[**hx-blender-api**](https://github.com/hamaluik/hx-blender-api)|Haxe externs for the Blender API||
+|4|[@starburst997](https://github.com/starburst997)/[**SWFTY**](https://github.com/starburst997/SWFTY)|Convert a SWF to an Atlas Spritesheet Tilemap Bitmap Font single zipped file||
 |4|[@starburst997](https://github.com/starburst997)/[**haxe-trace-timer**](https://github.com/starburst997/haxe-trace-timer)|Inject timer information in trace statement||
 |4|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe-gifcapture**](https://github.com/underscorediscovery/luxe-gifcapture)|A luxe wrapper over the gifcapture library to simplify capturing realtime gifs from in game||
 |3|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Luxe3D**](https://github.com/FuzzyWuzzie/Luxe3D)|Experiments in 3D in Luxe||
@@ -68,7 +69,6 @@
 |3|[@chfoo](https://github.com/chfoo)/[**fogchamp**](https://github.com/chfoo/fogchamp)|Pokémon Battle Revolution Matchup Visualizer for Twitch Plays Pokemon.|[:arrow_upper_right:](https://chfoo.github.io/fogchamp/)|
 |3|[@chfoo](https://github.com/chfoo)/[**trandom**](https://github.com/chfoo/trandom)|Cross-platform Haxe library for accessing cryptographic secure numbers ||
 |3|[@hamaluik](https://github.com/hamaluik)/[**Luxe3D**](https://github.com/hamaluik/Luxe3D)|Experiments in 3D in Luxe||
-|3|[@starburst997](https://github.com/starburst997)/[**SWFTY**](https://github.com/starburst997/SWFTY)|Convert a SWF to an Atlas Spritesheet Tilemap Bitmap Font single zipped file||
 |3|[@underscorediscovery](https://github.com/underscorediscovery)/[**nme-TexturePackerJSON**](https://github.com/underscorediscovery/nme-TexturePackerJSON)|An implementation of a haxelib/spritesheet Loader for TexturePacker||
 |3|[@underscorediscovery](https://github.com/underscorediscovery)/[**snowhxt**](https://github.com/underscorediscovery/snowhxt)|A convenience for using hxtelemetry with flow/snow based apps quickly||
 

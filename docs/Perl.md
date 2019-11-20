@@ -1,26 +1,26 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|251|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|A repository of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. ||
+|261|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|A repository of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. ||
 |166|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
-|142|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
-|132|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
+|145|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
+|135|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
 |124|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
-|114|[@trentm](https://github.com/trentm)/[**node-ldapauth**](https://github.com/trentm/node-ldapauth)|Simple node.js module to authenticate against an LDAP server||
+|115|[@trentm](https://github.com/trentm)/[**node-ldapauth**](https://github.com/trentm/node-ldapauth)|Simple node.js module to authenticate against an LDAP server||
 |101|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
 |81|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
-|77|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
+|78|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
 |71|[@mlangill](https://github.com/mlangill)/[**microbiome_helper**](https://github.com/mlangill/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
 |48|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
-|43|[@briandfoy](https://github.com/briandfoy)/[**Learning-Perl-Sample-Files**](https://github.com/briandfoy/Learning-Perl-Sample-Files)|Extra files for use with Learning Perl|[:arrow_upper_right:](http://www.learning-perl.org/)|
+|45|[@briandfoy](https://github.com/briandfoy)/[**Learning-Perl-Sample-Files**](https://github.com/briandfoy/Learning-Perl-Sample-Files)|Extra files for use with Learning Perl|[:arrow_upper_right:](http://www.learning-perl.org/)|
 |42|[@yanick](https://github.com/yanick)/[**git-cpan-patch**](https://github.com/yanick/git-cpan-patch)|System to write patches against CPAN modules via Git||
-|39|[@bcgsc](https://github.com/bcgsc)/[**LINKS**](https://github.com/bcgsc/LINKS)|⛓Long Interval Nucleotide K-mer Scaffolder||
+|40|[@bcgsc](https://github.com/bcgsc)/[**LINKS**](https://github.com/bcgsc/LINKS)|⛓Long Interval Nucleotide K-mer Scaffolder||
 |35|[@moshen](https://github.com/moshen)/[**Image-Term256Color**](https://github.com/moshen/Image-Term256Color)|Display images in your 256 color terminal! (kinda) - superseded by https://github.com/moshen/gotermimg||
-|30|[@bcgsc](https://github.com/bcgsc)/[**mirna**](https://github.com/bcgsc/mirna)|microRNA profiling pipeline||
+|33|[@bcgsc](https://github.com/bcgsc)/[**mirna**](https://github.com/bcgsc/mirna)|microRNA profiling pipeline||
 |27|[@cdrage](https://github.com/cdrage)/[**dockerfiles**](https://github.com/cdrage/dockerfiles)|🐳 My Dockerfiles||
 |26|[@sjackman](https://github.com/sjackman)/[**fastascripts**](https://github.com/sjackman/fastascripts)|Manipulate FASTA files||
 |24|[@briandfoy](https://github.com/briandfoy)/[**cpan-script**](https://github.com/briandfoy/cpan-script)|(Perl) Interact with CPAN from the command line|[:arrow_upper_right:](http://search.cpan.org/dist/cpan-script)|
-|23|[@sestaton](https://github.com/sestaton)/[**HMMER2GO**](https://github.com/sestaton/HMMER2GO)|Annotate DNA sequences for Gene Ontology terms||
-|23|[@sestaton](https://github.com/sestaton)/[**Transposome**](https://github.com/sestaton/Transposome)|A toolkit for annotation of transposable element families from unassembled sequence reads|[:arrow_upper_right:](http://sestaton.github.io/Transposome)|
+|24|[@sestaton](https://github.com/sestaton)/[**HMMER2GO**](https://github.com/sestaton/HMMER2GO)|Annotate DNA sequences for Gene Ontology terms||
+|24|[@sestaton](https://github.com/sestaton)/[**Transposome**](https://github.com/sestaton/Transposome)|A toolkit for annotation of transposable element families from unassembled sequence reads|[:arrow_upper_right:](http://sestaton.github.io/Transposome)|
 |22|[@yanick](https://github.com/yanick)/[**cheatsheets**](https://github.com/yanick/cheatsheets)|My cheatsheets||
 |21|[@hoytech](https://github.com/hoytech)/[**unliner**](https://github.com/hoytech/unliner)|Untangle your unix pipeline one-liners||
 |21|[@mlangill](https://github.com/mlangill)/[**MicrobeDB**](https://github.com/mlangill/MicrobeDB)|Provides a local database of in-house and published genomes for Bacteria and Archaea from NCBI||
@@ -29,9 +29,9 @@
 |18|[@bartman](https://github.com/bartman)/[**urxvt-scripts**](https://github.com/bartman/urxvt-scripts)|my urxvt scripts|[:arrow_upper_right:](http://www.jukie.net/~bart/blog/tag/urxvt)|
 |18|[@briandfoy](https://github.com/briandfoy)/[**git-github-creator**](https://github.com/briandfoy/git-github-creator)|(Perl) Create a Github repository for your Perl module|[:arrow_upper_right:](https://metacpan.org/pod/Git::GitHub::Creator)|
 |17|[@bcgsc](https://github.com/bcgsc)/[**RAILS**](https://github.com/bcgsc/RAILS)|🚝RAILS and 👞🔨Cobbler: Assembly Improvement by Long Sequence Scaffolding/Gap-filling||
+|17|[@sestaton](https://github.com/sestaton)/[**tephra**](https://github.com/sestaton/tephra)|A tool for discovering transposable elements and describing patterns of genome evolution||
 |16|[@briandfoy](https://github.com/briandfoy)/[**unicode-tussle**](https://github.com/briandfoy/unicode-tussle)|Tom( Christiansen)'s Unicode Scripts So Life is Easier|[:arrow_upper_right:](https://metacpan.org/dist/Unicode::Tussle)|
 |16|[@johnlees](https://github.com/johnlees)/[**23andme-impute**](https://github.com/johnlees/23andme-impute)|Scripts and advice to run IMPUTE2 on 23 and me raw data||
-|16|[@sestaton](https://github.com/sestaton)/[**tephra**](https://github.com/sestaton/tephra)|A tool for discovering transposable elements and describing patterns of genome evolution||
 |15|[@briandfoy](https://github.com/briandfoy)/[**Unicode-Tussle**](https://github.com/briandfoy/Unicode-Tussle)|Tom( Christiansen)'s Unicode Scripts So Life is Easier|[:arrow_upper_right:](http://search.cpan.org/dist/Unicode-Tussle)|
 |13|[@karenetheridge](https://github.com/karenetheridge)/[**Acme-LookOfDisapproval**](https://github.com/karenetheridge/Acme-LookOfDisapproval)|Send warnings with ಠ_ಠ|[:arrow_upper_right:](http://metacpan.org/release/Acme-LookOfDisapproval/)|
 |13|[@yanick](https://github.com/yanick)/[**Perl-Achievements**](https://github.com/yanick/Perl-Achievements)|Write some perl, gather some badges of merit.||
@@ -40,16 +40,16 @@
 |12|[@hoytech](https://github.com/hoytech)/[**Session-Token**](https://github.com/hoytech/Session-Token)|Secure, efficient, simple random session token generation||
 |12|[@sestaton](https://github.com/sestaton)/[**Pairfq**](https://github.com/sestaton/Pairfq)|Sync paired-end FASTA/Q files and keep singleton reads||
 |12|[@sestaton](https://github.com/sestaton)/[**sesbio**](https://github.com/sestaton/sesbio)|Bioinformatics scripts for genome analysis||
+|11|[@EOS-Nation](https://github.com/EOS-Nation)/[**bpvalidate**](https://github.com/EOS-Nation/bpvalidate)|Tools to validate BPs have set up their public configuration correctly||
 |11|[@briandfoy](https://github.com/briandfoy)/[**mycpan-indexer**](https://github.com/briandfoy/mycpan-indexer)|(Perl) Index a Perl distribution|[:arrow_upper_right:](https://metacpan.org/pod/MyCPAN::Indexer)|
 |11|[@briandfoy](https://github.com/briandfoy)/[**net-mac-vendor**](https://github.com/briandfoy/net-mac-vendor)|look up the network interface vendor by MAC||
 |11|[@bricas](https://github.com/bricas)/[**uri-template**](https://github.com/bricas/uri-template)|Object for handling URI templates|[:arrow_upper_right:](http://metacpan.org/release/URI-Template/)|
 |11|[@carlalexander](https://github.com/carlalexander)/[**macos-nginx-php**](https://github.com/carlalexander/macos-nginx-php)|[UNMAINTAINED] Nginx and PHP config for Mac OS X||
-|10|[@EOS-Nation](https://github.com/EOS-Nation)/[**bpvalidate**](https://github.com/EOS-Nation/bpvalidate)|Tools to validate BPs have set up their public configuration correctly||
+|11|[@hoytech](https://github.com/hoytech)/[**Valence-p5**](https://github.com/hoytech/Valence-p5)|Perl interface to valence/electron GUI toolkit||
 |10|[@briandfoy](https://github.com/briandfoy)/[**test-file**](https://github.com/briandfoy/test-file)|(Perl) Check file attributes|[:arrow_upper_right:](https://metacpan.org/pod/Test::File)|
 |10|[@elecnix](https://github.com/elecnix)/[**nagios-postgresql**](https://github.com/elecnix/nagios-postgresql)|Fork of Tony Wasson's nagios plugins for PosgreSQL|[:arrow_upper_right:](http://pgfoundry.org/projects/nagiosplugins/)|
 |10|[@fnichol](https://github.com/fnichol)/[**dotfiles**](https://github.com/fnichol/dotfiles)|A personal set of Unix "dotfiles" to configure various programs.||
 |10|[@hoytech](https://github.com/hoytech)/[**Thrust**](https://github.com/hoytech/Thrust)|Perl language bindings for Thrust  https://github.com/breach/thrust||
-|10|[@hoytech](https://github.com/hoytech)/[**Valence-p5**](https://github.com/hoytech/Valence-p5)|Perl interface to valence/electron GUI toolkit||
 |10|[@s-rah](https://github.com/s-rah)/[**itsybitsy**](https://github.com/s-rah/itsybitsy)|The mini static site generator||
 |10|[@yanick](https://github.com/yanick)/[**Term-Caca**](https://github.com/yanick/Term-Caca)|perl interface for libcaca (Colour AsCii Art library) |[:arrow_upper_right:](http://search.cpan.org/dist/Term-Caca)|
 |9|[@bbidulock](https://github.com/bbidulock)/[**perlpanel**](https://github.com/bbidulock/perlpanel)|Panel for the X Desktop Environment (XDE) based on PerlPanel||
@@ -80,6 +80,7 @@
 |5|[@briandfoy](https://github.com/briandfoy)/[**brick**](https://github.com/briandfoy/brick)|(Perl) Complex business rule data validation|[:arrow_upper_right:](https://metacpan.org/pod/Brick)|
 |5|[@briandfoy](https://github.com/briandfoy)/[**io-interactive**](https://github.com/briandfoy/io-interactive)|Utilities for interactive I/O|[:arrow_upper_right:](https://metacpan.org/pod/IO::Interactive)|
 |5|[@briandfoy](https://github.com/briandfoy)/[**module-extract-namespaces**](https://github.com/briandfoy/module-extract-namespaces)|(Perl) This is what the module does|[:arrow_upper_right:](https://metacpan.org/pod/Module::Extract::Namespaces)|
+|5|[@briandfoy](https://github.com/briandfoy)/[**module-release-git**](https://github.com/briandfoy/module-release-git)|Module::Release mixin to work with Git repositories||
 |5|[@briandfoy](https://github.com/briandfoy)/[**mycpan--app--dpan**](https://github.com/briandfoy/mycpan--app--dpan)|(Perl) Create a custom, private DarkPAN repository|[:arrow_upper_right:](http://search.cpan.org/dist/MyCPAN-App-DPAN)|
 |5|[@briandfoy](https://github.com/briandfoy)/[**mycpan-app-dpan**](https://github.com/briandfoy/mycpan-app-dpan)|(Perl) Create a custom, private DarkPAN repository|[:arrow_upper_right:](https://metacpan.org/pod/MyCPAN::App::DPAN)|
 |5|[@briandfoy](https://github.com/briandfoy)/[**perl-critic-policy-camel**](https://github.com/briandfoy/perl-critic-policy-camel)|Perl style recommendations from Programming Perl||
@@ -97,7 +98,6 @@
 |4|[@briandfoy](https://github.com/briandfoy)/[**app-ppi-dumper**](https://github.com/briandfoy/app-ppi-dumper)|(Perl) This is what the module does|[:arrow_upper_right:](https://metacpan.org/pod/App::PPI::Dumper)|
 |4|[@briandfoy](https://github.com/briandfoy)/[**mac-osversion**](https://github.com/briandfoy/mac-osversion)|(Perl) Get the Mac OS X system version|[:arrow_upper_right:](https://metacpan.org/pod/Mac::OSVersion)|
 |4|[@briandfoy](https://github.com/briandfoy)/[**module-extract-version**](https://github.com/briandfoy/module-extract-version)|(Perl) This is what the module does|[:arrow_upper_right:](https://metacpan.org/pod/Module::Extract::VERSION)|
-|4|[@briandfoy](https://github.com/briandfoy)/[**module-release-git**](https://github.com/briandfoy/module-release-git)|Module::Release mixin to work with Git repositories||
 |4|[@briandfoy](https://github.com/briandfoy)/[**object-iterate**](https://github.com/briandfoy/object-iterate)|The Object-Iterate Perl module|[:arrow_upper_right:](https://metacpan.org/pod/Object::Iterate)|
 |4|[@briandfoy](https://github.com/briandfoy)/[**tie-cycle**](https://github.com/briandfoy/tie-cycle)|Cycle through a list of values via a scalar|[:arrow_upper_right:](https://metacpan.org/pod/Tie::Cycle)|
 |4|[@bricas](https://github.com/bricas)/[**cpan-changes-web**](https://github.com/bricas/cpan-changes-web)|CPAN::Changes Kwalitee Service||
@@ -110,13 +110,16 @@
 |4|[@jandubois](https://github.com/jandubois)/[**win32-daemon**](https://github.com/jandubois/win32-daemon)|||
 |4|[@jandubois](https://github.com/jandubois)/[**win32-eventlog**](https://github.com/jandubois/win32-eventlog)|||
 |4|[@jts](https://github.com/jts)/[**sga-extra**](https://github.com/jts/sga-extra)|Extra tools and utilities for sga||
+|4|[@karenetheridge](https://github.com/karenetheridge)/[**Task-CoreModules**](https://github.com/karenetheridge/Task-CoreModules)|||
 |4|[@obilodeau](https://github.com/obilodeau)/[**infosec-tools**](https://github.com/obilodeau/infosec-tools)|Various lame infosec tools that I decided not to keep to myself.||
 |4|[@sestaton](https://github.com/sestaton)/[**Chloro**](https://github.com/sestaton/Chloro)|Automated chloroplast genome assembly||
 |4|[@yanick](https://github.com/yanick)/[**Dancer-Template-Mason**](https://github.com/yanick/Dancer-Template-Mason)|Mason wrapper for Dancer||
 |4|[@yanick](https://github.com/yanick)/[**Dist-Zilla-Plugin-HelpWanted**](https://github.com/yanick/Dist-Zilla-Plugin-HelpWanted)|||
 |4|[@yanick](https://github.com/yanick)/[**Games-DungeonBuilder**](https://github.com/yanick/Games-DungeonBuilder)|generate dungeon maps||
+|4|[@yanick](https://github.com/yanick)/[**Neovim-RPC**](https://github.com/yanick/Neovim-RPC)|||
 |4|[@yanick](https://github.com/yanick)/[**Template-Caribou**](https://github.com/yanick/Template-Caribou)|Because the world needs another templating system||
 |4|[@yanick](https://github.com/yanick)/[**dfw-contest**](https://github.com/yanick/dfw-contest)|||
+|4|[@yanick](https://github.com/yanick)/[**xml-xpathscript**](https://github.com/yanick/xml-xpathscript)|a Perl framework for XML stylesheets||
 |4|[@zaidka](https://github.com/zaidka)/[**dhcp_api**](https://github.com/zaidka/dhcp_api)|A simple Perl script that acts as a HTTP API to query information from DHCP leases file.||
 |3|[@AAFC-MBB](https://github.com/AAFC-MBB)/[**Galaxy**](https://github.com/AAFC-MBB/Galaxy)|Galaxy tool wrappers, tool dependencies, and workflows.||
 |3|[@MIT-LCP](https://github.com/MIT-LCP)/[**edema**](https://github.com/MIT-LCP/edema)|||
@@ -163,13 +166,11 @@
 |3|[@yanick](https://github.com/yanick)/[**CPAN-Cache**](https://github.com/yanick/CPAN-Cache)|Release history of CPAN-Cache|[:arrow_upper_right:](http://search.cpan.org/dist/CPAN-Cache/)|
 |3|[@yanick](https://github.com/yanick)/[**Dancer-Plugin-Cache-CHI**](https://github.com/yanick/Dancer-Plugin-Cache-CHI)|Dancer plugin to cache response content (and anything else)||
 |3|[@yanick](https://github.com/yanick)/[**Dist-Zilla-PluginBundle-YANICK**](https://github.com/yanick/Dist-Zilla-PluginBundle-YANICK)|Be like Yanick when you release your dists||
-|3|[@yanick](https://github.com/yanick)/[**Neovim-RPC**](https://github.com/yanick/Neovim-RPC)|||
 |3|[@yanick](https://github.com/yanick)/[**Pulp**](https://github.com/yanick/Pulp)|||
 |3|[@yanick](https://github.com/yanick)/[**Task-BeLike-YANICK**](https://github.com/yanick/Task-BeLike-YANICK)|(Perl) like Yanick? Be like Yanick!|[:arrow_upper_right:](http://search.cpan.org/dist/Task-BeLike-YANICK)|
 |3|[@yanick](https://github.com/yanick)/[**dpanneur**](https://github.com/yanick/dpanneur)|Portable DarkPAN/CPAN proxy||
 |3|[@yanick](https://github.com/yanick)/[**test-class**](https://github.com/yanick/test-class)|[Perl] My experimental forks of Test::Class||
 |3|[@yanick](https://github.com/yanick)/[**varys**](https://github.com/yanick/varys)|toy monitoring system||
-|3|[@yanick](https://github.com/yanick)/[**xml-xpathscript**](https://github.com/yanick/xml-xpathscript)|a Perl framework for XML stylesheets||
 |3|[@zoffixznet](https://github.com/zoffixznet)/[**WWW-BashOrg**](https://github.com/zoffixznet/WWW-BashOrg)|||
 |3|[@zoffixznet](https://github.com/zoffixznet)/[**WWW-Pastebin-PastebinCom-API**](https://github.com/zoffixznet/WWW-Pastebin-PastebinCom-API)|||
 |3|[@zsprackett](https://github.com/zsprackett)/[**pagerduty_zenoss**](https://github.com/zsprackett/pagerduty_zenoss)|A Zenoss command for notification to PagerDuty via their rest API||
