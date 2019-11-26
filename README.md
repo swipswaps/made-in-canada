@@ -3,108 +3,108 @@
 > A list of cool projects in Canada. (This repo is inspired by [@IonicaBizau/made-in](https://github.com/IonicaBizau/made-in))
 
  
-## Top 10 Developers out of 13974 (2019/11/19)
+## Top 10 Developers out of 13974 (2019/11/25)
 |Rank|Name|:star2:|
 |---|---|---|
-|1|[tj](https://github.com/tj)|112972|
-|2|[developit](https://github.com/developit)|73813|
-|3|[FortAwesome](https://github.com/FortAwesome)|66779|
-|4|[thedaviddias](https://github.com/thedaviddias)|55816|
-|5|[gaearon](https://github.com/gaearon)|55310|
-|6|[addyosmani](https://github.com/addyosmani)|51647|
-|7|[adam-p](https://github.com/adam-p)|42110|
-|8|[gorhill](https://github.com/gorhill)|26054|
-|9|[CamDavidsonPilon](https://github.com/CamDavidsonPilon)|22306|
-|10|[terryum](https://github.com/terryum)|20863|
+|1|[tj](https://github.com/tj)|113221|
+|2|[developit](https://github.com/developit)|73922|
+|3|[FortAwesome](https://github.com/FortAwesome)|66845|
+|4|[thedaviddias](https://github.com/thedaviddias)|55868|
+|5|[gaearon](https://github.com/gaearon)|55352|
+|6|[addyosmani](https://github.com/addyosmani)|51666|
+|7|[adam-p](https://github.com/adam-p)|42236|
+|8|[gorhill](https://github.com/gorhill)|26166|
+|9|[CamDavidsonPilon](https://github.com/CamDavidsonPilon)|22367|
+|10|[terryum](https://github.com/terryum)|20891|
 
 -> [Top 1000/ Developers out of 13974](https://github.com/suguru03/made-in-canada/blob/master/docs/rankers.md)
  
 ## Languages
 |Rank|Language|:star2:|Number of Repositories|
 |---|---|---|---|
-|1|[JavaScript](https://github.com/suguru03/made-in-canada/blob/master/docs/JavaScript.md)|741754|5003|
-|2|[Python](https://github.com/suguru03/made-in-canada/blob/master/docs/Python.md)|203589|2275|
-|3|[Documents](https://github.com/suguru03/made-in-canada/blob/master/docs/Documents.md)|104451|1337|
-|4|[Ruby](https://github.com/suguru03/made-in-canada/blob/master/docs/Ruby.md)|98714|1450|
-|5|[PHP](https://github.com/suguru03/made-in-canada/blob/master/docs/PHP.md)|74678|1023|
-|6|[Java](https://github.com/suguru03/made-in-canada/blob/master/docs/Java.md)|74344|1007|
-|7|[Go](https://github.com/suguru03/made-in-canada/blob/master/docs/Go.md)|73533|811|
-|8|[Swift](https://github.com/suguru03/made-in-canada/blob/master/docs/Swift.md)|71006|318|
-|9|[Jupyter Notebook](https://github.com/suguru03/made-in-canada/blob/master/docs/Jupyter%20Notebook.md)|56717|255|
-|10|[Shell](https://github.com/suguru03/made-in-canada/blob/master/docs/Shell.md)|52781|644|
-|11|[HTML](https://github.com/suguru03/made-in-canada/blob/master/docs/HTML.md)|51524|672|
-|12|[C++](https://github.com/suguru03/made-in-canada/blob/master/docs/C++.md)|48974|753|
-|13|[C#](https://github.com/suguru03/made-in-canada/blob/master/docs/C#.md)|41508|600|
-|14|[CSS](https://github.com/suguru03/made-in-canada/blob/master/docs/CSS.md)|41270|608|
-|15|[Objective-C](https://github.com/suguru03/made-in-canada/blob/master/docs/Objective-C.md)|38507|355|
-|16|[C](https://github.com/suguru03/made-in-canada/blob/master/docs/C.md)|34191|699|
-|17|[TypeScript](https://github.com/suguru03/made-in-canada/blob/master/docs/TypeScript.md)|29699|359|
-|18|[TeX](https://github.com/suguru03/made-in-canada/blob/master/docs/TeX.md)|23441|83|
-|19|[Emacs Lisp](https://github.com/suguru03/made-in-canada/blob/master/docs/Emacs%20Lisp.md)|20379|60|
-|20|[Rust](https://github.com/suguru03/made-in-canada/blob/master/docs/Rust.md)|17253|181|
-|21|[Vim script](https://github.com/suguru03/made-in-canada/blob/master/docs/Vim%20script.md)|9912|111|
-|22|[R](https://github.com/suguru03/made-in-canada/blob/master/docs/R.md)|8939|245|
-|23|[CoffeeScript](https://github.com/suguru03/made-in-canada/blob/master/docs/CoffeeScript.md)|8440|167|
-|24|[Erlang](https://github.com/suguru03/made-in-canada/blob/master/docs/Erlang.md)|6330|128|
-|25|[Assembly](https://github.com/suguru03/made-in-canada/blob/master/docs/Assembly.md)|6205|33|
-|26|[Clojure](https://github.com/suguru03/made-in-canada/blob/master/docs/Clojure.md)|6098|151|
-|27|[Kotlin](https://github.com/suguru03/made-in-canada/blob/master/docs/Kotlin.md)|5916|66|
+|1|[JavaScript](https://github.com/suguru03/made-in-canada/blob/master/docs/JavaScript.md)|742792|5010|
+|2|[Python](https://github.com/suguru03/made-in-canada/blob/master/docs/Python.md)|204498|2277|
+|3|[Documents](https://github.com/suguru03/made-in-canada/blob/master/docs/Documents.md)|104907|1341|
+|4|[Ruby](https://github.com/suguru03/made-in-canada/blob/master/docs/Ruby.md)|98781|1450|
+|5|[PHP](https://github.com/suguru03/made-in-canada/blob/master/docs/PHP.md)|74796|1024|
+|6|[Java](https://github.com/suguru03/made-in-canada/blob/master/docs/Java.md)|74519|1008|
+|7|[Go](https://github.com/suguru03/made-in-canada/blob/master/docs/Go.md)|73921|813|
+|8|[Swift](https://github.com/suguru03/made-in-canada/blob/master/docs/Swift.md)|71042|318|
+|9|[Jupyter Notebook](https://github.com/suguru03/made-in-canada/blob/master/docs/Jupyter%20Notebook.md)|57022|256|
+|10|[Shell](https://github.com/suguru03/made-in-canada/blob/master/docs/Shell.md)|52940|646|
+|11|[HTML](https://github.com/suguru03/made-in-canada/blob/master/docs/HTML.md)|51606|673|
+|12|[C++](https://github.com/suguru03/made-in-canada/blob/master/docs/C++.md)|49095|754|
+|13|[C#](https://github.com/suguru03/made-in-canada/blob/master/docs/C#.md)|41643|603|
+|14|[CSS](https://github.com/suguru03/made-in-canada/blob/master/docs/CSS.md)|41305|608|
+|15|[Objective-C](https://github.com/suguru03/made-in-canada/blob/master/docs/Objective-C.md)|38519|355|
+|16|[C](https://github.com/suguru03/made-in-canada/blob/master/docs/C.md)|34301|700|
+|17|[TypeScript](https://github.com/suguru03/made-in-canada/blob/master/docs/TypeScript.md)|29847|360|
+|18|[TeX](https://github.com/suguru03/made-in-canada/blob/master/docs/TeX.md)|23475|84|
+|19|[Emacs Lisp](https://github.com/suguru03/made-in-canada/blob/master/docs/Emacs%20Lisp.md)|20441|60|
+|20|[Rust](https://github.com/suguru03/made-in-canada/blob/master/docs/Rust.md)|17318|182|
+|21|[Vim script](https://github.com/suguru03/made-in-canada/blob/master/docs/Vim%20script.md)|9924|111|
+|22|[R](https://github.com/suguru03/made-in-canada/blob/master/docs/R.md)|8977|246|
+|23|[CoffeeScript](https://github.com/suguru03/made-in-canada/blob/master/docs/CoffeeScript.md)|8442|167|
+|24|[Erlang](https://github.com/suguru03/made-in-canada/blob/master/docs/Erlang.md)|6333|128|
+|25|[Assembly](https://github.com/suguru03/made-in-canada/blob/master/docs/Assembly.md)|6247|34|
+|26|[Clojure](https://github.com/suguru03/made-in-canada/blob/master/docs/Clojure.md)|6111|151|
+|27|[Kotlin](https://github.com/suguru03/made-in-canada/blob/master/docs/Kotlin.md)|5945|67|
 |28|[Scala](https://github.com/suguru03/made-in-canada/blob/master/docs/Scala.md)|5848|181|
-|29|[Elixir](https://github.com/suguru03/made-in-canada/blob/master/docs/Elixir.md)|5001|120|
-|30|[Vue](https://github.com/suguru03/made-in-canada/blob/master/docs/Vue.md)|4258|56|
-|31|[LiveScript](https://github.com/suguru03/made-in-canada/blob/master/docs/LiveScript.md)|4108|9|
-|32|[D](https://github.com/suguru03/made-in-canada/blob/master/docs/D.md)|4076|25|
-|33|[Lua](https://github.com/suguru03/made-in-canada/blob/master/docs/Lua.md)|3553|91|
-|34|[Makefile](https://github.com/suguru03/made-in-canada/blob/master/docs/Makefile.md)|3128|59|
-|35|[PowerShell](https://github.com/suguru03/made-in-canada/blob/master/docs/PowerShell.md)|2901|55|
-|36|[Perl](https://github.com/suguru03/made-in-canada/blob/master/docs/Perl.md)|2616|174|
-|37|[Haskell](https://github.com/suguru03/made-in-canada/blob/master/docs/Haskell.md)|2033|101|
-|38|[ActionScript](https://github.com/suguru03/made-in-canada/blob/master/docs/ActionScript.md)|1781|23|
+|29|[Elixir](https://github.com/suguru03/made-in-canada/blob/master/docs/Elixir.md)|5014|121|
+|30|[Vue](https://github.com/suguru03/made-in-canada/blob/master/docs/Vue.md)|4283|56|
+|31|[LiveScript](https://github.com/suguru03/made-in-canada/blob/master/docs/LiveScript.md)|4113|9|
+|32|[D](https://github.com/suguru03/made-in-canada/blob/master/docs/D.md)|4089|25|
+|33|[Lua](https://github.com/suguru03/made-in-canada/blob/master/docs/Lua.md)|3561|91|
+|34|[Makefile](https://github.com/suguru03/made-in-canada/blob/master/docs/Makefile.md)|3129|59|
+|35|[PowerShell](https://github.com/suguru03/made-in-canada/blob/master/docs/PowerShell.md)|2917|55|
+|36|[Perl](https://github.com/suguru03/made-in-canada/blob/master/docs/Perl.md)|2623|174|
+|37|[Haskell](https://github.com/suguru03/made-in-canada/blob/master/docs/Haskell.md)|2036|101|
+|38|[ActionScript](https://github.com/suguru03/made-in-canada/blob/master/docs/ActionScript.md)|1782|23|
 |39|[VimL](https://github.com/suguru03/made-in-canada/blob/master/docs/VimL.md)|1229|81|
-|40|[Haxe](https://github.com/suguru03/made-in-canada/blob/master/docs/Haxe.md)|1207|71|
-|41|[Common Lisp](https://github.com/suguru03/made-in-canada/blob/master/docs/Common%20Lisp.md)|1027|60|
-|42|[Dockerfile](https://github.com/suguru03/made-in-canada/blob/master/docs/Dockerfile.md)|822|56|
-|43|[QML](https://github.com/suguru03/made-in-canada/blob/master/docs/QML.md)|701|20|
-|44|[Matlab](https://github.com/suguru03/made-in-canada/blob/master/docs/Matlab.md)|696|52|
-|45|[Julia](https://github.com/suguru03/made-in-canada/blob/master/docs/Julia.md)|541|30|
+|40|[Haxe](https://github.com/suguru03/made-in-canada/blob/master/docs/Haxe.md)|1210|71|
+|41|[Common Lisp](https://github.com/suguru03/made-in-canada/blob/master/docs/Common%20Lisp.md)|1028|60|
+|42|[Dockerfile](https://github.com/suguru03/made-in-canada/blob/master/docs/Dockerfile.md)|825|56|
+|43|[QML](https://github.com/suguru03/made-in-canada/blob/master/docs/QML.md)|703|20|
+|44|[Matlab](https://github.com/suguru03/made-in-canada/blob/master/docs/Matlab.md)|699|52|
+|45|[Julia](https://github.com/suguru03/made-in-canada/blob/master/docs/Julia.md)|542|30|
 |46|[Groovy](https://github.com/suguru03/made-in-canada/blob/master/docs/Groovy.md)|526|41|
 |47|[Logos](https://github.com/suguru03/made-in-canada/blob/master/docs/Logos.md)|507|33|
-|48|[CMake](https://github.com/suguru03/made-in-canada/blob/master/docs/CMake.md)|497|20|
-|49|[ApacheConf](https://github.com/suguru03/made-in-canada/blob/master/docs/ApacheConf.md)|489|3|
+|48|[CMake](https://github.com/suguru03/made-in-canada/blob/master/docs/CMake.md)|498|20|
+|49|[ApacheConf](https://github.com/suguru03/made-in-canada/blob/master/docs/ApacheConf.md)|490|3|
 |50|[Elm](https://github.com/suguru03/made-in-canada/blob/master/docs/Elm.md)|475|30|
-|51|[AppleScript](https://github.com/suguru03/made-in-canada/blob/master/docs/AppleScript.md)|469|15|
+|51|[AppleScript](https://github.com/suguru03/made-in-canada/blob/master/docs/AppleScript.md)|470|15|
 |52|[Visual Basic](https://github.com/suguru03/made-in-canada/blob/master/docs/Visual%20Basic.md)|453|35|
-|53|[F#](https://github.com/suguru03/made-in-canada/blob/master/docs/F#.md)|447|23|
-|54|[Dart](https://github.com/suguru03/made-in-canada/blob/master/docs/Dart.md)|446|22|
-|55|[HCL](https://github.com/suguru03/made-in-canada/blob/master/docs/HCL.md)|418|22|
+|53|[Dart](https://github.com/suguru03/made-in-canada/blob/master/docs/Dart.md)|449|22|
+|54|[F#](https://github.com/suguru03/made-in-canada/blob/master/docs/F#.md)|448|23|
+|55|[HCL](https://github.com/suguru03/made-in-canada/blob/master/docs/HCL.md)|420|22|
 |56|[GLSL](https://github.com/suguru03/made-in-canada/blob/master/docs/GLSL.md)|338|7|
-|57|[Tcl](https://github.com/suguru03/made-in-canada/blob/master/docs/Tcl.md)|302|6|
-|58|[Rich Text Format](https://github.com/suguru03/made-in-canada/blob/master/docs/Rich%20Text%20Format.md)|245|1|
-|59|[OCaml](https://github.com/suguru03/made-in-canada/blob/master/docs/OCaml.md)|227|24|
+|57|[Tcl](https://github.com/suguru03/made-in-canada/blob/master/docs/Tcl.md)|303|6|
+|58|[Rich Text Format](https://github.com/suguru03/made-in-canada/blob/master/docs/Rich%20Text%20Format.md)|249|1|
+|59|[OCaml](https://github.com/suguru03/made-in-canada/blob/master/docs/OCaml.md)|228|24|
 |60|[Batchfile](https://github.com/suguru03/made-in-canada/blob/master/docs/Batchfile.md)|210|13|
 |61|[Perl 6](https://github.com/suguru03/made-in-canada/blob/master/docs/Perl%206.md)|204|25|
 |62|[AutoHotkey](https://github.com/suguru03/made-in-canada/blob/master/docs/AutoHotkey.md)|199|12|
 |63|[Processing](https://github.com/suguru03/made-in-canada/blob/master/docs/Processing.md)|183|10|
 |64|[Arduino](https://github.com/suguru03/made-in-canada/blob/master/docs/Arduino.md)|175|17|
 |65|[Mathematica](https://github.com/suguru03/made-in-canada/blob/master/docs/Mathematica.md)|167|10|
-|66|[MATLAB](https://github.com/suguru03/made-in-canada/blob/master/docs/MATLAB.md)|158|10|
+|66|[MATLAB](https://github.com/suguru03/made-in-canada/blob/master/docs/MATLAB.md)|159|10|
 |67|[Objective-C++](https://github.com/suguru03/made-in-canada/blob/master/docs/Objective-C++.md)|148|11|
-|68|[Crystal](https://github.com/suguru03/made-in-canada/blob/master/docs/Crystal.md)|139|9|
+|68|[Crystal](https://github.com/suguru03/made-in-canada/blob/master/docs/Crystal.md)|140|9|
 |69|[Idris](https://github.com/suguru03/made-in-canada/blob/master/docs/Idris.md)|131|3|
-|70|[Gherkin](https://github.com/suguru03/made-in-canada/blob/master/docs/Gherkin.md)|109|8|
-|71|[Scheme](https://github.com/suguru03/made-in-canada/blob/master/docs/Scheme.md)|98|9|
+|70|[Gherkin](https://github.com/suguru03/made-in-canada/blob/master/docs/Gherkin.md)|111|8|
+|71|[Scheme](https://github.com/suguru03/made-in-canada/blob/master/docs/Scheme.md)|99|9|
 |72|[SQLPL](https://github.com/suguru03/made-in-canada/blob/master/docs/SQLPL.md)|85|6|
 |73|[Perl6](https://github.com/suguru03/made-in-canada/blob/master/docs/Perl6.md)|82|15|
-|74|[TSQL](https://github.com/suguru03/made-in-canada/blob/master/docs/TSQL.md)|81|5|
-|75|[Puppet](https://github.com/suguru03/made-in-canada/blob/master/docs/Puppet.md)|80|6|
-|76|[AGS Script](https://github.com/suguru03/made-in-canada/blob/master/docs/AGS%20Script.md)|78|2|
+|74|[Puppet](https://github.com/suguru03/made-in-canada/blob/master/docs/Puppet.md)|80|6|
+|74|[TSQL](https://github.com/suguru03/made-in-canada/blob/master/docs/TSQL.md)|80|5|
+|76|[AGS Script](https://github.com/suguru03/made-in-canada/blob/master/docs/AGS%20Script.md)|79|2|
 |77|[PLSQL](https://github.com/suguru03/made-in-canada/blob/master/docs/PLSQL.md)|77|7|
 |77|[ShaderLab](https://github.com/suguru03/made-in-canada/blob/master/docs/ShaderLab.md)|77|3|
-|79|[Inno Setup](https://github.com/suguru03/made-in-canada/blob/master/docs/Inno%20Setup.md)|75|1|
-|80|[Nix](https://github.com/suguru03/made-in-canada/blob/master/docs/Nix.md)|72|8|
-|81|[Cuda](https://github.com/suguru03/made-in-canada/blob/master/docs/Cuda.md)|68|6|
-|82|[Hack](https://github.com/suguru03/made-in-canada/blob/master/docs/Hack.md)|66|1|
-|82|[WebAssembly](https://github.com/suguru03/made-in-canada/blob/master/docs/WebAssembly.md)|66|7|
+|79|[Inno Setup](https://github.com/suguru03/made-in-canada/blob/master/docs/Inno%20Setup.md)|76|1|
+|80|[Cuda](https://github.com/suguru03/made-in-canada/blob/master/docs/Cuda.md)|73|6|
+|81|[Nix](https://github.com/suguru03/made-in-canada/blob/master/docs/Nix.md)|72|8|
+|82|[WebAssembly](https://github.com/suguru03/made-in-canada/blob/master/docs/WebAssembly.md)|67|7|
+|83|[Hack](https://github.com/suguru03/made-in-canada/blob/master/docs/Hack.md)|66|1|
 |84|[Racket](https://github.com/suguru03/made-in-canada/blob/master/docs/Racket.md)|64|3|
 |85|[Verilog](https://github.com/suguru03/made-in-canada/blob/master/docs/Verilog.md)|60|5|
 |85|[XML](https://github.com/suguru03/made-in-canada/blob/master/docs/XML.md)|60|2|
@@ -125,7 +125,7 @@
 |101|[Fortran](https://github.com/suguru03/made-in-canada/blob/master/docs/Fortran.md)|31|6|
 |101|[Max](https://github.com/suguru03/made-in-canada/blob/master/docs/Max.md)|31|1|
 |103|[NSIS](https://github.com/suguru03/made-in-canada/blob/master/docs/NSIS.md)|28|3|
-|104|[nesC](https://github.com/suguru03/made-in-canada/blob/master/docs/nesC.md)|27|3|
+|103|[nesC](https://github.com/suguru03/made-in-canada/blob/master/docs/nesC.md)|28|3|
 |105|[q](https://github.com/suguru03/made-in-canada/blob/master/docs/q.md)|25|1|
 |106|[Awk](https://github.com/suguru03/made-in-canada/blob/master/docs/Awk.md)|23|3|
 |107|[xBase](https://github.com/suguru03/made-in-canada/blob/master/docs/xBase.md)|22|3|
@@ -146,9 +146,9 @@
 |121|[Cucumber](https://github.com/suguru03/made-in-canada/blob/master/docs/Cucumber.md)|11|2|
 |121|[FreeMarker](https://github.com/suguru03/made-in-canada/blob/master/docs/FreeMarker.md)|11|1|
 |121|[SAS](https://github.com/suguru03/made-in-canada/blob/master/docs/SAS.md)|11|1|
-|125|[Nu](https://github.com/suguru03/made-in-canada/blob/master/docs/Nu.md)|10|1|
-|125|[SQF](https://github.com/suguru03/made-in-canada/blob/master/docs/SQF.md)|10|1|
-|125|[VHDL](https://github.com/suguru03/made-in-canada/blob/master/docs/VHDL.md)|10|2|
+|121|[VHDL](https://github.com/suguru03/made-in-canada/blob/master/docs/VHDL.md)|11|2|
+|126|[Nu](https://github.com/suguru03/made-in-canada/blob/master/docs/Nu.md)|10|1|
+|126|[SQF](https://github.com/suguru03/made-in-canada/blob/master/docs/SQF.md)|10|1|
 |128|[FORTRAN](https://github.com/suguru03/made-in-canada/blob/master/docs/FORTRAN.md)|8|2|
 |128|[LLVM](https://github.com/suguru03/made-in-canada/blob/master/docs/LLVM.md)|8|1|
 |128|[Liquid](https://github.com/suguru03/made-in-canada/blob/master/docs/Liquid.md)|8|1|
