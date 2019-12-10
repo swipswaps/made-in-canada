@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|516|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base! see the website for details - https://luxeengine.com/|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
+|517|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base! see the website for details - https://luxeengine.com/|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
 |41|[@Ohmnivore](https://github.com/Ohmnivore)/[**SkullRush**](https://github.com/Ohmnivore/SkullRush)|:skull: A 2D online multiplayer shooter written in Haxe|[:arrow_upper_right:](http://ohmnivore.github.io)|
 |41|[@hamaluik](https://github.com/hamaluik)/[**haxe-glm**](https://github.com/hamaluik/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |37|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-glm**](https://github.com/FuzzyWuzzie/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |30|[@ashes999](https://github.com/ashes999)/[**butterfly**](https://github.com/ashes999/butterfly)|Haxe generator for simple, static blogs.||
-|21|[@hamaluik](https://github.com/hamaluik)/[**headbutt**](https://github.com/hamaluik/headbutt)|A GJK and EPA collision engine made with pure Haxe.||
+|22|[@hamaluik](https://github.com/hamaluik)/[**headbutt**](https://github.com/hamaluik/headbutt)|A GJK and EPA collision engine made with pure Haxe.||
 |20|[@fserb](https://github.com/fserb)/[**sketch**](https://github.com/fserb/sketch)|game sketches|[:arrow_upper_right:](http://fserb.com/vault)|
 |19|[@underscorediscovery](https://github.com/underscorediscovery)/[**structural**](https://github.com/underscorediscovery/structural)|An unencumbered haxe data structures library||
 |16|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxeParticleDesigner**](https://github.com/FuzzyWuzzie/LuxeParticleDesigner)|A tool for quickly designing / tweaking particle systems in Luxe.||
@@ -33,6 +33,7 @@
 |9|[@Ohmnivore](https://github.com/Ohmnivore)/[**HxCLAP**](https://github.com/Ohmnivore/HxCLAP)|Haxe port of CLAP, a command line argument parser||
 |9|[@hamaluik](https://github.com/hamaluik)/[**LuxeLights**](https://github.com/hamaluik/LuxeLights)|A simple demo showing how to use render textures and shaders to create a _very basic_ 2D lighting effect (no shadows, no light "clipping").||
 |8|[@Ohmnivore](https://github.com/Ohmnivore)/[**ChopEngine**](https://github.com/Ohmnivore/ChopEngine)|A Haxe cross-platform 3D game engine built on top of Snow||
+|8|[@chfoo](https://github.com/chfoo)/[**callfunc**](https://github.com/chfoo/callfunc)|Foreign function interface Haxe library using libffi||
 |8|[@starburst997](https://github.com/starburst997)/[**haxe-zip**](https://github.com/starburst997/haxe-zip)|Library to provide a cross-platform streaming Zip Writer / Reader experience.||
 |8|[@underscorediscovery](https://github.com/underscorediscovery)/[**arguable**](https://github.com/underscorediscovery/arguable)|A simple `--argument value` parsing library for Haxe.||
 |8|[@underscorediscovery](https://github.com/underscorediscovery)/[**hxtypedarray**](https://github.com/underscorediscovery/hxtypedarray)|TypedArray implementation for haxe ||
@@ -48,7 +49,6 @@
 |5|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**FeatherRock**](https://github.com/FuzzyWuzzie/FeatherRock)|My LD32 entry!||
 |5|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**baldrick**](https://github.com/FuzzyWuzzie/baldrick)|Entity-component-system (ECS) framework, based heavily on edge||
 |5|[@Ohmnivore](https://github.com/Ohmnivore)/[**FireCHIP-8**](https://github.com/Ohmnivore/FireCHIP-8)|:tv: Cross-platform CHIP-8 emulator||
-|5|[@chfoo](https://github.com/chfoo)/[**callfunc**](https://github.com/chfoo/callfunc)|Foreign function interface Haxe library using libffi||
 |5|[@chfoo](https://github.com/chfoo)/[**tppinputassist**](https://github.com/chfoo/tppinputassist)|Touchscreen coordinate tap overlay for inputting into Twitch chat||
 |5|[@hamaluik](https://github.com/hamaluik)/[**FeatherRock**](https://github.com/hamaluik/FeatherRock)|My LD32 entry!||
 |5|[@underscorediscovery](https://github.com/underscorediscovery)/[**snowfall**](https://github.com/underscorediscovery/snowfall)|A simple script to install and update luxe + snow more conveniently ||

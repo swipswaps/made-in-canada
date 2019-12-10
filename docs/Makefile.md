@@ -11,11 +11,11 @@
 |27|[@jasonish](https://github.com/jasonish)/[**docker-snort**](https://github.com/jasonish/docker-snort)|[ARCHIVED] A ready to run Snort and PulledPork docker image.||
 |22|[@sjackman](https://github.com/sjackman)/[**docker-bio**](https://github.com/sjackman/docker-bio)|Docker images of bioinformatics software||
 |18|[@sjackman](https://github.com/sjackman)/[**makefile-example**](https://github.com/sjackman/makefile-example)|An example of a data analysis pipeline using Make|[:arrow_upper_right:](http://sjackman.ca/makefile-example/)|
-|15|[@atlas-jj](https://github.com/atlas-jj)/[**ORB-SLAM-free-space-carving**](https://github.com/atlas-jj/ORB-SLAM-free-space-carving)|Implementation and annotation of Free Space Carving algorithm (CARV) using ORB-SLAM map points and camera poses.||
+|17|[@atlas-jj](https://github.com/atlas-jj)/[**ORB-SLAM-free-space-carving**](https://github.com/atlas-jj/ORB-SLAM-free-space-carving)|Implementation and annotation of Free Space Carving algorithm (CARV) using ORB-SLAM map points and camera poses.||
 |15|[@sjackman](https://github.com/sjackman)/[**docker-linuxbrew**](https://github.com/sjackman/docker-linuxbrew)|:skull: Defunct. Use https://github.com/Linuxbrew/docker||
 |15|[@sjourdan](https://github.com/sjourdan)/[**strace-docker**](https://github.com/sjourdan/strace-docker)|strace in docker||
+|14|[@exAspArk](https://github.com/exAspArk)/[**docker-alpine-ruby**](https://github.com/exAspArk/docker-alpine-ruby)|The smallest Docker image with Ruby||
 |14|[@sjourdan](https://github.com/sjourdan)/[**ffmpeg-docker**](https://github.com/sjourdan/ffmpeg-docker)|FFmpeg on Alpine Docker Image||
-|13|[@exAspArk](https://github.com/exAspArk)/[**docker-alpine-ruby**](https://github.com/exAspArk/docker-alpine-ruby)|The smallest Docker image with Ruby||
 |13|[@sjackman](https://github.com/sjackman)/[**assembly-graph**](https://github.com/sjackman/assembly-graph)|Compare assembly graph file formats||
 |11|[@derekstavis](https://github.com/derekstavis)/[**switch-runlinux**](https://github.com/derekstavis/switch-runlinux)|Makefile for loading Linux into Nintendo Switch||
 |11|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_osprey**](https://github.com/sultanqasim/android_device_motorola_osprey)|Device tree for 2015 Moto G (osprey)||
@@ -38,6 +38,7 @@
 |6|[@sultanqasim](https://github.com/sultanqasim)/[**android_device_motorola_harpia**](https://github.com/sultanqasim/android_device_motorola_harpia)|TWRP device tree for Moto G Play||
 |5|[@northox](https://github.com/northox)/[**rump-npfer**](https://github.com/northox/rump-npfer)|A Rumprun firewall unikernel for Qubes OS (c)||
 |4|[@aminb](https://github.com/aminb)/[**dotfiles**](https://github.com/aminb/dotfiles)|[OUTDATED] repository now located at https://git.sr.ht/~bandali/dotfiles||
+|4|[@atgreen](https://github.com/atgreen)/[**howto-change-container-yum-source**](https://github.com/atgreen/howto-change-container-yum-source)|Example of how to set up yum in a container to source content from a Satellite CV other than the container hosts'||
 |4|[@karnauskas](https://github.com/karnauskas)/[**openwrt-mdns-repeater**](https://github.com/karnauskas/openwrt-mdns-repeater)|mdns-repeater build for OpenWrt||
 |4|[@mabgnu](https://github.com/mabgnu)/[**dotfiles**](https://github.com/mabgnu/dotfiles)|[OUTDATED] repository now located at https://git.sr.ht/~bandali/dotfiles||
 |4|[@sjackman](https://github.com/sjackman)/[**picea-glauca-mitochondrion**](https://github.com/sjackman/picea-glauca-mitochondrion)|Mitochondrial genome of white spruce (Picea glauca)|[:arrow_upper_right:](http://www.ncbi.nlm.nih.gov/nuccore/LKAM00000000)|

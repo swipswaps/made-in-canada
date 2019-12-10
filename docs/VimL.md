@@ -20,13 +20,13 @@
 |14|[@gmarik](https://github.com/gmarik)/[**sudo-gui.vim**](https://github.com/gmarik/sudo-gui.vim)|sudo GUI for a GUI vim|[:arrow_upper_right:](https://github.com/gmarik/sudo-gui.vim)|
 |14|[@tommcdo](https://github.com/tommcdo)/[**vim-lister**](https://github.com/tommcdo/vim-lister)|A collection of commands for manipulating Vim's lists||
 |12|[@travisjeffery](https://github.com/travisjeffery)/[**snipmate-snippets**](https://github.com/travisjeffery/snipmate-snippets)|my snippets that I use with snipmate||
+|12|[@ujihisa](https://github.com/ujihisa)/[**nclipper.vim**](https://github.com/ujihisa/nclipper.vim)|copy lines into clipboard with the line numbers||
 |12|[@ujihisa](https://github.com/ujihisa)/[**unite-font**](https://github.com/ujihisa/unite-font)|A unite plugin||
 |11|[@gf3](https://github.com/gf3)/[**peg.vim**](https://github.com/gf3/peg.vim)|PEG Syntax for Vim||
 |11|[@mgrouchy](https://github.com/mgrouchy)/[**oldvim**](https://github.com/mgrouchy/oldvim)|my old vimfiles|[:arrow_upper_right:](http://mikegrouchy.com)|
 |11|[@ujihisa](https://github.com/ujihisa)/[**quicklearn**](https://github.com/ujihisa/quicklearn)|A quickrun plugin to show intermediate codes||
 |10|[@idbrii](https://github.com/idbrii)/[**vim-hiinterestingword**](https://github.com/idbrii/vim-hiinterestingword)|[Deprecated in favour of https://github.com/idbrii/vim-mark]||
 |10|[@mricon](https://github.com/mricon)/[**puppet-eyes**](https://github.com/mricon/puppet-eyes)|Vim plugin to alert when a file being edited is managed by puppet||
-|10|[@ujihisa](https://github.com/ujihisa)/[**nclipper.vim**](https://github.com/ujihisa/nclipper.vim)|copy lines into clipboard with the line numbers||
 |9|[@thayerwilliams](https://github.com/thayerwilliams)/[**msi-dotfiles**](https://github.com/thayerwilliams/msi-dotfiles)|Archlinux dotfiles for my MSI Wind U120 netbook|[:arrow_upper_right:](http://cinderwick.ca)|
 |8|[@rafaelrosafu](https://github.com/rafaelrosafu)/[**vimfiles**](https://github.com/rafaelrosafu/vimfiles)|My vimfiles (noobie warning)||
 |8|[@ujihisa](https://github.com/ujihisa)/[**tabpagecolorscheme**](https://github.com/ujihisa/tabpagecolorscheme)|Vim colorscheme on each tabs||

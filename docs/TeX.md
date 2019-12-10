@@ -1,16 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|20104|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
+|20168|[@terryum](https://github.com/terryum)/[**awesome-deep-learning-papers**](https://github.com/terryum/awesome-deep-learning-papers)|The most cited deep learning papers||
 |809|[@patmorin](https://github.com/patmorin)/[**ods**](https://github.com/patmorin/ods)|Mission: To provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations.|[:arrow_upper_right:](http://opendatastructures.org/)|
-|328|[@jennybc](https://github.com/jennybc)/[**happy-git-with-r**](https://github.com/jennybc/happy-git-with-r)|Using Git and GitHub with R, Rstudio, and R Markdown|[:arrow_upper_right:](https://happygitwithr.com)|
+|332|[@jennybc](https://github.com/jennybc)/[**happy-git-with-r**](https://github.com/jennybc/happy-git-with-r)|Using Git and GitHub with R, Rstudio, and R Markdown|[:arrow_upper_right:](https://happygitwithr.com)|
 |295|[@IshmaelBelghazi](https://github.com/IshmaelBelghazi)/[**ALI**](https://github.com/IshmaelBelghazi/ALI)|Adversarially Learned Inference||
 |291|[@yinyanghu](https://github.com/yinyanghu)/[**CLRS-Solutions**](https://github.com/yinyanghu/CLRS-Solutions)|Solutions to "Introduction to Algorithm, 3rd Edition"||
-|252|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
-|235|[@bob-carpenter](https://github.com/bob-carpenter)/[**prob-stats**](https://github.com/bob-carpenter/prob-stats)|Probability and Statistics: a simulation-based introduction.  An open-access book.||
-|204|[@hamaluik](https://github.com/hamaluik)/[**Beamer-Theme-Execushares**](https://github.com/hamaluik/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
+|254|[@Pomax](https://github.com/Pomax)/[**nrGrammar**](https://github.com/Pomax/nrGrammar)|The Nihongo Resources grammar book: "An Introduction to Japanese; Syntax, Grammar & Language"||
+|236|[@bob-carpenter](https://github.com/bob-carpenter)/[**prob-stats**](https://github.com/bob-carpenter/prob-stats)|Probability and Statistics: a simulation-based introduction.  An open-access book.||
+|206|[@hamaluik](https://github.com/hamaluik)/[**Beamer-Theme-Execushares**](https://github.com/hamaluik/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
 |154|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**Beamer-Theme-Execushares**](https://github.com/FuzzyWuzzie/Beamer-Theme-Execushares)|A minimalist and modern Beamer theme||
 |108|[@Akollek](https://github.com/Akollek)/[**LaTeX-Alpha**](https://github.com/Akollek/LaTeX-Alpha)|Package to use Wolfram Language in your LaTeX documents||
-|61|[@patmorin](https://github.com/patmorin)/[**arraylayout**](https://github.com/patmorin/arraylayout)|Experiments with array layouts for comparison-based searching|[:arrow_upper_right:](http://cglab.ca/~morin/misc/arraylayout-v2/)|
+|63|[@patmorin](https://github.com/patmorin)/[**arraylayout**](https://github.com/patmorin/arraylayout)|Experiments with array layouts for comparison-based searching|[:arrow_upper_right:](http://cglab.ca/~morin/misc/arraylayout-v2/)|
 |51|[@iandennismiller](https://github.com/iandennismiller)/[**mueller-report**](https://github.com/iandennismiller/mueller-report)|Open Source Mueller Report is an enhanced edition of the Mueller Report.|[:arrow_upper_right:](http://opensourcemuellerreport.com)|
 |44|[@christhomson](https://github.com/christhomson)/[**lecture-notes**](https://github.com/christhomson/lecture-notes)|LaTeX notes for a few courses I've taken at the University of Waterloo.|[:arrow_upper_right:](http://cthomson.ca/notes)|
 |31|[@jihoonog](https://github.com/jihoonog)/[**School-Notes-Public**](https://github.com/jihoonog/School-Notes-Public)|This is the public repository of all my school notes from the University of Alberta (and some from the University of Lethbridge)||
@@ -18,7 +18,7 @@
 |24|[@peeterjoot](https://github.com/peeterjoot)/[**physicsplay**](https://github.com/peeterjoot/physicsplay)|Latex source for geometric algebra and physics notes.|[:arrow_upper_right:](http://peeterjoot.com/)|
 |22|[@AllanWang](https://github.com/AllanWang)/[**McGill-Public**](https://github.com/AllanWang/McGill-Public)|Part of McGill U3/U4 that can be made public|[:arrow_upper_right:](https://allanwang.github.io/McGill-Public/)|
 |19|[@mcantelon](https://github.com/mcantelon)/[**fashion-quest**](https://github.com/mcantelon/fashion-quest)|Shoes-dependent, YAML-driven interactive fiction framework for fashion adventures|[:arrow_upper_right:](http://mcantelon.github.io/fashion-quest/)|
-|15|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan**](https://github.com/gavinsimpson/esa-advanced-vegan)|Advanced Vegan Workshop for ESA||
+|16|[@gavinsimpson](https://github.com/gavinsimpson)/[**esa-advanced-vegan**](https://github.com/gavinsimpson/esa-advanced-vegan)|Advanced Vegan Workshop for ESA||
 |15|[@tpoisot](https://github.com/tpoisot)/[**ecobiblatex**](https://github.com/tpoisot/ecobiblatex)|Biblatex styles for ecology journals||
 |14|[@bmcfee](https://github.com/bmcfee)/[**laplacian_segmentation**](https://github.com/bmcfee/laplacian_segmentation)|graph laplacian song segmentation||
 |14|[@gavinsimpson](https://github.com/gavinsimpson)/[**frontiers-palaeo-additive-modelling**](https://github.com/gavinsimpson/frontiers-palaeo-additive-modelling)|Modelling and feature detection in palaeoenvironmental time series using additive models||

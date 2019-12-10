@@ -1,19 +1,19 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3240|[@pangloss](https://github.com/pangloss)/[**vim-javascript**](https://github.com/pangloss/vim-javascript)|Vastly improved Javascript indentation and syntax support in Vim.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4452)|
-|943|[@jpalardy](https://github.com/jpalardy)/[**vim-slime**](https://github.com/jpalardy/vim-slime)|A vim plugin to give you some slime. (Emacs)|[:arrow_upper_right:](http://technotales.wordpress.com/2007/10/03/like-slime-for-vim/)|
+|3247|[@pangloss](https://github.com/pangloss)/[**vim-javascript**](https://github.com/pangloss/vim-javascript)|Vastly improved Javascript indentation and syntax support in Vim.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4452)|
+|946|[@jpalardy](https://github.com/jpalardy)/[**vim-slime**](https://github.com/jpalardy/vim-slime)|A vim plugin to give you some slime. (Emacs)|[:arrow_upper_right:](http://technotales.wordpress.com/2007/10/03/like-slime-for-vim/)|
 |853|[@gf3](https://github.com/gf3)/[**dotfiles**](https://github.com/gf3/dotfiles)|config for neovim, tmux, molotov colourscheme, and more||
 |709|[@myusuf3](https://github.com/myusuf3)/[**numbers.vim**](https://github.com/myusuf3/numbers.vim)|numbers.vim is a vim plugin for better line numbers|[:arrow_upper_right:](http://myusuf3.github.com/numbers.vim/)|
-|544|[@svermeulen](https://github.com/svermeulen)/[**vim-easyclip**](https://github.com/svermeulen/vim-easyclip)|Simplified clipboard functionality for Vim||
+|545|[@svermeulen](https://github.com/svermeulen)/[**vim-easyclip**](https://github.com/svermeulen/vim-easyclip)|Simplified clipboard functionality for Vim||
 |456|[@tommcdo](https://github.com/tommcdo)/[**vim-exchange**](https://github.com/tommcdo/vim-exchange)|Easy text exchange operator for Vim||
-|373|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
-|357|[@amacgregor](https://github.com/amacgregor)/[**dot-files**](https://github.com/amacgregor/dot-files)|Dotfiles repository||
-|222|[@juliosueiras](https://github.com/juliosueiras)/[**vim-terraform-completion**](https://github.com/juliosueiras/vim-terraform-completion)|A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool||
+|374|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
+|359|[@amacgregor](https://github.com/amacgregor)/[**dot-files**](https://github.com/amacgregor/dot-files)|Dotfiles repository||
+|226|[@juliosueiras](https://github.com/juliosueiras)/[**vim-terraform-completion**](https://github.com/juliosueiras/vim-terraform-completion)|A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool||
 |218|[@dgryski](https://github.com/dgryski)/[**vim-godef**](https://github.com/dgryski/vim-godef)|vim plugin providing godef support||
 |137|[@myusuf3](https://github.com/myusuf3)/[**dotfiles**](https://github.com/myusuf3/dotfiles)|myusuf3's dotfiles||
-|115|[@svermeulen](https://github.com/svermeulen)/[**vim-yoink**](https://github.com/svermeulen/vim-yoink)|Vim plugin that maintains a yank history to cycle between when pasting||
-|104|[@martinda](https://github.com/martinda)/[**Jenkinsfile-vim-syntax**](https://github.com/martinda/Jenkinsfile-vim-syntax)|Jenkinsfile DSL vim syntax||
-|98|[@svermeulen](https://github.com/svermeulen)/[**vim-subversive**](https://github.com/svermeulen/vim-subversive)|Vim plugin providing operator motions to quickly replace text||
+|119|[@svermeulen](https://github.com/svermeulen)/[**vim-yoink**](https://github.com/svermeulen/vim-yoink)|Vim plugin that maintains a yank history to cycle between when pasting||
+|105|[@martinda](https://github.com/martinda)/[**Jenkinsfile-vim-syntax**](https://github.com/martinda/Jenkinsfile-vim-syntax)|Jenkinsfile DSL vim syntax||
+|99|[@svermeulen](https://github.com/svermeulen)/[**vim-subversive**](https://github.com/svermeulen/vim-subversive)|Vim plugin providing operator motions to quickly replace text||
 |91|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|:rocket: Quickly init a slightly better Vim.||
 |89|[@lfilho](https://github.com/lfilho)/[**cosco.vim**](https://github.com/lfilho/cosco.vim)|VIM colon and semicolon insertion bliss||
 |77|[@jpalardy](https://github.com/jpalardy)/[**dotfiles**](https://github.com/jpalardy/dotfiles)|My collection of config files (bash, vim, …)||
@@ -48,9 +48,9 @@
 |13|[@ujihisa](https://github.com/ujihisa)/[**unite-haskellimport**](https://github.com/ujihisa/unite-haskellimport)|:Unite haskellimport||
 |11|[@alexanderdickson](https://github.com/alexanderdickson)/[**dotfiles**](https://github.com/alexanderdickson/dotfiles)|Dotfiles for me! Dotfiles for you?||
 |11|[@idbrii](https://github.com/idbrii)/[**vim-endoscope**](https://github.com/idbrii/vim-endoscope)|A single keystroke to end your scope. Like autoclose plugins, but less automatic.||
+|11|[@lucasprag](https://github.com/lucasprag)/[**simpleblack**](https://github.com/lucasprag/simpleblack)|A black colorscheme for vim, real black background, #000000||
 |11|[@tommcdo](https://github.com/tommcdo)/[**vimfiles**](https://github.com/tommcdo/vimfiles)|A copy of my ~/.vim directory||
 |11|[@tylerball](https://github.com/tylerball)/[**dotfiles**](https://github.com/tylerball/dotfiles)|files with dots.||
-|10|[@lucasprag](https://github.com/lucasprag)/[**simpleblack**](https://github.com/lucasprag/simpleblack)|A black colorscheme for vim, real black background, #000000||
 |10|[@pitr](https://github.com/pitr)/[**config_files**](https://github.com/pitr/config_files)|My config files (aka dotfiles)||
 |10|[@vinibaggio](https://github.com/vinibaggio)/[**vinibaggio-dotfiles**](https://github.com/vinibaggio/vinibaggio-dotfiles)|This is my vim configuration, a big mix from a lot of what I've seen on the net.|[:arrow_upper_right:](http://www.vinibaggio.net)|
 |10|[@vinibaggio](https://github.com/vinibaggio)/[**vinibaggio-vimfiles**](https://github.com/vinibaggio/vinibaggio-vimfiles)|This is my vim configuration, a big mix from a lot of what I've seen on the net.|[:arrow_upper_right:](http://www.vinibaggio.net)|

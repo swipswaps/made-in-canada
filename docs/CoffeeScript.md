@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1479|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
+|1478|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
 |1424|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )|[:arrow_upper_right:](http://unibeautify.com/)|
 |427|[@keithamus](https://github.com/keithamus)/[**parallelshell**](https://github.com/keithamus/parallelshell)|Run multiple shell commands in parallel||
 |391|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls||
@@ -9,7 +9,7 @@
 |204|[@fw42](https://github.com/fw42)/[**honeymap**](https://github.com/fw42/honeymap)|Real-time websocket stream of GPS events on a fancy SVG world map|[:arrow_upper_right:](http://map.honeynet.org/)|
 |201|[@benbria](https://github.com/benbria)/[**aliasify**](https://github.com/benbria/aliasify)|Rewrite require calls in browserify modules.||
 |194|[@adamhooper](https://github.com/adamhooper)/[**js-priority-queue**](https://github.com/adamhooper/js-priority-queue)|Priority queues in JavaScript||
-|187|[@raganwald](https://github.com/raganwald)/[**YouAreDaChef**](https://github.com/raganwald/YouAreDaChef)|Coffeescript/Javascript method combinations for Underscore projects||
+|186|[@raganwald](https://github.com/raganwald)/[**YouAreDaChef**](https://github.com/raganwald/YouAreDaChef)|Coffeescript/Javascript method combinations for Underscore projects||
 |185|[@zaidka](https://github.com/zaidka)/[**genieacs**](https://github.com/zaidka/genieacs)|A fast and lightweight TR-069 Auto Configuration Server (ACS)|[:arrow_upper_right:](https://genieacs.com)|
 |178|[@raganwald](https://github.com/raganwald)/[**Katy**](https://github.com/raganwald/Katy)|CoffeeScript and JavaScript Combinators||
 |156|[@pcrawfor](https://github.com/pcrawfor)/[**iap_verifier**](https://github.com/pcrawfor/iap_verifier)|Node.js implementation of iOS In App Purchase receipt verification||
@@ -39,9 +39,9 @@
 |36|[@kmalakoff](https://github.com/kmalakoff)/[**json-serialize**](https://github.com/kmalakoff/json-serialize)|JSON-Serialize.js provides conventions and helpers to manage serialization and deserialization of instances to/from JSON||
 |32|[@srsgores](https://github.com/srsgores)/[**generator-joomla-component**](https://github.com/srsgores/generator-joomla-component)|yeoman generator for joomla components||
 |31|[@raganwald](https://github.com/raganwald)/[**cafeaulife**](https://github.com/raganwald/cafeaulife)|Gosper’s HashLife in CoffeeScript|[:arrow_upper_right:](http://recursiveuniver.se)|
-|28|[@kieran](https://github.com/kieran)/[**votewell**](https://github.com/kieran/votewell)|strategic voting calculator|[:arrow_upper_right:](https://votewell.ca)|
+|27|[@adam-p](https://github.com/adam-p)/[**text-file-follower**](https://github.com/adam-p/text-file-follower)|A Node.js module for getting each new last line of a text file as it appears. Think `tail -f`.||
+|27|[@kieran](https://github.com/kieran)/[**votewell**](https://github.com/kieran/votewell)|strategic voting calculator|[:arrow_upper_right:](https://votewell.ca)|
 |26|[@Electroid](https://github.com/Electroid)/[**mojang-api**](https://github.com/Electroid/mojang-api)|Bundle multiple Minecraft APIs into a single GET request.|[:arrow_upper_right:](https://api.ashcon.app/mojang/v2/user/Notch)|
-|26|[@adam-p](https://github.com/adam-p)/[**text-file-follower**](https://github.com/adam-p/text-file-follower)|A Node.js module for getting each new last line of a text file as it appears. Think `tail -f`.||
 |26|[@benbria](https://github.com/benbria)/[**dashing-client**](https://github.com/benbria/dashing-client)|Client for sending data to Dashing from node.js||
 |25|[@Glavin001](https://github.com/Glavin001)/[**atom-gitter**](https://github.com/Glavin001/atom-gitter)|(UNMAINTAINED) :calling: Gitter chat integration with Atom.io|[:arrow_upper_right:](https://atom.io/packages/gitter)|
 |25|[@benbria](https://github.com/benbria)/[**node-bunyan-lumberjack**](https://github.com/benbria/node-bunyan-lumberjack)|Send bunyan logs to logstash using the lumberjack protocol.||
@@ -66,10 +66,10 @@
 |13|[@radekstepan](https://github.com/radekstepan)/[**intermine-lists-client**](https://github.com/radekstepan/intermine-lists-client)|A client side app maintaining InterMine Lists offering folder/tag organization and live searches.||
 |13|[@seblavoie](https://github.com/seblavoie)/[**adobe-illustrator-layer-renamer**](https://github.com/seblavoie/adobe-illustrator-layer-renamer)|Adobe Illustrator script to batch rename layers.||
 |12|[@benbria](https://github.com/benbria)/[**node-lumberjack-protocol**](https://github.com/benbria/node-lumberjack-protocol)|Node.js implementation of the lumberjack protocol.||
-|12|[@benjie](https://github.com/benjie)/[**backbone-redis-store**](https://github.com/benjie/backbone-redis-store)|NodeJS Backbone mode to enable Redis as data persistence layer||
 |12|[@dashed](https://github.com/dashed)/[**gojs**](https://github.com/dashed/gojs)|A rules engine for a board game called Go|[:arrow_upper_right:](https://dashed.github.io/gojs)|
 |12|[@jvaill](https://github.com/jvaill)/[**coffee-boy**](https://github.com/jvaill/coffee-boy)|A Game Boy emulator for the browser written in CoffeeScript. 🎮||
 |11|[@AnthonyCalandra](https://github.com/AnthonyCalandra)/[**todo-list**](https://github.com/AnthonyCalandra/todo-list)|(THIS PACKAGE IS NO LONGER MAINTAINED.) A package for the Atom editor which keeps track of TODO, FIXME, etc. messages in code.||
+|11|[@benjie](https://github.com/benjie)/[**backbone-redis-store**](https://github.com/benjie/backbone-redis-store)|NodeJS Backbone mode to enable Redis as data persistence layer||
 |11|[@benjie](https://github.com/benjie)/[**hsbc-scrape**](https://github.com/benjie/hsbc-scrape)|Command-line driven scraper to pull down your banking history from HSBC (UK)'s internet banking portal.||
 |11|[@davemo](https://github.com/davemo)/[**react-battleplanner**](https://github.com/davemo/react-battleplanner)|react + tbs-battle-planner||
 |11|[@jescalan](https://github.com/jescalan)/[**machete**](https://github.com/jescalan/machete)|fast, beautiful slideshows in markdown|[:arrow_upper_right:](http://jenius.github.io/machete)|
@@ -109,6 +109,7 @@
 |6|[@remiprev](https://github.com/remiprev)/[**venyr**](https://github.com/remiprev/venyr)|Broadcast your current Rdio playback via WebSockets and let others listen to it.|[:arrow_upper_right:](https://github.com/remiprev/venyr)|
 |6|[@rileyjshaw](https://github.com/rileyjshaw)/[**2p-snake**](https://github.com/rileyjshaw/2p-snake)|:snake: Snake for 2 players on the same keyboard! Saucy.||
 |5|[@Glavin001](https://github.com/Glavin001)/[**atom-coffeescript-preview**](https://github.com/Glavin001/atom-coffeescript-preview)|DEPRECATED: Preview what your CoffeeScript will look like as JavaScript|[:arrow_upper_right:](https://atom.io/packages/coffeescript-preview)|
+|5|[@bcgov](https://github.com/bcgov)/[**pipeline-bot**](https://github.com/bcgov/pipeline-bot)|A Hubot CI/CD Pipeline Bot for Openshift Deployment||
 |5|[@ddaws](https://github.com/ddaws)/[**atom-makro**](https://github.com/ddaws/atom-makro)|Quickly access and execute you Makefile targets.||
 |5|[@dougmoscrop](https://github.com/dougmoscrop)/[**angularjs-templates-brunch**](https://github.com/dougmoscrop/angularjs-templates-brunch)|Compile templates in to an AngularJS module as a Brunch plugin||
 |5|[@honza](https://github.com/honza)/[**vim.io**](https://github.com/honza/vim.io)|||
@@ -140,7 +141,6 @@
 |3|[@RobLoach](https://github.com/RobLoach)/[**language-drupal**](https://github.com/RobLoach/language-drupal)|Drupal syntax highlighting and snippets for Atom.io||
 |3|[@adamhooper](https://github.com/adamhooper)/[**js-uglydb**](https://github.com/adamhooper/js-uglydb)|Pack large JSON objects into to small sizes by normalizing.||
 |3|[@andrew8088](https://github.com/andrew8088)/[**nothing-coffee**](https://github.com/andrew8088/nothing-coffee)|An implementation of Tom Stuart's "nothing," in CoffeeScript.||
-|3|[@bcgov](https://github.com/bcgov)/[**pipeline-bot**](https://github.com/bcgov/pipeline-bot)|A Hubot CI/CD Pipeline Bot for Openshift Deployment||
 |3|[@ben-z](https://github.com/ben-z)/[**react-starter-coffee**](https://github.com/ben-z/react-starter-coffee)|Quickly start a ReactJS project with Express and server-side rendering.||
 |3|[@benbria](https://github.com/benbria)/[**rabbit-tracer**](https://github.com/benbria/rabbit-tracer)|RabbitMQ firehose display||
 |3|[@brentlintner](https://github.com/brentlintner)/[**mimus**](https://github.com/brentlintner/mimus)|A test runner agnostic stubbing library for NodeJS, supporting dependency injection and auto stubbing|[:arrow_upper_right:](http://npmjs.org/mimus)|

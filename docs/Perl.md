@@ -1,6 +1,6 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|261|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|A repository of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. ||
+|263|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|A repository of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. ||
 |166|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
 |145|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
 |137|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
@@ -28,8 +28,8 @@
 |20|[@yanick](https://github.com/yanick)/[**Taskwarrior-Kusarigama**](https://github.com/yanick/Taskwarrior-Kusarigama)|plugin system for the Taskwarrior task manager|[:arrow_upper_right:](https://metacpan.org/release/Taskwarrior-Kusarigama)|
 |18|[@bartman](https://github.com/bartman)/[**urxvt-scripts**](https://github.com/bartman/urxvt-scripts)|my urxvt scripts|[:arrow_upper_right:](http://www.jukie.net/~bart/blog/tag/urxvt)|
 |18|[@briandfoy](https://github.com/briandfoy)/[**git-github-creator**](https://github.com/briandfoy/git-github-creator)|(Perl) Create a Github repository for your Perl module|[:arrow_upper_right:](https://metacpan.org/pod/Git::GitHub::Creator)|
+|17|[@bcgsc](https://github.com/bcgsc)/[**RAILS**](https://github.com/bcgsc/RAILS)|🚝RAILS and 👞🔨Cobbler: Assembly Improvement by Long Sequence Scaffolding/Gap-filling||
 |17|[@sestaton](https://github.com/sestaton)/[**tephra**](https://github.com/sestaton/tephra)|A tool for discovering transposable elements and describing patterns of genome evolution||
-|16|[@bcgsc](https://github.com/bcgsc)/[**RAILS**](https://github.com/bcgsc/RAILS)|🚝RAILS and 👞🔨Cobbler: Assembly Improvement by Long Sequence Scaffolding/Gap-filling||
 |16|[@briandfoy](https://github.com/briandfoy)/[**unicode-tussle**](https://github.com/briandfoy/unicode-tussle)|Tom( Christiansen)'s Unicode Scripts So Life is Easier|[:arrow_upper_right:](https://metacpan.org/dist/Unicode::Tussle)|
 |16|[@johnlees](https://github.com/johnlees)/[**23andme-impute**](https://github.com/johnlees/23andme-impute)|Scripts and advice to run IMPUTE2 on 23 and me raw data||
 |15|[@briandfoy](https://github.com/briandfoy)/[**Unicode-Tussle**](https://github.com/briandfoy/Unicode-Tussle)|Tom( Christiansen)'s Unicode Scripts So Life is Easier|[:arrow_upper_right:](http://search.cpan.org/dist/Unicode-Tussle)|
@@ -56,10 +56,10 @@
 |9|[@bbidulock](https://github.com/bbidulock)/[**perlpanel**](https://github.com/bbidulock/perlpanel)|Panel for the X Desktop Environment (XDE) based on PerlPanel||
 |9|[@briandfoy](https://github.com/briandfoy)/[**mac-propertylist**](https://github.com/briandfoy/mac-propertylist)|(Perl) work with Mac plists at a low level|[:arrow_upper_right:](https://metacpan.org/pod/Mac::PropertyList)|
 |9|[@bsandrow](https://github.com/bsandrow)/[**hn-profile**](https://github.com/bsandrow/hn-profile)|Scraping profile info from news.ycombinator.com||
+|9|[@kpumuk](https://github.com/kpumuk)/[**mysqlsla-bdb**](https://github.com/kpumuk/mysqlsla-bdb)|MySQL Slow Logs Analyzer optimized to work with huge logs (use BerkeleyDB instead of perl hashes)|[:arrow_upper_right:](http://hackmysql.com/mysqlsla)|
 |9|[@zoffixznet](https://github.com/zoffixznet)/[**JavaScript-Minifier**](https://github.com/zoffixznet/JavaScript-Minifier)|JavaScript::Minifier perl module||
 |8|[@briandfoy](https://github.com/briandfoy)/[**modulino-demo**](https://github.com/briandfoy/modulino-demo)|The Perl Modulino::Demo module||
 |8|[@hoytech](https://github.com/hoytech)/[**Qstruct**](https://github.com/hoytech/Qstruct)|Quick structure serialisation||
-|8|[@kpumuk](https://github.com/kpumuk)/[**mysqlsla-bdb**](https://github.com/kpumuk/mysqlsla-bdb)|MySQL Slow Logs Analyzer optimized to work with huge logs (use BerkeleyDB instead of perl hashes)|[:arrow_upper_right:](http://hackmysql.com/mysqlsla)|
 |8|[@yanick](https://github.com/yanick)/[**PPIx-EditorTools**](https://github.com/yanick/PPIx-EditorTools)|||
 |8|[@yanick](https://github.com/yanick)/[**netpacket**](https://github.com/yanick/netpacket)|(Perl) |[:arrow_upper_right:](http://search.cpan.org/dist/NetPacket)|
 |7|[@bob-carpenter](https://github.com/bob-carpenter)/[**java-arithcode**](https://github.com/bob-carpenter/java-arithcode)|A Java implementation of arithmetic coding and PPM compression.||

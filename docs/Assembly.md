@@ -1,18 +1,18 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3195|[@hsoft](https://github.com/hsoft)/[**collapseos**](https://github.com/hsoft/collapseos)|Bootstrap post-collapse technology|[:arrow_upper_right:](https://collapseos.org)|
+|3243|[@hsoft](https://github.com/hsoft)/[**collapseos**](https://github.com/hsoft/collapseos)|Bootstrap post-collapse technology|[:arrow_upper_right:](https://collapseos.org)|
 |1703|[@ReturnInfinity](https://github.com/ReturnInfinity)/[**BareMetal-OS-legacy**](https://github.com/ReturnInfinity/BareMetal-OS-legacy)|BareMetal is a 64-bit OS for x86-64 based computers. The OS is written entirely in Assembly while applications can be written in Assembly, C/C++, and Rust.||
-|572|[@sim-](https://github.com/sim-)/[**tgy**](https://github.com/sim-/tgy)|tgy -- Open Source Firmware for ATmega-based Brushless ESCs|[:arrow_upper_right:](http://0x.ca/tgy/)|
+|575|[@sim-](https://github.com/sim-)/[**tgy**](https://github.com/sim-/tgy)|tgy -- Open Source Firmware for ATmega-based Brushless ESCs|[:arrow_upper_right:](http://0x.ca/tgy/)|
 |267|[@ReturnInfinity](https://github.com/ReturnInfinity)/[**BareMetal-kernel**](https://github.com/ReturnInfinity/BareMetal-kernel)|A very minimal, resource efficient exo-kernel|[:arrow_upper_right:](http://www.returninfinity.com)|
 |100|[@programble](https://github.com/programble)/[**tetrasm**](https://github.com/programble/tetrasm)|Tetris for x86 in NASM||
 |69|[@dgryski](https://github.com/dgryski)/[**go-metro**](https://github.com/dgryski/go-metro)|Go translation of MetroHash||
-|58|[@chesterbr](https://github.com/chesterbr)/[**2048-2600**](https://github.com/chesterbr/2048-2600)|A port of the 2048 game to the Atari 2600 VCS||
-|47|[@Krutonium](https://github.com/Krutonium)/[**OwO**](https://github.com/Krutonium/OwO)|...I might be furry trash.||
+|57|[@chesterbr](https://github.com/chesterbr)/[**2048-2600**](https://github.com/chesterbr/2048-2600)|A port of the 2048 game to the Atari 2600 VCS||
+|49|[@Krutonium](https://github.com/Krutonium)/[**OwO**](https://github.com/Krutonium/OwO)|...I might be furry trash.||
 |44|[@mystor](https://github.com/mystor)/[**micro-coreutils**](https://github.com/mystor/micro-coreutils)|An implementation of the unix commands yes, cat, and echo in as few bytes of executable as possible||
 |31|[@cjauvin](https://github.com/cjauvin)/[**tetris-464**](https://github.com/cjauvin/tetris-464)|A stripped down Tetris clone for the C=64 (no points, no levels, no nothing, except the bare block falling, controlling and colliding mechanism), in about a KLOC of 6502 assembly.||
-|23|[@hsoft](https://github.com/hsoft)/[**avra**](https://github.com/hsoft/avra)|Assembler for the Atmel AVR microcontroller family||
+|26|[@hsoft](https://github.com/hsoft)/[**avra**](https://github.com/hsoft/avra)|Assembler for the Atmel AVR microcontroller family||
 |19|[@JohnSully](https://github.com/JohnSully)/[**KeyDB_Z80**](https://github.com/JohnSully/KeyDB_Z80)|KeyDB For 8-bit microcomputers||
-|15|[@Herringway](https://github.com/Herringway)/[**ebsrc**](https://github.com/Herringway/ebsrc)|Source code recreation for the game Earthbound||
+|14|[@Herringway](https://github.com/Herringway)/[**ebsrc**](https://github.com/Herringway/ebsrc)|Source code recreation for the game Earthbound||
 |13|[@defuse](https://github.com/defuse)/[**x86rc4**](https://github.com/defuse/x86rc4)|A tiny x86 implementation of RC4||
 |9|[@dgryski](https://github.com/dgryski)/[**go-speck**](https://github.com/dgryski/go-speck)|SPECK cipher||
 |9|[@shepheb](https://github.com/shepheb)/[**forth-arm**](https://github.com/shepheb/forth-arm)|Custom Forth implementation for ARMv6 (RasPi)||
@@ -25,6 +25,7 @@
 |4|[@levex](https://github.com/levex)/[**arm-mariokart**](https://github.com/levex/arm-mariokart)|ARM11 group project; Atanas G., Norbert P., Daniel Z., Levente K.: MARIO KART||
 |4|[@levex](https://github.com/levex)/[**wacc-os**](https://github.com/levex/wacc-os)|waccOS, an operating system kernel written in WACC.||
 |4|[@st3fan](https://github.com/st3fan)/[**krusader**](https://github.com/st3fan/krusader)|Ken's Rather Useless Symbolic Assembly Development Environment for the Replica 1|[:arrow_upper_right:](http://school.anhb.uwa.edu.au/personalpages/kwessen/apple1/Krusader.htm)|
+|3|[@OlivierLaflamme](https://github.com/OlivierLaflamme)/[**deprecated-rootkit**](https://github.com/OlivierLaflamme/deprecated-rootkit)|Nice FASM src of basic ring 3 rootkit has no more use to me. ||
 |3|[@celskeggs](https://github.com/celskeggs)/[**libsyscall**](https://github.com/celskeggs/libsyscall)|All the assembly needed for a C standard library||
 |3|[@chesterbr](https://github.com/chesterbr)/[**sorteio2600**](https://github.com/chesterbr/sorteio2600)|Programa para Atari 2600 que sorteia números aleatórios, feito para o Dev In Vale||
 |3|[@d12](https://github.com/d12)/[**Assembly-8086-NASM-Snake**](https://github.com/d12/Assembly-8086-NASM-Snake)|Snake in 8086 NASM assembly||
