@@ -1,19 +1,19 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|533|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base, unrelated to the new engine! see the website for details - https://luxeengine.com/|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
+|535|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe**](https://github.com/underscorediscovery/luxe)|luxe alpha - this is the luxe alpha code base, unrelated to the new engine! see the website for details - https://luxeengine.com/|[:arrow_upper_right:](https://luxeengine.com/#alpha)|
 |41|[@Ohmnivore](https://github.com/Ohmnivore)/[**SkullRush**](https://github.com/Ohmnivore/SkullRush)|:skull: A 2D online multiplayer shooter written in Haxe|[:arrow_upper_right:](http://ohmnivore.github.io)|
 |41|[@hamaluik](https://github.com/hamaluik)/[**haxe-glm**](https://github.com/hamaluik/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |37|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-glm**](https://github.com/FuzzyWuzzie/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |30|[@ashes999](https://github.com/ashes999)/[**butterfly**](https://github.com/ashes999/butterfly)|Haxe generator for simple, static blogs.||
-|23|[@hamaluik](https://github.com/hamaluik)/[**headbutt**](https://github.com/hamaluik/headbutt)|A GJK and EPA collision engine made with pure Haxe.||
+|24|[@hamaluik](https://github.com/hamaluik)/[**headbutt**](https://github.com/hamaluik/headbutt)|A GJK and EPA collision engine made with pure Haxe.||
 |20|[@fserb](https://github.com/fserb)/[**sketch**](https://github.com/fserb/sketch)|game sketches|[:arrow_upper_right:](http://fserb.com/vault)|
 |19|[@underscorediscovery](https://github.com/underscorediscovery)/[**structural**](https://github.com/underscorediscovery/structural)|An unencumbered haxe data structures library||
 |16|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxeParticleDesigner**](https://github.com/FuzzyWuzzie/LuxeParticleDesigner)|A tool for quickly designing / tweaking particle systems in Luxe.||
 |16|[@hamaluik](https://github.com/hamaluik)/[**LuxeParticleDesigner**](https://github.com/hamaluik/LuxeParticleDesigner)|A tool for quickly designing / tweaking particle systems in Luxe.||
 |16|[@underscorediscovery](https://github.com/underscorediscovery)/[**hxsw**](https://github.com/underscorediscovery/hxsw)|Haxe Shader Wrangler (hxsw) - a port of glsw||
+|15|[@hamaluik](https://github.com/hamaluik)/[**baldrick**](https://github.com/hamaluik/baldrick)|Entity-component-system (ECS) framework, based heavily on edge||
 |14|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**headbutt**](https://github.com/FuzzyWuzzie/headbutt)|A GJK and EPA collision engine made with pure Haxe.||
 |14|[@chfoo](https://github.com/chfoo)/[**cobbles**](https://github.com/chfoo/cobbles)|Text layout/rendering engine library for Haxe applications running under a 3D graphics API||
-|14|[@hamaluik](https://github.com/hamaluik)/[**baldrick**](https://github.com/hamaluik/baldrick)|Entity-component-system (ECS) framework, based heavily on edge||
 |14|[@hamaluik](https://github.com/hamaluik)/[**haxe-gltf**](https://github.com/hamaluik/haxe-gltf)|A Haxe library for reading (and eventually, writing) GLTF files.||
 |14|[@underscorediscovery](https://github.com/underscorediscovery)/[**mohxa**](https://github.com/underscorediscovery/mohxa)|A BDD style test library based closely on http://visionmedia.github.io/mocha/||
 |14|[@underscorediscovery](https://github.com/underscorediscovery)/[**openfl-simple-particles**](https://github.com/underscorediscovery/openfl-simple-particles)|A simple particle system for openfl||

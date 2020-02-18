@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3764|[@gnunn1](https://github.com/gnunn1)/[**tilix**](https://github.com/gnunn1/tilix)|A tiling terminal emulator for Linux using GTK+ 3|[:arrow_upper_right:](https://gnunn1.github.io/tilix-web)|
-|130|[@etcimon](https://github.com/etcimon)/[**libasync**](https://github.com/etcimon/libasync)|Cross-platform event loop library of asynchronous objects||
+|3777|[@gnunn1](https://github.com/gnunn1)/[**tilix**](https://github.com/gnunn1/tilix)|A tiling terminal emulator for Linux using GTK+ 3|[:arrow_upper_right:](https://gnunn1.github.io/tilix-web)|
+|129|[@etcimon](https://github.com/etcimon)/[**libasync**](https://github.com/etcimon/libasync)|Cross-platform event loop library of asynchronous objects||
 |67|[@etcimon](https://github.com/etcimon)/[**botan**](https://github.com/etcimon/botan)|Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc.||
 |39|[@dd86k](https://github.com/dd86k)/[**dd86**](https://github.com/dd86k/dd86)|** WIP ** x86/IBM PC VM + DOS emulation layer||
-|34|[@etcimon](https://github.com/etcimon)/[**memutils**](https://github.com/etcimon/memutils)|Overhead allocators, allocator-aware containers and lifetime management for D objects||
+|35|[@etcimon](https://github.com/etcimon)/[**memutils**](https://github.com/etcimon/memutils)|Overhead allocators, allocator-aware containers and lifetime management for D objects||
 |33|[@etcimon](https://github.com/etcimon)/[**libhttp2**](https://github.com/etcimon/libhttp2)|HTTP/2 library in D, translated from nghttp2||
 |30|[@dd86k](https://github.com/dd86k)/[**dd-dos**](https://github.com/dd86k/dd-dos)|Small IBM PC Virtual Machine and DOS Emulation Layer|[:arrow_upper_right:](https://git.dd86k.space/dd86k/dd-dos)|
 |28|[@gnunn1](https://github.com/gnunn1)/[**vgrep**](https://github.com/gnunn1/vgrep)|A grep graphical user interface written in D and GTK 3||

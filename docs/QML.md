@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|223|[@amlwwalker](https://github.com/amlwwalker)/[**got-qt**](https://github.com/amlwwalker/got-qt)|A framework for building cross platform GUI interfaces in Go and QML||
-|128|[@Furkanzmc](https://github.com/Furkanzmc)/[**QML-UI-Animations**](https://github.com/Furkanzmc/QML-UI-Animations)|QML implementations of various UI concepts by various artists||
+|224|[@amlwwalker](https://github.com/amlwwalker)/[**got-qt**](https://github.com/amlwwalker/got-qt)|A framework for building cross platform GUI interfaces in Go and QML||
+|129|[@Furkanzmc](https://github.com/Furkanzmc)/[**QML-UI-Animations**](https://github.com/Furkanzmc/QML-UI-Animations)|QML implementations of various UI concepts by various artists||
 |122|[@Furkanzmc](https://github.com/Furkanzmc)/[**QML-Loaders**](https://github.com/Furkanzmc/QML-Loaders)|Loading animation implementations in QML||
 |109|[@Zren](https://github.com/Zren)/[**plasma-applet-eventcalendar**](https://github.com/Zren/plasma-applet-eventcalendar)||[:arrow_upper_right:](https://store.kde.org/p/998901/)|
-|25|[@Zren](https://github.com/Zren)/[**plasma-applet-tiledmenu**](https://github.com/Zren/plasma-applet-tiledmenu)||[:arrow_upper_right:](https://store.kde.org/p/1160672/)|
+|28|[@Zren](https://github.com/Zren)/[**plasma-applet-tiledmenu**](https://github.com/Zren/plasma-applet-tiledmenu)||[:arrow_upper_right:](https://store.kde.org/p/1160672/)|
 |24|[@Furkanzmc](https://github.com/Furkanzmc)/[**Everyday-QML**](https://github.com/Furkanzmc/Everyday-QML)|This is a repository in which I store my QML examples that I do (hopefully) everyday||
 |18|[@Zren](https://github.com/Zren)/[**plasma-wallpapers**](https://github.com/Zren/plasma-wallpapers)|||
 |16|[@Zren](https://github.com/Zren)/[**plasma-applet-todolist**](https://github.com/Zren/plasma-applet-todolist)||[:arrow_upper_right:](https://store.kde.org/p/1152230/)|

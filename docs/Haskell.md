@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|791|[@fosskers](https://github.com/fosskers)/[**aura**](https://github.com/fosskers/aura)|A secure, multilingual package manager for Arch Linux and the AUR.|[:arrow_upper_right:](https://gitter.im/aurapm/aura)|
-|201|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
+|795|[@fosskers](https://github.com/fosskers)/[**aura**](https://github.com/fosskers/aura)|A secure, multilingual package manager for Arch Linux and the AUR.|[:arrow_upper_right:](https://gitter.im/aurapm/aura)|
+|202|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
 |155|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
 |131|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
 |130|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
@@ -85,12 +85,12 @@
 |5|[@singpolyma](https://github.com/singpolyma)/[**OpenPGP-CryptoAPI**](https://github.com/singpolyma/OpenPGP-CryptoAPI)|Implementation of cryptography for use with OpenPGP using the crypto-api libraries||
 |5|[@singpolyma](https://github.com/singpolyma)/[**sgx-vitelity**](https://github.com/singpolyma/sgx-vitelity)|XMPP Gateway using Vitelity as a backend.||
 |4|[@Aiden01](https://github.com/Aiden01)/[**hastebin**](https://github.com/Aiden01/hastebin)|A simple CLI for Hastebin written in Haskell||
+|4|[@Ailrun](https://github.com/Ailrun)/[**LambdaDB**](https://github.com/Ailrun/LambdaDB)|On-memory DB using Lambda function||
 |4|[@borsboom](https://github.com/borsboom)/[**git-embed**](https://github.com/borsboom/git-embed)|DEPRECATED: Use Template Haskell to embed Git revision, branch, and tag information.|[:arrow_upper_right:](https://hackage.haskell.org/package/git-embed)|
 |4|[@fosskers](https://github.com/fosskers)/[**streaming-pcap**](https://github.com/fosskers/streaming-pcap)|Stream packets via libpcap.||
 |4|[@singpolyma](https://github.com/singpolyma)/[**plivo-haskell**](https://github.com/singpolyma/plivo-haskell)|Plivo API wrapper for Haskell||
 |4|[@singpolyma](https://github.com/singpolyma)/[**route-generator**](https://github.com/singpolyma/route-generator)|Utility to generate routes for use with yesod-routes|[:arrow_upper_right:](http://hackage.haskell.org/package/route-generator)|
 |3|[@Aiden01](https://github.com/Aiden01)/[**paste-api**](https://github.com/Aiden01/paste-api)|Code sharing platform (API)||
-|3|[@Ailrun](https://github.com/Ailrun)/[**LambdaDB**](https://github.com/Ailrun/LambdaDB)|On-memory DB using Lambda function||
 |3|[@aminb](https://github.com/aminb)/[**blog-old**](https://github.com/aminb/blog-old)|Source code of a previous version of aminb.org||
 |3|[@avieth](https://github.com/avieth)/[**PullRequestNagger**](https://github.com/avieth/PullRequestNagger)|Nag your peers about outstanding pull requests||
 |3|[@ba205](https://github.com/ba205)/[**ml-conduit**](https://github.com/ba205/ml-conduit)|Online ML Algorithms with Conduit||

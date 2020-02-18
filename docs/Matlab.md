@@ -47,5 +47,6 @@
 |3|[@dengwirda](https://github.com/dengwirda)/[**find-tria**](https://github.com/dengwirda/find-tria)|Spatial queries for collections of triangles, tetrahedrons and general d-simplexes in MATLAB.||
 |3|[@irudik](https://github.com/irudik)/[**dynamic-stochastic-dice**](https://github.com/irudik/dynamic-stochastic-dice)|Instructions and replication code for Managing Climate Change Under Uncertainty: Recursive Integrated Assessment at an Inflection Point||
 |3|[@luster](https://github.com/luster)/[**genre-classification**](https://github.com/luster/genre-classification)|Genre Classification Project, ECE414 Machine Learning||
+|3|[@rcompton](https://github.com/rcompton)/[**framelet-mri**](https://github.com/rcompton/framelet-mri)|Automatically exported from code.google.com/p/framelet-mri||
 |3|[@terryum](https://github.com/terryum)/[**Tutorial_MachineLearning_Matlab**](https://github.com/terryum/Tutorial_MachineLearning_Matlab)|A tutorial on machine learning from scratch with Matlab||
 

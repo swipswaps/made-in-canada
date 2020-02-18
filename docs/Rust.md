@@ -1,32 +1,32 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|5086|[@benfred](https://github.com/benfred)/[**py-spy**](https://github.com/benfred/py-spy)|Sampling profiler for Python programs||
-|2174|[@EbTech](https://github.com/EbTech)/[**rust-algorithms**](https://github.com/EbTech/rust-algorithms)|Common data structures and algorithms in Rust||
-|2060|[@jmacdonald](https://github.com/jmacdonald)/[**amp**](https://github.com/jmacdonald/amp)|A complete text editor for your terminal.|[:arrow_upper_right:](https://amp.rs)|
-|1298|[@chinedufn](https://github.com/chinedufn)/[**percy**](https://github.com/chinedufn/percy)|A modular toolkit for building isomorphic web apps with Rust + WebAssembly|[:arrow_upper_right:](https://chinedufn.github.io/percy/)|
-|1002|[@chmln](https://github.com/chmln)/[**sd**](https://github.com/chmln/sd)|Intuitive find & replace CLI (sed alternative)||
-|963|[@AtheMathmo](https://github.com/AtheMathmo)/[**rusty-machine**](https://github.com/AtheMathmo/rusty-machine)|Machine Learning library for Rust|[:arrow_upper_right:](https://crates.io/crates/rusty-machine/)|
-|693|[@trishume](https://github.com/trishume)/[**syntect**](https://github.com/trishume/syntect)|Rust library for syntax highlighting using Sublime Text syntax definitions.|[:arrow_upper_right:](https://docs.rs/syntect)|
-|533|[@MitMaro](https://github.com/MitMaro)/[**git-interactive-rebase-tool**](https://github.com/MitMaro/git-interactive-rebase-tool)|Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.|[:arrow_upper_right:](https://gitrebasetool.mitmaro.ca/)|
-|424|[@mystor](https://github.com/mystor)/[**rust-cpp**](https://github.com/mystor/rust-cpp)|Embed C++ directly inside your rust code!||
+|5104|[@benfred](https://github.com/benfred)/[**py-spy**](https://github.com/benfred/py-spy)|Sampling profiler for Python programs||
+|2177|[@EbTech](https://github.com/EbTech)/[**rust-algorithms**](https://github.com/EbTech/rust-algorithms)|Common data structures and algorithms in Rust||
+|2065|[@jmacdonald](https://github.com/jmacdonald)/[**amp**](https://github.com/jmacdonald/amp)|A complete text editor for your terminal.|[:arrow_upper_right:](https://amp.rs)|
+|1305|[@chinedufn](https://github.com/chinedufn)/[**percy**](https://github.com/chinedufn/percy)|A modular toolkit for building isomorphic web apps with Rust + WebAssembly|[:arrow_upper_right:](https://chinedufn.github.io/percy/)|
+|1016|[@chmln](https://github.com/chmln)/[**sd**](https://github.com/chmln/sd)|Intuitive find & replace CLI (sed alternative)||
+|967|[@AtheMathmo](https://github.com/AtheMathmo)/[**rusty-machine**](https://github.com/AtheMathmo/rusty-machine)|Machine Learning library for Rust|[:arrow_upper_right:](https://crates.io/crates/rusty-machine/)|
+|694|[@trishume](https://github.com/trishume)/[**syntect**](https://github.com/trishume/syntect)|Rust library for syntax highlighting using Sublime Text syntax definitions.|[:arrow_upper_right:](https://docs.rs/syntect)|
+|534|[@MitMaro](https://github.com/MitMaro)/[**git-interactive-rebase-tool**](https://github.com/MitMaro/git-interactive-rebase-tool)|Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.|[:arrow_upper_right:](https://gitrebasetool.mitmaro.ca/)|
+|427|[@mystor](https://github.com/mystor)/[**rust-cpp**](https://github.com/mystor/rust-cpp)|Embed C++ directly inside your rust code!||
 |385|[@programble](https://github.com/programble)/[**scraper**](https://github.com/programble/scraper)|HTML parsing and querying with CSS selectors|[:arrow_upper_right:](https://docs.rs/scraper)|
-|282|[@chinedufn](https://github.com/chinedufn)/[**webgl-water-tutorial**](https://github.com/chinedufn/webgl-water-tutorial)|The source code for a tutorial on rendering water using WebGL + Rust + WebAssembly||
-|264|[@jrmuizel](https://github.com/jrmuizel)/[**raqote**](https://github.com/jrmuizel/raqote)|Rust 2D graphics library||
-|230|[@AtheMathmo](https://github.com/AtheMathmo)/[**rulinalg**](https://github.com/AtheMathmo/rulinalg)|A linear algebra library written in Rust|[:arrow_upper_right:](https://crates.io/crates/rulinalg)|
+|284|[@chinedufn](https://github.com/chinedufn)/[**webgl-water-tutorial**](https://github.com/chinedufn/webgl-water-tutorial)|The source code for a tutorial on rendering water using WebGL + Rust + WebAssembly||
+|268|[@jrmuizel](https://github.com/jrmuizel)/[**raqote**](https://github.com/jrmuizel/raqote)|Rust 2D graphics library||
+|232|[@AtheMathmo](https://github.com/AtheMathmo)/[**rulinalg**](https://github.com/AtheMathmo/rulinalg)|A linear algebra library written in Rust|[:arrow_upper_right:](https://crates.io/crates/rulinalg)|
 |162|[@luqmana](https://github.com/luqmana)/[**rust-opencl**](https://github.com/luqmana/rust-opencl)|OpenCL bindings for Rust.||
 |128|[@Babylonpartners](https://github.com/Babylonpartners)/[**shipcat**](https://github.com/Babylonpartners/shipcat)|Deploy right meow! :ship::pouting_cat:||
 |119|[@thestinger](https://github.com/thestinger)/[**rust-core**](https://github.com/thestinger/rust-core)|a lightweight standard library for rust with freestanding support (deprecated in favour of libcore upstream)||
 |107|[@chinedufn](https://github.com/chinedufn)/[**psd**](https://github.com/chinedufn/psd)|A Rust API for parsing and working with PSD files.|[:arrow_upper_right:](https://chinedufn.github.io/psd)|
 |95|[@AtheMathmo](https://github.com/AtheMathmo)/[**cpuprofiler**](https://github.com/AtheMathmo/cpuprofiler)|Rust bindings to google's cpuprofiler||
 |86|[@jmacdonald](https://github.com/jmacdonald)/[**scribe**](https://github.com/jmacdonald/scribe)|Text editor components||
-|72|[@dsherret](https://github.com/dsherret)/[**dprint**](https://github.com/dsherret/dprint)|TypeScript and JSONC code formatter.|[:arrow_upper_right:](https://dprint.dev)|
+|77|[@dsherret](https://github.com/dsherret)/[**dprint**](https://github.com/dsherret/dprint)|TypeScript and JSONC code formatter.|[:arrow_upper_right:](https://dprint.dev)|
 |71|[@luqmana](https://github.com/luqmana)/[**rust-psp-hello**](https://github.com/luqmana/rust-psp-hello)|Simple Hello World in Rust to run on a PSP.||
+|67|[@ssokolow](https://github.com/ssokolow)/[**rust-cli-boilerplate**](https://github.com/ssokolow/rust-cli-boilerplate)|Rust project boilerplate for CLI applications||
 |65|[@mystor](https://github.com/mystor)/[**synstructure**](https://github.com/mystor/synstructure)|Utilities for dealing with substructures within syn macros||
-|65|[@ssokolow](https://github.com/ssokolow)/[**rust-cli-boilerplate**](https://github.com/ssokolow/rust-cli-boilerplate)|Rust project boilerplate for CLI applications||
-|61|[@Dooskington](https://github.com/Dooskington)/[**grubbnet**](https://github.com/Dooskington/grubbnet)|:satellite: A lightweight TCP client/server for writing networked applications and games||
+|62|[@Dooskington](https://github.com/Dooskington)/[**grubbnet**](https://github.com/Dooskington/grubbnet)|:satellite: A lightweight TCP client/server for writing networked applications and games||
+|54|[@ChainSafe](https://github.com/ChainSafe)/[**forest**](https://github.com/ChainSafe/forest)|🌲 Rust Filecoin Node Implementation||
 |52|[@levex](https://github.com/levex)/[**cgroups-rs**](https://github.com/levex/cgroups-rs)|Native Rust library for managing control groups under Linux||
 |52|[@mystor](https://github.com/mystor)/[**slag**](https://github.com/mystor/slag)|A whitespace-sensitive syntax for rust||
-|47|[@ChainSafe](https://github.com/ChainSafe)/[**forest**](https://github.com/ChainSafe/forest)|🌲 Rust Filecoin Node Implementation||
 |44|[@brettcannon](https://github.com/brettcannon)/[**python-launcher**](https://github.com/brettcannon/python-launcher)|Python launcher for UNIX|[:arrow_upper_right:](https://crates.io/crates/python-launcher)|
 |42|[@bojand](https://github.com/bojand)/[**infer**](https://github.com/bojand/infer)|Small crate to infer file and MIME type by checking the magic number signature ||
 |42|[@gwihlidal](https://github.com/gwihlidal)/[**meshopt-rs**](https://github.com/gwihlidal/meshopt-rs)|Rust ffi and idiomatic wrapper for zeux/meshoptimizer, a mesh optimization library that makes indexed meshes more GPU-friendly.||
@@ -70,14 +70,14 @@
 |18|[@Devolutions](https://github.com/Devolutions)/[**casbin-rs**](https://github.com/Devolutions/casbin-rs)|An authorization library that supports access control models like ACL, RBAC, ABAC in Rust https://casbin.org/||
 |18|[@Devolutions](https://github.com/Devolutions)/[**casbin-rs-old**](https://github.com/Devolutions/casbin-rs-old)|DEPRECATED - See https://github.com/casbin/casbin-rs instead||
 |18|[@jrmuizel](https://github.com/jrmuizel)/[**glsl-to-spirv**](https://github.com/jrmuizel/glsl-to-spirv)|A glsl to spirv compiler||
+|16|[@Devolutions](https://github.com/Devolutions)/[**siquery-rs**](https://github.com/Devolutions/siquery-rs)|siquery, a Rust osquery implementation to query system information||
 |16|[@chasinglogic](https://github.com/chasinglogic)/[**cargo-hublish**](https://github.com/chasinglogic/cargo-hublish)|A cargo subcommand for publishing Rust projects to github.||
 |16|[@gwihlidal](https://github.com/gwihlidal)/[**intel-tex-rs**](https://github.com/gwihlidal/intel-tex-rs)|Rust bindings for Intel's ISPC texture compression||
 |15|[@Dooskington](https://github.com/Dooskington)/[**Rustcaster**](https://github.com/Dooskington/Rustcaster)|:suspect: A lightweight raycaster written in Rust||
 |15|[@hsoft](https://github.com/hsoft)/[**civng**](https://github.com/hsoft/civng)|Civ 5 implementation in Rust with a text-based UI||
 |15|[@mhsjlw](https://github.com/mhsjlw)/[**native-voxel-generator**](https://github.com/mhsjlw/native-voxel-generator)|A voxel world generator written in Rust, with bindings for Node||
-|15|[@saks](https://github.com/saks)/[**actix_web_async_compat**](https://github.com/saks/actix_web_async_compat)|Adds proc macro that converts async fn to a compatible actix-web request handler||
-|14|[@Devolutions](https://github.com/Devolutions)/[**siquery-rs**](https://github.com/Devolutions/siquery-rs)|siquery, a Rust osquery implementation to query system information||
 |14|[@benfred](https://github.com/benfred)/[**py-cpp-demangle**](https://github.com/benfred/py-cpp-demangle)|A python package for demangling C++ linker symbols||
+|14|[@saks](https://github.com/saks)/[**actix_web_async_compat**](https://github.com/saks/actix_web_async_compat)|Adds proc macro that converts async fn to a compatible actix-web request handler||
 |14|[@thestinger](https://github.com/thestinger)/[**rust-seccomp**](https://github.com/thestinger/rust-seccomp)|||
 |13|[@addyosmani](https://github.com/addyosmani)/[**rusty**](https://github.com/addyosmani/rusty)|Toy Web layout engine written in Rust||
 |13|[@dgryski](https://github.com/dgryski)/[**numerical-rs**](https://github.com/dgryski/numerical-rs)|Numerical integration routines for Rust||
@@ -105,6 +105,7 @@
 |8|[@jrmuizel](https://github.com/jrmuizel)/[**glsl-to-spriv**](https://github.com/jrmuizel/glsl-to-spriv)|A glsl to spriv compiler||
 |8|[@luqmana](https://github.com/luqmana)/[**rray**](https://github.com/luqmana/rray)|Raytracer written in rust.||
 |8|[@nbigaouette](https://github.com/nbigaouette)/[**gitlab-api-rs**](https://github.com/nbigaouette/gitlab-api-rs)|Rust wrapper to the GitLab API.||
+|8|[@onatm](https://github.com/onatm)/[**kx**](https://github.com/onatm/kx)|Interactively switch between kubernetes contexts without any external dependencies||
 |7|[@46bit](https://github.com/46bit)/[**tilewater**](https://github.com/46bit/tilewater)|Miniature city simulator.||
 |7|[@Qard](https://github.com/Qard)/[**gqlog**](https://github.com/Qard/gqlog)|👾 filter your json logs with graphql 👾||
 |7|[@benfred](https://github.com/benfred)/[**remoteprocess**](https://github.com/benfred/remoteprocess)|Cross platform process information in Rust||
@@ -121,7 +122,9 @@
 |6|[@adgear](https://github.com/adgear)/[**mini-rs**](https://github.com/adgear/mini-rs)|Adgear Rust core functionalities||
 |6|[@dat2](https://github.com/dat2)/[**ecmascript**](https://github.com/dat2/ecmascript)|A rust implementation of an EcmaScript Parser||
 |6|[@gwihlidal](https://github.com/gwihlidal)/[**include-merkle-rs**](https://github.com/gwihlidal/include-merkle-rs)|Functionality to build a Merkle-tree of a given text file with include references, substituting deterministic identities, and flattening include directives into a single file.||
+|5|[@Devolutions](https://github.com/Devolutions)/[**devolutions-jet**](https://github.com/Devolutions/devolutions-jet)|A blazing fast relay server adaptable to different protocols and desired levels of traffic inspection.||
 |5|[@Devolutions](https://github.com/Devolutions)/[**picky-rs**](https://github.com/Devolutions/picky-rs)|Picky portable PKI implementation and microservice||
+|5|[@Devolutions](https://github.com/Devolutions)/[**sspi-rs**](https://github.com/Devolutions/sspi-rs)|A Rust implementation of the Security Support Provider Interface (SSPI) API||
 |5|[@dashed](https://github.com/dashed)/[**advent-of-code**](https://github.com/dashed/advent-of-code)| 🎄  https://adventofcode.com||
 |5|[@dashed](https://github.com/dashed)/[**esparser**](https://github.com/dashed/esparser)|JavaScript Parser in Rust||
 |5|[@fnichol](https://github.com/fnichol)/[**libarchive-rust**](https://github.com/fnichol/libarchive-rust)|A Rust crate for interacting with archives using libarchive||
@@ -132,17 +135,15 @@
 |5|[@gwihlidal](https://github.com/gwihlidal)/[**svc-texture**](https://github.com/gwihlidal/svc-texture)|A gRPC micro-service that exposes texture compression routines under a common cloud-based abstraction.||
 |5|[@mystor](https://github.com/mystor)/[**literalext**](https://github.com/mystor/literalext)|A helper crate for interpreting proc-macro `Literal` values||
 |5|[@mystor](https://github.com/mystor)/[**radium**](https://github.com/mystor/radium)|||
+|5|[@mystor](https://github.com/mystor)/[**refptr**](https://github.com/mystor/refptr)|Invasive reference counting in Rust||
 |5|[@nbigaouette](https://github.com/nbigaouette)/[**rust-sorting**](https://github.com/nbigaouette/rust-sorting)|Sorting algorithms implementation in Rust.||
-|5|[@onatm](https://github.com/onatm)/[**kx**](https://github.com/onatm/kx)|Interactively switch between kubernetes contexts without any external dependencies||
 |5|[@palfrey](https://github.com/palfrey)/[**dawn**](https://github.com/palfrey/dawn)|London buses search|[:arrow_upper_right:](http://tech.labs.oliverwyman.com/blog/2016/07/14/dawn-mobile-bus-stops-display/)|
 |5|[@programble](https://github.com/programble)/[**fix**](https://github.com/programble/fix)|Fixed-point numbers|[:arrow_upper_right:](https://docs.rs/fix)|
 |5|[@programble](https://github.com/programble)/[**xn--ls8h**](https://github.com/programble/xn--ls8h)|PILE OF POO||
 |5|[@thoughtworks](https://github.com/thoughtworks)/[**expend-rs**](https://github.com/thoughtworks/expend-rs)|Internal application to submit certain expenses to ThoughtWorks' system||
 |4|[@46bit](https://github.com/46bit)/[**bind_before_connect**](https://github.com/46bit/bind_before_connect)|Produces a std::net::TCPStream bound to a specified local address (Unix only).||
-|4|[@Devolutions](https://github.com/Devolutions)/[**devolutions-jet**](https://github.com/Devolutions/devolutions-jet)|A blazing fast relay server adaptable to different protocols and desired levels of traffic inspection.||
 |4|[@Devolutions](https://github.com/Devolutions)/[**sardine-rs**](https://github.com/Devolutions/sardine-rs)|Secure Remote Delegation (SRD) Protocol||
 |4|[@Devolutions](https://github.com/Devolutions)/[**slauth**](https://github.com/Devolutions/slauth)|OATH (TOTP, HOTP), U2F & WebAuthN Implementation in Rust||
-|4|[@Devolutions](https://github.com/Devolutions)/[**sspi-rs**](https://github.com/Devolutions/sspi-rs)|A Rust implementation of the Security Support Provider Interface (SSPI) API||
 |4|[@Dooskington](https://github.com/Dooskington)/[**Mail-Journal**](https://github.com/Dooskington/Mail-Journal)|:love_letter: Helps you keep a daily journal and reflect on the past||
 |4|[@arcrose](https://github.com/arcrose)/[**tegami**](https://github.com/arcrose/tegami)|A framework for asynchronous Rust applications built on the Actor model with influences from Elm and Erlang||
 |4|[@benfred](https://github.com/benfred)/[**proc-maps**](https://github.com/benfred/proc-maps)|||
@@ -158,7 +159,6 @@
 |4|[@jrmuizel](https://github.com/jrmuizel)/[**sw-wr**](https://github.com/jrmuizel/sw-wr)|A software renderer for WebRender||
 |4|[@levex](https://github.com/levex)/[**network-bridge-rs**](https://github.com/levex/network-bridge-rs)|Rust crate for managing network bridges||
 |4|[@mystor](https://github.com/mystor)/[**cargo-no-std-check**](https://github.com/mystor/cargo-no-std-check)|||
-|4|[@mystor](https://github.com/mystor)/[**refptr**](https://github.com/mystor/refptr)|Invasive reference counting in Rust||
 |4|[@mystor](https://github.com/mystor)/[**rust-try-let**](https://github.com/mystor/rust-try-let)|A syntax extension for a basic try-let form||
 |4|[@programble](https://github.com/programble)/[**bounded-integer**](https://github.com/programble/bounded-integer)|Bounded integers for Rust, probably broken|[:arrow_upper_right:](https://cmcenroe.me/bounded-integer/bounded_integer)|
 |4|[@tdryer](https://github.com/tdryer)/[**hangups-rs**](https://github.com/tdryer/hangups-rs)|Google Hangouts client library for any language (prototype)||

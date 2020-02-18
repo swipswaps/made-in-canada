@@ -6,13 +6,13 @@
 |384|[@mardambey](https://github.com/mardambey)/[**mypipe**](https://github.com/mardambey/mypipe)|MySQL binary log consumer with the ability to act on changed rows and publish changes to different systems with emphasis on Apache Kafka.||
 |359|[@ArchDev](https://github.com/ArchDev)/[**akka-http-rest**](https://github.com/ArchDev/akka-http-rest)|Example of reactive REST service written on akka-http with slick|[:arrow_upper_right:](http://akka-http-rest.herokuapp.com/)|
 |332|[@dcaoyuan](https://github.com/dcaoyuan)/[**chana**](https://github.com/dcaoyuan/chana)|Avro Data Store based on Akka||
-|299|[@jmcardon](https://github.com/jmcardon)/[**tsec**](https://github.com/jmcardon/tsec)|Type-safe general-cryptography library - https://jmcardon.github.io/tsec/||
+|301|[@jmcardon](https://github.com/jmcardon)/[**tsec**](https://github.com/jmcardon/tsec)|Type-safe general-cryptography library - https://jmcardon.github.io/tsec/||
 |259|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-socketio**](https://github.com/dcaoyuan/spray-socketio)|socket.io for spray||
 |224|[@dcaoyuan](https://github.com/dcaoyuan)/[**spray-websocket**](https://github.com/dcaoyuan/spray-websocket)|WebSocket for spray-can||
 |129|[@yawaramin](https://github.com/yawaramin)/[**scala-modules**](https://github.com/yawaramin/scala-modules)|Experimental implementations of ML-style modules in Scala||
 |126|[@dcaoyuan](https://github.com/dcaoyuan)/[**aiotrade**](https://github.com/dcaoyuan/aiotrade)|A Trading Platform|[:arrow_upper_right:](http://blogtrader.net)|
 |121|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**ScalaKata**](https://github.com/MasseGuillaume/ScalaKata)|Moved|[:arrow_upper_right:](https://github.com/MasseGuillaume/ScalaKata2)|
-|101|[@PaytmLabs](https://github.com/PaytmLabs)/[**akka-batteries**](https://github.com/PaytmLabs/akka-batteries)|Utilities for Akka cluster in production||
+|102|[@PaytmLabs](https://github.com/PaytmLabs)/[**akka-batteries**](https://github.com/PaytmLabs/akka-batteries)|Utilities for Akka cluster in production||
 |98|[@denisrosset](https://github.com/denisrosset)/[**metal**](https://github.com/denisrosset/metal)|Metal - fast unboxed data structures for Scala||
 |94|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**ScalaKata2**](https://github.com/MasseGuillaume/ScalaKata2)|Interactive Playground|[:arrow_upper_right:](http://scalakata.com)|
 |83|[@cvogt](https://github.com/cvogt)/[**compossible**](https://github.com/cvogt/compossible)|Scala Records: Extensible records and type-indexed maps|[:arrow_upper_right:](https://www.youtube.com/watch?v=pA2js-TV1Ck)|
@@ -34,19 +34,19 @@
 |32|[@marconilanna](https://github.com/marconilanna)/[**scala-boilerplate**](https://github.com/marconilanna/scala-boilerplate)|Starting point for Scala projects||
 |28|[@knoldus](https://github.com/knoldus)/[**playing-reactive-mongo.g8**](https://github.com/knoldus/playing-reactive-mongo.g8)|This activator project describes a classic CRUD application in Play 2.4.x with ReactiveMongo||
 |28|[@knoldus](https://github.com/knoldus)/[**playing-reactjs.g8**](https://github.com/knoldus/playing-reactjs.g8)|This activator project describes a basic example to render UI using ReactJS with Play 2.4.x, Scala and Anorm. It also demonstrates the use of evolution in Play 2.4.x||
+|26|[@NeQuissimus](https://github.com/NeQuissimus)/[**sort-imports**](https://github.com/NeQuissimus/sort-imports)|A simplistic Scalafix rule that sorts imports||
 |26|[@cvogt](https://github.com/cvogt)/[**flow-comprehensions**](https://github.com/cvogt/flow-comprehensions)|Work in progress: Simpler and more powerful alternative to Scala's built-in for-comprehension syntax||
 |26|[@knoldus](https://github.com/knoldus)/[**activator-play-slick-app**](https://github.com/knoldus/activator-play-slick-app)|This is an activator project providing a seed for starting with Play & Slick, how to write unit test and how to use mocking for unit testing.||
-|25|[@NeQuissimus](https://github.com/NeQuissimus)/[**sort-imports**](https://github.com/NeQuissimus/sort-imports)|A simplistic Scalafix rule that sorts imports||
 |25|[@abbas-taher](https://github.com/abbas-taher)/[**pagerank-example-spark2.0-deep-dive**](https://github.com/abbas-taher/pagerank-example-spark2.0-deep-dive)|Tutorial 101: PageRank Example in Spark 2.0 : Understanding the Algorithm & Spark Implementation Code  ||
 |23|[@edmundnoble](https://github.com/edmundnoble)/[**slate**](https://github.com/edmundnoble/slate)|Dashboards for any API in Chrome, through a JQ-like DSL.||
+|21|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**hands-on-scala-native**](https://github.com/MasseGuillaume/hands-on-scala-native)||[:arrow_upper_right:](https://masseguillaume.github.io/hands-on-scala-native-slides/#/)|
 |21|[@NeQuissimus](https://github.com/NeQuissimus)/[**circe-kafka**](https://github.com/NeQuissimus/circe-kafka)|Implicit conversion of Encoder and Decoder into Serializer/Deserializer/Serde||
 |21|[@dcaoyuan](https://github.com/dcaoyuan)/[**nbsbt**](https://github.com/dcaoyuan/nbsbt)|Plugin for sbt to create Netbeans project definition.||
 |21|[@mardambey](https://github.com/mardambey)/[**spiffy**](https://github.com/mardambey/spiffy)|Spiffy is a minimalistic framework for building HTTP services and web applications making use of Akka and Scala DSLs with emphasis on scalability and agility.||
-|20|[@MasseGuillaume](https://github.com/MasseGuillaume)/[**hands-on-scala-native**](https://github.com/MasseGuillaume/hands-on-scala-native)||[:arrow_upper_right:](https://masseguillaume.github.io/hands-on-scala-native-slides/#/)|
 |20|[@cvogt](https://github.com/cvogt)/[**migrations**](https://github.com/cvogt/migrations)|||
 |19|[@NeQuissimus](https://github.com/NeQuissimus)/[**zio-slf4j**](https://github.com/NeQuissimus/zio-slf4j)|Referentially transparent logging with slf4j||
 |19|[@brunoborges](https://github.com/brunoborges)/[**gamboa-project**](https://github.com/brunoborges/gamboa-project)|A Maven archetype for rapid web application development||
-|18|[@denisrosset](https://github.com/denisrosset)/[**alasc**](https://github.com/denisrosset/alasc)|Computational Group Theory in Scala. It's Scala permuted!||
+|19|[@denisrosset](https://github.com/denisrosset)/[**alasc**](https://github.com/denisrosset/alasc)|Computational Group Theory in Scala. It's Scala permuted!||
 |18|[@sentenza](https://github.com/sentenza)/[**hacktoberfest-scala-algorithms**](https://github.com/sentenza/hacktoberfest-scala-algorithms)|Algorithms and Data Structures in Scala - HacktoberFest 2019||
 |18|[@skrat](https://github.com/skrat)/[**sunflow**](https://github.com/skrat/sunflow)|Repository mirror of Sunflow photorealistic renderer|[:arrow_upper_right:](http://sunflow.sourceforge.net/)|
 |16|[@cvogt](https://github.com/cvogt)/[**slick-action**](https://github.com/cvogt/slick-action)|Automatic connection management and dependency tracking||
@@ -76,6 +76,7 @@
 |11|[@darienmt](https://github.com/darienmt)/[**kamon-logstash**](https://github.com/darienmt/kamon-logstash)|Kamon-logstash backend module||
 |11|[@dcaoyuan](https://github.com/dcaoyuan)/[**wandou-math**](https://github.com/dcaoyuan/wandou-math)|Varies libs for Math, including Time Series etc.||
 |11|[@knoldus](https://github.com/knoldus)/[**jwt-akka-http-example**](https://github.com/knoldus/jwt-akka-http-example)|Integrate JWT with Akka HTTP to handle Authentication and Authorization service .||
+|11|[@knoldus](https://github.com/knoldus)/[**spark-s3**](https://github.com/knoldus/spark-s3)|Spark Plugin for Amazon S3|[:arrow_upper_right:](http://spark-packages.org/package/knoldus/spark-s3)|
 |11|[@mardambey](https://github.com/mardambey)/[**guzzler**](https://github.com/mardambey/guzzler)|Stream MySQL binary logs and consume them with Scala actors (RabbitMQ, Kafka).||
 |10|[@500px](https://github.com/500px)/[**kinesis-stream**](https://github.com/500px/kinesis-stream)|Scala based wrapper for Kinesis Consumer Library which exposes the stream as an Akka Streams Source||
 |10|[@castorini](https://github.com/castorini)/[**Tweets2013-IA**](https://github.com/castorini/Tweets2013-IA)|The Tweets2013 Internet Archive collection||
@@ -83,7 +84,6 @@
 |10|[@cvogt](https://github.com/cvogt)/[**sbt-scalaparse**](https://github.com/cvogt/sbt-scalaparse)|sbt plugin for better parse errors using @lihaoyi's http://lihaoyi.github.io/fastparse/#ScalaParse||
 |10|[@jmcardon](https://github.com/jmcardon)/[**IOPort**](https://github.com/jmcardon/IOPort)|Scalaz8 IO without the big repo as a playground||
 |10|[@knoldus](https://github.com/knoldus)/[**FormDemoInPlay**](https://github.com/knoldus/FormDemoInPlay)|The play.api.data package contains several helpers to handle HTTP form data submission and validation.  This application would explain how  to design forms with validations in play2.0 using scala and how to communicate  with database using mongodb.||
-|10|[@knoldus](https://github.com/knoldus)/[**spark-s3**](https://github.com/knoldus/spark-s3)|Spark Plugin for Amazon S3|[:arrow_upper_right:](http://spark-packages.org/package/knoldus/spark-s3)|
 |10|[@knoldus](https://github.com/knoldus)/[**structured-streaming-application**](https://github.com/knoldus/structured-streaming-application)|Structured Streaming  is a reference application showing how to easily integrate structured streaming Apache Spark Structured Streaming, Apache Cassandra and Apache Kafka for fast, structured streaming computations on data.|[:arrow_upper_right:](https://spark-packages.org/package/knoldus/structured-streaming-application)|
 |9|[@ConnectedHomes](https://github.com/ConnectedHomes)/[**sqs-kafka-connect**](https://github.com/ConnectedHomes/sqs-kafka-connect)|Kafka connect source connector for SQS (public repo)||
 |9|[@edadma](https://github.com/edadma)/[**b-tree**](https://github.com/edadma/b-tree)|B+ Tree implementation in Scala||
@@ -163,6 +163,7 @@
 |3|[@denisrosset](https://github.com/denisrosset)/[**faacets-gamma**](https://github.com/denisrosset/faacets-gamma)|Faacets (gamma version)||
 |3|[@drozzy](https://github.com/drozzy)/[**parallel-discrete-event-akka**](https://github.com/drozzy/parallel-discrete-event-akka)|||
 |3|[@edadma](https://github.com/edadma)/[**scala-markdown**](https://github.com/edadma/scala-markdown)|Scala Github Flavored Markdown Processor||
+|3|[@edadma](https://github.com/edadma)/[**yaml**](https://github.com/edadma/yaml)|A YAML parser written in Scala||
 |3|[@fosskers](https://github.com/fosskers)/[**scalaz-vs-cats**](https://github.com/fosskers/scalaz-vs-cats)|Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).||
 |3|[@jmcardon](https://github.com/jmcardon)/[**LC_Crypto_Exercises**](https://github.com/jmcardon/LC_Crypto_Exercises)|||
 |3|[@knoldus](https://github.com/knoldus)/[**FormDemoInPlayWithMysql**](https://github.com/knoldus/FormDemoInPlayWithMysql)|How to connect a Play Application with Mysql as database in Scala.Play includes a simple data access layer called Anorm that uses plain SQL to interact with the database and provides an API to parse and transform the resulting datasets.||

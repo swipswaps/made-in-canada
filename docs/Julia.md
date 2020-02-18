@@ -1,9 +1,9 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|194|[@samuelcolvin](https://github.com/samuelcolvin)/[**JuliaByExample**](https://github.com/samuelcolvin/JuliaByExample)|Examples of Julia|[:arrow_upper_right:](https://juliabyexample.helpmanual.io/)|
+|195|[@samuelcolvin](https://github.com/samuelcolvin)/[**JuliaByExample**](https://github.com/samuelcolvin/JuliaByExample)|Examples of Julia|[:arrow_upper_right:](https://juliabyexample.helpmanual.io/)|
 |71|[@eschnett](https://github.com/eschnett)/[**SIMD.jl**](https://github.com/eschnett/SIMD.jl)|Explicit SIMD vector operations for Julia||
 |64|[@una-dinosauria](https://github.com/una-dinosauria)/[**local-search-quantization**](https://github.com/una-dinosauria/local-search-quantization)|State-of-the-art method for large-scale ANN search as of Oct 2016. Presented at ECCV 16.||
-|33|[@una-dinosauria](https://github.com/una-dinosauria)/[**Rayuela.jl**](https://github.com/una-dinosauria/Rayuela.jl)|Code for my PhD thesis. Library of quantization-based methods for fast similarity search in high dimensions. Presented at ECCV 18.||
+|34|[@una-dinosauria](https://github.com/una-dinosauria)/[**Rayuela.jl**](https://github.com/una-dinosauria/Rayuela.jl)|Code for my PhD thesis. Library of quantization-based methods for fast similarity search in high dimensions. Presented at ECCV 18.||
 |24|[@jiahao](https://github.com/jiahao)/[**GSL.jl**](https://github.com/jiahao/GSL.jl)|Julia interface to the GNU Scientific Library (GSL)||
 |19|[@jiahao](https://github.com/jiahao)/[**RandomMatrices.jl**](https://github.com/jiahao/RandomMatrices.jl)|Random matrices package for Julia||
 |15|[@jfsantos](https://github.com/jfsantos)/[**AuditoryFilters.jl**](https://github.com/jfsantos/AuditoryFilters.jl)|Auditory filterbanks in Julia||
