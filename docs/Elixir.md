@@ -1,18 +1,18 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |616|[@expede](https://github.com/expede)/[**witchcraft**](https://github.com/expede/witchcraft)|Monads and other dark magic for Elixir|[:arrow_upper_right:](https://hex.pm/packages/witchcraft)|
-|549|[@mirego](https://github.com/mirego)/[**accent**](https://github.com/mirego/accent)|▴ Open-source, self-hosted, developer-oriented translation tool|[:arrow_upper_right:](https://www.accent.reviews)|
-|382|[@mirego](https://github.com/mirego)/[**elixir-boilerplate**](https://github.com/mirego/elixir-boilerplate)|⚗ The stable base upon which we build our Elixir projects at Mirego.|[:arrow_upper_right:](https://open.mirego.com)|
-|344|[@joshnuss](https://github.com/joshnuss)/[**design-patterns-in-elixir**](https://github.com/joshnuss/design-patterns-in-elixir)|Common design patterns in Elixir||
-|332|[@jarednorman](https://github.com/jarednorman)/[**canada**](https://github.com/jarednorman/canada)|Easy permission definitions in Elixir apps!|[:arrow_upper_right:](https://github.com/jarednorman/canada)|
+|553|[@mirego](https://github.com/mirego)/[**accent**](https://github.com/mirego/accent)|▴ Open-source, self-hosted, developer-oriented translation tool|[:arrow_upper_right:](https://www.accent.reviews)|
+|385|[@mirego](https://github.com/mirego)/[**elixir-boilerplate**](https://github.com/mirego/elixir-boilerplate)|⚗ The stable base upon which we build our Elixir projects at Mirego.|[:arrow_upper_right:](https://open.mirego.com)|
+|346|[@joshnuss](https://github.com/joshnuss)/[**design-patterns-in-elixir**](https://github.com/joshnuss/design-patterns-in-elixir)|Common design patterns in Elixir||
+|336|[@jarednorman](https://github.com/jarednorman)/[**canada**](https://github.com/jarednorman/canada)|Easy permission definitions in Elixir apps!|[:arrow_upper_right:](https://github.com/jarednorman/canada)|
 |240|[@expede](https://github.com/expede)/[**quark**](https://github.com/expede/quark)|Common combinators for Elixir|[:arrow_upper_right:](https://hex.pm/packages/quark)|
 |220|[@expede](https://github.com/expede)/[**exceptional**](https://github.com/expede/exceptional)|Helpers for Elixir exceptions|[:arrow_upper_right:](https://hex.pm/packages/exceptional)|
 |197|[@expede](https://github.com/expede)/[**algae**](https://github.com/expede/algae)|Bootstrapped algebraic data types for Elixir|[:arrow_upper_right:](https://hex.pm/packages/algae)|
 |185|[@jkakar](https://github.com/jkakar)/[**aws-elixir**](https://github.com/jkakar/aws-elixir)|AWS clients for Elixir||
-|155|[@joshnuss](https://github.com/joshnuss)/[**commerce_billing**](https://github.com/joshnuss/commerce_billing)|A payment processing library for Elixir||
+|156|[@joshnuss](https://github.com/joshnuss)/[**commerce_billing**](https://github.com/joshnuss/commerce_billing)|A payment processing library for Elixir||
 |154|[@talentdeficit](https://github.com/talentdeficit)/[**exjsx**](https://github.com/talentdeficit/exjsx)|json for elixir||
 |136|[@GesJeremie](https://github.com/GesJeremie)/[**faker-elixir**](https://github.com/GesJeremie/faker-elixir)|:droplet: FakerElixir generates fake data for you. |[:arrow_upper_right:](https://hexdocs.pm/faker_elixir_octopus/FakerElixir.html)|
-|116|[@joshnuss](https://github.com/joshnuss)/[**xml_builder**](https://github.com/joshnuss/xml_builder)|Elixir library for generating XML||
+|117|[@joshnuss](https://github.com/joshnuss)/[**xml_builder**](https://github.com/joshnuss/xml_builder)|Elixir library for generating XML||
 |82|[@expede](https://github.com/expede)/[**type_class**](https://github.com/expede/type_class)|(Semi-)principled type classes for Elixir|[:arrow_upper_right:](https://hex.pm/packages/type_class)|
 |70|[@jarednorman](https://github.com/jarednorman)/[**bugsnag-elixir**](https://github.com/jarednorman/bugsnag-elixir)|An Elixir interface to the Bugsnag API|[:arrow_upper_right:](https://hex.pm/packages/bugsnag)|
 |64|[@matehat](https://github.com/matehat)/[**cqex**](https://github.com/matehat/cqex)|Idiomatic Cassandra client for Elixir||
@@ -25,8 +25,8 @@
 |46|[@ChrisYammine](https://github.com/ChrisYammine)/[**ex_trello**](https://github.com/ChrisYammine/ex_trello)|An Elixir library for interfacing with the Trello API||
 |45|[@yrashk](https://github.com/yrashk)/[**genx**](https://github.com/yrashk/genx)|Elixir-style library for most important OTP functionality||
 |44|[@GBH](https://github.com/GBH)/[**loaded.bike**](https://github.com/GBH/loaded.bike)|Phoenix/Elixir web app for exploring and sharing bicycle touring routes|[:arrow_upper_right:](http://loaded.bike)|
+|38|[@mirego](https://github.com/mirego)/[**absinthe_error_payload**](https://github.com/mirego/absinthe_error_payload)|Bridges the gap between Ecto and Absinthe for mutation payload|[:arrow_upper_right:](https://open.mirego.com)|
 |36|[@jkakar](https://github.com/jkakar)/[**aws-codegen**](https://github.com/jkakar/aws-codegen)|Code generator for AWS clients in Elixir.||
-|36|[@mirego](https://github.com/mirego)/[**absinthe_error_payload**](https://github.com/mirego/absinthe_error_payload)|Bridges the gap between Ecto and Absinthe for mutation payload|[:arrow_upper_right:](https://open.mirego.com)|
 |35|[@mirego](https://github.com/mirego)/[**credo_naming**](https://github.com/mirego/credo_naming)|🏷 A suite of Credo checks to enforce naming best practices in an Elixir project|[:arrow_upper_right:](https://open.mirego.com)|
 |32|[@GBH](https://github.com/GBH)/[**phoenix_bootstrap_form**](https://github.com/GBH/phoenix_bootstrap_form)|Bootstrap 4 Forms for Phoenix/Elixir Applications||
 |31|[@mirego](https://github.com/mirego)/[**credo_filename_consistency**](https://github.com/mirego/credo_filename_consistency)|📚 A Credo check to ensure filename consistency across an Elixir project|[:arrow_upper_right:](https://open.mirego.com)|
@@ -37,9 +37,9 @@
 |22|[@ttvd](https://github.com/ttvd)/[**elixir-xxhash**](https://github.com/ttvd/elixir-xxhash)|Pure Elixir implementation of xxHash.||
 |19|[@amacgregor](https://github.com/amacgregor)/[**crimson_commerce**](https://github.com/amacgregor/crimson_commerce)|Experimental Ecommerce Platform build with Elixir and Phoenix||
 |18|[@eljojo](https://github.com/eljojo)/[**ex_chain**](https://github.com/eljojo/ex_chain)|Simple Markov Chain written in Elixir||
+|18|[@joshnuss](https://github.com/joshnuss)/[**xuber2**](https://github.com/joshnuss/xuber2)|An example ridesharing app built with Elixir||
 |17|[@yrashk](https://github.com/yrashk)/[**properex**](https://github.com/yrashk/properex)|PropEr support for Elixir||
 |16|[@aforward](https://github.com/aforward)/[**safetybox**](https://github.com/aforward/safetybox)|Security oriented helper functions for Elixir||
-|16|[@joshnuss](https://github.com/joshnuss)/[**xuber2**](https://github.com/joshnuss/xuber2)|An example ridesharing app built with Elixir||
 |15|[@aforward](https://github.com/aforward)/[**version_tasks**](https://github.com/aforward/version_tasks)|elixir mix task to automate the incrementation of your project||
 |15|[@mirego](https://github.com/mirego)/[**dispatch**](https://github.com/mirego/dispatch)|🦀 Dispatch makes sure pull requests within a GitHub organization get reviewed by the right people.|[:arrow_upper_right:](https://open.mirego.com)|
 |14|[@expede](https://github.com/expede)/[**operator**](https://github.com/expede/operator)|Helpers for defining Elixir operators||
@@ -112,6 +112,7 @@
 |3|[@houshuang](https://github.com/houshuang)/[**ot_text**](https://github.com/houshuang/ot_text)|||
 |3|[@jarednorman](https://github.com/jarednorman)/[**dismake**](https://github.com/jarednorman/dismake)|a "compiler" (as in `Mix.compilers`) for Elixir that just runs make||
 |3|[@jkakar](https://github.com/jkakar)/[**alchemist**](https://github.com/jkakar/alchemist)|Carefully refactor critical paths.||
+|3|[@joshnuss](https://github.com/joshnuss)/[**nmea**](https://github.com/joshnuss/nmea)|Parser for NMEA compliant sensors||
 |3|[@joshnuss](https://github.com/joshnuss)/[**xuber**](https://github.com/joshnuss/xuber)|Demo of Phoenix Channels + GeoLocation API||
 |3|[@jpittis](https://github.com/jpittis)/[**propagators**](https://github.com/jpittis/propagators)|An implementation of Alexey Radul and Gerald Jay Sussman's Propagators.||
 |3|[@levex](https://github.com/levex)/[**elixir-syscall**](https://github.com/levex/elixir-syscall)|Make system calls in Elixir! This is syscall module for Elixir (https://elixir-lang.org/)|[:arrow_upper_right:](http://osdev.me/)|

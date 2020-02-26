@@ -1,10 +1,10 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
 |758|[@macournoyer](https://github.com/macournoyer)/[**neuralconvo**](https://github.com/macournoyer/neuralconvo)|Neural conversational model in Torch||
-|492|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
-|488|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
+|494|[@karai17](https://github.com/karai17)/[**Simple-Tiled-Implementation**](https://github.com/karai17/Simple-Tiled-Implementation)|Tiled library for LÖVE||
+|493|[@AmrEldib](https://github.com/AmrEldib)/[**cmder-powerline-prompt**](https://github.com/AmrEldib/cmder-powerline-prompt)|Custom prompt for Cmder on Windows||
 |353|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**dp**](https://github.com/nicholas-leonard/dp)|A deep learning library for streamlining research and development using the Torch7 distribution.||
-|300|[@fangchangma](https://github.com/fangchangma)/[**sparse-to-dense**](https://github.com/fangchangma/sparse-to-dense)|ICRA 2018  "Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image" (Torch Implementation)||
+|301|[@fangchangma](https://github.com/fangchangma)/[**sparse-to-dense**](https://github.com/fangchangma/sparse-to-dense)|ICRA 2018  "Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image" (Torch Implementation)||
 |150|[@saks](https://github.com/saks)/[**lua-resty-repl**](https://github.com/saks/lua-resty-repl)|Interactive console (REPL) for Openresty and luajit code||
 |107|[@castorini](https://github.com/castorini)/[**MP-CNN-Torch**](https://github.com/castorini/MP-CNN-Torch)|Multi-Perspective Convolutional Neural Networks for modeling textual similarity (He et al., EMNLP 2015)||
 |96|[@forhappy](https://github.com/forhappy)/[**zklua**](https://github.com/forhappy/zklua)|Lua binding of apache zookeeper.||
@@ -31,10 +31,10 @@
 |13|[@joezeng](https://github.com/joezeng)/[**cambridge-v0.1**](https://github.com/joezeng/cambridge-v0.1)|An open-source falling-block game engine!||
 |12|[@pelevesque](https://github.com/pelevesque)/[**gamemath**](https://github.com/pelevesque/gamemath)|A collection of Lua math functions useful for video games.||
 |12|[@saks](https://github.com/saks)/[**lua-resty-newrelic**](https://github.com/saks/lua-resty-newrelic)|This Lua library is a luajit ffi-based wrapper around newrelic agent SDK for the ngx_lua nginx module||
+|11|[@ARitz-Cracker](https://github.com/ARitz-Cracker)/[**ARCBank**](https://github.com/ARitz-Cracker/ARCBank)|An ATM system for Garry's Mod||
 |11|[@james2doyle](https://github.com/james2doyle)/[**Lico**](https://github.com/james2doyle/Lico)|Lico is Pico re-written using Luvit for Lua||
 |11|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**slides**](https://github.com/nicholas-leonard/slides)|Presentations||
 |11|[@vocksel](https://github.com/vocksel)/[**prefabs**](https://github.com/vocksel/prefabs)|Roblox plugin for making reuseable assets and keeping them in sync across your game||
-|10|[@ARitz-Cracker](https://github.com/ARitz-Cracker)/[**ARCBank**](https://github.com/ARitz-Cracker/ARCBank)|An ATM system for Garry's Mod||
 |10|[@ashleydavies](https://github.com/ashleydavies)/[**EGS**](https://github.com/ashleydavies/EGS)|||
 |10|[@sam-github](https://github.com/sam-github)/[**lunit**](https://github.com/sam-github/lunit)|unit testing for lua||
 |10|[@travisjeffery](https://github.com/travisjeffery)/[**awesome-wm**](https://github.com/travisjeffery/awesome-wm)|My configuration of the awesome window manager.||

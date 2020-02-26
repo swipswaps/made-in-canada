@@ -9,9 +9,9 @@
 |34|[@inaimathi](https://github.com/inaimathi)/[**cl-css**](https://github.com/inaimathi/cl-css)|Non-validating, inline CSS generator for Common Lisp||
 |32|[@tokenrove](https://github.com/tokenrove)/[**series**](https://github.com/tokenrove/series)|unofficial mirror of git://git.code.sf.net/p/series/series (Richard C. Waters' SERIES package for Common Lisp)|[:arrow_upper_right:](http://series.sourceforge.net/)|
 |27|[@mck-](https://github.com/mck-)/[**oneliner**](https://github.com/mck-/oneliner)|Extracts a one-liner from a piece of text.||
+|26|[@tokenrove](https://github.com/tokenrove)/[**anaphora**](https://github.com/tokenrove/anaphora)|The anaphoric macro collection from Hell|[:arrow_upper_right:](https://common-lisp.net/project/anaphora/)|
 |25|[@atgreen](https://github.com/atgreen)/[**lisp-openshift**](https://github.com/atgreen/lisp-openshift)|Run sbcl-powered lisp-based web apps on Red Hat's OpenShift|[:arrow_upper_right:](http://lisp2-atgreen.rhcloud.com)|
 |25|[@burtonsamograd](https://github.com/burtonsamograd)/[**sigil**](https://github.com/burtonsamograd/sigil)|A Parenscript to Javascript command line compiler and interpreter.||
-|25|[@tokenrove](https://github.com/tokenrove)/[**anaphora**](https://github.com/tokenrove/anaphora)|The anaphoric macro collection from Hell|[:arrow_upper_right:](https://common-lisp.net/project/anaphora/)|
 |21|[@inaimathi](https://github.com/inaimathi)/[**house**](https://github.com/inaimathi/house)|Minimal asynchronous CL web server||
 |19|[@inaimathi](https://github.com/inaimathi)/[**formlets**](https://github.com/inaimathi/formlets)|Automatically validating formlets for Hunchentoot + cl-who||
 |18|[@inaimathi](https://github.com/inaimathi)/[**fact-base**](https://github.com/inaimathi/fact-base)|Implementation of fact bases for Common Lisp||
@@ -21,9 +21,9 @@
 |11|[@thephoeron](https://github.com/thephoeron)/[**cl-isaac**](https://github.com/thephoeron/cl-isaac)|Optimized Common Lisp version of Bob Jenkins' ISAAC-32 and ISAAC-64 algorithms, fast cryptographic random number generators.||
 |11|[@thephoeron](https://github.com/thephoeron)/[**silver-sword**](https://github.com/thephoeron/silver-sword)|Common Lisp interface to D-Wave's Python Pack for adiabatic quantum computer energy programming|[:arrow_upper_right:](http://thephoeron.viewdocs.io/silver-sword)|
 |10|[@tokenrove](https://github.com/tokenrove)/[**imago**](https://github.com/tokenrove/imago)|image manipulation library for Common Lisp|[:arrow_upper_right:](http://common-lisp.net/project/imago)|
+|8|[@bbc](https://github.com/bbc)/[**bbcrd-brirs**](https://github.com/bbc/bbcrd-brirs)| An impulse response dataset for dynamic data-based auralisation of advanced sound systems||
 |8|[@thephoeron](https://github.com/thephoeron)/[**cl-edn**](https://github.com/thephoeron/cl-edn)|Common Lisp serialization library for the EDN format||
 |7|[@atgreen](https://github.com/atgreen)/[**wrapilator**](https://github.com/atgreen/wrapilator)|Wraps verilator output in Common Lisp for testing digital logic in Lisp||
-|7|[@bbc](https://github.com/bbc)/[**bbcrd-brirs**](https://github.com/bbc/bbcrd-brirs)| An impulse response dataset for dynamic data-based auralisation of advanced sound systems||
 |7|[@burtonsamograd](https://github.com/burtonsamograd)/[**med**](https://github.com/burtonsamograd/med)|med - A fork of the emacs-like text editor for the Mezzano operating system||
 |6|[@burtonsamograd](https://github.com/burtonsamograd)/[**autograph**](https://github.com/burtonsamograd/autograph)|Autograph is a CSS generation language that uses s-expressions for styling rules and allows for the use of variables and functions written in Common Lisp.||
 |6|[@inaimathi](https://github.com/inaimathi)/[**cl-congregate**](https://github.com/inaimathi/cl-congregate)|A service and protocol for coordinating recurring get-togethers between many humans||
@@ -41,6 +41,7 @@
 |4|[@Hexstream](https://github.com/Hexstream)/[**definitions-systems**](https://github.com/Hexstream/definitions-systems)|Provides a simple unified extensible way of processing named definitions.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/definitions-systems/)|
 |4|[@Hexstream](https://github.com/Hexstream)/[**place-utils**](https://github.com/Hexstream/place-utils)|Provides a few utilities relating to setfable places.|[:arrow_upper_right:](https://www.hexstreamsoft.com/libraries/place-utils/)|
 |4|[@burtonsamograd](https://github.com/burtonsamograd)/[**typed-cl**](https://github.com/burtonsamograd/typed-cl)|Easier type declerations for for Common Lisp.||
+|4|[@inaimathi](https://github.com/inaimathi)/[**cl-web-dev**](https://github.com/inaimathi/cl-web-dev)|Minor utilities for web development in Common Lisp||
 |4|[@thephoeron](https://github.com/thephoeron)/[**cl-cuneiform**](https://github.com/thephoeron/cl-cuneiform)|Common Lisp library for handling and parsing unicode Sumerian and Akkadian cuneiform signs, and their ASCII and Latin representations||
 |4|[@thephoeron](https://github.com/thephoeron)/[**cl-datalog**](https://github.com/thephoeron/cl-datalog)|A Common Lisp DSL for Datalog: the declarative logic programming language||
 |4|[@tokenrove](https://github.com/tokenrove)/[**m68k-assembler**](https://github.com/tokenrove/m68k-assembler)|A simple, mostly-DevPAC-compatible assembler for the Motorola 68k series of proccessors.||
@@ -55,7 +56,6 @@
 |3|[@bzgeb](https://github.com/bzgeb)/[**Sudoku-Wizard**](https://github.com/bzgeb/Sudoku-Wizard)|A propositional logic based sudoku solver. Developed in Common Lisp.||
 |3|[@inaimathi](https://github.com/inaimathi)/[**cl-chan**](https://github.com/inaimathi/cl-chan)|A message/image board (eventually) written in Common Lisp, mainly for tutorial purposes||
 |3|[@inaimathi](https://github.com/inaimathi)/[**cl-mop**](https://github.com/inaimathi/cl-mop)|Some basic, portable CLOS-related tools.||
-|3|[@inaimathi](https://github.com/inaimathi)/[**cl-web-dev**](https://github.com/inaimathi/cl-web-dev)|Minor utilities for web development in Common Lisp||
 |3|[@inaimathi](https://github.com/inaimathi)/[**deal**](https://github.com/inaimathi/deal)|A simple playtesting/prototyping tool for physical card games||
 |3|[@inaimathi](https://github.com/inaimathi)/[**lem**](https://github.com/inaimathi/lem)|A quick prototype/toy with which I try to think about robustness-first computing||
 |3|[@inaimathi](https://github.com/inaimathi)/[**strifebarge**](https://github.com/inaimathi/strifebarge)|an HTTP, multiplayer implementation of the classic Battleship game||

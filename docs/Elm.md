@@ -2,7 +2,7 @@
 |---|---|---|---|
 |170|[@ktonon](https://github.com/ktonon)/[**elm-serverless**](https://github.com/ktonon/elm-serverless)|Maintained at: https://github.com/the-sett/elm-serverless||
 |62|[@jadpole](https://github.com/jadpole)/[**jadpole.github.io**](https://github.com/jadpole/jadpole.github.io)||[:arrow_upper_right:](https://jadpole.github.io)|
-|41|[@jxxcarlson](https://github.com/jxxcarlson)/[**minilatex**](https://github.com/jxxcarlson/minilatex)|parse MiniLaTeX source text and render it into HTML||
+|42|[@jxxcarlson](https://github.com/jxxcarlson)/[**minilatex**](https://github.com/jxxcarlson/minilatex)|parse MiniLaTeX source text and render it into HTML|[:arrow_upper_right:](https://demo.minilatex.app/)|
 |29|[@diogob](https://github.com/diogob)/[**elm-workshop**](https://github.com/diogob/elm-workshop)|Elm + PostgREST workshop, building a simple database query user interface.||
 |18|[@pzp1997](https://github.com/pzp1997)/[**assoc-list**](https://github.com/pzp1997/assoc-list)|Dictionary with custom keys implemented using association lists|[:arrow_upper_right:](https://package.elm-lang.org/packages/pzp1997/assoc-list/latest/)|
 |17|[@ktonon](https://github.com/ktonon)/[**elm-serverless-demo**](https://github.com/ktonon/elm-serverless-demo)|elm-serverless demo for latest release||
@@ -24,12 +24,12 @@
 |4|[@akbiggs](https://github.com/akbiggs)/[**elm-example-platformer**](https://github.com/akbiggs/elm-example-platformer)|Platformer game being developed on stream.||
 |4|[@brettcannon](https://github.com/brettcannon)/[**time-clock**](https://github.com/brettcannon/time-clock)|A simple, one-page time/punch clock web app|[:arrow_upper_right:](http://time-clock.surge.sh/)|
 |4|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-microbialLife**](https://github.com/jxxcarlson/elm-microbialLife)|Simulation of microbial life in Elm||
-|4|[@jxxcarlson](https://github.com/jxxcarlson)/[**meenylatex**](https://github.com/jxxcarlson/meenylatex)|Experimental version of MiniLatex package||
+|4|[@jxxcarlson](https://github.com/jxxcarlson)/[**meenylatex**](https://github.com/jxxcarlson/meenylatex)|Experimental version of MiniLatex package|[:arrow_upper_right:](https://demo.minilatex.app/)|
 |4|[@ktonon](https://github.com/ktonon)/[**elm-test-extra**](https://github.com/ktonon/elm-test-extra)|Write concise tests for JSON decoders and more||
 |3|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**ElmObjParser**](https://github.com/JoeyEremondi/ElmObjParser)|OBJ parsing and rendering tools for Elm||
 |3|[@akbiggs](https://github.com/akbiggs)/[**elm-effects**](https://github.com/akbiggs/elm-effects)|Package for broadcasting messages to parent components and side-effects.||
 |3|[@dat2](https://github.com/dat2)/[**elm-tile-game**](https://github.com/dat2/elm-tile-game)|A tile game written in elm||
-|3|[@jxxcarlson](https://github.com/jxxcarlson)/[**MiniLatexLive**](https://github.com/jxxcarlson/MiniLatexLive)|Very small editor/renderer for MiniLatex||
+|3|[@jxxcarlson](https://github.com/jxxcarlson)/[**MiniLatexLive**](https://github.com/jxxcarlson/MiniLatexLive)|Very small editor/renderer for MiniLatex|[:arrow_upper_right:](https://demo.minilatex.app/)|
 |3|[@jxxcarlson](https://github.com/jxxcarlson)/[**elm-tar**](https://github.com/jxxcarlson/elm-tar)|Elm library for creating tar files||
 |3|[@jxxcarlson](https://github.com/jxxcarlson)/[**minilatexDemo**](https://github.com/jxxcarlson/minilatexDemo)|Demo Elm app for MiniLatex||
 |3|[@jxxcarlson](https://github.com/jxxcarlson)/[**nautilus**](https://github.com/jxxcarlson/nautilus)|Generate Nautilus image using Elm||

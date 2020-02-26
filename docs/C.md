@@ -1,92 +1,92 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|2445|[@tj](https://github.com/tj)/[**luna**](https://github.com/tj/luna)|luna programming language - a small, elegant VM implemented in C||
-|1845|[@glouw](https://github.com/glouw)/[**tinn**](https://github.com/glouw/tinn)|A tiny neural network library||
+|2446|[@tj](https://github.com/tj)/[**luna**](https://github.com/tj/luna)|luna programming language - a small, elegant VM implemented in C||
+|1851|[@glouw](https://github.com/glouw)/[**tinn**](https://github.com/glouw/tinn)|A tiny neural network library||
 |1761|[@Picovoice](https://github.com/Picovoice)/[**Porcupine**](https://github.com/Picovoice/Porcupine)|On-device wake word detection powered by deep learning.|[:arrow_upper_right:](https://picovoice.ai/)|
-|1658|[@jhawthorn](https://github.com/jhawthorn)/[**fzy**](https://github.com/jhawthorn/fzy)|:mag: A simple, fast fuzzy finder for the terminal||
-|1181|[@hoytech](https://github.com/hoytech)/[**vmtouch**](https://github.com/hoytech/vmtouch)|Portable file system cache diagnostics and control|[:arrow_upper_right:](https://hoytech.com/vmtouch/)|
-|1018|[@tj](https://github.com/tj)/[**mon**](https://github.com/tj/mon)|mon(1) - Simple single-process process monitoring program written in C||
-|940|[@c-smile](https://github.com/c-smile)/[**sciter-sdk**](https://github.com/c-smile/sciter-sdk)|Sciter is an embeddable HTML/CSS/scripting engine|[:arrow_upper_right:](http://sciter.com)|
-|835|[@defuse](https://github.com/defuse)/[**swatd**](https://github.com/defuse/swatd)|Run a script when one or more sensors fail.||
+|1664|[@jhawthorn](https://github.com/jhawthorn)/[**fzy**](https://github.com/jhawthorn/fzy)|:mag: A simple, fast fuzzy finder for the terminal||
+|1186|[@hoytech](https://github.com/hoytech)/[**vmtouch**](https://github.com/hoytech/vmtouch)|Portable file system cache diagnostics and control|[:arrow_upper_right:](https://hoytech.com/vmtouch/)|
+|1020|[@tj](https://github.com/tj)/[**mon**](https://github.com/tj/mon)|mon(1) - Simple single-process process monitoring program written in C||
+|942|[@c-smile](https://github.com/c-smile)/[**sciter-sdk**](https://github.com/c-smile/sciter-sdk)|Sciter is an embeddable HTML/CSS/scripting engine|[:arrow_upper_right:](http://sciter.com)|
+|834|[@defuse](https://github.com/defuse)/[**swatd**](https://github.com/defuse/swatd)|Run a script when one or more sensors fail.||
 |722|[@glouw](https://github.com/glouw)/[**littlewolf**](https://github.com/glouw/littlewolf)|A tiny software graphics and game engine|[:arrow_upper_right:](http://glouw.com/2018/03/11/littlewolf.html)|
 |694|[@tj](https://github.com/tj)/[**histo**](https://github.com/tj/histo)|beautiful charts in the terminal for static or streaming data||
-|641|[@lavoiesl](https://github.com/lavoiesl)/[**osx-cpu-temp**](https://github.com/lavoiesl/osx-cpu-temp)|Outputs current CPU temperature for OSX||
-|518|[@babelouest](https://github.com/babelouest)/[**ulfius**](https://github.com/babelouest/ulfius)|Web Framework to build REST APIs, Webservices or any HTTP endpoint in C language. Can stream large amount of data, integrate JSON data with Jansson, and create websocket services|[:arrow_upper_right:](http://babelouest.github.io/ulfius/)|
+|643|[@lavoiesl](https://github.com/lavoiesl)/[**osx-cpu-temp**](https://github.com/lavoiesl/osx-cpu-temp)|Outputs current CPU temperature for OSX||
+|519|[@babelouest](https://github.com/babelouest)/[**ulfius**](https://github.com/babelouest/ulfius)|Web Framework to build REST APIs, Webservices or any HTTP endpoint in C language. Can stream large amount of data, integrate JSON data with Jansson, and create websocket services|[:arrow_upper_right:](http://babelouest.github.io/ulfius/)|
 |470|[@glouw](https://github.com/glouw)/[**gel**](https://github.com/glouw/gel)|An N64-like software renderer|[:arrow_upper_right:](http://glouw.com/2017/11/12/gel.html)|
 |464|[@sam-github](https://github.com/sam-github)/[**libnet**](https://github.com/sam-github/libnet)|libnet provides a portable framework for low-level network packet construction.|[:arrow_upper_right:](https://sourceforge.net/projects/libnet-dev/)|
-|437|[@macournoyer](https://github.com/macournoyer)/[**tinyrb**](https://github.com/macournoyer/tinyrb)|A tiny subset of Ruby with a Lua'esc VM|[:arrow_upper_right:](http://code.macournoyer.com/tinyrb/)|
+|436|[@macournoyer](https://github.com/macournoyer)/[**tinyrb**](https://github.com/macournoyer/tinyrb)|A tiny subset of Ruby with a Lua'esc VM|[:arrow_upper_right:](http://code.macournoyer.com/tinyrb/)|
 |420|[@tj](https://github.com/tj)/[**watch**](https://github.com/tj/watch)|watch(1) periodically executes the given command - useful for auto-testing, auto-building, auto-anything ||
-|380|[@pramsey](https://github.com/pramsey)/[**pgsql-http**](https://github.com/pramsey/pgsql-http)|HTTP client for PostgreSQL, retrieve a web page from inside the database.||
-|371|[@glouw](https://github.com/glouw)/[**openempires**](https://github.com/glouw/openempires)|An Age of Empires II Genie Engine implementation||
+|382|[@pramsey](https://github.com/pramsey)/[**pgsql-http**](https://github.com/pramsey/pgsql-http)|HTTP client for PostgreSQL, retrieve a web page from inside the database.||
+|373|[@glouw](https://github.com/glouw)/[**openempires**](https://github.com/glouw/openempires)|An Age of Empires II Genie Engine implementation||
 |371|[@lemire](https://github.com/lemire)/[**Code-used-on-Daniel-Lemire-s-blog**](https://github.com/lemire/Code-used-on-Daniel-Lemire-s-blog)|This is a repository for the code posted on my blog|[:arrow_upper_right:](http://lemire.me/blog/)|
 |316|[@thestinger](https://github.com/thestinger)/[**linux-hardened**](https://github.com/thestinger/linux-hardened)|Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable history. Shared IRC channel with KSPP: irc.freenode.net ##linux-hardened||
+|307|[@lemire](https://github.com/lemire)/[**simdcomp**](https://github.com/lemire/simdcomp)|A simple C library for compressing lists of integers using binary packing||
+|306|[@dstndstn](https://github.com/dstndstn)/[**astrometry.net**](https://github.com/dstndstn/astrometry.net)|Astrometry.net -- automatic recognition of astronomical images|[:arrow_upper_right:](http://astrometry.net)|
 |306|[@petermichaux](https://github.com/petermichaux)/[**bootstrap-scheme**](https://github.com/petermichaux/bootstrap-scheme)|A quick and very dirty Scheme interpereter.|[:arrow_upper_right:](http://peter.michaux.ca/articles/scheme-from-scratch-introduction)|
-|305|[@dstndstn](https://github.com/dstndstn)/[**astrometry.net**](https://github.com/dstndstn/astrometry.net)|Astrometry.net -- automatic recognition of astronomical images|[:arrow_upper_right:](http://astrometry.net)|
-|305|[@lemire](https://github.com/lemire)/[**simdcomp**](https://github.com/lemire/simdcomp)|A simple C library for compressing lists of integers using binary packing||
 |289|[@thestinger](https://github.com/thestinger)/[**playpen**](https://github.com/thestinger/playpen)|A secure application sandbox built with modern Linux sandboxing features - no longer actively developed, but still works fine, use bubblewrap if you need more functionality||
 |280|[@lemire](https://github.com/lemire)/[**fastbase64**](https://github.com/lemire/fastbase64)|SIMD-accelerated base64 codecs||
 |247|[@msantos](https://github.com/msantos)/[**procket**](https://github.com/msantos/procket)|Erlang interface to low level socket operations|[:arrow_upper_right:](http://blog.listincomprehension.com/search/label/procket)|
-|237|[@lemire](https://github.com/lemire)/[**fastvalidate-utf-8**](https://github.com/lemire/fastvalidate-utf-8)|header-only library to validate utf-8 strings at high speeds (using SIMD instructions)||
-|212|[@dukebw](https://github.com/dukebw)/[**lintel**](https://github.com/dukebw/lintel)|A Python module to decode video frames directly, using the FFmpeg C API.||
+|239|[@lemire](https://github.com/lemire)/[**fastvalidate-utf-8**](https://github.com/lemire/fastvalidate-utf-8)|header-only library to validate utf-8 strings at high speeds (using SIMD instructions)||
+|214|[@dukebw](https://github.com/dukebw)/[**lintel**](https://github.com/dukebw/lintel)|A Python module to decode video frames directly, using the FFmpeg C API.||
 |204|[@lpan](https://github.com/lpan)/[**viw**](https://github.com/lpan/viw)|VI Worsened, a lightweight and fun VI clone.|[:arrow_upper_right:](http://lpan.io/what-i-learnt-from-viw/)|
 |197|[@burtonsamograd](https://github.com/burtonsamograd)/[**sxc**](https://github.com/burtonsamograd/sxc)|sxc is an 'S-Expression C' transpiler for generating C code using macros written in Common Lisp||
 |197|[@lemire](https://github.com/lemire)/[**clhash**](https://github.com/lemire/clhash)|C library implementing the ridiculously fast CLHash  hashing function||
-|192|[@lemire](https://github.com/lemire)/[**fastrange**](https://github.com/lemire/fastrange)|A fast alternative to the modulo reduction||
+|193|[@lemire](https://github.com/lemire)/[**fastrange**](https://github.com/lemire/fastrange)|A fast alternative to the modulo reduction||
 |174|[@eoscanada](https://github.com/eoscanada)/[**eos-bios**](https://github.com/eoscanada/eos-bios)|DEPRECATED: use `eosc boot` now. Historically: Orchestrator for a decentralized EOS.IO blockchain network boot|[:arrow_upper_right:](https://eosc.app)|
-|171|[@wvanbergen](https://github.com/wvanbergen)/[**oily_png**](https://github.com/wvanbergen/oily_png)|Native mixin to speed up ChunkyPNG.|[:arrow_upper_right:](http://www.chunkypng.com)|
-|167|[@babelouest](https://github.com/babelouest)/[**glewlwyd**](https://github.com/babelouest/glewlwyd)|Single Sign On server, OAuth2, Openid Connect, multiple factor authentication with, HOTP/TOTP, FIDO2, TLS Certificates, etc. extensible via plugins|[:arrow_upper_right:](https://babelouest.github.io/glewlwyd/)|
+|172|[@wvanbergen](https://github.com/wvanbergen)/[**oily_png**](https://github.com/wvanbergen/oily_png)|Native mixin to speed up ChunkyPNG.|[:arrow_upper_right:](http://www.chunkypng.com)|
+|170|[@babelouest](https://github.com/babelouest)/[**glewlwyd**](https://github.com/babelouest/glewlwyd)|Single Sign On server, OAuth2, Openid Connect, multiple factor authentication with, HOTP/TOTP, FIDO2, TLS Certificates, etc. extensible via plugins|[:arrow_upper_right:](https://babelouest.github.io/glewlwyd/)|
 |162|[@ajkhoury](https://github.com/ajkhoury)/[**UEFI-Bootkit**](https://github.com/ajkhoury/UEFI-Bootkit)|A small bootkit which does not rely on x64 assembly.||
 |159|[@acangiano](https://github.com/acangiano)/[**ruby-benchmark-suite**](https://github.com/acangiano/ruby-benchmark-suite)|A set of Ruby benchmarks for testing Ruby implementations.|[:arrow_upper_right:](http://groups.google.com/group/ruby-benchmark-suite)|
-|157|[@defuse](https://github.com/defuse)/[**sockstress**](https://github.com/defuse/sockstress)|Sockstress (TCP DoS) implementation.||
+|158|[@defuse](https://github.com/defuse)/[**sockstress**](https://github.com/defuse/sockstress)|Sockstress (TCP DoS) implementation.||
 |153|[@msantos](https://github.com/msantos)/[**epcap**](https://github.com/msantos/epcap)|Erlang packet capture interface using pcap|[:arrow_upper_right:](http://listincomprehension.com/2009/12/erlang-packet-sniffer-using-ei-and.html)|
 |152|[@pzp1997](https://github.com/pzp1997)/[**elm-ios**](https://github.com/pzp1997/elm-ios)|Bringing the wonders of Elm to the iOS platform|[:arrow_upper_right:](https://summerofcode.withgoogle.com/archive/2017/projects/5097842980945920/)|
 |144|[@phuang](https://github.com/phuang)/[**ibus**](https://github.com/phuang/ibus)|Intelligent Input Bus for Linux/Unix|[:arrow_upper_right:](http://code.google.com/p/ibus/)|
-|142|[@JulNadeauCA](https://github.com/JulNadeauCA)/[**libagar**](https://github.com/JulNadeauCA/libagar)|Cross-Platform GUI Toolkit (stable)|[:arrow_upper_right:](http://libagar.org/)|
-|142|[@burke](https://github.com/burke)/[**matcher**](https://github.com/burke/matcher)|[abandoned] Intelligently searches through a list of file names for the one you were probably looking for.||
+|143|[@JulNadeauCA](https://github.com/JulNadeauCA)/[**libagar**](https://github.com/JulNadeauCA/libagar)|Cross-Platform GUI Toolkit (stable)|[:arrow_upper_right:](http://libagar.org/)|
+|143|[@burke](https://github.com/burke)/[**matcher**](https://github.com/burke/matcher)|[abandoned] Intelligently searches through a list of file names for the one you were probably looking for.||
 |142|[@pramsey](https://github.com/pramsey)/[**pgsql-ogr-fdw**](https://github.com/pramsey/pgsql-ogr-fdw)|PostgreSQL foreign data wrapper for OGR||
 |138|[@ReturnInfinity](https://github.com/ReturnInfinity)/[**BareMetal-lwIP**](https://github.com/ReturnInfinity/BareMetal-lwIP)|A quick port of lwIP running on top of BareMetal.||
 |133|[@AirLabsTeam](https://github.com/AirLabsTeam)/[**react-native-aws-cognito-js**](https://github.com/AirLabsTeam/react-native-aws-cognito-js)|React Native AWS Cognito JS SDK||
-|129|[@jasonish](https://github.com/jasonish)/[**libevent-examples**](https://github.com/jasonish/libevent-examples)|||
-|125|[@iH8sn0w](https://github.com/iH8sn0w)/[**iBoot32Patcher**](https://github.com/iH8sn0w/iBoot32Patcher)|A Universal 32-bit iBoot patcher for iPhone OS 2.0 --> iOS 10||
-|121|[@MockbaTheBorg](https://github.com/MockbaTheBorg)/[**RunCPM**](https://github.com/MockbaTheBorg/RunCPM)|RunCPM is a multi-platform, portable, Z80 CP/M 2.2 emulator.||
-|121|[@agilebits](https://github.com/agilebits)/[**objective-zip**](https://github.com/agilebits/objective-zip)|Based on objective-zip library by Flying Dolphin Studio. I removed ZLib source code and added dependency on the shared libz.dylib library available in iOS and Mac OS X.|[:arrow_upper_right:](http://code.google.com/p/objective-zip/)|
-|114|[@KenMacD](https://github.com/KenMacD)/[**wdpassport-utils**](https://github.com/KenMacD/wdpassport-utils)|Code and information on how to unlock a WD My Passport drive in Linux.||
+|130|[@jasonish](https://github.com/jasonish)/[**libevent-examples**](https://github.com/jasonish/libevent-examples)|||
+|124|[@MockbaTheBorg](https://github.com/MockbaTheBorg)/[**RunCPM**](https://github.com/MockbaTheBorg/RunCPM)|RunCPM is a multi-platform, portable, Z80 CP/M 2.2 emulator.||
+|124|[@iH8sn0w](https://github.com/iH8sn0w)/[**iBoot32Patcher**](https://github.com/iH8sn0w/iBoot32Patcher)|A Universal 32-bit iBoot patcher for iPhone OS 2.0 --> iOS 10||
+|122|[@agilebits](https://github.com/agilebits)/[**objective-zip**](https://github.com/agilebits/objective-zip)|Based on objective-zip library by Flying Dolphin Studio. I removed ZLib source code and added dependency on the shared libz.dylib library available in iOS and Mac OS X.|[:arrow_upper_right:](http://code.google.com/p/objective-zip/)|
+|115|[@KenMacD](https://github.com/KenMacD)/[**wdpassport-utils**](https://github.com/KenMacD/wdpassport-utils)|Code and information on how to unlock a WD My Passport drive in Linux.||
 |113|[@hsoft](https://github.com/hsoft)/[**icemu**](https://github.com/hsoft/icemu)|Emulate Integrated Circuits at the logic level||
 |112|[@tokenrove](https://github.com/tokenrove)/[**blur-detection**](https://github.com/tokenrove/blur-detection)|Some implementations of algorithms for blur detection in JPEGs||
 |111|[@singpolyma](https://github.com/singpolyma)/[**mnemonicode**](https://github.com/singpolyma/mnemonicode)|Fork of http://web.archive.org/web/20101031205747/http://www.tothink.com/mnemonic/||
+|107|[@clearos](https://github.com/clearos)/[**clearos-base**](https://github.com/clearos/clearos-base)|Initializes the system environment.||
 |107|[@mvdan](https://github.com/mvdan)/[**zstd**](https://github.com/mvdan/zstd)|Zstandard implementation in Wuffs||
-|106|[@clearos](https://github.com/clearos)/[**clearos-base**](https://github.com/clearos/clearos-base)|Initializes the system environment.||
 |106|[@jhawthorn](https://github.com/jhawthorn)/[**meh**](https://github.com/jhawthorn/meh)|:rice_scene: a simple, minimalist, super fast image viewer using raw XLib|[:arrow_upper_right:](http://www.johnhawthorn.com/meh/)|
 |105|[@thestinger](https://github.com/thestinger)/[**vte-ng**](https://github.com/thestinger/vte-ng)|enhanced vte terminal widget||
-|102|[@levex](https://github.com/levex)/[**osdev**](https://github.com/levex/osdev)|Fourth rewrite of LevOS, aiming for POSIX compliance.||
-|97|[@glouw](https://github.com/glouw)/[**andvaranaut**](https://github.com/glouw/andvaranaut)|A dungeon crawler||
+|104|[@levex](https://github.com/levex)/[**osdev**](https://github.com/levex/osdev)|Fourth rewrite of LevOS, aiming for POSIX compliance.||
+|96|[@glouw](https://github.com/glouw)/[**andvaranaut**](https://github.com/glouw/andvaranaut)|A dungeon crawler||
 |96|[@pramsey](https://github.com/pramsey)/[**pgsql-postal**](https://github.com/pramsey/pgsql-postal)|PostgreSQL binding for libpostal||
 |95|[@pzion](https://github.com/pzion)/[**miumiu**](https://github.com/pzion/miumiu)|VoIP application for the Mac and iPhone that uses the IAX protocol||
-|89|[@KleinYuan](https://github.com/KleinYuan)/[**easy-yolo**](https://github.com/KleinYuan/easy-yolo)|Yolo (Real time object detection) model training tutorial with deep learning neural networks||
+|90|[@KleinYuan](https://github.com/KleinYuan)/[**easy-yolo**](https://github.com/KleinYuan/easy-yolo)|Yolo (Real time object detection) model training tutorial with deep learning neural networks||
 |89|[@dude719](https://github.com/dude719)/[**UEFI-Bootkit**](https://github.com/dude719/UEFI-Bootkit)|A small bootkit which does not rely on x64 assembly.||
-|88|[@lemire](https://github.com/lemire)/[**MaskedVByte**](https://github.com/lemire/MaskedVByte)|Fast decoder for VByte-compressed integers||
+|89|[@lemire](https://github.com/lemire)/[**MaskedVByte**](https://github.com/lemire/MaskedVByte)|Fast decoder for VByte-compressed integers||
 |87|[@forhappy](https://github.com/forhappy)/[**rbtree**](https://github.com/forhappy/rbtree)|rbtree implementation adapted from linux kernel thus can be used in your own c program(of course in userspace).||
 |87|[@jakebesworth](https://github.com/jakebesworth)/[**Simple-SDL2-Audio**](https://github.com/jakebesworth/Simple-SDL2-Audio)|A simple SDL2 audio library without SDL_Mixer for playing music and multiple sounds natively in SDL2||
+|86|[@forhappy](https://github.com/forhappy)/[**cpy-leveldb**](https://github.com/forhappy/cpy-leveldb)|python bingding for leveldb using c api||
 |86|[@st3fan](https://github.com/st3fan)/[**osx-10.9**](https://github.com/st3fan/osx-10.9)|OS X 10.9 Public Sources||
-|85|[@forhappy](https://github.com/forhappy)/[**cpy-leveldb**](https://github.com/forhappy/cpy-leveldb)|python bingding for leveldb using c api||
-|84|[@st3fan](https://github.com/st3fan)/[**iphone-bookreader**](https://github.com/st3fan/iphone-bookreader)|Simple EPUB Book Reader for the iPhone||
+|85|[@st3fan](https://github.com/st3fan)/[**iphone-bookreader**](https://github.com/st3fan/iphone-bookreader)|Simple EPUB Book Reader for the iPhone||
+|84|[@st3fan](https://github.com/st3fan)/[**dovecot-xaps-plugin**](https://github.com/st3fan/dovecot-xaps-plugin)|||
 |83|[@AerialX](https://github.com/AerialX)/[**openal-soft-android**](https://github.com/AerialX/openal-soft-android)|OpenAL Soft with Android support|[:arrow_upper_right:](http://kcat.strangesoft.net/openal.html)|
-|83|[@st3fan](https://github.com/st3fan)/[**dovecot-xaps-plugin**](https://github.com/st3fan/dovecot-xaps-plugin)|||
-|81|[@Sn0wCh1ld](https://github.com/Sn0wCh1ld)/[**App-Installer**](https://github.com/Sn0wCh1ld/App-Installer)|On-device IPA installer||
-|81|[@apenwarr](https://github.com/apenwarr)/[**netselect**](https://github.com/apenwarr/netselect)|A parallelizing combination of ping/traceroute||
+|82|[@Sn0wCh1ld](https://github.com/Sn0wCh1ld)/[**App-Installer**](https://github.com/Sn0wCh1ld/App-Installer)|On-device IPA installer||
+|82|[@apenwarr](https://github.com/apenwarr)/[**netselect**](https://github.com/apenwarr/netselect)|A parallelizing combination of ping/traceroute||
 |79|[@sparks](https://github.com/sparks)/[**rter**](https://github.com/sparks/rter)|Real-Time Emergency Response: A project for the Mozilla Ignite Challenge||
+|78|[@GorgonMeducer](https://github.com/GorgonMeducer)/[**Generic_MCU_Software_Infrastructure**](https://github.com/GorgonMeducer/Generic_MCU_Software_Infrastructure)|Provide necessary software infrastructure, service, macros to support some high level abstract concept or paradigm, such as OOPC, FSM, delegate (event-driven) and etc||
 |78|[@flar2](https://github.com/flar2)/[**ElementalX-N5**](https://github.com/flar2/ElementalX-N5)|ElementalX for Nexus 5|[:arrow_upper_right:](http://elementalx.org/devices/nexus-5/)|
-|75|[@GorgonMeducer](https://github.com/GorgonMeducer)/[**Generic_MCU_Software_Infrastructure**](https://github.com/GorgonMeducer/Generic_MCU_Software_Infrastructure)|Provide necessary software infrastructure, service, macros to support some high level abstract concept or paradigm, such as OOPC, FSM, delegate (event-driven) and etc||
-|75|[@pjkundert](https://github.com/pjkundert)/[**ezpwd-reed-solomon**](https://github.com/pjkundert/ezpwd-reed-solomon)|Reed-Solomon & BCH encoding and decoding, in C++, Javascript & Python|[:arrow_upper_right:](https://hardconsulting.com/products/13-reed-solomon)|
+|76|[@pjkundert](https://github.com/pjkundert)/[**ezpwd-reed-solomon**](https://github.com/pjkundert/ezpwd-reed-solomon)|Reed-Solomon & BCH encoding and decoding, in C++, Javascript & Python|[:arrow_upper_right:](https://hardconsulting.com/products/13-reed-solomon)|
+|75|[@sebastien](https://github.com/sebastien)/[**k7**](https://github.com/sebastien/k7)|A standard library for the V8 JavaScript interpreter||
+|74|[@lemire](https://github.com/lemire)/[**despacer**](https://github.com/lemire/despacer)|C library to remove white space from strings as fast as possible||
 |74|[@moyix](https://github.com/moyix)/[**panda**](https://github.com/moyix/panda)|Deprecated repo for PANDA 1.0 – see PANDA 2.0 repository|[:arrow_upper_right:](http://github.com/panda-re/panda)|
-|74|[@sebastien](https://github.com/sebastien)/[**k7**](https://github.com/sebastien/k7)|A standard library for the V8 JavaScript interpreter||
-|73|[@lemire](https://github.com/lemire)/[**despacer**](https://github.com/lemire/despacer)|C library to remove white space from strings as fast as possible||
+|70|[@Hexcles](https://github.com/Hexcles)/[**Eevee**](https://github.com/Hexcles/Eevee)|Eevee is a local OI(and perhaps ACM in the future) judger for Linux.||
 |70|[@forhappy](https://github.com/forhappy)/[**reveldb**](https://github.com/forhappy/reveldb)|reveldb enables you to access google's leveldb in a completely RESTful way.||
-|69|[@Hexcles](https://github.com/Hexcles)/[**Eevee**](https://github.com/Hexcles/Eevee)|Eevee is a local OI(and perhaps ACM in the future) judger for Linux.||
 |67|[@CedricGuillemet](https://github.com/CedricGuillemet)/[**libProfiler**](https://github.com/CedricGuillemet/libProfiler)|Profile your c++ code ||
-|66|[@glouw](https://github.com/glouw)/[**c8c**](https://github.com/glouw/c8c)|The chip8 compiler, assembler, and virtual machine|[:arrow_upper_right:](http://glouw.com/2018/03/05/C8C.html)|
-|65|[@glouw](https://github.com/glouw)/[**weaver**](https://github.com/glouw/weaver)|A spider tapestry weaver|[:arrow_upper_right:](http://glouw.com/2018/02/01/weaver.html)|
-|64|[@lioncash](https://github.com/lioncash)/[**ExtractData**](https://github.com/lioncash/ExtractData)|An extraction tool for visual novels. Originally developed by Yuu.||
+|67|[@glouw](https://github.com/glouw)/[**c8c**](https://github.com/glouw/c8c)|The chip8 compiler, assembler, and virtual machine|[:arrow_upper_right:](http://glouw.com/2018/03/05/C8C.html)|
+|66|[@glouw](https://github.com/glouw)/[**weaver**](https://github.com/glouw/weaver)|A spider tapestry weaver|[:arrow_upper_right:](http://glouw.com/2018/02/01/weaver.html)|
+|65|[@lioncash](https://github.com/lioncash)/[**ExtractData**](https://github.com/lioncash/ExtractData)|An extraction tool for visual novels. Originally developed by Yuu.||
 |63|[@petermichaux](https://github.com/petermichaux)/[**royal-scheme**](https://github.com/petermichaux/royal-scheme)|Royal Scheme will eventually grow to be a real, usable, embeddable Scheme implemented in ANSI C.|[:arrow_upper_right:](http://peter.michaux.ca/index#Royal%20Scheme)|
 |62|[@wlach](https://github.com/wlach)/[**orangutan**](https://github.com/wlach/orangutan)|Simulate native events on Android-like devices||
 |61|[@Arvanaghi](https://github.com/Arvanaghi)/[**Windows-DLL-Injector**](https://github.com/Arvanaghi/Windows-DLL-Injector)|A basic Windows DLL injector in C using CreateRemoteThread and LoadLibrary. Implemented for educational purposes.|[:arrow_upper_right:](https://twitter.com/arvanaghi)|
@@ -94,8 +94,8 @@
 |60|[@phuang](https://github.com/phuang)/[**ibus-pinyin**](https://github.com/phuang/ibus-pinyin)|The PinYin engine for IBus||
 |59|[@cboulay](https://github.com/cboulay)/[**psmove-ue4**](https://github.com/cboulay/psmove-ue4)|Plugin for using PSMove as input into Unreal Engine 4. Currently obsolete. Please use PSMoveService.||
 |58|[@lemire](https://github.com/lemire)/[**cbitset**](https://github.com/lemire/cbitset)|A simple bitset library in C||
-|57|[@tandasat](https://github.com/tandasat)/[**FU_Hypervisor**](https://github.com/tandasat/FU_Hypervisor)|A hypervisor hiding user-mode memory using EPT||
-|56|[@codebrainz](https://github.com/codebrainz)/[**color-names**](https://github.com/codebrainz/color-names)|Provides color names and HTML/RGB mappings in various output formats.||
+|58|[@tandasat](https://github.com/tandasat)/[**FU_Hypervisor**](https://github.com/tandasat/FU_Hypervisor)|A hypervisor hiding user-mode memory using EPT||
+|57|[@codebrainz](https://github.com/codebrainz)/[**color-names**](https://github.com/codebrainz/color-names)|Provides color names and HTML/RGB mappings in various output formats.||
 |55|[@lemire](https://github.com/lemire)/[**SIMDxorshift**](https://github.com/lemire/SIMDxorshift)|Fast random number generators: Vectorized (SIMD) version of xorshift128+||
 |54|[@lemire](https://github.com/lemire)/[**fastrand**](https://github.com/lemire/fastrand)|Fast random number generation in Python (using PCG)||
 |54|[@programble](https://github.com/programble)/[**src**](https://github.com/programble/src)|The repository formerly known as dotfiles||
@@ -105,16 +105,16 @@
 |52|[@lemire](https://github.com/lemire)/[**simdpcg**](https://github.com/lemire/simdpcg)|Vectorized version of the PCG random number generator||
 |51|[@bbc](https://github.com/bbc)/[**nghq**](https://github.com/bbc/nghq)|A HTTP/QUIC mapping layer built atop ngtcp2||
 |51|[@dstebila](https://github.com/dstebila)/[**rlwekex**](https://github.com/dstebila/rlwekex)|DEPRECATED  – See NOTICE below about migration to new repository – Post-quantum key exchange from the ring learning with errors problem||
+|51|[@kevinboone](https://github.com/kevinboone)/[**solunar_cmdline**](https://github.com/kevinboone/solunar_cmdline)|Command-line utility for displaying solar and lunar ephemera||
 |51|[@msantos](https://github.com/msantos)/[**sods**](https://github.com/msantos/sods)|Socket over DNS tunnel|[:arrow_upper_right:](http://listincomprehension.com/2009/11/sods-socket-over-dns-tunneling-service.html)|
 |50|[@ajdavis](https://github.com/ajdavis)/[**GreenletProfiler**](https://github.com/ajdavis/GreenletProfiler)|Greenlet-aware Python performance profiler, built on yappi.||
-|50|[@kevinboone](https://github.com/kevinboone)/[**solunar_cmdline**](https://github.com/kevinboone/solunar_cmdline)|Command-line utility for displaying solar and lunar ephemera||
 |49|[@ateucher](https://github.com/ateucher)/[**lutz**](https://github.com/ateucher/lutz)|Look up timezones of point coordinates|[:arrow_upper_right:](https://andyteucher.ca/lutz)|
 |49|[@eddyerburgh](https://github.com/eddyerburgh)/[**c-sorting-algorithms**](https://github.com/eddyerburgh/c-sorting-algorithms)|📦  A collection of sorting algorithms written in C||
-|48|[@gwihlidal](https://github.com/gwihlidal)/[**vk-mem-rs**](https://github.com/gwihlidal/vk-mem-rs)|Rust bindings for AMD Vulkan Memory Allocator (VMA)||
-|48|[@jpaulm](https://github.com/jpaulm)/[**cppfbp**](https://github.com/jpaulm/cppfbp)|C++ implementation of FBP, supporting Lua, using Boost|[:arrow_upper_right:](http://www.jpaulmorrison.com/fbp/)|
+|49|[@gwihlidal](https://github.com/gwihlidal)/[**vk-mem-rs**](https://github.com/gwihlidal/vk-mem-rs)|Rust bindings for AMD Vulkan Memory Allocator (VMA)||
+|49|[@honza](https://github.com/honza)/[**base16-st**](https://github.com/honza/base16-st)|Colors for the st terminal||
+|49|[@jpaulm](https://github.com/jpaulm)/[**cppfbp**](https://github.com/jpaulm/cppfbp)|C++ implementation of FBP, supporting Lua, using Boost|[:arrow_upper_right:](http://www.jpaulmorrison.com/fbp/)|
 |47|[@dgryski](https://github.com/dgryski)/[**libchash**](https://github.com/dgryski/libchash)|simple consistent hashing implementation||
 |47|[@dwbuiten](https://github.com/dwbuiten)/[**smallfry**](https://github.com/dwbuiten/smallfry)|JPEG Optimization||
-|47|[@honza](https://github.com/honza)/[**base16-st**](https://github.com/honza/base16-st)|Colors for the st terminal||
 |47|[@levex](https://github.com/levex)/[**kernel-qemu-pci**](https://github.com/levex/kernel-qemu-pci)|Creating a custom PCI device in QEMU and a module for it in the Linux kernel.||
 |47|[@macournoyer](https://github.com/macournoyer)/[**thin-turbo**](https://github.com/macournoyer/thin-turbo)|New and ultra-turbo-crazy-fast backend for Thin|[:arrow_upper_right:](http://code.macournoyer.com/thin/)|
 |46|[@jasonish](https://github.com/jasonish)/[**snort**](https://github.com/jasonish/snort)|An UNOFFICIAL Git Repository of Snort(R) Releases - NOT CISCO||
@@ -126,20 +126,22 @@
 |45|[@kmonachopoulos](https://github.com/kmonachopoulos)/[**Spacecraft-Multicore-Emulator**](https://github.com/kmonachopoulos/Spacecraft-Multicore-Emulator)|Spacecraft Multicore Emulator Based on Leon 3 Sparc V8 architecture processor||
 |45|[@thestinger](https://github.com/thestinger)/[**allocator**](https://github.com/thestinger/allocator)|experimental high performance, low fragmentation memory allocator||
 |44|[@AlwaysGeeky](https://github.com/AlwaysGeeky)/[**Vogue**](https://github.com/AlwaysGeeky/Vogue)|A Voxel Roguelike||
+|44|[@lemire](https://github.com/lemire)/[**LittleIntPacker**](https://github.com/lemire/LittleIntPacker)|C library to pack and unpack short arrays of integers as fast as possible||
 |44|[@programble](https://github.com/programble)/[**dotfiles**](https://github.com/programble/dotfiles)|My life story||
-|43|[@lemire](https://github.com/lemire)/[**LittleIntPacker**](https://github.com/lemire/LittleIntPacker)|C library to pack and unpack short arrays of integers as fast as possible||
 |42|[@davidmurray](https://github.com/davidmurray)/[**airscan**](https://github.com/davidmurray/airscan)|iOS command-line WiFi stumbler.||
 |42|[@thestinger](https://github.com/thestinger)/[**paxd-archive**](https://github.com/thestinger/paxd-archive)|PaX exception daemon - Temporarily abandoned due to the PaX and grsecurity patches becoming private||
-|41|[@lillypad](https://github.com/lillypad)/[**badger**](https://github.com/lillypad/badger)|A Swiss Army Knife for Windows Exploit Development.||
 |41|[@msantos](https://github.com/msantos)/[**alcove**](https://github.com/msantos/alcove)|Erlang system containers||
 |41|[@pseudomuto](https://github.com/pseudomuto)/[**c-data-structures**](https://github.com/pseudomuto/c-data-structures)|A simple library of data structures for C||
 |40|[@allanjude](https://github.com/allanjude)/[**uclcmd**](https://github.com/allanjude/uclcmd)|Command line tool for working with UCL config files||
+|40|[@lillypad](https://github.com/lillypad)/[**badger**](https://github.com/lillypad/badger)|A Swiss Army Knife for Windows Exploit Development.||
 |39|[@kevinboone](https://github.com/kevinboone)/[**epub2txt**](https://github.com/kevinboone/epub2txt)|A simple utility to extract text from EPUB documents and, optionally, format it||
 |39|[@twg](https://github.com/twg)/[**png2escpos**](https://github.com/twg/png2escpos)|Quickly convert PNG files to ESC/POS format, for printing on Epson thermal point-of-sale printers.||
 |38|[@glouw](https://github.com/glouw)/[**dungen**](https://github.com/glouw/dungen)|The dungeon generator|[:arrow_upper_right:](http://glouw.com/2018/02/17/dungen.html)|
 |37|[@AerialX](https://github.com/AerialX)/[**PSL1GHT**](https://github.com/AerialX/PSL1GHT)|A lightweight PS3 SDK||
+|37|[@GorgonMeducer](https://github.com/GorgonMeducer)/[**PLOOC**](https://github.com/GorgonMeducer/PLOOC)|Protected Low-overhead Object Oriented Programming with ANSI-C||
 |37|[@ReturnInfinity](https://github.com/ReturnInfinity)/[**BMFS**](https://github.com/ReturnInfinity/BMFS)|Utility for accessing a disk formatted with BMFS||
 |37|[@erikandre](https://github.com/erikandre)/[**stm32-ov7670**](https://github.com/erikandre/stm32-ov7670)|Demonstration of interfacing the Nucleo STM32F446RE with a OV7670 camera module||
+|37|[@kevinboone](https://github.com/kevinboone)/[**epub2txt2**](https://github.com/kevinboone/epub2txt2)|A simple command-line utility for Linux, for extracting text from EPUB documents.||
 |37|[@tandasat](https://github.com/tandasat)/[**Scavenger**](https://github.com/tandasat/Scavenger)|A minifilter driver preserves all modified and deleted files. ||
 |36|[@derekstavis](https://github.com/derekstavis)/[**nrf24le1-libbcm2835**](https://github.com/derekstavis/nrf24le1-libbcm2835)|A powerful userspace command-line tool to interface with Nordic's nRF24LE1 through SPI bus. Currently made for RaspberryPi.||
 |36|[@lemire](https://github.com/lemire)/[**simdprune**](https://github.com/lemire/simdprune)|Pruning elements in SIMD vectors (i.e., packing left elements)||
@@ -147,7 +149,6 @@
 |36|[@pramsey](https://github.com/pramsey)/[**pgsql-gzip**](https://github.com/pramsey/pgsql-gzip)|Gzip compress and decompress for PostgreSQL||
 |36|[@sebastien](https://github.com/sebastien)/[**revoco**](https://github.com/sebastien/revoco)|Logitech MX Revolution configuration tool for Linux||
 |35|[@codebrainz](https://github.com/codebrainz)/[**geanypy**](https://github.com/codebrainz/geanypy)|Python bindings for the Geany plugin API.|[:arrow_upper_right:](http://codebrainz.github.com/geanypy)|
-|35|[@kevinboone](https://github.com/kevinboone)/[**epub2txt2**](https://github.com/kevinboone/epub2txt2)|A simple command-line utility for Linux, for extracting text from EPUB documents.||
 |35|[@sam-github](https://github.com/sam-github)/[**pcap-lua**](https://github.com/sam-github/pcap-lua)|lua bindings for libpcap||
 |34|[@atgreen](https://github.com/atgreen)/[**moxiedev**](https://github.com/atgreen/moxiedev)|Tools, runtime code, and HDL source for the moxie processor core.|[:arrow_upper_right:](http://www.moxielogic.org/blog)|
 |34|[@sim-](https://github.com/sim-)/[**kk**](https://github.com/sim-/kk)|kkmulticopter flight controller software||
@@ -169,7 +170,6 @@
 |30|[@ptomato](https://github.com/ptomato)/[**gnome-inform7**](https://github.com/ptomato/gnome-inform7)|A design system for interactive fiction based on natural language.|[:arrow_upper_right:](http://inform7.com)|
 |30|[@rafaelsteil](https://github.com/rafaelsteil)/[**libcgi**](https://github.com/rafaelsteil/libcgi)|A C library to build CGI applications|[:arrow_upper_right:](http://libcgi.sourceforge.net)|
 |30|[@surajfale](https://github.com/surajfale)/[**passthrough-minifilter-driver**](https://github.com/surajfale/passthrough-minifilter-driver)|Windows mini-filter-driver. Blocks the access to USB drives.||
-|29|[@GorgonMeducer](https://github.com/GorgonMeducer)/[**PLOOC**](https://github.com/GorgonMeducer/PLOOC)|Protected Low-overhead Object Oriented Programming with ANSI-C||
 |29|[@flar2](https://github.com/flar2)/[**OnePlus5**](https://github.com/flar2/OnePlus5)|ElementalX for OnePlus 5||
 |28|[@anarsoul](https://github.com/anarsoul)/[**libfprint**](https://github.com/anarsoul/libfprint)|libfprint with my WiP drivers||
 |28|[@bbidulock](https://github.com/bbidulock)/[**adwm**](https://github.com/bbidulock/adwm)|advanced dynamic window manager||
@@ -187,11 +187,12 @@
 |26|[@thoughtworks](https://github.com/thoughtworks)/[**GilgaMesh**](https://github.com/thoughtworks/GilgaMesh)|An open-source Bluetooth Low Energy self-healing mesh implementation for the nRF51/52 series.||
 |25|[@AerialX](https://github.com/AerialX)/[**Kammy**](https://github.com/AerialX/Kammy)|Userland PS3 LV2 Patches||
 |25|[@OnionIoT](https://github.com/OnionIoT)/[**i2c-exp-driver**](https://github.com/OnionIoT/i2c-exp-driver)|Driver to program I2C based Onion Expansions||
+|25|[@TaraHoleInIt](https://github.com/TaraHoleInIt)/[**tarablessd1306**](https://github.com/TaraHoleInIt/tarablessd1306)|SSD1306 Component for the ESP-IDF SDK||
 |25|[@lemire](https://github.com/lemire)/[**FrameOfReference**](https://github.com/lemire/FrameOfReference)|C++ library to pack and unpack vectors of integers having a small range of values using a technique called Frame of Reference ||
 |25|[@st3fan](https://github.com/st3fan)/[**ewm**](https://github.com/st3fan/ewm)|Emulated Woz Machine||
 |24|[@DrabWeb](https://github.com/DrabWeb)/[**Azusa**](https://github.com/DrabWeb/Azusa)|A music player frontend for macOS||
-|24|[@TaraHoleInIt](https://github.com/TaraHoleInIt)/[**tarablessd1306**](https://github.com/TaraHoleInIt/tarablessd1306)|SSD1306 Component for the ESP-IDF SDK||
 |24|[@cancan101](https://github.com/cancan101)/[**h.264-cuda**](https://github.com/cancan101/h.264-cuda)||[:arrow_upper_right:](https://sites.google.com/site/x264cuda/)|
+|24|[@cancui](https://github.com/cancui)/[**EMG-Signal-Processing-Library**](https://github.com/cancui/EMG-Signal-Processing-Library)|A real-time signal processing library for EMG sensors. View the README.md to see raw vs. processed signals!||
 |24|[@flar2](https://github.com/flar2)/[**OnePlus6**](https://github.com/flar2/OnePlus6)|||
 |24|[@flar2](https://github.com/flar2)/[**shamu**](https://github.com/flar2/shamu)|ElementalX for Nexus 6|[:arrow_upper_right:](http://forum.xda-developers.com/nexus-6/orig-development/kernel-elementalx-n6-0-01-alpha-t2954680)|
 |24|[@francois](https://github.com/francois)/[**mongo_explorer**](https://github.com/francois/mongo_explorer)|A Cocoa administration interface for Mongo databases|[:arrow_upper_right:](http://github.com/francois/mongo_explorer)|
@@ -200,8 +201,8 @@
 |23|[@IntegersOfK](https://github.com/IntegersOfK)/[**Hoin-POS-58-80**](https://github.com/IntegersOfK/Hoin-POS-58-80)|Drivers for the Hoin HOP-E801 point of sale thermal receipt printer with variable paper width 58 or 80 millimeters.||
 |23|[@JackMc](https://github.com/JackMc)/[**BasicLisp**](https://github.com/JackMc/BasicLisp)|A basic (basic) Lisp interpreter in C!||
 |23|[@RobLoach](https://github.com/RobLoach)/[**libretro-dolphin-launcher**](https://github.com/RobLoach/libretro-dolphin-launcher)|Launch Dolphin from RetroArch/libretro||
+|23|[@babelouest](https://github.com/babelouest)/[**taliesin**](https://github.com/babelouest/taliesin)|Lightweight audio streaming server|[:arrow_upper_right:](https://babelouest.github.io/taliesin/)|
 |23|[@beltex](https://github.com/beltex)/[**libsmc**](https://github.com/beltex/libsmc)|Apple SMC library in C||
-|23|[@cancui](https://github.com/cancui)/[**EMG-Signal-Processing-Library**](https://github.com/cancui/EMG-Signal-Processing-Library)|A real-time signal processing library for EMG sensors. View the README.md to see raw vs. processed signals!||
 |23|[@corngood](https://github.com/corngood)/[**kill-ryzen-win**](https://github.com/corngood/kill-ryzen-win)|||
 |23|[@dude719](https://github.com/dude719)/[**Dynamic-Array-Kernel**](https://github.com/dude719/Dynamic-Array-Kernel)|Dynamic array in C. Intended for Windows kernel development.||
 |23|[@dwbuiten](https://github.com/dwbuiten)/[**bxd**](https://github.com/dwbuiten/bxd)|BXD: Binary Hex Diff||
@@ -211,7 +212,6 @@
 |23|[@msantos](https://github.com/msantos)/[**ewpcap**](https://github.com/msantos/ewpcap)|Portable native Erlang raw socket interface using pcap||
 |23|[@tokenrove](https://github.com/tokenrove)/[**extrospect-beam**](https://github.com/tokenrove/extrospect-beam)|Tools for live extrospection of the Erlang BEAM VM — WARNING: early alpha||
 |23|[@trishume](https://github.com/trishume)/[**thume.popclick**](https://github.com/trishume/thume.popclick)|A lua module for PopClick, detect mouth noises with HammerSpoon||
-|22|[@babelouest](https://github.com/babelouest)/[**taliesin**](https://github.com/babelouest/taliesin)|Lightweight audio streaming server|[:arrow_upper_right:](https://babelouest.github.io/taliesin/)|
 |22|[@lxfontes](https://github.com/lxfontes)/[**ezxml**](https://github.com/lxfontes/ezxml)|ezxml - XML parser|[:arrow_upper_right:](http://ezxml.sourceforge.net/)|
 |22|[@macournoyer](https://github.com/macournoyer)/[**fast_output_buffer**](https://github.com/macournoyer/fast_output_buffer)|A faster output buffer for ActionView.||
 |21|[@arcrose](https://github.com/arcrose)/[**C.-Game-of-Life**](https://github.com/arcrose/C.-Game-of-Life)|An implementation of Conway's Game of Life written in C using SDL.||
@@ -228,25 +228,25 @@
 |20|[@cfriedt](https://github.com/cfriedt)/[**zephyr**](https://github.com/cfriedt/zephyr)|Zephyr Project is a small, scalable real-time operating system for use on resource-constrained systems supporting multiple architectures|[:arrow_upper_right:](https://www.zephyrproject.org/)|
 |20|[@fosskers](https://github.com/fosskers)/[**alg-a-day**](https://github.com/fosskers/alg-a-day)|An algorithm a day, for every day in August, 2011.||
 |20|[@lillypad](https://github.com/lillypad)/[**swamp-rat**](https://github.com/lillypad/swamp-rat)|A Linux RAT in C||
+|20|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**word2vec**](https://github.com/nicholas-leonard/word2vec)|Automatically exported from code.google.com/p/word2vec||
 |20|[@phuang](https://github.com/phuang)/[**ibus-tmpl**](https://github.com/phuang/ibus-tmpl)|The template engine for IBus||
 |20|[@tj](https://github.com/tj)/[**img**](https://github.com/tj/img)|Tiny C utility for reading image dimensions, primarily for use with CSS||
 |20|[@yushulx](https://github.com/yushulx)/[**python**](https://github.com/yushulx/python)|Build Python extension with Dynamsoft Barcode Reader.|[:arrow_upper_right:](https://www.dynamsoft.com/Products/Dynamic-Barcode-Reader.aspx)|
 |20|[@yzhliu](https://github.com/yzhliu)/[**C-Minus-Compiler**](https://github.com/yzhliu/C-Minus-Compiler)|Indent settings: alias lindent='indent -npro -kr -i8 -ts8 -sob -l80 -ss -ncs -cp1'||
 |19|[@Gh0u1L5](https://github.com/Gh0u1L5)/[**FileDisk**](https://github.com/Gh0u1L5/FileDisk)|FileDisk is a virtual disk utility on Windows x86 platform with on-the-fly encryption written in C language.||
 |19|[@codebrainz](https://github.com/codebrainz)/[**overview-plugin**](https://github.com/codebrainz/overview-plugin)|This plugin is now maintained as part of the Geany-Plugins project, see: https://github.com/geany/geany-plugins/||
-|19|[@nicholas-leonard](https://github.com/nicholas-leonard)/[**word2vec**](https://github.com/nicholas-leonard/word2vec)|Automatically exported from code.google.com/p/word2vec||
 |19|[@northox](https://github.com/northox)/[**ov-secure-kernel**](https://github.com/northox/ov-secure-kernel)|Trusted Execution Environment - Secure kernel leveraging ARM's TrustZone isolation|[:arrow_upper_right:](http://www.openvirtualization.org/)|
 |19|[@tj](https://github.com/tj)/[**cdescent**](https://github.com/tj/cdescent)|C recursive descent parser based on Ian Piumarta's peg(1)||
 |19|[@tzutalin](https://github.com/tzutalin)/[**Boost.Compute-Android**](https://github.com/tzutalin/Boost.Compute-Android)|Boost.Compute library for Android. A C++ Computing Library for OpenCL https://github.com/boostorg/compute||
 |19|[@yrashk](https://github.com/yrashk)/[**erlang-ossp-uuid**](https://github.com/yrashk/erlang-ossp-uuid)|NIF-based ossp-uuid binding for Erlang||
 |18|[@bbc](https://github.com/bbc)/[**clever-thumbnailer**](https://github.com/bbc/clever-thumbnailer)|Audio thumbnail generator||
 |18|[@bbidulock](https://github.com/bbidulock)/[**mcwm**](https://github.com/bbidulock/mcwm)|A minimalist floating window manager written on top of the XCB||
+|18|[@craftmetrics](https://github.com/craftmetrics)/[**esp32-homie**](https://github.com/craftmetrics/esp32-homie)|An esp-idf component for the Homie convention||
 |18|[@defuse](https://github.com/defuse)/[**WinPassGen**](https://github.com/defuse/WinPassGen)|A Windows Password Generator.||
 |18|[@eddieantonio](https://github.com/eddieantonio)/[**isri-ocr-evaluation-tools**](https://github.com/eddieantonio/isri-ocr-evaluation-tools)|The ISRI Analytic Tools for OCR Evaluation, now with UTF-8 support!|[:arrow_upper_right:](http://code.google.com/p/isri-ocr-evaluation-tools)|
 |18|[@flar2](https://github.com/flar2)/[**marlin**](https://github.com/flar2/marlin)|ElementalX for Google Pixel||
 |18|[@iH8sn0w](https://github.com/iH8sn0w)/[**iDove**](https://github.com/iH8sn0w/iDove)|iFaith's custom iBoot payload made from Chronic-Dev's Cyanide|[:arrow_upper_right:](http://iH8sn0w.com)|
 |17|[@craftmetrics](https://github.com/craftmetrics)/[**esp32-button**](https://github.com/craftmetrics/esp32-button)|Button press detection with debounce, for esp32 idf||
-|17|[@craftmetrics](https://github.com/craftmetrics)/[**esp32-homie**](https://github.com/craftmetrics/esp32-homie)|An esp-idf component for the Homie convention||
 |17|[@flar2](https://github.com/flar2)/[**OnePlus7Pro**](https://github.com/flar2/OnePlus7Pro)|ElementalX for OnePlus 7 Pro||
 |17|[@jts](https://github.com/jts)/[**bri**](https://github.com/jts/bri)|Bam Read Index - Extract alignments from a bam file by readname||
 |17|[@tpoisot](https://github.com/tpoisot)/[**CUDA-training**](https://github.com/tpoisot/CUDA-training)|CUDA programs for our training session.||
@@ -300,6 +300,7 @@
 |12|[@emsal1863](https://github.com/emsal1863)/[**Socksify**](https://github.com/emsal1863/Socksify)|A linux utility that allows one to run a process in such a way that all outgoing TCP connections go through a SOCKS5 proxy||
 |12|[@francois](https://github.com/francois)/[**dnsd**](https://github.com/francois/dnsd)|A simple (toy) implementation of DNS server||
 |12|[@radekstepan](https://github.com/radekstepan)/[**LZW**](https://github.com/radekstepan/LZW)|LZW Compression/Decompression in C||
+|11|[@Ohmnivore](https://github.com/Ohmnivore)/[**battle**](https://github.com/Ohmnivore/battle)|:gem: Sonic Battle (GBA) renderer|[:arrow_upper_right:](https://fouramgames.com/demo/battle/BattleApp.html)|
 |11|[@OnionIoT](https://github.com/OnionIoT)/[**omega2-bootloader**](https://github.com/OnionIoT/omega2-bootloader)|Bootloader for the Omega2||
 |11|[@TaraHoleInIt](https://github.com/TaraHoleInIt)/[**tarablessd1306_examples**](https://github.com/TaraHoleInIt/tarablessd1306_examples)|Examples for the TarableSSD1306 component for the ESP32 and ESP-IDF SDK||
 |11|[@ajkhoury](https://github.com/ajkhoury)/[**IDA_Signsrch-7.0**](https://github.com/ajkhoury/IDA_Signsrch-7.0)|||
@@ -307,6 +308,7 @@
 |11|[@fredrikbk](https://github.com/fredrikbk)/[**libpack**](https://github.com/fredrikbk/libpack)|Library that packs/serializes or unpacks/deserializes user-defined data layouts. The data layouts are specified using datatypes similar to MPI Datatypes. The library compiles the datatypes into efficient vectorized pack/unpack code at commit time using an LLVM-based online compiler.||
 |11|[@gbmhunter](https://github.com/gbmhunter)/[**FunctionPointerStateMachineExample**](https://github.com/gbmhunter/FunctionPointerStateMachineExample)||[:arrow_upper_right:](http://blog.mbedded.ninja/programming/general/control-methodology/a-function-pointer-based-state-machine)|
 |11|[@halfwit](https://github.com/halfwit)/[**wmgroup**](https://github.com/halfwit/wmgroup)|No longer maintained - Simple tools to work in conjunction with wmutils for group management||
+|11|[@jakebesworth](https://github.com/jakebesworth)/[**SDL2-Game**](https://github.com/jakebesworth/SDL2-Game)|SDL2 desktop game example - Simple, lightweight, multi-platform, GNU C, Make||
 |11|[@kintel](https://github.com/kintel)/[**aisdecoder**](https://github.com/kintel/aisdecoder)|AIS decoder module for node.js||
 |11|[@kovyrin](https://github.com/kovyrin)/[**rpmbuild**](https://github.com/kovyrin/rpmbuild)|My Custom RPM Building Recipes||
 |11|[@lemire](https://github.com/lemire)/[**CMemoryUsage**](https://github.com/lemire/CMemoryUsage)|Measuring memory usage in C and C++||
@@ -317,7 +319,6 @@
 |11|[@uiri](https://github.com/uiri)/[**fffll**](https://github.com/uiri/fffll)|Fun Functioning Functional Little Language||
 |10|[@AerialX](https://github.com/AerialX)/[**projectM-android**](https://github.com/AerialX/projectM-android)|OpenGL ES1 projectM|[:arrow_upper_right:](http://projectm.sourceforge.net/)|
 |10|[@EddYerburgh](https://github.com/EddYerburgh)/[**c-sorting-algorithms**](https://github.com/EddYerburgh/c-sorting-algorithms)|📦  A collection of sorting algorithms written in C||
-|10|[@Ohmnivore](https://github.com/Ohmnivore)/[**battle**](https://github.com/Ohmnivore/battle)|:gem: Sonic Battle (GBA) renderer|[:arrow_upper_right:](https://fouramgames.com/demo/battle/BattleApp.html)|
 |10|[@adamhooper](https://github.com/adamhooper)/[**refinery**](https://github.com/adamhooper/refinery)|Raw image processing library||
 |10|[@codebrainz](https://github.com/codebrainz)/[**morse**](https://github.com/codebrainz/morse)|Simple command line morse code keyer||
 |10|[@errordeveloper](https://github.com/errordeveloper)/[**mist**](https://github.com/errordeveloper/mist)|Personal fork of Thingsqaure Mist 1.0.x (see wiki for usage)|[:arrow_upper_right:](https://github.com/errordeveloper/mist/wiki)|
@@ -325,7 +326,6 @@
 |10|[@forhappy](https://github.com/forhappy)/[**CS61**](https://github.com/forhappy/CS61)|CS61 learning schedules and assessments|[:arrow_upper_right:](http://cs61.seas.harvard.edu/wiki/Main_Page)|
 |10|[@fw42](https://github.com/fw42)/[**atmel**](https://github.com/fw42/atmel)|Some Atmel Microcontroller projects||
 |10|[@glouw](https://github.com/glouw)/[**pather**](https://github.com/glouw/pather)|The collaborative diffusion pathfinder||
-|10|[@jakebesworth](https://github.com/jakebesworth)/[**SDL2-Game**](https://github.com/jakebesworth/SDL2-Game)|SDL2 desktop game example - Simple, lightweight, multi-platform, GNU C, Make||
 |10|[@jasonish](https://github.com/jasonish)/[**tailq-example**](https://github.com/jasonish/tailq-example)|||
 |10|[@jrmuizel](https://github.com/jrmuizel)/[**ssim**](https://github.com/jrmuizel/ssim)|A standalone tool for measuring SSIM||
 |10|[@jvirtanen](https://github.com/jvirtanen)/[**fields**](https://github.com/jvirtanen/fields)|Fast C library for reading CSV and other tabular text formats||
@@ -374,6 +374,7 @@
 |8|[@joeyism](https://github.com/joeyism)/[**C-Port-Scanner**](https://github.com/joeyism/C-Port-Scanner)|A simple port scanner, written in C||
 |8|[@johnko](https://github.com/johnko)/[**dwmsd**](https://github.com/johnko/dwmsd)|dwm status daemon.||
 |8|[@kareniel](https://github.com/kareniel)/[**duktape-wasm**](https://github.com/kareniel/duktape-wasm)|🦆(WIP) Bindings to Duktape in the browser using WebAssembly||
+|8|[@lioncash](https://github.com/lioncash)/[**droidsound**](https://github.com/lioncash/droidsound)|||
 |8|[@michelf](https://github.com/michelf)/[**d-for-xcode**](https://github.com/michelf/d-for-xcode)|Xcode plugin for supporting the D programming language|[:arrow_upper_right:](http://michelf.ca/projects/d-for-xcode/)|
 |8|[@phuang](https://github.com/phuang)/[**ibus-chewing**](https://github.com/phuang/ibus-chewing)|The Chewing engine for IBus||
 |8|[@phuang](https://github.com/phuang)/[**ibus-hangul**](https://github.com/phuang/ibus-hangul)|The hangul engine for IBus||
@@ -407,7 +408,6 @@
 |7|[@jlamothe](https://github.com/jlamothe)/[**mmix**](https://github.com/jlamothe/mmix)|MMIX Emulator||
 |7|[@joedf](https://github.com/joedf)/[**LuaBuilds**](https://github.com/joedf/LuaBuilds)|joedf's Lua builds - Files|[:arrow_upper_right:](http://joedf.github.io/LuaBuilds)|
 |7|[@levex](https://github.com/levex)/[**levos6**](https://github.com/levex/levos6)|LevOS 6 - OSDev Project, creating a UNIX-like kernel!||
-|7|[@lioncash](https://github.com/lioncash)/[**droidsound**](https://github.com/lioncash/droidsound)|||
 |7|[@nfrasser](https://github.com/nfrasser)/[**os161**](https://github.com/nfrasser/os161)|The OS/161 operating system. By Nikolai Frasser for CS 350 (Winter 2015) University of Waterloo||
 |7|[@obilodeau](https://github.com/obilodeau)/[**scratchpad**](https://github.com/obilodeau/scratchpad)|my programming / infosec scratchpad||
 |7|[@ohnx](https://github.com/ohnx)/[**nyan-load**](https://github.com/ohnx/nyan-load)|"EFI bootloader" experiment that displays a moving Nyan Cat using only EFI calls||
@@ -501,6 +501,7 @@
 |5|[@moyix](https://github.com/moyix)/[**irq_fuzzer**](https://github.com/moyix/irq_fuzzer)|||
 |5|[@moyix](https://github.com/moyix)/[**xv6-public**](https://github.com/moyix/xv6-public)|Copy of xv6 for NYU Tandon CS3224||
 |5|[@msantos](https://github.com/msantos)/[**reuseport**](https://github.com/msantos/reuseport)|SO_REUSEPORT socket load distribution using LD_PRELOAD ||
+|5|[@msantos](https://github.com/msantos)/[**rst**](https://github.com/msantos/rst)|Think of it as peer to peer QoS||
 |5|[@mystor](https://github.com/mystor)/[**simple-lisp-parser-in-c**](https://github.com/mystor/simple-lisp-parser-in-c)|A simple lisp parser in c, because why not!||
 |5|[@ndawe](https://github.com/ndawe)/[**C5.0**](https://github.com/ndawe/C5.0)|A fork of http://www.rulequest.com/download.html||
 |5|[@orospakr](https://github.com/orospakr)/[**refind**](https://github.com/orospakr/refind)|My branch of Refind that has support for the apple_set_os EFI hack for enabling the Intel IGD on hybrid Macbooks in Linux.||
@@ -527,7 +528,6 @@
 |4|[@ReturnInfinity](https://github.com/ReturnInfinity)/[**kvfs**](https://github.com/ReturnInfinity/kvfs)|An easily portable key-value file system, designed for user and kernel space alike.||
 |4|[@Robiathin](https://github.com/Robiathin)/[**script-manager**](https://github.com/Robiathin/script-manager)|A tool for storage, organization, and management of utility scripts.||
 |4|[@SgtCoDFish](https://github.com/SgtCoDFish)/[**bedrock-bootstrap**](https://github.com/SgtCoDFish/bedrock-bootstrap)|Bootstrapping RISC-V from the ground up!||
-|4|[@Trumeet](https://github.com/Trumeet)/[**Aero**](https://github.com/Trumeet/Aero)|Enable Aero on Windows 10 via Kotlin Native||
 |4|[@aidenbenner](https://github.com/aidenbenner)/[**halite3**](https://github.com/aidenbenner/halite3)|Code for the Halite 3 AI bot competition|[:arrow_upper_right:](https://halite.io/user/?user_id=1185)|
 |4|[@awakecoding](https://github.com/awakecoding)/[**RdpChannel**](https://github.com/awakecoding/RdpChannel)|RDP Channel Sample||
 |4|[@babelouest](https://github.com/babelouest)/[**benoic**](https://github.com/babelouest/benoic)|House automation device controller with REST/Json interface||
@@ -567,7 +567,6 @@
 |4|[@jrmuizel](https://github.com/jrmuizel)/[**libunwind**](https://github.com/jrmuizel/libunwind)|||
 |4|[@lashgar](https://github.com/lashgar)/[**microbenchmark**](https://github.com/lashgar/microbenchmark)|Micro-benchmarking CUDA-capable GPGPUs to understand the architecture of each Streaming Multiprocessor (SM) in handling outstanding memory requests.||
 |4|[@lillypad](https://github.com/lillypad)/[**fkks**](https://github.com/lillypad/fkks)|Finders Keepers (KPot Stealers) / Defeating KPot v2.0 CnC and String Encryption||
-|4|[@msantos](https://github.com/msantos)/[**rst**](https://github.com/msantos/rst)|Think of it as peer to peer QoS||
 |4|[@msantos](https://github.com/msantos)/[**wat**](https://github.com/msantos/wat)|A simple example of an Erlang NIF for creating mutable variables|[:arrow_upper_right:](http://listincomprehension.com/2009/11/simple-mutable-variables-using-erlang.html)|
 |4|[@orospakr](https://github.com/orospakr)/[**rbclutter**](https://github.com/orospakr/rbclutter)|Port of rbclutter to clutter 1.6||
 |4|[@phuang](https://github.com/phuang)/[**test**](https://github.com/phuang/test)|some test code||
@@ -602,6 +601,7 @@
 |3|[@Sakurina](https://github.com/Sakurina)/[**placemarker**](https://github.com/Sakurina/placemarker)|virtual graffiti for foursquare venues||
 |3|[@TaraHoleInIt](https://github.com/TaraHoleInIt)/[**anim1b**](https://github.com/TaraHoleInIt/anim1b)|Converts images to the framebuffer format as used in the ssd1306 driver in esp-open-rtos||
 |3|[@TaraHoleInIt](https://github.com/TaraHoleInIt)/[**tssd1306**](https://github.com/TaraHoleInIt/tssd1306)|Attempt at a small SSD1306 library to target the ATTiny85||
+|3|[@Trumeet](https://github.com/Trumeet)/[**Aero**](https://github.com/Trumeet/Aero)|Enable Aero on Windows 10 via Kotlin Native||
 |3|[@XiaonuoGantan](https://github.com/XiaonuoGantan)/[**ring_buffer_py**](https://github.com/XiaonuoGantan/ring_buffer_py)|A Python wrapper around the POSIX Optimized implementation of Ring Buffer||
 |3|[@a8wright](https://github.com/a8wright)/[**plorient**](https://github.com/a8wright/plorient)|This is a perl binary interface to orientdb. The code is not currently in a working state but I am working on it!!!||
 |3|[@aalex](https://github.com/aalex)/[**mikado**](https://github.com/aalex/mikado)|Simple image manipulation application (not working yet)||

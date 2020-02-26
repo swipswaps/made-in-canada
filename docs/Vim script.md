@@ -1,19 +1,19 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|3283|[@pangloss](https://github.com/pangloss)/[**vim-javascript**](https://github.com/pangloss/vim-javascript)|Vastly improved Javascript indentation and syntax support in Vim.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4452)|
-|968|[@jpalardy](https://github.com/jpalardy)/[**vim-slime**](https://github.com/jpalardy/vim-slime)|A vim plugin to give you some slime. (Emacs)|[:arrow_upper_right:](http://technotales.wordpress.com/2007/10/03/like-slime-for-vim/)|
-|858|[@gf3](https://github.com/gf3)/[**dotfiles**](https://github.com/gf3/dotfiles)|config for neovim, tmux, molotov colourscheme, and more||
+|3287|[@pangloss](https://github.com/pangloss)/[**vim-javascript**](https://github.com/pangloss/vim-javascript)|Vastly improved Javascript indentation and syntax support in Vim.|[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4452)|
+|969|[@jpalardy](https://github.com/jpalardy)/[**vim-slime**](https://github.com/jpalardy/vim-slime)|A vim plugin to give you some slime. (Emacs)|[:arrow_upper_right:](http://technotales.wordpress.com/2007/10/03/like-slime-for-vim/)|
+|857|[@gf3](https://github.com/gf3)/[**dotfiles**](https://github.com/gf3/dotfiles)|config for neovim, tmux, molotov colourscheme, and more||
 |714|[@myusuf3](https://github.com/myusuf3)/[**numbers.vim**](https://github.com/myusuf3/numbers.vim)|numbers.vim is a vim plugin for better line numbers|[:arrow_upper_right:](http://myusuf3.github.com/numbers.vim/)|
-|548|[@svermeulen](https://github.com/svermeulen)/[**vim-easyclip**](https://github.com/svermeulen/vim-easyclip)|Simplified clipboard functionality for Vim||
-|461|[@tommcdo](https://github.com/tommcdo)/[**vim-exchange**](https://github.com/tommcdo/vim-exchange)|Easy text exchange operator for Vim||
+|549|[@svermeulen](https://github.com/svermeulen)/[**vim-easyclip**](https://github.com/svermeulen/vim-easyclip)|Simplified clipboard functionality for Vim||
+|465|[@tommcdo](https://github.com/tommcdo)/[**vim-exchange**](https://github.com/tommcdo/vim-exchange)|Easy text exchange operator for Vim||
 |381|[@tommcdo](https://github.com/tommcdo)/[**vim-lion**](https://github.com/tommcdo/vim-lion)|A simple alignment operator for Vim text editor||
 |377|[@amacgregor](https://github.com/amacgregor)/[**dot-files**](https://github.com/amacgregor/dot-files)|Dotfiles repository||
-|238|[@juliosueiras](https://github.com/juliosueiras)/[**vim-terraform-completion**](https://github.com/juliosueiras/vim-terraform-completion)|A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool||
+|240|[@juliosueiras](https://github.com/juliosueiras)/[**vim-terraform-completion**](https://github.com/juliosueiras/vim-terraform-completion)|A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool||
 |220|[@dgryski](https://github.com/dgryski)/[**vim-godef**](https://github.com/dgryski/vim-godef)|vim plugin providing godef support||
 |139|[@svermeulen](https://github.com/svermeulen)/[**vim-yoink**](https://github.com/svermeulen/vim-yoink)|Vim plugin that maintains a yank history to cycle between when pasting||
-|137|[@myusuf3](https://github.com/myusuf3)/[**dotfiles**](https://github.com/myusuf3/dotfiles)|myusuf3's dotfiles||
+|138|[@myusuf3](https://github.com/myusuf3)/[**dotfiles**](https://github.com/myusuf3/dotfiles)|myusuf3's dotfiles||
 |114|[@martinda](https://github.com/martinda)/[**Jenkinsfile-vim-syntax**](https://github.com/martinda/Jenkinsfile-vim-syntax)|Jenkinsfile DSL vim syntax||
-|111|[@svermeulen](https://github.com/svermeulen)/[**vim-subversive**](https://github.com/svermeulen/vim-subversive)|Vim plugin providing operator motions to quickly replace text||
+|112|[@svermeulen](https://github.com/svermeulen)/[**vim-subversive**](https://github.com/svermeulen/vim-subversive)|Vim plugin providing operator motions to quickly replace text||
 |92|[@brianleroux](https://github.com/brianleroux)/[**quick-vim**](https://github.com/brianleroux/quick-vim)|:rocket: Quickly init a slightly better Vim.||
 |90|[@lfilho](https://github.com/lfilho)/[**cosco.vim**](https://github.com/lfilho/cosco.vim)|VIM colon and semicolon insertion bliss||
 |79|[@jpalardy](https://github.com/jpalardy)/[**dotfiles**](https://github.com/jpalardy/dotfiles)|My collection of config files (bash, vim, …)||
@@ -52,19 +52,19 @@
 |11|[@lucasprag](https://github.com/lucasprag)/[**simpleblack**](https://github.com/lucasprag/simpleblack)|A black colorscheme for vim, real black background, #000000||
 |11|[@tommcdo](https://github.com/tommcdo)/[**vimfiles**](https://github.com/tommcdo/vimfiles)|A copy of my ~/.vim directory||
 |11|[@tylerball](https://github.com/tylerball)/[**dotfiles**](https://github.com/tylerball/dotfiles)|files with dots.||
+|10|[@jvirtanen](https://github.com/jvirtanen)/[**vim-hcl**](https://github.com/jvirtanen/vim-hcl)|Syntax highlighting for HashiCorp Configuration Language (HCL)||
+|10|[@shinespark](https://github.com/shinespark)/[**vim-list2tree**](https://github.com/shinespark/vim-list2tree)| Convert markdown list format to tree format.||
 |10|[@vinibaggio](https://github.com/vinibaggio)/[**vinibaggio-dotfiles**](https://github.com/vinibaggio/vinibaggio-dotfiles)|This is my vim configuration, a big mix from a lot of what I've seen on the net.|[:arrow_upper_right:](http://www.vinibaggio.net)|
 |10|[@vinibaggio](https://github.com/vinibaggio)/[**vinibaggio-vimfiles**](https://github.com/vinibaggio/vinibaggio-vimfiles)|This is my vim configuration, a big mix from a lot of what I've seen on the net.|[:arrow_upper_right:](http://www.vinibaggio.net)|
 |9|[@0xfe](https://github.com/0xfe)/[**evil**](https://github.com/0xfe/evil)|Profiles, scripts, and other shared code.||
 |9|[@dmix](https://github.com/dmix)/[**elvish.vim**](https://github.com/dmix/elvish.vim)|Vim plugin for the Elvish programming language with syntax highlighting|[:arrow_upper_right:](https://elv.sh/)|
 |9|[@fnichol](https://github.com/fnichol)/[**dotvim**](https://github.com/fnichol/dotvim)|A personal editor setup for vi, Vim, MacVim, and Neovim||
 |9|[@jonathansick](https://github.com/jonathansick)/[**sickvim**](https://github.com/jonathansick/sickvim)|Jonathan Sick's Vim Setup|[:arrow_upper_right:](http://www.jonathansick.ca)|
-|9|[@shinespark](https://github.com/shinespark)/[**vim-list2tree**](https://github.com/shinespark/vim-list2tree)| Convert markdown list format to tree format.||
 |8|[@allenhwkim](https://github.com/allenhwkim)/[**nextfile.vim**](https://github.com/allenhwkim/nextfile.vim)|vim script to open related files||
 |8|[@colepeters](https://github.com/colepeters)/[**dotfiles**](https://github.com/colepeters/dotfiles)|My dotfiles||
 |8|[@idbrii](https://github.com/idbrii)/[**vim-tagimposter**](https://github.com/idbrii/vim-tagimposter)|Forge tag jumps so tag alternatives can populate the tagstack.||
 |8|[@idbrii](https://github.com/idbrii)/[**vim-textconv**](https://github.com/idbrii/vim-textconv)|Easily apply text conversions. ||
 |8|[@jeffjewiss](https://github.com/jeffjewiss)/[**dotfiles**](https://github.com/jeffjewiss/dotfiles)|🎛️ My environment||
-|8|[@jvirtanen](https://github.com/jvirtanen)/[**vim-hcl**](https://github.com/jvirtanen/vim-hcl)|Syntax highlighting for HashiCorp Configuration Language (HCL)||
 |7|[@idbrii](https://github.com/idbrii)/[**vim-sandydune**](https://github.com/idbrii/vim-sandydune)|A more colourful variant of the default desert colorscheme.||
 |7|[@lawrencejones](https://github.com/lawrencejones)/[**dotfiles**](https://github.com/lawrencejones/dotfiles)|Collection of my dotfiles||
 |7|[@lucasprag](https://github.com/lucasprag)/[**vimlociraptor**](https://github.com/lucasprag/vimlociraptor)|My vim configuration with a cool name||

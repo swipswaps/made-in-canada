@@ -1,17 +1,17 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|5104|[@benfred](https://github.com/benfred)/[**py-spy**](https://github.com/benfred/py-spy)|Sampling profiler for Python programs||
-|2177|[@EbTech](https://github.com/EbTech)/[**rust-algorithms**](https://github.com/EbTech/rust-algorithms)|Common data structures and algorithms in Rust||
-|2065|[@jmacdonald](https://github.com/jmacdonald)/[**amp**](https://github.com/jmacdonald/amp)|A complete text editor for your terminal.|[:arrow_upper_right:](https://amp.rs)|
-|1305|[@chinedufn](https://github.com/chinedufn)/[**percy**](https://github.com/chinedufn/percy)|A modular toolkit for building isomorphic web apps with Rust + WebAssembly|[:arrow_upper_right:](https://chinedufn.github.io/percy/)|
-|1016|[@chmln](https://github.com/chmln)/[**sd**](https://github.com/chmln/sd)|Intuitive find & replace CLI (sed alternative)||
-|967|[@AtheMathmo](https://github.com/AtheMathmo)/[**rusty-machine**](https://github.com/AtheMathmo/rusty-machine)|Machine Learning library for Rust|[:arrow_upper_right:](https://crates.io/crates/rusty-machine/)|
+|5122|[@benfred](https://github.com/benfred)/[**py-spy**](https://github.com/benfred/py-spy)|Sampling profiler for Python programs||
+|2184|[@EbTech](https://github.com/EbTech)/[**rust-algorithms**](https://github.com/EbTech/rust-algorithms)|Common data structures and algorithms in Rust||
+|2073|[@jmacdonald](https://github.com/jmacdonald)/[**amp**](https://github.com/jmacdonald/amp)|A complete text editor for your terminal.|[:arrow_upper_right:](https://amp.rs)|
+|1312|[@chinedufn](https://github.com/chinedufn)/[**percy**](https://github.com/chinedufn/percy)|A modular toolkit for building isomorphic web apps with Rust + WebAssembly|[:arrow_upper_right:](https://chinedufn.github.io/percy/)|
+|1025|[@chmln](https://github.com/chmln)/[**sd**](https://github.com/chmln/sd)|Intuitive find & replace CLI (sed alternative)||
+|978|[@AtheMathmo](https://github.com/AtheMathmo)/[**rusty-machine**](https://github.com/AtheMathmo/rusty-machine)|Machine Learning library for Rust|[:arrow_upper_right:](https://crates.io/crates/rusty-machine/)|
 |694|[@trishume](https://github.com/trishume)/[**syntect**](https://github.com/trishume/syntect)|Rust library for syntax highlighting using Sublime Text syntax definitions.|[:arrow_upper_right:](https://docs.rs/syntect)|
-|534|[@MitMaro](https://github.com/MitMaro)/[**git-interactive-rebase-tool**](https://github.com/MitMaro/git-interactive-rebase-tool)|Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.|[:arrow_upper_right:](https://gitrebasetool.mitmaro.ca/)|
-|427|[@mystor](https://github.com/mystor)/[**rust-cpp**](https://github.com/mystor/rust-cpp)|Embed C++ directly inside your rust code!||
+|535|[@MitMaro](https://github.com/MitMaro)/[**git-interactive-rebase-tool**](https://github.com/MitMaro/git-interactive-rebase-tool)|Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.|[:arrow_upper_right:](https://gitrebasetool.mitmaro.ca/)|
+|429|[@mystor](https://github.com/mystor)/[**rust-cpp**](https://github.com/mystor/rust-cpp)|Embed C++ directly inside your rust code!||
 |385|[@programble](https://github.com/programble)/[**scraper**](https://github.com/programble/scraper)|HTML parsing and querying with CSS selectors|[:arrow_upper_right:](https://docs.rs/scraper)|
-|284|[@chinedufn](https://github.com/chinedufn)/[**webgl-water-tutorial**](https://github.com/chinedufn/webgl-water-tutorial)|The source code for a tutorial on rendering water using WebGL + Rust + WebAssembly||
-|268|[@jrmuizel](https://github.com/jrmuizel)/[**raqote**](https://github.com/jrmuizel/raqote)|Rust 2D graphics library||
+|287|[@chinedufn](https://github.com/chinedufn)/[**webgl-water-tutorial**](https://github.com/chinedufn/webgl-water-tutorial)|The source code for a tutorial on rendering water using WebGL + Rust + WebAssembly||
+|272|[@jrmuizel](https://github.com/jrmuizel)/[**raqote**](https://github.com/jrmuizel/raqote)|Rust 2D graphics library||
 |232|[@AtheMathmo](https://github.com/AtheMathmo)/[**rulinalg**](https://github.com/AtheMathmo/rulinalg)|A linear algebra library written in Rust|[:arrow_upper_right:](https://crates.io/crates/rulinalg)|
 |162|[@luqmana](https://github.com/luqmana)/[**rust-opencl**](https://github.com/luqmana/rust-opencl)|OpenCL bindings for Rust.||
 |128|[@Babylonpartners](https://github.com/Babylonpartners)/[**shipcat**](https://github.com/Babylonpartners/shipcat)|Deploy right meow! :ship::pouting_cat:||
@@ -19,14 +19,14 @@
 |107|[@chinedufn](https://github.com/chinedufn)/[**psd**](https://github.com/chinedufn/psd)|A Rust API for parsing and working with PSD files.|[:arrow_upper_right:](https://chinedufn.github.io/psd)|
 |95|[@AtheMathmo](https://github.com/AtheMathmo)/[**cpuprofiler**](https://github.com/AtheMathmo/cpuprofiler)|Rust bindings to google's cpuprofiler||
 |86|[@jmacdonald](https://github.com/jmacdonald)/[**scribe**](https://github.com/jmacdonald/scribe)|Text editor components||
-|77|[@dsherret](https://github.com/dsherret)/[**dprint**](https://github.com/dsherret/dprint)|TypeScript and JSONC code formatter.|[:arrow_upper_right:](https://dprint.dev)|
+|85|[@dsherret](https://github.com/dsherret)/[**dprint**](https://github.com/dsherret/dprint)|TypeScript and JSONC code formatter.|[:arrow_upper_right:](https://dprint.dev)|
 |71|[@luqmana](https://github.com/luqmana)/[**rust-psp-hello**](https://github.com/luqmana/rust-psp-hello)|Simple Hello World in Rust to run on a PSP.||
 |67|[@ssokolow](https://github.com/ssokolow)/[**rust-cli-boilerplate**](https://github.com/ssokolow/rust-cli-boilerplate)|Rust project boilerplate for CLI applications||
 |65|[@mystor](https://github.com/mystor)/[**synstructure**](https://github.com/mystor/synstructure)|Utilities for dealing with substructures within syn macros||
 |62|[@Dooskington](https://github.com/Dooskington)/[**grubbnet**](https://github.com/Dooskington/grubbnet)|:satellite: A lightweight TCP client/server for writing networked applications and games||
-|54|[@ChainSafe](https://github.com/ChainSafe)/[**forest**](https://github.com/ChainSafe/forest)|🌲 Rust Filecoin Node Implementation||
+|56|[@ChainSafe](https://github.com/ChainSafe)/[**forest**](https://github.com/ChainSafe/forest)|🌲 Rust Filecoin Node Implementation||
+|53|[@mystor](https://github.com/mystor)/[**slag**](https://github.com/mystor/slag)|A whitespace-sensitive syntax for rust||
 |52|[@levex](https://github.com/levex)/[**cgroups-rs**](https://github.com/levex/cgroups-rs)|Native Rust library for managing control groups under Linux||
-|52|[@mystor](https://github.com/mystor)/[**slag**](https://github.com/mystor/slag)|A whitespace-sensitive syntax for rust||
 |44|[@brettcannon](https://github.com/brettcannon)/[**python-launcher**](https://github.com/brettcannon/python-launcher)|Python launcher for UNIX|[:arrow_upper_right:](https://crates.io/crates/python-launcher)|
 |42|[@bojand](https://github.com/bojand)/[**infer**](https://github.com/bojand/infer)|Small crate to infer file and MIME type by checking the magic number signature ||
 |42|[@gwihlidal](https://github.com/gwihlidal)/[**meshopt-rs**](https://github.com/gwihlidal/meshopt-rs)|Rust ffi and idiomatic wrapper for zeux/meshoptimizer, a mesh optimization library that makes indexed meshes more GPU-friendly.||
@@ -35,33 +35,34 @@
 |39|[@zsck](https://github.com/zsck)/[**clink**](https://github.com/zsck/clink)|A developer assistance tool to help with refactoring and keeping related code up to date with changes||
 |34|[@gwihlidal](https://github.com/gwihlidal)/[**spirv-reflect-rs**](https://github.com/gwihlidal/spirv-reflect-rs)|Reflection API in rust for SPIR-V shader byte code, intended for Vulkan applications||
 |34|[@iKevinY](https://github.com/iKevinY)/[**blerp**](https://github.com/iKevinY/blerp)|xkcd #1692: Man Page|[:arrow_upper_right:](https://xkcd.com/1692/)|
-|33|[@jrmuizel](https://github.com/jrmuizel)/[**pdf-extract**](https://github.com/jrmuizel/pdf-extract)|A rust library for extracting content from pdfs||
+|34|[@jrmuizel](https://github.com/jrmuizel)/[**pdf-extract**](https://github.com/jrmuizel/pdf-extract)|A rust library for extracting content from pdfs||
 |33|[@thestinger](https://github.com/thestinger)/[**rust-gmp**](https://github.com/thestinger/rust-gmp)|gmp bindings for rust||
 |32|[@stewart](https://github.com/stewart)/[**rff**](https://github.com/stewart/rff)|:microscope: rff: a rustic fuzzy finder||
 |31|[@fnichol](https://github.com/fnichol)/[**names**](https://github.com/fnichol/names)|Random name generator for Rust||
 |30|[@trishume](https://github.com/trishume)/[**ratewithscience**](https://github.com/trishume/ratewithscience)|Rate things on arbitrary scales using big data and science!|[:arrow_upper_right:](http://ratewithscience.thume.net)|
+|27|[@Gonzih](https://github.com/Gonzih)/[**crabquery**](https://github.com/Gonzih/crabquery)|JQuery for Crabs||
 |27|[@luqmana](https://github.com/luqmana)/[**gdax-client**](https://github.com/luqmana/gdax-client)|Rust client library for Coinbase Exchange (GDAX).||
 |27|[@palfrey](https://github.com/palfrey)/[**serial_test**](https://github.com/palfrey/serial_test)|Allows for the creation of serialised Rust tests|[:arrow_upper_right:](https://tech.labs.oliverwyman.com/blog/2019/01/14/serialising-rust-tests/)|
 |27|[@programble](https://github.com/programble)/[**inth-oauth2**](https://github.com/programble/inth-oauth2)|OAuth2 client for Rust|[:arrow_upper_right:](https://docs.rs/crate/inth-oauth2)|
 |27|[@trishume](https://github.com/trishume)/[**dayder**](https://github.com/trishume/dayder)|Search lots of data sets for spurious correlations|[:arrow_upper_right:](http://dayder.thume.ca/)|
 |26|[@abh1nav](https://github.com/abh1nav)/[**docker-rust**](https://github.com/abh1nav/docker-rust)|Docker client library written in Rust||
+|26|[@borsboom](https://github.com/borsboom)/[**cli-for-ynab**](https://github.com/borsboom/cli-for-ynab)|Complete command-line interface for YNAB.|[:arrow_upper_right:](https://borsboom.io/cli-for-ynab/)|
 |26|[@trishume](https://github.com/trishume)/[**FusionMouse**](https://github.com/trishume/FusionMouse)|Combines Tobii eye tracking with TrackIR head tracking for a fast hands-free mouse replacement, in Rust!||
 |26|[@trishume](https://github.com/trishume)/[**quickdown**](https://github.com/trishume/quickdown)|Fast lightweight Markdown viewer with Rust and Webrender. HtN 2017||
-|25|[@borsboom](https://github.com/borsboom)/[**cli-for-ynab**](https://github.com/borsboom/cli-for-ynab)|Complete command-line interface for YNAB.|[:arrow_upper_right:](https://borsboom.io/cli-for-ynab/)|
 |25|[@dashed](https://github.com/dashed)/[**rebalance-app**](https://github.com/dashed/rebalance-app)|💸 Optimal lazy portfolio rebalancing calculator (in Rust)||
 |25|[@kevincox](https://github.com/kevincox)/[**rustymedia**](https://github.com/kevincox/rustymedia)|A Transcoding DLNA Server||
 |24|[@gwihlidal](https://github.com/gwihlidal)/[**ash-nv-rt**](https://github.com/gwihlidal/ash-nv-rt)|NV ray tracing with rust and ash!||
 |24|[@gwihlidal](https://github.com/gwihlidal)/[**smush-rs**](https://github.com/gwihlidal/smush-rs)|Common rust abstraction around a variety of compression codecs.||
+|24|[@kryptco](https://github.com/kryptco)/[**sigchain**](https://github.com/kryptco/sigchain)|A signed hash chain implementation for zero-trust data management.|[:arrow_upper_right:](https://krypt.co/docs/sigchain/team-sigchain.html)|
+|24|[@nbigaouette](https://github.com/nbigaouette)/[**hygeia**](https://github.com/nbigaouette/hygeia)|Python toolchain manager 🐍||
 |23|[@OJFord](https://github.com/OJFord)/[**passbase**](https://github.com/OJFord/passbase)|Keybase File System (KBFS)-backed CLI-based password manager||
-|23|[@kryptco](https://github.com/kryptco)/[**sigchain**](https://github.com/kryptco/sigchain)|A signed hash chain implementation for zero-trust data management.|[:arrow_upper_right:](https://krypt.co/docs/sigchain/team-sigchain.html)|
-|23|[@nbigaouette](https://github.com/nbigaouette)/[**hygeia**](https://github.com/nbigaouette/hygeia)|Python toolchain manager 🐍||
 |22|[@nbigaouette](https://github.com/nbigaouette)/[**pycors**](https://github.com/nbigaouette/pycors)|Python interpreter management||
+|22|[@palfrey](https://github.com/palfrey)/[**maiden**](https://github.com/palfrey/maiden)|Rockstar interpreter in Rust|[:arrow_upper_right:](https://tech.labs.oliverwyman.com/blog/2018/07/30/how-to-be-a-rockstar-developer/)|
 |22|[@tokenrove](https://github.com/tokenrove)/[**fixie-trie**](https://github.com/tokenrove/fixie-trie)|Compact tries for fixed-width keys||
 |22|[@trishume](https://github.com/trishume)/[**faiyels**](https://github.com/trishume/faiyels)|See all your code rendered at once and zoom around it using Rust & GPU rendering.||
 |21|[@AtheMathmo](https://github.com/AtheMathmo)/[**rugrads**](https://github.com/AtheMathmo/rugrads)|A proof of concept automatic differentiation library for Rust||
 |21|[@gnuvince](https://github.com/gnuvince)/[**ppbert**](https://github.com/gnuvince/ppbert)|A simple pretty printer for Erlang's External Term Format||
 |21|[@gwihlidal](https://github.com/gwihlidal)/[**grue-rs**](https://github.com/gwihlidal/grue-rs)|Various tools and algorithms for building role-playing and adventure games||
-|21|[@palfrey](https://github.com/palfrey)/[**maiden**](https://github.com/palfrey/maiden)|Rockstar interpreter in Rust|[:arrow_upper_right:](https://tech.labs.oliverwyman.com/blog/2018/07/30/how-to-be-a-rockstar-developer/)|
 |21|[@uiri](https://github.com/uiri)/[**SEGIMAP**](https://github.com/uiri/SEGIMAP)|IMAP (and LMTP) Server written in Rust||
 |20|[@bacongobbler](https://github.com/bacongobbler)/[**treemap-rs**](https://github.com/bacongobbler/treemap-rs)|Squarified Treemap algorithm written in Rust.|[:arrow_upper_right:](https://crates.io/crates/treemap)|
 |20|[@gwihlidal](https://github.com/gwihlidal)/[**vk-sync-rs**](https://github.com/gwihlidal/vk-sync-rs)|Simplified Vulkan synchronization logic, written in rust||
@@ -100,12 +101,12 @@
 |9|[@defuse](https://github.com/defuse)/[**passgenr**](https://github.com/defuse/passgenr)|A library for generating cryptographically-secure passwords in Rust.||
 |9|[@fnichol](https://github.com/fnichol)/[**features-rs**](https://github.com/fnichol/features-rs)|features - A Rust library for runtime feature toggles||
 |9|[@onatm](https://github.com/onatm)/[**hackerman**](https://github.com/onatm/hackerman)|An assembler for 16-bit Hack machine language written in Rust||
+|9|[@onatm](https://github.com/onatm)/[**kx**](https://github.com/onatm/kx)|Interactively switch between kubernetes contexts without any external dependencies||
 |8|[@Aiden01](https://github.com/Aiden01)/[**r-i18n**](https://github.com/Aiden01/r-i18n)|An i18n implementation in Rust.|[:arrow_upper_right:](https://crates.io/crates/r_i18n)|
 |8|[@jonalmeida](https://github.com/jonalmeida)/[**algorithms.rs**](https://github.com/jonalmeida/algorithms.rs)|Classic algorithms and data structures implemented in Rust.||
 |8|[@jrmuizel](https://github.com/jrmuizel)/[**glsl-to-spriv**](https://github.com/jrmuizel/glsl-to-spriv)|A glsl to spriv compiler||
 |8|[@luqmana](https://github.com/luqmana)/[**rray**](https://github.com/luqmana/rray)|Raytracer written in rust.||
 |8|[@nbigaouette](https://github.com/nbigaouette)/[**gitlab-api-rs**](https://github.com/nbigaouette/gitlab-api-rs)|Rust wrapper to the GitLab API.||
-|8|[@onatm](https://github.com/onatm)/[**kx**](https://github.com/onatm/kx)|Interactively switch between kubernetes contexts without any external dependencies||
 |7|[@46bit](https://github.com/46bit)/[**tilewater**](https://github.com/46bit/tilewater)|Miniature city simulator.||
 |7|[@Qard](https://github.com/Qard)/[**gqlog**](https://github.com/Qard/gqlog)|👾 filter your json logs with graphql 👾||
 |7|[@benfred](https://github.com/benfred)/[**remoteprocess**](https://github.com/benfred/remoteprocess)|Cross platform process information in Rust||
@@ -133,6 +134,7 @@
 |5|[@gwihlidal](https://github.com/gwihlidal)/[**app-engine-rs**](https://github.com/gwihlidal/app-engine-rs)|Example of rust + rocket + docker running in a flex environment on Google App Engine.||
 |5|[@gwihlidal](https://github.com/gwihlidal)/[**hindranch**](https://github.com/gwihlidal/hindranch)|Global Game Jam 2019!||
 |5|[@gwihlidal](https://github.com/gwihlidal)/[**svc-texture**](https://github.com/gwihlidal/svc-texture)|A gRPC micro-service that exposes texture compression routines under a common cloud-based abstraction.||
+|5|[@mystor](https://github.com/mystor)/[**cargo-no-std-check**](https://github.com/mystor/cargo-no-std-check)|Check that a crate builds without libstd||
 |5|[@mystor](https://github.com/mystor)/[**literalext**](https://github.com/mystor/literalext)|A helper crate for interpreting proc-macro `Literal` values||
 |5|[@mystor](https://github.com/mystor)/[**radium**](https://github.com/mystor/radium)|||
 |5|[@mystor](https://github.com/mystor)/[**refptr**](https://github.com/mystor/refptr)|Invasive reference counting in Rust||
@@ -158,7 +160,6 @@
 |4|[@jonalmeida](https://github.com/jonalmeida)/[**txtdb**](https://github.com/jonalmeida/txtdb)|(WIP) A simple database system written in Rust for storing data in text files||
 |4|[@jrmuizel](https://github.com/jrmuizel)/[**sw-wr**](https://github.com/jrmuizel/sw-wr)|A software renderer for WebRender||
 |4|[@levex](https://github.com/levex)/[**network-bridge-rs**](https://github.com/levex/network-bridge-rs)|Rust crate for managing network bridges||
-|4|[@mystor](https://github.com/mystor)/[**cargo-no-std-check**](https://github.com/mystor/cargo-no-std-check)|||
 |4|[@mystor](https://github.com/mystor)/[**rust-try-let**](https://github.com/mystor/rust-try-let)|A syntax extension for a basic try-let form||
 |4|[@programble](https://github.com/programble)/[**bounded-integer**](https://github.com/programble/bounded-integer)|Bounded integers for Rust, probably broken|[:arrow_upper_right:](https://cmcenroe.me/bounded-integer/bounded_integer)|
 |4|[@tdryer](https://github.com/tdryer)/[**hangups-rs**](https://github.com/tdryer/hangups-rs)|Google Hangouts client library for any language (prototype)||
@@ -184,6 +185,7 @@
 |3|[@emilyhorsman](https://github.com/emilyhorsman)/[**rust-raytracer**](https://github.com/emilyhorsman/rust-raytracer)|||
 |3|[@gwihlidal](https://github.com/gwihlidal)/[**cloudstore-rs**](https://github.com/gwihlidal/cloudstore-rs)|A gRPC microservice, written in rust, that marshalls objects and files to cloud storage like AWS S3, Google Cloud Storage, or other providers.||
 |3|[@itarato](https://github.com/itarato)/[**neo4j_rust_client**](https://github.com/itarato/neo4j_rust_client)|Unofficial Neo4j client for Rust language.||
+|3|[@jeremyBanks](https://github.com/jeremyBanks)/[**speedruns**](https://github.com/jeremyBanks/speedruns)|an unofficial mirror of speedrun.com with a rust graphql backend and a react/typescript/next.js/apollo frontend, also used as a personal sandbox|[:arrow_upper_right:](https://speedruns.ca)|
 |3|[@jmacdonald](https://github.com/jmacdonald)/[**bloodhound**](https://github.com/jmacdonald/bloodhound)|Fuzzy file path matching library||
 |3|[@jonalmeida](https://github.com/jonalmeida)/[**ws-p2p**](https://github.com/jonalmeida/ws-p2p)|An example of a peer-to-peer network imlementing causal ordering using WebSockets||
 |3|[@jrmuizel](https://github.com/jrmuizel)/[**bincode-size**](https://github.com/jrmuizel/bincode-size)|||
@@ -198,6 +200,7 @@
 |3|[@mystor](https://github.com/mystor)/[**ducky**](https://github.com/mystor/ducky)|A statically duck-typed language. Very much WIP.||
 |3|[@mystor](https://github.com/mystor)/[**rustlex**](https://github.com/mystor/rustlex)|A lexer for rust tokens||
 |3|[@mystor](https://github.com/mystor)/[**unsauron**](https://github.com/mystor/unsauron)|Eliminate the eye of sauron||
+|3|[@nbigaouette](https://github.com/nbigaouette)/[**spell-rs**](https://github.com/nbigaouette/spell-rs)|Spell is a Streaming Parser for Event Logs using an LCS (Longest Common Subsequence)||
 |3|[@ncphillips](https://github.com/ncphillips)/[**mojo**](https://github.com/ncphillips/mojo)|||
 |3|[@palfrey](https://github.com/palfrey)/[**actix_lambda**](https://github.com/palfrey/actix_lambda)|Runs your actix-web app as a lambda app that will respond to Application Load Balancer requests|[:arrow_upper_right:](https://tech.labs.oliverwyman.com/blog/2019/04/23/conversion-of-web-apps-into-serverless/)|
 |3|[@palfrey](https://github.com/palfrey)/[**wait-for-db**](https://github.com/palfrey/wait-for-db)|Tool to wait until a database is up and responding to a query||

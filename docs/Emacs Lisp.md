@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|19436|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
+|19489|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs**](https://github.com/syl20bnr/spacemacs)|A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!|[:arrow_upper_right:](http://spacemacs.org)|
 |159|[@syl20bnr](https://github.com/syl20bnr)/[**evil-escape**](https://github.com/syl20bnr/evil-escape)|Customizable key sequence to escape from insert state and everything else in Emacs.||
 |124|[@burtonsamograd](https://github.com/burtonsamograd)/[**emacs-jit**](https://github.com/burtonsamograd/emacs-jit)|Emacs with an Emacs Lisp JIT (Just In Time) compiler using libjit.||
 |106|[@atgreen](https://github.com/atgreen)/[**paperless**](https://github.com/atgreen/paperless)|Emacs assisted PDF document filing||
 |86|[@aspiers](https://github.com/aspiers)/[**smooth-scrolling**](https://github.com/aspiers/smooth-scrolling)|Emacs smooth scrolling package||
-|80|[@syl20bnr](https://github.com/syl20bnr)/[**spacelpa**](https://github.com/syl20bnr/spacelpa)|ELPA repository for stable versions of Spacemacs||
+|81|[@syl20bnr](https://github.com/syl20bnr)/[**spacelpa**](https://github.com/syl20bnr/spacelpa)|ELPA repository for stable versions of Spacemacs||
 |78|[@syl20bnr](https://github.com/syl20bnr)/[**evil-lisp-state**](https://github.com/syl20bnr/evil-lisp-state)|An evil state to navigate Lisp code and modify it with smartparens||
 |63|[@rudolfolah](https://github.com/rudolfolah)/[**emacs-sos**](https://github.com/rudolfolah/emacs-sos)|StackOverflow Search (SOS) mode for Emacs.||
 |57|[@arthurnn](https://github.com/arthurnn)/[**howdoi-emacs**](https://github.com/arthurnn/howdoi-emacs)|Search code from StackOverflow and paste it in emacs.||
@@ -23,11 +23,11 @@
 |29|[@syl20bnr](https://github.com/syl20bnr)/[**spacemacs-elpa-mirror**](https://github.com/syl20bnr/spacemacs-elpa-mirror)|ELPA archive for Spacemacs packages.||
 |27|[@dpo](https://github.com/dpo)/[**ampl-mode**](https://github.com/dpo/ampl-mode)|Syntax highlighting mode for the AMPL modeling language||
 |24|[@honza](https://github.com/honza)/[**dotfiles**](https://github.com/honza/dotfiles)|My awesome dotfiles.|[:arrow_upper_right:](https://github.com/honza/dotfiles)|
-|21|[@practicalli](https://github.com/practicalli)/[**spacemacs.d**](https://github.com/practicalli/spacemacs.d)|My configuration for spacemacs||
+|23|[@practicalli](https://github.com/practicalli)/[**spacemacs.d**](https://github.com/practicalli/spacemacs.d)|My configuration for spacemacs||
 |21|[@syl20bnr](https://github.com/syl20bnr)/[**vi-tilde-fringe**](https://github.com/syl20bnr/vi-tilde-fringe)|Display tildes on empty lines in the Emacs fringe a la Vi.||
 |19|[@practicalli](https://github.com/practicalli)/[**spacemacs-config**](https://github.com/practicalli/spacemacs-config)|My configuration for spacemacs||
+|16|[@gnuvince](https://github.com/gnuvince)/[**purp**](https://github.com/gnuvince/purp)|A theme for Emacs with few colors||
 |16|[@j0ni](https://github.com/j0ni)/[**phoenix-dark-pink**](https://github.com/j0ni/phoenix-dark-pink)|Phoenix Dark Pink theme port for emacs||
-|15|[@gnuvince](https://github.com/gnuvince)/[**purp**](https://github.com/gnuvince/purp)|A theme for Emacs with few colors||
 |13|[@cbbrowne](https://github.com/cbbrowne)/[**pg.el**](https://github.com/cbbrowne/pg.el)|PostgreSQL Elisp interface||
 |11|[@Ailrun](https://github.com/Ailrun)/[**magit-lfs**](https://github.com/Ailrun/magit-lfs)|Git LFS for magit!||
 |11|[@rspivak](https://github.com/rspivak)/[**httpcode.el**](https://github.com/rspivak/httpcode.el)|Explains the meaning of an HTTP status code in minibuffer||

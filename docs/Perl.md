@@ -1,16 +1,16 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|270|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|A repository of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. ||
+|273|[@LangilleLab](https://github.com/LangilleLab)/[**microbiome_helper**](https://github.com/LangilleLab/microbiome_helper)|A repository of bioinformatic scripts, SOPs, and tutorials for analyzing microbiome data. ||
 |166|[@jimeh](https://github.com/jimeh)/[**manservant**](https://github.com/jimeh/manservant)|Browse man pages in style with your personal manservant.||
+|147|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
 |146|[@briandfoy](https://github.com/briandfoy)/[**PerlPowerTools**](https://github.com/briandfoy/PerlPowerTools)|Perl Power Tools|[:arrow_upper_right:](https://metacpan.org/pod/PerlPowerTools)|
-|144|[@aspiers](https://github.com/aspiers)/[**stow**](https://github.com/aspiers/stow)|GNU Stow - mirror of savannah git repository occasionally with more bleeding-edge branches|[:arrow_upper_right:](http://www.gnu.org/s/stow/)|
 |125|[@apenwarr](https://github.com/apenwarr)/[**gitbuilder**](https://github.com/apenwarr/gitbuilder)|Auto-builds and tests all the branches of your git projects, showing pass/fail results on a web page/RSS feed.  Isolates failures to the first commit that caused the problem.||
 |118|[@trentm](https://github.com/trentm)/[**node-ldapauth**](https://github.com/trentm/node-ldapauth)|Simple node.js module to authenticate against an LDAP server||
 |102|[@aspiers](https://github.com/aspiers)/[**mysqldiff**](https://github.com/aspiers/mysqldiff)|tool and CPAN suite backend for comparing MySQL database schemas||
+|83|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
 |83|[@yanick](https://github.com/yanick)/[**Template-Mustache**](https://github.com/yanick/Template-Mustache)|Drawing Mustaches on Perl, for fun and profit||
-|82|[@cbbrowne](https://github.com/cbbrowne)/[**autodoc**](https://github.com/cbbrowne/autodoc)|PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms||
 |71|[@mlangill](https://github.com/mlangill)/[**microbiome_helper**](https://github.com/mlangill/microbiome_helper)|An assortment of scripts to help process and automate various microbiome and metagenomic bioinformatic tools.||
-|51|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
+|52|[@awakecoding](https://github.com/awakecoding)/[**FreeRDP-Manuals**](https://github.com/awakecoding/FreeRDP-Manuals)|FreeRDP Manuals||
 |49|[@briandfoy](https://github.com/briandfoy)/[**Learning-Perl-Sample-Files**](https://github.com/briandfoy/Learning-Perl-Sample-Files)|Extra files for use with Learning Perl|[:arrow_upper_right:](http://www.learning-perl.org/)|
 |42|[@bcgsc](https://github.com/bcgsc)/[**LINKS**](https://github.com/bcgsc/LINKS)|⛓Long Interval Nucleotide K-mer Scaffolder||
 |42|[@yanick](https://github.com/yanick)/[**git-cpan-patch**](https://github.com/yanick/git-cpan-patch)|System to write patches against CPAN modules via Git||
@@ -19,8 +19,8 @@
 |30|[@cdrage](https://github.com/cdrage)/[**dockerfiles**](https://github.com/cdrage/dockerfiles)|🐳 My Dockerfiles||
 |26|[@sjackman](https://github.com/sjackman)/[**fastascripts**](https://github.com/sjackman/fastascripts)|Manipulate FASTA files||
 |25|[@briandfoy](https://github.com/briandfoy)/[**cpan-script**](https://github.com/briandfoy/cpan-script)|(Perl) Interact with CPAN from the command line|[:arrow_upper_right:](http://search.cpan.org/dist/cpan-script)|
+|24|[@sestaton](https://github.com/sestaton)/[**HMMER2GO**](https://github.com/sestaton/HMMER2GO)|Annotate DNA sequences for Gene Ontology terms||
 |24|[@sestaton](https://github.com/sestaton)/[**Transposome**](https://github.com/sestaton/Transposome)|A toolkit for annotation of transposable element families from unassembled sequence reads|[:arrow_upper_right:](http://sestaton.github.io/Transposome)|
-|23|[@sestaton](https://github.com/sestaton)/[**HMMER2GO**](https://github.com/sestaton/HMMER2GO)|Annotate DNA sequences for Gene Ontology terms||
 |22|[@mlangill](https://github.com/mlangill)/[**MicrobeDB**](https://github.com/mlangill/MicrobeDB)|Provides a local database of in-house and published genomes for Bacteria and Archaea from NCBI||
 |22|[@yanick](https://github.com/yanick)/[**cheatsheets**](https://github.com/yanick/cheatsheets)|My cheatsheets||
 |21|[@bcgsc](https://github.com/bcgsc)/[**HLAminer**](https://github.com/bcgsc/HLAminer)|⛏HLA predictions from NGS shotgun data||
@@ -48,6 +48,7 @@
 |11|[@fnichol](https://github.com/fnichol)/[**dotfiles**](https://github.com/fnichol/dotfiles)|A personal set of Unix "dotfiles" to configure various programs.||
 |11|[@hoytech](https://github.com/hoytech)/[**Valence-p5**](https://github.com/hoytech/Valence-p5)|Perl interface to valence/electron GUI toolkit||
 |11|[@johnlees](https://github.com/johnlees)/[**bioinformatics**](https://github.com/johnlees/bioinformatics)|Utilities written for bioinformatics|[:arrow_upper_right:](http://leesjohn.wordpress.com/)|
+|10|[@bcgsc](https://github.com/bcgsc)/[**SSAKE**](https://github.com/bcgsc/SSAKE)|🍶Genome assembly with short sequence reads||
 |10|[@briandfoy](https://github.com/briandfoy)/[**test-file**](https://github.com/briandfoy/test-file)|(Perl) Check file attributes|[:arrow_upper_right:](https://metacpan.org/pod/Test::File)|
 |10|[@bricas](https://github.com/bricas)/[**uri-template**](https://github.com/bricas/uri-template)|Object for handling URI templates|[:arrow_upper_right:](http://metacpan.org/release/URI-Template/)|
 |10|[@elecnix](https://github.com/elecnix)/[**nagios-postgresql**](https://github.com/elecnix/nagios-postgresql)|Fork of Tony Wasson's nagios plugins for PosgreSQL|[:arrow_upper_right:](http://pgfoundry.org/projects/nagiosplugins/)|
@@ -55,7 +56,6 @@
 |10|[@s-rah](https://github.com/s-rah)/[**itsybitsy**](https://github.com/s-rah/itsybitsy)|The mini static site generator||
 |10|[@yanick](https://github.com/yanick)/[**Term-Caca**](https://github.com/yanick/Term-Caca)|perl interface for libcaca (Colour AsCii Art library) |[:arrow_upper_right:](http://search.cpan.org/dist/Term-Caca)|
 |9|[@bbidulock](https://github.com/bbidulock)/[**perlpanel**](https://github.com/bbidulock/perlpanel)|Panel for the X Desktop Environment (XDE) based on PerlPanel||
-|9|[@bcgsc](https://github.com/bcgsc)/[**SSAKE**](https://github.com/bcgsc/SSAKE)|🍶Genome assembly with short sequence reads||
 |9|[@briandfoy](https://github.com/briandfoy)/[**mac-propertylist**](https://github.com/briandfoy/mac-propertylist)|(Perl) work with Mac plists at a low level|[:arrow_upper_right:](https://metacpan.org/pod/Mac::PropertyList)|
 |9|[@bricas](https://github.com/bricas)/[**image-textmode**](https://github.com/bricas/image-textmode)|Create, manipulate and save text mode images|[:arrow_upper_right:](http://metacpan.org/release/Image-TextMode/)|
 |9|[@bsandrow](https://github.com/bsandrow)/[**hn-profile**](https://github.com/bsandrow/hn-profile)|Scraping profile info from news.ycombinator.com||
@@ -149,6 +149,7 @@
 |3|[@bricas](https://github.com/bricas)/[**algorithm-scale2x**](https://github.com/bricas/algorithm-scale2x)|Generic implementation of the Scale2x algorithm|[:arrow_upper_right:](http://search.cpan.org/dist/Algorithm-Scale2x/)|
 |3|[@bricas](https://github.com/bricas)/[**cgi-application-photogallery**](https://github.com/bricas/cgi-application-photogallery)|module to provide a simple photo gallery|[:arrow_upper_right:](http://search.cpan.org/dist/CGI-Application-PhotoGallery/)|
 |3|[@bricas](https://github.com/bricas)/[**dbix-class-datetime-epoch**](https://github.com/bricas/dbix-class-datetime-epoch)|Automatic inflation/deflation of epoch-based DateTime objects for DBIx::Class|[:arrow_upper_right:](http://search.cpan.org/dist/DBIx-Class-DateTime-Epoch)|
+|3|[@bricas](https://github.com/bricas)/[**games-nes-rom**](https://github.com/bricas/games-nes-rom)|View information about an NES game from a ROM file|[:arrow_upper_right:](http://search.cpan.org/dist/Games-NES-ROM/)|
 |3|[@bricas](https://github.com/bricas)/[**image-ripscrip**](https://github.com/bricas/image-ripscrip)|Convert RIPscrip files to other formats||
 |3|[@bricas](https://github.com/bricas)/[**math-base36**](https://github.com/bricas/math-base36)|Encoding and decoding of base36 strings|[:arrow_upper_right:](http://metacpan.org/release/Math-Base36/)|
 |3|[@bricas](https://github.com/bricas)/[**sru-perl**](https://github.com/bricas/sru-perl)|A Perl module for interacting with Search and Retrieve by URL servers|[:arrow_upper_right:](http://metacpan.org/release/SRU)|

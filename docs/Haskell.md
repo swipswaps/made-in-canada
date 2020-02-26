@@ -1,7 +1,7 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|795|[@fosskers](https://github.com/fosskers)/[**aura**](https://github.com/fosskers/aura)|A secure, multilingual package manager for Arch Linux and the AUR.|[:arrow_upper_right:](https://gitter.im/aurapm/aura)|
-|202|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
+|804|[@fosskers](https://github.com/fosskers)/[**aura**](https://github.com/fosskers/aura)|A secure, multilingual package manager for Arch Linux and the AUR.|[:arrow_upper_right:](https://gitter.im/aurapm/aura)|
+|203|[@diogob](https://github.com/diogob)/[**postgres-websockets**](https://github.com/diogob/postgres-websockets)|PostgreSQL + Websockets|[:arrow_upper_right:](https://hackage.haskell.org/package/postgres-websockets)|
 |155|[@takeoutweight](https://github.com/takeoutweight)/[**shade**](https://github.com/takeoutweight/shade)|Interactive, client-side web apps in Haskell||
 |131|[@honza](https://github.com/honza)/[**redish**](https://github.com/honza/redish)|A multi-threaded, TCP, key-value store inspired by Redis implemented in Haskell.||
 |130|[@mvdan](https://github.com/mvdan)/[**hint**](https://github.com/mvdan/hint)|Runtime Haskell interpreter||
@@ -42,24 +42,26 @@
 |12|[@gregorycollins](https://github.com/gregorycollins)/[**attoparsec-iteratee**](https://github.com/gregorycollins/attoparsec-iteratee)|An adapter to convert attoparsec Parsers into blazing-fast Iteratees||
 |11|[@eschnett](https://github.com/eschnett)/[**mpi-hs**](https://github.com/eschnett/mpi-hs)|MPI bindings for Haskell||
 |11|[@fosskers](https://github.com/fosskers)/[**microlens-aeson**](https://github.com/fosskers/microlens-aeson)|Lenses and Traversals for Aeson, based on Microlens.||
+|11|[@singpolyma](https://github.com/singpolyma)/[**cheogram**](https://github.com/singpolyma/cheogram)|Groupchat for everyone|[:arrow_upper_right:](https://cheogram.com)|
 |10|[@JoeyEremondi](https://github.com/JoeyEremondi)/[**lambda-pi-constraint**](https://github.com/JoeyEremondi/lambda-pi-constraint)|||
 |10|[@avieth](https://github.com/avieth)/[**diplomacy**](https://github.com/avieth/diplomacy)|The board game Diplomacy, spoken in Haskell||
 |10|[@aycanirican](https://github.com/aycanirican)/[**hlibev**](https://github.com/aycanirican/hlibev)|FFI interface to libev||
 |10|[@fosskers](https://github.com/fosskers)/[**streaming-osm**](https://github.com/fosskers/streaming-osm)|A hand-written streaming byte parser for OpenStreetMap Protobuf data.||
-|10|[@singpolyma](https://github.com/singpolyma)/[**cheogram**](https://github.com/singpolyma/cheogram)|Groupchat for everyone|[:arrow_upper_right:](https://cheogram.com)|
 |9|[@avieth](https://github.com/avieth)/[**type-lambda**](https://github.com/avieth/type-lambda)|First-class type-level functions||
 |9|[@fosskers](https://github.com/fosskers)/[**nanq**](https://github.com/fosskers/nanq)|Haskell suite for determining what 級 (level) of the 漢字検定 (national Kanji exam) a given Kanji belongs to.||
 |9|[@gregorycollins](https://github.com/gregorycollins)/[**blaaargh**](https://github.com/gregorycollins/blaaargh)|A simple flatfile web content management system, written in Haskell + happstack|[:arrow_upper_right:](http://gregorycollins.net/)|
 |9|[@singpolyma](https://github.com/singpolyma)/[**OpenPGP-Haskell**](https://github.com/singpolyma/OpenPGP-Haskell)||[:arrow_upper_right:](http://hackage.haskell.org/package/openpgp)|
 |9|[@ujihisa](https://github.com/ujihisa)/[**haskell-workshop-project-eular**](https://github.com/ujihisa/haskell-workshop-project-eular)|||
+|8|[@alexstoick](https://github.com/alexstoick)/[**pandoc-docx-pagebreak**](https://github.com/alexstoick/pandoc-docx-pagebreak)|||
 |8|[@avieth](https://github.com/avieth)/[**type-function**](https://github.com/avieth/type-function)|Type-level functional programming||
 |8|[@bbc](https://github.com/bbc)/[**haskell-workshop**](https://github.com/bbc/haskell-workshop)|Haskell workshop that will hopefully contribute something back to the open-source community||
 |8|[@csabahruska](https://github.com/csabahruska)/[**GFXDemo**](https://github.com/csabahruska/GFXDemo)|||
 |8|[@csabahruska](https://github.com/csabahruska)/[**p4f-control-flow-analysis**](https://github.com/csabahruska/p4f-control-flow-analysis)|Haskell implementation of P4F Control-Flow Analysis||
+|8|[@danieljharvey](https://github.com/danieljharvey)/[**tmux-mate**](https://github.com/danieljharvey/tmux-mate)|Launch and manage your Tmux sessions from Dhall files.||
 |8|[@diogob](https://github.com/diogob)/[**haskell-tools**](https://github.com/diogob/haskell-tools)|Website to view haskell projects from Github|[:arrow_upper_right:](http://haskelltools.com)|
 |8|[@shepheb](https://github.com/shepheb)/[**go10c**](https://github.com/shepheb/go10c)|Compiler for a dialect of Go to DCPU-16 assembly||
 |7|[@Aiden01](https://github.com/Aiden01)/[**opal**](https://github.com/Aiden01/opal)|A statically-typed programming language that compiles to LLVM bytecode||
-|7|[@alexstoick](https://github.com/alexstoick)/[**pandoc-docx-pagebreak**](https://github.com/alexstoick/pandoc-docx-pagebreak)|||
+|7|[@danieljharvey](https://github.com/danieljharvey)/[**migratable**](https://github.com/danieljharvey/migratable)|Haskell library to ease the pain of versioning and migrating data types||
 |7|[@diogob](https://github.com/diogob)/[**pg-recorder**](https://github.com/diogob/pg-recorder)|Relay PostgreSQL notifications to user defined functions||
 |7|[@singpolyma](https://github.com/singpolyma)/[**mustache2hs**](https://github.com/singpolyma/mustache2hs)|An attempt to compile Mustache templates to Haskell code||
 |7|[@tpetricek](https://github.com/tpetricek)/[**Haskell.Joinads**](https://github.com/tpetricek/Haskell.Joinads)|Haskell implementation of Joinads|[:arrow_upper_right:](http://www.cl.cam.ac.uk/~tp322/papers/docase.html)|
@@ -68,7 +70,6 @@
 |6|[@avieth](https://github.com/avieth)/[**Relational**](https://github.com/avieth/Relational)|Relational database types for Haskell||
 |6|[@avieth](https://github.com/avieth)/[**reactive-dom**](https://github.com/avieth/reactive-dom)|Haskell web user interfaces over reactive-banana and ghcjs-dom||
 |6|[@csabahruska](https://github.com/csabahruska)/[**lambdacube-stunts**](https://github.com/csabahruska/lambdacube-stunts)|Remake of Stunts 4D Sports Driving in Haskell||
-|6|[@danieljharvey](https://github.com/danieljharvey)/[**migratable**](https://github.com/danieljharvey/migratable)|Haskell library to ease the pain of versioning and migrating data types||
 |6|[@diogob](https://github.com/diogob)/[**pasta**](https://github.com/diogob/pasta)|PostgreSQL AST Assembler||
 |6|[@fosskers](https://github.com/fosskers)/[**crypto-classical**](https://github.com/fosskers/crypto-classical)|A Haskell library for using and attacking Classical Encryption Schemes.||
 |6|[@gregorycollins](https://github.com/gregorycollins)/[**cabal2macpkg**](https://github.com/gregorycollins/cabal2macpkg)|A program to generate OSX installer files for Cabal libraries (Haskell Platform)||
@@ -105,6 +106,7 @@
 |3|[@larrytheliquid](https://github.com/larrytheliquid)/[**agda-rb**](https://github.com/larrytheliquid/agda-rb)|||
 |3|[@mabgnu](https://github.com/mabgnu)/[**blog-old**](https://github.com/mabgnu/blog-old)|Source code of a previous version of aminb.org||
 |3|[@samsymons](https://github.com/samsymons)/[**Playground**](https://github.com/samsymons/Playground)|A place to mess around with new languages.||
+|3|[@singpolyma](https://github.com/singpolyma)/[**OpenPGP-Crypto**](https://github.com/singpolyma/OpenPGP-Crypto)|Implementation of cryptography for use with OpenPGP using the Crypto library||
 |3|[@singpolyma](https://github.com/singpolyma)/[**simple-form-haskell**](https://github.com/singpolyma/simple-form-haskell)|||
 |3|[@singpolyma](https://github.com/singpolyma)/[**sock2stream**](https://github.com/singpolyma/sock2stream)|Tunnel a socket over a single datastream (stdin/stdout)||
 |3|[@singpolyma](https://github.com/singpolyma)/[**wai-hastache**](https://github.com/singpolyma/wai-hastache)|Nice wrapper around hastache for use with WAI|[:arrow_upper_right:](http://hackage.haskell.org/package/wai-hastache)|

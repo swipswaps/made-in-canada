@@ -5,7 +5,7 @@
 |41|[@hamaluik](https://github.com/hamaluik)/[**haxe-glm**](https://github.com/hamaluik/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |37|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**haxe-glm**](https://github.com/FuzzyWuzzie/haxe-glm)|Native Haxe functions for graphical linear algebra (à la GLM: https://github.com/g-truc/glm/tree/master/glm)||
 |30|[@ashes999](https://github.com/ashes999)/[**butterfly**](https://github.com/ashes999/butterfly)|Haxe generator for simple, static blogs.||
-|24|[@hamaluik](https://github.com/hamaluik)/[**headbutt**](https://github.com/hamaluik/headbutt)|A GJK and EPA collision engine made with pure Haxe.||
+|25|[@hamaluik](https://github.com/hamaluik)/[**headbutt**](https://github.com/hamaluik/headbutt)|A GJK and EPA collision engine made with pure Haxe.||
 |20|[@fserb](https://github.com/fserb)/[**sketch**](https://github.com/fserb/sketch)|game sketches|[:arrow_upper_right:](http://fserb.com/vault)|
 |19|[@underscorediscovery](https://github.com/underscorediscovery)/[**structural**](https://github.com/underscorediscovery/structural)|An unencumbered haxe data structures library||
 |16|[@FuzzyWuzzie](https://github.com/FuzzyWuzzie)/[**LuxeParticleDesigner**](https://github.com/FuzzyWuzzie/LuxeParticleDesigner)|A tool for quickly designing / tweaking particle systems in Luxe.||
@@ -36,6 +36,7 @@
 |9|[@starburst997](https://github.com/starburst997)/[**haxe-zip**](https://github.com/starburst997/haxe-zip)|Library to provide a cross-platform streaming Zip Writer / Reader experience.||
 |8|[@Ohmnivore](https://github.com/Ohmnivore)/[**ChopEngine**](https://github.com/Ohmnivore/ChopEngine)|A Haxe cross-platform 3D game engine built on top of Snow||
 |8|[@chfoo](https://github.com/chfoo)/[**seedyrng**](https://github.com/chfoo/seedyrng)|Pseudorandom number generator library for Haxe||
+|8|[@hamaluik](https://github.com/hamaluik)/[**benched**](https://github.com/hamaluik/benched)|A statistics-based benchmarking tool for Haxe, inspired by criterion||
 |8|[@underscorediscovery](https://github.com/underscorediscovery)/[**arguable**](https://github.com/underscorediscovery/arguable)|A simple `--argument value` parsing library for Haxe.||
 |8|[@underscorediscovery](https://github.com/underscorediscovery)/[**hxtypedarray**](https://github.com/underscorediscovery/hxtypedarray)|TypedArray implementation for haxe ||
 |8|[@underscorediscovery](https://github.com/underscorediscovery)/[**luxe-assetpacker**](https://github.com/underscorediscovery/luxe-assetpacker)|An asset packing tool for luxe and haxe projects||

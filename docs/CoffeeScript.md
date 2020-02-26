@@ -1,11 +1,11 @@
 |:star2: | Name | Description | 🌍|
 |---|---|---|---|
-|1473|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
-|1433|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )|[:arrow_upper_right:](http://unibeautify.com/)|
+|1474|[@jescalan](https://github.com/jescalan)/[**roots**](https://github.com/jescalan/roots)|a toolkit for rapid advanced front-end development|[:arrow_upper_right:](http://roots.netlify.com/)|
+|1436|[@Glavin001](https://github.com/Glavin001)/[**atom-beautify**](https://github.com/Glavin001/atom-beautify)|:lipstick: Universal beautification package for Atom editor (:warning: Currently migrating to https://github.com/Unibeautify/ and have very limited bandwidth for Atom-Beautify Issues. Thank you for your patience and understanding :heart: )|[:arrow_upper_right:](http://unibeautify.com/)|
 |427|[@keithamus](https://github.com/keithamus)/[**parallelshell**](https://github.com/keithamus/parallelshell)|Run multiple shell commands in parallel||
-|394|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls||
+|395|[@qq99](https://github.com/qq99)/[**echoplexus**](https://github.com/qq99/echoplexus)|Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls||
 |228|[@EtienneLem](https://github.com/EtienneLem)/[**skeleton**](https://github.com/EtienneLem/skeleton)|Express 3.0 framework-less app structure generator|[:arrow_upper_right:](http://etiennelem.github.com/skeleton)|
-|220|[@axiomzen](https://github.com/axiomzen)/[**Alike**](https://github.com/axiomzen/Alike)|A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances||
+|221|[@axiomzen](https://github.com/axiomzen)/[**Alike**](https://github.com/axiomzen/Alike)|A simple-but-useful kNN library for NodeJS, comparing JSON Objects using Euclidean distances||
 |209|[@fw42](https://github.com/fw42)/[**honeymap**](https://github.com/fw42/honeymap)|Real-time websocket stream of GPS events on a fancy SVG world map|[:arrow_upper_right:](http://map.honeynet.org/)|
 |203|[@benbria](https://github.com/benbria)/[**aliasify**](https://github.com/benbria/aliasify)|Rewrite require calls in browserify modules.||
 |198|[@adamhooper](https://github.com/adamhooper)/[**js-priority-queue**](https://github.com/adamhooper/js-priority-queue)|Priority queues in JavaScript||
@@ -57,10 +57,10 @@
 |17|[@davemo](https://github.com/davemo)/[**grunt-rails-asset-digest**](https://github.com/davemo/grunt-rails-asset-digest)|grunt-rails-asset-digest||
 |17|[@davemo](https://github.com/davemo)/[**jasmine-only**](https://github.com/davemo/jasmine-only)|Exclusivity spec helpers for jasmine that let you isolate spec runs to only one `describe` or `it`||
 |16|[@hansec](https://github.com/hansec)/[**autocomplete-fortran**](https://github.com/hansec/autocomplete-fortran)||[:arrow_upper_right:](https://atom.io/packages/autocomplete-fortran)|
-|16|[@james2doyle](https://github.com/james2doyle)/[**atom-jquery-snippets**](https://github.com/james2doyle/atom-jquery-snippets)|This is a snippets package for Atom. It is a conversion of an old jQuery snippets for sublime text.||
 |16|[@kmalakoff](https://github.com/kmalakoff)/[**easy-bake**](https://github.com/kmalakoff/easy-bake)|EasyBake enables CoffeeScript/JavaScript file-based configuration for your CoffeeScript library management needs (coffee compiling, compression, joining CoffeeScript + JavaScript files, headless testing for QUnit/Jasmine/NodeUnit, client/server version testing, etc).||
+|15|[@james2doyle](https://github.com/james2doyle)/[**atom-jquery-snippets**](https://github.com/james2doyle/atom-jquery-snippets)|This is a snippets package for Atom. It is a conversion of an old jQuery snippets for sublime text.||
+|15|[@seblavoie](https://github.com/seblavoie)/[**adobe-illustrator-layer-renamer**](https://github.com/seblavoie/adobe-illustrator-layer-renamer)|Adobe Illustrator script to batch rename layers.||
 |14|[@fictorial](https://github.com/fictorial)/[**chat-server**](https://github.com/fictorial/chat-server)|A multi-user chat TCP/IP server. Everyone has a chat server and this one is mine.||
-|14|[@seblavoie](https://github.com/seblavoie)/[**adobe-illustrator-layer-renamer**](https://github.com/seblavoie/adobe-illustrator-layer-renamer)|Adobe Illustrator script to batch rename layers.||
 |13|[@RobLoach](https://github.com/RobLoach)/[**docpad-plugin-grunt**](https://github.com/RobLoach/docpad-plugin-grunt)|:boar: Run Grunt.js tasks when building with DocPad|[:arrow_upper_right:](http://gruntjs.com)|
 |13|[@jescalan](https://github.com/jescalan)/[**atom-fold-comments**](https://github.com/jescalan/atom-fold-comments)|Quick toggling of all block comments in atom||
 |13|[@mojio](https://github.com/mojio)/[**mojio-js**](https://github.com/mojio/mojio-js)|Javascript node-js and browser clients for Mojio connected car technology.||
@@ -115,6 +115,7 @@
 |5|[@radekstepan](https://github.com/radekstepan)/[**grunt-sandbox-css**](https://github.com/radekstepan/grunt-sandbox-css)|Sandbox a CSS library by prefixing its selectors||
 |5|[@rowanmanning](https://github.com/rowanmanning)/[**express-coffee-template**](https://github.com/rowanmanning/express-coffee-template)|[UNMAINTAINED] An Express + CoffeeScript + Mustache application template for Node||
 |5|[@rowanmanning](https://github.com/rowanmanning)/[**hubot-dogeme**](https://github.com/rowanmanning/hubot-dogeme)|Wow. Such Doge. So Hubot.||
+|5|[@seblavoie](https://github.com/seblavoie)/[**adobe-illustrator-sublayers-cleaner**](https://github.com/seblavoie/adobe-illustrator-sublayers-cleaner)|Adobe Illustrator script to cleanup sublayers.||
 |5|[@seblavoie](https://github.com/seblavoie)/[**esy**](https://github.com/seblavoie/esy)|A tiny ExtendScript helpers library||
 |4|[@EtienneLem](https://github.com/EtienneLem)/[**opencode-css-animations**](https://github.com/EtienneLem/opencode-css-animations)|OpenCode 5th edition: CSS Animations|[:arrow_upper_right:](http://etiennelem.github.com/opencode-css-animations)|
 |4|[@Glavin001](https://github.com/Glavin001)/[**atom-coffeescript-preview**](https://github.com/Glavin001/atom-coffeescript-preview)|DEPRECATED: Preview what your CoffeeScript will look like as JavaScript|[:arrow_upper_right:](https://atom.io/packages/coffeescript-preview)|
@@ -133,7 +134,6 @@
 |4|[@omenking](https://github.com/omenking)/[**angular-restful-resource**](https://github.com/omenking/angular-restful-resource)|Rails like routes in your angular services hooray!||
 |4|[@radekstepan](https://github.com/radekstepan)/[**ldjson-to-couchdb**](https://github.com/radekstepan/ldjson-to-couchdb)|Pipe STDIN in LDJSON format to CouchDB||
 |4|[@ryanjones](https://github.com/ryanjones)/[**batman.utilitybelt**](https://github.com/ryanjones/batman.utilitybelt)|A Utility Library for batman.js||
-|4|[@seblavoie](https://github.com/seblavoie)/[**adobe-illustrator-sublayers-cleaner**](https://github.com/seblavoie/adobe-illustrator-sublayers-cleaner)|Adobe Illustrator script to cleanup sublayers.||
 |4|[@stewart](https://github.com/stewart)/[**weather**](https://github.com/stewart/weather)|Basic weather app using HTML5 Geolocation|[:arrow_upper_right:](http://weather.andrew-stewart.ca/)|
 |4|[@travisjeffery](https://github.com/travisjeffery)/[**hal**](https://github.com/travisjeffery/hal)|Campfire bot.||
 |4|[@unframework](https://github.com/unframework)/[**dtmf-detect**](https://github.com/unframework/dtmf-detect)|WebAudio demo to detect touch-tone DTMF codes (phone keys)|[:arrow_upper_right:](https://unframework.github.io/dtmf-detect/)|
